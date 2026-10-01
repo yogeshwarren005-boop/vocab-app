@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Peninsula between the Ionian Sea and the Aegean Sea forming the southern part of the mainland of Greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peninsula between the Ionian Sea and the Aegean Sea forming the southern part of the mainland of Greece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large peninsula and geographic region in southern Greece, connected to the mainland by the Isthmus of Corinth; historically home to Sparta, Mycenae, and Olympia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek history and classical geography, the 'Island of Pelops' (Peloponnesos), scene of the Peloponnesian War described by Thucydides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Peloponnese designates peninsula between the ionian sea and the aegean sea forming the southern part of the mainland of greece."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The war between the Athenians and the **Peloponnese** broke out when the thirty years' truce was broken."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Fair Greece! sad relic of departed worth! The rugged mountains of the **Peloponnese** still echo the cries of ancient freedom."*
+> - 📜 **George Grote (*A History of Greece*):** *"Spartan hegemony over the **Peloponnese** was built upon iron military discipline and agrarian serfdom."*

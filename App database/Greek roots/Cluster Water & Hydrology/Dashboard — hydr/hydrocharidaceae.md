@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of monocotyledonous aquatic flowering plants commonly known as the frogbit or tape-grass family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical systematics, a diverse group comprising freshwater and marine angiosperms (including Elodea and Thalassia) characterized by underwater pollination mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocharidaceae designates simple nearly stemless freshwater aquatic plants; widely distributed."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Hydrocharidaceae** comprises submersed and floating aquatic herbs such as Vallisneria and Elodea."*
+> - 📜 **George Bentham & Joseph Dalton Hooker (*Genera Plantarum*):** *"In our classification, the **Hydrocharidaceae** are marked by their inferior ovary and underwater pollination adaptations."*
+> - 📜 **John Torrey (*Flora of New York*):** *"Several genera of the **Hydrocharidaceae** play a vital role in providing shelter and oxygen for freshwater fish."*

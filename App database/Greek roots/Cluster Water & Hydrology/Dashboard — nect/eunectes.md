@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anacondas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anacondas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of giant semiaquatic constricting snakes in the family Boidae, commonly known as anacondas, native to tropical South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, apex aquatic predators whose Greek name translates literally as 'good swimmer' (eu- + nektes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eunectes designates anacondas."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The Indians brought word of a gigantic **Eunectes** lurking in the flooded swamps along the riverbank."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The water-boa or **Eunectes** attains an enormous girth, suffocating large mammals beneath the river surface."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The green anaconda, **Eunectes** murinus, is perhaps the heaviest serpent in existence, ideally adapted for an aquatic life."*

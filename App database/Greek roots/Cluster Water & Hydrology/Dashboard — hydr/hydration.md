@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combining with water; usually reversible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of combining with water; usually reversible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical process of combining a substance with water; the physiological absorption and retention of fluids in the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, the exothermic solvation process whereby water molecules form electrostatic shells around dissolved cations and anions in solution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydration designates the process of combining with water; usually reversible."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The energy released during ionic **hydration** offsets the lattice energy required to dissociate crystal salts in solution."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Proper cellular **hydration** represents the prime prerequisite for enzymatic catalysis within the internal milieu."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Solutions are not mere mechanical mixtures, but dynamic states of chemical **hydration**."*

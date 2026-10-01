@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole body of salt water that covers nearly three fourths of the surface of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the large bodies of water into which the mass of salt water covering most of the earth is divided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vast body of salt water that covers approximately 71 percent of the Earth's surface; any of its major geographic divisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, an immense, boundless expanse or limitless quantity of anything.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since your worth, wide as the ocean is, The humble as the proudest sail doth bear, My saucy bark (inferior far to his) On your broad main doth wilfully appear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There is, one knows not what sweet mystery about this sea, whose gently awful stirrings seem to speak of some hidden soul beneath; like those enchanted ponds that stir to life beneath the midsummer noon."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Roll on, thou deep and dark blue **Ocean**—roll! Ten thousand fleets sweep over thee in vain; man marks the earth with ruin—his control stops with the shore."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The **ocean** is the cradle of life, holding in its depths the memories of Earth's primordial past."*

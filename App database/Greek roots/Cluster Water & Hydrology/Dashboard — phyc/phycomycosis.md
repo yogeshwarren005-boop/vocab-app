@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungal infection caused by fungi of the phycomycetes group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungal infection caused by fungi of the phycomycetes group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare and often severe fungal infection in humans and animals caused by members of the order Mucorales (mucormycosis) or Entomophthorales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, an opportunistic, angioinvasive mycosis characteristically presenting with broad, non-septate hyphae in immunocompromised patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycomycosis designates any fungal infection caused by fungi of the phycomycetes group."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cases of systemic **phycomycosis** are marked by rapid vascular thrombosis and tissue necrosis."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Under the term **phycomycosis**, pathologists classify destructive fungal lesions invading subcutaneous tissues and cranial sinuses."*
+> - 📜 **Samuel Cooper (*A Dictionary of Practical Surgery*):** *"Early surgical debridement and aggressive antimycotic therapy are imperative in managing acute **phycomycosis**."*

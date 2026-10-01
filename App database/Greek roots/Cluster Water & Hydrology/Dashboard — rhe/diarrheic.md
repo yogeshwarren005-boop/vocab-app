@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to diarrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to diarrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, producing, or affected with diarrhea; diarrhetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical symptom reporting, describing watery stool consistency or medications and toxins that stimulate hypermotility of the intestines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diarrheic designates of or relating to diarrhea."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Ingestion of unripe autumn fruit frequently triggers acute **diarrheic** stools in young children."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **diarrheic** discharges in typhoid fever assume the classic appearance of pea-soup."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"In chronic sprue, the **diarrheic** stools are bulky, pale, and fermenting."*

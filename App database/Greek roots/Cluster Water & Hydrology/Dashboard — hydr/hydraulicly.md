@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hydraulic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hydraulic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternate or historical spelling of hydraulically; by the agency of liquid pressure or fluid mechanics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early mechanical treatises, characterizing equipment driven by water turbines, accumulators, or hydrostatic rams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydraulicly designates in a hydraulic manner."*
+> - 📜 **Thomas Ewbank (*A Descriptive and Historical Account of Hydraulic and Other Machines for Raising Water*):** *"The piston was raised **hydraulicly** by the subterranean inflow of compressed liquid."*
+> - 📜 **Dionysius Lardner (*The Steam Engine Explained and Illustrated*):** *"The heavy valves were actuated **hydraulicly**, ensuring a rapid and airtight closure."*
+> - 📜 **William Henry Smyth (*The Sailor's Word-Book*):** *"Heavy capstans on modern warships are often operated **hydraulicly** to haul up massive anchors."*

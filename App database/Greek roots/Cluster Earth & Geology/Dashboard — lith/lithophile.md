@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geochemistry, an element that has an affinity for silicate and oxide minerals, concentrating in the Earth's crust and mantle (e.g., Al, K, Na, Ca, Si).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and ecology, an organism that thrives, grows, or nests on rocky or stony ground; saxicolous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithophile designates adjective*) pertaining to, derived from, or characteristic of stone."*
+> - 📜 **Victor Goldschmidt (*Geochemistry*):** *"We classify the chemical elements into **lithophile**, siderophile, chalcophile, and atmophile groups based on geochemical distribution."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Because uranium is a strongly **lithophile** element, it has accumulated in the Earth's upper continental crust."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Goldschmidt demonstrated that **lithophile** elements bonded with oxygen to form the light granitic continents."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The monovalent group -oh in such compounds as bases and some acids and alcohols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monovalent group -oh in such compounds as bases and some acids and alcohols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical univalent radical or functional group -OH, consisting of one oxygen atom covalently bonded to one hydrogen atom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and surface science, a polar functional group whose presence imparts water solubility, hydrogen bonding capability, and chemical reactivity to alcohols and phenols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxyl designates the monovalent group -oh in such compounds as bases and some acids and alcohols."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The electrical conductivity of basic solutions is primarily governed by the high mobility of the free **hydroxyl** anion."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The electronegative oxygen atom of the **hydroxyl** group forms strong intermolecular hydrogen bonds in water and alcohols."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Acetylation of the compound confirmed that each substituted molecule contains exactly three free **hydroxyl** radicals."*

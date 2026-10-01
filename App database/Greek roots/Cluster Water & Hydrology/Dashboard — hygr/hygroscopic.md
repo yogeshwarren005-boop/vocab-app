@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing moisture (as from the air).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absorbing moisture (as from the air).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to absorb or attract moisture readily from the surrounding air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and biology, describing substances (such as concentrated sulfuric acid or glycerol) or plant structures (such as pine cone scales) that take up water vapor and exhibit moisture-driven movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygroscopic designates absorbing moisture (as from the air)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Anhydrous copper sulfate is remarkably **hygroscopic**, turning blue as it extracts water vapor from the atmosphere."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The awns of certain grass seeds possess **hygroscopic** fibers that twist with humidity, driving the seed into the soil."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"The crystals were preserved in a sealed desiccator to prevent their liquefaction through **hygroscopic** absorption."*

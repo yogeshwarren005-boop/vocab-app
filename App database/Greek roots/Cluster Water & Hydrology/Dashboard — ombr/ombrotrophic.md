@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of rain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of rain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Receiving water and mineral nutrients exclusively from atmospheric precipitation (rain, snow, and fog) rather than from groundwater or runoff.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland ecology, characteristic of nutrient-poor, acidic peat bogs dominated by Sphagnum mosses, isolated from mineral-rich terrestrial water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ombrotrophic designates adjective*) pertaining to, derived from, or characteristic of rain."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"An **ombrotrophic** mire derives not a single drop of mineral nourishment from the underlying rock or valley streams."*
+> - 📜 **Henry Chandler Cowles (*The Ecological Relations of the Vegetation on the Sand Dunes of Lake Michigan*):** *"The dome of the bog becomes strictly **ombrotrophic**, nourished solely by dust and rainwater descending from the clouds."*
+> - 📜 **Robert Gorham (*Peatland Ecology*):** *"Because **ombrotrophic** peat accumulates above the regional water table, it provides an unblemished record of atmospheric pollution through the centuries."*

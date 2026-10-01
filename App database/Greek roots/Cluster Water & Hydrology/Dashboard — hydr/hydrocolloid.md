@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that forms a gel with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that forms a gel with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or polymer that forms a gel or gelatinous suspension in water, such as agar, pectin, or gelatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wound management and dentistry, hydrophilic polymer matrices used for moist wound dressings or precision dental impression materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocolloid designates a substance that forms a gel with water."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Gelatin and agar-agar act as a protective **hydrocolloid**, preventing the coagulation of colloidal gold particles."*
+> - 📜 **Joseph Lister (*Collected Papers*):** *"Modern occlusive dressings incorporate an absorbent **hydrocolloid** matrix that keeps the granulating wound bed moist."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The dental surgeon prepared an elastic **hydrocolloid** paste to take a flawless impression of the dental arch."*

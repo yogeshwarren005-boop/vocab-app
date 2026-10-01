@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pelag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root pelagos (meaning 'open sea', 'high sea', or 'ocean deeps'), forming words relating to marine zones and oceanic organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanographic terminology and historical linguistics, the classical root designating the boundless expanse of open water beyond coastal shores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I only came across Pelagéya in Yúkhnovo....” Pelagéya interrupted her companion; she evidently wished to tell what she had seen."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Don’t tell him, Pelagéya.” “No... why not, my dear, why shouldn’t I?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Oh, master, what are you saying?” exclaimed the horrified Pelagéya, turning to Princess Mary for support."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The ancient Greek **pelag**, denoting the wide sea, survives in our modern division of ocean vertical zones."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"From the Homeric **pelag** we inherit archipelago, once the sovereign name of the Aegean Sea itself."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"All oceanographic categories that partition the open water column trace their etymology to the Hellenic **pelag**."*

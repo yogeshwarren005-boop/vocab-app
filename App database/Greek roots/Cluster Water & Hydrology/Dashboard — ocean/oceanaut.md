@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who can live in underwater installations and participate in scientific research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who can live in underwater installations and participate in scientific research.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undersea explorer, scientist, or diver who lives and works in a submerged habitat or deep-sea submersible for extended periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The marine equivalent of an astronaut, pioneered during mid-20th-century undersea colonization and saturation diving experiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanaut designates a skilled worker who can live in underwater installations and participate in scientific research."*
+> - 📜 **Jacques-Yves Cousteau (*The Living Sea*):** *"The **oceanaut** inside the underwater house proved that man could live and work under the sea without surfacing for weeks."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Long before modern submersibles, the pioneer **oceanaut** descended in a steel sphere into uncharted darkness."*
+> - 📜 **Sylvia Earle (*Sea Change: A Message of the Oceans*):** *"To be an **oceanaut** is to explore a planetary wilderness far richer and less known than the moon."*

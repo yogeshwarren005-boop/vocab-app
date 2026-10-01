@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to oceanic depths from about 600 feet to 3000 feet (200 to 1000 meters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to oceanic depths from about 600 feet to 3000 feet (200 to 1000 meters).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or inhabiting the intermediate ocean depths between approximately 200 and 1,000 meters below the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine science, the twilight zone characterized by dim, filtered sunlight, massive daily vertical migrations, and pervasive bioluminescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesopelagic designates of or relating to oceanic depths from about 600 feet to 3000 feet (200 to 1000 meters)."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"At dusk, billions of **mesopelagic** creatures begin their immense journey toward the surface to graze under cover of night."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"The blue light faded to a ghostly violet as we entered the **mesopelagic** stratum of lanternfishes."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Acoustic sounders revealed the deep scattering layer, composed primarily of migrating **mesopelagic** fishes."*

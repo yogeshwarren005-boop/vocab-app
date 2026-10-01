@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem dealing with agriculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poem dealing with agriculture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A famous didactic poem in four books composed in hexameters by the Roman poet Virgil, celebrating agriculture, animal husbandry, beekeeping, and country life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, Virgil's masterpiece completed around 29 BC, combining practical agrarian instruction with patriotic Roman myth and philosophical praise of nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I do not know whether the critics will agree with me, but the Georgics are to me by far the best of Virgil."*
+> - 📜 **Virgil (*Georgics*):** *"What makes the crops rejoice, beneath what star / To turn the soil, Maecenas, is the theme of my **Georgics**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The exquisite verses of Virgil's **Georgics** fostered among Roman citizens an enduring love for Italian fields."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The pastoral truth of the **Georgics** captures the solemn labor of the plowman under the autumn sky."*

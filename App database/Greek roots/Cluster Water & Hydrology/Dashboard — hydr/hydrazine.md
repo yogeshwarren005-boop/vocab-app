@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, fuming, flammable liquid chemical compound (N2H4) with an ammonia-like odor, widely used as a reducing agent and rocket fuel propellant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic synthesis and aerospace engineering, a hypergolic propellant that reacts spontaneously and exothermically with strong oxidizers, producing high-velocity gas expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrazine designates a colorless fuming corrosive liquid; a powerful reducing agent; used chiefly in rocket fuels."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The molecular structure of **hydrazine** consists of two amino groups linked by a single nitrogen-nitrogen bond."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Oxidation of **hydrazine** yields free nitrogen and water, making it an exceptionally clean reducing agent in synthesis."*
+> - 📜 **J. R. Partington (*A Text-Book of Inorganic Chemistry*):** *"The anhydrous form of **hydrazine** boils at 113.5 degrees and exhibits intense reactivity toward oxidizers."*

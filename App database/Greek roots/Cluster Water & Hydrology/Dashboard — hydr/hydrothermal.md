@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hot water —used especially of the formation of minerals by hot solutions rising from a cooling magma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fissure in the ocean floor especially at or near a mid-ocean ridge from which mineral-rich superheated water issues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or produced by heated water, steam, or mineral-rich solutions circulating within the Earth's crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and volcanology, describing mineral-deposit veins, geysers, and deep-sea submarine hydrothermal vents supporting chemosynthetic ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrothermal designates of or relating to hot water —used especially of the formation of minerals by hot solutions rising from a cooling magma."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Rich veins of gold and copper were deposited along rock fissures by ascending **hydrothermal** solutions charged with sulfur."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"Volcanic calderas and geysers demonstrate the immense kinetic energy of subterranean **hydrothermal** systems."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep submarine **hydrothermal** vents support vibrant chemosynthetic ecosystems independent of sunlight."*

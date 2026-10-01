@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Humidity : moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humidity : moisture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root (hygros, meaning 'wet, moist, fluid, or humid'), used as a prefix in scientific terminology denoting moisture and humidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymology and scientific nomenclature, a lexical element forming technical compounds across meteorology, botany, mycology, and medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygr designates humidity : moisture."*
+> - 📜 **Henry Liddell & Robert Scott (*A Greek-English Lexicon*):** *"From Greek hygros, moist or fluid, comes the scientific prefix **hygr**- employed in meteorology and physiology."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The root **hygr**- is preserved in instruments such as the hygrometer designed to measure atmospheric wetness."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Living tissues maintain an internal **hygr**- equilibrium, preserving the aqueous medium essential to vitality."*

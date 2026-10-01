@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to baptism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to baptism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or used in the sacrament of baptism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with initial naming, religious regeneration, or dedication (such as a baptismal font, robe, or register).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then you wind a rope round the stick and give the two ends of the rope to two persons who must either be brothers or have the same baptismal name."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ego non baptizo te in nomine patris, sed in nomine diaboli!” deliriously howled Ahab, as the malignant iron scorchingly devoured the baptismal blood."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It must, even as a baptismal fire, so purge its members from self as to enable them to scale heights never as yet attained."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ego non baptizo te in nomine patris, sed in nomine diaboli! deliriously howled Ahab, as the malignant iron scorchingly devoured the **baptismal** blood."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The clergyman had given him his **baptismal** name before the whole congregation in the meetinghouse."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The intricate carving around the **baptismal** font exhibited the master craftsmanship of the Venetian sculptors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to diarrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to diarrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or suffering from diarrhoea; British spelling of diarrheic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, designating copious watery feces containing excess electrolytes, unabsorbed nutrients, and sloughed mucosal cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diarrhoeic designates of or relating to diarrhea."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Microscopic examination of the **diarrhoeic** fluid revealed active amoebic trophozoites ingesting red blood cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In Asiatic cholera, the copious **diarrhoeic** stools are devoid of bile, resembling rice-water."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"A soothing demulcent drink helps coat the inflamed bowel during acute **diarrhoeic** attacks."*

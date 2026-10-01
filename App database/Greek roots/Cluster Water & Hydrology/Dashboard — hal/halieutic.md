@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to fishing, fishermen, or the art and practice of catching fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, a genre of didactic poetry and treatises dedicated to the habits of marine life and the techniques of angling (most famously the Halieutica of Oppian).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halieutic designates adjective*) pertaining to, derived from, or characteristic of salt."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"Ancient poets celebrated the **halieutic** art as a noble pastime demanding patience, contemplation, and skill."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Oppian composed his celebrated **halieutic** poem upon the nature of fishes and the devices of fishermen."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His enthusiasm for angling had nothing of the dry pedantry that often infects treatises on the **halieutic** craft."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ombr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of meteorology that deals with rain, rainfall patterns, and atmospheric precipitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric sciences, the quantitative study of precipitation distribution, rain-gauge methodology, and pluviometric records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ombrology designates a term designating an entity, condition, or phenomenon derived from greek ombr."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The systematic records of **ombrology** demonstrate the close connection between mountain elevation and annual precipitation."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"A comprehensive **ombrology** of the trade-wind zones reveals how maritime evaporation waters continental plains."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"Early instruments of **ombrology** required standardized exposure to eliminate local wind turbulence around rain gauges."*

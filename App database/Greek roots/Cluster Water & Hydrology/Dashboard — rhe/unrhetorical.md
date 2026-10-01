@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not rhetorical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not rhetorical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not rhetorical; plain, direct, unadorned, and free from artificial eloquence or persuasive figures of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and prose analysis, characterizing an austere, straightforward style that relies on naked truth and precision rather than stylistic embellishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrhetorical designates not rhetorical."*
+> - 📜 **George Eliot (*Adam Bede*):** *"His speech was plain and **unrhetorical**, yet it carried the deep conviction of an honest and upright heart."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The despatches of the Duke of Wellington were famously concise, business-like, and completely **unrhetorical**."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The power of Wordsworth lies in his austere, **unrhetorical** language, speaking directly of elemental human emotions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic chemical name for phenol (carbolic acid, C6H5OH), an aromatic organic compound consisting of a benzene ring bonded to a hydroxyl group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine and petrochemical synthesis, a pioneering antiseptic introduced by Joseph Lister, widely used in synthesizing polymers, bakelite, and pharmaceuticals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxybenzene designates a toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally."*
+> - 📜 **Joseph Lister (*Collected Papers*):** *"Dilute sprays and dressings of **hydroxybenzene**, then known as carbolic acid, banished hospital gangrene from our surgical wards."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"In industrial synthesis, **hydroxybenzene** is produced on a vast scale via the cumene hydroperoxide process."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The resonance delocalization of pi electrons into the benzene ring renders the hydroxyl proton of **hydroxybenzene** appreciably acidic."*

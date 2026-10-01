@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of hydrography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of hydrography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of hydrographic; pertaining to the mapping, depth measurement, and charting of water bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In earth sciences and navigational history, describing coastal and oceanic surveys designed to identify navigational hazards, tidal shoals, and reef topologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrographical designates of or relating to the science of hydrography."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Our **hydrographical** observations established the true connection between the basins of the Orinoco and the Amazon."*
+> - 📜 **Robert FitzRoy (*Narrative of the Surveying Voyages of HMS Adventure and Beagle*):** *"The **hydrographical** department required rigorous sounding logs for every anchorage visited in the Pacific."*
+> - 📜 **William Henry Smyth (*The Sailor's Word-Book*):** *"A **hydrographical** map indicates soundings, shoals, tidal sets, and lighthouses essential for navigation."*

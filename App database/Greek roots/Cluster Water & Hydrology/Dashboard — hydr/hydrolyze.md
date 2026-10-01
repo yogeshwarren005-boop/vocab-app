@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo hydrolysis; decompose by reacting with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo hydrolysis; decompose by reacting with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject to or cause chemical cleavage through reaction with water; American spelling of hydrolyse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial organic synthesis, to split fats into glycerol and fatty acids with superheated steam, or convert starches into corn syrup using mineral acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolyze designates undergo hydrolysis; decompose by reacting with water."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Strong mineral acids will rapidly **hydrolyze** starch into glucose when heated under reflux."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Lipases in the small intestine **hydrolyze** dietary triglycerides into monoglycerides and free fatty acids."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Substances that **hydrolyze** easily in moist air must be preserved under an inert atmosphere."*

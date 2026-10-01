@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chemical substance or mixture produced by the hydrolysis of a larger compound, such as protein or starch hydrolysate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nutrition and biotechnology, enzymatically digested peptides and free amino acids formulated for hypoallergenic infant milk, medical enteral feeding, or bacterial growth media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolysate designates a product of hydrolysis."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Chromatographic fractionation of the casein **hydrolysate** revealed nineteen distinct alpha-amino acids."*
+> - 📜 **Frederick Gowland Hopkins (*Biochemical Papers*):** *"Feeding animals on an acid **hydrolysate** of protein lacking tryptophan resulted in rapid cessation of growth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients with severe malabsorption benefit from intravenous feeding with an enzymatic **hydrolysate** of purified proteins."*

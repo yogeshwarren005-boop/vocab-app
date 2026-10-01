@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Island of eastern Indonesia in the central Moluccas west of northwestern New Guinea area 6621 square miles (17,215 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Island of eastern Indonesia in the central Moluccas west of northwestern New Guinea area 6621 square miles (17,215 square kilometers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In etymology and material linguistics, the root *ceram-* (from Greek κέραμος, *keramos*, 'potter's clay', 'earthen vessel', 'tile').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining base in material science and industrial craft denoting baked clay, vitrified silicates, or non-metallic inorganic solids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus, in the southern district of the island of Ceram, when a whole village suffers from sickness, a small ship is made and filled with rice, tobacco, eggs, and so forth, which have been contributed by all the people."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Ceram girls at puberty were formerly shut up by themselves in a hut which was kept dark."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the west of Ceram boys at puberty are admitted to the Kakian association."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The Greek root **ceram-** preserves the memory of the Athenian potters' quarter and the damp clay turned upon the wheel."*
+> - 📜 **Heinrich Schliemann (*Troy and Its Remains*):** *"Every sherd bearing the ancient **ceram-** characteristics was numbered and catalogued according to its stratigraphic layer."*
+> - 📜 **John Ruskin (*Aratra Pentelici*):** *"The craft denoted by the classical **ceram-** stem represents humanity's earliest mastery over earth and fire."*

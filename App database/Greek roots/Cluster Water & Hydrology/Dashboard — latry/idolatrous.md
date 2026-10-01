@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or practicing idolatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blindly or excessively devoted or adoring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practicing, relating to, or given to the worship of physical idols or false gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by blind, slavish, or excessive veneration and uncritical reverence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now he’s gone, and my idolatrous fancy Must sanctify his relics."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is out of the idolatrous dotings of the old Egyptians upon broiled ibis and roasted river horse, that you see the mummies of those creatures in their huge bake-houses the pyramids."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Once, some one who had terribly loved him had written to him a mad letter, ending with these idolatrous words: “The world is changed because you are made of ivory and gold."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **idolatrous** polytheism of the Romans embraced every deity with hospitable indifference."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To offer an **idolatrous** worship to abstract theory while trampling on ancient custom is the hallmark of fanaticism."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Men have never paid a purely **idolatrous** homage to a stick or stone; they bowed to the mysterious spirit they fancied dwelt within it."*

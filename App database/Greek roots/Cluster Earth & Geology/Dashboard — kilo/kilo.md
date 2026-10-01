@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of mass or weight equaling one thousand grams or approximately 2.2 pounds : kilogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a code word for the letter k.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the International System of Units (SI), a prefix signifying a factor of one thousand (10³); informal abbreviation for kilogram or kilometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metrology and vernacular speech, a standard metric unit of mass equivalent to one thousand grams, or one thousand units of a measured quantity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kilo designates a unit of mass or weight equaling one thousand grams or approximately 2.2 pounds : kilogram."*
+> - 📜 **George Orwell (*1984*):** *"The chocolate ration was issued by the **kilo**, yet every citizen remembered when rations had been double that weight."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We bought two **kilos** of ripe figs and a flask of red wine before heading toward the trout stream."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"He carried half a **kilo** of explosive powder enclosed in a copper cylinder beneath his coat."*

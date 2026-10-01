@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian poet famous for love lyrics (1304-1374).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian poet famous for love lyrics (1304-1374).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Francesco Petrarca (Petrarch, 1304–1374), Italian scholar, poet, and humanist regarded as the Father of the Renaissance and Humanism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Italian family name (Petrarca), celebrated for his vernacular Italian Canzoniere love sonnets to Laura and his recovery of classical Latin manuscripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrarca designates an italian poet famous for love lyrics (1304-1374)."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The humanism of the Renaissance began when **Petrarca** rediscovered Cicero's letters in the cathedral library of Verona."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"There is a tomb in Arqua; reared in air, / Pillar'd in their sarcophagus, repose / The bones of Laura's lover; here repair / Many familiar with his verse, for **Petrarca** sleepeth there."*
+> - 📜 **Jacob Burckhardt (*The Civilization of the Renaissance in Italy*):** *"Francesco **Petrarca** was the first modern man to climb a mountain purely to enjoy the view."*

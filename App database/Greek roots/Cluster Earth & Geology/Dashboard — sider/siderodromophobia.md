@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sider.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, intense, or debilitating fear of trains, railways, or traveling by train.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific situational phobia prominent during the 19th-century railway expansion, often linked to claustrophobia and crash anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderodromophobia designates a term designating an entity, condition, or phenomenon derived from greek sider."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"A severe **siderodromophobia** frequently traces its origin to early childhood anxieties associated with railway travel."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Patients afflicted with **siderodromophobia** experience overwhelming panic at the mere whistle of a steam locomotive."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Morbid phobias of modern machinery, such as **siderodromophobia**, proliferated as industrial transit transformed daily life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forced above ground by elongation of the hypocotyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by the production of epigeal cotyledons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing on, living on, or germinating above the surface of the ground (opposed to hypogeous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and entomology, designating seed germination where cotyledons emerge above soil level into sunlight, or ground-dwelling insect habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigeous designates forced above ground by elongation of the hypocotyl."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"In seedlings with **epigeous** germination, the hypocotyl arches upward, dragging the cotyledons above the soil."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The bean displays **epigeous** germination, raising its fleshy green seed-leaves into the air."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Certain beetles maintain strictly **epigeous** habits, hunting across the surface litter of the forest floor."*

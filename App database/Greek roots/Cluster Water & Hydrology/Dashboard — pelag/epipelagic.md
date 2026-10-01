@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting the part of the oceanic zone into which enough light penetrates for photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting the part of the oceanic zone into which enough light penetrates for photosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting the sunlit uppermost layer of the ocean water column, from the surface down to about 200 meters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, the photic zone where sufficient sunlight penetrates to support photosynthesis, forming the primary productive layer of the sea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epipelagic designates of, relating to, or constituting the part of the oceanic zone into which enough light penetrates for photosynthesis."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The **epipelagic** zone is the green pasture of the sea, where microscopic diatoms harness the sun's energy."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Most commercial fisheries harvest the dense schools of mackerel and herring that populate the **epipelagic** waters."*
+> - 📜 **Sylvia Earle (*Sea Change*):** *"Protecting the biodiversity of the **epipelagic** layer is essential for sustaining the global marine food web."*

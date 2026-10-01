@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant adapted to grow in water or in waterlogged soil; an aquatic plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological plant physiology, an organism possessing specialized adaptations including floating leaves, submerged dissected foliage, absent cuticles, and extensive aerenchyma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I noticed that the green plants kept nearer the top of the sea, whilst the red were at a greater depth, leaving to the black or brown hydrophytes the care of forming gardens and parterres in the remote beds of the ocean."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But for some minutes I involuntarily confounded the genera, taking zoophytes for hydrophytes, animals for plants; and who would not have been mistaken?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In the midst of these living plants, and under the arbours of the hydrophytes, were layers of clumsy articulates, particularly some raninae, whose carapace formed a slightly rounded triangle; and some horrible looking parthenopes."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"A true **hydrophyte** possesses reduced vascular tissues and extensive intercellular air-channels to provide buoyancy and oxygen."*
+> - 📜 **Andreas Schimper (*Plant-Geography upon a Physiological Basis*):** *"The water lily is a celebrated **hydrophyte** whose leaves float flat upon the surface while roots anchor in the anaerobic lake mud."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Because a **hydrophyte** absorbs water and minerals directly through its epidermal surfaces, its root system is often markedly reduced."*

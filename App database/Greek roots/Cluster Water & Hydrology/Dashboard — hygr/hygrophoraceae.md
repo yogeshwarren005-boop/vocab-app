@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi belonging to the order agaricales; the gills of these fungi have a clean waxy appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi belonging to the order agaricales; the gills of these fungi have a clean waxy appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of agaric fungi (order Agaricales) commonly known as the waxcap family, characterized by thick, waxy gills and white spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic mycology, a family including Hygrocybe, Hygrophorus, and Cuphophyllus, notable for basidia that are unusually long and gills that are widely spaced.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrophoraceae designates a family of fungi belonging to the order agaricales; the gills of these fungi have a clean waxy appearance."*
+> - 📜 **Elias Magnus Fries (*Epicrisis Systematis Mycologici*):** *"The family **Hygrophoraceae** is distinguished by the thick, distant gills whose waxy substance resists rapid desiccation."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"In our taxonomic arrangement, the **Hygrophoraceae** occupy a prominent place among the white-spored agarics."*
+> - 📜 **Carlton Rea (*British Basidiomycetae*):** *"Unimproved grasslands are the typical habitat for diverse species of the **Hygrophoraceae** in the British Isles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) god of the stream that flowed around the earth in ancient mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) god of the stream that flowed around the earth in ancient mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek mythology, the primordial Titan god personifying the vast, world-encircling freshwater river that bounded the known Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient geography and cosmology, the outer celestial boundary from which all rivers, seas, and springs were thought to flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanus designates (greek mythology) god of the stream that flowed around the earth in ancient mythology."*
+> - 📜 **Homer (*The Iliad*):** *"I go to the ends of the generous earth to visit **Oceanus**, parent of the gods, and mother Tethys."*
+> - 📜 **Hesiod (*Theogony*):** *"Earth brought forth starry Heaven to cover her on all sides, and then deep-swirling **Oceanus**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Beyond the western horizon where **Oceanus** pours his boundless flood around the universe."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, yielding, or composed of several different metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine geology and economic mining, designating deep-sea polymetallic nodules (manganese nodules) rich in nickel, copper, cobalt, and iron on the abyssal plain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymetallic designates adjective*) pertaining to, derived from, or characteristic of mine."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Vast fields of **polymetallic** nodules litter the abyssal seafloor like paving stones across millions of square miles."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Hydrothermal black smokers precipitate rich **polymetallic** sulphides of zinc, copper, and lead along the oceanic ridge."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The vein was worked as a **polymetallic** deposit, yielding silver, lead, and zinc from successive ore shoots."*

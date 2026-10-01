@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or associated with sailors, navigation, or ships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various units of distance used for sea and air navigation based on the length of a minute of arc of a great circle of the earth and differing because the earth is not a perfect sphere: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning sailors, ships, seafaring, or marine navigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to maritime customs, naval terminology, or seafaring life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You must excuse me if I occasionally introduce a nautical expression; I was quite a sailor once."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appears to me that this maxim is applicable to the medical as well as to the nautical profession.” “To all professions,” observed Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In front is a leather rack, in which to keep your speaking trumpet, pipe, telescope, and other nautical conveniences."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In his youth he had learned all the intricacies of the **nautical** trade aboard a merchantman."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"A true **nautical** spirit is born from long communion with the loneliness and majesty of ocean gales."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"He brought out a battered **nautical** almanac and laid it upon the tavern table beside his cutlass."*

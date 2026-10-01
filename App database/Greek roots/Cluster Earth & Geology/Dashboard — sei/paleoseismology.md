@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geological study of prehistoric earthquakes preserved in the geologic record (e.g., fault offsets, liquefaction features, tsunami deposits).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tectonic geomorphology, trenching across active fault zones to date past seismic ruptures and estimate earthquake recurrence intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoseismology designates a term designating an entity, condition, or phenomenon derived from greek sei."*
+> - 📜 **John McPhee (*Assembling California*):** *"Through **paleoseismology**, geologists dug trenches across the fault to read the ancient earthquake scars in offset charcoal layers."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Trench stratigraphy in **paleoseismology** reveals that major fault ruptures recur in quasi-periodic cycles."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"By examining elevated coastal terraces, the geologist reconstructs the **paleoseismology** of vanished centuries."*

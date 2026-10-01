@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving and bending with ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving and bending with ease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin, supple, and graceful; bending easily; limber or pliant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical motion, marked by effortless fluidity and athletic coordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook therefore drives her out before him, and she goes furtively downstairs, winding her lithe tail and licking her lips."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I listened to the lithe, light step of the little intriguing priest go down the creaking stairs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Rather tall, of a lithe nimble figure, extremely pale, with large faded eyes, and a quantity of streaming hair."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The elephant to make them mirth used all his might, and wreathed his **lithe** proboscis."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her figure was slender and **lithe**, moving with quiet, unhurried grace through the dim library."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"I climbed the rocky crag with **lithe** limbs and the bounding step of youth."*

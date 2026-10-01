@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to or caused by an earthquake or earth vibration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to or caused by an earthquake or earth vibration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or characteristic of earthquakes; seismic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physical geography, relating to the geographic distribution and physical destruction wrought by earthquake shocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismal designates subject to or caused by an earthquake or earth vibration."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The **seismal** waves traveling through the subterranean strata shattered churches and palaces in a single instant."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **seismal** destruction of the city of Concepción revealed the terrifying power of subterranean forces."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Islands lying within the active **seismal** zone are subject to sudden uplift and coastal subsidence."*

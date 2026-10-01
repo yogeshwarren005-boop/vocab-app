@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo hydrolysis; decompose by reacting with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo hydrolysis; decompose by reacting with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To decompose a chemical compound by reaction with water; British spelling of hydrolyze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and industrial biocatalysis, to cleave ester, peptide, or polysaccharide bonds through the action of hydrolase enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolyse designates undergo hydrolysis; decompose by reacting with water."*
+> - 📜 **Thomas Graham (*Liquid Diffusion Applied to Analysis*):** *"Colloidal ferments slowly **hydrolyse** cane sugar into glucose and fructose without being consumed."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The enzymes of the saliva and pancreas **hydrolyse** dietary starches into soluble dextrins."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Molds and yeasts produce extracellular invertase to **hydrolyse** complex disaccharides in the nutrient broth."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhythmic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhythmic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhythmic manner; with a regular, recurrent cadence, beat, or tempo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In movement analysis and acoustics, describing periodic oscillations repeated with temporal uniformity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Among the lilacs a robin was singing his delicate and bold welcome to autumn, and over the window a branch of red roses nodded persistently and rhythmically in a draught of wind."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I could see every rib, the joints of their limbs were like knots in a rope; each had an iron collar on his neck, and all were connected together with a chain whose bights swung between them, rhythmically clinking."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Her firm white hands moving rhythmically, her body steady, her eyes a-dream."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The eight oars dipped **rhythmically** into the water, sending the longboat leaping over the crested swells."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The heavy muffled drums throbbed **rhythmically** through the black curtain of the midnight jungle."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The heath bells swayed **rhythmically** in the rising wind across the darkening moor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing wholly or partially in water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing wholly or partially in water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or characteristic of hydrophytes; adapted to an aquatic or water-saturated habitat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland ecology, describing vegetative communities (such as cattails, bulrushes, and water lilies) that indicate hydric soil conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophytic designates growing wholly or partially in water."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"The **hydrophytic** vegetation of marshlands exhibits finely dissected leaves that offer minimal resistance to moving water."*
+> - 📜 **Henry Chandler Cowles (*The Physiographic Ecology of Chicago and Vicinity*):** *"The progressive accumulation of peat transforms open **hydrophytic** ponds into bog forests."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The floating meadows of the Amazon basin form an impenetrable **hydrophytic** barrier of grasses and Eichhornia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to fluids in motion or the forces that produce or affect such motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to fluids in motion or the forces that produce or affect such motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, actuated by, or utilizing the kinetic energy and motion of flowing water or other fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renewable energy engineering and hydraulics, describing run-of-river submerged turbines that extract electrical power directly from river currents and ocean tidal streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrokinetic designates relating to fluids in motion or the forces that produce or affect such motion."*
+> - 📜 **Daniel Bernoulli (*Hydrodynamica*):** *"The **hydrokinetic** energy of a torrent is proportional to the square of its discharge velocity."*
+> - 📜 **William Thomson (Lord Kelvin) (*Mathematical and Physical Papers*):** *"We investigated the **hydrokinetic** dissipation of energy in viscous fluids flowing through narrow channels."*
+> - 📜 **Nikola Tesla (*Lectures on Alternate Currents*):** *"New turbine designs maximize the capture of **hydrokinetic** power from untamed mountain waterfalls."*

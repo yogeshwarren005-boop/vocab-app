@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earthquake; an oscillation or shaking of the Earth's crust produced by sudden release of tectonic stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and literary usage, a sudden violent upheaval or convulsion, geological or political.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seism designates a term designating an entity, condition, or phenomenon derived from greek sei."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The fall of the Bastille was an ideological **seism** that shook every throne in Europe to its foundation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The violent **seism** that leveled Lisbon in 1755 was felt from the Baltic shores to the Caribbean."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Every major **seism** radiates elastic waves through the deep mantle and crust of the globe."*

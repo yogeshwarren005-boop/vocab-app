@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in the metric system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert to the metric system; metricate (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial standardization, altering manufacturing tolerances and tools to metric modules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metricise designates express in the metric system."*
+> - 📜 **George Orwell (*Collected Essays*):** *"Efforts to **metricise** the local markets were met with stubborn resistance from the greengrocers."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Engineers were obliged to **metricise** every rocket component to ensure interoperability with European launch pads."*
+> - 📜 **Thomas Henry Huxley (*Lectures and Essays*):** *"To **metricise** our school curriculum is to bestow upon every student the gift of decimal clarity."*

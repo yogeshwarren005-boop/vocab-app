@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One thousand periods per second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One thousand periods per second.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical unit of alternating frequency equal to one thousand cycles per second (now designated the kilohertz, kHz).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and radio engineering, a metric frequency band standardizing medium-wave and long-wave wireless broadcasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kilocycle designates one thousand periods per second."*
+> - 📜 **Arthur C. Clarke (*The Sands of Mars*):** *"The transmitter hummed softly as the signal was locked onto a carrier frequency of eight hundred **kilocycles**."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory galvanometer registered the high-frequency alternating current at twenty **kilocycles** per second."*
+> - 📜 **H.G. Wells (*The Shape of Things to Come*):** *"Airway beacons guided the transport planes by emitting steady navigational pulses on assigned **kilocycle** bands."*

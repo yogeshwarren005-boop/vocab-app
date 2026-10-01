@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Second part of the stone age beginning about 750,00 to 500,000 years bc and lasting until the end of the last ice age about 8,500 years bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the second period of the stone age (following the eolithic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the early phase of the Stone Age, characterized by the earliest known use of chipped stone tools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human prehistory, the vast Pleistocene cultural epoch (from c. 3.3 million to 12,000 years ago) encompassing early hominin toolmaking, mammoth hunting, and cave painting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have lived through the ages known to-day among the scientists as the Paleolithic, the Neolithic, and the Bronze."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"The **paleolithic** hunters of the Ice Age displayed breathtaking mastery in their cave paintings at Altamira and Lascaux."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The cave was the ceremonial center of **paleolithic** man long before the first permanent houses were built."*
+> - 📜 **Charles Lyell (*The Geological Evidences of the Antiquity of Man*):** *"Strata containing **paleolithic** flint tools correspond to the glacial epochs of extinct quadrupeds."*

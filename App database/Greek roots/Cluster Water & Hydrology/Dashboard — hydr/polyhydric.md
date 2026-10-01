@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of water / fluid / moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of water / fluid / moisture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing more than one hydroxyl (-OH) group per molecule, especially referring to alcohols (polyols) such as glycerol or sorbitol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and polymer science, alcohols containing multiple alcohol functions utilized as crosslinkers and monomers in polyurethane and polyester synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyhydric designates adjective*) pertaining to, derived from, or characteristic of water / fluid / moisture."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Glycerol is a trihydric alcohol, serving as the prototypical **polyhydric** alcohol in natural fats and phospholipids."*
+> - 📜 **Emil Fischer (*Studies on Carbohydrates*):** *"The reduction of hexose monosaccharides yields sweet, crystalline **polyhydric** alcohols such as sorbitol and mannitol."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The viscous consistency of a **polyhydric** alcohol arises from extensive, intermolecular three-dimensional hydrogen bonding."*

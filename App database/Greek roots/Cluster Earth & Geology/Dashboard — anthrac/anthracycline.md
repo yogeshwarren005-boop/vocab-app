@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of coal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of coal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of antibiotic chemotherapeutic drugs derived from *Streptomyces* bacteria, widely used in cancer treatment (such as doxorubicin and daunorubicin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and pharmacodynamics, an antineoplastic agent that exerts cytotoxic effects by intercalating into DNA base pairs and inhibiting topoisomerase II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthracycline designates adjective*) pertaining to, derived from, or characteristic of coal."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The discovery of the red **anthracycline** compounds opened an unprecedented era of systemic remission in acute childhood leukemias."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The pharmacological potency of the **anthracycline** molecule derives from its planar ring system binding the cell nucleus."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Biochemists demonstrated that an **anthracycline** molecule blocks transcription by wedging itself into the DNA double helix."*

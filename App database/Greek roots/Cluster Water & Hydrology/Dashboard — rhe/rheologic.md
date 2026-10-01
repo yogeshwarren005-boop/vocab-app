@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to rheology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to rheology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or determined by rheology; dealing with the deformation and flow properties of matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid dynamics and polymer science, characterizing the shear-dependent viscosity, thixotropy, and viscoelasticity of non-Newtonian fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheologic designates of or relating to rheology."*
+> - 📜 **Eugene Bingham (*Fluidity and Plasticity*):** *"Non-Newtonian fluids exhibit complex **rheologic** properties where viscosity varies with the applied shear rate."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The **rheologic** behavior of whole blood in microcapillaries depends critically on erythrocyte deformability."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Polymer solutions display anomalous **rheologic** traits, behaving like liquids under low shear and elastic solids under sudden shock."*

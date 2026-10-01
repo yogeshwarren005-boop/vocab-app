@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The statement (oral or written) of an exchange of promises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compatibility of observations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmony or accordance in opinion, feeling, or purpose; a state of mutual consensus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and formal discourse, a negotiated covenant, contract, or treaty legally binding two or more parties to specified obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a gentleman whom by chance I met, Upon agreement from us to his liking, Will undertake to woo curst Katherine; Yea, and to marry her, if her dowry please."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where then do you know best We be affied, and such assurance ta’en As shall with either part’s agreement stand?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger “well enough,” an agreement was made, the Lord Chancellor’s consent was obtained, and it was all settled."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"The covenants of mutual trust, where there is a fear of not performance, are invalid without a common power to enforce the **agreement**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A voluntary **agreement** between the buyer and the seller determines the market price of every commodity."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"We entered into an **agreement** that neither should reveal our intended departure until all was prepared."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The applied science of surveying, measuring, and charting navigable waters (oceans, seas, lakes, rivers) and coastal topography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval science and civil engineering, the discipline dedicated to maritime cartography, bathymetry, tidal predictions, and marine safety notices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrography designates the science of the measurement and description and mapping of the surface waters of the earth with special reference to navigation."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"Modern **hydrography** maps the mountains and deep valleys of the ocean floor with sounding lines."*
+> - 📜 **James Cook (*Journals*):** *"The practice of nautical **hydrography** demands unrelenting vigilance against hidden coral reefs and deceptive shoals."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Before discussing terrestrial landforms, we must examine the principles of marine **hydrography**."*

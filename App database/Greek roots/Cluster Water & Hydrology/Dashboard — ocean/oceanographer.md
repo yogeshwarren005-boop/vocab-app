@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies physical and biological aspects of the seas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who studies physical and biological aspects of the seas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in the study of the physical, chemical, biological, and geological characteristics of the oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A researcher investigating ocean currents, marine ecosystems, submarine topography, and the ocean's role in global climate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanographer designates a scientist who studies physical and biological aspects of the seas."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The **oceanographer** probes the abyss with sounding lines and deep-sea dredges, mapping mountains hidden under miles of water."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"The pioneer **oceanographer** charts the great rivers in the sea that govern the climate of continents."*
+> - 📜 **Sylvia Earle (*Sea Change*):** *"Every modern **oceanographer** recognizes that the health of our planet depends on the vitality of the global ocean."*

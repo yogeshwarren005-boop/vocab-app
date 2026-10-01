@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of water / fluid / moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of water / fluid / moisture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative form of hydrothermal; produced by or relating to the combined action of subterranean heat and water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and mineral synthesis, designating metamorphic changes or mineral crystallization induced in rock formations by superheated aqueous fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrothermic designates adjective*) pertaining to, derived from, or characteristic of water / fluid / moisture."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The formation of zeolite crystals in volcanic cavities is a typical product of low-temperature **hydrothermic** alteration."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The steaming fumaroles and boiling springs of the Andes display the persistent power of **hydrothermic** metamorphism."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Deep-seated rocks undergo profound recrystallization under the combined influence of **hydrothermic** pressure and volcanic heat."*

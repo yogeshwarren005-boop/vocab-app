@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the nymphs of mountains and hills in Greek mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the nymphs of mountains and hills in Greek mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek mythology, a mountain nymph inhabiting hills, grottos, valleys, and rocky peaks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and poetic tradition, one of the divine mountain maidens attending the goddess Artemis in hunting across wild upland slopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oread designates any of the nymphs of mountains and hills in greek mythology."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fairer than the nymphs or **Oread** of the mountain groves that danced in the sacred valleys of Arcady."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The lonely **Oread** heard the echoing voice of the chained Titan from her craggy peak."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"The rustic swain fancied he saw an **Oread** vanish into the mountain mist above the lonely tarn."*

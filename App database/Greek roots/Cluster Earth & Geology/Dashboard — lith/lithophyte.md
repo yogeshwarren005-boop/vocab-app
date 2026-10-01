@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows on rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that grows on rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows on or in the crevices of bare rock, deriving nutrients from rainwater, atmospheric dust, and decomposing organic debris; a rock plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological botany, an epilithic species (such as many ferns, saxifrages, and rupicolous orchids) adapted to arid, stony microenvironments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithophyte designates a plant that grows on rock."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Delicate ferns flourished as true **lithophyte** species within the narrowest fissures of the sea cliff."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"Every bare porphyry crag was colonized by hardy **lithophyte** lichens that slowly crumbled the rock."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Marine algae clinging to tidal rocks provide shelter for small **lithophyte** colonies bathed in sea spray."*

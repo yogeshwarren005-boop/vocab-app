@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (Bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (Bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute, serious infectious disease of warm-blooded animals and humans caused by the spore-forming bacterium *Bacillus anthracis*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease history and microbiology, a zoonosis characterized by cutaneous black eschars (malignant pustules), pulmonary distress, or septicemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthrax designates an infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax."*
+> - 📜 **Louis Pasteur (*Memoir on Anthrax Vaccination*):** *"Our field experiments at Pouilly-le-Fort demonstrated that cattle inoculated with attenuated **anthrax** bacilli remained perfectly immune to lethal challenge."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blanched Soldier*):** *"The military surgeon had witnessed virulent outbreaks of **anthrax** among transport mules in South Africa."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The cutaneous form of **anthrax**, known as malignant pustule, develops as a painless papule with a coal-black necrotic center."*

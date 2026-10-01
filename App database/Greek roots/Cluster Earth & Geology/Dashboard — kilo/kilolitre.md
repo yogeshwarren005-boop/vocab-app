@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to 1000 liters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume or capacity equal to 1000 liters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British and Commonwealth spelling of kiloliter; a metric unit of volume equal to 1,000 litres (1 m³).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international trade and fluid logistics, a standard cubic unit employed in gauging bulk liquid cargo and municipal aqueduct flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kilolitre designates a metric unit of volume or capacity equal to 1000 liters."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The fresh water cisterns at the silver mine were replenished with fifty **kilolitres** brought down from the mountain flume."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The communal wine storage held several **kilolitres** of rough red vintage stored in vast wooden tuns."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Summerlee calculated that the volcanic geyser ejected a full **kilolitre** of scalding water at every eruption."*

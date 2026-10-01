@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hygr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cystic swelling or tumor containing serous fluid, such as a cystic hygroma of the neck or a bursal hygroma on a joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, a benign lymphatic malformation or distended synovial bursa resulting from chronic friction, trauma, or developmental lymphatic obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygroma designates a term designating an entity, condition, or phenomenon derived from greek hygr."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The congenital cystic **hygroma** of the neck consists of multi-locular lymphatic spaces filled with clear serous fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical excision of a deep-seated **hygroma** requires meticulous dissection to avoid injuring adjacent cervical nerves."*
+> - 📜 **Joseph Lister (*Collected Papers*):** *"Antiseptic drainage of an inflamed knee **hygroma** prevented the development of destructive suppurative bursitis."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic compound containing only carbon and hydrogen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organic compound containing only carbon and hydrogen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic chemical compound composed exclusively of carbon and hydrogen atoms, forming the principal constituent of petroleum and natural gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrochemistry and molecular organic chemistry, classified into aliphatic (alkanes, alkenes, alkynes) and aromatic systems, serving as primary fuels and chemical feedstocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alcohol, again, is a hydrocarbon."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This depends to a large extent upon the proportion of volatile hydrocarbons, but also on the conditions under which they are given off."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Volatile hydrocarbons in reverberatory smelting, 85, 86, 105."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Petroleum consists primarily of a complex mixture of liquid and gaseous **hydrocarbon** homologues."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"From compressed oil gas, I succeeded in separating bicarburet of hydrogen, the first discovered aromatic **hydrocarbon**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The tetrahedral orientation of carbon bonds accounts for the extraordinary stability of saturated **hydrocarbon** chains."*

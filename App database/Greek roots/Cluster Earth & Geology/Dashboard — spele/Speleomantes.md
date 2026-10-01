@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spele.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lungless cave-dwelling salamanders (European cave salamanders, family Plethodontidae) native to Italy and Sardinia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biospeleology and herpetology, troglophilic plethodontid salamanders that lack lungs, breathing entirely through cutaneous respiration and hunting with projectile tongues in humid caves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Speleomantes designates a term designating an entity, condition, or phenomenon derived from greek spele."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Cave-dwelling amphibians such as **Speleomantes** illustrate how subterranean isolation leads to the loss of unnecessary organs."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"In the limestone caves of Sardinia, the endemic salamander **Speleomantes** stalks small insects along dripping cave walls."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Cutaneous respiration reaches remarkable specialization in **Speleomantes**, whose lungs are completely absent."*

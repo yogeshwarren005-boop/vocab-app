@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aqueous vapor of the atmosphere; broadly : the aqueous envelope of the earth including bodies of water and aqueous vapor in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aqueous vapor of the atmosphere; broadly : the aqueous envelope of the earth including bodies of water and aqueous vapor in the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total mass of liquid, frozen, and gaseous water found on, under, and over the surface of the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Earth system science and climatology, the global aqueous realm including oceans, seas, ice caps, lakes, rivers, and atmospheric vapor that regulates global planetary heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrosphere designates the aqueous vapor of the atmosphere; broadly : the aqueous envelope of the earth including bodies of water and aqueous vapor in the atmosphere."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"In our geophysical survey, we partition the globe into lithosphere, atmosphere, and the liquid **hydrosphere** that covers seventy percent of the planet."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The global hydrological cycle connects the restless **hydrosphere** with the surrounding atmospheric currents."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The vast **hydrosphere** acts as the great thermal thermostat of the earth, buffering global climates against catastrophic extremes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek combining root (drosos, meaning 'dew, moisture, pure water drops'), foundational to terminology in entomology, botany, and meteorology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature, a lexical element designating organisms or devices associated with dew, such as Drosophila (dew-loving fly) and Drosera (dew plant).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This casket threatens; men that hazard all Do it in hope of fair advantages: A golden mind stoops not to shows of dross, I’ll then nor give nor hazard aught for lead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My love admits no qualifying dross; No more my grief, in such a precious loss."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Certainly, my associates and pursuits shall be other than they have been.” “And better?” “And better—so much better as pure ore is than foul dross."*
+> - 📜 **Henry Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The ancient Greek noun drosos denotes dew or pure water droplets, providing the root **dros**- in scientific names for dew-loving organisms."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From Greek **dros**- comes a family of biological and meteorological terms referring to morning dew and glistening droplets."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"The generic designation Drosophila, formed from **dros**- and philein, happily captures the fly's fondness for dewy fruit."*

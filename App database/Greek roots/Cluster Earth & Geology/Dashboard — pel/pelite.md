@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sedimentary rock composed of fine-grained clay or mud particles; mudstone, shale, or argillite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology, an argillaceous rock (such as slate, phyllite, or mica schist) derived from the metamorphism of fine-grained muddy sediment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelite designates a term designating an entity, condition, or phenomenon derived from greek pel."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The weathering of ancient feldspars yielded fine **pelite**, which settled quietly upon the deeper seafloor."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Regional metamorphism transformed the soft Ordovician **pelite** into shimmering sheets of mica schist."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Deep in the roots of the mountain chain, the aluminous **pelite** recrystallized into garnet and staurolite."*

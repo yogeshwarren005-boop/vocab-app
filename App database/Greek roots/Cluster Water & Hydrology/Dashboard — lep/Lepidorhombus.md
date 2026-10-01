@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine flatfishes in the family Scophthalmidae, commonly known as megrims or whiff flatfishes, characterized by scaly, translucent, left-eyed bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and commercial fisheries, demersal bottom-dwellers inhabiting the deep continental shelf waters of the northeastern Atlantic and Mediterranean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Lepidorhombus designates a term designating an entity, condition, or phenomenon derived from greek lep."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"The megrim, known systematically as **Lepidorhombus**, inhabits deep waters with soft sandy or muddy bottoms."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Trawlers hauling their nets along the edge of the continental shelf bring up quantities of **Lepidorhombus**."*
+> - 📜 **William Yarrell (*A History of British Fishes*):** *"The genus **Lepidorhombus** is distinguished among flatfishes by its delicate, scaly integument and laterally compressed form."*

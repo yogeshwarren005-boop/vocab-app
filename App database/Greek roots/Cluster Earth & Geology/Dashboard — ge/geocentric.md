@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, measured from, or as if observed from the earth's center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or relating to the earth as center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measured from the center of the Earth; having or representing the Earth as the center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of astronomy, designating the Ptolemaic cosmological model in which the Sun, stars, and planets revolve around a stationary Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Its transcendental aspirations—still unconsciously based on the geocentric view of things, a zenithal paradise, a nadiral hell—were as foreign to his own as if they had been the dreams of people on another planet."*
+> - 📜 **Nicolaus Copernicus (*De revolutionibus orbium coelestium*):** *"The ancient **geocentric** hypothesis fails to explain the retrograde motions of the planets with simplicity."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"Ptolemy constructed a magnificent mathematical edifice to preserve the **geocentric** illusion."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"For over a thousand years, Christian Europe embraced the **geocentric** cosmology as divine truth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or along a diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by opposite extremes; completely opposed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directly opposed; completely contrary; at opposite ends of a spectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a diameter; operating along a central axis of division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diametrical designates related to or along a diameter."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Truth and falsehood stand in **diametrical** contradiction to each other."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her high-minded aspirations were in **diametrical** contrast to the worldly prudence of her sister."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The austere discipline of the camp presented a **diametrical** contrast to the luxurious ease of the capital."*

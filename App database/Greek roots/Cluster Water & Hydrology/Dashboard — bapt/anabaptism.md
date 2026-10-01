@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protestant movement in the 16th century that believed in the primacy of the bible, baptised only believers, not infants, and believed in complete separation of church and state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protestant movement in the 16th century that believed in the primacy of the bible, baptised only believers, not infants, and believed in complete separation of church and state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious doctrine and movement of the Radical Reformation that rejects infant baptism in favor of believer's baptism (rebaptism) upon a personal confession of faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, a widespread 16th-century religious movement advocating strict separation of church and state, pacifism, communal goods, and voluntary church membership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabaptism designates a protestant movement in the 16th century that believed in the primacy of the bible, baptised only believers, not infants, and believed in complete separation of church and state."*
+> - 📜 **Thomas Fuller (*The Church History of Britain*):** *"The doctrine of **Anabaptism** spread rapidly among the lower orders along the Rhine, unsettling both Romanist and Lutheran authorities."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The wild enthusiasm of **Anabaptism** disturbed the peace of the nascent Protestant communities in Germany."*
+> - 📜 **Richard Hooker (*Of the Lawes of Ecclesiasticall Politie*):** *"Those who fell into **Anabaptism** pleaded scripture for their refusal of infant baptism and civic magistrates."*

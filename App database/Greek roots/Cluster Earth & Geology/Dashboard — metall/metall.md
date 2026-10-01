@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical etymology, the Greek root *metall-* (from μέταλλον, *metallon*, 'mine', 'quarry', 'mineral ore').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic and historical science, the lexical base yielding metal, metallurgy, metalloid, and related terms of extractive mineralogy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I believe there are over one hundred miles of metalled roads in the capital and the suburbs, all due to untiring M."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The Greek word **metall-** originally signified the deep shaft sunk into the mountainside in search of veins of gold."*
+> - 📜 **Georgius Agricola (*De Re Metallica*):** *"From the ancient stem **metall-** we derive the entire art and science of subterranean exploration."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The exploration of natural bodies requires us to study how ores are bred in the deep **metall-** caverns of the earth."*

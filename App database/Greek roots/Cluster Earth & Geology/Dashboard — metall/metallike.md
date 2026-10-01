@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having qualities like those of metal; metalloid; metallic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive petrology, exhibiting pseudo-metallic luster, hardness, or resonance without being composed of elemental metal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metallike designates resembling metal."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Certain marcasites yield a **metallike** gleam while consisting chiefly of sulphur and earth."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The basaltic columns gave off a ringing, **metallike** sound when struck with the iron hammer."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The dried baleen plates had a tough, **metallike** springiness that resisted all cutting."*

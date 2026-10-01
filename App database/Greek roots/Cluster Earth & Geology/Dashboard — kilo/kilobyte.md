@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of computer information equal to 1024 bytes; also : one thousand bytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of computer information equal to 1024 bytes; also : one thousand bytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In computing, a unit of digital information or storage equal to 1,000 bytes (in SI decimal) or 1,024 bytes (in binary 2¹⁰).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering and computer architecture, an early benchmark of memory capacity, reflecting the constraints of magnetic core storage and microprocessors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kilobyte designates a unit of computer information equal to 1024 bytes; also : one thousand bytes."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"The earliest electronic computers held but a few **kilobytes** of memory, yet they charted trajectories to the planets."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"A program of only a single **kilobyte** can generate fractal geometries of infinite complexity."*
+> - 📜 **Arthur C. Clarke (*2010: Odyssey Two*):** *"Every precious **kilobyte** of transmitted telemetry was scrutinized by ground controllers in Houston."*

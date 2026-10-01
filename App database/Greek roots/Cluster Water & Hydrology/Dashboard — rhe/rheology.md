@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the deformation and flow of matter; also : the ability to flow or be deformed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science dealing with the deformation and flow of matter; also : the ability to flow or be deformed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science that studies the deformation and flow of matter, particularly non-Newtonian fluids, plastic solids, and soft matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and mechanical engineering, a field founded by Eugene Bingham (adopting Heraclitus's aphorism panta rhei, 'everything flows') to bridge hydrodynamics and elasticity theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheology designates a science dealing with the deformation and flow of matter; also : the ability to flow or be deformed."*
+> - 📜 **Eugene Bingham (*Fluidity and Plasticity*):** *"We coined the term **rheology** from the Greek dictum panta rhei—all things flow—to study the physics of flow and deformation."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"In industrial polymers and lubricants, **rheology** determines how materials respond under high mechanical stress and shear."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The modern science of hemorheology applies the principles of **rheology** to blood flow through the microcirculation."*

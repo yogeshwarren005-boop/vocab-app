@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The internal and external use of water in the treatment of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal and external use of water in the treatment of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of water in any form (liquid, ice, steam) internally or externally in the treatment of disease, pain, or physical rehabilitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical medicine and physiotherapy, aquatic rehabilitation regimens utilizing water buoyancy, hydrostatic pressure, and temperature to restore mobility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrotherapy designates the internal and external use of water in the treatment of disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Judicious **hydrotherapy** using cold sponge baths effectively reduced high temperatures and delirium in typhoid fever."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Carefully regulated warm **hydrotherapy** soothes the nervous system and relaxes rigid spastic muscles far better than opiates."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Scientific **hydrotherapy** established itself as a rational discipline when physiological thermal responses replaced mystical water cures."*

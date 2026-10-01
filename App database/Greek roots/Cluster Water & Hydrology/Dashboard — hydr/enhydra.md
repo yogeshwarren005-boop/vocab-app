@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea otters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea otters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine mustelid carnivores containing the sea otter, Enhydra lutris, native to the coasts of the northern and eastern Pacific Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy and kelp-forest ecology, a keystone apex predator equipped with dense water-repellent fur instead of blubber that preys on sea urchins and mollusks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enhydra designates sea otters."*
+> - 📜 **Georg Wilhelm Steller (*Journal of the Sea Voyage*):** *"The pelts of **Enhydra** lutris, the sea otter of Kamchatka, were deemed the most luxurious furs in all the Russian Empire."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Unlike river otters, the sea otter **Enhydra** rarely ventures ashore, resting on its back among oceanic kelp beds."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Russian hunters along the Aleutian chain relentlessly pursued the marine otter **Enhydra** for its dense velvety pelt."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something desired as a necessity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something desired as a necessity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is needed, wanted, or considered essential; a desirable requirement or missing element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarship and philosophy, a recognized gap in knowledge or equipment that remains to be supplied.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let me add that it is the great desideratum by which this form of government can be rescued from the opprobrium under which it has so long labored, and be recommended to the esteem and adoption of mankind."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON OR MADISON To the People of the State of New York: A fifth desideratum, illustrating the utility of a senate, is the want of a due sense of national character."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Another and no less important desideratum was, that the Executive should be independent for his continuance in office on all but the people themselves."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A vigorous and stable executive is a vital **desideratum** in the constitution of any well-ordered republic."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"A complete fossil record connecting all extinct groups remains a great but unfulfilled **desideratum** of paleontology."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A thorough grounding in physical science has become an indispensable **desideratum** for modern liberal education."*

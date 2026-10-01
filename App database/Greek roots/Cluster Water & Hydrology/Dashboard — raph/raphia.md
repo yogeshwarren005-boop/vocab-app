@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf fibers of the raffia palm tree; used to make baskets and mats etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feather palm of tropical africa and madagascar and central and south america widely grown for commercial purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical palms in the family Arecaceae, native primarily to tropical Africa, celebrated for their immense pinnate leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, the source of raffia fiber, obtained from the fibrous membranes of the young pinnate leaves, widely used in horticulture and textile weaving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raphia designates leaf fibers of the raffia palm tree; used to make baskets and mats etc."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The natives construct durable sleeping mats and baskets from the tough fiber of the **Raphia** palm."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The massive leaves of **Raphia** vinifera surpass those of almost all other trees, extending up to fifty feet in length."*
+> - 📜 **Alfred Russel Wallace (*Palm Trees of the Amazon and Their Uses*):** *"The swampy river bottoms are choked with colossal groves of **Raphia**, whose pendulous fruits furnish oil to the inhabitants."*

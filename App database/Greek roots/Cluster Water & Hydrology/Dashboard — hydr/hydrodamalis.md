@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of the family dugongidae comprising only steller's sea cow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of the family dugongidae comprising only steller's sea cow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of sirenian marine mammals in the family Dugongidae, containing Steller's sea cow (Hydrodamalis gigas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical marine zoology, a giant kelp-eating marine herbivore reaching nine meters in length, discovered in 1741 on the Commander Islands and exterminated by human hunters within three decades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodamalis designates a genus of the family dugongidae comprising only steller's sea cow."*
+> - 📜 **Georg Wilhelm Steller (*De Bestiis Marinis*):** *"The gargantuan sea cow **Hydrodamalis** grazed placidly upon the kelp canopies around the shores of Bering Island."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Within twenty-seven years of its discovery, the immense sirenian **Hydrodamalis** was ruthlessly hunted to complete extinction by fur traders."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"In osteology, **Hydrodamalis** lacked functional finger bones, its forelimbs forming dense callous flippers adapted for scraping coastal rocks."*

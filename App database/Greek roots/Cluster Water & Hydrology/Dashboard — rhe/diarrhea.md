@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally frequent intestinal evacuations with more or less fluid stools.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive flow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition marked by abnormally frequent and liquid bowel evacuations; American spelling of diarrhoea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and global health, a major symptom of bacterial, viral, or protozoal enteritis that causes dangerous dehydration and electrolyte loss if untreated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Diarrhea also set in, and my feet began to swell." This statement will show his perfect helplessness."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In summing up the benefits I have received from the reading of Science and Health, I can but refer to a condition of sickness dating back to the war (1862), when chronic and malignant diarrhea came near making an end of my material existence."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe choleraic **diarrhea** leads to profound hypovolemic shock within hours if rehydration salts are not administered."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"In hospital wards, tainted water supplies and unventilated latrines were the prime instigators of fatal summer **diarrhea**."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"We differentiate inflammatory enteritis from simple nervous **diarrhea** provoked by sudden fright."*

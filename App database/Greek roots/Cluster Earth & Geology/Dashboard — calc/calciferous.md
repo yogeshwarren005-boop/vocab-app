@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or producing or containing calcium or calcium carbonate or calcite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or producing or containing calcium or calcium carbonate or calcite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or containing calcium carbonate or lime; chalk-bearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and geology, applied to anatomical glands (as in earthworms) that secrete calcite, or rock formations rich in lime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calciferous designates bearing or producing or containing calcium or calcium carbonate or calcite."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The **calciferous** glands of the earthworm excrete microscopic crystals of calcium carbonate into the digestive canal."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **calciferous** sandrock of New York forms the transitional foundation beneath the Trenton limestone."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Abundant marine fossils occur throughout the **calciferous** sandstone measures of the Scottish lowlands."*

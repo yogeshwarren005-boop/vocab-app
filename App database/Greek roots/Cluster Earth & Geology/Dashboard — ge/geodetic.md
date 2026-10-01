@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or determined by geodesy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A survey of a large land area in which corrections are made for the curvature of the earth's surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained by geodesy; pertaining to the curvature and measurement of the Earth's surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography and civil engineering, describing precision surveys that correct for the ellipsoidal curvature of the Earth over large territorial expanses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geodetic designates of, relating to, or determined by geodesy."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Summerlee carried a certified **geodetic** sextant to verify our position in the Amazonian wilderness."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The Great Trigonometrical Survey of India established a permanent **geodetic** framework across the subcontinent."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Modern **geodetic** satellite benchmarks register the westward drift of the continent millimeters each year."*

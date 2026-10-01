@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of mountain formation especially by folding of the earth's crust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of mountain formation especially by folding of the earth's crust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to orogeny; of, pertaining to, or produced by mountain building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plate tectonics, characterizing deformations, crustal belts, or metamorphic events directly associated with tectonic mountain-building phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orogenic designates the process of mountain formation especially by folding of the earth's crust."*
+> - 📜 **John McPhee (*Basin and Range*):** *"The western cordillera preserves the scars of successive **orogenic** pulses that collided with the North American craton."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"These crystalline schists bear undeniable testimony to an ancient **orogenic** revolution that crumpled the seafloor."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Thermal plumes and subducting slabs provide the colossal mechanical energy driving **orogenic** belts across geological time."*

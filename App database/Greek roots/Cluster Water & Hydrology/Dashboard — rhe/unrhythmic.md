@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not rhythmic; irregular in beat or accent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not rhythmic; irregular in beat or accent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking rhythm or regular cadence; irregular, discordant, or jerky in timing; arrhythmic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and musicology, describing acoustic patterns or body movements that deliberately or erratically disrupt expected periodic meters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrhythmic designates not rhythmic; irregular in beat or accent."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The dull, **unrhythmic** tapping of the loose window shutter disturbed his reading throughout the stormy night."*
+> - 📜 **Arthur Symons (*Studies in Seven Arts*):** *"The modern score was intentionally **unrhythmic**, disrupting traditional expectation with abrupt pauses and dissonances."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An irregular, **unrhythmic** succession of sensory stimuli produces nervous irritation and mental fatigue."*

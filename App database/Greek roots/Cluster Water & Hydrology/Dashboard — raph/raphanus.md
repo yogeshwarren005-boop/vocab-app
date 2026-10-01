@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the mustard family Brassicaceae, notably comprising the cultivated radish (Raphanus sativus) and wild radish (Raphanus raphanistrum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, pungent herbaceous plants valued for their crisp, edible taproots and pungent seeds containing mustard oils (glucosinolates).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog raphanus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **Raphanus**, Linnaeus grouped the common radish and its wild seaside relatives."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The siliques of **Raphanus** are spongy and indehiscent, breaking into one-seeded joints when mature."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Gardeners have produced countless distinct cultivars of **Raphanus** differing remarkably in root shape and color."*

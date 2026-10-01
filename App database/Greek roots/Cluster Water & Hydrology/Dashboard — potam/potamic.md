@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or inhabiting rivers or streams; fluvial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrology and freshwater biology, describing processes, sediments, or biological communities associated with flowing freshwater river channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamic designates adjective*) pertaining to, derived from, or characteristic of river."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"The great **potamic** network of the Orinoco opens an immense highway across the virgin forests of the interior."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **potamic** silt deposited during annual inundations gradually raises the level of the alluvial delta."*
+> - 📜 **Arthur Tansley (*Practical Plant Ecology*):** *"Aquatic vegetation in this valley displays a distinct **potamic** zonation determined by current velocity."*

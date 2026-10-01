@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Frogbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frogbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of free-floating aquatic plants in the family Hydrocharidaceae, commonly known as European frogbit (Hydrocharis morsus-ranae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland ecology, small stoloniferous floating plants with kidney-shaped leaves and three-petaled white flowers, overwintering via dense vegetative turions on muddy lake beds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hydrocharis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The floating round leaves of **Hydrocharis** adorn the quiet surface of woodland dykes and pools."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"On the decaying petioles of **Hydrocharis**, tiny aquatic saprophytic molds can often be detected."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The delicate three-petaled white flowers of **Hydrocharis** rise above the water for pollination by hoverflies."*

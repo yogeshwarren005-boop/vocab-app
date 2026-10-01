@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of the baptist church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of the baptist church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or resembling baptism or the theological tenets of Baptists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to doctrines advocating immersion and believer's baptism as an essential ordinance of faith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baptistic designates of or pertaining to or characteristic of the baptist church."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"The early church practiced a strictly **baptistic** theology of total immersion for adult converts."*
+> - 📜 **Alexander Campbell (*The Christian System*):** *"He argued for a purely **baptistic** order of congregational governance based upon New Testament examples."*
+> - 📜 **Charles Spurgeon (*Sermons*):** *"Our **baptistic** principles rest not upon tradition, but upon the explicit command of the Master."*

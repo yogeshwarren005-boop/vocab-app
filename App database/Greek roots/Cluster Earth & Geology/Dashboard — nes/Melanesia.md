@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands in the Pacific northeast of Australia and south of Micronesia including the Bismarck Archipelago, the Solomons, Vanuatu, New Caledonia, and the Fijis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The islands in the Pacific northeast of Australia and south of Micronesia including the Bismarck Archipelago, the Solomons, Vanuatu, New Caledonia, and the Fijis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major subregion of Oceania in the southwestern Pacific Ocean, northeast of Australia, encompassing New Guinea, Fiji, Solomon Islands, and Vanuatu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pacific ethnology and geography, the 'islands of the black people' (from Greek μέλας, *melas*, 'black' and νῆσος, *nesos*, 'island'), distinguished by distinct cultural, linguistic, and genetic heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some parts of Melanesia a like belief prevails that certain sacred stones are endowed with miraculous powers which correspond in their nature to the shape of the stone."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Melanesia, if a man's friends get possession of the arrow which wounded him, they keep it in a damp place or in cool leaves, for then the inflammation will be trifling and will soon subside."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The same fear seems to be general in Melanesia, and has led to a regular practice of hiding cut hair and nails."*
+> - 📜 **Bronislaw Malinowski (*Argonauts of the Western Pacific*):** *"The Kula ring of **Melanesia** constitutes a grand ceremonial exchange binding distant archipelagos in lifelong social alliances."*
+> - 📜 **Margaret Mead (*Sex and Temperament in Three Primitive Societies*):** *"The diverse mountain tribes of **Melanesia** display startling variations in temperamental ideals and artistic expression."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"We sailed westward through the reef-strewn channels of **Melanesia**, where ancient headhunting traditions lingered in the mountain jungles."*

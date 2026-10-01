@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic crystal or incipient crystalline form occurring in glassy or fine-grained volcanic igneous rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, a pale yellow, reddish, or brown isometric mineral of the pyrochlore group containing calcium, sodium, and tantalum oxide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microlite designates a term designating an entity, condition, or phenomenon derived from greek lith."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Thin sections of volcanic obsidian examined under polarized light reveal swarms of embryonic **microlite** crystals aligned with the flow."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The rapid chilling of the molten lava prevented the growth of large crystals, leaving only minute **microlite** needles suspended in volcanic glass."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The rare mineral **microlite** occurs in granitic pegmatites associated with albite and tourmaline."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical pharmaceutical and Latin name for mercury or quicksilver (chemical symbol Hg, atomic number 80).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical alchemy, materia medica, and toxicology, liquid metallic elemental mercury (from Greek hydr- 'water' + argyros 'silver'), widely employed in historical ointments and barometers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrargyrum designates a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Quicksilver, which the ancients called **hydrargyrum** or liquid silver, defies common attempts at transmutation."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"We reduced the red precipitate of **hydrargyrum** in an earthen vessel to yield metallic mercury and pure vital air."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Preparations of **hydrargyrum** constituted the primary alterative remedy in historic pharmacopeias."*

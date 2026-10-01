@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hydr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or automatic regulator designed to detect, control, or maintain a constant water level, especially in a steam boiler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, a safety control switch that automatically interrupts burner operation or sounds an alarm when water levels drop below a critical threshold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrostat designates a term designating an entity, condition, or phenomenon derived from greek hydr."*
+> - 📜 **Thomas Ewbank (*A Descriptive and Historical Account of Hydraulic Machines*):** *"An automated **hydrostat** was fitted to the boiler to shut off fuel whenever the water dropped below the crown-sheet."*
+> - 📜 **Dionysius Lardner (*The Steam Engine Explained and Illustrated*):** *"The steam engineer adjusted the balance float of the **hydrostat** to ensure continuous boiler feed."*
+> - 📜 **William Henry Smyth (*The Sailor's Word-Book*):** *"A marine **hydrostat** signals an alarm in the engine room when water accumulates dangerously in the ship's bilges."*

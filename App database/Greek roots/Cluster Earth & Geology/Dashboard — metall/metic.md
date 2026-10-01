@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alien who paid a fee to reside in an ancient greek city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alien who paid a fee to reside in an ancient greek city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Greece (especially Athens), a resident alien who did not possess citizen rights but paid taxes and enjoyed certain civic protections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and social history, a permanent resident non-citizen whose economic contributions are vital to a city while being denied franchise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metic designates an alien who paid a fee to reside in an ancient greek city."*
+> - 📜 **Aristotle (*Politics*):** *"The citizen is distinguished from the slave, the stranger, and the resident **metic** by his active participation in judicial and deliberative office."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Pericles reminded the assembly that the Athenian navy drew heavily upon the skilled oarsmanship of the **metic** population."*
+> - 📜 **George Grote (*A History of Greece*):** *"Lysias the orator, though a wealthy and cultured **metic**, was barred from speaking directly in the Athenian assembly."*

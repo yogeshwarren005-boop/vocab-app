@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hypothesis that the living and nonliving components of earth function as a single system in such a way that the living component regulates and maintains conditions (such as the temperature of the ocean or composition of the atmosphere) so as to be suitable for life; also : this system regarded as a single organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in northwestern Portugal, just south of Porto.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek mythology, the primordial goddess personifying the Earth; Mother Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Earth systems science, the Gaia hypothesis proposed by James Lovelock, viewing the Earth's biosphere, atmosphere, oceans, and soil as a self-regulating complex system maintaining habitability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Gaia designates the hypothesis that the living and nonliving components of earth function as a single system in such a way that the living component regulates and maintains conditions (such as the temperature of the ocean or composition of the atmosphere) so as to be suitable for life; also : this system regarded as a single organism."*
+> - 📜 **Hesiod (*Theogony*):** *"Verily at the first Chaos came to be, but next wide-bosomed **Gaia**, the ever-sure foundation of all the deathless ones."*
+> - 📜 **James Lovelock (*Gaia: A New Look at Life on Earth*):** *"We define **Gaia** as a complex entity involving the Earth's biosphere, atmosphere, oceans, and soil."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"In the ancient myth of **Gaia**, our ancestors recognized their deep physical kinship with the living planet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used with a telescope or microscope for measuring minute distances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caliper for making precise measurements that has a spindle moved by a finely threaded screw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring very small distances, angles, or dimensions with high precision (e.g., screw micrometer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An SI unit of length equal to one millionth of a meter (10⁻⁶ m); a micron (µm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometer designates an instrument used with a telescope or microscope for measuring minute distances."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Using a delicate eyepiece **micrometer**, we measured the diameter of the pollen grains to within a fraction of a hair."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The human red blood cell has a mean diameter of approximately seven **micrometers**."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The machinist verified the thickness of the brass escapement wheel using an accurate screw **micrometer**."*

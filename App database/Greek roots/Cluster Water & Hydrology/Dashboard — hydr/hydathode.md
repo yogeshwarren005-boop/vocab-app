@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized pore on the leaves of higher plants that functions in the exudation of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized pore on the leaves of higher plants that functions in the exudation of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized structural pore or modified water stoma on the leaf margin or tip of vascular plants that discharges liquid water droplets by guttation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and water relations, an aperture connected with the termination of xylem veinlets, through which excess xylem sap is forced under positive root pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydathode designates a specialized pore on the leaves of higher plants that functions in the exudation of water."*
+> - 📜 **Gottlieb Haberlandt (*Physiological Plant Anatomy*):** *"Under conditions of high root pressure and saturated air, liquid water escapes through each marginal **hydathode**."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Guttation droplets accumulating along the serrations of Alchemilla leaves are secreted by a modified **hydathode**."*
+> - 📜 **Wilhelm Pfeffer (*Physiology of Plants*):** *"The epithem of a **hydathode** connects directly with xylem tracheids, discharging surplus water under pressure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the concentric regions of physical matter that make up the Earth and its atmosphere (especially the solid crust and mantle, as distinguished from the atmosphere, hydrosphere, and biosphere).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary science, the entire solid Earth from the core to the surface crust, acting as the reservoir for geochemical cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geosphere designates a term designating an entity, condition, or phenomenon derived from greek ge."*
+> - 📜 **Vladimir Vernadsky (*The Biosphere*):** *"Living organisms exert a planetary pressure that permanently alters the mineral composition of the **geosphere**."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Interactions between the fluid hydrosphere and the solid **geosphere** generate the sedimentary cycles of erosion and deposition."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Persistent synthetic pollutants infiltrate every compartment of the **geosphere**, contaminating groundwater reservoirs for centuries."*

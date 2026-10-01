@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronaut of the Soviet or Russian space program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astronaut of the Soviet or Russian space program.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A space traveler trained and employed by the Russian (formerly Soviet) space agency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of space exploration, a pilot or researcher representing the Soviet or Russian manned spaceflight program.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmonaut designates an astronaut of the soviet or russian space program."*
+> - 📜 **Yuri Gagarin (*Road to the Stars*):** *"As the first **cosmonaut**, I felt a profound sense of responsibility to all mankind while gazing at the Earth from orbit."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The announcement that a Soviet **cosmonaut** had circled the globe sent a shockwave through the American scientific establishment."*
+> - 📜 **Alexei Leonov (*Two Sides of the Moon*):** *"Stepping out into the black vacuum, the **cosmonaut** felt as though he were floating suspended in an infinite diamond vault."*

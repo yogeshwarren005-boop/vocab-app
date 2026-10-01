@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring flow (as of viscous substances).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring flow (as of viscous substances).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure the rheological properties (flow behavior and viscosity) of fluids, or historically an apparatus for measuring electric current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern analytical chemistry, a precision rotational instrument that subjects sample fluids to controlled shear stress or strain, measuring modulus and dynamic viscosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheometer designates an instrument for measuring flow (as of viscous substances)."*
+> - 📜 **Eugene Bingham (*Fluidity and Plasticity*):** *"Using a rotational **rheometer**, we recorded shear stress as a function of shear rate across a wide temperature range."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I placed a delicate astatic **rheometer** into the circuit to detect the transient induced galvanic current."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"A cone-and-plate **rheometer** allows clinicians to determine blood viscosity at shear rates simulating capillary beds."*

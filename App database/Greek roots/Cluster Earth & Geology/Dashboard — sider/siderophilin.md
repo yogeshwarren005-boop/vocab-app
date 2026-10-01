@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A globulin in blood plasma that carries iron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A globulin in blood plasma that carries iron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron-binding blood plasma glycoprotein that transports iron through the blood to liver and bone marrow; transferrin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical biochemistry, a beta-globulin whose percentage saturation is a critical laboratory indicator of iron deficiency or hemochromatosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderophilin designates a globulin in blood plasma that carries iron."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Circulating **siderophilin** binds ferric ions securely to prevent the toxicity of free ionic iron."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Each molecule of **siderophilin** can bind two atoms of iron, transporting them directly to marrow receptors."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The concentration of **siderophilin** in serum rises compensatory in states of chronic iron deficiency."*

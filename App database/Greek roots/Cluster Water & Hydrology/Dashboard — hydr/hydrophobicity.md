@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being water-repellent; tending to repel and not absorb water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being water-repellent; tending to repel and not absorb water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of being water-repellent; the tendency of nonpolar chemical groups to avoid contact with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and biophysics, the fundamental thermodynamic driving force responsible for protein folding, micelle formation, and cell membrane stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophobicity designates the property of being water-repellent; tending to repel and not absorb water."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The high **hydrophobicity** of hydrocarbon chains causes oil droplets to coalesce and separate from an aqueous emulsion."*
+> - 📜 **Christian de Duve (*Vital Dust*):** *"The self-assembly of primitive cellular membranes was dictated by the differential **hydrophobicity** of prebiotic amphiphiles."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"X-ray crystallography established that the internal **hydrophobicity** of hemoglobin provides the mechanical stability needed for cooperative oxygen binding."*

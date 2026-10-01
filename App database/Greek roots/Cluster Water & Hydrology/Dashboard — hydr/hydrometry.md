@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of specific gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of specific gravity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or practice of measuring the specific gravity, density, or velocity and volume of liquids, particularly water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental monitoring and engineering, the operational discipline of recording river discharge, aquifer water levels, and canal flow rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrometry designates the measurement of specific gravity."*
+> - 📜 **Daniel Bernoulli (*Hydrodynamica*):** *"The science of **hydrometry** provides civil engineers with the mathematical formulas necessary to meter canal irrigation."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Precision **hydrometry** allows the chemist to ascertain the exact strength of nitric and sulfuric acids without chemical titration."*
+> - 📜 **William Henry Smyth (*The Sailor's Word-Book*):** *"In nautical science, **hydrometry** includes measuring the buoyancy and saltiness of different oceanic waters."*

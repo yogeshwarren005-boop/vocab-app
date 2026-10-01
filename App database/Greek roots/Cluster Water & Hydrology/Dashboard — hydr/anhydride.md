@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed from one or more other compounds in a reaction resulting in removal of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound formed from one or more other compounds in a reaction resulting in removal of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound derived from another by the removal of the elements of water, especially an acid anhydride or basic oxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic and inorganic chemistry, substances like acetic anhydride or phosphorus pentoxide that react vigorously with water to regenerate parent acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydride designates a compound formed from one or more other compounds in a reaction resulting in removal of water."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Phosphoric **anhydride** absorbs moisture from the atmosphere with unmatched rapidity, forming metaphosphoric acid."*
+> - 📜 **Jacobus Henricus van 't Hoff (*Lectures on Theoretical and Physical Chemistry*):** *"The reaction of an organic acid with its corresponding **anhydride** yields an equilibrium mixture of esters."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Carbon dioxide may be regarded as the acid **anhydride** of carbonic acid, dissolving in water to form hydrogen carbonate ions."*

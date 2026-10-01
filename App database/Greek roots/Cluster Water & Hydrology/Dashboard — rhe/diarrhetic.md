@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to diarrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to diarrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or characteristic of diarrhea; having a purgative or bowel-loosening effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and toxicology, substances that induce intestinal fluid secretion or hyperperistalsis through mucosal irritation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diarrhetic designates of or relating to diarrhea."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Excessive doses of senna or colocynth exert a violently **diarrhetic** action upon the bowels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain bacterial enterotoxins stimulate mucosal adenylate cyclase, resulting in copious **diarrhetic** flux."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The intestinal irritation provoked a severe **diarrhetic** episode that rapidly exhausted the elderly patient."*

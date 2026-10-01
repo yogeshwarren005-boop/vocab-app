@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elsewhere specified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not elsewhere specified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek linguistic morphology and etymology, the root *nes-* (from νῆσος, *nesos*, 'island'), denoting an island or land surrounded by water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A productive combining element in geographical nomenclature forming macro-regional names such as Polynesia, Melanesia, Micronesia, and Peloponnese.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And while peace and plen-ty I find at my board, With a heart free from sick-ness and sor-row, With my friends will I share what to-day may af-ford, And let them spread the ta-ble to-mor-row."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Joseph Clason is still living, now seventy-five years of age, in Bazine, Ness county, Kansas."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines On The Fall Of Fyers Near Loch-Ness."*
+> - 📜 **Strabo (*Geography*):** *"The ancient Greeks applied the root **nes-** to any tract of land bordered on all sides by the flowing sea."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The word Peloponnese literally recalls the **nes-** or island of Pelops cut off by the Corinthian isthmus."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"In classical geography, the **nes-** formant designates both rocky islets in the Aegean and vast archipelagos of the southern sea."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or promoting agronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or promoting agronomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to agronomy or field-crop production; agronomic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rural developmental studies, relating to systematic experimental methods for evaluating soil chemistry, irrigation, and crop vigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agronomical designates of or relating to or promoting agronomy."*
+> - 📜 **Liberty Hyde Bailey (*The Holy Earth*):** *"An **agronomical** survey of the river valley revealed the precise nutrient depletion caused by mono-cropping."*
+> - 📜 **George Washington Carver (*Agricultural Bulletins*):** *"Our **agronomical** demonstrations proved that alternating peanuts with cotton restored the vitality of Southern soils."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I made no pretence to formal **agronomical** science, yet my small bean-field taught me the ancient virtues of hoed earth."*

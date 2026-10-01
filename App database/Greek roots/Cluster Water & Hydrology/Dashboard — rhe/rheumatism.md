@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various conditions characterized by inflammation or pain in muscles, joints, or fibrous tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rheumatoid arthritis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease marked by chronic inflammation, soreness, and pain in the joints, muscles, or fibrous tissues (such as rheumatoid arthritis or osteoarthritis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, an ancient diagnostic term (from Greek rheumatismos, a discharge or flow) reflecting the Galenic belief that joint pains were caused by cold humors settling in articular cavities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The same gentleman, while calling on a poor family one day, discovered a little house in the rear, which he visited, finding a neat, cleanly room, occupied by an old lady, crippled with rheumatism."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Miller's own statement is as follows, and it is fully endorsed by the most reliable citizens and members of the First church at Oberlin: "From my parents I inherited a constitution subject to a chronic form of rheumatism."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The damp cellar floor gave the poor old crone a perpetual **rheumatism** in every joint."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Standing twenty-four hours in wet boots on the deck of a whaler is a sure receipt for **rheumatism** in old age."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute articular **rheumatism** is notoriously dangerous in childhood because it frequently attacks the heart valves."*

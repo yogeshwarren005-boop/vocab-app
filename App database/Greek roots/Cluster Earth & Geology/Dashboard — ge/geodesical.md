@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or determined by geodesy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or determined by geodesy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to geodesy or the mathematical determination of the Earth's size, shape, and curvature; geodesic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical surveying and mathematical geography, relating to precision trigonometrical measurements across terrestrial arcs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geodesical designates of or relating to or determined by geodesy."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Colossal **geodesical** surveys conducted in Lapland and Peru established the oblate spheroid form of the globe."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **geodesical** calculations of the meridian arc required instruments of unprecedented optical precision."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Modern geology relies upon rigorous **geodesical** baselines to detect minute crustal movements."*

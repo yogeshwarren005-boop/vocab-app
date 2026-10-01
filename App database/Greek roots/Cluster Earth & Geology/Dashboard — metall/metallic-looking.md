@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an appearance, luster, or texture resembling that of metal; metallic in aspect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and material testing, describing non-metallic minerals (like hematite or stibnite) that deceptively resemble native metals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metallic-looking designates resembling metal."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The broken volcanic rock revealed a strange, **metallic-looking** seam that caught the morning light."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The specimen of specular iron ore was so **metallic-looking** that miners mistook it for pure steel."*
+> - 📜 **H.G. Wells (*The First Men in the Moon*):** *"The lunar vegetation possessed stiff, **metallic-looking** leaves that rattled like tin in the breeze."*

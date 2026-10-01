@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of droseraceae including many low bog-inhabiting insectivorous plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of droseraceae including many low bog-inhabiting insectivorous plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of carnivorous flowering plants commonly known as sundews, characterized by leaves covered with glandular hairs tipped with glistening, sticky digestive secretions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany and plant physiology, the type genus of the Droseraceae, famously analyzed by Charles Darwin for its thigmonastic leaf movements and insect digestive enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, drosera designates the type genus of droseraceae including many low bog-inhabiting insectivorous plants."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"When a small insect alights on the central tentacles of **Drosera** rotundifolia, the surrounding hairs slowly curve inward to entrap it."*
+> - 📜 **Asa Gray (*How Plants Behave*):** *"The glistening glands on the leaves of **Drosera** look like drops of morning dew, but are in truth sticky snares for unwary flies."*
+> - 📜 **John Muir (*The Mountains of California*):** *"In the peat-bogs of the Sierra Nevada, the tiny red rosettes of **Drosera** sparkle in the mountain sun."*

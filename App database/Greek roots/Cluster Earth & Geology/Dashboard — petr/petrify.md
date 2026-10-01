@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert (organic matter) into stone or a substance of stony hardness by the infiltration of water and the deposition of dissolved mineral matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make rigid or inert like stone:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert organic matter into stone or stony substance by mineral infiltration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To paralyze or make rigid with fear, astonishment, or horror.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"And one thing you can depend on, and that is that this crowd’ll stick to you, and work for you, and f-f-fight for you till they p-p-petrify.” Motu smiled a proud, grateful sort of smile and took Mark’s hand."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was a petrifying thing to see Charmion break down."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The sacred lowe o’ weel-plac’d love, Luxuriantly indulge it; But never tempt th’ illicit rove, Tho’ naething should divulge it: I waive the quantum o’ the sin, The hazard of concealing; But, Och! it hardens a’ within, And petrifies the feeling!"*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Thermal waters charged with silica gradually **petrify** the fallen trunks of prehistoric forests."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The sudden glimpse of that gaunt, white-fanged face seemed to **petrify** my very limbs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her icy glare had the power to **petrify** every impulse of natural childhood warmth."*

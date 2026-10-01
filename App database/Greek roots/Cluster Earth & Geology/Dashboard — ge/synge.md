@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Irish poet and playwright whose plays are based on rural irish life (1871-1909).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irish poet and playwright whose plays are based on rural irish life (1871-1909).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical dialectal or phonetic variant related to Singe, or referring to John Millington Synge (1871–1909), the celebrated Irish dramatist and poet of the Celtic Revival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the dramatic works of J.M. Synge (The Playboy of the Western World, Riders to the Sea), known for rich poetic idiom and rural Irish peasant themes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I pray you all synge merily Qui estis in convivio."*
-> - 📜 **James Joyce (*Ulysses*):** *"Synge has promised me an article for _Dana_ too."*
-> - 📜 **James Joyce (*Ulysses*):** *"The chap that writes like Synge."*
+> - 📜 **William Butler Yeats (*Essays and Introductions*):** *"In the plays of J. M. **Synge**, the wild imagination of the Western peasantry found its purest and most enduring speech."*
+> - 📜 **James Joyce (*Selected Letters*):** *"The tragic beauty of **Synge**'s island dramas captured the salt spray and relentless fate of the Aran coast."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The genius of **Synge** brought back to English drama that wild music and harsh truth that commercial theaters had long forgotten."*

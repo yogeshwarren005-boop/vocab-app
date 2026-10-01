@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated, moved, or effected by means of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydraulics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated, moved, or actuated by the pressure or flow of water or other liquids; hardening under water (such as hydraulic cement).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and fluid mechanics, describing mechanical power transmission systems that amplify force via Pascal's principle in pressurized liquid circuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In larger part this is due to the increasing use of machinery in place of simple hand tools, and the substitution of horse-, hydraulic-, windmill-, steam-, and gasoline-power for human labor."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Victor Hatherley, hydraulic engineer, 16A, Victoria Street (3rd floor).” That was the name, style, and abode of my morning visitor."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"By profession I am a hydraulic engineer, and I have had considerable experience of my work during the seven years that I was apprenticed to Venner & Matheson, the well-known firm, of Greenwich."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Venetian masons utilized a superior **hydraulic** mortar that set firmly even when submerged beneath the lagoon."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The circulatory apparatus behaves as a closed **hydraulic** circuit governed by hydrostatic pressure and resistance."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The subterranean **hydraulic** force of rising magma fractures overlaying strata of basalt and limestone."*

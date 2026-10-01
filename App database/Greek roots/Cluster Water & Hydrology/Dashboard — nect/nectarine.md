@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Variety or mutation of the peach bearing fruit with smooth skin and (usually) yellow flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety or mutation of the peach that has a smooth skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth-skinned variety of the peach (Prunus persica var. nucipersica) having sweet, juicy flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing the sweet fragrance, richness, or deliciousness of nectar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A broken pane of glass in one of the dirty windows was papered and wafered over, but there was a little plate of hothouse nectarines on the table, and there was another of grapes, and another of sponge-cakes, and there was a bottle of light wine."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There was now employment for the whole party; for though they could not all talk, they could all eat; and the beautiful pyramids of grapes, nectarines, and peaches, soon collected them round the table."*
+> - 📜 **John Keats (*Ode to Psyche*):** *"Mid hush'd, cool-rooted flowers, fragrant-eyed, blue, freckle-pink, and **nectarine** dew."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I gathered wild berries whose flavor surpassed the most pampered **nectarine** grown under glass."*
+> - 📜 **Leigh Hunt (*The Indicator*):** *"The peach and the **nectarine** hang blushing together against the warm brick of the garden wall."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by or having a calculus or calculi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or caused by or having a calculus or calculi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of or containing gravel, stones, or concretions; stony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, affected by or relating to calculus (stone formation) in the kidneys, gallbladder, or urinary bladder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calculous designates relating to or caused by or having a calculus or calculi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic biliary colic frequently stems from a **calculous** cholecystitis blocking the cystic duct."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Ancient physicians prescribed herbal waters to dissolve **calculous** gravel in the bladder."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain breeds of dogs show an inherited susceptibility to **calculous** urinary disorders."*

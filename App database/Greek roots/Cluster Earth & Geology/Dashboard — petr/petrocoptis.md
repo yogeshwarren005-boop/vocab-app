@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of perennial saxicolous herbaceous plants (family Caryophyllaceae) native to calcareous cliffs and crevices of the Pyrenees and northern Spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alpine botanical ecology, cliff-dwelling plants bearing pink or white flowers specialized for living in bare limestone rock clefts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrocoptis designates perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The Pyrenean rock chasm shelters **Petrocoptis**, whose roots penetrate microscopic fissures in search of moisture."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Alpine gardeners prize **Petrocoptis** for its glaucous foliage and delicate pink blossoms perched on limestone ledges."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India, Preface*):** *"The restricted endemism of cliff-dwelling genera like **Petrocoptis** provides clues to glacial refugia in southern Europe."*

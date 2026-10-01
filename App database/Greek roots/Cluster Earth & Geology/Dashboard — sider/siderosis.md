@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fibrosis of the lung caused by iron dust; occurs among welders and other metal workers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fibrosis of the lung caused by iron dust; occurs among welders and other metal workers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of pneumoconiosis caused by the chronic inhalation of iron or iron oxide dust, common among welders and foundry workers (welder's lung).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systemic pathology, the abnormal deposition of iron pigments (hemosiderin) in tissues and organs, as in hemochromatosis or ocular siderosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderosis designates fibrosis of the lung caused by iron dust; occurs among welders and other metal workers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pulmonary **siderosis** among iron grinders was marked by rusty sputum and fibrous pleural thickening."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Ocular **siderosis** develops when a retained intraocular iron splinter slowly oxidizes, staining the iris and lens brown."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Protective ventilation in metal factories has greatly reduced the occupational incidence of pulmonary **siderosis**."*

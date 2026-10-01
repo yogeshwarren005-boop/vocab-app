@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian sacrament marked by ritual use of water and admitting the recipient to the Christian community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-Christian rite using water for ritual purification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Christian sacrament or rite of admission and adoption into the Church, symbolized by the application of water (immersion, pouring, or sprinkling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any initiating experience, purifying ordeal, or critical trial that transforms character or marks an irrevocable entrance into a new role ('a baptism of fire').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under this conjuration speak, my lord, For we will hear, note, and believe in heart That what you speak is in your conscience washed As pure as sin with baptism."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Canterbury, I have a suit which you must not deny me: That is, a fair young maid that yet wants baptism."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Specially impressive also must have sounded the words which he always used on such occasions: "You have to-day fulfilled your baptism vow by taking upon yourselves the responsibilities hitherto discharged by your parents."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"At her **baptism** the primate prophesied that a golden age of peace and virtue would attend her reign."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The great baptizer came to the clear stream, and in the flood was dipped the Son of God, sanctifying our **baptism** with grace."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The delay of **baptism** was common among the early Christians, who reserved its saving wash until the deathbed."*

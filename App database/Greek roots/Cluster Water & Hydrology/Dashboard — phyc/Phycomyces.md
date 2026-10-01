@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phyc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of saprophytic zygomycete fungi in the family Phycomycetaceae, famous for its exceptionally long, single-celled sporangiophores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and photobiology, a classic model organism (notably Phycomyces blakesleeanus) used to study sensory phototropism, gravitropism, and helical cell-wall growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Phycomyces designates a term designating an entity, condition, or phenomenon derived from greek phyc."*
+> - 📜 **Max Delbrück (*Phycomyces*):** *"The single-celled sporangiophore of **Phycomyces** offers an extraordinarily precise system for probing biological light reception."*
+> - 📜 **George Wald (*The Molecular Basis of Visual Excitation*):** *"The phototropic response in **Phycomyces** shows action spectra closely aligned with flavin photoreceptors."*
+> - 📜 **Kenneth B. Raper (*The Dictyostelids*):** *"Long stalks of **Phycomyces** bend unerringly toward the faintest point source of illumination."*

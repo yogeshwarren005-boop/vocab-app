@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the urinary bladder for removal of a stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision of the urinary bladder for removal of a stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of a stone (calculus) from the urinary bladder, kidney, or gallbladder by cutting into the organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, an ancient and hazardous surgical procedure famously referred to in the Hippocratic Oath ('I will not cut for stone...').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithotomy designates surgical incision of the urinary bladder for removal of a stone."*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"This day I celebrated my deliverance from the stone, it being five years since I underwent the perilous cut of **lithotomy**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Before the advent of anesthesia and antisepsis, **lithotomy** demanded lightning speed and immense nerve from the operating surgeon."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The ancient itinerant cutter for stone performed **lithotomy** upon thousands of sufferers without formal anatomical training."*

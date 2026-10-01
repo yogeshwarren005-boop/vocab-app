@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in the metric system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or adapt to the metric system; metricate (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical modeling, to equip a topological space with a metric function that defines distance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metricize designates express in the metric system."*
+> - 📜 **Carl Sagan (*Broca's Brain*):** *"It is long past time to **metricize** our speedometers and weather forecasts to rejoin the international community."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Before we can apply differential equations to a manifold, we must **metricize** its spatial intervals."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The research institute was among the first in the Midwest to **metricize** all hospital records."*

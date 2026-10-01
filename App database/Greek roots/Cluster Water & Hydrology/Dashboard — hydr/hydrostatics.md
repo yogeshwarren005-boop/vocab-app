@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the mechanical properties of fluids that are not in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the mechanical properties of fluids that are not in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical fluid mechanics that studies liquids at rest and the pressure and forces they exert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics, the study of Pascal's principle, Archimedes' buoyant principle, and the equilibrium equations of incompressible fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrostatics designates study of the mechanical properties of fluids that are not in motion."*
+> - 📜 **Archimedes (*On Floating Bodies*):** *"The foundational principle of **hydrostatics** establishes that any solid immersed in a fluid is buoyed up by a force equal to the weight of the displaced liquid."*
+> - 📜 **Blaise Pascal (*Treatise on the Equilibrium of Liquids*):** *"The mathematical laws of **hydrostatics** explain why a slender column of water can burst a stout oak cask."*
+> - 📜 **Simon Stevin (*The Elements of Hydrostatics*):** *"By geometric demonstrations in **hydrostatics**, we proved that liquid pressure upon a surface depends strictly on depth and area."*

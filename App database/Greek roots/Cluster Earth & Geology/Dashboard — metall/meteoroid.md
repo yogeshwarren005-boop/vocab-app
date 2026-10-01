@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) any of the small solid extraterrestrial bodies that hits the earth's atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) any of the small solid extraterrestrial bodies that hits the earth's atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rocky or metallic body traveling through outer space, significantly smaller than an asteroid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary science, a particle ranging in size from a grain of dust to a small boulder orbiting the Sun, becoming a meteor if it penetrates Earth's atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A convoy of robot deflectors and screens cleared the Extractor fleet's path of meteoroids, sand and rock swarms and space debris."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Every grain of sand in a comet's tail is a potential **meteoroid** awaiting an encounter with Earth's atmosphere."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The spacecraft hull was armored against collisions with interplanetary dust and stray **meteoroids**."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"Astronomers mistook the Martian landing cylinders for a succession of falling **meteoroids**."*

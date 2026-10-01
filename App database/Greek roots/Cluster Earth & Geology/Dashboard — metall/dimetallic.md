@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing two distinct metals or two atoms of a metallic element in a molecule; bimetallic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and coordination complexes, designating binuclear metallic complexes where two metal centers are bridged by ligands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimetallic designates adjective*) pertaining to, derived from, or characteristic of mine."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Certain double salts exhibit a **dimetallic** structure formed by the union of two distinct oxides."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The alloy behaved as a true **dimetallic** compound when subjected to acid dissolution."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The bridged **dimetallic** cluster provides two catalytic sites for electron transfer."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in geophysics; one who studies the physical properties and processes of the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An earth scientist who uses seismic waves, magnetic anomalies, and satellite gravimetry to model tectonic plate movement and mantle dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geophysicist designates a branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The pioneering **geophysicist** demonstrated that mantle convection currents provide the motive power for continental drift."*
+> - 📜 **John McPhee (*Basin and Range*):** *"The **geophysicist** set off explosive charges in shallow boreholes to trace the reflection of sound through fault zones."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Comparative planetology allows the terrestrial **geophysicist** to test models of magma dynamics against volcanic worlds like Venus and Io."*

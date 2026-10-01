@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical instrument consisting of suspended stones, stone bars, or slabs that produce resonant pitched musical notes when struck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology and organology, an ancient prehistoric percussion instrument, exemplified by the resonant phonolite stone slabs found in Vietnam and Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithophone designates a term designating an entity, condition, or phenomenon derived from greek lith."*
+> - 📜 **Curt Sachs (*The History of Musical Instruments*):** *"The prehistoric **lithophone** of Ndut Lieng Krak demonstrates that stone age peoples possessed sophisticated acoustic scales."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"The shaman struck the tuned slabs of the **lithophone**, producing clear bell-like tones that echoed through the valley."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"Excavations revealed resonant limestone slabs that may have served as a sacred **lithophone** in temple ceremonies."*

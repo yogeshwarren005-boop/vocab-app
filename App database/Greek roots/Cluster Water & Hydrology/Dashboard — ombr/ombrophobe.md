@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ombr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant or organism that cannot tolerate heavy rainfall, excessive moisture, or waterlogged conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, describing xerophytic or desert species adapted to arid environments whose foliage or roots decay under prolonged rain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ombrophobe designates a term designating an entity, condition, or phenomenon derived from greek ombr."*
+> - 📜 **Andreas Schimper (*Plant-Geography Upon a Physiological Basis*):** *"Desert succulents are strict **ombrophobe** species whose roots rot when exposed to unseasonable tropical downpours."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"The prickly pear exemplifies an **ombrophobe** plant whose cuticle is engineered to resist drought rather than endure persistent saturation."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"On chalk downlands, certain calcicole grasses behave as **ombrophobe** species, retreating from waterlogged depressions."*

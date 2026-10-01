@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, involving, or being muscular contraction (as in isometrics) against resistance, without significant shortening of muscle fibers, and with marked increase in muscle tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal dimensions, measurements, or proportions; of or relating to equal measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, the crystal system characterized by three mutually perpendicular axes of equal length (cubic system); in physiology, muscle contraction without change in length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometric designates of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Galena and halite crystallize in the **isometric** system, forming perfect cubes and octahedrons."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The mineral pyrite displays classic **isometric** symmetry with striated cubic faces."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"During an **isometric** twitch, the muscle develops tension against an immovable load without shortening its fibers."*

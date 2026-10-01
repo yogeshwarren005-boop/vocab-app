@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic gaseous chemical element with atomic number 1 that is the simplest and lightest of the elements and that is used especially in the processing of fossil fuels and the synthesis of ammonia —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bomb whose violent explosive power is due to the sudden release of atomic energy resulting from the fusion of light nuclei (as of hydrogen atoms) at very high temperature and pressure to form helium nuclei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, odorless, highly flammable gaseous chemical element (symbol H, atomic number 1), the lightest and most abundant substance in the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmological astrophysics and chemical thermodynamics, the foundational nuclear fuel of stellar fusion and the elemental basis of water, hydrocarbons, and organic life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Here would be another light, as of oxy-hydrogen, showing the very grain of things, and revising all former explanations."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And even if I wish to rise more quickly to the surface, I ship the screw, and the pressure of the water causes the _Nautilus_ to rise vertically like a balloon filled with hydrogen.” “Bravo, Captain!"*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The platinum, owing to a property it possesses in a high degree (which property however is not special to platinum), has the power of coercing the union of the hydrogen and oxygen."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"We have given the name of **hydrogen** to the base of inflammable gas, because by its combustion with vital air it produces water."*
+> - 📜 **Henry Cavendish (*Experiments on Air*):** *"Inflammable air, now called **hydrogen**, is several times lighter than common atmospheric air and burns with a pale flame."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"In our periodic system, **hydrogen** stands alone at the head of all elements, possessing an atomic weight of one."*

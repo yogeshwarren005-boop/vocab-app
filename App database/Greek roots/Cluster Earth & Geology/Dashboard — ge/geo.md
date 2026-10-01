@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earth : ground : soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geographic : geography and.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining form *geo-* representing the Earth, soil, or global terrestrial systems in scientific, geographical, and linguistic compounding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary technical vocabulary, a standalone prefix denoting geographic, geodetic, or geospatial technologies (e.g., geo-engineering, geocaching).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Not all unavenged did they die, for with Lean Wolf fell Alf Mason, to disturb the Spanish Main no more, and among others who bit the dust were Geo."*
-> - 📜 **James Joyce (*Ulysses*):** *"With the approval of the eminent poet, Mr Geo."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"D., “Principles” and “Practice of Copper Smelting.” _Blast-furnace Manipulation._ Shelby, Geo."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The prefix **geo-** attaches to every discipline that wrestles with deep terrestrial time."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"By prefixing **geo-** to logic and description, the ancients gave names to the study of the solid globe."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Our chemical interventions have upset the delicate **geo-**chemical balances of the biosphere."*

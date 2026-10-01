@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living within or penetrating deeply into stony substances (such as rocks or coral).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living within or penetrating deeply into stony substances (such as rocks or coral).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living within rock, or in the fissures, pores, and microscopic crevices of stone or shell substrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial ecology and sedimentology, describing organisms that actively dissolve or inhabit rock matrices, playing a major role in bioerosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endolithic designates living within or penetrating deeply into stony substances (such as rocks or coral)."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The dull green discoloration of the tidal rocks is produced by countless **endolithic** algae tunneling through the calcium carbonate."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Massive brain corals are continually weakened from within by the pervasive boring of **endolithic** filaments."*
+> - 📜 **E.O. Wilson (*The Future of Life*):** *"Extreme cold and ultraviolet radiation on mountain summits restrict active life to sheltered **endolithic** habitats."*

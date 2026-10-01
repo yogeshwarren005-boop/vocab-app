@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to diarrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to diarrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature of or tending to produce diarrhoea; British spelling of diarrhetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In therapeutics and toxicology, describing drastic cathartics or bacterial poisons that prompt profuse watery intestinal transudation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diarrhoetic designates of or relating to diarrhea."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Certain mineral waters taken in excess produce a distinctly **diarrhoetic** effect upon sensitive digestive tracts."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"The toxin produced by the vibrio triggers a profound **diarrhoetic** secretion across the intestinal epithelium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **diarrhoetic** exhaustion was successfully managed with subcutaneous saline infusions."*

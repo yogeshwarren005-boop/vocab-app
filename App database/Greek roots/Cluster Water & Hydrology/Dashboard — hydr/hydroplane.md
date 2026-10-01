@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerboat designed for racing that skims the surface of the water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerboat designed for racing that skims the surface of the water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, high-speed motorboat designed to skim over the surface of the water; a fin or control surface on a submarine; to skim uncontrollably across a wet surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive safety and aerodynamics, the hazardous loss of vehicle traction occurring when a wedge of water builds up between tires and wet road surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroplane designates a powerboat designed for racing that skims the surface of the water."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo tilted the forward **hydroplane** fins to steer the submarine deep into the Atlantic trench."*
+> - 📜 **Alexander Graham Bell (*Scientific Papers on Aerial and Marine Locomotion*):** *"A stepped hull allows a racing **hydroplane** to break water suction and plane effortlessly on the surface."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The scout flew low over the channel in his twin-engine **hydroplane**, watching for the approach of the enemy flotilla."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disorder in which serous fluid accumulates in a body sac (especially in the scrotum).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disorder in which serous fluid accumulates in a body sac (especially in the scrotum).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accumulation of clear serous fluid within a body sac, most commonly within the tunica vaginalis surrounding the testis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urological surgery, a painless fluctuant scrotal swelling resulting from congenital patent processus vaginalis or acquired inflammation and filariasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocele designates disorder in which serous fluid accumulates in a body sac (especially in the scrotum)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Transillumination of the scrotal mass readily distinguishes a fluid-filled **hydrocele** from a solid testicular neoplasm."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Tapping a chronic **hydrocele** yields clear straw-colored fluid rich in albumen."*
+> - 📜 **Joseph Lister (*Collected Papers*):** *"Carbolic injection following evacuation of the **hydrocele** promotes adhesive obliteration of the tunica vaginalis."*

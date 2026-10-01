@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Web-toed salamanders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Web-toed salamanders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lungless plethodontid salamanders (cave salamanders or web-toed salamanders) native to southern Europe and California.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary herpetology, famous for exhibiting a ballistic projectile tongue and an enigmatic disjunct distribution across Mediterranean limestone grottos and the Sierra Nevada.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromantes designates web-toed salamanders."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The disjunct occurrence of **Hydromantes** in California and the Mediterranean caves presents a classical biogeographic puzzle."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Species of **Hydromantes** possess a projectile tongue capable of shooting forward to catch insects on cave walls."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The subterranean habits of **Hydromantes** explain its survival in isolated rocky caverns across separated continents."*

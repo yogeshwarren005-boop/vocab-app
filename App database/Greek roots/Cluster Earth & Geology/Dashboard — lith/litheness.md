@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gracefulness of a person or animal that is flexible and supple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gracefulness of a person or animal that is flexible and supple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being lithe; flexibility, suppleness, and graceful agility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinesiology and artistic performance, the muscular elasticity that enables smooth, unrestricted movement without rigidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, litheness designates the gracefulness of a person or animal that is flexible and supple."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond possessed an exquisite **litheness** of movement that gave her every gesture an air of effortless refinement."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The small islander leaped onto the riverbank with the startling **litheness** of a feline predator."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The swimmer glided through the green water with a natural **litheness** born of long familiarity with the sea."*

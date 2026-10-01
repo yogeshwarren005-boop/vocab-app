@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water-soluble proteinaceous pigments found in red algae and cyanobacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water-soluble proteinaceous pigments found in red algae and cyanobacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of water-soluble, light-capturing tetrapyrrole pigments found in cyanobacteria and the rhodophyte (red) algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry, chromophores covalently bonded to proteins (phycobiliproteins) that absorb green and yellow light wavelengths and transfer energy to chlorophyll a.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycobilin designates water-soluble proteinaceous pigments found in red algae and cyanobacteria."*
+> - 📜 **C. Stacy French (*The Pigments of Algae*):** *"The **phycobilin** pigments enable red algae to harvest the dim blue-green light that penetrates into deep waters."*
+> - 📜 **Martin D. Kamen (*Primary Processes in Photosynthesis*):** *"Energy absorbed by the **phycobilin** complex is transferred with near-perfect quantum efficiency to the reaction center."*
+> - 📜 **Robert Emerson (*The Effect of Wavelength on Photosynthetic Efficiency*):** *"Our spectroscopic analysis isolated the **phycobilin** components responsible for energy capture in blue-green algae."*

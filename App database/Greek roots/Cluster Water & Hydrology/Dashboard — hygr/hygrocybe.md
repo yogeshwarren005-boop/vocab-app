@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family hygrophoraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family hygrophoraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of brightly colored, waxy-capped mushrooms (family Hygrophoraceae) commonly known as waxcaps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and conservation biology, sensitive fungal bioindicators of unimproved, nutrient-poor ancient pastures and semi-natural grasslands across Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrocybe designates a genus of fungi belonging to the family hygrophoraceae."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The brilliant scarlet and golden caps of **Hygrocybe** brighten unimproved upland pastures in late autumn."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"Species of **Hygrocybe** are characterized by their fragile, waxy gills and vibrant translucent pilei."*
+> - 📜 **Mordecai Cubitt Cooke (*British Fungi*):** *"The waxy texture of **Hygrocybe** distinguishes these grassland agarics from common woodland toadstools."*

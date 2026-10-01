@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard of measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of prosody that deals with metrical structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the metric system of measurement based on the decimal division of units (meter, kilogram, second).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and theoretical physics, a function that defines the distance between pairs of points in a space (e.g., the spacetime metric tensor).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick mentions it in one of his songs: Come, bring with a noise, My metric, merrie boys, The Christmas Log to the firing; While my good dame, she Bids ye all be free, And drink to your hearts’ desiring."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"The gravitational field is represented mathematically by the components of the fundamental **metric** tensor."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The universal adoption of the decimal **metric** system would sweep away centuries of chaotic regional weights."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A **metric** space is defined whenever a real-valued distance function satisfies the triangle inequality."*

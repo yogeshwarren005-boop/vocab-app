@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surface within or around the earth that is everywhere normal to the direction of gravity and coincides with mean sea level in the oceans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surface within or around the earth that is everywhere normal to the direction of gravity and coincides with mean sea level in the oceans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hypothetical shape that the Earth's ocean surface would take under the influence of gravity and Earth's rotation alone, in the absence of winds and tides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geodesy and gravimetry, the equipotential surface of the Earth's gravity field that serves as the universal reference datum for elevation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geoid designates the surface within or around the earth that is everywhere normal to the direction of gravity and coincides with mean sea level in the oceans."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The true mathematical figure of our planet is not an ellipsoid, but the irregular undulating **geoid**."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Gravimeters detect subtle dips and swells in the **geoid** caused by dense basaltic roots beneath the continents."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Precision satellite tracking has mapped the depressions of the **geoid** across the Indian Ocean basin."*

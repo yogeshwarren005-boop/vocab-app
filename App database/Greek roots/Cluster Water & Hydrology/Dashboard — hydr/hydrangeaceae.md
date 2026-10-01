@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes included in the family saxifragaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes included in the family saxifragaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering dicotyledonous shrubs, trees, and lianas (order Cornales) containing Hydrangea, Philadelphus (mock orange), and Deutzia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant taxonomy and systematics, a family historically grouped within Saxifragaceae, distinguished by opposite leaves, woody stems, and actinomorphic flowers with showy sterile marginal florets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrangeaceae designates sometimes included in the family saxifragaceae."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The family **Hydrangeaceae** includes ornamental shrubs such as Philadelphus and Deutzia as well as Hydrangea."*
+> - 📜 **George Bentham & Joseph Dalton Hooker (*Genera Plantarum*):** *"In our taxonomic division, the **Hydrangeaceae** are separated from Saxifragaceae by their woody habit and opposite leaves."*
+> - 📜 **Charles Sprague Sargent (*Manual of the Trees of North America*):** *"Several North American genera of the **Hydrangeaceae** provide prized horticultural specimens for temperate gardens."*

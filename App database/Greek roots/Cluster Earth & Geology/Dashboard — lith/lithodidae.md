@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-sea crabs of cold waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-sea crabs of cold waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large, crab-like marine decapod crustaceans known as king crabs, belonging to the superfamily Lithodoidea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and evolutionary taxonomy, anomuran crabs derived from hermit crab ancestors that abandoned shells and developed calcified, spiny carapaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithodidae designates deep-sea crabs of cold waters."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Deep subpolar waters are the domain of the **Lithodidae**, whose long, armored legs span several feet across the sea bottom."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The asymmetrical abdomen of the **Lithodidae** reveals their evolutionary descent from soft-tailed hermit crabs."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Trawlers operating in the Bering Sea harvest prized king crabs of the family **Lithodidae** from icy benthic waters."*

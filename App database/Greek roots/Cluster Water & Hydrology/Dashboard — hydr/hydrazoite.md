@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of hydrazoic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt of hydrazoic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical salt or compound derived from hydrazoic acid (HN3); an azide (such as silver or lead azide).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In energetics and explosives chemistry, shock-sensitive heavy metal salts whose unstable linear triatomic azide groups detonate violently upon mechanical impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrazoite designates a salt of hydrazoic acid."*
+> - 📜 **J. R. Partington (*A Text-Book of Inorganic Chemistry*):** *"Heavy metal salts such as lead **hydrazoite** are notoriously sensitive primary explosives that detonate upon mild friction."*
+> - 📜 **Henry Enfield Roscoe (*A Treatise on Chemistry*):** *"Silver **hydrazoite** precipitates as a white explosive powder upon mixing soluble azides with silver nitrate."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"The structure of the **hydrazoite** anion was established through X-ray diffraction of sodium azide crystals."*

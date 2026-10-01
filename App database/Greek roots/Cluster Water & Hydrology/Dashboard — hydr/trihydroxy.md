@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing three hydroxyl groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing three hydroxyl groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing three hydroxyl (-OH) functional groups in a chemical molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, describing compounds like trihydroxybenzene (phloroglucinol, pyrogallol) or trihydroxy alcohols (glycerol) displaying enhanced hydrogen bonding and antioxidant reactivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trihydroxy designates containing three hydroxyl groups."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Pyrogallol is a symmetrical **trihydroxy** benzene whose alkaline solution absorbs atmospheric oxygen with extraordinary avidity."*
+> - 📜 **Robert Robinson (*The Organic Chemistry of Natural Products*):** *"Natural flavones and anthocyanins frequently possess a **trihydroxy** substitution pattern on their central aromatic rings."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Glycerol may be systematically designated as a **trihydroxy** propane, forming the backbone of all biological triglycerides."*

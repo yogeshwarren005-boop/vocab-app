@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile, flammable liquid mixture of hydrocarbons derived from petroleum, used as fuel for internal combustion engines; gasoline (chiefly British).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive and industrial history, a refined petroleum distillate with boiling range 35°C–200°C that powered the 20th-century transportation revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Between 70 deg. and 120 deg. petroleum ether and petroleum naphtha are produced, and they together constitute what is commonly called petrol."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If the fuel be petrol it vaporises at the ordinary temperature of the engine and needs no added heat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A tank full of petrol is extremely dangerous, so much so that the storage of petrol is hedged about by all manner of precautions."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The motor car was fueled with high-grade **petrol** and waited in the shadow of the coastal lane."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"The smell of sweet country air was smothered by the reek of burning **petrol** from the passing lorries."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"The abandoned motor car still smelled of spilled **petrol** in the deserted village square."*

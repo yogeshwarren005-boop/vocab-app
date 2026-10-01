@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of labridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of labridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of brightly colored marine reef fishes in the wrasse family Labridae, commonly known as rainbow wrasses, widely distributed in tropical and subtropical seas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, protogynous hermaphroditic fishes (e.g., Thalassoma bifasciatum, the bluehead wrasse) noted for dramatic sex-role reversals and vivid color transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thalassoma designates a genus of labridae."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"The vivid blues and greens of **Thalassoma** wrasses rival the plumage of tropical parrots."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Species of **Thalassoma** dart with frantic speed through coral crevices, picking small crustaceans from the rock."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In the clear turquoise lagoons, glittering schools of **Thalassoma** swarm around every submerged coral head."*

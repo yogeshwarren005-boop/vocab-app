@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psamm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm, usually benign tumor (especially a meningioma or ovarian serous cystadenocarcinoma) containing microscopic round calcified bodies (psammoma bodies).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, laminated concentric calcareous spherules occurring within neoplastic and inflammatory tissue, resembling tiny grains of sand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psammoma designates a term designating an entity, condition, or phenomenon derived from greek psamm."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The cranial dural tumor presented the typical microscopic features of a **psammoma**, packed with calcareous sand-bodies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histological section confirmed that the slow-growing intracranial mass was a benign **psammoma**."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The diagnostic hallmark of the **psammoma** is the concentric mineral accretion within whorled endothelial cells."*

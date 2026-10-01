@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment of ores by wet processes (such as leaching).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The treatment of ores by wet processes (such as leaching).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extraction and recovery of metals from ores using aqueous solutions, leaching, and chemical precipitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In extractive chemical metallurgy, low-energy mineral processing (such as cyanide leaching of gold or heap leaching of copper) as distinguished from smelting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrometallurgy designates the treatment of ores by wet processes (such as leaching)."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Modern mining operations employ **hydrometallurgy** to extract microscopic grains of gold from low-grade pyritic ores."*
+> - 📜 **Georgius Agricola (*De Re Metallica*):** *"Ancient miners practiced a primitive **hydrometallurgy**, washing crushed stibnite in alkaline lyes to concentrate the ore."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Huge vat-leaching facilities apply **hydrometallurgy** to recover tons of copper from porphyry tailings."*

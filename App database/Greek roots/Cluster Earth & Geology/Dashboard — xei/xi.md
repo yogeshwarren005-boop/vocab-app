@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 14th letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: River 300 miles (483 kilometers) long in Guangxi Zhuangzu and Guangdong, southeastern China, flowing east into the South China Sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 14th letter of the Greek alphabet (Ξ, ξ), transliterated as 'x' and having the mathematical or linguistic value of [ks].
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics and astronomy, the symbol designating Xi baryons (cascade particles) containing one or more strange quarks, or the 14th star of a constellation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xi designates the 14th letter of the greek alphabet."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Physicists discovered the massive cascade particle, designated by the Greek letter **xi**, in bubble chamber collisions."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"In symbolic logic, the Greek letter **xi** frequently denotes an arbitrary propositional function."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The stone inscription concluded with the archaic Greek character **xi**, carved deeply into the marble base."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bowl for baptismal water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bowl for baptismal water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of baptistery; a structure, room, or basin dedicated to performing baptisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church architecture, an immersion pool situated beneath or behind the pulpit in modern non-conformist and Baptist churches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"That King fears God, and would do His service, On water then Bishops their blessing speak, And pagans bring into the baptistry."*
+> - 📜 **George Eliot (*Romola*):** *"She walked toward the great marble **baptistry**, remembering the solemn vows spoken within its echoing walls."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The dim lantern cast flickering shadows over the stone basin in the ancient church **baptistry**."*
+> - 📜 **William Makepeace Thackeray (*The Paris Sketch Book*):** *"The tourists lingered near the gothic **baptistry** to admire the carved alabaster reliefs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek or.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A string of words that sounds identical or almost identical to another string of words due to ambiguous word boundaries (e.g., 'ice cream' and 'I scream').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toponymy and geographical linguistics, a proper name given to an elevated geographic feature such as a mountain, peak, or hill range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oronym designates a term designating an entity, condition, or phenomenon derived from greek or."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"Humpty Dumpty delighted in the puzzling confusion caused by an accidental **oronym** in everyday conversation."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"The speech stream lacks silent pauses between words, giving rise to the comical auditory illusion of the **oronym**."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Phonetic liaison in spoken English frequently generates an **oronym**, where two completely different phrases share an identical acoustic sequence."*

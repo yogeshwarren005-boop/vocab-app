@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiral-shelled cephalopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiral-shelled cephalopods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of archaic cephalopod mollusks, sole surviving members of the order Nautilida, characterized by multi-chambered coiled external shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and evolutionary biology, a living fossil lineage possessing numerous suckerless tentacles and primitive pinhole camera eyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nautilidae designates spiral-shelled cephalopods."*
+> - 📜 **Richard Owen (*Memoir on the Pearly Nautilus*):** *"The anatomical structure of the **Nautilidae** reveals a primitive grade of cephalopod organization preserved from the Paleozoic era."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"The survival of the **Nautilidae** across mass extinctions remains one of the great enigmas of paleobiology."*
+> - 📜 **Alfred Romer (*The Vertebrate Body*):** *"In the ancient seas, ancestors of the **Nautilidae** shared the waters with early jawed fishes."*

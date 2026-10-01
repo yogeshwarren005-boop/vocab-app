@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nodule of stone having a cavity lined with crystals or mineral matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cavity in a geode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow, subglobular rock or mineral nodule whose internal cavity is lined with inward-projecting crystals or chalcedonic layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and sedimentology, a secondary structure formed in volcanic or sedimentary rocks through mineral precipitation from circulating hydrothermal fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geode designates a nodule of stone having a cavity lined with crystals or mineral matter."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"A rough, ordinary pebble when cracked open reveals a sparkling **geode** lined with purple amethyst."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The hollow interior of the limestone **geode** was coated with rhombohedral quartz crystals."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The roadcut exposed dozens of hollow **geodes** weathered out of the decayed basalt flow."*

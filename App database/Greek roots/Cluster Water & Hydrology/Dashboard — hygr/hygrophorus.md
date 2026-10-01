@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family hygrophoraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family hygrophoraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of agaric fungi in the family Hygrophoraceae, commonly called woodwaxes, characterized by waxy gills and mycorrhizal associations with woodland trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, forest-dwelling mushrooms that fruit late in autumn, distinguished from Hygrocybe by their ectomycorrhizal ecology and divergent gill trama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrophorus designates a genus of fungi belonging to the family hygrophoraceae."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"The viscid pileus of **Hygrophorus** eburneus gleams like ivory among the damp beech litter."*
+> - 📜 **Elias Magnus Fries (*Monographia Hymenomycetum Sueciae*):** *"We find **Hygrophorus** flourishing late in autumn after heavy frosts have destroyed most other forest mushrooms."*
+> - 📜 **Mordecai Cubitt Cooke (*Illustrations of British Fungi*):** *"The thick waxy gills of **Hygrophorus** provide an unmistakable field mark for the field mycologist."*

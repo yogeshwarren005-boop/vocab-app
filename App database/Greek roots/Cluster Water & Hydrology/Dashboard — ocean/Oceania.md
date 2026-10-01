@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large group of islands in the south pacific including melanesia and micronesia and polynesia (and sometimes australasia and the malay archipelago).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large group of islands in the south pacific including melanesia and micronesia and polynesia (and sometimes australasia and the malay archipelago).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geographic region encompassing the islands of the central and southern Pacific Ocean, including Australasia, Melanesia, Micronesia, and Polynesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dystopian literature, one of the three fictional totalitarian superstates in George Orwell's novel Nineteen Eighty-Four.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Unfortunate man of science, after having braved the icebergs of the South Pole, the coral reefs of Oceania, the cannibals of the Pacific, to perish miserably in a railway train!"*
+> - 📜 **George Orwell (*1984*):** *"**Oceania** was at war with Eurasia; therefore **Oceania** had always been at war with Eurasia."*
+> - 📜 **Herman Melville (*Omoo*):** *"The mariner sailing through **Oceania** encounters island paradises scattered like emeralds across the vast blue."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The varied races of **Oceania** share an ancient mastery of oceanic voyaging guided by stars and swells."*

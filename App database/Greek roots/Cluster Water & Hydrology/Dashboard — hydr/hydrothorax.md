@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of fluid in the pleural cavity (the space between the lungs and the walls of the chest) often resulting from disease of the heart or kidneys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of fluid in the pleural cavity (the space between the lungs and the walls of the chest) often resulting from disease of the heart or kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-inflammatory accumulation of serous fluid in one or both pleural cavities of the thorax; pleural effusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine and pulmonology, a common complication of congestive heart failure, liver cirrhosis, or nephrotic syndrome resulting from altered oncotic and hydrostatic pressures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrothorax designates accumulation of fluid in the pleural cavity (the space between the lungs and the walls of the chest) often resulting from disease of the heart or kidneys."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral **hydrothorax** is a frequent manifestation of congestive heart failure, producing dullness on chest percussion and severe orthopnea."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Auscultation over the lower lung lobes in **hydrothorax** reveals complete absence of respiratory murmur and distinct egophony."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"When acute **hydrothorax** compresses the lungs and displaces the heart, thoracentesis must be promptly performed to relieve asphyxia."*

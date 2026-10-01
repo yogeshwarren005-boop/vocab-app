@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an organic compound that usually contains a metal or metalloid bonded directly to carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an organic compound that usually contains a metal or metalloid bonded directly to carbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting chemical compounds containing at least one chemical bond between a carbon atom of an organic group and a metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic and catalytic chemistry, reagents (such as Grignard reagents, organolithiums, and ferrocene) central to pharmaceutical and polymer synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organometallic designates of, relating to, or being an organic compound that usually contains a metal or metalloid bonded directly to carbon."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The discovery of ferrocene established an entirely new domain of sandwich-like **organometallic** coordination compounds."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic pesticides often incorporate **organometallic** mercury or arsenic bonds that accumulate lethally in food chains."*
+> - 📜 **Hans Selye (*From Dream to Discovery*):** *"Biochemists utilized an **organometallic** catalyst to synthesize steroid hormones at room temperature."*

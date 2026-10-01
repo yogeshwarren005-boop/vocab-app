@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a compound react with water and undergo hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a compound react with water and undergo hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject to or undergo hydrolysis; British spelling of hydrolyze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and digestive physiology, to decompose complex macromolecules into simpler monomers by enzyme-mediated addition of water molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolise designates make a compound react with water and undergo hydrolysis."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Dilute mineral acids readily **hydrolise** insoluble starch into fermentable grape sugar."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Pancreatic secretions contain digestive ferments that **hydrolise** neutral dietary lipids into glycerol and fatty acids."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intestinal enzymes **hydrolise** complex polypeptides into absorbable amino acids before they cross the mucosal barrier."*

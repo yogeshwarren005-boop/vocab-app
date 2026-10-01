@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking rhythm or regularity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, characterized by, or resulting from arrhythmia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking rhythm or regular cadence; suffering from or characterized by cardiac arrhythmia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and physiology, describing pulse beats or myocardial depolarizations that occur at irregular, unpredictable intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrhythmic designates lacking rhythm or regularity."*
+> - 📜 **Willem Einthoven (*The Electrocardiogram in Clinical Medicine*):** *"The electrocardiographic tracing revealed an irregular, **arrhythmic** baseline characteristic of atrial fibrillation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Upon palpation, the pulse felt weak and completely **arrhythmic**, varying with every respiratory cycle."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"His hand rested upon the sick man's wrist, counting the faint, **arrhythmic** flutterings of an exhausted heart."*

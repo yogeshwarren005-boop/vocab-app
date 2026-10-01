@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of rain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of rain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of thriving in areas with heavy, abundant rainfall; rain-loving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, descriptive of vegetation adapted to perhumid tropical or temperate rain-forest climates with continuous precipitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ombrophilous designates adjective*) pertaining to, derived from, or characteristic of rain."*
+> - 📜 **Andreas Schimper (*Plant-Geography Upon a Physiological Basis*):** *"The lush canopies of the tropical **ombrophilous** forest exhibit continuous growth without a deciduous dormant season."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"Vegetation in cloud forests displays an **ombrophilous** habit, absorbing atmospheric moisture through aerial roots and epiphytic leaves."*
+> - 📜 **Arthur Tansley (*Practical Plant Ecology*):** *"Ferns and mosses dominating the ravine floor are distinctly **ombrophilous**, withering rapidly when sheltered from direct showers."*

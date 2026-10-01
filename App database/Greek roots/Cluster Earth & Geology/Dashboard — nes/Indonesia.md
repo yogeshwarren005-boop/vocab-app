@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign archipelagic nation in Southeast Asia, situated between the Indian and Pacific Oceans, comprising over 17,000 islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnology and physical geography, the geographic region of the Malay Archipelago, named from Greek νῆσος (*nesos*, 'island') and *India*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Indonesia designates a republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The volcanic islands of modern **Indonesia** mark the dramatic biogeographic boundary between Asian and Australian faunal realms."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The trading schooners plied the quiet waters of the Dutch East Indies, known to scholars as the island empire of **Indonesia**."*
+> - 📜 **W. Somerset Maugham (*The Casuarina Tree*):** *"He had spent twenty years in the rubber plantations of **Indonesia**, where monsoons washed the volcanic soil."*

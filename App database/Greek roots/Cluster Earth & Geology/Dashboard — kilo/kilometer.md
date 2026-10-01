@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to 1000 meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to 1000 meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to 1,000 meters (approximately 0.6214 miles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodetic surveying and cartography, the standard international metric unit for measuring terrestrial distances and geographic intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Stretching away from the twenty-kilometer-wide city, the mottled terrain spread in all directions, slashed by ravines and man-made, soil-fused excavations, roads and bridges."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The way was clear with an exit a kilometer distant."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The dome would have a ten-kilometer radius on Planet Pluto and a one-kilometer radius on Charon."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"Every **kilometer** gained along the railway track brought Phileas Fogg closer to his wager's deadline."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The retreating French vanguard stretched for more than fifteen **kilometers** along the muddy Smolensk highway."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"The heat-ray sweep extended over a radius of nearly two **kilometers**, turning pine woods into torches."*

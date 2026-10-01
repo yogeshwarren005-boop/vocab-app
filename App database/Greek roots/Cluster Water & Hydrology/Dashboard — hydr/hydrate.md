@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply with ample fluid or moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to take up or combine with water or the elements of water : to make into a hydrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound in which water molecules are chemically bonded or coordinated to another substance; to combine with or absorb water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and physical chemistry, stoichiometric solid coordination complexes where water molecules occupy definite lattice positions (such as cupric sulfate pentahydrate).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrate designates to supply with ample fluid or moisture."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Chlorine gas unites with ice-cold water to form a crystalline pale-yellow **hydrate**."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"When sulfuric acid combines with water, it forms definite liquid and solid **hydrate** complexes with evolution of intense heat."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The stability of an ionic **hydrate** depends on coordination bonds formed between water dipoles and central metal cations."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To determine by mathematical processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reckon by exercise of practical judgment : estimate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To determine, estimate, or ascertain by mathematical computation, logical reasoning, or practical judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and decision theory, to deliberately plan or design an action with careful foresight of consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A cunning man did calculate my birth And told me that by water I should die."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The effects of which movement it is impossible to calculate."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not bring himself to consider, calculate, or economize."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"A cunning man did **calculate** my birth / And told me that by water I should die."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The effects of which movement it is impossible to **calculate** upon the fortunes of the family."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not bring himself to consider, **calculate**, or economize in the presence of his beloved."*

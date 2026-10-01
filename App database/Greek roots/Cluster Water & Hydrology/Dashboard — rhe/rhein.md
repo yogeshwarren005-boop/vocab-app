@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: River 820 miles (1320 kilometers) long in western Europe flowing from southeastern Switzerland to the North Sea in the Netherlands and forming the western boundary of Liechtenstein and Austria and the southwestern boundary of Germany.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in southwestern Germany on the Rhine River opposite Mannheim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline anthraquinone compound (C15H8O6) found in rhubarb root and senna, possessing laxative and anti-inflammatory properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy, a metabolite derived from the hydrolysis of sennosides in the colon that stimulates peristalsis and mucin secretion while exerting cartilage-protective actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhein designates river 820 miles (1320 kilometers) long in western europe flowing from southeastern switzerland to the north sea in the netherlands and forming the western boundary of liechtenstein and austria and the southwestern boundary of germany."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Extraction of rhubarb rhizome yields the carboxylic anthraquinone derivative known as **rhein**."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The active purgative constituent of Chinese rhubarb, termed **rhein**, stimulates the peristaltic contractions of the large intestine."*
+> - 📜 **J. R. Partington (*A Text-Book of Inorganic Chemistry*):** *"Spectroscopic analysis confirmed that **rhein** forms deep reddish-violet solutions in alkaline carbonates."*

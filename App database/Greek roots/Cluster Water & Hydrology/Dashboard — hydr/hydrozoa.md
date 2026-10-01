@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hydr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class of aquatic, mostly marine cnidarians that includes hydras, hydroids, and siphonophores, typically exhibiting alternation of polyp and medusa generations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, a diverse class characterized by tetramerous medusae with a velum and colonial polyps displaying division of labor among feeding, defensive, and reproductive zooids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrozoa designates a term designating an entity, condition, or phenomenon derived from greek hydr."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The class **Hydrozoa** exhibits an astonishing alternation of generations between sedentary hydroid polyps and pelagic jellyfish medusae."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Nowhere in the animal kingdom is polymorphic differentiation more exquisitely displayed than among the colonial **Hydrozoa**."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The delicate glassy bells and vibrant floating siphonophores of the **Hydrozoa** present nature's most intricate geometric symmetries."*

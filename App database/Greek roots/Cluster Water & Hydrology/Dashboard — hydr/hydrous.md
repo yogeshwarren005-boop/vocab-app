@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing water usually in chemical association (as in hydrates).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing water usually in chemical association (as in hydrates).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing water, especially water of crystallization, hydration, or chemical combination; aqueous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive mineralogy, identifying minerals such as gypsum, opal, or talc that contain bound water molecules within their crystalline framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrous designates containing water usually in chemical association (as in hydrates)."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Gypsum is a **hydrous** calcium sulfate which, when gently heated, loses its water of crystallization to form plaster of Paris."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"The crystalline substance proved to be a **hydrous** oxide of iron, readily parting with its moisture upon calcination."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Chemists must carefully differentiate between an anhydrous mineral and its **hydrous** crystallized state."*

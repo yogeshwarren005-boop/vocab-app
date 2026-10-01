@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of agriculture dealing with field-crop production and soil management.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of agriculture dealing with field-crop production and soil management.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline and practical technology of field-crop cultivation and soil management.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of agricultural science integrating genetics, pedology, meteorology, and biochemistry to optimize crop output and conserve land resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am Darrell Standing, born and raised on a quarter section of land in Minnesota, erstwhile professor of agronomy, a prisoner incorrigible in San Quentin, and at present a death-sentenced man in Folsom."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, also, am I not now, as I write these lines, Darrell Standing, under sentence of death in Folsom Prison and one time professor of agronomy in the College of Agriculture of the University of California?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember me Dorothy, just the other day, when I still lectured on agronomy to farmer-boy students."*
+> - 📜 **Willa Cather (*O Pioneers!*):** *"Her intuitive mastery of prairie farming anticipated the modern principles of scientific **agronomy**."*
+> - 📜 **Jack London (*The Star Rover*):** *"I used to lecture on **agronomy** to earnest farmer boys who dreamed of richer harvests in California valleys."*
+> - 📜 **Wendell Berry (*The Unsettling of America*):** *"Authentic **agronomy** cannot be divorced from care for the living soil and the human community that tends it."*

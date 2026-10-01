@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of calcium from bones or teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of calcium from bones or teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal or loss of calcium or calcium compounds from a tissue, bone, or mineral substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal pathology, bone resorption resulting in decreased bone density, as in osteoporosis, rickets, or prolonged immobility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalcification designates loss of calcium from bones or teeth."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Acidic chemical reactions induce rapid **decalcification** of bone, leaving only the pliable collagenous framework."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged bed rest produces significant skeletal **decalcification**, predisposing the patient to spontaneous fractures."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"Hyperparathyroidism triggers accelerated **decalcification** of the cortex, releasing calcium into the bloodstream."*

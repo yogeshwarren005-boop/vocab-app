@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring an abundance of moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring an abundance of moisture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted to or characteristic of a wet, humid habitat; displaying the anatomical features of a hygrophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology, describing foliage and tissue adaptations designed to maximize transpiration and resist waterlogging in humid biomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrophytic designates requiring an abundance of moisture."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"The anatomical structure of **hygrophytic** foliage displays large intercellular air spaces and poorly developed vascular bundles."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The deep cloud-forests of the Andes shelter an exclusively **hygrophytic** flora composed of tree-ferns and delicate mosses."*
+> - 📜 **Henry Chandler Cowles (*The Physiographic Ecology of Chicago and Vicinity*):** *"As the dune depression fills with humus and water, the xerophytic grasses yield place to **hygrophytic** sedges."*

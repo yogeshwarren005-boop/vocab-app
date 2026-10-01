@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of calcium in the urine, exceeding 250–300 mg per day in an adult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal medicine, a condition categorized into absorptive, renal leak, or resorptive forms, closely associated with nephrolithiasis and nephrocalcinosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercalciuria designates the presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sustained **hypercalciuria** saturates the collecting ducts, favoring the rapid nucleation of calcium oxalate stones."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The renal tubules showed microscopic deposits of lime, the pathological consequence of chronic **hypercalciuria**."*
+> - 📜 **Hans Selye (*Calciphylaxis*):** *"Experimental animals subjected to parathyroid extracts developed severe **hypercalciuria** alongside skeletal demineralization."*

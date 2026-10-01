@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pelag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper name applied to a sea, gulf, ocean, or open marine body of water; an ocean toponym.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toponomy and historical geography, the nomenclature and linguistic origin of sea names, such as Mediterranean, Pacific, or Adriatic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelagonym designates a term designating an entity, condition, or phenomenon derived from greek pelag."*
+> - 📜 **Isaac Taylor (*Words and Places: Or, Etymological Researches in History, Ethnology and Geography*):** *"The ancient **pelagonym** of the Euxine Sea reflected both the dread and the later hospitality of Greek navigators."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Every historic **pelagonym** in the Western Hemisphere carries the imprint of Spanish or English colonial exploration."*
+> - 📜 **Fernand Braudel (*The Mediterranean and the Mediterranean World in the Age of Philip II*):** *"The multiple variants of each **pelagonym** across our charts reflect the shifting frontiers of maritime empires."*

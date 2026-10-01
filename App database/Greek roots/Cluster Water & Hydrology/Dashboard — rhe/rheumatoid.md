@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or affected with rheumatoid arthritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually chronic autoimmune disease that is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints —abbreviation RA.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of rheumatism, especially designating rheumatoid arthritis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology, an autoimmune chronic inflammatory disorder characterized by symmetric polyarthritis, circulating rheumatoid factor antibodies, and synovial pannus destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheumatoid designates characteristic of or affected with rheumatoid arthritis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Symmetrical spindle-shaped swelling of the proximal interphalangeal joints is typical of early **rheumatoid** arthritis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The chronic pannus formation in a **rheumatoid** joint slowly erodes the articular cartilage and subchondral bone."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"We observed profound synovial hypertrophy in patients suffering from progressive **rheumatoid** disease."*

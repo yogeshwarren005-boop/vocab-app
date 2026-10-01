@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parsley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parsley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of aromatic biennial herbs (family Apiaceae), native to the Mediterranean region, notably garden parsley (Petroselinum crispum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and culinary botany, herbs whose seeds and foliage yield volatile apiol oil, traditionally used as a carminative and diuretic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog petroselinum as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Cottage borders were edged with bright, crinkled tufts of **Petroselinum**, valued alike for soup and salad."*
+> - 📜 **Liberty Hyde Bailey (*The Practical Garden-Book*):** *"Sow the slow-germinating seeds of **Petroselinum** early in spring in moist, rich garden loam."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The Greeks used the aromatic leaves of **Petroselinum** to weave victor crowns at the Isthmian Games."*

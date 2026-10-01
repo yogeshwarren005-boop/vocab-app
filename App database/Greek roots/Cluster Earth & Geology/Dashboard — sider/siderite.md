@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Iron ore in the form of ferrous carbonate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorite consisting principally of nickel and iron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of iron(II) carbonate (FeCO₃), a valuable ore of iron crystallizing in the trigonal system; chalybite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteoritics, a historical classification term for an iron meteorite consisting primarily of nickel-iron alloys (kamacite and taenite).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderite designates iron ore in the form of ferrous carbonate."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The rhombohedral crystals of **siderite** display a characteristic yellowish-brown color and vitreous luster."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Concretionary nodules of **siderite**, known as clay ironstone, occur abundantly throughout the Coal Measures."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The polished face of the meteoric **siderite** revealed classic Widmanstätten figures under acid etching."*

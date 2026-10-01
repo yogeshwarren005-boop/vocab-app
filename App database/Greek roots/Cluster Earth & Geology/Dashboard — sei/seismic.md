@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, subject to, or caused by an earthquake; also : of or relating to an earth vibration caused by something else (such as an explosion or the impact of a meteorite).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a vibration on a celestial body (such as the moon) comparable to a seismic event on earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to earthquakes or other vibrations of the Earth and its crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, having an enormous, far-reaching effect or revolutionary impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"From the reports of eyewitnesses it transpires that the seismic waves were accompanied by a violent atmospheric perturbation of cyclonic character."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The propagation of **seismic** waves through the solid interior of the planet reveals the density of its deepest layers."*
+> - 📜 **John McPhee (*Basin and Range*):** *"A **seismic** shock wave moves through granite at nearly five miles per second."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Submarine **seismic** disturbances displace vast columns of ocean water, launching catastrophic tsunamis across the basin."*

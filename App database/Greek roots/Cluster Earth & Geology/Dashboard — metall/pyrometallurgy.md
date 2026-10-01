@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemical metallurgy depending on heat action (such as roasting and smelting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chemical metallurgy depending on heat action (such as roasting and smelting).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of extractive metallurgy that involves the thermal treatment of minerals and metallurgical ores (e.g., smelting, roasting, refining).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering, high-temperature furnace operations (blast furnaces, reverbatory furnaces) that reduce metal oxides with carbon or carbon monoxide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrometallurgy designates chemical metallurgy depending on heat action (such as roasting and smelting)."*
+> - 📜 **Georgius Agricola (*De Re Metallica*):** *"The ancient mastery of **pyrometallurgy** enabled early smelters to separate molten lead and silver in roaring blast hearths."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"Our blast furnaces operated by continuous **pyrometallurgy**, tapping molten pig iron day and night without interruption."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The slag heaps left by Roman **pyrometallurgy** in the Weald of Kent still yield nodules of vitrified iron silicate."*

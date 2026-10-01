@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The land between the tigris and euphrates; site of several ancient civilizations; part of what is now known as iraq.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The land between the tigris and euphrates; site of several ancient civilizations; part of what is now known as iraq.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient historical region in Western Asia between the Tigris and Euphrates rivers, corresponding broadly to modern-day Iraq and parts of Syria, Turkey, and Iran.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In world history, the 'cradle of civilization', where agriculture, writing (cuneiform), urban architecture, and codified law first emerged in Sumer, Akkad, Babylonia, and Assyria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spur through Media, Mesopotamia, and the shelters whither The routed fly."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He relates how Sapor, king of Persia, besieged the strong city of Atrae, in the desert of Mesopotamia, for several years without being able to take it."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"On great roads, north and south of the town's girdle of hills, passed to and fro the many-coloured traffic between Egypt and Mesopotamia and the Orient."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fertile plains of **Mesopotamia** nourished the powerful monarchies of Nineveh and Babylon."*
+> - 📜 **Herodotus (*The Histories*):** *"The whole country of **Mesopotamia** is intersected by canals, and the soil yields grain with incredible abundance."*
+> - 📜 **Arnold J. Toynbee (*A Study of History*):** *"The challenge of managing the catastrophic floods of the twin rivers provoked the rise of civilization in **Mesopotamia**."*

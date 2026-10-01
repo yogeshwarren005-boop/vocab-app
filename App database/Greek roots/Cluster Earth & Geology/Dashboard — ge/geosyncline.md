@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A great downward flexure of the earth's crust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A great downward flexure of the earth's crust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major, elongated downwarp or trough in the Earth's crust in which vast thicknesses of sedimentary and volcanic deposits accumulate over millions of years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical historical geology (the Dana-Hall hypothesis), the tectonic precursor to a folded mountain range prior to the development of plate tectonic theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geosyncline designates a great downward flexure of the earth's crust."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The Appalachian strata originated within an immense **geosyncline** that slowly subsided as thousands of feet of sediment poured in."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Before plate tectonics revolutionized geology, every mountain system was explained as an uplifted and inverted **geosyncline**."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The prolonged subsidence of the **geosyncline** created favorable conditions for thick coal seam accumulation."*

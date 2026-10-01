@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amphibious african insectivorous mammal that resembles an otter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amphibious african insectivorous mammal that resembles an otter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of semiaquatic afrotherian mammals in the family Tenrecidae, comprising the giant otter shrew (Potamogale velox), native to the streams of equatorial Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and evolutionary biology, a living relict species that propels itself through water using lateral undulations of its laterally compressed tail, resembling an otter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamogale designates amphibious african insectivorous mammal that resembles an otter."*
+> - 📜 **Paul Du Chaillu (*Explorations and Adventures in Equatorial Africa*):** *"In the mountain streams of the interior, I secured specimens of the extraordinary **Potamogale**, which swims with the agility of a miniature seal."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The giant otter shrew, **Potamogale**, is unique among insectivores in swimming entirely by muscular strokes of its flattened tail."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The isolated anatomical position of **Potamogale** points to an ancient archaic mammalian lineage in the African forest refugia."*

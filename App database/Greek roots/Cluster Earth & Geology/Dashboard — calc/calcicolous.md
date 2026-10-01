@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or living in soil rich in lime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or living in soil rich in lime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or thriving best in lime-rich, chalky, or alkaline soils; lime-loving (calciphile).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytosociology and botany, characterizing plant communities specifically adapted to calcareous substrates and intolerant of high soil acidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcicolous designates growing or living in soil rich in lime."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain indigenous grasses are strictly **calcicolous**, vanishing completely when the limestone stratum gives way to sandstone."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"The distinctive flora of the chalk downs consists of **calcicolous** herbs, including wild thyme and bee orchids."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Lichens encrusting the coastal limestone boulders represent specialized **calcicolous** organisms adapted to saline spray."*

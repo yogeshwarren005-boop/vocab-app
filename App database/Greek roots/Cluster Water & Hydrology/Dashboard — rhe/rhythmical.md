@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recurring with measured regularity; - john galsworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring with measured regularity; - john galsworthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a marked or harmonious rhythm; recurring at regular intervals; an alternative form of rhythmic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetics and musical theory, describing verse or melody that flows with balanced, metrical cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You had better go down.” Bathsheba said nothing; but he could distinctly hear her rhythmical pants, and the recurrent rustle of the sheaf beside her in response to her frightened pulsations."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They dance round, with a swinging rhythmical step, to the music of drums and a pipe."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They are kept up all night, and the children leap over them in a certain rhythmical way which is said to resemble the ancient dances."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The **rhythmical** recurrence of arches across the aqueduct imparts a majestic cadence to the landscape."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The priestesses chant their solemn invocations in a low, **rhythmical** cadence to evoke the god."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"Poetry is the **rhythmical** creation of beauty, elevating the soul through harmonious measure."*

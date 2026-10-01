@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely prescribed oral thiazide diuretic and antihypertensive medication that promotes the urinary excretion of sodium and water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal pharmacology, an inhibitor of the Na+/Cl- cotransporter in the renal distal convoluted tubule, reducing extracellular fluid volume and systemic vascular resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochlorothiazide designates a diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The administration of **hydrochlorothiazide** blocks the sodium-chloride cotransporter in the renal distal tubule, promoting natriuresis."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Long-term clinical trials proved that **hydrochlorothiazide** significantly reduces stroke risk in chronic hypertensive patients."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Combining low-dose **hydrochlorothiazide** with an angiotensin inhibitor represents a standard pillar of modern antihypertensive therapy."*

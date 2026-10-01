@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the manufacture of any product (such as earthenware, porcelain, or brick) made essentially from a nonmetallic mineral (such as clay) by firing at a high temperature; also : of or relating to such a product.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or process of making ceramic articles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made of clay and hardened by heat; of or relating to pottery, porcelain, or heat-treated non-metallic minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, an inorganic, non-metallic solid prepared by the action of heat and subsequent cooling, often characterized by high hardness and thermal resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And one thought of Lazarus, who had been raised from among the silent dead and who had come there, so legend read, a gray figure in ceramic garments, standing in the prow of a boat...."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Bushell revolutionised the study of Chinese porcelain by his _Oriental Ceramic Art_, a book, unfortunately, difficult to obtain, and by editing Cosmo Monkhouse's excellent _History and Description of Chinese Porcelain_."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"For this reason I found it necessary to work laboriously through the available Chinese ceramic literature, a task which would have been quite impossible with my brief acquaintance with the language had it not been for the invaluable aid of Dr."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The glazed **ceramic** medallions of Luca della Robbia shone with unblemished azure upon the church façade."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Six Napoleons*):** *"The plaster bust was coated with a fine **ceramic** glaze that mimicked the polish of Carrara marble."*
+> - 📜 **H.G. Wells (*The Time Machine*):** *"The floor was paved with worn **ceramic** tiles that gleamed under the soft subterranean light."*

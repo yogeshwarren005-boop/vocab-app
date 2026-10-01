@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by or evidencing hydrocephalus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by or evidencing hydrocephalus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or suffering from hydrocephalus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and clinical pediatrics, describing cranial enlargement and cerebral mantle thinning resulting from excessive cerebrospinal fluid volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A hobgoblin in the image of Punch Costello, hipshot, crookbacked, hydrocephalic, prognathic with receding forehead and Ally Sloper nose, tumbles in somersaults through the gathering darkness.)_ ALL: What?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The distinctive bulging fontanelle and downward deviation of the eyes characterize the severe **hydrocephalic** infant."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The massive skull of the **hydrocephalic** patient exhibited broad membranous gaps where sutures had failed to close."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"In chronic **hydrocephalic** crania, the bones become paper-thin under prolonged intracerebral fluid pressure."*

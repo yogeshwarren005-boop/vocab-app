@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of an apogee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of an apogee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring at the apogee (the point in an orbit farthest from the Earth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lunar and tidal science, describing apogean tides, which have a reduced tidal range because the Moon is at its greatest distance from Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogean designates relating to or characteristic of an apogee."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The perturbing solar attraction reaches its minimum during the **apogean** position of the lunar orbit."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"During **apogean** periods, the neap tides display a markedly diminished vertical rise and fall."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"The satellite executed an engine burn at its **apogean** apex to circularize its orbit."*

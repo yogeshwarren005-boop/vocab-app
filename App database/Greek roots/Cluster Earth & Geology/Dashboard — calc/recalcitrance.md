@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being unmanageable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unmanageable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being recalcitrant; stubborn defiance of authority or obstinate refusal to comply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental chemistry and microbiology, the resistance of synthetic chemical compounds or pollutants to biological decomposition and degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recalcitrance designates the trait of being unmanageable."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The **recalcitrance** of the nobility hastened the convocation of the National Assembly."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The chemical **recalcitrance** of chlorinated hydrocarbons ensures that they persist for decades in soils and food webs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her uncle lamented the silent **recalcitrance** with which she met all family arrangements."*

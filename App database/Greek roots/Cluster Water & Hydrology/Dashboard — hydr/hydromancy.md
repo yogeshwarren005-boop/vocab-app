@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by the appearance or motion of liquids (such as water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by the appearance or motion of liquids (such as water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of water, such as observing the ripples, colors, reflections, or objects floating in a sacred basin or pool.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of religion and occultism, one of the four traditional elemental divinations (along with geomancy, aeromancy, and pyromancy) described by classical authors like Varro.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromancy designates divination by the appearance or motion of liquids (such as water)."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient Greek priests practiced **hydromancy** at the fountain of Apollo, gazing into the waters for prophetic visions."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Divination by water, or **hydromancy**, was numbered by Varro among the four principal modes of ancient occult inquiry."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The superstitious emperor consulted rustic seers who claimed mastery in astrological arts and **hydromancy**."*

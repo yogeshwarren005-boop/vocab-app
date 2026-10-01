@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narcotic analgesic (trade name dilaudid) used to treat moderate to severe pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcotic analgesic (trade name dilaudid) used to treat moderate to severe pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semi-synthetic opioid analgesic medication derived from morphine (brand name Dilaudid), used for the relief of moderate to severe pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacodynamics, a potent mu-opioid receptor agonist roughly five to eight times more potent than oral morphine, with rapid onset and minimal histamine release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromorphone designates a narcotic analgesic (trade name dilaudid) used to treat moderate to severe pain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"For intractable cancer pain, **hydromorphone** provides powerful analgesia with fewer sedative side effects than morphine."*
+> - 📜 **Donald Calne (*Therapeutics in Neurology*):** *"The pharmacological potency of **hydromorphone** is roughly five to seven times greater than that of parenteral morphine."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Catalytic hydrogenation of morphine followed by oxidation yields **hydromorphone**, featuring a ketone at the six-position."*

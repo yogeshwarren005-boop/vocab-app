@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: orogeny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: orogeny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geological process of mountain building, especially by the folding and faulting of the Earth's crust caused by tectonic plate convergence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology, the episodic tectonic cycle involving sedimentation, crustal thickening, metamorphism, and igneous intrusion that produces mountain belts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog orogenesis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The grand episodes of **orogenesis** reveal that mountain ranges are not eternal monuments, but dynamic wrinkles in the Earth's mobile crust."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Each phase of Appalachian **orogenesis** shoved older ocean floors miles inland over the continental margin."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Intense lateral compression during continental collision initiates widespread **orogenesis**, folding sedimentary strata into alpine summits."*

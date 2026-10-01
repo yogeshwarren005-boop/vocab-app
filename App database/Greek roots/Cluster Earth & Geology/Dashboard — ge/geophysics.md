@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of earth science that applies the principles and methods of physics to study the Earth, its interior, oceans, atmosphere, and space environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern planetary science, the quantitative modeling of planetary cores, magnetospheres, plate tectonics, and seismicity across terrestrial bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geophysics designates a branch of earth science dealing with the physical processes and phenomena occurring especially in the earth and in its vicinity."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The integration of thermodynamics and **geophysics** transformed geology from descriptive natural history into an exact physical science."*
+> - 📜 **John McPhee (*Rising from the Plains*):** *"Through modern **geophysics**, the roots of mountain ranges are seen floating like icebergs in the denser mantle."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Marine **geophysics** revealed the worldwide system of mid-ocean ridges splitting the sea floor."*

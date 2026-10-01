@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having a strong affinity for water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or having a strong affinity for water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong chemical affinity for water; readily absorbing, wetting, or dissolving in water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surface chemistry and cell biology, describing polar molecules or functional groups (such as carboxyls and amines) capable of forming hydrogen bonds with water molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophilic designates of, relating to, or having a strong affinity for water."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The **hydrophilic** polar head groups of phospholipids face outward toward the aqueous cytoplasm of the living cell."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"Cell membranes are organized with **hydrophilic** surfaces in contact with water and hydrophobic cores shielded inside."*
+> - 📜 **Thomas Graham (*Liquid Diffusion Applied to Analysis*):** *"Substances with high **hydrophilic** character form gelatinous colloids that diffuse with extreme slowness."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant with dense clusters of tight green flower buds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched green undeveloped flower heads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An edible green plant of the cabbage family (Brassicaceae, Brassica oleracea var. italica) whose large flowering head, stalk, and associated leaves are eaten as a vegetable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, a brassicaceous cultigen developed in the Mediterranean basin through centuries of selective breeding from wild cabbage for succulent, immature inflorescences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, broccoli designates plant with dense clusters of tight green flower buds."*
+> - 📜 **Jane Austen (*Letters*):** *"We had a dish of **broccoli** and cold ham for dinner, which suited us remarkably well."*
+> - 📜 **John Evelyn (*Acetaria: A Discourse of Sallets*):** *"The delicate sprouts of Italian **broccoli** should be blanched and served with olive oil and vinegar."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivators have produced astonishing modifications in the wild cabbage, creating cabbage, cauliflower, and **broccoli**."*

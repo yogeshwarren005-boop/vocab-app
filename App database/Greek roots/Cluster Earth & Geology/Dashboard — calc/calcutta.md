@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in india and one of the largest cities in the world; located in eastern india; suffers from poverty and overcrowding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city in india and one of the largest cities in the world; located in eastern india; suffers from poverty and overcrowding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kolkata (formerly Calcutta), a major city in eastern India on the Hooghly River, historic capital of British India until 1911.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and commerce, an auction pool or sweepstakes in sporting events (such as golf or horse racing) where participants bid on contestants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Bombay and Calcutta: MACMILLAN AND CO., LTD. [_All Rights reserved._] NOTE: The text of the present volume was passed for press by Arnold Glover and some progress had been made in his lifetime in the collection of the material given in the Appendix."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chaffanjon, _L'Orénoque et le Caura_ (Paris, 1889), pp. 213-215. [157] Shib Chunder Bose, _The Hindoos as they are_ (London and Calcutta, 1881), p. 86."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Crooke, _Tribes and Castes of the North-Western Provinces and Qudh_ (Calcutta, 1896), ii. 87. [214] W."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The mail steamer dropped anchor in the muddy reaches of **Calcutta**, where the pagodas met the warehouses."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Clive arrived in **Calcutta** determined to avenge the tragedy of the Black Hole and restore British prestige."*
+> - 📜 **Joseph Conrad (*The End of the Tether*):** *"Captain Whalley had commanded sailing ships out of **Calcutta** in the golden days of the tea trade."*

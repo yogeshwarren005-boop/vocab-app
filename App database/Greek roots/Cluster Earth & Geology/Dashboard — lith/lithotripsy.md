@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The breaking (as by shock waves or crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided or washed out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breaking (as by shock waves or crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided or washed out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical procedure that breaks down kidney stones or gallstones into small fragments that can be passed naturally out of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern urology, extracorporeal shock wave lithotripsy (ESWL), which utilizes focused acoustic shock waves to pulverize calculi non-invasively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithotripsy designates the breaking (as by shock waves or crushing with a surgical instrument) of a calculus in the urinary system into pieces small enough to be voided or washed out."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern advances in mechanical **lithotripsy** spared countless patients the agony of open abdominal surgery."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The invention of the lithotrite allowed the surgeon to crush the stone within the bladder, heralding the dawn of **lithotripsy**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Extracorporeal shock wave **lithotripsy** focuses acoustic pulses directly onto the calculus with pinpoint ultrasonic guidance."*

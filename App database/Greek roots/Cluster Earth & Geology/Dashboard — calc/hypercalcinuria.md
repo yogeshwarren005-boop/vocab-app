@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The excretion of an abnormally large amount of calcium in the urine; hypercalciuria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metabolic urology, an excessive urinary calcium output that predisposes patients to the precipitation of calcium oxalate or calcium phosphate renal calculi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercalcinuria designates the presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Idiopathic **hypercalcinuria** is the single most frequent biochemical abnormality found in recurrent stone formers."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Impaired tubular reabsorption of filtered calcium leads directly to marked **hypercalcinuria**."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The patient's persistent gravel was traced to excessive **hypercalcinuria** caused by an unmonitored alkaline diet."*

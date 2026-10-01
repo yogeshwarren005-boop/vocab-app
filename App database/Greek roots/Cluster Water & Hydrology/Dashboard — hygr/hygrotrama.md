@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family hygrophoraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family hygrophoraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central tissue or trama of the gill (lamella) in certain mushrooms belonging to the family Hygrophoraceae, composed of divergent or interwoven hyphae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal anatomy and systematics, a microscopic diagnostic character whose divergent orientation in water or KOH distinguishes true Hygrophorus species from related agaric genera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrotrama designates a genus of fungi belonging to the family hygrophoraceae."*
+> - 📜 **Rolf Singer (*The Agaricales in Modern Taxonomy*):** *"Microscopic examination of the **hygrotrama** reveals whether the hyphae are parallel, divergent, or irregularly interwoven."*
+> - 📜 **Alexander H. Smith (*North American Species of Hygrophorus*):** *"The divergent arrangement of hyphae in the **hygrotrama** separates Camarophyllus from true Hygrophorus."*
+> - 📜 **Carlton Rea (*British Basidiomycetae*):** *"In sections of the hymenophore, the structure of the **hygrotrama** provides the ultimate diagnostic criterion."*

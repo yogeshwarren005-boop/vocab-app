@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of iron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of iron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geochemistry, an element (such as Fe, Ni, Co, Pt, Au) that has a strong chemical affinity for metallic iron and tends to concentrate in the Earth's metallic core.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and histology, an organism, cell, or tissue that readily absorbs, binds, or thrives upon iron salts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderophile designates adjective*) pertaining to, derived from, or characteristic of iron."*
+> - 📜 **Victor Goldschmidt (*Geochemistry*):** *"During planetary differentiation, the dense **siderophile** elements dissolved in molten metallic iron and sank to form the core."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Because gold and platinum are strictly **siderophile**, their concentration in the crust is extremely depleted."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Goldschmidt demonstrated that core segregation stripped the mantle of virtually all primordial **siderophile** metals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hydr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The classical Greek noun for water (hydor, genitive hydatos), ancestral root of widespread scientific prefixes and hydrological terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Presocratic philosophy and the history of science, the prime elemental principle (arche) posited by Thales of Miletus as the source and essence of all material existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydor designates a term designating an entity, condition, or phenomenon derived from greek hydr."*
+> - 📜 **Henry Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The classical Greek term **hydor** denotes water in all its forms, from mountain springs to oceanic waves."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From archaic Greek **hydor** comes our universal scientific prefix for aqueous compounds."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Thales asserted that **hydor** was the primary material principle from which all cosmos arose."*

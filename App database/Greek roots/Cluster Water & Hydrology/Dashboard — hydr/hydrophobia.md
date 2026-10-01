@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: rabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a morbid dread of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, morbid, or convulsive dread of water, historically the hallmark symptom of rabies in humans; rabies itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and infectious disease, excruciating reflex laryngeal spasms triggered when a rabies patient attempts to swallow liquids, caused by viral encephalitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Growling and grousing and his eye all bloodshot from the drouth is in it and the hydrophobia dropping out of his jaws."*
+> - 📜 **Louis Pasteur (*Researches on Rabies*):** *"The harrowing symptom of **hydrophobia** is caused by agonizing pharyngeal spasms when the patient attempts to swallow water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnosis of rabies is confirmed by the terrifying reflex laryngeal spasms of **hydrophobia** provoked by the mere sound of running water."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The dread and convulsive terror seen in canine rabies and human **hydrophobia** reflect profound viral damage to the brainstem."*

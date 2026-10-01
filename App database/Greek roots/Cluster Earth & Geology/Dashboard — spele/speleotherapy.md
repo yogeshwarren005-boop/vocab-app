@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spele.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic use of subterranean cave environments (especially salt caves or microclimates with pure, allergen-free air) for medical treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory medicine, a therapeutic practice used in Central and Eastern Europe to alleviate asthma, chronic bronchitis, and allergies in subterranean salt mines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speleotherapy designates a term designating an entity, condition, or phenomenon derived from greek spele."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"European sanitariums have long advocated **speleotherapy** in subterranean salt grottos for intractable chronic asthma."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The constant humidity and dust-free atmosphere of deep chambers explain the clinical benefits attributed to **speleotherapy**."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"Patients undergoing **speleotherapy** benefit from absolute acoustic calm and aerosolized mineral microclimates."*

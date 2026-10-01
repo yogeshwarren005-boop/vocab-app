@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek potam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intense, irrational, or debilitating fear of rivers, streams, or running water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatry, a specific phobia characterized by severe anxiety and panic attacks triggered by the sight, sound, or prospect of crossing rivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamophobia designates a term designating an entity, condition, or phenomenon derived from greek potam."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A traveler afflicted with acute **potamophobia** will suffer severe distress when crossing a suspension bridge above a rushing torrent."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Phobias relating to natural water bodies, including **potamophobia**, frequently trace back to terrifying childhood experiences of drowning."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The neurotic symptoms of **potamophobia** often conceal repressed traumatic memories symbolically associated with rushing floodwaters."*

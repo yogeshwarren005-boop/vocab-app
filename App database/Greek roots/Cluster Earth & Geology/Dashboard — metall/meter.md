@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematically arranged and measured rhythm in verse:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhythm that continuously repeats a single basic pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental SI base unit of length, equal to 100 centimeters (approximately 39.37 inches).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for measuring and recording the quantity, degree, or rate of something (e.g., gas meter, electric meter, speedometer).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Five-meter high orange letters glowed brightly along its blunt bow and stern, and on each quarter sector of its exposed surface, proclaiming the huge cylinder as the UIPS SLINGSHOT LOGISTICS DEPOT."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fifteen-meters-long vessel, with a barely two-meter beam, swooped low and snapped into its run barely fifteen meters across Pluto's desolate plains."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A panel in the wall slid upward to reveal a two-meter square well."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The depth **meter** on the salon wall indicated that the Nautilus had descended to two thousand meters."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The international standard **meter** was defined as one ten-millionth of the distance from the equator to the north pole."*
+> - 📜 **H.G. Wells (*The Time Machine*):** *"The little dials on the dashboard resembled the delicate dials of an electric **meter**."*

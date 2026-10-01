@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of lithuania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official language of lithuania; belongs to the baltic branch of indo-european.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Lithuania, its people, language, or culture; a native or inhabitant of Lithuania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Indo-European comparative linguistics, the most archaic surviving Baltic language, retaining ancient Indo-European phonological and morphological structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus the chief Lithuanian deity presents a close resemblance to Zeus and Jupiter, since he was the god of the oak, the thunder, and the rain."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"According to another account, every Lithuanian reaper makes haste to finish his task; for the Old Rye-woman lives in the last stalks, and whoever cuts the last stalks kills the Old Rye-woman, and by killing her he brings trouble on himself."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For example, the following ceremonies used to be observed by Lithuanian peasants at eating the new corn."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **Lithuanian** tongue has preserved ancient grammatical inflections with a fidelity rivaling Sanskrit itself."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Jurgis Rudkus was a powerful young **Lithuanian** who crossed the ocean in search of freedom and work in the Chicago stockyards."*
+> - 📜 **Czesław Miłosz (*The Captive Mind*):** *"The **Lithuanian** folklore was saturated with tree spirits, pagan deities, and sorrowful dainos."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of proteidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of proteidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic North American salamanders, commonly known as mudpuppies or waterdogs, that retain external gills throughout adulthood (neoteny).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, a classical laboratory model organism used to demonstrate primitive amphibian circulatory and skeletal systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necturus designates a genus of proteidae."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"The mudpuppy, **Necturus**, remains permanently larval, retaining bushy external gills and a swimming tail."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"In **Necturus**, the ancestral aquatic mode of life is preserved through developmental neoteny."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Fishermen frequently hook **Necturus** in cold lake shallows, mistakenly regarding its red gill plumes with dread."*

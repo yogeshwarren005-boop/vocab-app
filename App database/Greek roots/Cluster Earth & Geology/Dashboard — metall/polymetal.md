@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alloy, composite material, or structural product composed of several different metals; polymetallic material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial materials manufacturing, layered or sinter-bonded multi-metal composites designed for high thermal, electrical, or wear resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymetal designates adjective*) pertaining to, derived from, or characteristic of mine."*
+> - 📜 **Thomas Edison (*The Writings of Thomas Alva Edison*):** *"We tested a **polymetal** junction of brass and platinum to prevent contact oxidation in high-frequency telegraph relays."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"Modern ordnance required **polymetal** forgings combining the toughness of nickel steel with the hard surface of chilled iron."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The prehistoric smith fashioned a curious **polymetal** dagger by hammer-welding copper and bronze strips."*

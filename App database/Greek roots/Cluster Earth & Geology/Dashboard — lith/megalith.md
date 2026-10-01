@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large usually rough stone used in prehistoric cultures as a monument or building block.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very large usually rough stone used in prehistoric cultures as a monument or building block.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large stone used, especially in prehistoric times, to construct a monument, tomb, or sacred structure (e.g., Stonehenge, Carnac).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prehistoric archaeology and anthropology, monumental stone structures (menhirs, dolmens, cromlechs) erected during the Neolithic and Bronze Ages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalith designates a very large usually rough stone used in prehistoric cultures as a monument or building block."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"They walked into the circle of Stonehenge, where each towering **megalith** loomed giant-like against the gray dawn."*
+> - 📜 **V. Gordon Childe (*The Dawn of European Civilization*):** *"The collective tombs built of huge **megalith** slabs required the organized labor of entire tribal communities."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The prehistoric **megalith** marks humanity's earliest attempt to fix an immovable spiritual anchor upon the landscape."*

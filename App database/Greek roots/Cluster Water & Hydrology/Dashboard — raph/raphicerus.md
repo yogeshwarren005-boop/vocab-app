@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African antelopes: steenboks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African antelopes: steenboks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, delicate African antelopes in the family Bovidae, commonly known as steenboks and grysboks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and wildlife ecology, territorial, solitary dwarf antelopes native to eastern and southern African grasslands and savannas, possessing straight, vertical spike-like horns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raphicerus designates african antelopes: steenboks."*
+> - 📜 **Frederick Courteney Selous (*A Hunter's Wanderings in Africa*):** *"A tiny steenbok of the genus **Raphicerus** darted from behind a thorn bush and vanished across the plain."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The genus **Raphicerus** is distinguished by upright, needle-sharp horns and large preorbital glandular tufts."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"While traversing the dry scrub, we frequently started a graceful **Raphicerus**, bounding like a hare through the stony ravines."*

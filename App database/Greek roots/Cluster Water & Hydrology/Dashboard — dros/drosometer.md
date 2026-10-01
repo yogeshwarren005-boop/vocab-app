@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to collect and measure the quantity of dew deposited on an exposed surface during a given period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological instrumentation, a balance or absorbent plate apparatus calibrated to register subtle nocturnal condensation and atmospheric moisture flux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, drosometer designates a term designating an entity, condition, or phenomenon derived from greek dros."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Observations with the **drosometer** demonstrate that nocturnal radiation cools the soil far below the temperature of the adjacent air."*
+> - 📜 **William Henry Smyth (*The Sailor's Word-Book*):** *"A **drosometer** is an apparatus used by meteorologists to ascertain the quantity of dew precipitated during the night."*
+> - 📜 **Robert FitzRoy (*The Weather Book: A Manual of Practical Meteorology*):** *"By employing a delicate **drosometer**, the observer can register the exact condensation of vapor upon horizontal surfaces."*

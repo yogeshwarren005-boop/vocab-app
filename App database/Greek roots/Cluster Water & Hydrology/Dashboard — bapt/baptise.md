@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer baptism to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer baptism to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To administer the sacrament or rite of baptism to an individual, typically involving immersion in or sprinkling with water; British spelling of baptize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To purify, initiate, or admit into a new community, faith, or state of being; metaphorically, to bestow a name or undergo a consecrating ordeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He’s not going out in bluey specs with the sweat rolling off him to baptise blacks, is he?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Repent, repent," John cries, "the judgement is coming." And men do repent, and John baptises them as a symbol that God has forgiven them."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is our experience that we repent and fall again; what else was the experience of the people whom John baptised?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He will **baptise** the child tomorrow morning in the old village church, as was arranged with the curate."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"They brought the infant to be **baptised** at the ancient stone font before the evening service began."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Seeing the child's life failing, she resolved to **baptise** the infant herself in the quiet bedchamber."*

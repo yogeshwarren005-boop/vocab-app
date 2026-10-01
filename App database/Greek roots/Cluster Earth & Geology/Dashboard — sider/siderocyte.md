@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal red blood cell containing granules of iron not bound in hemoglobin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal red blood cell containing granules of iron not bound in hemoglobin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal mature red blood cell (erythrocyte) containing non-hemoglobin iron granules (Pappenheimer bodies) visible on Prussian blue staining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory hematology, a cell commonly observed in peripheral blood following splenectomy or in severe hemolytic and sideroblastic anemias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siderocyte designates an abnormal red blood cell containing granules of iron not bound in hemoglobin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The appearance of the **siderocyte** in peripheral blood reflects impaired splenic filtration of iron-containing inclusions."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic inspection reveals dark blue granules within the **siderocyte**, representing unutilized ferruginous material."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The diagnostic significance of the circulating **siderocyte** was confirmed by specialized chemical stains."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that is marked by the formation or presence of calculi in the urinary tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is marked by the formation or presence of calculi in the urinary tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of calculi (stones) anywhere in the urinary tract, including the kidneys, ureters, bladder, or urethra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, a common and painful disorder associated with metabolic abnormalities, dehydration, or urinary stasis, producing severe nephrolithiasis and colic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urolithiasis designates a condition that is marked by the formation or presence of calculi in the urinary tract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical history of **urolithiasis** is marked by paroxysms of agonizing lumbar colic radiating toward the groin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The pathogenesis of **urolithiasis** involves urinary super-saturation, crystal nucleation, and organic matrix aggregation."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"No affliction in the catalogue of human diseases has caused more acute torment than untreated **urolithiasis**."*

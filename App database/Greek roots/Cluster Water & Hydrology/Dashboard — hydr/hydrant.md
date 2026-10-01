@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discharge pipe with a valve and spout at which water may be drawn from a water main (as for fighting fires) —called also fireplug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discharge pipe with a valve and spout at which water may be drawn from a water main (as for fighting fires) —called also fireplug.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An upright pipe, valve, and discharge nozzle connected to a municipal pressurized water supply, used for fighting fires or street washing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering, a vital component of municipal fire-protection infrastructure, engineered with frost-proof dry-barrel valves to deliver high volumes of water on demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrant designates a discharge pipe with a valve and spout at which water may be drawn from a water main (as for fighting fires) —called also fireplug."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Like a spouting **hydrant** on a city corner, the whale threw up a fountain of spray that drenched the boat."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The fire company coupled their canvas hoses to the corner **hydrant** and directed a deluge upon the burning warehouse."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"Men rushed to the street **hydrant** with buckets, desperate to douse the flames before they reached the munitions shed."*

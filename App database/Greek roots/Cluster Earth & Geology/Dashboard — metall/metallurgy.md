@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and technology of metals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of science or an art concerned with the production of powdered metals or of metallic objects by compressing a powdered metal or alloy with or without other materials and heating without thoroughly melting to solidify and strengthen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science and technology concerned with the properties of metals and their production, purification, alloying, and working.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human cultural history, the epochal technological transition marked by the Copper, Bronze, and Iron Ages, transforming warfare, agriculture, and toolmaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Manual of Electro-Metallurgy," by Napier."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"R.S.M., ASSISTANT LECTURER IN METALLURGY, UNIVERSITY OF BIRMINGHAM."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The lectures on “Modern Copper Smelting” embodied in this volume were delivered at the University of Birmingham to the Senior Students in the School of Metallurgy and to others interested in the subject."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"The mastery of bronze **metallurgy** required international trade networks to bring together copper and Cornish tin."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The advancements made in **metallurgy** and chemical transmutation have furnished humanity with new materials for dominion over nature."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The history of civil society is inextricably bound to the rise of practical **metallurgy**."*

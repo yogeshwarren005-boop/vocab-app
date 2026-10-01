@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematician specializing in geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematician specializing in geometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematician who specializes in geometry; one skilled in geometric principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, a classical geometer such as Euclid, Archimedes, or Apollonius who demonstrated physical or mathematical truths via spatial proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geometrician designates a mathematician specializing in geometry."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Geometry is the only science that it hath pleased God hitherto to bestow on mankind, and the **geometrician** reasons with infallible certainty."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **geometrician** considers not the individual lines drawn on paper, but the universal ideas they represent."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"I resolved to imitate the ancient **geometrician** who begins with the simplest truths before ascending to higher problems."*

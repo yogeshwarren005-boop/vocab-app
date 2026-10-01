@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metallurgy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to metallurgy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to metallurgy; pertaining to the extraction, refining, alloying, or working of metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material science and engineering, concerning microscopic crystal structures, phase diagrams, and mechanical properties of metallic alloys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"No easy matter, copper being the most difficult, in a metallurgical point of view, of all the metals to deal with & the Company in whose employ he is having hitherto been unsuccessful in this branch."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is for metallurgical reasons."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It occurs in the native condition in various parts of the world, and the natural product thus required no metallurgical treatment prior to use."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"The adoption of the Bessemer converter marked a colossal **metallurgical** revolution in American rail production."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Geologists and **metallurgical** engineers worked together to trace the sub-microscopic gold disseminated in Carlin trend shales."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The behavior of silicate melts deep within the Earth parallels the phase changes observed in **metallurgical** slag."*

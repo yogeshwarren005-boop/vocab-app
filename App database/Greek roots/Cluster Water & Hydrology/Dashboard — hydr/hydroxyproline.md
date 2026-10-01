@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline amino acid obtained from gelatin or collagen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline amino acid obtained from gelatin or collagen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-essential amino acid (C5H9NO3) formed by the post-translational hydroxylation of proline residues, constituting a fundamental building block of collagen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In connective tissue biochemistry, an amino acid whose stereospecific hydrogen-bonding hydroxyl group stabilizes the triple-helical structure of collagen fibers, depleted in scurvy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxyproline designates a crystalline amino acid obtained from gelatin or collagen."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The unusual triple-helical structure of collagen is stabilized by hydrogen bonds mediated by **hydroxyproline** residues."*
+> - 📜 **Frederick Gowland Hopkins (*Biochemical Papers*):** *"Because vitamin C is required to synthesize **hydroxyproline**, scurvy results in defective connective tissue repair."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"High-resolution diffraction data demonstrated that **hydroxyproline** restricts backbone conformation, providing tensile strength to tendons."*

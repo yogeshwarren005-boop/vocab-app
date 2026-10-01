@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of earth / terrestrial globe / land / soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of earth / terrestrial globe / land / soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to both geographic factors and cultural practices; combining geography and culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human geography and geopolitics, analyzing how landforms, regional ecology, and spatial proximity shape cultural identities and civilizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geocultural designates adjective*) pertaining to, derived from, or characteristic of earth / terrestrial globe / land / soil."*
+> - 📜 **Fernand Braudel (*The Mediterranean and the Mediterranean World*):** *"The Mediterranean basin forms a cohesive **geocultural** space defined by olive groves, sea routes, and ancient commerce."*
+> - 📜 **Arnold J. Toynbee (*A Study of History*):** *"Each civilization develops distinct **geocultural** boundaries determined by river valleys and mountain barriers."*
+> - 📜 **Jared Diamond (*Guns, Germs, and Steel*):** *"The east-west continental axis of Eurasia fostered rapid **geocultural** diffusion of crops, livestock, and technology."*

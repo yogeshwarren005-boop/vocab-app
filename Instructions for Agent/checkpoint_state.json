@@ -1,7 +1,7 @@
 {
   "startedAt": "2026-09-30T17:10:00+08:00",
-  "lastUpdatedAt": "2026-10-01T14:12:00+08:00",
-  "currentMilestone": "Milestone 4: Greek roots curation (Cluster Cognition & Mind COMPLETED)",
+  "lastUpdatedAt": "2026-10-01T15:10:00+08:00",
+  "currentMilestone": "Milestone 4: Greek roots curation (Cluster Water & Hydrology COMPLETED)",
   "milestones": {
     "milestone_0_instructions": "completed",
     "milestone_1_mobile_ui": "completed",
@@ -56,7 +56,9 @@
     "Greek roots: Cluster Cognition & Mind",
     "Greek roots: Cluster Beginning & Primacy",
     "Greek roots: Cluster Writing & Script",
-    "Greek roots: Cluster Medicine & Pathology"
+    "Greek roots: Cluster Medicine & Pathology",
+    "Greek roots: Cluster Earth & Geology",
+    "Greek roots: Cluster Water & Hydrology"
   ],
   "stats": {
     "totalWordFiles": 47447,
@@ -65,8 +67,8 @@
     "englishVocabMasterClusters": 30,
     "englishVocabMasterWords": 514,
     "englishVocabMasterIssuesRemaining": 0,
-    "greekRootsClustersCompleted": 15,
-    "greekRootsWordsCurated": 3377,
+    "greekRootsClustersCompleted": 17,
+    "greekRootsWordsCurated": 4110,
     "greekRootsClusterPowerStrengthDominionIssues": 0,
     "greekRootsClusterScienceInquiryIssues": 0,
     "greekRootsClusterSelfIdentityIssues": 0,
@@ -81,6 +83,8 @@
     "greekRootsClusterCognitionMindIssues": 0,
     "greekRootsClusterBeginningPrimacyIssues": 0,
     "greekRootsClusterWritingScriptIssues": 0,
-    "greekRootsClusterMedicinePathologyIssues": 0
+    "greekRootsClusterMedicinePathologyIssues": 0,
+    "greekRootsClusterEarthGeologyIssues": 0,
+    "greekRootsClusterWaterHydrologyIssues": 0
   }
 }

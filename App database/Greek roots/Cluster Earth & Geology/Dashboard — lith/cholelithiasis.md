@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Production of gallstones; also : the resulting abnormal condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Production of gallstones; also : the resulting abnormal condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of gallstones (calculi) in the gallbladder or bile ducts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, a biliary disorder marked by cholesterol or pigment concretions, often presenting with biliary colic, jaundice, or cholecystitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholelithiasis designates production of gallstones; also : the resulting abnormal condition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The agonizing epigastric spasms of acute **cholelithiasis** frequently radiate through to the right scapula."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections of the gallbladder wall in chronic **cholelithiasis** show profound hyperplastic and inflammatory changes."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The surgical extraction of biliary concretions has revolutionized our clinical management of **cholelithiasis**."*

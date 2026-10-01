@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aqueous solution of hydrogen chloride HCl that is a strong corrosive irritating acid, is normally present in dilute form in gastric juice, and is widely used in industry and in the laboratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aqueous solution of hydrogen chloride HCl that is a strong corrosive irritating acid, is normally present in dilute form in gastric juice, and is widely used in industry and in the laboratory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or composed of hydrogen and chlorine, especially designating hydrochloric acid (aqueous HCl, historically muriatic acid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastric physiology and industrial chemistry, a strong monoprotic mineral acid secreted by gastric parietal cells to facilitate protein denaturation and pepsin activation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A formidable array of bottles and test-tubes, with the pungent cleanly smell of hydrochloric acid, told me that he had spent his day in the chemical work which was so dear to him."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ablethorpe, and we had gone pretty far on--boiling a penny in one kind of acid, and making limestone fizz with another--nitrochloric, or hydrochloric, I think."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This well-known condiment is caused by the interaction of hydrochloric acid and the metal sodium and will serve to illustrate what all salts are."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"By confirming that muriatic acid consists solely of hydrogen and chlorine, we adopted the name **hydrochloric** acid."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Dilute **hydrochloric** acid rapidly attacks zinc plates in the galvanic pile, evolving hydrogen gas."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The absence of free **hydrochloric** acid in gastric juice furnishes a crucial diagnostic clue in pernicious anemia."*

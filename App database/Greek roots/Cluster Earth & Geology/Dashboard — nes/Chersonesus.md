@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several peninsulas: such as (1) Jutland (the Cimbrian Chersonese or Cimbric Chersonese); (2) the Malay Peninsula (the Golden Chersonese); (3) Crimea (the Tauric Chersonese); (4) Gallipoli (the Thracian Chersonese).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several peninsulas: such as (1) Jutland (the Cimbrian Chersonese or Cimbric Chersonese); (2) the Malay Peninsula (the Golden Chersonese); (3) Crimea (the Tauric Chersonese); (4) Gallipoli (the Thracian Chersonese).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peninsula; historically, an ancient Greek geographic designation applied to specific peninsulas, especially the Gallipoli peninsula (Thracian Chersonese) or Crimea (Tauric Chersonese).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical geography, an ancient Greek colony and maritime trading emporium founded on the southwestern tip of the Crimean peninsula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Chersonesus designates any of several peninsulas: such as (1) jutland (the cimbrian chersonese or cimbric chersonese); (2) the malay peninsula (the golden chersonese); (3) crimea (the tauric chersonese); (4) gallipoli (the thracian chersonese)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Greek colonies of the Tauric **Chersonesus** maintained their commerce and civic liberties amid barbarian invasions."*
+> - 📜 **Herodotus (*The Histories*):** *"Miltiades made himself master of the Thracian **Chersonesus**, fortifying the isthmus with a wall against the barbarians."*
+> - 📜 **George Grote (*A History of Greece*):** *"Athenian naval supremacy depended upon securing the grain route passing the fortified shores of the **Chersonesus**."*

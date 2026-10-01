@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capybara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capybara.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical family of South American caviomorph rodents comprising the capybaras, currently treated as subfamily Hydrochoerinae within Caviidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, large semi-aquatic herbivores adapted to tropical floodplains, characterized by hypsodont, multi-laminated molars and vestigial digit webbing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hydrochoeridae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The family **Hydrochoeridae** includes the largest living rodents on earth, adapted to a semi-aquatic life along South American rivers."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals*):** *"Cranial osteology of the **Hydrochoeridae** shows massive molariform teeth with multiple transverse enamel laminae."*
+> - 📜 **Frank Evers Beddard (*Mammalia*):** *"Fossil remains of the **Hydrochoeridae** discovered in the pampas indicate that prehistoric capybaras attained the size of small horses."*

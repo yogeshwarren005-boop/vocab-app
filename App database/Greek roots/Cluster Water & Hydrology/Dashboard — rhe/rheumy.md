@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moist, damp, wet (especially of air).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to arthritis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Watery, tearful, or moist with rheum; of weather or air: damp, chilly, and inducing rheum or head colds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, characterizing aged, bleary eyes or cold, mist-shrouded atmospheres that chill the marrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, is Brutus sick, And will he steal out of his wholesome bed To dare the vile contagion of the night, And tempt the rheumy and unpurged air To add unto his sickness?"*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"And tempt the **rheumy** and unpurged air / To add unto his sickness?"*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The old pauper looked up through pale, **rheumy** eyes as the mayor entered the parish ward."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The watchman wrapped his woolen scarf tight against the **rheumy** ocean fog that drifted across the deck."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Waterleaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Waterleaf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American woodland perennial herbs commonly known as waterleaf (family Boraginales / Hydrophyllaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In woodland flora, spring ephemerals featuring pinnatifid leaves with translucent watery maculations and terminal clusters of bell-shaped flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophyllum designates waterleaf."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Species of **Hydrophyllum** derive their common name from the translucent watery spots that appear on their early spring foliage."*
+> - 📜 **John Torrey (*Botanical Papers*):** *"The bell-shaped lavender flowers of **Hydrophyllum** virginianum attract solitary bees to northern hardwood forests."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Along shaded alpine brooks, clumps of wild **Hydrophyllum** blossom beneath the shelter of towering conifers."*

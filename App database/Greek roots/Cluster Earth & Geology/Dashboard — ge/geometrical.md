@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or determined by geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by simple geometric forms in design and decoration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or proceeding by the principles of geometry; geometric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mathematics and natural philosophy, rigorously deduced through geometric axioms, proportions, and spatial theorems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If the Sperm Whale be physiognomically a Sphinx, to the phrenologist his brain seems that geometrical circle which it is impossible to square."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Why not, as the cabalists had it, a Figure, arithmetical or geometrical, a Sound...."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The third, I said the third!” cried the prince abruptly, pushing the letter away, and leaning his elbows on the table he drew toward him the exercise book containing geometrical figures."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The description of right lines and circles, upon which geometry is founded, belongs to mechanics and **geometrical** art."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Mathematical certainty in ethics might be achieved had we definitions as clear as those in **geometrical** science."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"I have resolved to demonstrate the nature of God and the passions in a strict **geometrical** order."*

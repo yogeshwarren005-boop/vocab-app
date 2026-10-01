@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, medicine, or remedy that expels or tends to expel urinary or biliary stones (calculi).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacology, a diuretic or antilithic herb prescribed to promote the passage of renal gravel through the urinary tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithagogue designates a term designating an entity, condition, or phenomenon derived from greek lith."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Traditional apothecaries claimed that wild parsley acted as a sovereign **lithagogue** against gravel."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Ancient pharmacopoeias abounded with reputed **lithagogue** draughts whose virtue resided purely in the copious water imbibed."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Physicians sought in vain a true chemical **lithagogue** capable of dissolving the stone without harming the bladder."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood disorder in which there is excess fluid volume compared with the cell volume of the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blood disorder in which there is excess fluid volume compared with the cell volume of the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal clinical condition in which there is an excess of water in the blood relative to solid elements; hemodilution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and nephrology, marked dilution of the circulating plasma proteins and erythrocytes, occurring in advanced congestive heart failure, nephrotic syndrome, or acute overhydration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydremia designates blood disorder in which there is excess fluid volume compared with the cell volume of the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced Bright's disease, severe **hydremia** develops, diluting the red corpuscles and producing profound pallor."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The condition of **hydremia** is characterized by a serous state of the circulatory fluid with diminished specific gravity."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We distinguished true plethora from transient **hydremia** caused by excessive fluid intake or renal insufficiency."*

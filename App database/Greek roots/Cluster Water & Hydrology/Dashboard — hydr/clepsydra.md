@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water clock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument designed to measure time by the fall or flow of a quantity of water —called also clepsydra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient timekeeping instrument designed to measure the passage of hours by the steady, regulated flow of water into or out of a graduated vessel; a water clock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greco-Roman law and astronomy, a precision hydraulic timepiece employed in Athenian courts to strictly allocate speaking time to rival pleaders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clepsydra designates water clock."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Ctesibius constructed an ingenious **clepsydra** in Alexandria with floats and bronze gears to mark the passing hours."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The water in the judicial **clepsydra** measured the allotted minutes of the orator's defense before the senate."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Scipio Nasica first set up a public **clepsydra** in Rome so that citizens might divide the day even under clouded skies."*

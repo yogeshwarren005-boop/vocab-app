@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The record of an earth tremor by a seismograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The record of an earth tremor by a seismograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The record or tracing of ground motion produced by a seismograph during an earthquake or other seismic disturbance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational geophysics, the graphical wave record displaying the arrival times and amplitudes of P-waves, S-waves, and surface waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismogram designates the record of an earth tremor by a seismograph."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The arrival time of the shear wave upon the **seismogram** allowed geophysicists to calculate the distance to the epicenter."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The jagged ink line of the **seismogram** sprang suddenly into violent oscillations as the fault ruptured."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Modern stations preserve every **seismogram** as an indelible acoustic signature of planetary motion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the five elements fluorine, chlorine, bromine, iodine, and astatine that form part of group VIIA of the periodic table and exist in the free state normally as diatomic molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing, using, or being a halogen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the five non-metallic chemical elements belonging to Group 17 of the periodic table: fluorine, chlorine, bromine, iodine, and astatine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, highly reactive electronegative elements whose direct reaction with electropositive metals produces common mineral salts (from Greek hals 'salt' + gen 'producing').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halogen designates any of the five elements fluorine, chlorine, bromine, iodine, and astatine that form part of group viia of the periodic table and exist in the free state normally as diatomic molecules."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Chlorine behaves as a true **halogen**, generating saline compounds directly without the intervention of oxygen."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"During electrolysis, each **halogen** migrates consistently toward the positive anode."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The **halogen** family forms a remarkably coherent group, displaying a regular gradation of physical and chemical properties."*

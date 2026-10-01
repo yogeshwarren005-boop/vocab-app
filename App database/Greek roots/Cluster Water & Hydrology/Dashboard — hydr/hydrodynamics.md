@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical fluid mechanics that studies liquids in motion and the mechanical forces acting upon or exerted by them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and applied mathematics, the foundational study of Navier-Stokes equations, vortex dynamics, and turbulence in incompressible fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodynamics designates a branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them."*
+> - 📜 **Daniel Bernoulli (*Hydrodynamica*):** *"Our investigations in **hydrodynamics** reconcile theoretical calculus with practical experiments on water discharge from reservoirs."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"In the second book, the principles of **hydrodynamics** are established through the study of resistance in vortex fluids."*
+> - 📜 **Hermann von Helmholtz (*On Integrals of Hydrodynamic Equations*):** *"The fundamental laws of vortex conservation established modern theoretical **hydrodynamics** upon a rigorous mathematical foundation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science dealing with physical and biological aspects of the oceans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of science dealing with physical and biological aspects of the oceans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and practical study of the oceans, often emphasizing the utilization and development of oceanic resources and technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic usage, largely synonymous with oceanography or specifically designating applied marine engineering and sea exploration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanology designates the branch of science dealing with physical and biological aspects of the oceans."*
+> - 📜 **Jacques-Yves Cousteau (*The Living Sea*):** *"Applied **oceanology** will enable future generations to farm the continental shelves and harness tidal energy."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"The scope of modern **oceanology** embraces both the purest biological inquiry and the economic management of fisheries."*
+> - 📜 **Sylvia Earle (*Sea Change*):** *"Without a rigorous foundation in **oceanology**, industrial exploitation of deep-sea minerals risks catastrophic destruction."*

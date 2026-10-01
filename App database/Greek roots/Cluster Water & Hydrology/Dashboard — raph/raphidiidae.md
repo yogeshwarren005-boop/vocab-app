@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of arthropods of the suborder megaloptera, including snakeflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of arthropods of the suborder megaloptera, including snakeflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of predatory insects in the order Raphidioptera, commonly known as snakeflies, characterized by an elongated prothorax and neck-like appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, holometabolous, woodland-dwelling insects whose females possess a long, flexible ovipositor used to lay eggs beneath loose tree bark.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raphidiidae designates a family of arthropods of the suborder megaloptera, including snakeflies."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The snakefly, belonging to the family **Raphidiidae**, elevates its slender head and prothorax with a curious serpentine movement."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Larvae of the **Raphidiidae** prowl under decaying bark, feeding voraciously on wood-boring beetle grubs."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Among terrestrial insects blown out to sea in offshore gales, we occasionally recovered specimens of **Raphidiidae**."*

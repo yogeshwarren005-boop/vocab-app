@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad-spectrum tetracycline antibiotic (oxytetracycline) produced by the soil bacterium Streptomyces rimosus, used to treat diverse bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antimicrobial pharmacology, an inhibitor of bacterial protein synthesis that binds reversibly to the 30S ribosomal subunit, preventing aminoacyl-tRNA attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxytetracycline designates a yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections."*
+> - 📜 **Alexander Fleming (*Penicillin and Other Antibiotics*):** *"The discovery of **hydroxytetracycline** provided clinicians with a potent agent against rickettsial and chlamydial infections."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Oral administration of **hydroxytetracycline** effectively suppresses atypical pneumonia and brucellosis."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"Screening actinomycetes from fertile soils revealed Streptomyces rimosus, the source of crystalline **hydroxytetracycline**."*

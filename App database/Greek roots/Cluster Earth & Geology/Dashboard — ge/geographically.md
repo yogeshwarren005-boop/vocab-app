@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to geography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to geography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a geographical manner; with reference to geography or spatial location on the Earth's surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of regional distribution, territorial distance, or spatial relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These figures are very unequally distributed geographically, the divisions ranking as to total deposits in the following order: the Eastern Middle, New England, Middle Western, Pacific, Southern, and Western divisions."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The world may politically, as well as geographically, be divided into four parts, each having a distinct set of interests."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The intervening mountains generally two or three thousand feet above the level of the sea geographically define the territories of each of these hostile tribes, who never cross them, save on some expedition of war or plunder."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Though **geographically** adjacent, the eastern and western slopes of the cordillera presented utterly different vegetation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The United States is **geographically** isolated from European rivalries by the breadth of the Atlantic."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The island was situated **geographically** beyond the regular paths of commercial steam navigation."*

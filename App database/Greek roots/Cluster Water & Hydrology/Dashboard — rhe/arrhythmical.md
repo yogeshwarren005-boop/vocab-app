@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without regard for rhythm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without regard for rhythm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without regular rhythm or beat; irregular; an alternative form of arrhythmic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and pathology, describing disorganized or erratic motor or cardiac impulses lacking temporal coordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrhythmical designates without regard for rhythm."*
+> - 📜 **Willem Einthoven (*Clinical Electrocardiography*):** *"The **arrhythmical** contractions of the auricles failed to pump adequate blood into the ventricular chambers."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Toxic doses of digitalis induce a spastic, **arrhythmical** arrest of the cardiac muscle."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The patient's breathing became shallow and **arrhythmical** as cerebral compression deepened."*

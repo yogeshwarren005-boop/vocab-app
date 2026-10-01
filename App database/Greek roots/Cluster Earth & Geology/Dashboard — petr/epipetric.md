@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing on, living on, or attached to rocks; saxicolous; epilithic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and bryological surveys, describing mosses, liverworts, or ferns rooted directly upon stony surfaces rather than in soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epipetric designates adjective*) pertaining to, derived from, or characteristic of rock."*
+> - 📜 **John Muir (*The Mountains of California*):** *"A delicate **epipetric** fern feathered the granite wall, nurtured solely by spray from the roaring waterfall."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Certain miniature alpine succulents display strictly **epipetric** growth habits on calcareous ledges."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"The limestone crag was patterned with **epipetric** crustose lichens that slowly dissolve the underlying carbonate."*

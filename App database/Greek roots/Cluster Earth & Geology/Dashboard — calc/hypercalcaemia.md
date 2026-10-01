@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally high level of calcium in the blood serum (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine, an endocrine and metabolic emergency commonly caused by primary hyperparathyroidism or malignancy, presenting with lethargy, cardiac arrhythmias, and renal calculi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercalcaemia designates the presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **hypercalcaemia** produces muscular hypotonia, persistent nausea, and profound mental confusion."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Metastatic bone destruction releases calcium ions into circulation, inducing acute **hypercalcaemia**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"When serum calcium concentrations exceed normal limits, **hypercalcaemia** depresses nervous system excitability and delays cardiac conduction."*

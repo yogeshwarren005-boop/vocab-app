@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giant petrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant petrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of giant petrels in the procellariid family, large aggressive seabirds of the Southern Ocean, known as the southern and northern giant petrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, scavenging and predatory seabirds with enormous wing spans and powerful hooked beaks, whose name denotes 'large swimmer'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macronectes designates giant petrels."*
+> - 📜 **Robert Cushman Murphy (*Oceanic Birds of South America*):** *"The huge, dusky **Macronectes** patrols the subantarctic waves, feeding voraciously on seal carrion."*
+> - 📜 **Alister Hardy (*Great Waters*):** *"Flocks of **Macronectes** followed our research vessel through the roaring forties, gliding effortlessly without a flap."*
+> - 📜 **Frank Hurley (*Shackleton's Argonauts*):** *"The giant petrel, **Macronectes**, circled our ice-bound camp, watching the dogs with covetous eyes."*

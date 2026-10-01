@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing the ability to repel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing intense distaste, disgust, or aversion; offensive to the mind or senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, of or relating to repulsion; tending to drive apart or separate (as repulsive forces between subatomic particles).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary was not so repulsive and unsisterly as Elizabeth, nor so inaccessible to all influence of hers; neither was there anything among the other component parts of the cottage inimical to comfort."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This violence is all most repulsive:” and so, no doubt, she felt it."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His theory was repulsive, but comprehensible."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I beheld the wretch, the miserable monster whom I had created; he was gigantically hideous and utterly **repulsive**."*
+> - 📜 **Isaac Newton (*Opticks*):** *"There are particles which attract each other at small distances and exert a strong **repulsive** power at minute intervals."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"There was something abnormal and misbegotten in the very essence of the creature that produced a **repulsive** shudder."*

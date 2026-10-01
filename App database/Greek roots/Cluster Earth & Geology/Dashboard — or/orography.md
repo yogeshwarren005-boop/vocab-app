@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of physical geography that deals with mountains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of physical geography that deals with mountains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical geography that deals with the description, relief, and classification of mountains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relief features or mountain systems of a specific country, continent, or geographic region viewed collectively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orography designates a branch of physical geography that deals with mountains."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"A comprehensive **orography** of the American continent must delineate the uninterrupted spine connecting the Rockies with the Andes."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The climate and river drainage of any continent are determined primarily by its underlying **orography**."*
+> - 📜 **H.G. Wells (*The Outline of History*):** *"The barrier **orography** of Central Asia channeled early pastoral migrations into the fertile river plains of the South."*

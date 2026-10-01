@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with geophysics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with geophysics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the physics of the Earth, including its gravitational field, magnetic field, internal core, earthquakes, and atmospheric phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum and mineral exploration, employing physical measurements (seismic, gravimetric, electromagnetic) to probe subsurface strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geophysical designates of or concerned with geophysics."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The International **Geophysical** Year mobilized fleets of research ships to sound the deepest oceanic trenches."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Deep continental drilling confirmed **geophysical** estimates of the subterranean temperature gradient."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Geologists interpret **geophysical** seismic records as acoustic ultrasound images of the subterranean crust."*

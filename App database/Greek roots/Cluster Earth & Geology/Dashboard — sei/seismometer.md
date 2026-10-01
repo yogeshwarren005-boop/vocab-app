@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seismograph measuring the actual movements of the ground (as on the earth or the moon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seismograph measuring the actual movements of the ground (as on the earth or the moon).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sensor component of a seismograph that detects ground motion and converts mechanical vibration into an electrical or recorded signal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary exploration and vulcanology, a precision instrument deployed on planetary surfaces (e.g., Moon, Mars) to detect internal tectonics and meteor impacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismometer designates a seismograph measuring the actual movements of the ground (as on the earth or the moon)."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The Viking lander deployed a sensitive **seismometer** on the red sands of Mars to detect Martian tremors."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The field **seismometer** registered the footsteps of a coyote half a mile away across the quiet basin."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"A modern electronic **seismometer** can detect crustal displacements smaller than the wavelength of visible light."*

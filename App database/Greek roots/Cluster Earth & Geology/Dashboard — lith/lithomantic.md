@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to lithomancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to lithomancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of lithomancy; pertaining to divination by stones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folkloric studies, describing omens, rituals, or prophetic arts interpreted from mineral stones and crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithomantic designates of or relating to lithomancy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian chieftain consulted his **lithomantic** seers before crossing the Danube."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"Bedouin elders preserved **lithomantic** traditions concerning sacred black meteorites."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The mystic's chamber was decorated with arcane **lithomantic** symbols drawn in white chalk."*

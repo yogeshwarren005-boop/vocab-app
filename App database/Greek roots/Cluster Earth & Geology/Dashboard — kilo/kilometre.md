@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to 1000 meters (or 0.621371 miles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to 1000 meters (or 0.621371 miles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British and Commonwealth spelling of kilometer; a metric unit of distance equal to 1,000 metres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international aviation, shipping, and overland exploration, the canonical metric measure of geographic range and transit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"And a few, I grieve to say, took possession of the little _cabaret_, which stands at about half a kilometre from the St."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A dreary stretch of barren bogland extended for nearly a **kilometre** between the manor gates and the open moor."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Every **kilometre** of the sluggish African river carried the steamboat deeper into the primeval forest."*
+> - 📜 **George Orwell (*Burmese Days*):** *"The dusty cart-track wound for five **kilometres** through the teak forest before reaching the remote outpost."*

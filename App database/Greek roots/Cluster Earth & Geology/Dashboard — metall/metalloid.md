@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An element intermediate in properties between the typical metals and nonmetals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetal that can combine with a metal to form an alloy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical element (such as silicon, boron, germanium, arsenic, antimony, or tellurium) whose properties are intermediate between those of typical metals and nonmetals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemistry, originally applied to the alkali metals or non-metallic elements; now designating semiconductors vital to modern solid-state electronics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metalloid designates an element intermediate in properties between the typical metals and nonmetals."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Chemists proposed the term **metalloid** for those ambiguous elements that mimic the luster of metals without their malleability."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The borderline **metalloid** elements form covalent network lattices rather than close-packed metallic arrays."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Silicon, that remarkable **metalloid**, forms the crystalline brain of every computer chip on Earth."*

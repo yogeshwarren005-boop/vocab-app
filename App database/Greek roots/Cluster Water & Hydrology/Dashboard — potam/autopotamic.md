@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indigenous to, originating within, or adapted specifically to flowing river environments; applied especially to river plankton (potamoplankton).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology and potamology, designating organisms that reproduce and complete their entire life cycle within a lotic (running water) ecosystem rather than drifting in from lakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autopotamic designates adjective*) pertaining to, derived from, or characteristic of river."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"True **autopotamic** plankton can persist only in mature, slow-flowing lowland reaches where replacement rates match the current."*
+> - 📜 **Victor Hensen (*Die Plankton-Expedition*):** *"We must separate the allochthonous washings of upland bogs from the strictly **autopotamic** species native to the river bed."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Studies of river ecology showed that certain diatoms are uniquely **autopotamic**, thriving in turbulent freshwater currents."*

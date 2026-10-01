@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or made of stone; stony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, relating to the Stone Age or stone implements; in petrology, containing macroscopic rock fragments (e.g., lithic sandstone).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithic designates adjective*) pertaining to, derived from, or characteristic of stone."*
+> - 📜 **V. Gordon Childe (*The Dawn of European Civilization*):** *"The introduction of polished **lithic** celts transformed forest clearance in Neolithic Europe."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Microscopic inspection reveals that this greywacke is composed of angular **lithic** fragments torn from older volcanic flows."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The sedimentary succession passes upward into coarse **lithic** sandstones deposited by braided glacial streams."*

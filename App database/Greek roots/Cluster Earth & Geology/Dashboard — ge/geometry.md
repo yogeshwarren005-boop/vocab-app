@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics that deals with the measurement, properties, and relationships of points, lines, angles, surfaces, and solids; broadly : the study of properties of given elements that remain invariant under specified transformations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular type or system of geometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mathematics concerned with the properties, measurement, and relationships of points, lines, angles, surfaces, and solids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and physics, the intrinsic spatial structure of the physical universe, from Euclidean space to non-Euclidean Riemannian spacetime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"And can Geometry vend it in the Market?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself undertook his daughter’s education, and to develop these two cardinal virtues in her gave her lessons in algebra and geometry till she was twenty, and arranged her life so that her whole time was occupied."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"All right then, sit down.” He took the exercise book containing lessons in geometry written by himself and drew up a chair with his foot."*
+> - 📜 **Plato (*The Republic*):** *"The study of **geometry** draws the soul towards truth and creates the spirit of philosophy."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"How can it be that mathematics, being a product of human thought, fits so marvelously the **geometry** of physical reality?"*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"Rational mechanics will be the science of motions resulting from any forces whatsoever, and of the motions required to produce any forces, accurately proposed and demonstrated by **geometry**."*

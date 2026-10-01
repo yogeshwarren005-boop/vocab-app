@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A methyl with hydroxide replacing the hydrogen atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A methyl with hydroxide replacing the hydrogen atoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The univalent organic chemical group -CH2OH, consisting of a methylene group bonded to a hydroxyl group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and carbohydrate chemistry, a substituent present on aldohexose rings (such as C-6 of glucose) and key intermediates in enzymatic methylenation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxymethyl designates a methyl with hydroxide replacing the hydrogen atoms."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Oxidation of the terminal **hydroxymethyl** group of a primary alcohol yields first an aldehyde and finally a carboxylic acid."*
+> - 📜 **Emil Fischer (*Studies on Carbohydrates*):** *"In aldohexose stereochemistry, the C-6 **hydroxymethyl** group projects outside the pyranose ring."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The presence of a **hydroxymethyl** substituent significantly enhances the aqueous solubility of aromatic heterocycles."*

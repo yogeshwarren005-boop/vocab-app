@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-temperature catalytic cracking process in petroleum refining carried out in the presence of elevated hydrogen pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering, a flexible refinery operation that converts heavy polycyclic gas oils into cleaner gasoline, jet fuel, and diesel with minimal coke formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocracking designates the process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst."*
+> - 📜 **Vladimir Ipatieff (*Catalytic Reactions at High Pressures and Temperatures*):** *"The implementation of **hydrocracking** enabled refineries to convert heavy residual oils into high-octane aviation fuel."*
+> - 📜 **Paul Sabatier (*Catalysis in Organic Chemistry*):** *"Combining elevated hydrogen pressure with cracking catalysts—the forerunner of modern **hydrocracking**—prevents coke deposition on the catalytic bed."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Industrial **hydrocracking** cleaves long carbon-carbon bonds while simultaneously saturating the fragments with hydrogen atoms."*

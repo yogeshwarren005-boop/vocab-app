@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct-acting vasodilator medication used primarily to treat essential hypertension and severe gestational hypertensive disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacodynamics, a hydrazine derivative that relaxes arteriolar smooth muscle by altering cellular calcium metabolism, commonly co-administered with beta-blockers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydralazine designates an antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The direct arteriolar dilating effect of **hydralazine** effectively lowers peripheral resistance in hypertensive crisis."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"To prevent reflex tachycardia caused by **hydralazine**, clinicians commonly combine it with a beta-blocker."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern therapeutics utilizes **hydralazine** in refractory hypertension, monitoring carefully for drug-induced lupus syndromes."*

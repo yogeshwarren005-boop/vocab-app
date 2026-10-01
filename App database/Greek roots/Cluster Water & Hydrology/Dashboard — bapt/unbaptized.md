@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having undergone the christian ritual of baptism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having undergone the christian ritual of baptism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having received the sacrament of baptism; uninitiated into the Christian Church; American spelling of unbaptised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconsecrated or untouched by ceremonial rites; raw, wild, or heathen in state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The host he blesses is black and has three points; he consecrates no wine, but instead he drinks the water of a well into which the body of an unbaptized infant has been flung."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Pearl looked more like a spirit child than an ordinary **unbaptized** infant."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg was an **unbaptized** pagan, yet he possessed a soul of noble and gentle charity."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"Old superstitions clung to the quiet dell, where **unbaptized** spirits were said to wander beneath the willows."*

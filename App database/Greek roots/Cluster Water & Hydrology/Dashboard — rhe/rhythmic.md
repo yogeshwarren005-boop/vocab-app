@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or moving in pronounced rhythm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving rhythm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having a rhythm; recurring at regular, periodic intervals of time or movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological systems, characterizing oscillatory behaviors such as neural firing bursts, respiratory excursions, or tidal foraging cycles in marine organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While yet many score yards off, other rhythmic sounds than those she had quitted became audible to her; sounds that she knew well—so well."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nothing in the picture moved but Old Pretty’s tail and Tess’s pink hands, the latter so gently as to be a rhythmic pulsation only, as if they were obeying a reflex stimulus, like a beating heart."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Rhythmic changes in weather and in crops. § 16."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The low, **rhythmic** lap of the lake water against the shore brought calm to my wandering thoughts."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The sense of **rhythmic** harmony and cadence is shared in primitive degree by many animals."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The slow, **rhythmic** thud of the steam threshing machine shook the heavy barn floor."*

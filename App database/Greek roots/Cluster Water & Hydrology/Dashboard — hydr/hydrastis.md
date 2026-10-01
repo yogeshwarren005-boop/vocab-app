@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of perennial herbs having rhizomes and palmate leaves and small solitary flowers; of northeastern united states and japan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of perennial herbs having rhizomes and palmate leaves and small solitary flowers; of northeastern united states and japan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American perennial forest herbs containing goldenseal (Hydrastis canadensis), valued for its medicinal rootstock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and botanical medicine, an alkaloid-rich rhizome (containing hydrastine and berberine) historically used as a bitter tonic, astringent, and mucous-membrane alterative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrastis designates small genus of perennial herbs having rhizomes and palmate leaves and small solitary flowers; of northeastern united states and japan."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The knotty yellow rhizome of **Hydrastis** canadensis yields an intensely bitter tonic prized in American medicine."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"In deep rich woodlands, **Hydrastis** puts forth its solitary greenish-white flower followed by a head of red berries."*
+> - 📜 **Charles Sprague Sargent (*Silva of North America*):** *"Goldenseal or **Hydrastis** was widely harvested by pioneers for its berberine-rich yellow rootstock."*

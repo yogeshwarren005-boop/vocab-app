@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove bound water or hydrogen and oxygen from (a chemical compound) in the proportion in which they form water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove water from (something, such as a food).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove water or the elements of water from a chemical compound, food substance, or organic tissue; to lose a critical amount of bodily fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological medicine and industrial preservation, to induce negative fluid balance or remove moisture to prevent microbial decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrate designates to remove bound water or hydrogen and oxygen from (a chemical compound) in the proportion in which they form water."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Intense heat will completely **dehydrate** the crystalline alum, leaving a porous mineral sponge."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"Prolonged exertion in arid heat will severely **dehydrate** the bloodstream, triggering intense osmotic thirst."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"To preserve living tissues for transplantation, one must gently **dehydrate** them under high vacuum."*

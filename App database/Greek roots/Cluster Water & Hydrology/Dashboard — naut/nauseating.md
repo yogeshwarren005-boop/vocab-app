@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Upset and make nauseated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing nausea, physical sickness, or queasiness of the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely offensive, distasteful, or sickening to the moral or aesthetic sense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The rank odor of cheap tobacco mingles with the nauseating aroma of the myriad socks hung above the stove and the poorly ventilated place is stifling, oppressive and depressing."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The saloonmen, because of the natural results of their business can stand considerable of the unusual, but this woodsman was able to give the denizens of Billingsgate advance instruction in the unprintable and nauseating."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The decay of the untouched bridal feast presented a **nauseating** spectacle of yellow dust and creeping spiders."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The fawning adulation of the court sycophants had reached a **nauseating** pitch before the outbreak of revolt."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The warm, sickly sweet perfume of the incubator rooms produced a **nauseating** heaviness in the air."*

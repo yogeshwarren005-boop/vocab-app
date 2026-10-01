@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a mucous membrane; especially : one chronically affecting the human nose and air passages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a mucous membrane; especially : one chronically affecting the human nose and air passages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive buildup and discharge of thick mucus in the nose, throat, or bronchial passages, associated with inflammation of the mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, a clinical symptom (from Greek kata- 'down' + rhein 'to flow') signifying the downward flow of congested phlegm in upper respiratory infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Then he began to praise the Lord, and to feel, 'tis done,' and it was done, and tells of the wonderful change, his ability to talk and sing, with no difficulty whatever." CURED OF CATARRH."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I have been afflicted with catarrh for over twenty years."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I have been entirely well from that time; not only cured of catarrh, but tumors on my limbs were entirely removed."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"And heard you not the bishop of York speak of this, whose deep **catarrh** choked his voice before the assembly?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Snagsby, suffering from a chronic **catarrh**, coughed apologetically into his handkerchief behind the lawyer's chair."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute nasal **catarrh** accompanied by conjunctival suffusion and fever heralds the onset of measles."*

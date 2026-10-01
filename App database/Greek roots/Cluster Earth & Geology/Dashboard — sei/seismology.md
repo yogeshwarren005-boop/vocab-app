@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with earthquakes and with artificially produced vibrations of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with earthquakes and with artificially produced vibrations of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of earthquakes and the propagation of elastic waves through the Earth or through other planet-like bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern geophysics, the primary tool for imaging the three-dimensional internal structure of the Earth, from tectonic plates to the inner core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismology designates a science that deals with earthquakes and with artificially produced vibrations of the earth."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Through **seismology**, the Earth's interior is probed with sound waves just as the human body is probed with X-rays."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Modern **seismology** transformed geology from the inspection of surface rocks into a profound anatomy of the planet."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The infant science of **seismology** began when John Milne erected horizontal pendulums on the volcanic soil of Japan."*

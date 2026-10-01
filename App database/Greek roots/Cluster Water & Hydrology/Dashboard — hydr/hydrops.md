@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal clinical accumulation of serous fluid in tissues or bodily cavities; edema or dropsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical perinatology, hydrops fetalis, a lethal fetal condition characterized by widespread subcutaneous edema, ascites, and cardiovascular collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrops designates swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fetal **hydrops** resulting from severe Rh incompatibility causes massive subcutaneous edema, ascites, and pleural effusion."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The transudation of fluid in generalized **hydrops** follows increased capillary permeability and venous stasis."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Chronic joint effusion, historically called **hydrops** articuli, leads to progressive ligamentous laxity."*

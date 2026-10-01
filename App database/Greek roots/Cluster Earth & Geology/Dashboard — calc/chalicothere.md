@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek calc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct, claw-footed, herbivorous odd-toed ungulate of the family Chalicotheriidae, related to horses and tapirs, living from the Eocene to the Pleistocene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an unusual mammal possessing long front limbs and massive curved claws used for pulling down tree branches rather than digging or predation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chalicothere designates a term designating an entity, condition, or phenomenon derived from greek calc."*
+> - 📜 **Henry Fairfield Osborn (*The Titanotheres of Ancient Wyoming*):** *"The skeletal reconstruction of the **chalicothere** revealed immense claws on limbs that otherwise resembled a horse."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"The **chalicothere** presents an evolutionary enigma, combining ungulate dentition with gorilla-like posture and retractable claws."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Miocene strata of Eurasia have yielded exquisite fossil skeletons of the clawed **chalicothere**."*

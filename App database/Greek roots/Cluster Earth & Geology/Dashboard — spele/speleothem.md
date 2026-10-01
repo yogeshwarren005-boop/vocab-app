@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spele.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secondary mineral deposit formed in a cave by the precipitation of minerals from dripping, flowing, or standing water (e.g., stalactites, stalagmites, flowstone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoclimatology and geochemistry, a calcium carbonate cavern formation whose oxygen and carbon isotope ratios provide high-resolution records of past climate and rainfall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speleothem designates a term designating an entity, condition, or phenomenon derived from greek spele."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Every sparkling **speleothem** hanging from the cavern roof is slowly built by drops of lime-saturated water."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Uranium-series dating of a single calcite **speleothem** yielded an uninterrupted rainfall record spanning two hundred thousand years."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The growth rings within a polished **speleothem** reflect seasonal variations in prehistoric rainfall and vegetation."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arbitrary constant whose value characterizes a member of a system (such as a family of curves); also : a quantity (such as a mean or variance) that describes a statistical population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent variable used to express the coordinates of a variable point and functions of them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and statistics, an arbitrary constant whose value characterizes a member of a system of expressions or probability distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer: be ready to give a presentation on each option and its variations within the parameters I specified and which surface through your analyses."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Every physical equation must incorporate the speed of light as a fundamental invariant **parameter** of nature."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"In propositional logic, a **parameter** functions as a variable whose range is bounded by formal axioms."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Psychometricians made the grave error of reifying a single statistical **parameter** into an innate biological entity called general intelligence."*

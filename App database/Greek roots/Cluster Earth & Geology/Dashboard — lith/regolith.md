@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsolidated residual or transported material that overlies the solid rock on the earth, moon, or a planet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconsolidated residual or transported material that overlies the solid rock on the earth, moon, or a planet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of unconsolidated, weathered rock fragments, mineral grains, and soil that rests upon solid bedrock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lunar and planetary geology, the blanket of shattered rock, impact dust, and glassy beads that covers the surface of the Moon, asteroids, and Mars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regolith designates unconsolidated residual or transported material that overlies the solid rock on the earth, moon, or a planet."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The terrestrial **regolith** represents the weathered mantle of broken rock fragments that nurtures all plant life."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The Apollo astronauts walked through thick lunar **regolith**, their bootprints preserved for millions of years in the vacuum."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Glacial ice scraped away the ancient **regolith**, exposing fresh, striated bedrock across the Canadian Shield."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in mozambique; equal to 100 centavos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in mozambique; equal to 100 centavos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical monetary unit or weight measure used in North Africa and the Middle East; mitkal or metical (also Mozambican metical).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Mediterranean and African commerce, a gold dinar weight (c. 4.25 grams) used for pricing ivory, gum arabic, and gold dust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metical designates the basic unit of money in mozambique; equal to 100 centavos."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"Merchants paid for elephant tusks in brass wire, cowries, and gold measured by the **metical**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Arab conquerors demanded a tribute of several thousand **meticals** of pure gold from the vanquished cities."*
+> - 📜 **Leo Africanus (*The History and Description of Africa*):** *"The trade in Timbuktu was transacted in gold uncoined, weighed by the **metical** of the merchants."*

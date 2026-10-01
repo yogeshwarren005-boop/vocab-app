@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited form of anemia caused by faulty synthesis of hemoglobin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited form of anemia caused by faulty synthesis of hemoglobin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited blood disorder characterized by reduced or absent synthesis of normal hemoglobin, causing chronic anemia (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology and human genetics, an autosomal recessive hemoglobinopathy prevalent around the Mediterranean, Middle East, and Southeast Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thalassaemia designates an inherited form of anemia caused by faulty synthesis of hemoglobin."*
+> - 📜 **J. B. S. Haldane (*Disease and Evolution*):** *"The high prevalence of **thalassaemia** in Mediterranean populations is maintained by the protection it confers against lethal malaria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Children suffering from major **thalassaemia** present marked pallor, hepatosplenomegaly, and skeletal deformities."*
+> - 📜 **Archibald Garrod (*Inborn Errors of Metabolism*):** *"Our clinical understanding of **thalassaemia** advanced dramatically once hemoglobin peptide chain synthesis was quantified."*

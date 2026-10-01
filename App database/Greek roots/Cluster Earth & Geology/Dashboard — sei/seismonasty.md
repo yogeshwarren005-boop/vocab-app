@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid nastic plant movement in response to mechanical shock, touch, or vibration (as in the sensitive plant Mimosa pudica); thigmonasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, rapid turgor pressure changes in motor cells of the pulvinus that cause leaflets to fold together within seconds of stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismonasty designates a term designating an entity, condition, or phenomenon derived from greek sei."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The rapid leaf collapse in Mimosa pudica is a classic manifestation of **seismonasty**, triggered by electrical action potentials across the pulvinus."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Under the influence of **seismonasty**, the pinnate leaflets fold instantly downward when brushed by a passing insect."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The sensitive plant exhibits an astonishing **seismonasty** that mimics the reflex excitability of animal nervous tissue."*

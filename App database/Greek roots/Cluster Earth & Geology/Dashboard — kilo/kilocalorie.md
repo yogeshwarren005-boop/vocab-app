@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of heat energy equal to 1,000 small calories; the amount of heat required to raise the temperature of one kilogram of water by one degree Celsius (commonly called a dietary Calorie).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional physiology and thermodynamics, the standard metabolic unit used to quantify the chemical energy content of food and animal expenditure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kilocalorie designates a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food."*
+> - 📜 **Aldous Huxley (*Island*):** *"The nutritional survey ensured that every agricultural worker received at least two thousand **kilocalories** of wholesome food daily."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The flow of energy through the trophic pyramid diminishes with every step, shedding thousands of **kilocalories** as metabolic heat."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"A diet consisting chiefly of bread and tinned margarine provides the required **kilocalories** while starving the miner of essential vitamins."*

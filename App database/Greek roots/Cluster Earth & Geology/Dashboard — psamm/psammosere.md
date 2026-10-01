@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psamm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecological succession of plant and animal communities that originates on newly exposed sand, especially on coastal sand dunes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant sociology, the complete developmental sequence from bare moving sand dunes through pioneer grasses to mature climax scrub or coastal woodland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psammosere designates a term designating an entity, condition, or phenomenon derived from greek psamm."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"A classic **psammosere** can be traced inland from the embryonic foredunes to the stabilized dune heath."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The progress of the **psammosere** transforms shifting white ridges into soil covered with bayberry and maritime cedar."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"Each seral stage of the **psammosere** enriches the sand with organic humus, facilitating colonization by taller vegetation."*

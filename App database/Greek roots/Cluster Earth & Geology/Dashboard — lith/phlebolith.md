@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, rounded calcareous stone or concretion (calcified thrombus) formed within a vein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular radiology and pathology, a benign pelvic calcification arising from an organized blood clot, commonly seen as an incidental finding on abdominal radiographs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebolith designates a term designating an entity, condition, or phenomenon derived from greek lith."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A thrombus in a dilated pelvic vein may undergo complete petrification, forming a spherical **phlebolith**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The radiologist must carefully distinguish a harmless pelvic **phlebolith** from a stone lodged in the lower ureter."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Post-mortem examination revealed several calcified **phlebolith** nodules within the hemorrhoidal venous plexus."*

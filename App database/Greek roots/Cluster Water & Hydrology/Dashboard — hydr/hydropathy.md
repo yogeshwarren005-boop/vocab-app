@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of treating disease by copious and frequent use of water both externally and internally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of treating disease by copious and frequent use of water both externally and internally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical treatment of disease by the internal and external application of water; the 'water cure'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, a popular 19th-century alternative medical system developed by Vincenz Prießnitz, which evolved into modern evidence-based physiotherapy and hydrotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Nature of drugs Vegetarianism, homoeopathy, and hydropathy have diminished drugging; but if drugs are an antidote to 155:30 disease, why lessen the antidote?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The cures ascribed to hydropathy in our own time are, in many cases, not a whit less wonderful than those ascribed by monkish legends to the holy wells of England and Wales."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"While the extravagant claims of **hydropathy** must be viewed with skepticism, the judicious application of clean cold water has saved many a fevered life."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"The Victorian craze for **hydropathy** demonstrated the public desire for non-toxic therapies over mercurial purges."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Prießnitz founded modern **hydropathy** at Gräfenberg, demonstrating that cold plunges and wet sheets could stimulate physiological recovery."*

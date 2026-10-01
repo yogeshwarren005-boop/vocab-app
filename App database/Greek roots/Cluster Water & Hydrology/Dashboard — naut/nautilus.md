@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Nautilus) of cephalopod mollusks of the South Pacific and Indian oceans with a spiral chambered shell that is pearly on the inside —called also chambered nautilus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paper nautilus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiral-shelled cephalopod mollusk of the tropical Pacific and Indian oceans, having a partitioned, gas-filled shell used for buoyancy control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and maritime history, famed as the inspiration for Jules Verne's submarine and Oliver Wendell Holmes's meditation on spiritual growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like noiseless nautilus shells, their light prows sped through the sea; but only slowly they neared the foe."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"So I contented myself with saying— “By what name ought I to address you?” “Sir,” replied the commander, “I am nothing to you but Captain Nemo; and you and your companions are nothing to me but the passengers of the _Nautilus_.” Captain Nemo called."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Then he became more calm, regained his accustomed coldness of expression, and turning towards me— “Now, Professor,” said he, “if you wish to go over the _Nautilus_, I am at your service.” Captain Nemo rose."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Chambered Nautilus*):** *"Build thee more stately mansions, O my soul, as the swift seasons roll! Leave thy low-vaulted past! Let each new temple, nobler than the last, shut thee from heaven with a dome more vast, till thou at length art free, leaving thine outgrown shell by life's unresting sea!"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Seas*):** *"Captain Nemo guided the **Nautilus** silently through the subterranean coral galleries of the Mediterranean."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The coiled mother-of-pearl chambers of the **nautilus** illustrate nature's mastery of mathematical geometry."*

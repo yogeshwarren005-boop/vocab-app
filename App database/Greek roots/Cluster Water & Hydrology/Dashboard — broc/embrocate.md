@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through rain, wet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through rain, wet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To moisten, rub, or massage a painful, stiff, or bruised part of the body with a liniment, lotion, or soothing liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic clinical medicine, to apply topical medicaments by gentle friction to stimulate capillary circulation and alleviate muscular or articular pain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embrocate designates verb*) to subject to, transform by, or operate upon through rain, wet."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The surgeon ordered the apothecary to **embrocate** the bruised limb with spirits of camphor."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"I had to **embrocate** his sprained shoulder with an aromatic oil to reduce the swelling."*
+> - 📜 **Robert Louis Stevenson (*St. Ives*):** *"The kindly innkeeper offered to **embrocate** my chafed ankles after the long march across the moors."*

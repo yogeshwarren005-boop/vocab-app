@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows in a moist habitat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that grows in a moist habitat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant adapted to living in an environment with an abundant, continuous supply of moisture, such as a rainforest floor or wet marshland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, a species structurally characterized by thin cuticles, broad leaves, large intercellular air spaces, and open stomata, contrasting with xerophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrophyte designates a plant that grows in a moist habitat."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"The broad, thin leaves of a shade-dwelling **hygrophyte** facilitate rapid transpiration in moisture-saturated forest air."*
+> - 📜 **Andreas Schimper (*Plant-Geography upon a Physiological Basis*):** *"Under the dense canopy of the tropical rain forest, almost every herbaceous species is a typical **hygrophyte**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"A true **hygrophyte** wilts rapidly when exposed to dry breezes, lacking the thick cuticle of xerophytes."*

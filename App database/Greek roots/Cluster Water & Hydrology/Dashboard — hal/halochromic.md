@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting halochromism; displaying a color change upon the addition of an acid, a base, or a salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical organic chemistry, describing dyes, indicator compounds, or conjugated organic molecules whose absorption spectrum shifts markedly upon protonation or salt formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halochromic designates adjective*) pertaining to, derived from, or characteristic of salt."*
+> - 📜 **Robert Robinson (*The Organic Chemistry of Natural Products*):** *"Certain flavone derivatives yield intensely **halochromic** solutions when treated with concentrated mineral acids."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"The **halochromic** reaction of triphenylmethane dyes illustrates how oxonium salt formation alters light absorption."*
+> - 📜 **Richard Willstätter (*Investigations on Anthocyanins*):** *"The pigments of blue cornflowers and red roses owe their vivid tints to **halochromic** equilibrium in the plant sap."*

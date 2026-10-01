@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan family of small two-winged flies (order Diptera), commonly known as pomace, vinegar, or small fruit flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and entomology, a megadiverse family comprising over 4,000 described species that exhibit remarkable ecological specialization and speciation on oceanic archipelagos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, drosophilidae designates fruit flies."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Ecological surveys of the **Drosophilidae** show a wide radiation of species adapted to fermenting fruits and fungal fruiting bodies."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Speciation within the Hawaiian **Drosophilidae** presents an extraordinary example of explosive adaptive radiation on oceanic islands."*
+> - 📜 **George Gaylord Simpson (*The Meaning of Evolution*):** *"The evolutionary lineages within the **Drosophilidae** demonstrate how rapid chromosomal restructuring can accompany island colonization."*

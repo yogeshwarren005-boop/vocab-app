@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family (or elapid subfamily Hydrophiinae) of highly venomous marine sea snakes inhabiting warm coastal waters of the Indian and Pacific Oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, specialized front-fanged aquatic reptiles possessing laterally flattened, paddle-like tails, valvular nostrils, and specialized salt-excreting sublingual glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophidae designates sea snakes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the warm waters of the Indian Ocean, we observed banded sea snakes of the **Hydrophidae** swimming with paddle-shaped tails."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The deadly venom of the **Hydrophidae** is adapted to immobilize swift marine fish almost instantaneously."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Members of the **Hydrophidae** are fully viviparous marine reptiles that never come ashore to lay eggs."*

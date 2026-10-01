@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of shake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of shake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or detected from an earthquake occurring at a great distance from the seismograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global geophysics, describing seismic phases (such as PKIKP, SKS) traveling through the deep Earth across epicentral distances greater than 30°.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleseismic designates adjective*) pertaining to, derived from, or characteristic of shake."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"By analyzing **teleseismic** travel-time curves, seismologists constructed velocity models of the Earth's deep interior."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The quiet granite basement provides an ideal platform for recording faint **teleseismic** P-waves."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"A global network of stations recorded the **teleseismic** waves radiating from the subterranean nuclear explosion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ombr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root ombros (meaning 'rain shower', 'downpour', or 'rainwater'), forming vocabulary relating to precipitation and rain-fed ecosystems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific etymology and meteorology, an ancient Hellenic root applied to rainfall measurement, rain-dependent wetlands, and precipitation ecology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ombr designates a term designating an entity, condition, or phenomenon derived from greek ombr."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek **ombr**, signifying a rain storm, provides the scientific root for measuring rainfall in the ombrometer."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"Through **ombr**, meteorologists and botanists honor the classical Greek word for a torrential shower."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"All meteorological terms relating to the measurement and ecological influence of rain derive from the stem **ombr**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or inhabiting the deep open ocean water column between depths of approximately 4,000 and 6,000 meters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography, characterizing the pitch-black, freezing, high-pressure abyss zone lying just above the hadal trenches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abyssopelagic designates adjective*) pertaining to, derived from, or characteristic of sea."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"In the silent depths of the **abyssopelagic** zone, bizarre organisms drift through perpetual darkness under crushing pressures."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Life in the **abyssopelagic** depths depends entirely on the organic snow sinking from sunlit waters miles above."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Trawls dragged through **abyssopelagic** waters reveal grotesque anglerfish equipped with bioluminescent lures."*

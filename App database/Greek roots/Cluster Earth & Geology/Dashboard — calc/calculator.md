@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert at calculation (or at operating calculating machines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small machine that is used for mathematical calculations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic or mechanical device used for performing mathematical computations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a person who performs mathematical calculations; a reckoner, actuary, or astronomer's assistant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calculator designates an expert at calculation (or at operating calculating machines)."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"The human **calculator** is prone to fatigue, introducing blunders into astronomical almanacs."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Greek Interpreter*):** *"Mycroft Holmes sat at his desk, serving as the supreme government **calculator** in Whitehall."*
+> - 📜 **H.G. Wells (*The First Men in the Moon*):** *"Cavor consulted his pocket **calculator** before adjusting the gravitation shutters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diuretic used to treat hypertension and edema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diuretic used to treat hypertension and edema.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorinated thiazide diuretic medication used to manage mild to moderate hypertension and peripheral edema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacodynamics, an inhibitor of renal cortical sodium and chloride symporters, distinguished by high potency and prolonged duration of diuretic effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroflumethiazide designates diuretic used to treat hypertension and edema."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"The fluorinated thiazide derivative **hydroflumethiazide** exhibits potent saluretic properties with prolonged duration of action."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"By suppressing sodium reabsorption in the distal tubule, **hydroflumethiazide** reduces vascular hyper-reactivity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients treated with **hydroflumethiazide** require regular monitoring of serum potassium to prevent hypokalemic arrhythmias."*

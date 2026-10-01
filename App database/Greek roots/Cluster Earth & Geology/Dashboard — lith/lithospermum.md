@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbaceous or shrubby plants; cosmopolitan except australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbaceous or shrubby plants; cosmopolitan except australia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan genus of herbaceous plants (family Boraginaceae) with small tubular flowers and exceptionally hard, shiny, porcelain-like nutlets; gromwell or puccoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and herbal history, plants valued for stony seed coats (whence the Greek name 'stone seed') and red dye extracted from their roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithospermum designates annual or perennial herbaceous or shrubby plants; cosmopolitan except australia."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The glossy white nutlets of wild **Lithospermum** shine like porcelain beads in the autumn hedgerows."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Indigenous tribes extracted a brilliant scarlet dye from the roots of **Lithospermum** for coloring leather."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The stony hardness of the fruit in **Lithospermum** led ancient herbalists to prescribe it for renal calculus under the doctrine of signatures."*

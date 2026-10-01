@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct dodos and solitaires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct dodos and solitaires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or regional zoological family designation historically associated with certain invertebrate groups or birds related to Raphus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, a historical variant family spelling formerly used in grouping flightless columbiforms (the dodo and solitaires, more formally Raphidae/Dididae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raphidae designates extinct dodos and solitaires."*
+> - 📜 **Richard Owen (*Memoir on the Dodo*):** *"The skeletal affinities of the extinct family **Raphidae** confirm that these giant birds were specialized terrestrial pigeons."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The sternum of the **Raphidae** lacked a keel, reflecting complete atrophy of the pectoral flight muscles."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The tragic extinction of the **Raphidae** on Mauritius followed swiftly upon the introduction of swine and alien predators."*

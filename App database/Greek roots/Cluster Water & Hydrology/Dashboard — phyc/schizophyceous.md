@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of seaweed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of seaweed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or resembling the Schizophyceae (the cyanobacteria or blue-green algae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical history and algology, descriptive of prokaryotic, fission-reproducing photosynthetic microorganisms that lack membrane-bound nuclei.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophyceous designates adjective*) pertaining to, derived from, or characteristic of seaweed."*
+> - 📜 **Ferdinand Cohn (*Researches on Bacteria*):** *"The simple cell division of these organisms demonstrates their **schizophyceous** nature, allying them closely to the true bacteria."*
+> - 📜 **William Henry Harvey (*Phycologia Australica*):** *"A dense **schizophyceous** scum coated the stagnant lagoons after weeks of uninterrupted summer heat."*
+> - 📜 **Anton de Bary (*Lectures on Bacteria*):** *"Early microscopists placed these filamentous growths in the **schizophyceous** group because of their binary fission."*

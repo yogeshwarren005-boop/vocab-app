@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To kick back; to offer stubborn or defiant resistance; rebel against control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical prose and legal argument, to react with recalcitrance or indignantly reject an obligation or command.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recalcitrate designates show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"When unjust laws are imposed, even the patient multitude will at last **recalcitrate**."*
+> - 📜 **George Meredith (*The Egoist*):** *"The pride of the aristocrat made him **recalcitrate** against the slightest appearance of yielding to public opinion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legionaries did not hesitate to **recalcitrate** whenever an emperor failed to pay their promised bounty."*

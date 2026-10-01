@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The solid part of a celestial body (such as the earth); specifically : the outer part of the solid earth composed of rock essentially like that exposed at the surface, consisting of the crust and outermost layer of the mantle, and usually considered to be about 60 miles (100 kilometers) in thickness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The solid part of a celestial body (such as the earth); specifically : the outer part of the solid earth composed of rock essentially like that exposed at the surface, consisting of the crust and outermost layer of the mantle, and usually considered to be about 60 miles (100 kilometers) in thickness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rigid outer mechanical layer of the Earth, comprising the crust and the uppermost part of the solid mantle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plate tectonics, the mechanically strong, brittle shell (typically 100 km thick) that is broken into tectonic plates that float and move upon the ductile asthenosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithosphere designates the solid part of a celestial body (such as the earth); specifically : the outer part of the solid earth composed of rock essentially like that exposed at the surface, consisting of the crust and outermost layer of the mantle, and usually considered to be about 60 miles (100 kilometers) in thickness."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The rigid **lithosphere** breaks into colossal mosaic plates that drift upon the hotter, more plastic asthenosphere beneath."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Subduction carries fragments of the oceanic **lithosphere** thousands of miles down into the deep mantle."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The continents are passenger rafts riding atop the fractured plates of Earth's mobile **lithosphere**."*

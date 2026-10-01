@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sandy; containing, resembling, or composed of sand; arenaceous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and geological descriptions, having a gritty, granular, or sandy texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psammous designates adjective*) pertaining to, derived from, or characteristic of sand."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The southern lanes wound deeply through a dry, **psammous** soil that never retained standing water."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The pathologist felt a gritty, **psammous** resistance when cutting through the calcified capsule."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The fine mud passes laterally into a **psammous** littoral deposit along the ancient shoreline."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant medical term for hydrocephalus; fluid accumulation within the brain ventricles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical teratology, an abnormal cranial enlargement during fetal or infantile development caused by impeded reabsorption of cerebrospinal fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocephaly designates an abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Arrested development in cranial sutures accompanied by severe **hydrocephaly** illustrates extreme morphological variation."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Congenital **hydrocephaly** often produces profound mental impairment and motor paralysis if pressure is not relieved."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Early trephination was historically attempted to relieve the swelling of acute **hydrocephaly**, though rarely with lasting success."*

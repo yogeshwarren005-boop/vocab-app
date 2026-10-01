@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices hydromancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices hydromancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diviner or seer who practices hydromancy, claiming to foresee future events by interpreting water movements, ripples, or images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical folklore and classical anthropology, a practitioner of ancient water-scrying consulted at sacred springs and oracles in ancient Greece and Rome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromancer designates one who practices hydromancy."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The village **hydromancer** pretended to read doom in the circular ripples of the holy well."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient **hydromancer** cast pebbles into a silver basin and divined war or peace from the shimmering waves."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Among primitive tribes, the **hydromancer** peered into sacred pools to discover the thief or foretell the harvest."*

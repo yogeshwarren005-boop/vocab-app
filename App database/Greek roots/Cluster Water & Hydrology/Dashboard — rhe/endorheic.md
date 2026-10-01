@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of flow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of flow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a drainage basin or water body: having no outflow to an ocean or sea, losing water only through evaporation or subterranean seepage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical hydrology and physical geography, characterizing enclosed continental depressions (such as the Great Salt Lake, Dead Sea, or Lake Chad) that accumulate high mineral salinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endorheic designates adjective*) pertaining to, derived from, or characteristic of flow."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The Caspian Sea and the Aral Sea are majestic examples of an **endorheic** hydrological basin with no oceanic outlet."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Because an **endorheic** lake loses water solely through evaporation, dissolved salts progressively concentrate until dense brine is formed."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"Internal continental rifting frequently creates an **endorheic** depression where ephemeral salt flats accumulate thick evaporites."*

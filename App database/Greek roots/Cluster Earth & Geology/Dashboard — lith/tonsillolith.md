@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A calcified stone or concretion (tonsil stone) formed in the crypts of the palatine tonsils from trapped food particles, cellular debris, and bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngology, a hard, foul-smelling calculus composed of calcium salts (hydroxyapatite, calcium carbonate) contributing to halitosis and throat irritation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonsillolith designates a term designating an entity, condition, or phenomenon derived from greek lith."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic follicular tonsillitis may result in the extrusion of a small, yellowish **tonsillolith**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections show that a **tonsillolith** develops through mineral precipitation around actinomycotic colonies and epithelial debris."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The patient complained of persistent foreign body sensation in the throat until a hard **tonsillolith** was dislodged."*

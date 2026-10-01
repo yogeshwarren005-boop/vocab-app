@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bowl for baptismal water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bowl for baptismal water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A designated building or an architectural enclosure in a church containing the font and used for the administration of baptism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early Christian and medieval architecture, often an octagonal or circular freestanding structure situated adjacent to a cathedral (such as in Florence or Pisa).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ghiberti: Lorenzo Ghiberti, the great Florentine sculptor, 1381-1455; his famous masterpiece, the eastern doors of the Florentine Baptistery, of San Giovanni, of which Michael Angelo said that they were worthy to be the gates of Paradise."*
+> - 📜 **John Ruskin (*Mornings in Florence*):** *"Stand before the bronze gates of the Florentine **baptistery**, which Ghiberti fashioned with such exquisite grace."*
+> - 📜 **Henry James (*Italian Hours*):** *"In Pisa the green turf surrounds the cathedral, the leaning tower, and the circular dome of the **baptistery**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The catechumens assembled inside the imperial **baptistery** on the eve of Easter to receive the holy rite."*

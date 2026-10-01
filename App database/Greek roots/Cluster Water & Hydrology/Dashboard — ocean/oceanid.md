@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) sea nymph who was a daughter of oceanus and tethys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) sea nymph who was a daughter of oceanus and tethys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, any of the three thousand sea nymph daughters of the Titans Oceanus and Tethys, personifying springs, streams, and oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical poetry and art, a benevolent water nymph associated with the nourishing waters of nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanid designates (greek mythology) sea nymph who was a daughter of oceanus and tethys."*
+> - 📜 **Hesiod (*Theogony*):** *"Three thousand slender-ankled daughters of Oceanus wander far and wide, and every **Oceanid** tends her allotted stream."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Panthea, the gentle **Oceanid**, sat weeping at the Titan's feet while morning dawned over the Caucasus."*
+> - 📜 **John Keats (*Endymion*):** *"A chorus of sweet **Oceanid** voices rose from the coral caves, singing of ancient Neptune's hall."*

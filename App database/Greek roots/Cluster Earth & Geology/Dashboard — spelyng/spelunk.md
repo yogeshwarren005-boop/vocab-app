@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spelyng.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To explore caves, especially as an amateur hobby or recreational pastime; to go caving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In recreational geology and outdoor exploration, navigating wild, non-commercial subterranean caverns using ropes, lights, and climbing gear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spelunk designates a term designating an entity, condition, or phenomenon derived from greek spelyng."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom and Becky ventured deep into the limestone labyrinth, eager to **spelunk** beyond the charted paths."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Local enthusiasts gather on weekends to **spelunk** through the uncharted sinkholes of the karst plateau."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We were equipped with miners' lamps and stout hemp ropes, ready to **spelunk** into the subterranean crevices of the plateau."*

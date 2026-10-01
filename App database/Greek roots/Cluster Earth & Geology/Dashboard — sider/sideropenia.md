@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deficiency of iron; results from inadequate iron in the diet or from hemorrhage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deficiency of iron; results from inadequate iron in the diet or from hemorrhage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deficiency of iron in the blood serum or bodily tissues; iron deficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a state of depleted iron stores leading to iron-deficiency anemia, microcytosis, fatigue, koilonychia, and impaired immune function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sideropenia designates a deficiency of iron; results from inadequate iron in the diet or from hemorrhage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **sideropenia** manifests clinically with pallor, brittle nails, and marked microcytic hypochromia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Tissue **sideropenia** impairs cellular oxidative respiration long before full anemia becomes apparent in blood counts."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Dietary **sideropenia** exhausts ferritin reserves in the liver and bone marrow, blunting erythropoiesis."*

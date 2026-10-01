@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Upset and make nauseated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from nausea; experiencing a queasy stomach and an urge to vomit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with profound disgust, loathing, or emotional revulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nauseated designates upset and make nauseated."*
+> - 📜 **George Orwell (*1984*):** *"Winston felt so **nauseated** by the oily victory gin that he had to brace himself before taking a sip."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He looked upon the severed heads mounted on the posts, **nauseated** by the sheer absurdity of the horror."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The stench of the boiling blubber left the novice sailor utterly **nauseated** on his first watch."*

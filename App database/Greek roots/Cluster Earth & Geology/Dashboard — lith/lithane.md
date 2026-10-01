@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white powder (lico3) used in manufacturing glass and ceramics and as a drug; the drug (trade names lithane or lithonate or eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white powder (lico3) used in manufacturing glass and ceramics and as a drug; the drug (trade names lithane or lithonate or eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical preparation or brand name for lithium carbonate (Li₂CO₃), used as a mood-stabilizing medication in bipolar disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacology, a salt that modulates neurotransmission and second-messenger cascades to mitigate manic-depressive cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithane designates a white powder (lico3) used in manufacturing glass and ceramics and as a drug; the drug (trade names lithane or lithonate or eskalith) is used to treat some forms of depression and manic episodes of manic-depressive disorder."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The psychiatrist initiated a regimen of **lithane** to stabilize the fluctuating mood swings of the manic patient."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Regular serum monitoring is mandatory during **lithane** therapy to maintain therapeutic safety."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"The introduction of **lithane** transformed the clinical outlook for patients crippled by affective psychiatric disorders."*

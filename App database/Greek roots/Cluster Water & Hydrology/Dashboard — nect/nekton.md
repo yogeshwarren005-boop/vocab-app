@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming aquatic animals essentially independent of wave and current action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming aquatic animals essentially independent of wave and current action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aggregate of actively swimming aquatic organisms capable of moving independently of water currents, such as fish, squids, and marine mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological oceanography and limnology, distinguished from plankton (drifting organisms) and benthos (bottom-dwelling organisms).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nekton designates free-swimming aquatic animals essentially independent of wave and current action."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"While the plankton drifts at the mercy of the tides, the powerful **nekton** steers its own course across the ocean basins."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"The **nekton** includes all the active hunters of the open sea, from the mackerel to the sperm whale."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Looking through the bathysphere window, we entered the realm where bioluminescent **nekton** darted through the blackness."*

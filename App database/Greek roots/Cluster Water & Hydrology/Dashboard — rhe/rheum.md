@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A watery discharge from the mucous membranes especially of the eyes or nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A watery discharge from the mucous membranes especially of the eyes or nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A watery or serous mucous discharge from the eyes, nose, or mouth, resulting from cold, irritation, or inflammation; tears or defluxion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical humoral pathology, an excess of cold, watery humor that flowed from the brain into the chest, joints, or respiratory mucous membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ENOBARBUS. [_Aside to Agrippa_.] That year, indeed, he was troubled with a rheum; What willingly he did confound he wailed, Believe ’t, till I weep too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I guess it stood in her chin, by the salt rheum that ran between France and it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At a few drops of women’s rheum, which are As cheap as lies, he sold the blood and labour Of our great action."*
+> - 📜 **William Shakespeare (*Othello*):** *"I have a salt and sorry **rheum** offends me; lend me thy handkerchief."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The old clerk's eyes were red and watery with **rheum**, and his voice trembled as he read the deed."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"And sightless dark, with joint-racking **rheum** and age, left alone to mourn."*

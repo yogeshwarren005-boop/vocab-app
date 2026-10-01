@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gilt edges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gilt edges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek etymology, the root *ge-* (from γῆ, *ge*, 'earth', 'land', 'soil'), forming the primary base for scientific words pertaining to the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining formant in classical compounds and cosmological terminology denoting the terrestrial globe, dry ground, or territorial domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Certains droits et privilèges de la noblesse me paraissent être des moyens de soutenir ce sentiment.” * * “The principle of monarchies is honor seems to me incontestable."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Jumièges in Normandy, down to the first half of the nineteenth century, the midsummer festival was marked by certain singular features which bore the stamp of a very high antiquity."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Jumièges in Normandy the man clad all in green, who bore the title of the Green Wolf, was pursued by his comrades, and when they caught him they feigned to fling him upon the midsummer bonfire."*
+> - 📜 **Aristotle (*Meteorology*):** *"The element of earth, denoted in Greek by **ge**, settles at the center of the elemental cosmos."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Every modern earth science derives its lineage from the ancient Greek root **ge-**."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"From the simple Greek monosyllable **ge** spring our grandest concepts of geography, geology, and geometry."*

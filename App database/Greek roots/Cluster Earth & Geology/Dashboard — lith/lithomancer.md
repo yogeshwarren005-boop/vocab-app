@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices lithomancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices lithomancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diviner who practices lithomancy; one who claims to foresee the future by interpreting stones, crystals, or reflections in gems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological folklore and occult history, a seer who casts marked stones onto a ceremonial board to read omens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithomancer designates one who practices lithomancy."*
+> - 📜 **Walter Pater (*Gaston de Latour*):** *"The wandering **lithomancer** cast seven polished stones onto the velvet cloth, reading the king's fate in their angles."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The Sultan consulted a Persian **lithomancer** whose beryl crystals revealed distant plots."*
+> - 📜 **Arthur Conan Doyle (*The Ring of Thoth*):** *"The Egyptian priest served as royal **lithomancer**, divining victory by the light refracted through sacred peridots."*

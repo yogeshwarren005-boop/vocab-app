@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lithodidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of lithodidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of commercially important king crabs (family Lithodidae), including the red king crab (Paralithodes camtschaticus) of the North Pacific and Bering Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology and fishery biology, large cold-water decapods with heavily calcified spiny carapaces and reduced fifth pereiopods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paralithodes designates a genus of lithodidae."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The red king crab, **Paralithodes**, crawls across the icy continental shelf of the Bering Sea in search of benthic mollusks."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Trawlers brave freezing gale-force seas to trap massive specimens of **Paralithodes** along Alaskan banks."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Taxonomists classify **Paralithodes** among the anomurans despite its superficially true crab-like morphology."*

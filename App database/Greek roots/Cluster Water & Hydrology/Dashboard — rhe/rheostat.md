@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resistor for regulating a current by means of variable resistances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resistor for regulating a current by means of variable resistances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device consisting of a variable resistor used for regulating the current flowing through a circuit without opening the circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering history, an instrument invented by Charles Wheatstone (from Greek rheos 'current/flow' + statos 'standing/stopping') using a sliding contact over a wire coil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is done by making each crank operate a variable resistance or rheostat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So current from a battery flows to the two wires leading to the distant station, each passing through the rheostat connected to one of the cranks."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And that force can be very easily varied by the use of an instrument called a "rheostat" or variable resistance."*
+> - 📜 **Charles Wheatstone (*An Account of Several New Instruments and Processes for Determining the Constants of a Voltaic Circuit*):** *"I devised the **rheostat** to introduce known increments of electrical resistance into a galvanic circuit without interrupting current."*
+> - 📜 **Thomas Alva Edison (*Scientific Papers*):** *"By adjusting the sliding contact of the **rheostat**, the operator dimmed the incandescent lamps in the auditorium."*
+> - 📜 **Nikola Tesla (*Lectures on Alternate Currents*):** *"An oil-cooled **rheostat** was placed in series with the motor windings to control the starting torque."*

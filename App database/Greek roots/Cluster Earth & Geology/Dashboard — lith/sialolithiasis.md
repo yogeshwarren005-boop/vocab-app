@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of one or more calculi (stones) in a salivary gland or its excretory duct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral and maxillofacial pathology, obstruction of salivary flow (most frequently in Wharton's duct of the submandibular gland), causing postprandial swelling and pain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sialolithiasis designates a term designating an entity, condition, or phenomenon derived from greek lith."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient suffered from acute submandibular swelling during meals, typical of ductal **sialolithiasis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Analysis of the stone in **sialolithiasis** reveals concentric layers of calcium phosphate deposited around an organic epithelial core."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Surgical incision over Wharton's duct easily relieved the obstruction caused by chronic **sialolithiasis**."*

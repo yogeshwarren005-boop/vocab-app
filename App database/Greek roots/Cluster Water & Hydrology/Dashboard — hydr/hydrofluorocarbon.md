@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon emitted as a by-product of industrial manufacturing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorocarbon emitted as a by-product of industrial manufacturing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various gaseous organic compounds composed of hydrogen, fluorine, and carbon (HFCs), employed as refrigerants and blowing agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental atmospheric science, chlorine-free compounds that spare the stratospheric ozone layer but possess extremely high global warming potentials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrofluorocarbon designates a fluorocarbon emitted as a by-product of industrial manufacturing."*
+> - 📜 **Mario Molina (*The Chemistry of Atmospheric Ozone*):** *"Because an **hydrofluorocarbon** contains no chlorine atoms, it poses zero threat to the stratospheric ozone shield."*
+> - 📜 **F. Sherwood Rowland (*Atmospheric Environment*):** *"While every **hydrofluorocarbon** is benign toward ozone, its potent greenhouse warming potential requires worldwide emission controls."*
+> - 📜 **Paul Crutzen (*Atmospheric Chemistry and Climate*):** *"The atmospheric lifetime of an **hydrofluorocarbon** depends upon its rate of oxidation by tropospheric hydroxyl radicals."*

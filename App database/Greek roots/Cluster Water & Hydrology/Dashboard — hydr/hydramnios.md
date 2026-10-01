@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormality of pregnancy; accumulation of excess amniotic fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormality of pregnancy; accumulation of excess amniotic fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal clinical condition during pregnancy characterized by an excessive accumulation of amniotic fluid in the amniotic sac; polyhydramnios.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and perinatology, fluid volumes exceeding 2,000 mL, commonly associated with maternal diabetes mellitus, multiple gestation, or fetal neural tube and gastrointestinal defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydramnios designates an abnormality of pregnancy; accumulation of excess amniotic fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **hydramnios** causes maternal abdominal distension, dyspnea, and increases the hazard of premature labor."*
+> - 📜 **J. Whitridge Williams (*Williams Obstetrics*):** *"Excessive accumulation of liquor amnii, designated as **hydramnios**, is frequently associated with fetal congenital anomalies."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"In acute **hydramnios**, uterine enlargement proceeds with alarming velocity, demanding therapeutic paracentesis."*

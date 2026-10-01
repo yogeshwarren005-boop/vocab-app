@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a lithe body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lithe body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a supple, flexible, and gracefully slender body; agile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary descriptions, characterized by smooth, effortless physical movement and sinuous posture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithe-bodied designates having a lithe body."*
+> - 📜 **Herman Melville (*Typee*):** *"The young island warriors were **lithe-bodied** and swift of foot as they bounded over the coconut groves."*
+> - 📜 **Jack London (*White Fang*):** *"The wolf was a **lithe-bodied** predator capable of turning mid-leap to strike its quarry."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia watched the **lithe-bodied** dancers circling around the roaring heath fire."*

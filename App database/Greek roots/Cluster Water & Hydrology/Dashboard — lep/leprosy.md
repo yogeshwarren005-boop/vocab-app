@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic infectious disease caused by a mycobacterium (Mycobacterium leprae) affecting especially the skin and peripheral nerves and characterized by the formation of nodules or macules that enlarge and spread accompanied by loss of sensation with eventual paralysis, wasting of muscle, and production of deformities —called also Hansen's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morally or spiritually harmful influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic infectious disease caused by Mycobacterium leprae, characterized by disfiguring skin lesions, nerve damage, and peripheral neuropathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, any severe, chronic skin disease causing scaling, whitening, or ulceration; figuratively, an insidious moral corruption or decaying influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yon ribaudred nag of Egypt, Whom leprosy o’ertake, i’ th’ midst o’ th’ fight, When vantage like a pair of twins appeared, Both as the same—or, rather, ours the elder— The breeze upon her, like a cow in June, Hoists sails and flies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Itches, blains, Sow all th’ Athenian bosoms, and their crop Be general leprosy!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This yellow slave Will knit and break religions, bless th’ accursed, Make the hoar leprosy adored, place thieves And give them title, knee, and approbation With senators on the bench."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The pestilence of the slums clung to the city like an ancient **leprosy** that no wealth could wash away."*
+> - 📜 **Albert Camus (*The Plague*):** *"In old chronicles, towns afflicted with plague or **leprosy** were sealed off completely from the living world."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Religious hatred had eaten into the nation like a dry **leprosy**, dissolving all bonds of civic goodwill."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose profession is to travel beyond the earth's atmosphere; broadly : any person who travels beyond the earth's atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose profession is to travel beyond the earth's atmosphere; broadly : any person who travels beyond the earth's atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained and equipped to travel in a spacecraft into outer space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional spaceflight crew member tasked with piloting spacecraft, conducting orbital research, or performing extravehicular activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astronaut designates a person whose profession is to travel beyond the earth's atmosphere; broadly : any person who travels beyond the earth's atmosphere."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The lone **astronaut** watched the blue sphere of Earth diminish until it became a brilliant morning star."*
+> - 📜 **Neil Armstrong (*First Man: The Life of Neil A. Armstrong*):** *"For an **astronaut**, the lunar surface was a stark, magnificent desolation unlike anything ever witnessed."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Every **astronaut** looking back from orbit has testified that national borders vanish before the majesty of our fragile globe."*

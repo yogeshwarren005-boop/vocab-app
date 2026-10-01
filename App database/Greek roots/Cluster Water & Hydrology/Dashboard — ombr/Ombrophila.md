@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ombr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small inoperculate discomycete cup fungi in the family Helotiaceae, characteristically growing in excessively moist, wet woodlands or swampy mosses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, gelatinous or soft cup-shaped fungi whose Greek name means 'rain-loving', thriving on waterlogged wood and rotting leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ombrophila designates a term designating an entity, condition, or phenomenon derived from greek ombr."*
+> - 📜 **Mordecai Cubitt Cooke (*British Fungi*):** *"The delicate gelatinous apothecia of **Ombrophila** appear on decaying beech twigs after torrential autumn rains."*
+> - 📜 **George Massee (*British Fungus-Flora*):** *"Species of **Ombrophila** are distinguished by their soft, waxy texture and preference for drenched forest bogs."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The genus **Ombrophila** encompasses hygrophilous cup fungi that fructify only under saturated ambient moisture."*

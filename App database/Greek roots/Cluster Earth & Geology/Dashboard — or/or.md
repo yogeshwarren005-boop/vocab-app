@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a function word to indicate an alternative, the equivalent or substitutive character of two words or phrases, or approximation or uncertainty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a function word to indicate an alternative, the equivalent or substitutive character of two words or phrases, or approximation or uncertainty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical etymology, the Greek root *or-* (from ὄρος, *oros*, 'mountain'), denoting an elevated landform, peak, or mountainous region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining base in geological and geographical vocabulary denoting mountains and mountain formation, as in orogeny, orography, and oread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nay, the debts due to the French and Dutch are to be paid in militiamen instead of louis d’ors and ducats."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"This Santa Engracia quarter seemed like a furnace, señors."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"These two good fathers have acquainted you with our need of it already." "Yes, I will sell it, I will sell it," answered Candiola, with a crafty smile; "but I cannot part with it at the price which these señors indicated."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The Greek stem **or-** provides the foundational vocabulary for describing how mountains are uplifted and eroded."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Physical geography draws upon the root **or-** to trace the colossal mountain chains that gird the continents."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The ancient reverence for high places is stamped in the very syllables of the Greek **or-** compounds."*

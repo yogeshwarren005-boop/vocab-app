@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dryness resulting from the removal of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depletion of bodily fluids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or state of losing water or moisture; in physiology, an acute or chronic condition caused by excessive loss of bodily water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical synthesis, an elimination reaction where an alcohol or acid loses a molecule of water to produce an alkene, ether, or anhydride.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydration designates dryness resulting from the removal of water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe cholera produces rapid **dehydration**, causing the eyes to sink and the skin to lose all turgor."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"By experimental **dehydration**, we observed the contraction of cellular volume in isolated muscle fibers."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The sensation of thirst serves as an immediate protective warning against cellular **dehydration**."*

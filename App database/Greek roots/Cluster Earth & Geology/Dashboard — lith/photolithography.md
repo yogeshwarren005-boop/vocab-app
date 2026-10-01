@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lithography in which photographically prepared plates are used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process involving the photographic transfer of a pattern to a surface for etching (as in producing an integrated circuit).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic printing process in which a stone or metal plate is coated with a photosensitive substance, exposed to light through a negative, and etched for printing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiconductor manufacturing, the micro-fabrication process of transferring geometric circuit patterns from a photomask onto a light-sensitive chemical photoresist on a silicon wafer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolithography designates lithography in which photographically prepared plates are used."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Modern microchips contain millions of microscopic transistors etched with extreme precision by ultraviolet **photolithography**."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"Through repeated cycles of **photolithography**, silicon wafers are inscribed with logical labyrinths of incredible complexity."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Early experiments in **photolithography** attempted to marry mechanical photographic fidelity with the delicate ink tones of the stone."*

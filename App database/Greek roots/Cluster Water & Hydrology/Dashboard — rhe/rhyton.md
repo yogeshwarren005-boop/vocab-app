@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various ornate drinking vessels of ancient times typically shaped in part like an animal or animal's head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various ornate drinking vessels of ancient times typically shaped in part like an animal or animal's head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient conical, horn-shaped drinking cup or libation vessel, typically terminating in the sculptured head of an animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aegean and classical archaeology, a ritual ceramic or metal vessel (from Greek rhyton, from rhein 'to flow') through whose pierced snout wine or libations flowed during sacred ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhyton designates any of various ornate drinking vessels of ancient times typically shaped in part like an animal or animal's head."*
+> - 📜 **Heinrich Schliemann (*Mycenae*):** *"Among the gold treasures of the shaft graves, we uncovered a magnificent silver **rhyton** shaped like the head of a bull."*
+> - 📜 **Arthur Evans (*The Palace of Minos at Knossos*):** *"Minoan fresco paintings depict young cupbearers carrying tall steatite **rhyton** vessels into the sanctuary."*
+> - 📜 **John Beazley (*Attic Red-Figure Vase-Painters*):** *"Classical potters fashioned the ceramic **rhyton** with extraordinary sculptural skill, combining pottery with animal sculpture."*

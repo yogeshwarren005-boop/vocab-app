@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of soleidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of soleidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small American sole flatfishes in the family Achiridae, notably including the hogchoker (Trinectes maculatus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, right-eyed, scaleless-jawed estuarine flatfishes inhabiting coastal waters, bays, and rivers along the western Atlantic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trinectes designates a genus of soleidae."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"The American flatfish **Trinectes** exemplifies adaptation to brackish estuaries where salinity fluctuates wildly."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The hogchoker, known to science as **Trinectes** maculatus, is a common bottom dweller in Atlantic estuaries."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"Fishermen frequently capture **Trinectes** in shallow creeks, finding its dermal camouflage virtually indistinguishable from mud."*

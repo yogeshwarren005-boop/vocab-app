@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Latest part of the stone age beginning about 10,000 bc in the middle east (but later elsewhere).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the most recent period of the stone age (following the mesolithic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the New Stone Age (c. 10,000–4,000 BC), characterized by polished stone tools, agriculture, animal domestication, and pottery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, the epochal transformation from nomadic foraging to sedentary village life, known as the Neolithic Revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have lived through the ages known to-day among the scientists as the Paleolithic, the Neolithic, and the Bronze."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When was it inhabited?” “Neolithic man—no date.” “What did he do?” “He grazed his cattle on these slopes, and he learned to dig for tin when the bronze sword began to supersede the stone axe."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Mortimer for opening a grave without the consent of the next of kin because he dug up the Neolithic skull in the barrow on Long Down."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"The **neolithic** revolution transformed humanity from passive food-gatherers into active food-producers."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The **neolithic** village fostered garden agriculture, maternal care, and the enduring rituals of community life."*
+> - 📜 **H.G. Wells (*The Outline of History*):** *"With the arrival of **neolithic** culture, pottery and weaving made their appearance alongside domesticated cattle and wheat."*

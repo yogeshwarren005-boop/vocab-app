@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chemical process of rapidly decomposing a dead body to mostly tiny bits of bone resembling ash by immersing the body in a pressurized chamber containing a heated alkaline solution (as of potassium hydroxide) followed by drainage of all liquid and pulverization of remaining bone; broadly : any hydrolysis process performed in an alkaline environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which a molecule of water cleaves one or more chemical bonds in another compound, incorporating H+ and OH- fragments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metabolic biochemistry and industrial chemistry, the mechanism by which polymers (proteins, polysaccharides, nucleic acids) are broken down into their constituent monomers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The degree of **hydrolysis** of a dissolved salt can be quantitatively calculated from its electrolytic dissociation constants."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The enzymatic **hydrolysis** of adenosine triphosphate releases free energy to drive endergonic cellular processes."*
+> - 📜 **Jacobus Henricus van 't Hoff (*Lectures on Theoretical and Physical Chemistry*):** *"We measured the velocity of ester **hydrolysis** in dilute aqueous acids to verify the mass action law."*

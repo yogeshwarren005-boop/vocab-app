@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having the color of chalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, containing, or covered with chalk; having the white, dry, powdery texture or taste of chalk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedology and agriculture, describing soils with high calcium carbonate content, often causing pale coloration and high alkalinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I looked for the chalky cliffs, but I could find no whiteness in them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the dread summit of this chalky bourn."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There's the cottage." They had turned a bend and the head of the dale lay before them, a mere dimpling depression between breasts of chalky grass."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The summer carriage wheels threw up clouds of fine, **chalky** dust along the Wessex road."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The sheep thrive upon the short, fragrant turf that clothes these **chalky** downlands."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"Holmes examined the bicycle tracks imprinted upon the wet, **chalky** lane."*

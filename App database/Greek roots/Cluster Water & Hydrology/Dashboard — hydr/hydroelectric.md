@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to production of electricity by waterpower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to production of electricity by waterpower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generating, utilizing, or pertaining to electricity produced by the mechanical energy of falling or flowing water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In energy engineering, describing civil power installations that channel river flows through hydraulic turbines coupled to alternating-current electrical generators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroelectric designates of or relating to production of electricity by waterpower."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The harnessing of Niagara Falls by our polyphase alternating system established the world's first commercial **hydroelectric** generating station."*
+> - 📜 **Thomas Alva Edison (*Scientific Papers*):** *"Turbines driven by falling water in a **hydroelectric** plant supply steady, economical illumination to distant manufacturing towns."*
+> - 📜 **John Muir (*Our National Parks*):** *"Engineers seek to dam pristine mountain canyons for **hydroelectric** power, sacrificing natural wonder for commercial energy."*

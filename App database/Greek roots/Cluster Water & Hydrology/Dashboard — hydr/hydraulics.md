@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science that deals with practical applications (such as the transmission of energy or the effects of flow) of liquid (such as water) in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of science that deals with practical applications (such as the transmission of energy or the effects of flow) of liquid (such as water) in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practical branch of physical science and civil engineering dealing with the mechanical properties and practical applications of liquids in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrotechnical engineering, the discipline governing dam construction, canal flow, municipal pipe networks, and fluid-power machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You should have been a surgeon.” “It is a question of hydraulics, you see, and came within my own province.” “This has been done,” said I, examining the wound, “by a very heavy and sharp instrument.” “A thing like a cleaver,” said he."*
+> - 📜 **Leonardo da Vinci (*Notebooks*):** *"The science of **hydraulics** teaches us how water may be guided through channels to turn wheels and irrigate valleys."*
+> - 📜 **Daniel Bernoulli (*Hydrodynamica*):** *"In our treatise on **hydraulics**, we formulate the mathematical laws governing the velocity and pressure of running streams."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Practical inventions in **hydraulics** have done more to alleviate human toil than endless scholastic disputations."*

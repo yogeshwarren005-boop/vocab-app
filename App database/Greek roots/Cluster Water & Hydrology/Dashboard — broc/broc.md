@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek broc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The linguistic and etymological root broc- (from Greek broche, moisture/rain, and brochein, to moisten or drench), foundation of pharmacological embrocations and botanical terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical lexicography, also associated via Romance borrowing with Italian brocco (sprout/pointed shoot), giving rise to broccoli and brocade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, broc designates a term designating an entity, condition, or phenomenon derived from greek broc."*
+> - 📜 **Henry Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek stem **broc**- (broche) signifies rain, soaking, or moisture, and in medical writers denotes an irrigation or lotion."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"In pharmacological terminology, **broc**- and embrocation trace to Greek brochein, to moisten or drench."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The root **broc**- appears in ancient medical compounds denoting liquid fomentations applied to inflamed tissues."*

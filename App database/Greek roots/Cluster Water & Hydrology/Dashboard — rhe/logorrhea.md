@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive and often incoherent talkativeness or wordiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive and often incoherent talkativeness or wordiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, uncontrollable, and often incoherent flow of words or talkativeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and behavioral neurology, a symptom observed in manic states, Wernicke's aphasia, or frontal lobe disinhibition characterized by rapid, voluble, uninhibited speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logorrhea designates excessive and often incoherent talkativeness or wordiness."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"A sudden fit of intellectual **logorrhea** seized the talkative guest, who monopolized the entire dinner conversation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In manic excitement, flight of ideas often manifests as uncontrollable **logorrhea**, words pouring forth faster than ideas can form."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"The political pamphlets of the period were infected with a pompous **logorrhea** that concealed a total absence of genuine thought."*

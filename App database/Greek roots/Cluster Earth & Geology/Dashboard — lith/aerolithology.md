@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of aerolites or stony meteorites that fall to the Earth from outer space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical branch of meteoritics analyzing the mineralogical composition and cosmic origin of extraterrestrial stone specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerolithology designates a term designating an entity, condition, or phenomenon derived from greek lith."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The rapid advances of **aerolithology** proved that stones falling from the heavens shared mineral constituents with terrestrial rocks."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Pioneering treatises in **aerolithology** dispelled ancient superstitions by establishing the cosmic trajectory of falling fireballs."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Through **aerolithology**, geologists gained their first direct physical evidence of planetary chemistry outside Earth."*

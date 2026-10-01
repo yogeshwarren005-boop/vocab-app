@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a catarrh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a catarrh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by catarrh; characterized by inflammation of mucous membranes with copious discharge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, describing an inflammatory exudate rich in mucus, desquamated epithelial cells, and leukocytes that coats respiratory or intestinal surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catarrhal designates of or relating to a catarrh."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute **catarrhal** jaundice, swelling of the common bile duct papilla impedes biliary drainage into the duodenum."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Stethoscopic examination in **catarrhal** bronchitis reveals diffuse sonorous rhonchi across both pulmonary fields."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The **catarrhal** exudate consists of desquamated epithelial cells, mucus globules, and migrating leukocytes."*

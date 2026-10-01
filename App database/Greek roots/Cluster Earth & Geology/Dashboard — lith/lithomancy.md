@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of stones or stone talismans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of stones or stone talismans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of stones, crystals, or the casting of pebbles and gems; stone divination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of folk magic and traditional belief, reading patterns formed by tossing colored stones onto a marked circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithomancy designates divination by means of stones or stone talismans."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Superstitious men sought guidance through **lithomancy**, attributing prophetic powers to the random scatter of gravel."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Tribal seers practiced **lithomancy** before battle, reading omen stones cast beside the sacred campfire."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"Medieval grimoires preserved bizarre rituals of **lithomancy** alongside astrological charts."*

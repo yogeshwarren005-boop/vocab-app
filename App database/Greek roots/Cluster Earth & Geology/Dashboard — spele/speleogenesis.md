@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spele.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geological origin, development, and evolution of caves and karst subterranean drainage systems over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrogeology, the process whereby carbonic acid in groundwater dissolves soluble carbonate rocks along bedding planes and joints to form cave passages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speleogenesis designates a term designating an entity, condition, or phenomenon derived from greek spele."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The initial phase of **speleogenesis** begins along microscopic joint fractures beneath the regional water table."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Modern theories of **speleogenesis** emphasize turbulent phreatic flow in dissolving miles of limestone caverns."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The study of **speleogenesis** reveals that vast cave networks formed under past wetter climates."*

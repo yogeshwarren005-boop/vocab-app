@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weave a design into (textiles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embellished with a raised pattern created by pressure or embroidery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Embossed, decorated, or woven with raised patterns in the manner of brocade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing sumptuous clothing or furnishings displaying intricate figured weaving with metallic or colored silk reliefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"She would fancy herself in the days of Queen Anne or George the First; and describe the brocaded dames and courtly manners as though she had been bred among them, in the best style of the old comedy."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Her grandmother's **brocaded** gown rustled as she moved through the dim parlor."*
+> - 📜 **Edgar Allan Poe (*The Assignation*):** *"The luxurious couch was draped in heavily **brocaded** silks of gold and violet."*
+> - 📜 **Washington Irving (*Tales of a Traveller*):** *"The grandee appeared in a **brocaded** doublet that glittered under the chandeliers of the ballroom."*

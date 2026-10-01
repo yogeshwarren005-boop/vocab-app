@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of clay , mud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of clay , mud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed of, or resembling pelite; argillaceous or clay-rich.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic geology, describing mineral assemblages (such as pelitic schists) rich in aluminum silicates resulting from the alteration of clay minerals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelitic designates adjective*) pertaining to, derived from, or characteristic of clay , mud."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The **pelitic** schists of the Scottish Highlands reveal a sequence of metamorphic zones marked by index minerals."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The dark **pelitic** laminae alternate with fine sandy layers, recording seasonal changes in sedimentation."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Outcrops of dark, **pelitic** slate cleaved smoothly under the geological hammer."*

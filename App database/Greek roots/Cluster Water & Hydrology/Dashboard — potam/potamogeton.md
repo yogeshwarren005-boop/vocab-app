@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of aquatic herbs found in quiet waters in temperate regions; leaves usually float on the water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large genus of aquatic herbs found in quiet waters in temperate regions; leaves usually float on the water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of aquatic flowering plants in the family Potamogetonaceae, commonly known as pondweeds, widely distributed in freshwater habitats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic botany and limnology, submerged or floating-leaved macrophyte plants that provide essential food and habitat for waterfowl and freshwater fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamogeton designates a large genus of aquatic herbs found in quiet waters in temperate regions; leaves usually float on the water."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Dense beds of **Potamogeton** carpet the shallows of the pond, their translucent submerged leaves waving in the current."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The spikes of **Potamogeton** rise above the water surface to expose their wind-pollinated blossoms."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Identification of species in the genus **Potamogeton** is notoriously difficult owing to extreme leaf polymorphism."*

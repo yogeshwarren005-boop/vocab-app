@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abrocomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abrocomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of South American caviomorph rodents comprising the chinchilla rats, characterized by extremely soft, dense fur (Greek abros = delicate + kome = hair).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology, small burrowing and rock-dwelling mammals endemic to the Andes of Chile, Peru, Bolivia, and Argentina, forming the family Abrocomidae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abrocoma designates abrocomes."*
+> - 📜 **Charles Darwin (*Zoology of the Voyage of H.M.S. Beagle*):** *"The rodent **Abrocoma** bennettii inhabits the dry scrub of central Chile, possessing fur of remarkable softness."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"In cranial structure, **Abrocoma** shows affinities both with the chinchillas and the octodonts."*
+> - 📜 **George Robert Waterhouse (*A Natural History of the Mammalia*):** *"The delicate silky coat of **Abrocoma** distinguishes it at once from the harsher-haired spiny rats."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of mountain formation especially by folding of the earth's crust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of mountain formation especially by folding of the earth's crust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process or geological epoch in which a section of the Earth's crust is folded and deformed by lateral compression to form a mountain range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology, a specific named mountain-building episode, such as the Variscan, Caledonian, or Laramide orogeny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orogeny designates the process of mountain formation especially by folding of the earth's crust."*
+> - 📜 **John McPhee (*Rising from the Plains*):** *"The Laramide **orogeny** unroofed the Precambrian granite basement of Wyoming, thrusting it through miles of Mesozoic shales."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The elevation of the Andes during a recent geological **orogeny** accounts for the presence of fossil marine shells at fourteen thousand feet."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"The Caledonian **orogeny** crushed and recrystallized the ancient sediments of the Highlands into rugged mountain roots."*

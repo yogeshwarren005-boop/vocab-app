@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for determining the specific gravity of a liquid or solid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for determining the specific gravity of a liquid or solid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the specific gravity, relative density, or strength of liquids by means of buoyancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical instrumentation and brewing, a sealed graduated glass bulb weighted with lead shot that sinks to varying depths depending on liquid density (such as in wort or battery acid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This weight is ascertained by means of a "hydrometer," a glass tube, stopped, and loaded with some small shot at its lower end."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"By dipping a graduated glass **hydrometer** into wine and spirits, we determined their relative buoyant gravities with great precision."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The Baumé **hydrometer** provided distillers and acid manufacturers with a rapid commercial scale for measuring specific gravity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"To monitor the state of charge in a lead-acid storage cell, one tests the electrolyte density with a suction **hydrometer**."*

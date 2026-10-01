@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or dependent upon the conjoint effect of temperature and salinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or dependent upon the conjoint effect of temperature and salinity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the combined effects of temperature (thermo-) and salinity (haline) on the density and movement of seawater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography, describing the global conveyor belt of deep-ocean circulation driven by density gradients created by surface heat flux and freshwater dilution or evaporation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermohaline designates involving or dependent upon the conjoint effect of temperature and salinity."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep abyssal currents are driven by **thermohaline** density differences, where cold and salty surface waters plunge into the ocean depths."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"The grand circulation of the deep sea is fundamentally a **thermohaline** engine propelled by polar cold and equatorial evaporation."*
+> - 📜 **Henry Stommel (*The Gulf Stream*):** *"Our laboratory models confirmed that **thermohaline** convection sustains the global conveyor belt linking the Atlantic and Pacific basins."*

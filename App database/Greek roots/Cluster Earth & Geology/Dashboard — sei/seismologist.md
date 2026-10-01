@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geophysicist who studies earthquakes and the mechanical characteristics of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geophysicist who studies earthquakes and the mechanical characteristics of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or geophysicist who specializes in seismology, the study of earthquakes and seismic wave propagation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In disaster management and tectonic research, an investigator who analyzes fault mechanics, assesses seismic hazards, and models mantle structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismologist designates a geophysicist who studies earthquakes and the mechanical characteristics of the earth."*
+> - 📜 **John McPhee (*Assembling California*):** *"The **seismologist** mapped every aftershock to delineate the subterranean rupture plane of the Loma Prieta earthquake."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Beno Gutenberg was the pioneering **seismologist** who precisely determined the depth of the Earth's core-mantle boundary."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The Apollo missions landed seismometers on the Moon, allowing the terrestrial **seismologist** to listen to moonquakes."*

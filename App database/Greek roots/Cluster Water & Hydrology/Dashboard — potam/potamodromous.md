@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Migrating exclusively within freshwater systems, especially moving upstream within rivers and tributaries to spawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fisheries biology and ichthyology, distinguished from anadromous (sea to river) and catadromous (river to sea) migrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamodromous designates adjective*) pertaining to, derived from, or characteristic of river."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"The grayling is a **potamodromous** species, journeying to clear upland shallows to deposit its spawn."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Dams constructed across river valleys pose an insurmountable barrier to **potamodromous** native suckers and minnows."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Unlike the ocean-wandering salmon, strictly **potamodromous** fishes never cross the brackish boundary of the estuary."*

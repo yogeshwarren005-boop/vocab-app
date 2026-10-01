@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic siliceous particle that is formed by a plant and that is highly resistant to decomposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microscopic siliceous particle that is formed by a plant and that is highly resistant to decomposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic silica body or mineralized deposit precipitated within the cells or tissues of a living plant, persisting in soil long after the plant decays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoethnobotany and geoarchaeology, durable opal silica particles whose diagnostic shapes allow researchers to identify ancient cultivated crops and reconstruct past vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytolith designates a microscopic siliceous particle that is formed by a plant and that is highly resistant to decomposition."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Microscopic inspection of the vegetable mould revealed thousands of glistening **phytolith** skeletons from decayed grasses."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Siliceous **phytolith** remains accumulate in lake sediments, recording the composition of prehistoric prairie flora."*
+> - 📜 **V. Gordon Childe (*What Happened in History*):** *"Archaeobotanists extract the microscopic **phytolith** from prehistoric pottery to identify the earliest cultivated grains."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of undergoing hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of undergoing hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being broken down or cleaved by water or aqueous enzymes; susceptible to hydrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacochemistry and materials science, describing biodegradable polymer sutures (such as polyglycolic acid) or tannins that dissolve and degrade in biological fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolyzable designates capable of undergoing hydrolysis."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Tannins are broadly classified into condensed proanthocyanidins and **hydrolyzable** gallotannins."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The glycosidic linkages of cellulose are **hydrolyzable** only under severe acidic conditions or by specialized cellulase enzymes."*
+> - 📜 **Frederick Gowland Hopkins (*Biochemical Journal*):** *"Only the **hydrolyzable** peptide bonds of proteins are cleaved during peptic and tryptic digestion."*

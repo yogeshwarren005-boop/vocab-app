@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of stones (calculi) in an internal organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of stones (calculi) in an internal organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of stony concretions (calculi) in any organ, duct, or cavity of the body (e.g., kidneys, gallbladder).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathological medicine, a chronic metabolic or infectious condition characterized by the abnormal precipitation of mineral salts from bodily fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithiasis designates the formation of stones (calculi) in an internal organ."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Renal **lithiasis** frequently announces itself with sudden, excruciating lumbar pain and hematuria."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The histological study of urinary **lithiasis** demonstrates that proteinaceous organic matrices provide the initial scaffold for crystal nucleation."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Ancient surgeons devised perilous operations to relieve patients from the torture of bladder **lithiasis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involved with biogeography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involved with biogeography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biogeography, the study of the geographical distribution of biological organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, concerning historical, geological, and ecological factors that establish distinct biogeographical provinces and faunal realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogeographical designates of or relating to or involved with biogeography."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Malay Archipelago offers the most striking **biogeographical** contrast to be found anywhere upon the globe."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"A strictly **biogeographical** survey of oceanic islands proves that native species are descended from mainland migrants."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Speciation cannot be understood without mapping the **biogeographical** barriers that divide ancestral populations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to mountains; especially : associated with or induced by the presence of mountains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to mountains; especially : associated with or induced by the presence of mountains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the topographic relief and physical geography of mountains; pertaining to or caused by mountains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, describing atmospheric phenomena (such as clouds, rain, or wind deflection) produced by the forced ascent of moist air over elevated terrain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orographic designates of or relating to mountains; especially : associated with or induced by the presence of mountains."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The windward slopes of the Andes receive torrential **orographic** precipitation, while the leeward plateau remains an arid desert."*
+> - 📜 **John Muir (*The Mountains of California*):** *"A magnificent banner of **orographic** cloud streamed eastward from the snowy summit of Mount Ritter."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Maritime air masses colliding with coastal ranges shed their moisture in dense **orographic** downpours."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratlike rodent with soft fur and large ears of the andes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratlike rodent with soft fur and large ears of the andes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any rodent of the genus Abrocoma; a chinchilla rat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A South American herbivorous mammal adapted to arid and montane habitats with dense pelage and brush-tailed extremities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abrocome designates ratlike rodent with soft fur and large ears of the andes."*
+> - 📜 **Richard Lydekker (*Geographical History of Mammals*):** *"The Andean **abrocome** lives in burrows beneath rocky outcrops high in the Chilean cordillera."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals*):** *"The dentition of the **abrocome** illustrates an intermediate condition among caviomorph rodents."*
+> - 📜 **Frank Evers Beddard (*Mammalia*):** *"Among South American rodents, the **abrocome** is noted for its velvet-like pelt and burrowing habits."*

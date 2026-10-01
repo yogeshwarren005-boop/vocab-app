@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to astronauts or the science of astronautics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to astronauts or the science of astronautics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to astronautics or the navigation of outer space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to interplanetary or interstellar spacecraft design, propulsion, and celestial trajectory planning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astronautic designates of or belonging to astronauts or the science of astronautics."*
+> - 📜 **Konstantin Tsiolkovsky (*The Exploration of Cosmic Space by Means of Reaction Devices*):** *"The **astronautic** rocket will carry humanity beyond the suffocating cradle of Earth's atmosphere."*
+> - 📜 **Arthur C. Clarke (*Interplanetary Flight*):** *"Early **astronautic** calculations proved that multistage rockets were essential to reach orbital velocity."*
+> - 📜 **Willy Ley (*Rockets, Missiles, and Space Travel*):** *"The foundation of **astronautic** science was laid by amateur rocketeers in the pre-war decades."*

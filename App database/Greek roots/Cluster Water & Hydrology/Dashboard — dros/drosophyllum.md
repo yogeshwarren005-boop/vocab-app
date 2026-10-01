@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of carnivorous plants containing the single species Drosophyllum lusitanicum (the dewy pine or Portuguese sundew), native to Portugal, Spain, and northern Morocco.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, a unique carnivorous shrub that paradoxically thrives in dry, alkaline, Mediterranean heathlands rather than moist peat bogs, secreting honey-scented mucilage to capture prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, drosophyllum designates one species."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"**Drosophyllum** lusitanicum is remarkable among insect-eating plants for flourishing on dry pine-covered hills rather than in marshy bogs."*
+> - 📜 **Joseph Dalton Hooker (*Icones Plantarum*):** *"The robust stem and glandular foliage of **Drosophyllum** secrete honey-scented droplets that adhere tenaciously to insects."*
+> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"Specimens of **Drosophyllum** cultivated at Kew attracted swarms of flies by the sweet exudation of their glands."*

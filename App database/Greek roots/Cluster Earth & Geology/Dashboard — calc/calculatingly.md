@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calculating manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a calculating manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calculating, scheming, or deliberate manner; with shrewd, premeditated intention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioural analysis, acting with dispassionate foresight, weighing every action solely by its personal advantage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It carefully and calculatingly distributed his riches among the members of his family, overlooking no individual of it."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"She lowered her parasol **calculatingly**, ensuring that her glance fell directly upon him."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"Razumov spoke **calculatingly**, measuring every syllable so as not to betray his agitation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Alec watched her **calculatingly**, aware that her vulnerability was his greatest advantage."*

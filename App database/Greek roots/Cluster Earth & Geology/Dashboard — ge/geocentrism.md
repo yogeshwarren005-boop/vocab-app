@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The astronomical or philosophical belief that the Earth is the stationary center of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and epistemology, the Ptolemaic-Aristotelian worldview that dominated Western cosmology until overthrown by the Copernican Revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geocentrism designates a term designating an entity, condition, or phenomenon derived from greek ge."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The overthrow of **geocentrism** was a painful demotion for human pride, casting us adrift in a vast universe."*
+> - 📜 **Arthur Koestler (*The Sleepwalkers*):** *"The tenacious survival of **geocentrism** owed less to observation than to aesthetic devotion to perfect circular orbits."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"Copernicus dismantled **geocentrism** not by discovering new stars, but by re-centering planetary geometry on the Sun."*

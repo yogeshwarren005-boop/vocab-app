@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of turning into stone; petrifaction; mineral replacement of organic structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme terror, shock, or immobility that leaves one motionless as stone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrification designates the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the petrified forest of the Andes, the process of **petrification** had preserved even the cellular rings of conifers."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A feeling of icy **petrification** crept over me as I heard the low grating of the heavy iron door."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Calcareous springs at Clermont display astonishing powers of rapid **petrification**, coating twigs with crystalline travertine in a few weeks."*

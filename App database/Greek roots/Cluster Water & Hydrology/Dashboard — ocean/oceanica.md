@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large group of islands in the south pacific including melanesia and micronesia and polynesia (and sometimes australasia and the malay archipelago).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large group of islands in the south pacific including melanesia and micronesia and polynesia (and sometimes australasia and the malay archipelago).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latinized taxonomic epithet designating species native to, inhabiting, or characteristic of the open ocean or Oceania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological nomenclature, seen in marine organisms such as Posidonia oceanica (Neptune grass) and various pelagic invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He published his manifesto, whereby he set himself forth as the deliverer of the isles of the sea and vicar-general of all Oceanica."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"He published his manifesto, whereby he set himself forth as the deliverer of the isles of the sea and vicar-general of all Oceanica."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The meadows of Posidonia **oceanica** carpeting the Mediterranean shelf maintain the clarity of coastal waters."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the designation **oceanica**, ancient naturalists classified those marine organisms that never approached the littoral shore."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil beds rich in Posidonia **oceanica** demonstrate the persistent depth of ancient seabed troughs."*

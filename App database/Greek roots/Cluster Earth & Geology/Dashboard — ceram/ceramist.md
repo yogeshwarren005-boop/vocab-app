@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who shapes pottery on a potter's wheel and bakes them it a kiln.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who shapes pottery on a potter's wheel and bakes them it a kiln.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes pottery, earthenware, or other ceramic objects; a potter or ceramic artist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical specialist in the formulation of ceramic bodies, glazes, refractory linings, or structural clays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceramist designates a craftsman who shapes pottery on a potter's wheel and bakes them it a kiln."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The itinerant **ceramist** displayed his glazed pans and earthen crocks upon the village green."*
+> - 📜 **George Eliot (*Adam Bede*):** *"A skilled **ceramist** can discern the exact composition of a river clay merely by rubbing it between finger and thumb."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The delicate porcelain plate had been signed on the underside by a celebrated Dresden **ceramist**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Storm petrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Storm petrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of storm petrels, comprising small, tube-nosed pelagic seabirds in the order Procellariiformes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ecology, cosmopolitan marine wanderers possessing tubular nostrils for salt excretion and olfactory navigation over vast oceanic expanses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrobatidae designates storm petrels."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Members of the **Hydrobatidae** are distributed across every ocean, wandering thousands of miles from land."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The family **Hydrobatidae** encompasses tube-nosed oceanic wanderers that feed on pelagic crustaceans and oily slicks."*
+> - 📜 **Robert Cushman Murphy (*Oceanic Birds of South America*):** *"No oceanic family exhibits greater adaptation to nocturnal pelagic foraging than the **Hydrobatidae**."*

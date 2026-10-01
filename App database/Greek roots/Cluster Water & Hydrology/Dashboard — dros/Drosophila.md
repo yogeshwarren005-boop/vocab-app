@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small fruit fly used by thomas hunt morgan in studying basic mechanisms of inheritance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small fruit fly used by thomas hunt morgan in studying basic mechanisms of inheritance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small two-winged flies commonly called fruit flies or vinegar flies, extensively utilized in biological and genetic research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental genetics, the preeminent model organism whose giant salivary chromosomes and rapid life cycle enabled Morgan, Bridges, and Sturtevant to map genetic inheritance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Drosophila designates small fruit fly used by thomas hunt morgan in studying basic mechanisms of inheritance."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Mutations discovered in the fruit fly **Drosophila** melanogaster furnished incontrovertible proof that genes reside upon chromosomes."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Natural populations of **Drosophila** pseudoobscura reveal seasonal fluctuations in chromosome inversions."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Laboratory investigations on **Drosophila** have illuminated the precise mechanisms of mutation and gene rearrangement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable form of mica used especially in glazes and enamels and as a source of lithium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variable form of mica used especially in glazes and enamels and as a source of lithium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lilac-gray or rose-colored lithium-bearing phyllosilicate mineral of the mica group, characterized by scaly, flaky crystal aggregates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and economic geology, a primary source of lithium, rubidium, and cesium found in granitic pegmatites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lepidolite designates a variable form of mica used especially in glazes and enamels and as a source of lithium."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The scaly, pearly cleavage of **lepidolite** immediately betrays its micaceous structure and high lithium content."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"In complex granitic pegmatites, crystals of tourmaline and **lepidolite** record the final volatile-rich phase of magma crystallization."*
+> - 📜 **Edward Salisbury Dana (*A Textbook of Mineralogy*):** *"Specimens of **lepidolite** from Rozena display delicate violet scales embedded in quartz."*

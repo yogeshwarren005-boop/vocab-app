@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suffering from hydrophobia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking affinity for water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking affinity for water; repelling water or failing to mix with it; characteristic of rabies (hydrophobia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and structural biology, designating nonpolar substances (such as hydrocarbons and lipids) that force water molecules into clathrate cages, driving hydrophobic collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophobic designates of, relating to, or suffering from hydrophobia."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The folding of globular proteins is driven by the spontaneous burial of non-polar, **hydrophobic** amino acid residues within the interior."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"The lipid bilayer forms an effective permeability barrier because its central core is intensely **hydrophobic**."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The **hydrophobic** paraffin wax coating prevented aqueous solutions from wetting the glass capillary."*

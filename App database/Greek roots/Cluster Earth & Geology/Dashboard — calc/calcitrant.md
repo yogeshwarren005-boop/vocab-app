@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek calc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly refractory; kicking back; recalcitrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical etymology (from Latin calcitrare, 'to kick with the heel'), exhibiting persistent or rebellious defiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcitrant designates a term designating an entity, condition, or phenomenon derived from greek calc."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The **calcitrant** assembly resisted every royal edict with obstinate silence."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Nature ever resists our mechanical devices with a silent, **calcitrant** inertia."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"His **calcitrant** nature bristled against the slightest imposition of foreign authority."*

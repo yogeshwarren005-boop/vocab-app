@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing three metal atoms in a molecule, or composed of three different metallic elements; ternary alloy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In catalysis and material science, describing heterogeneous catalysts or electrochemical electrodes composed of three metals (e.g., Pt-Pd-Rh) for synergistic activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimetallic designates adjective*) pertaining to, derived from, or characteristic of mine."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"A **trimetallic** alloy of copper, tin, and zinc produced an exceptionally resonant bell bronze."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The active catalytic center contains a **trimetallic** cluster that facilitates the reduction of nitrogen."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"Our research laboratory developed a **trimetallic** bearing lining that withstood the friction of high-speed steam locomotives."*

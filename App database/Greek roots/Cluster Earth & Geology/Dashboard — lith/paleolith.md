@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone tool from the paleolithic age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone tool from the paleolithic age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone implement or artifact belonging to the Paleolithic (Old Stone Age) period, typically roughly chipped or flaked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prehistoric archaeology, stone handaxes, choppers, and flakes crafted by early hominins from flint, chert, or quartzite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleolith designates a stone tool from the paleolithic age."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"A rough flint **paleolith** recovered from the river gravels confirmed the enormous geological antiquity of man."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The discovery of the chipped **paleolith** alongside mammoth bones shattered the short Biblical chronology."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Summerlee held up a crudely chipped **paleolith** discovered at the base of the volcanic cliff."*

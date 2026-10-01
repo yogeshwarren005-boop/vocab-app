@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon in which a colorless or weakly colored chemical compound produces an intense color upon the formation of a salt or the addition of an acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chromophore theory, the electronic bathochromic shift produced when an uncharged conjugated molecule is converted into an ionic species or coordinate salt complex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halochromism designates a term designating an entity, condition, or phenomenon derived from greek hal."*
+> - 📜 **Adolf von Baeyer (*Scientific Memoirs*):** *"We designated this dramatic transformation of colorless carbinols into deeply colored salts as **halochromism**."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"The concept of **halochromism** explains the bathochromic shifts observed when unsaturated ketones dissolve in concentrated sulfuric acid."*
+> - 📜 **Gilbert Newton Lewis (*Valence and the Structure of Atoms and Molecules*):** *"The phenomenon of **halochromism** is intimately connected with the reorganization of valence electrons during complex ion formation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northwestern syria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northwestern syria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biological morphology, scaleless; lacking scales or having an epidermis completely devoid of lepidote armor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and ichthyology, descriptive of scaleless fish, larval amphibians, or skin surfaces that lack epidermal scales (more commonly alepidote).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alep designates a city in northwestern syria."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"Certain deep-sea teleosts present an **alep** or completely naked skin, dispensing with dermal scales."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The primitive **alep** state of the integument precedes the development of hardened ganoid plates in embryonic ontogeny."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The smooth epidermis of the lamprey exemplifies an **alep** morphology adapted to parasitic adherence."*

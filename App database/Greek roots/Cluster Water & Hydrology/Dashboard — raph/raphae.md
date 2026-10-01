@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek raph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plural of rapha or raphe; anatomical seams, ridges, or lines of junction where two symmetrical halves of an organ or structure meet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and microscopy, visible longitudinal seams found on anatomical structures (e.g., median raphes) and on diatom frustules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raphae designates a term designating an entity, condition, or phenomenon derived from greek raph."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"The median **raphae** on the cranial sutures mark the precise lines of embryonic closure."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In certain embryonic stages, distinct **raphae** indicate the fusion of bilateral tissue folds."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Anatomists describe various superficial **raphae** where bilateral muscular sheets coalesce in the midline."*

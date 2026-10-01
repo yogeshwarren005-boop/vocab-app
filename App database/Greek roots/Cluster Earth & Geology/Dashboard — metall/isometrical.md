@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal dimensions or measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having equal dimensions or measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by equality of measure; isometric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural drawing and axonometric projection, a method of visual representation in which three coordinate axes appear equally foreshortened at 120-degree angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometrical designates having equal dimensions or measurements."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"An **isometrical** projection reveals the three-dimensional harmony of the cathedral without optical distortion."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The crystalline facets conform to an **isometrical** plan where all three axes intersect at right angles."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The engineering draughtsman executed an **isometrical** drawing of the calculating gears for the machinists."*

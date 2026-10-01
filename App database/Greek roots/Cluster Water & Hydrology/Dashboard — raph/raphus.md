@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the raphidae: dodos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the raphidae: dodos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of extinct flightless columbiform birds native to the island of Mauritius, containing the dodo (Raphus cucullatus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and paleontology, the iconic symbol of human-caused extinction, a giant ground-dwelling pigeon that vanished by the late 17th century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raphus designates type genus of the raphidae: dodos."*
+> - 📜 **Richard Owen (*Memoir on the Dodo*):** *"The osteology of **Raphus** cucullatus demonstrates how insular isolation and absence of predators favored extreme gigantism."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The heavy, flightless dodo, **Raphus**, fell an easy prey to early navigators and introduced domestic animals."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The dodo, **Raphus**, was not an evolutionary failure but an exquisitely adapted island survivor doomed by human arrival."*

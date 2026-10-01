@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with seismology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with seismology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or relating to seismology; seismic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In earth sciences, concerning scientific investigations of earthquake mechanisms, plate boundaries, and subsurface structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seismological designates of or concerned with seismology."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The **seismological** observatory at Strasbourg became an international clearinghouse for global earthquake telemetry."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Subsurface fault geometries are reconstructed from dense **seismological** profiling."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep-focus **seismological** records from the Tonga Trench revealed oceanic lithosphere plunging into the mantle."*

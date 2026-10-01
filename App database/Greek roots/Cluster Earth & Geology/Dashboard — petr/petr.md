@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stone : rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stone : rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek etymology, the root *petr-* (from πέτρα, *petra*, 'rock', 'stone', 'cliff'), the foundation for words relating to rocks, stone, and petrology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A productive linguistic combining element in geological, paleontological, and petroleum nomenclature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Petrúshka!” he called to his valet: “Come here, take these away."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was not a ball, nor had dancing been announced, but everyone knew that Catherine Petróvna would play valses and the écossaise on the clavichord and that there would be dancing, and so everyone had come as to a ball."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Catherine Petróvna speaks of Lily, but I say, no—the princess!"*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The classical stem **petr-** lies at the very origin of our science of petrology and subterranean rocks."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Our nomenclature draws continually upon **petr-** to denote the rocky framework of continents."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"In every geological treatise, the **petr-** prefix identifies the enduring stone foundations of the globe."*

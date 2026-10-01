@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the hydrobatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the hydrobatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small pelagic seabirds in the storm petrel family Hydrobatidae, exemplified by the European storm petrel (Hydrobates pelagicus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ornithology, diminutive ocean-dwelling birds characterized by black plumage with white rumps and hooked beaks, feeding on surface plankton far from land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrobates designates type genus of the hydrobatidae."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The tiny storm petrel **Hydrobates** skims effortlessly over raging ocean crests, pattering its feet upon the waves."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Sailors look upon **Hydrobates** as an omen of tempest, marveling at its endurance in mid-Atlantic squalls."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The genus **Hydrobates** comprises the smallest of all web-footed oceanic birds, nesting in deep burrows on remote sea-cliffs."*

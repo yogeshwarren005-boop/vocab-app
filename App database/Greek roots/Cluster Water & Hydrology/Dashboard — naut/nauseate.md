@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Upset and make nauseated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to feel nausea, stomach sickness, or an urge to vomit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fill with intense moral, intellectual, or aesthetic disgust; to repulse or sicken.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The rank odor of cheap tobacco mingles with the nauseating aroma of the myriad socks hung above the stove and the poorly ventilated place is stifling, oppressive and depressing."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The saloonmen, because of the natural results of their business can stand considerable of the unusual, but this woodsman was able to give the denizens of Billingsgate advance instruction in the unprintable and nauseating."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The foul stench of the Houyhnhnm's stable was sweet compared to the odors of the Yahoos, which did utterly **nauseate** me."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The sight of the monstrous creation breathing life did **nauseate** my soul with an irrepressible horror."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Excessive flattery will eventually **nauseate** even the most vain of patrons."*

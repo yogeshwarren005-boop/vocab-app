@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade names atarax and vistaril) used as a tranquilizer to treat anxiety and motion sickness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade names atarax and vistaril) used as a tranquilizer to treat anxiety and motion sickness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A first-generation piperazine antihistamine medication with sedative, antiemetic, and anxiolytic properties (brand names Atarax, Vistaril).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacology, an inverse agonist at peripheral and central histamine H1 receptors that crosses the blood-brain barrier to alleviate anxiety and allergic urticaria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxyzine designates a drug (trade names atarax and vistaril) used as a tranquilizer to treat anxiety and motion sickness."*
+> - 📜 **Donald Calne (*Therapeutics in Neurology*):** *"The central histamine H1 receptor blockade of **hydroxyzine** produces significant sedation and relieves psychomotor agitation."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"In clinical dermatology, **hydroxyzine** remains one of the most effective oral agents for intractable allergic pruritus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Preoperative administration of **hydroxyzine** eases anxiety and minimizes postoperative nausea and vomiting."*

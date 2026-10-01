@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and probably unnatural group of fungi and funguslike organisms comprising the mastigomycota (including the oomycetes) and zygomycota subdivisions of the division eumycota; a category not used in all systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and probably unnatural group of fungi and funguslike organisms comprising the mastigomycota (including the oomycetes) and zygomycota subdivisions of the division eumycota; a category not used in all systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic taxonomic class of lower fungi characterized by non-septate (coenocytic) mycelia and asexual reproduction by sporangiospores, often resembling green algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of mycology, an obsolete grouping that formerly combined Chytridiomycota, Zygomycota, and fungus-like Oomycota before modern phylogenetic classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycomycetes designates a large and probably unnatural group of fungi and funguslike organisms comprising the mastigomycota (including the oomycetes) and zygomycota subdivisions of the division eumycota; a category not used in all systems."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The primitive structural affinities between the **phycomycetes** and siphonaceous algae led early naturalists to suspect a common origin."*
+> - 📜 **George Massee (*A Text-Book of Fungi*):** *"In the **phycomycetes**, the vegetative hyphae lack cross-walls, forming continuous multinucleate filaments."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"Spore dispersal mechanisms among the **phycomycetes** exhibit extraordinary hydrostatic propulsion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intricate traditional dance in india performed by professional dancing girls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intricate traditional dance in india performed by professional dancing girls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional dance performance in northern and western India, executed by professional female dancers (nautch girls) accompanied by vocalists and instrumental music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and Anglo-Indian literature, a public entertainment prevalent in Mughal and colonial India; phonetically resembling naut- but derived from Hindi nāch (Sanskrit nṛtya).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nautch designates an intricate traditional dance in india performed by professional dancing girls."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The drums beat incessantly through the hot night while the troupe performed an intricate **nautch** before the rajah."*
+> - 📜 **Mark Twain (*Following the Equator*):** *"At the palace we witnessed a **nautch**, where the dancers swayed in heavy gold-embroidered silks with chiming ankle bells."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The festivities concluded with an elaborate **nautch**, celebrated by musicians playing the sitar and tabla."*

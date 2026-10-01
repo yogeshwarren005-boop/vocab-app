@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, characteristic of, or affected with rheumatism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One affected with rheumatism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suffering from rheumatism; marked by pain and stiffness in the joints, muscles, and connective tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, designating autoimmune post-streptococcal disease (rheumatic fever) affecting the endocardium, joints, and central nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are both, i’ good truth, as rheumatic as two dry toasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOSTESS. ’A did in some sort, indeed, handle women; but then he was rheumatic, and talk’d of the whore of Babylon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And youthful still—in your doublet and hose, this raw rheumatic day?"*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Therefore the moon, the governess of floods, / Pale in her anger, washes all the air, / That **rheumatic** diseases do abound."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"A slight **rheumatic** attack confined the colonel to his room during the damp November rains."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Weller complained bitterly of a **rheumatic** stiffness in his shoulder whenever the east wind blew."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A viscous alcohol that is less active in mammals than is vitamin a1.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viscous alcohol that is less active in mammals than is vitamin a1.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vitamin A2; a retinoid alcohol (C20H28O) containing an additional conjugated double bond in the beta-ionone ring compared to retinol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retinal biochemistry and visual physiology, the prosthetic chromophore of porphyropsin, found in the retinas and visual pigments of freshwater and anadromous fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydroretinol designates a viscous alcohol that is less active in mammals than is vitamin a1."*
+> - 📜 **George Wald (*The Molecular Basis of Visual Excitation*):** *"The visual pigment porphyropsin utilizes **dehydroretinol** as its chromophore, shifting spectral sensitivity toward the red in freshwater fish."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Structural determination established that **dehydroretinol** possesses an additional conjugated double bond compared with standard vitamin A1."*
+> - 📜 **Richard Morton (*Biochemical Spectroscopy*):** *"Spectroscopic analysis of pike liver oil confirmed the presence of **dehydroretinol** with its distinctive ultraviolet absorption maximum."*

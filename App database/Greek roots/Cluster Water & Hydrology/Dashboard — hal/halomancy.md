@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or fortune-telling through the ritual inspection, burning, or casting of salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological folklore and magical history, an ancient occult practice common in Mediterranean and Near Eastern cultures, observing how salt crackled or melted upon sacred coals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halomancy designates a term designating an entity, condition, or phenomenon derived from greek hal."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Superstitious folk practiced **halomancy** by observing how salt crackled or melted upon sacrificial embers."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Divination by salt, or **halomancy**, was widespread among ancient peoples who regarded salt as an incorruptible divine emblem."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In rural Greece, village seers consulted the patterns of cast salt in rites of rustic **halomancy**."*

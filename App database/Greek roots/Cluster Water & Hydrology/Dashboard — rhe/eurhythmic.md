@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmonious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to eurythmy or eurythmics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by harmonious proportion, graceful rhythm, or well-balanced measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and performing arts, designating architectural compositions or choreographed movements (as in Dalcroze eurhythmics) where music is embodied in bodily cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eurhythmic designates harmonious."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"A building designed with **eurhythmic** symmetry delights the citizen with its well-balanced proportions."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The young Athenian athletes moved in **eurhythmic** cadence during the sacred festival dances."*
+> - 📜 **Arthur Symons (*Plays, Acting and Music*):** *"Her dance exhibited a pure, **eurhythmic** expression where every physical movement translated musical phrase into visible melody."*

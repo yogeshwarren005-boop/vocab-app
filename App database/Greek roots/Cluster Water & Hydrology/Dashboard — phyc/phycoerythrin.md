@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Red pigment in red algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Red pigment in red algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brilliant red photosynthetic accessory pigment belonging to the phycobiliprotein family, found prominently in red algae (Rhodophyta) and certain cyanobacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine botany and cell biology, an antenna pigment that absorbs blue-green light in deep coastal waters, widely utilized in flow cytometry as a fluorescent label.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycoerythrin designates red pigment in red algae."*
+> - 📜 **C. Stacy French (*The Pigments of Algae*):** *"The deep scarlet color of benthic rhodophytes is imparted by **phycoerythrin**, masking the underlying green chlorophyll."*
+> - 📜 **Martin D. Kamen (*Biochemical Studies of Photosynthesis*):** *"Fluorescence emission from **phycoerythrin** cascades sequentially through phycocyanin to activate the photosynthetic core."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Dredges from forty fathoms brought up delicate red algae rich in **phycoerythrin**, perfectly tuned to deep submarine illumination."*

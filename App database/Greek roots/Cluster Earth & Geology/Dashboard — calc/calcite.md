@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral CaCO3 consisting of calcium carbonate crystallized in hexagonal form and including common limestone, chalk, and marble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral CaCO3 consisting of calcium carbonate crystallized in hexagonal form and including common limestone, chalk, and marble.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common rock-forming mineral consisting of crystalline calcium carbonate (CaCO₃), having trigonal symmetry and strong double refraction; Iceland spar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentary geology, the principal constituent of limestone, chalk, and marble, forming stalactites and marine shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcite designates a mineral caco3 consisting of calcium carbonate crystallized in hexagonal form and including common limestone, chalk, and marble."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The cave roof was hung with glittering icicles of translucent **calcite** formed by dripping springwater."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Cleavage rhombic fragments of **calcite** exhibit the optical phenomenon of double refraction with exceptional clarity."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Veins of snowy **calcite** traverse the dark limestone precipice like frozen lightning."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metallurgy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to metallurgy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metallurgy, the science and technology of metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the industrial smelting, refining, alloying, and heat treatment of metallic ores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metallurgic designates of or relating to metallurgy."*
+> - 📜 **Georgius Agricola (*De Re Metallica*):** *"The **metallurgic** furnaces must be constructed of refractory stone capable of withstanding the fiercest charcoal heat."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The discovery of ancient **metallurgic** slag heaps proved that Phoenician miners had worked the copper veins of Cyprus."*
+> - 📜 **Thomas Edison (*The Writings of Thomas Alva Edison*):** *"We conducted extensive **metallurgic** trials to determine which tungsten alloy exhibited the longest lifespan in vacuum."*

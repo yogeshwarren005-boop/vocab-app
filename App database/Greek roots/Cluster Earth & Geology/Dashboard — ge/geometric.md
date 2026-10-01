@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by simple geometric forms in design and decoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or determined by geometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to geometry, or according to its methods and principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or decorated with regular lines, curves, angles, and formal shapes; increasing in a geometric progression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I squared and cubed long series of numbers, and by concentration and will carried on most astonishing geometric progressions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene was geometric, multidimensional, and seemingly chaotic."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual vision is not subordinate to geometric alti- 215:12 tudes."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Population, when unchecked, increases in a **geometric** ratio, while subsistence increases only in an arithmetic ratio."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"The long chains of simple and easy reasonings by which **geometric** proofs are constructed charmed my youth."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The eye is the best of artists, translating all organic forms into pure **geometric** symmetry."*

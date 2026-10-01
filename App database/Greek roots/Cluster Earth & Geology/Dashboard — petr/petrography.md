@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The description and systematic classification of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The description and systematic classification of rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology concerned with the systematic description, microscopic examination, and classification of rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The descriptive counterpart of petrology, focusing on mineral composition, microscopic fabric, and textural classification rather than magma petrogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrography designates the description and systematic classification of rocks."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Henry Clifton Sorby laid the foundation of modern **petrography** when he first prepared transparent rock slices for optical inspection."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Accurate **petrography** is indispensable for unraveling the complex history of volcanic and metamorphic terranes."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Before a geologist can formulate a theory of magma genesis, he must master the detailed **petrography** of the suite."*

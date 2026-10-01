@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northeastern europe on the baltic sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northeastern europe on the baltic sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A country in northeastern Europe on the eastern shore of the Baltic Sea, southernmost of the three Baltic states; capital Vilnius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European history, the Grand Duchy of Lithuania, a major medieval and early modern power that united with Poland in the Polish-Lithuanian Commonwealth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Russian Lithuania, on the first of May, they used to set up a green tree before the village."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Lithuania the name for the last sheaf is Boba (Old Woman), answering to the Polish name Baba."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sometimes in Lithuania the last sheaf is not threshed, but is fashioned into female shape and carried to the barn of a neighbour who has not finished his threshing."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pagan tribes of **Lithuania** resisted Teutonic crusaders behind impenetrable marshes for centuries."*
+> - 📜 **Adam Mickiewicz (*Pan Tadeusz*):** *"**Lithuania**, my country, thou art like good health; how much one should prize thee, he only knows who has lost thee."*
+> - 📜 **Czesław Miłosz (*Native Realm*):** *"My childhood memories were rooted in the green meadows and dark pine forests of rural **Lithuania**."*

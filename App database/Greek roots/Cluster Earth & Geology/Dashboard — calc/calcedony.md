@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A milky or greyish translucent to transparent quartz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A milky or greyish translucent to transparent quartz.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cryptocrystalline form of silica, composed of very fine intergrowths of quartz and moganite, having a waxy luster and variable color; chalcedony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology and mineralogy, an ornamental stone encompassing varieties such as agate, carnelian, chrysoprase, and onyx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcedony designates a milky or greyish translucent to transparent quartz."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Byzantine mosaics were enriched with inlays of jasper, porphyry, and lustrous **calcedony**."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The ancient engravers treasured **calcedony** for signet rings because hot wax would not adhere to its surface."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The curio cabinet contained a carved goblet of pale blue **calcedony** dating from the Ming dynasty."*

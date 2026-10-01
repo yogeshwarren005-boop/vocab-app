@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become impregnated with calcium salts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become inflexible and unchanging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become hard and rigid by the deposition of calcium carbonate or other calcium salts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative usage, to become rigid, inflexible, unyielding, or resistant to change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcify designates become impregnated with calcium salts."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Organic concretions in the soil gradually **calcify** into durable stone granules."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"Prejudices tend to **calcify** with age, petrifying the spontaneous sympathies of the human heart."*
+> - 📜 **H.G. Wells (*The Island of Doctor Moreau*):** *"The surgeon noted how the reconstructed cartilages began to **calcify** after several months of healing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ombr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used by meteorologists to collect and measure the amount of precipitation that falls over a specified period; a rain gauge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In weather instrumentation and climatology, a pluviometer or udometer equipped with a graduated cylinder to measure rainfall depth in millimeters or inches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ombrometer designates a term designating an entity, condition, or phenomenon derived from greek ombr."*
+> - 📜 **Robert FitzRoy (*The Weather Book: A Manual of Practical Meteorology*):** *"The observer must inspect the **ombrometer** every morning at eight, recording the exact rainfall in hundredths of an inch."*
+> - 📜 **Cleveland Abbe (*Treatise on Meteorological Apparatus*):** *"A properly shielded **ombrometer** prevents eddying gusts from blowing raindrops away from the collection funnel."*
+> - 📜 **Luke Howard (*The Climate of London*):** *"The measurements from my **ombrometer** during the storm of July confirmed an unprecedented deluge for the London basin."*

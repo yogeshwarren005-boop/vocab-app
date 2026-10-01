@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of hydrography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of hydrography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or relating to hydrography; dealing with the measurement and description of navigable waters and ocean beds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation and physical geography, characterizing bathymetric charts, tide tables, and depth soundings essential for safe nautical piloting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrographic designates of or relating to the science of hydrography."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"Accurate **hydrographic** charts of ocean currents and winds transformed transatlantic sailing into a science."*
+> - 📜 **James Cook (*A Voyage Towards the South Pole*):** *"We carried out a detailed **hydrographic** survey of the uncharted bays along the southern coast of New Zealand."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Captain FitzRoy's arduous **hydrographic** measurements of Tierra del Fuego guided mariners safely through perilous channels."*

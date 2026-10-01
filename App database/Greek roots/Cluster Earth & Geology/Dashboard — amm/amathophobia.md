@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek amm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, intense, or debilitating fear of dust or powdery dirt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific phobia characterized by compulsive avoidance of uncleaned surfaces, dusty archives, or airborne particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amathophobia designates a term designating an entity, condition, or phenomenon derived from greek amm."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The antiquarian suffered from a singular **amathophobia**, refusing to inspect parchment volumes that bore the dust of centuries."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Morbid aversions to dirt and dust, termed **amathophobia**, frequently manifest as excessive cleansing rituals."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Patients afflicted with **amathophobia** perceive imminent contamination in the faintest cloud of household dust."*

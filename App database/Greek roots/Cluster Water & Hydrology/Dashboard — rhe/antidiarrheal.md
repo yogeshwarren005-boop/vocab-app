@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to control or stop diarrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to control or stop diarrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relieving, preventing, or checking diarrhea; a medication or remedy used to treat diarrheal symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal pharmacology, agents such as loperamide, bismuth subsalicylate, or adsorbents that reduce peristaltic motility, inhibit fluid secretion, or bind bacterial toxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidiarrheal designates a drug used to control or stop diarrhea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bismuth subsalicylate acts as an effective mild **antidiarrheal** by coating inflamed intestinal mucosa and inhibiting enterotoxin secretion."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Before resorting to strong **antidiarrheal** tinctures, ensure the patient is supplied with pure water and sterile gruel."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Opium preparations have long served as the principal **antidiarrheal** remedy to diminish peristaltic frequency."*

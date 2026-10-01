@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient percussion instrument consisting of a metal frame with transverse rattling rods or disks, shaken in sacred religious rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Egyptian and Greco-Roman religious archaeology, a sacred rattle specifically associated with the worship of the goddess Isis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Whole nights were spent sitting in the temple amid the rattling of the sistrum."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In one hand is a sistrum, in the other a golden vessel shaped like a boat, with an asp for its handle.[94] She speaks. [Sidenote: Isis] "Lo!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The priests of Isis marched through the streets of Rome shaking the sacred bronze **sistrum** in rhythmic cadence."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The chanting procession was led by white-robed initiates who sounded the tinkling brass of the Egyptian **sistrum**."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The sweet metallic rattle of the **sistrum** announced the solemn dawn opening of the temple of Isis."*

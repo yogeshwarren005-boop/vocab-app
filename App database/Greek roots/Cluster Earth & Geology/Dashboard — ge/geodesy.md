@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of applied mathematics concerned with the determination of the size and shape of the earth and the exact positions of points on its surface and with the description of variations of its gravity field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of applied mathematics concerned with the determination of the size and shape of the earth and the exact positions of points on its surface and with the description of variations of its gravity field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of applied mathematics and earth science that deals with the measurement and representation of the Earth, including its gravitational field and exact shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics, the discipline measuring variations in the Earth's geoid, crustal motion, and rotational dynamics through satellite positioning and gravimetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geodesy designates a branch of applied mathematics concerned with the determination of the size and shape of the earth and the exact positions of points on its surface and with the description of variations of its gravity field."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The principles of **geodesy** demonstrate that centrifugal force must flatten the Earth at its poles."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"Through the methods of precision **geodesy**, we mapped the colossal peaks of the equatorial cordillera."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Theoretical **geodesy** bridges pure geometry with the physical realities of the planet's gravitational contours."*

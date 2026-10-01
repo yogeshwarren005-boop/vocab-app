@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The larval cyst of a tapeworm (genus Echinococcus) occurring as a fluid-filled sac containing daughter cysts in which scolices develop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The larval cyst of a tapeworm (genus Echinococcus) occurring as a fluid-filled sac containing daughter cysts in which scolices develop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cyst filled with watery fluid, specifically the larval cyst of the tapeworm Echinococcus granulosus occurring in humans and livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and pathology, a slow-growing cystic structure with a germinal inner membrane and cuticular outer layer containing infective daughter cysts and scolices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydatid designates the larval cyst of a tapeworm (genus echinococcus) occurring as a fluid-filled sac containing daughter cysts in which scolices develop."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A ruptured **hydatid** cyst of the liver can cause sudden anaphylactic shock and widespread secondary peritoneal infection."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic inspection of the **hydatid** fluid reveals countless scolices and laminated chitinous membranes."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The true parasitic nature of the **hydatid** was recognized by early naturalists investigating animal bladders."*

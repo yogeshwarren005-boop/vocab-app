@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling anthracite coal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling anthracite coal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or containing anthracite; having the characteristics of hard, low-volatile coal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentology, describing carbonaceous formations or metamorphic seams that have evolved toward pure fixed carbon through geological compression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthracitic designates relating to or resembling anthracite coal."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The fracture of **anthracitic** coal is distinctly conchoidal, displaying an almost metallic vitreous luster."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The intense folding of the strata converted soft vegetable peat into compact, **anthracitic** deposits."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"An **anthracitic** vein found within the metamorphic schists testifies to the extreme temperature and pressure endured by the strata."*

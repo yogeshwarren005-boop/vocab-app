@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Baptist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Baptist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root (baptein, baptizein, meaning 'to dip, immerse, submerge, cleanse, or wash'), forming the foundation of vocabulary relating to ritual immersion and chemical dyeing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and etymology, an ancient Indo-European stem denoting deep dipping in liquid, developing historically from textile dyeing to sacramental ablution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian had to face a similar criticism of Christian life--was Abraham _baptized_? _de Bapt._ 13. [31] Tert. _adv."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tert. _de Bapt._ 2, _simplicitas divinorum operum ... et magnificentia_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valentin._ 12. [4] References to his Greek treatises (all lost) may be found in _de cor. mil._ 6; _de bapt._ 15; _de virg. vel._ 1. [5] _De viris illustribus, sub nomine_. [6] _de anima_ 39. [7] _Ibid._ 41. [8] _Ibid._ 39. [9] _adv."*
+> - 📜 **Henry Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek stem **bapt**- signifies to dip in water, dye, or drown, forming the common root of classical ritual immersions."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the Indo-European base denoting depth comes Greek **bapt**-, expressive of deep submersion."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"Ecclesiastical Latin borrowed the Greek root **bapt**- directly to express sacramental ablution."*

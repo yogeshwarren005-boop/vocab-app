@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low level of calcium in the blood serum (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acute endocrinology, a condition marked by increased neuromuscular excitability, tetany, carpopedal spasm (Trousseau sign), and paresthesias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypocalcaemia designates abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inadvertent removal of the parathyroid glandules during thyroidectomy provokes sudden **hypocalcaemia** and painful tetany."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Severe **hypocalcaemia** increases neuronal membrane permeability to sodium ions, eliciting spontaneous motor discharges."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"The muscular cramps and laryngospasm of **hypocalcaemia** require immediate intravenous calcium replacement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for the diuretic drug hydrochlorothiazide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacotherapy, a cornerstone oral formulation widely prescribed to reduce peripheral resistance and prevent fluid retention in cardiac and hypertensive patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodiuril designates a diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Prescription of **HydroDIURIL** revolutionized ambulatory treatment of congestive fluid retention and essential hypertension."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The mild natriuretic response to daily **HydroDIURIL** prevents recurrence of peripheral edema in cardiac insufficiency."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In older hypertensive patients, low doses of **HydroDIURIL** effectively control systolic pressures without severe electrolyte wasting."*

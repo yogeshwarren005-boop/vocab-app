@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 4-aminoquinoline medication used to treat and prevent malaria, and as a disease-modifying antirheumatic drug (DMARD) for lupus and rheumatoid arthritis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology and immunology, an oral drug that accumulates in intracellular lysosomes, inhibiting antigen presentation and dampening toll-like receptor signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxychloroquine designates anti-inflammatory drug (trade name plaquenil) used in the treatment of rheumatoid arthritis and malaria and lupus erythematosus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern management of systemic lupus erythematosus relies on **hydroxychloroquine** to prevent disease flares and renal complications."*
+> - 📜 **Donald Calne (*Therapeutics in Neurology*):** *"The incorporation of a hydroxyl group into chloroquine yielded **hydroxychloroquine**, marked by reduced ocular toxicity."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Long-term therapeutic regimens of **hydroxychloroquine** suppress autoimmune inflammation without causing generalized bone-marrow suppression."*

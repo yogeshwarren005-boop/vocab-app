@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psamm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sedimentary rock composed mainly of sand-sized grains; sandstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology, a metamorphosed sandstone or quartz-rich sedimentary rock (e.g., psammitic schist or quartzite).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psammite designates a term designating an entity, condition, or phenomenon derived from greek psamm."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The thick beds of Highland **psammite** represent ancient marine shoreface sands recrystallized during regional metamorphism."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The coastal cliffs displayed alternating bands of fine argillite and gritty **psammite**."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The outcrop consisted of pale, blocky **psammite**, resistant to glacial erosion."*

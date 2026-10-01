@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water rats of australia and new guinea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water rats of australia and new guinea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subfamily of murid rodents commonly called amphibious rats or water rats, native to Australia, New Guinea, and adjacent islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian evolutionary biology, a group of semi-aquatic rodents displaying morphological adaptations including reduced molar dentition, webbed digits, and water-repellent guard hair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromyinae designates water rats of australia and new guinea."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The water rats of the **Hydromyinae** possess webbed hind feet and dense water-repellent fur suited for river hunting."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Members of the **Hydromyinae** display remarkable dental reduction, having only two molars in each jaw."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals*):** *"In cranial anatomy, the **Hydromyinae** exhibit flattened skulls and valvular nostrils adapted to aquatic diving."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a metallic color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a metallic color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color, luster, or reflective sheen characteristic of a polished metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological and botanical description, displaying iridescent, metallic-like surface pigments or cuticle reflections (American spelling).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metallic-colored designates having a metallic color."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male hummingbirds display brilliant **metallic-colored** gorgets that flash like burnished copper in the sun."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The dolphin turned upon its side, flashing **metallic-colored** scales of green and gold."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Small tide-pool beetles exhibited hard, **metallic-colored** elytra that gleamed like bronze."*

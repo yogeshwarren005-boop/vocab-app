@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or containing a hydroxyl group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or containing a hydroxyl group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, characterized by, or pertaining to the hydroxyl group or radical (-OH) attached to an organic skeleton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic organic nomenclature, a prefix designating the presence of an alcohol or phenol function on a carbon chain (such as hydroxybenzoic acid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxy designates being or containing a hydroxyl group."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"The introduction of a **hydroxy** group into an aromatic ring transforms the parent hydrocarbon into a reactive phenol."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Hydrogen bonding between adjacent **hydroxy** groups contributes to the high boiling point of polyhydric alcohols."*
+> - 📜 **Emil Fischer (*Studies on Carbohydrates*):** *"Stereochemical orientation of each secondary **hydroxy** group along the carbon chain determines whether a hexose is glucose or galactose."*

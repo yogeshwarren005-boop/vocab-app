@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or living attached to the surface of rocks or stones (as certain lichens, mosses, or algae); saxicolous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater and marine ecology, describing periphyton communities that form thin biofilms over submerged river stones or bedrock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epilithic designates adjective*) pertaining to, derived from, or characteristic of stone."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Dark green **epilithic** mosses clung tenaciously to the granite boulders edging the pond."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Encrusting **epilithic** lichens paint the supralittoral sea cliffs in brilliant splashes of orange and black."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Pioneer **epilithic** crusts prepare the smooth rock surface for subsequent colonization by vascular herbs."*

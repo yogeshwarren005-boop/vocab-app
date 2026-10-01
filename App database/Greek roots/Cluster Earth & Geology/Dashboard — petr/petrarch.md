@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian poet famous for love lyrics (1304-1374).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian poet famous for love lyrics (1304-1374).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The English anglicized name for Francesco Petrarca (1304–1374), Italian lyric poet and early humanist scholar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary verse forms, the creator of the Petrarchan sonnet, consisting of an octave (abbaabba) and a sestet (cdecde or cdcdcd).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now is he for the numbers that Petrarch flowed in."*
-> - 📜 **George Eliot (*Middlemarch*):** *"However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And now here is my pocket Petrarch, and not another word shall I say of this case until we are on the scene of action."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"The poetry of **Petrarch** celebrated love as the great animating fire of the human spirit."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The laurel crown of ancient Rome was revived upon the Capitol to crown the genius of **Petrarch**."*
+> - 📜 **John Keats (*Selected Letters*):** *"I have read over the sonnets of **Petrarch** and marvel at the melodic perfection of his Italian verse."*

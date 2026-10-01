@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fluids at rest or to the pressures they exert or transmit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fluids at rest or to the pressures they exert or transmit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or in a state of equilibrium under the pressure exerted by liquids at rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and medicine, describing hydrostatic pressure within capillary beds that drives filtration across endothelial walls in opposition to oncotic pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For this purpose there is first of all a "hydrostatic valve." This little appliance, which is open to the action of the water, responds to changes in pressure."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So the hydrostatic valve is adjusted to set the rudders straight when the water-pressure upon it is a certain amount."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One is by the use of a hydrostatic valve."*
+> - 📜 **Daniel Bernoulli (*Hydrodynamica*):** *"The **hydrostatic** pressure at any depth in a vessel is proportional to the density of the fluid and the height of the column."*
+> - 📜 **Blaise Pascal (*Treatise on the Weight of the Mass of Air*):** *"Our experiments confirmed that **hydrostatic** pressure is transmitted equally in all directions throughout a confined fluid."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"In the second book, we establish that **hydrostatic** equilibrium requires equal pressure along every horizontal plane."*

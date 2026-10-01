@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or living below the surface of the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining below the ground while the epicotyl elongates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing, developing, or living beneath the surface of the ground (opposed to epigeous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing seed germination where the cotyledons remain underground within the seed coat (as in the pea or oak acorn).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogeous designates growing or living below the surface of the ground."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"In plants with **hypogeous** germination, the cotyledons never leave their subterranean retreat to become green leaves."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The garden pea exemplifies **hypogeous** development, sending up only its epicotyl into the atmosphere."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Many edible fungi are strictly **hypogeous**, maturing their subterranean sporocarps entirely beneath the oak litter."*

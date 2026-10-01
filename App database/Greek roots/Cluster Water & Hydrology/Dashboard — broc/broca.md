@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French anthropologist who studied the craniums and brains of different races of people; remembered for his discovery that articulate speech depends on an area of the brain now known as broca's area (1824-1880).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French anthropologist who studied the craniums and brains of different races of people; remembered for his discovery that articulate speech depends on an area of the brain now known as broca's area (1824-1880).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paul Broca (1824–1880), pioneering French physician, neuroanatomist, and anthropologist who discovered the cerebral speech center (Broca's area).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and neuropsychology, referring to structures or cognitive deficits associated with his work, notably Broca's convolution and Broca's expressive aphasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I have from Oxford sent to London The heads of Brocas and Sir Bennet Seely, Two of the dangerous consorted traitors That sought at Oxford thy dire overthrow."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The celebrated observations of **Broca** proved that a lesion of the third frontal convolution destroys motor speech."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The localization of articulate language established by **Broca** marked a triumphant epoch in cerebral physiology."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Professor **Broca** has shown by extensive measurements that human cranial capacities vary with racial stock and intellectual exercise."*

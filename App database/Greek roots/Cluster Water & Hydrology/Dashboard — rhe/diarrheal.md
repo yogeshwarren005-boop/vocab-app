@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to diarrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to diarrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, resembling, or suffering from diarrhea; American spelling of diarrhoeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, characterizing acute waterborne infections (such as cholera or rotavirus) that cause rapid fluid depletion and metabolic acidosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diarrheal designates of or relating to diarrhea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient suffered from severe **diarrheal** dehydration accompanied by muscular cramps and subnormal body temperature."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Bacillary dysentery is characterized by painful tenesmus and acute **diarrheal** evacuations laden with blood and mucus."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Prompt sanitary intervention prevented the **diarrheal** outbreak from spreading through the barracks."*

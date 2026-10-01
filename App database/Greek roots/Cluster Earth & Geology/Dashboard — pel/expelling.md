@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several bodily processes by which substances go out of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force to leave or move out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of forcing out, ejecting, or banishing forcibly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory mechanics and engine thermodynamics, driving out air, exhaust gas, or accumulated pressure from a chamber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since she did neglect her looking-glass And threw her sun-expelling mask away, The air hath starved the roses in her cheeks And pinched the lily-tincture of her face, That now she is become as black as I."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various notables - Materia Medica, Anatomy, Physiology, Scho- lastic Theology, and Jurisprudence - rose to the ques- 437:24 tion of expelling Christian Science from the bar, for such high-handed illegality."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Christian Europe the old heathen custom of expelling the powers of evil at certain times of the year has survived to modern times."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sperm whale surfaced, **expelling** a mighty plume of vapor into the cold Atlantic air."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind succeeds in **expelling** false hypotheses only through rigorous confrontation with evidence."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The elastic recoil of the lungs assists in **expelling** carbon dioxide during quiet expiration."*

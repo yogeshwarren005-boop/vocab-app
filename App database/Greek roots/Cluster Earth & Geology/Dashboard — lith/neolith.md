@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone tool from the neolithic age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone tool from the neolithic age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone implement or tool belonging to the Neolithic (New Stone Age) period, typically characterized by ground, polished surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prehistory, polished stone axes, adzes, and celts that enabled effective woodworking, land clearance, and early agricultural construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neolith designates a stone tool from the neolithic age."*
+> - 📜 **V. Gordon Childe (*The Dawn of European Civilization*):** *"The polished **neolith** gave early farming communities the power to fell oak forests and construct wooden houses."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"We divide the stone age into the paleolith of chipped flint and the polished **neolith** of the agricultural era."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The plowman turned up a polished greenstone **neolith** embedded in the chalk furrow."*

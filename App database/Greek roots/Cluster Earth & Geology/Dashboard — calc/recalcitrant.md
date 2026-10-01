@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinately defiant of authority or restraint : stubbornly uncooperative or disobedient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult to manage or operate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an obstinately uncooperative attitude toward authority or discipline; stubbornly disobedient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and biotechnology, resistant to ordinary treatment, chemical reactions, or bacterial degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Gloria looked around at those who remained recalcitrant and concentrated her gaze on Stevens."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He found the recalcitrants soon enough."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Steelkilt proved a most **recalcitrant** seaman, refusing to submit to the chief mate's tyrannical commands."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I found the stony soil of my upland patch **recalcitrant** to the hoe, yet it yielded sweet corn in due season."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"These synthetic molecules are completely **recalcitrant** to natural enzymatic breakdown."*

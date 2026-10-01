@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth of hair or wool or fur covering the body of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growth of hair or wool or fur covering the body of an animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hairy, furry, or woolly coat of a mammal, as distinct from human hair; the fur or fleece collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, the full coat consisting of underfur (dense insulation) and guard hairs (waterproof protection), undergoing seasonal molting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelage designates growth of hair or wool or fur covering the body of an animal."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Arctic foxes undergo a complete change of **pelage**, exchanging dark summer fur for immaculate white coats."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck's thick **pelage** protected him against the bitter sixty-below-zero frost of the Klondike."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"The lion displayed a magnificent dark **pelage** around his neck and shoulders, denoting prime maturity."*

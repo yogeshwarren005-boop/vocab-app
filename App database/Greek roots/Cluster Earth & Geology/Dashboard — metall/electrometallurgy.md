@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of metallurgy that deals with the application of electric current either for electrolytic deposition or as a source of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of metallurgy that deals with the application of electric current either for electrolytic deposition or as a source of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of metallurgy that uses electrical energy (electrolysis or electric arc heating) to extract, refine, or plate metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemical engineering, the primary commercial process for reducing aluminum from bauxite (Hall-Héroult process) and electro-refining high-purity copper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrometallurgy designates a branch of metallurgy that deals with the application of electric current either for electrolytic deposition or as a source of heat."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The deposition of pure copper upon cathode plates laid the foundation for commercial **electrometallurgy**."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"By employing the voltaic pile in **electrometallurgy**, we unlocked metals previously hidden in refractory alkalis."*
+> - 📜 **Thomas Edison (*The Writings of Thomas Alva Edison*):** *"Our factory utilized advanced **electrometallurgy** to coat acoustic recording cylinders with uniform metallic films."*

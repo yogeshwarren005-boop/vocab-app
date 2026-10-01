@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hydrobatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of hydrobatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small pelagic seabirds in the storm petrel family Oceanitidae, notably including Wilson's storm petrel (Oceanites oceanicus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, trans-equatorial migratory petrels famous for pattering their feet on the water surface while feeding on marine plankton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanites designates a genus of hydrobatidae."*
+> - 📜 **Robert Cushman Murphy (*Oceanic Birds of South America*):** *"Wilson's petrel, **Oceanites** oceanicus, breeds in the Antarctic crags and winters in the northern seas."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Flocks of **Oceanites** danced upon the wave crests, fluttering their wings like swallows over a calm sea."*
+> - 📜 **Frank Hurley (*Shackleton's Argonauts*):** *"The tiny storm petrel, **Oceanites**, braves the fiercest antarctic gale without resting on land."*

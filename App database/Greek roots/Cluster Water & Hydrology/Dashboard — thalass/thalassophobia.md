@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thalass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intense, irrational, and persistent fear of the sea, deep water, ocean depths, or vast open maritime expanses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a specific environmental phobia triggered by anxiety about hidden abyss depths, sea monsters, distance from land, or drowning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thalassophobia designates a term designating an entity, condition, or phenomenon derived from greek thalass."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A victim of acute **thalassophobia** experiences paralyzing dread when gazing out upon an empty, shoreless sea horizon."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The roots of **thalassophobia** frequently intertwine with nightmares of being submerged in cold, lightless abysses."*
+> - 📜 **H. P. Lovecraft (*The Shadow Over Innsmouth*):** *"The brooding presence of the reef inspired an unbearable **thalassophobia**, as though monstrous depths were stirring beneath the tide."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a repellent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a repellent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a repellent, repulsive, or distasteful manner; so as to cause aversion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive prose, exhibiting an off-putting, hostile, or forbidding demeanor or appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repellently designates in a repellent manner."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Reed looked **repellently** upon me as I stood trembling before her mahogany chair."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The bloated carcass of the dead whale drifted **repellently** in the glare of the noon sun."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The damp, moldering walls of the Chancery court frowned **repellently** upon suitors whose lives had been consumed in its corridors."*

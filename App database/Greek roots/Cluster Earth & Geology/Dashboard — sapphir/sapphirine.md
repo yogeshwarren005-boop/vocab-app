@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made of sapphire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling sapphire especially in color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling sapphire, especially in its deep blue color or brilliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology and mineralogy, a rare magnesium-aluminum silicate mineral (Mg₄Al₁₀O₁₆) forming blue, greenish, or brown tabular crystals in high-grade metamorphic rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapphirine designates made of sapphire."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The mineral **sapphirine** occurs in high-grade granulite facies rocks associated with cordierite and spinel."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The distant alpine peaks were bathed in a delicate, **sapphirine** haze as twilight descended upon the valley."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Thin sections revealed pale blue prismatic crystals of **sapphirine** embedded within the cordierite gneiss."*

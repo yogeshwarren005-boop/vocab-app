@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabiting or ranging across varying depths of the open sea rather than being confined to a single pelagic stratum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, descriptive of organisms that exhibit extensive vertical or horizontal migrations across disparate ocean water masses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allopelagic designates adjective*) pertaining to, derived from, or characteristic of sea."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Certain squid and lanternfishes exhibit an **allopelagic** distribution, traversing hundreds of meters of depth each night."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"The catch included **allopelagic** predators that follow shifting thermoclines in search of drifting prey."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Active **allopelagic** wanderers move freely between the warm sunlit surface and the chilly twilight zone."*

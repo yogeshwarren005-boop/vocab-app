@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psamm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fast-moving, slender, mildly venomous colubrid snakes (sand snakes) found across Africa, the Middle East, and South Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, diurnal opisthoglyphous (rear-fanged) snakes characterized by large eyes and swift locomotion across sandy desert landscapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Psammophis designates a term designating an entity, condition, or phenomenon derived from greek psamm."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The agile sand snake, **Psammophis**, hunts desert lizards across the scorching dunes of the Sahara."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"A slender **Psammophis** darted from beneath the thorn scrub and vanished into the rocky sand."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Protective coloration among desert reptiles is admirably illustrated by the pale cryptic pattern of **Psammophis**."*

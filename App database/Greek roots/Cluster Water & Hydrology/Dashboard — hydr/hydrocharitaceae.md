@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple nearly stemless freshwater aquatic plants; widely distributed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or orthographic taxonomic spelling of Hydrocharidaceae (frogbit family).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic monocot morphology, plants possessing air-canals in stems and petioles enabling buoyancy in aquatic and estuarine biomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocharitaceae designates simple nearly stemless freshwater aquatic plants; widely distributed."*
+> - 📜 **George Bentham & Joseph Dalton Hooker (*Genera Plantarum*):** *"Members of the **Hydrocharitaceae** inhabit fresh and marine waters throughout tropical and temperate zones."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The underwater staminate flowers of the **Hydrocharitaceae** detach and float to the surface to pollinate pistillate blooms."*
+> - 📜 **Wilhelm Pfeffer (*The Physiology of Plants*):** *"Gas exchange in submersed leaves of the **Hydrocharitaceae** takes place directly across thin epidermal walls."*

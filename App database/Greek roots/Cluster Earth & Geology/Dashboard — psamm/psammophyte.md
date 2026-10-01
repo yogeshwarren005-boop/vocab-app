@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psamm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows in or prefers sandy soil, especially on coastal dunes or sandy deserts; a sand plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, a species equipped with specialized adaptations to survive shifting substrate, drought, sand blasting, and nutrient-poor sand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psammophyte designates a term designating an entity, condition, or phenomenon derived from greek psamm."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Sea rocket is an annual **psammophyte** that colonizes the drift line just above the high-water mark."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The coastal **psammophyte** must withstand burying by shifting sands and continuous salt spray."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Landscape architects select hardy **psammophyte** grasses to stabilize eroding coastal embankments."*

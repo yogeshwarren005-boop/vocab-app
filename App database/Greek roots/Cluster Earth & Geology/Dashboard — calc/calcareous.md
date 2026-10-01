@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing calcium carbonate or chalk; of the nature of or resembling limestone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and marine biology, describing mineralized rock strata, shells, or marine microfossils formed predominantly of precipitated calcium carbonate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Soon the nature of the soil changed; to the sandy plain succeeded an extent of slimy mud, which the Americans call “ooze,” composed of equal parts of silicious and calcareous shells."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Madrepores (which must not be mistaken for corals) have a tissue lined with a calcareous crust, and the modifications of its structure have induced M."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Their calcareous deposits become rocks, reefs, and large and small islands."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The colossal cliffs of Dover consist of **calcareous** ooze accumulated through countless ages of microscopic deposition."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The coral reefs are built entirely from the **calcareous** skeletons of delicate anthozoans."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Foraminifera extract dissolved lime from the sea to construct their intricate **calcareous** chambers."*

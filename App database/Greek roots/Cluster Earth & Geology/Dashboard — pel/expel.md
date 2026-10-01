@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force to leave or move out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from a position or office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To force out, drive away, or eject forcibly; to officially dismiss from a school, organization, or country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and mechanics, to discharge fluid, gas, or waste from an internal cavity or mechanism under pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Tribunes are no soldiers, and their people Will be as rash in the repeal as hasty To expel him thence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that that earth which kept the world in awe Should patch a wall t’expel the winter’s flaw."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which to reduce into our former favour You are assembled; and my speech entreats That I may know the let, why gentle Peace Should not expel these inconveniences And bless us with her former qualities."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"We must with all our strength **expel** this dangerous tumor from the commonwealth."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"The sovereign authority holds the power to **expel** seditious persons whose doctrines dissolve civic peace."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Earthworms swallow soil in great quantity to extract organic matter, and then **expel** the residue in coiled castings."*

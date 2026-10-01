@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek potam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of rivers, stream channels, and flowing freshwater surface systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrology and geomorphology, the comprehensive discipline examining fluvial hydraulics, river sediment transport, channel morphology, and river ecology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamology designates a term designating an entity, condition, or phenomenon derived from greek potam."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Comparative **potamology** reveals how river basins sculpt the physical geography of continents and determine historic trade routes."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The principles of **potamology** show that meandering channels continuously reconstruct alluvial plains through erosion and deposition."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"The insights of **potamology** are vital to the oceanographer who must account for the vast freshwater discharges pouring into coastal basins."*

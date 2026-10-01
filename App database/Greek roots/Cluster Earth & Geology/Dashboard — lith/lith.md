@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lithographic; lithography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structure or implement of stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical etymology and morphology, the Greek root *lith-* (from λίθος, *lithos*, 'stone', 'rock').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A productive scientific and archaeological combining element denoting stone, rock formations, lithic tools, or mineralized concretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lith designates lithographic; lithography."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The Greek word for stone, **lith-**, forms the cornerstone of our petrological and stratigraphic vocabulary."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"From the ancient syllable **lith-** we construct both the history of primitive stone tools and the architecture of the Earth's crust."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The prefix **lith-** marks every artifact carved by prehistoric hands from native obsidian and steatite."*

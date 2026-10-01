@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small long-winged tube-nosed bird that flies far from land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively small long-winged tube-nosed bird that flies far from land.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various tube-nosed pelagic seabirds of the order Procellariiformes (especially families Hydrobatidae and Procellariidae), flying far from land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime lore and ornithology, small seabirds (like storm petrels, traditionally called 'Mother Carey's chickens') whose appearance was believed to presage ocean storms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was as a protection to the hut in the periods of the great gales when all the island was as a tiny petrel in the maw of the hurricane."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The objects of his boyish idealization had been Cumbrian shepherds--a race whose personality seems to melt into Nature's--who are united as intimately with moor and mountain as the petrel with the sea."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And over this desolate face of nature a stern silence reigned, scarcely broken by the flapping of the wings of petrels and puffins."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The stormy **petrel** skimmed the crests of the black swells, fearless amid the roaring gale."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Flocks of tiny storm **petrels** hovered in the ship's wake, their feet pattering lightly upon the water."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The oceanic **petrel** returns to land only in the darkest night to visit its burrow in the cliff."*

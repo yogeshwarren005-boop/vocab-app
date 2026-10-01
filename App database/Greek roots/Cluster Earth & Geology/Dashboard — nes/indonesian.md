@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of indonesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of malay used as the national language of the republic of indonesia or of malaysia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Indonesia, its people, islands, or culture; the official national language of Indonesia (Bahasa Indonesia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics and anthropology, belonging to the Western branch of the Malayo-Polynesian language family native to the Indonesian archipelago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Indonesian peoples who thus personify the rice we may take the Kayans or Bahaus of Central Borneo as typical."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Believing the rice to be animated by a soul like that of a man, the Indonesians naturally treat it with the deference and the consideration which they show to their fellows."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The lush vegetation of the **Indonesian** rain forests shelters birds of paradise found nowhere else on earth."*
+> - 📜 **Joseph Conrad (*Victory*):** *"He gazed across the calm Java Sea toward the blue outline of an **Indonesian** volcano smoking upon the horizon."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"Comparative studies between Polynesian customs and **Indonesian** island rituals reveal deep ancestral migrations."*

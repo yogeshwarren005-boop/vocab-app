@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: nautical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: nautical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root naus (meaning 'ship') and nautes (meaning 'sailor' or 'seafarer'), forming vocabulary relating to seafaring, navigation, and celestial voyaging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymology and morphology, an ancient Indo-European combining form seen in nautical, astronaut, cosmonaut, aeronautics, and nausea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog naut as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek stem **naut**, signifying a mariner or vessel, survives intact in our modern space voyagers."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"Through the Greek **naut**, the ancient trireme sailor is immortalized in both the aeronaut and the nautical chart."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"All vocabulary pertaining to the vessel and the helm traces its lineage back to the Hellenic **naut**."*

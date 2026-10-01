@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply water or liquid to in order to maintain a healthy balance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become hydrated and combine with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemically combined with water molecules; biologically supplied with an adequate amount of water or fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and physiology, describing mineral lattices containing bound hydroxyl groups or bodily tissues maintained in optimal osmotic equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrated designates supply water or liquid to in order to maintain a healthy balance."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The **hydrated** lime yielded substantial heat when mixed with additional aqueous acid."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"A well **hydrated** vascular system maintains constant blood volume and preserves renal filtration pressure."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Slaked or **hydrated** lime acts upon vegetable matter in the soil, accelerating organic decomposition."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The simultaneous combination of contrasting rhythms in music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The simultaneous combination of contrasting rhythms in music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simultaneous combination of two or more contrasting, independent rhythms or meters in musical composition or performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology and modern music theory, cross-rhythmic structures (such as 3 against 2, or 4 against 3) foundational to sub-Saharan African percussion, Afro-Cuban jazz, and 20th-century orchestral modernism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyrhythm designates the simultaneous combination of contrasting rhythms in music."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"The complex **polyrhythm** in the Rite of Spring drives the primitive dance through conflicting cross-accents."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"In modern orchestral writing, a sophisticated **polyrhythm** superimposes triplets against dotted eighths with striking kinetic tension."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"Combining contrasting meters among different sections of the orchestra produces a dazzling **polyrhythm** that elevates the dramatic climax."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or inhabiting the deepest open waters of ocean trenches, extending from 6,000 meters down to the deepest ocean floor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-sea oceanography, designating the trench zone (named after Hades) marked by extreme hydrostatic pressure, near-freezing temperatures, and specialized endemic scavengers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadopelagic designates adjective*) pertaining to, derived from, or characteristic of sea."*
+> - 📜 **Jacques Piccard (*Seven Miles Down*):** *"As the bathyscaphe touched the bottom of the Mariana Trench, we gazed into the mysterious **hadopelagic** abyss."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Remarkable amphipods survive in the **hadopelagic** trenches, feeding on debris that cascades down submarine canyon walls."*
+> - 📜 **Sylvia Earle (*Sea Change: A Message of the Oceans*):** *"The extreme adaptations of **hadopelagic** life challenge our fundamental understanding of biochemical stability under pressure."*

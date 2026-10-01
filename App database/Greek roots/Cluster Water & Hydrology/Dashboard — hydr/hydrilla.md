@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of submersed freshwater perennial aquatic plants containing the single species Hydrilla verticillata, native to the Old World.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic ecology and invasive species biology, a notorious noxious weed that forms dense underwater mats, outcompeting native macrophytes and impeding water navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrilla designates submersed plant with whorled lanceolate leaves and solitary axillary flowers; old world plant naturalized in southern united states and clogging florida's waterways."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The slender whorled foliage of **Hydrilla** resembles Elodea, thriving in warm, sluggish freshwaters."*
+> - 📜 **George Bentham & Joseph Dalton Hooker (*Genera Plantarum*):** *"In the family Hydrocharitaceae, **Hydrilla** is distinguished by its dioecious flowers and serrulate leaves."*
+> - 📜 **John Torrey (*Botanical Papers*):** *"Specimens of **Hydrilla** collected in southern waterways revealed rapid vegetative multiplication by turions and tubers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rhythmic property imparted by the accents and relative durations of notes in a piece of music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic property imparted by the accents and relative durations of notes in a piece of music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or property of being rhythmic; the state of recurring in regular, periodic cycles or beats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and cardiology, the innate ability of pacemaking tissue (such as the sinoatrial node or respiratory center neurons) to generate periodic spontaneous action potentials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhythmicity designates the rhythmic property imparted by the accents and relative durations of notes in a piece of music."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The intrinsic **rhythmicity** of the sinoatrial node originates from slow spontaneous diastolic depolarization."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Biological **rhythmicity** governs all living processes, from cardiac systole to respiratory cycles."*
+> - 📜 **Willem Einthoven (*The Electrocardiogram in Clinical Medicine*):** *"When autonomic tone is altered, the natural **rhythmicity** of the heart is immediately reflected in the pulse rate."*

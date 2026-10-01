@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek amath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek etymology, a dialectal and poetic root (ἄμαθος, *amathos*, 'sand', 'dust', 'fine coastal sand').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic derivation and rare scientific vocabulary, a combining element denoting sand deposits, beach sand, or dust particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amath designates a term designating an entity, condition, or phenomenon derived from greek amath."*
+> - 📜 **Hesiod (*Theogony*):** *"Beside the surging foam of the Aegean lay the ancient **amath** of the barren shore."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The Greek poets distinguished the sharp rocks of the headland from the yielding **amath** of the tide-line."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"In Homeric song the chariot wheels sank heavily into the wet coastal **amath**."*

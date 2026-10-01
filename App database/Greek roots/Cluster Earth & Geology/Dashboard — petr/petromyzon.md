@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typical lampreys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical lampreys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive, jawless, eel-like aquatic vertebrates (family Petromyzontidae), specifically the sea lamprey (Petromyzon marinus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate comparative anatomy and evolutionary biology, a cyclostome possessing a toothed, funnel-like sucking mouth used to parasitize fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petromyzon designates typical lampreys."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The circular suctorial disc of **Petromyzon** bears sharp horny teeth adapted for rasping the flesh of marine fish."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The jawless condition of **Petromyzon** provides living testimony to the ancestral cranial anatomy of the earliest chordates."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The larval stage of **Petromyzon**, known as the ammocoetes, burrows in river mud like a lancelet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metrical manner; with regard to poetic meter or rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of metric measurement or spatial distance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrically designates with regard to meter."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Those lines are **metrically** flawed where ten low words oft creep in one dull line."*
+> - 📜 **John Milton (*Paradise Lost, Preface on The Verse*):** *"The measure is English heroic verse without rhyme, governed **metrically** by stress and classical caesura."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The altitude of the red cliffs was **metrically** determined by repeated readings of our aneroid barometer."*

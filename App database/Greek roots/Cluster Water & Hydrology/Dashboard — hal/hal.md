@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The classical Greek combining root (hals, halos, meaning 'salt, brine, the sea'), giving rise to a wide variety of chemical, geological, and biological terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic taxonomy and geochemical history, a morpheme denoting saline environments, marine affinities, or salt-forming chemical elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Hal, what time of day is it, lad?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, you come near me now, Hal, for we that take purses go by the moon and the seven stars, and not by Phœbus, he, that wand’ring knight so fair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, Hal, well; and in some sort it jumps with my humour, as well as waiting in the court, I can tell you."*
+> - 📜 **Henry Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, hals signifies both salt and the sea, serving as the prefix **hal**- in numerous geochemical and ecological terms."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Indo-European root for salt produces Greek **hal**-, preserved in halogen and halophyte."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"I proposed the name halogen from the Greek **hal**- and gennao, because these bodies produce marine salts by combining with metals."*

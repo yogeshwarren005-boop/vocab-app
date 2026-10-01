@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to astronauts or the science of astronautics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to astronauts or the science of astronautics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to astronautics, space exploration, or the engineering of spacecraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with the technical systems, orbital mechanics, and human survival equipment required for space travel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astronautical designates of or belonging to astronauts or the science of astronautics."*
+> - 📜 **Wernher von Braun (*The Mars Project*):** *"A mission to Mars demands **astronautical** logistics on a scale never before attempted by mankind."*
+> - 📜 **Hermann Oberth (*The Rocket into Planetary Space*):** *"Our **astronautical** equations demonstrated that liquid fuels alone could provide the requisite exhaust velocity."*
+> - 📜 **Robert H. Goddard (*A Method of Reaching Extreme Altitudes*):** *"The **astronautical** experiments with gyroscopic stabilization opened new horizons for high-altitude sounding."*

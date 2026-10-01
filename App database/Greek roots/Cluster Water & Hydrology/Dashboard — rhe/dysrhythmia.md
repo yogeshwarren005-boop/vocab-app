@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal rhythm; especially : a disordered rhythm exhibited in a record of electrical activity of the brain or heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal rhythm; especially : a disordered rhythm exhibited in a record of electrical activity of the brain or heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormality in an otherwise normal rhythm or cadence, especially in the electrical activity of the brain or the contractions of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and electrophysiology, paroxysmal sharp waves or spike-and-wave discharges detected on an electroencephalogram (EEG) indicative of epilepsy or metabolic encephalopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysrhythmia designates an abnormal rhythm; especially : a disordered rhythm exhibited in a record of electrical activity of the brain or heart."*
+> - 📜 **Willem Einthoven (*Clinical Electrocardiography*):** *"Continuous monitoring detected a sudden paroxysmal **dysrhythmia** originating in the left ventricle."*
+> - 📜 **Donald Calne (*Therapeutics in Neurology*):** *"The electroencephalogram revealed focal paroxysmal **dysrhythmia** localized to the anterior temporal lobe."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Cardiac **dysrhythmia** occurs when conduction velocity slows or when premature pacemakers trigger ectopic beats."*

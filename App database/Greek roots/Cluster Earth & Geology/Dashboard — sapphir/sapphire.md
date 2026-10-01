@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gem variety of corundum in transparent or translucent crystals of a color other than red; especially : one of a transparent rich blue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gem of such corundum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent, precious gemstone variety of the mineral corundum (Al₂O₃), typically blue, but occurring in other colors (fancy sapphires).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bright, deep blue color like that of a fine gem sapphire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The Sapphire is in dry dock--" "How old is he?" "Nineteen," said Mrs."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The magical colours disappeared by degrees, and the shades of emerald and sapphire were effaced."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The plans which I am about to reveal to you, Atma Singh relate to the future, and speak not of disgrace, but of hope; know that in the treasures of Runjeet Singh there was one jewel--a sapphire--of magical property."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The deep azure of the Mediterranean sky was reflected in the water like liquid **sapphire**."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The open ocean sparkled like a boundless floor of polished **sapphire** beneath the equatorial sun."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The center of the antique diadem was set with an orient **sapphire** of unmatched brilliance and purity."*

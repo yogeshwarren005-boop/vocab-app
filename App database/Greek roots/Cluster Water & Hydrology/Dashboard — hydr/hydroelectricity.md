@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity produced by water power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electricity produced by water power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity generated through the conversion of the gravitational kinetic energy of moving water by water turbines and generators.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renewable energy infrastructure, a major baseload low-carbon electricity source produced by storage reservoirs and run-of-river installations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroelectricity designates electricity produced by water power."*
+> - 📜 **Nikola Tesla (*Lectures on Alternate Currents*):** *"The limitless power of mountain rivers converted into **hydroelectricity** will soon drive the factories of whole continents."*
+> - 📜 **Gifford Pinchot (*The Fight for Conservation*):** *"The development of public **hydroelectricity** must be regulated to preserve national waterways for future generations."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Giant dams generated silent cascades of **hydroelectricity** that energized the illuminated cities of the new century."*

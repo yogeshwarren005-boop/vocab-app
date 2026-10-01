@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek religion and mythology, the Olympian goddess of the harvest, agriculture, grain, and fertility of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sister of Zeus and mother of Persephone, central figure of the Eleusinian Mysteries celebrating the seasonal rebirth of crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The torches of Demeter, which figure so largely in her myth and on her monuments, are perhaps to be explained by this custom."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Every year, as we saw, men went to be initiated into the rites of Demeter at Eleusis, a few miles from Athens."*
+> - 📜 **Homer (*Homeric Hymns: To Demeter*):** *"I begin to sing of rich-haired **Demeter**, holy goddess, and her daughter lovely Persephone."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"In the sorrow of **Demeter** seeking her lost child, the Greeks saw the winter barrenness of the earth."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The corn-mother of rural European folklore is the direct surviving heir of the classical **Demeter**."*

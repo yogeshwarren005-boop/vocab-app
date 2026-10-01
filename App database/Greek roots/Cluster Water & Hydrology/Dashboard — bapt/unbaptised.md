@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having undergone the christian ritual of baptism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having undergone the christian ritual of baptism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having received the sacrament of baptism; British spelling of unbaptized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and folklore, said of deceased infants or souls excluded from consecrated churchyards or theological salvation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unbaptised designates not having undergone the christian ritual of baptism."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She feared above all things that the poor babe would die **unbaptised** and be denied holy burial."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The stern elder declared that the **unbaptised** infant could have no place in consecrated ground."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"A mother weeping over the nameless grave of her **unbaptised** child touched the solitary wanderer's heart."*

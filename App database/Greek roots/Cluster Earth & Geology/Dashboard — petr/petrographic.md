@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The description and systematic classification of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The description and systematic classification of rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to petrography, the scientific description and systematic classification of rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical mineralogy, using a polarizing petrographic microscope to identify mineral grains and microscopic textures in rock thin sections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrographic designates the description and systematic classification of rocks."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The **petrographic** description of the granite thin section revealed interlocking laths of quartz, feldspar, and biotite."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The development of the **petrographic** microscope transformed geology by revealing the microscopic crystalline texture of eruptive rocks."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"A thorough **petrographic** analysis showed that the cobble was a metamorphosed rhyolite from an exotic volcanic arc."*

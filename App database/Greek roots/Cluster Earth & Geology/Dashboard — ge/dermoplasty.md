@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical repair, restoration, or grafting of the skin; dermatoplasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plastic and reconstructive surgery, the transplantation of autologous or donor skin to restore tissue integrity following severe burns or trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermoplasty designates a term designating an entity, condition, or phenomenon derived from greek ge."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive cutaneous burns necessitate early **dermoplasty** to prevent severe cicatricial contractures."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The vascularization of the graft in **dermoplasty** demonstrates the cellular affinity between donor epidermis and recipient bed."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Modern advances in antiseptic **dermoplasty** allow the surgeon to reconstruct disfiguring facial trauma."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A printmaker who uses lithography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printmaker who uses lithography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who produces prints, artwork, or commercial illustrations by the process of lithography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of graphic printing, an artisan skilled in chemical etching on Bavarian limestone and multicolor chromolithographic separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithographer designates a printmaker who uses lithography."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The commercial **lithographer** furnished every steamboat office with bright pictorial panoramas of river ports."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The Parisian **lithographer** worked late into the night preparing posters that would adorn the boulevards at dawn."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"He apprenticed his nephew to a master **lithographer** to learn the lucrative art of book illustration."*

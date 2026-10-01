@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blue pigment in algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blue pigment in algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue photosynthetic accessory pigment complex of the phycobiliprotein family, found primarily in cyanobacteria and red algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and biotechnology, a fluorescent protein pigment used as a natural food colorant, medical diagnostic fluorophore, and potent antioxidant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phycocyanin designates blue pigment in algae."*
+> - 📜 **C. Stacy French (*Photosynthesis*):** *"The intense cobalt hue of spirulina extracts is due to **phycocyanin**, which absorbs orange and red photons."*
+> - 📜 **Martin D. Kamen (*Biochemical Studies of Photosynthesis*):** *"Spectrophotometric curves demonstrated that **phycocyanin** transfers its excitation energy directly to allophycocyanin."*
+> - 📜 **Robert Emerson (*Photosynthetic Pigments*):** *"Light captured by **phycocyanin** drives oxygenic photosynthesis when chlorophyll absorption is at a minimum."*

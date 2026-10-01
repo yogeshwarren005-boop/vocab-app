@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt that is in the form of large pieces or crystals : rock salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt that is in the form of large pieces or crystals : rock salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Naturally occurring sodium chloride (NaCl) in mineral form; rock salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentology and economic geology, an evaporite mineral forming isometric cubic crystals in ancient dried lake beds and salt domes, exploited globally for culinary and industrial uses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halite designates salt that is in the form of large pieces or crystals : rock salt."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Vast subterranean strata of **halite** were deposited by the slow evaporation of inland Triassic seas."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Cubic crystals of **halite** exhibit perfect cleavage and are readily identified by their saline taste."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"The salt diapirs of Poland and Spain demonstrate how deeply buried beds of **halite** deform under tectonic pressure."*

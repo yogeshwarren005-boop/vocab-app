@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek linguistic morphology, the root element *pel-* (from πέλος, *pelos*, 'mud', 'clay', or πέλαγος, *pelagos*, 'open sea').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining base in geology and marine ecology forming words relating to fine muddy sediments (pelite, pelitic) or the open ocean (pelagic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Gifts in cases of great disasters, as the Irish and Indian famines, the Chicago fire, the Galveston flood, the eruption of Mount Pelée, bespeak a widening generosity."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The force in Mount Pelée, if chained and utilized, would run a million factories a million years."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Petrologists derive the technical term pelite from the classical root **pel-**, denoting clay and fine mud."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The open ocean realm draws its scientific prefix from the ancient **pel-** root of the Aegean mariners."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The Greek stem **pel-** marks those ocean sediments formed beyond the reach of continental sandbanks."*

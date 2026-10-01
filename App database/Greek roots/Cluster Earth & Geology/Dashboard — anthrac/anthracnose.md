@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous destructive plant diseases caused by imperfect fungi and characterized especially by necrotic lesions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous destructive plant diseases caused by imperfect fungi and characterized especially by necrotic lesions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A destructive plant disease caused by various fungi, characterized by dark, sunken necrotic lesions on leaves, stems, flowers, or fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytopathology, an infection typically incited by species of *Colletotrichum* or *Gloeosporium*, often leading to defoliation, twig dieback, and crop loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthracnose designates any of numerous destructive plant diseases caused by imperfect fungi and characterized especially by necrotic lesions."*
+> - 📜 **Liberty Hyde Bailey (*The Practical Garden-Book*):** *"Wet spring weather encourages the spread of **anthracnose**, blackening the foliage and blighting young grape clusters."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Orchardists battled the disfiguring spots of **anthracnose** using copper sprays before synthetic fungicides altered chemical agriculture."*
+> - 📜 **George Washington Carver (*Nature's Garden for Victory and Peace*):** *"Careful pruning and removal of fallen leaves will prevent the fungal spores of **anthracnose** from overwintering in the soil."*

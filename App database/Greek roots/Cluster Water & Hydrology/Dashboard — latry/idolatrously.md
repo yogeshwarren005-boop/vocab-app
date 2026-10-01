@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an idolatrous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an idolatrous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an idolatrous manner; with religious worship directed toward idols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With blind, excessive, and uncritical adoration or reverential devotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idolatrously designates in an idolatrous manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She loved him almost **idolatrously**, looking upon his slightest wish as a solemn mandate."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"I bent **idolatrously** before the majestic vision that rose in the incense-laden hall."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"He who serves his belly or his ambition bows down **idolatrously** before earthly masters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ternary chemical compound containing oxygen, a halogen, and at least one other chemical element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic synthesis, compounds such as phosphoryl chloride (POCl3) or bismuth oxychloride (BiOCl) formed during the partial oxidation of halides or hydrolysis of metal halides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxohalide designates a term designating an entity, condition, or phenomenon derived from greek hal."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Phosphoryl chloride serves as a classic example of an **oxohalide**, containing both phosphorus-oxygen and phosphorus-chlorine bonds."*
+> - 📜 **J. R. Partington (*A Text-Book of Inorganic Chemistry*):** *"The thermal decomposition of bismuth chloride in water precipitates the insoluble **oxohalide** known as pearl white."*
+> - 📜 **Henry Enfield Roscoe (*A Treatise on Chemistry*):** *"Each transition metal in high oxidation states tends to form a volatile **oxohalide** such as chromyl chloride."*

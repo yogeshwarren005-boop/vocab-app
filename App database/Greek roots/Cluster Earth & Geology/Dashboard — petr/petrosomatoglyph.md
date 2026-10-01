@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek petr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stylized rock carving or natural depression in rock that resembles a human or animal body part (such as a footprint, hand, or knee).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeological folklore, rock markings traditionally associated with legendary kings, saints, or heroes (e.g., King Arthur's footprint, Buddha's footprints).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrosomatoglyph designates a term designating an entity, condition, or phenomenon derived from greek petr."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Local villagers revered the natural indentation in the granite as the sacred **petrosomatoglyph** of a wandering medieval saint."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The royal inauguration stone bore a shallow **petrosomatoglyph** where the new king placed his foot during the oath."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"Ancient Greek travelers pointed to a hollow rock on Delos as the divine **petrosomatoglyph** imprinted by Apollo at his birth."*

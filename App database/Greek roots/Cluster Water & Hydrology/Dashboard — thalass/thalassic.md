@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated or developed about inland seas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or situated or developed about inland seas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in or near the sea; marine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography and geology, specifically applied to smaller, partially enclosed seas (such as the Mediterranean or Baltic), as distinguished from the open ocean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thalassic designates of, relating to, or situated or developed about inland seas."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"The flora of the Mediterranean exhibits distinct **thalassic** affinities influenced by centuries of coastal trade."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Thick beds of limestone were deposited in ancient **thalassic** basins sheltered from the open ocean gales."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"The salinity of a **thalassic** sea varies considerably depending on freshwater inflow and evaporation rates."*

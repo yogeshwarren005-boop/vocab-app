@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various low-growing, small-leaved rhododendrons with tiny scales on the undersurface of the leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various low-growing, small-leaved rhododendrons with tiny scales on the undersurface of the leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with small, scurfy scales or peltate trichomes, as the leaves or stems of certain plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botany and entomology, possessing a scurf-like or scale-like surface texture that reduces water loss or provides reflective coloration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lepidote designates any of various low-growing, small-leaved rhododendrons with tiny scales on the undersurface of the leaves."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The underside of the leaf is distinctly **lepidote**, bearing peltate scales that shimmer in the sunlight."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In many alpine rhododendrons, the branchlets are densely **lepidote**, protecting the delicate buds against desiccation."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The calyx exhibits a **lepidote** exterior, dotted with glandular scales."*

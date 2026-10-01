@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the operation of aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or science of flight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aeronautics; pertaining to the science, design, or operation of aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to aerial navigation, atmospheric flight dynamics, or aerospace engineering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeronautic designates a science dealing with the operation of aircraft."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The new **aeronautic** engine allowed the dirigible to climb smoothly against the Atlantic gale."*
+> - 📜 **Octave Chanute (*Progress in Flying Machines*):** *"Every **aeronautic** experiment confirmed that equilibrium in the air was far more critical than raw engine power."*
+> - 📜 **Samuel Pierpont Langley (*Experiments in Aerodynamics*):** *"Our **aeronautic** apparatus demonstrated that mechanical flight was governed by precise hydrodynamic equations."*

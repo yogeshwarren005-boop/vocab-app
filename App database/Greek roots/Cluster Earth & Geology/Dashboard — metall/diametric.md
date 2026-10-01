@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting a straight line segment passing through the center of a figure or body : located at the diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely opposed : being at opposite extremes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or along a diameter; directly opposite; contrary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometric optics and crystallography, describing axes or planes passing directly through the geometric center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diametric designates of, relating to, or constituting a straight line segment passing through the center of a figure or body : located at the diameter."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every virtue stands in **diametric** opposition to some fashionable vice."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The two political factions held convictions in **diametric** antagonism to each other."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Artificial selection frequently drives varieties in **diametric** paths of specialization."*

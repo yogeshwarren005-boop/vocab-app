@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: liniment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: liniment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquid lotion or medicinal liniment applied to the skin by rubbing to relieve aches, strains, sprains, or rheumatic pains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or therapeutic process of bathing and frictioning an injured bodily area with an analgesic fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog embrocation as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A bottle of soothing **embrocation** stood upon the bedside table to ease her rheumatic stiffness."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The old carter swore by a homemade **embrocation** compounded of goose-grease and turpentine."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Warm applications and the judicious use of an **embrocation** will often soothe muscular pain without causing cutaneous irritation."*

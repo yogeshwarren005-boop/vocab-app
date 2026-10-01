@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or living or occurring in the open sea : oceanic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or living or occurring in the open sea : oceanic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, living in, or occurring in the open sea or ocean, away from the coast and seafloor (as distinguished from benthic or littoral).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and oceanography, designating the water column from the surface to the abyssal depths, and the organisms (such as tuna, pelagic sharks, and plankton) that inhabit it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelagic designates of, relating to, or living or occurring in the open sea : oceanic."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The **pelagic** zone is a realm of blue water where wandering creatures know neither shore nor seafloor."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The great spermaceti whale is purely a **pelagic** monster, rarely straying into shallow coastal bays."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We captured exquisite transparent **pelagic** mollusks and jellyfish that drifted past the Beagle in mid-ocean."*

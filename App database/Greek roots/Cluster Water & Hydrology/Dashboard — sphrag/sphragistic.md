@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of seal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of seal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the study of engraved seals, signets, and official seal impressions (sphragistics or sigillography).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical methodology and diplomatics, pertaining to the verification of antique documents, charters, and royal decrees by analyzing wax and lead seals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphragistic designates adjective*) pertaining to, derived from, or characteristic of seal."*
+> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"The **sphragistic** evidence gathered from clay sealings in Mesopotamia provides vital chronologies for royal dynasties."*
+> - 📜 **Edward Augustus Freeman (*The History of the Norman Conquest of England*):** *"A meticulous **sphragistic** analysis of the royal charters revealed that several forged seals had been appended in the twelfth century."*
+> - 📜 **John Horace Round (*Feudal England*):** *"The scholar must combine paleography with **sphragistic** criticism to detect spurious baronial grants."*

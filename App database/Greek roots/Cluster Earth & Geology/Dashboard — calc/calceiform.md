@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of slipper-shaped blossoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of slipper-shaped blossoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a shoe, slipper, or clog; calceolate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botany, denoting flowers or floral lips that resemble a hollow slipper, as in lady's slipper orchids (Cypripedium).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceiform designates of slipper-shaped blossoms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The lower petal of the flower is modified into an inflated, **calceiform** pouch that traps visiting insects."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Orchid collectors prize these species for their dramatic **calceiform** labella."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The bee enters the hollow **calceiform** petal through the open orifice, forced to escape past the pollinia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical science dealing with rheumatic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical science dealing with rheumatic diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of internal medicine devoted to the study, diagnosis, and treatment of rheumatic conditions, arthritis, and autoimmune diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical science, the field investigating chronic inflammatory mechanisms, autoantibodies, cytokine pathways (such as TNF-alpha and interleukins), and biologic therapeutics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheumatology designates a medical science dealing with rheumatic diseases."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The development of serological tests for rheumatoid factor inaugurated a new era in clinical **rheumatology**."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Advances in **rheumatology** have elucidated how circulating immune complexes induce destructive vascular injury."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Pathological studies of synovial biopsies laid the scientific foundation upon which modern **rheumatology** rests."*

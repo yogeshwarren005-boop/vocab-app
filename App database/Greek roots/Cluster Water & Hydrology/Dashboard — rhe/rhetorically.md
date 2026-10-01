@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhetorical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhetorical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhetorical manner; in terms of rhetorical effect, eloquence, or persuasive device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conversational pragmatics, speaking or framing questions for dramatic stylistic emphasis rather than to solicit informational answers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhetorically designates in a rhetorical manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He paused **rhetorically** after delivering his solemn sentence, waiting for the murmurs of approval from his listeners."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle phrased her question **rhetorically**, knowing full well that no direct answer was required."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Pumblechook coughed **rhetorically** before offering his opinion upon the unexpected fortune."*

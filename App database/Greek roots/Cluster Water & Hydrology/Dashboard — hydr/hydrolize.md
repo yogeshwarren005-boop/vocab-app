@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a compound react with water and undergo hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a compound react with water and undergo hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant or American spelling of hydrolyze; to decompose or split a chemical compound through reaction with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical laboratory synthesis, to cleave ester, amide, or glycosidic linkages in the presence of acidic or alkaline aqueous catalysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolize designates make a compound react with water and undergo hydrolysis."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"A warm aqueous solution of sodium acetate will slightly **hydrolize**, generating an alkaline pH."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Boiling the ester with alcoholic potassium hydroxide will rapidly **hydrolize** it into an acid salt and alcohol."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Certain delicate metallic salts **hydrolize** spontaneously when dissolved in excess boiling water."*

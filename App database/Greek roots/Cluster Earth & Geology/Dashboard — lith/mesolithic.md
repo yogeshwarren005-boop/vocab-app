@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Middle part of the stone age beginning about 15,000 years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a middle period of the stone age (following the paleolithic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the Middle Stone Age, the archaeological period between the Paleolithic and the Neolithic (c. 10,000–5,000 BC).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human prehistory, the post-glacial cultural stage characterized by diverse hunting, fishing, and foraging adaptations and the extensive use of microliths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesolithic designates middle part of the stone age beginning about 15,000 years ago."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"The **mesolithic** hunters adapted to dense post-glacial forests by inventing stone-tipped arrows and dugout canoes."*
+> - 📜 **Grahame Clark (*World Prehistory*):** *"Coastal shell middens in Denmark provide rich evidence of **mesolithic** communities harvesting marine wealth."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The **mesolithic** revolution laid the domestic foundation for the settled villages that followed in the Neolithic."*

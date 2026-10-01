@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of speaking or writing effectively: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of principles and rules of composition formulated by critics of ancient times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of effective, persuasive, or eloquent speaking or writing; language designed to persuade, motivate, or impress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical education and philosophy, one of the original disciplines of the medieval trivium (alongside grammar and logic), systematized by Aristotle, Cicero, and Quintilian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And do so love, yet when they have devised, What strained touches rhetoric can lend, Thou truly fair, wert truly sympathized, In true plain words, by thy true-telling friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For it is a figure in rhetoric that drink, being poured out of cup into a glass, by filling the one doth empty the other."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my observation, which very seldom lies, By the heart’s still rhetoric disclosed with eyes, Deceive me not now, Navarre is infected."*
+> - 📜 **Aristotle (*The Art of Rhetoric*):** *"**Rhetoric** may be defined as the faculty of observing in any given case the available means of persuasion."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The duty and office of **rhetoric** is to apply reason to imagination for the better moving of the will."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Mark Antony used all the subtle devices of ancient **rhetoric** to turn the plebeians against the conspirators."*

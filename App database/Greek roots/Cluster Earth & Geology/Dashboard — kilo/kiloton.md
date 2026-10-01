@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One thousand tons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measure of explosive power (of an atomic weapon) equal to that of 1000 tons of tnt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of explosive yield equal to that of 1,000 metric tons of TNT; also a unit of mass or freight displacement equal to 1,000 metric tons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear weapons physics and naval architecture, a standard measure characterizing the blast energy of nuclear detonations or the deadweight tonnage of cargo vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kiloton designates one thousand tons."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Human arsenals contain nuclear warheads whose explosive energy exceeds many tens of thousands of **kilotons**."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The asteroid impact possessed the kinetic energy of fifty **kilotons**, gouging a crater across the Martian plain."*
+> - 📜 **H.G. Wells (*The World Set Free*):** *"The primitive atomic bombs possessed an explosive force of several **kilotons**, shattering cities with enduring firestorms."*

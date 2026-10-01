@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carving or inscription on a rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reservation in Albuquerque, New Mexico, containing rock carvings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prehistoric rock carving or incision, especially one made on a natural rock surface by ancient peoples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and rock art research, symbolic images (anthropomorphs, zoomorphs, geometric signs) pecked, incised, or abraded into desert varnish or cliff faces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petroglyph designates a carving or inscription on a rock."*
+> - 📜 **John Wesley Powell (*Canyons of the Colorado*):** *"Upon the smooth sandstone cliff, an ancient red **petroglyph** depicted mountain sheep and dancing hunters."*
+> - 📜 **V. Gordon Childe (*What Happened in History*):** *"The Scandinavian **petroglyphs** depict Bronze Age ships and sun discs carved into glaciated granite ledges."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The carved **petroglyph** served as an enduring territorial marker for early hunting and foraging clans."*

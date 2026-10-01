@@ -37,6 +37,11 @@
   - Cluster 10: `Cluster Nature & Cosmos` (308 words) — 100% Pristine (0 issues)
   - Cluster 11: `Cluster Speech & Language` (311 words) — 100% Pristine (0 issues)
   - Cluster 12: `Cluster Cognition & Mind` (315 words) — 100% Pristine (0 issues)
+  - Cluster 13: `Cluster Beginning & Primacy` (343 words) — 100% Pristine (0 issues)
+  - Cluster 14: `Cluster Writing & Script` (349 words) — 100% Pristine (0 issues)
+  - Cluster 15: `Cluster Medicine & Pathology` (351 words) — 100% Pristine (0 issues)
+  - Cluster 16: `Cluster Earth & Geology` (363 words) — 100% Pristine (0 issues)
+  - Cluster 17: `Cluster Water & Hydrology` (370 words) — 100% Pristine (0 issues)
 - [ ] **Milestone 5: Individualized Curation — `Latin roots` (28,608 Words across 18 Clusters)**
   - Root-by-root and cluster-by-cluster curation of Latin derivatives, eliminating duplicate Primary/Secondary definitions, single-author repeats, and synthetic placeholders.
 - [ ] **Milestone 6: Full Verification, Re-Index, Android Sync & GitHub Commit**
@@ -66,4 +71,10 @@
 | 2026-10-01 13:45 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Nature & Cosmos` (308 word notes across 15 dashboards: `zephyr`, `styg`, `bront`, `ere`, `bore`, `nemat`, `selen`, `galact`, `uran`, `anem`, `chaet`, `cosm`, `trich`, `heli`, `aer`). Disambiguated Greek rowers vs `deere`/`ere`, bloodless `anemia` vs wind `anemos`, chlorines in `trichloride`/`chloroethane` vs hair `trich`, helical screws in `helicopter`/`helicon` vs sun `helios`, and anatomical `aorta` vs atmosphere `aer`. Verified 0 issues via `audit-roots.mjs`. | 308 | ✅ Completed |
 | 2026-10-01 13:58 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Speech & Language` (311 word notes across 13 dashboards: `siop`, `hermeneu`, `lex`, `ep`, `etym`, `onomat`, `phem`, `myth`, `herm`, `stell`, `gloss`, `onym`, `log`). Disambiguated Greek sending/contraction (*stellein*) vs Latin star (*stella*) and Georg Wilhelm Steller, German proper names (`herman`, `hermann`, `hermannia`, `hermosillo`), nudibranchs (`hermissenda`), liturgical dialogues (`dialogue doxology`), and timber vs event records (`log`, `logger`, `logging`). Verified 0 issues via `audit-roots.mjs`. | 311 | ✅ Completed |
 | 2026-10-01 14:12 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Cognition & Mind` (315 word notes across 15 dashboards: `aret`, `gno`, `hyp`, `ide`, `mancy`, `mn`, `mne`, `mor`, `oneir`, `phren`, `psych`, `soph`, `theo`, `theor`, `theori`). Disambiguated Greek virtue *arete* vs French glacial ridge *arête*, Greek aphorism *gnome* vs Paracelsian folklore creature, pea-family genus *Sophora* (Arabic *sufayra*) vs wisdom *sophia*, humidity meter *psychrometer* (Greek *psychros* cold) vs soul *psyche*, and butterfly orchids *Psychopsis* / moth flies *Psychodidae* (Greek *psyche* butterfly). Verified 0 issues via `audit-roots.mjs`. | 315 | ✅ Completed |
+| 2026-10-01 14:35 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Beginning & Primacy` (343 word notes). Verified 0 issues via `audit-roots.mjs`. | 343 | ✅ Completed |
+| 2026-10-01 14:48 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Writing & Script` (349 word notes). Verified 0 issues via `audit-roots.mjs`. | 349 | ✅ Completed |
+| 2026-10-01 15:00 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Medicine & Pathology` (351 word notes). Verified 0 issues via `audit-roots.mjs`. | 351 | ✅ Completed |
+| 2026-10-01 15:05 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Earth & Geology` (363 word notes). Verified 0 issues via `audit-roots.mjs`. | 363 | ✅ Completed |
+| 2026-10-01 15:10 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Water & Hydrology` (370 word notes across 17 dashboards: `bapt`, `broc`, `dros`, `hal`, `hygr`, `hydr`, `latry`, `lep`, `naut`, `nect`, `ocean`, `ombr`, `pelag`, `phyc`, `potam`, `raph`, `sphrag`, `thalass`, `rhe`). Disambiguated `alep` (scaleless vs Aleppo), `lep` (scale vs English proficiency acronym), `pelage` (mammal fur coat), `nautch` (traditional Indian dance), `rhyton` (libation horn), and musical/physiological rhythm vs rhetoric flow. Verified 0 issues via `audit-roots.mjs`. | 370 | ✅ Completed |
+
 

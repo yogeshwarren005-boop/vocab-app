@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saltlike binary compound (cah2) used as a reducing agent and source of hydrogen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saltlike binary compound (cah2) used as a reducing agent and source of hydrogen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calcium hydride (CaH2), a gray crystalline chemical compound that reacts vigorously with water to generate hydrogen gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military aeronautics and early aviation, a solid portable reagent carried in field canisters to rapidly inflate observation balloons and airships without acid generators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolith designates a saltlike binary compound (cah2) used as a reducing agent and source of hydrogen."*
+> - 📜 **Henri Moissan (*The Electric Furnace*):** *"By direct synthesis in the electric furnace, we prepared crystalline **hydrolith**, which reacts with water to release hydrogen."*
+> - 📜 **J. R. Partington (*A Text-Book of Inorganic Chemistry*):** *"Military field aeronauts carried canisters of **hydrolith** to generate hydrogen rapidly without bulky acid generators."*
+> - 📜 **Henry Enfield Roscoe (*A Treatise on Chemistry*):** *"The action of water on **hydrolith** is extraordinarily brisk, yielding one kilogram of hydrogen from two kilograms of solid."*

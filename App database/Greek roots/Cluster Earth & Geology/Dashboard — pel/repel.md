@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move back by force or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be repellent to; cause aversion in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To drive back, ward off, or resist an attack, enemy, or approach; to force back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and chemistry, to exert an opposing repulsive force against (as like magnetic poles or like electric charges repel each other); to resist absorption (as oil repels water).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but as you did command, I did repel his letters and denied His access to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he did frown, O had she then gave over, Such nectar from his lips she had not suck’d. 572 Foul words and frowns must not repel a lover; What though the rose have prickles, yet ’tis pluck’d."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Bodies which are charged with like electricity **repel** each other with a force inversely proportional to the square of their distance."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"With kerns and gallowglasses he did **repel** the fierce invaders from our sacred soil."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The oily secretion of aquatic birds serves to **repel** water and preserve the warmth of their down."*

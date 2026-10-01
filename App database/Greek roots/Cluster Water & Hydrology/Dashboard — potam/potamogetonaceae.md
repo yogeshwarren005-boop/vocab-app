@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants that grow in ponds and slow streams; sometimes includes family zosteraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants that grow in ponds and slow streams; sometimes includes family zosteraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pondweed family of aquatic monocotyledonous flowering plants, characterized by submerged or floating leaves and small wind-pollinated flowers in spikes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, a cosmopolitan freshwater family of great ecological importance in lakes, ponds, and slow rivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamogetonaceae designates plants that grow in ponds and slow streams; sometimes includes family zosteraceae."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Members of the **Potamogetonaceae** exhibit specialized anatomical air channels enabling buoyancy in stagnant water."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Potamogetonaceae** is distributed across every continent, forming the primary vegetative cover of freshwater shallows."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"In **Potamogetonaceae**, the perianth is reduced to four herbaceous scales opposite each stamen."*

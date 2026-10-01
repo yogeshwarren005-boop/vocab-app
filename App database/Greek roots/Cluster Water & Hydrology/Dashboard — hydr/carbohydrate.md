@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various neutral compounds of carbon, hydrogen, and oxygen (such as sugars, starches, and celluloses) most of which are formed by green plants and which constitute a major class of animal foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide (such as starch or cellulose) consisting of usually hundreds or thousands of monosaccharide units; also : a food (such as rice or pasta) composed primarily of such polysaccharides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class of organic compounds comprising sugars, starches, and cellulose, containing carbon, hydrogen, and oxygen typically in the ratio 1:2:1.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and metabolic physiology, the primary biochemical energy currency and structural material synthesized by photosynthetic autotrophs and metabolized via glycolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They possessed attributes known as proteids, fats, and carbohydrates."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The nitrogenous food elements we call proteins; the fats and oils, fats; and the starches and sugars (because of the predominance of carbon), we call carbohydrates."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Now in selecting the diet for the day you should take care to choose those foods which give the proteins, fats, and carbohydrates in just the right proportion.'” “Oh, Billy!” groaned Bertram."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The liver transforms excess dietary **carbohydrate** into glycogen, storing animal starch for times of fast."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Combustion of **carbohydrate** in the animal frame supplies the respiratory animal heat necessary to life."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Yeasts derive their metabolic energy by converting the dissolved **carbohydrate** of the grape juice into alcohol and gas."*

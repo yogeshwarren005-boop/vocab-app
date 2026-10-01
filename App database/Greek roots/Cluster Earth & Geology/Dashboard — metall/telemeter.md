@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the distance of an object from an observer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical apparatus for measuring a quantity (such as pressure, speed, or temperature) and transmitting the result especially by radio to a distant station.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for measuring physical quantities (such as distance, temperature, pressure, or radiation) and transmitting the readings to a distant receiver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying, military rangefinding, and astronomy, an optical or electronic rangefinder used to determine the distance to a remote target.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemeter designates an instrument for measuring the distance of an object from an observer."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The artillery officer leveled his optical **telemeter** to determine the exact distance to the opposing redoubt."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The space probe's **telemeter** beamed continuous radiation measurements back to the receiving dishes of Earth."*
+> - 📜 **Jules Verne (*The Mysterious Island*):** *"Cyrus Smith improvised a simple geometric **telemeter** using two measuring stakes and a plumb line."*

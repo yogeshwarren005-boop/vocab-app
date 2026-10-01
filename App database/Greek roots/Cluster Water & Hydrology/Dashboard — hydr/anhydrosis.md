@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of the sweat glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of the sweat glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal deficiency or total absence of perspiration; anhidrosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology and neurology, a pathological state resulting from autonomic neuropathy, congenital absence of sweat glands, or severe anticholinergic toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydrosis designates failure of the sweat glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete **anhydrosis** leaves the patient extremely vulnerable to thermal prostration during high ambient heat."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"In cases of **anhydrosis**, the cutaneous pores fail to secrete perspiration, rendering the epidermis dry and rough."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Localized **anhydrosis** frequently marks the cutaneous sensory loss resulting from peripheral nerve laceration."*

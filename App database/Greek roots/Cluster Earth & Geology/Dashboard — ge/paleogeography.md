@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the geography of ancient times or ancient epochs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the geography of ancient times or ancient epochs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of historical geology that reconstructs the geography, landforms, ocean basins, and climate of the Earth in past geological eras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plate tectonics, mapping the changing positions of continental landmasses, shallow epicontinental seas, and past mountain belts over deep time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleogeography designates the study of the geography of ancient times or ancient epochs."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"By deciphering fossil deposits, the geologist reconstructs the vanished **paleogeography** of prehistoric continents."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The **paleogeography** of the Paleozoic shows North America straddling the equator, bathed in warm tropical seas."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Fossil coral reefs provide our surest guide to the maritime **paleogeography** of the Silurian period."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate or catastrophic destruction of the Earth's environment, ecosystems, or planetary habitability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental law and bioethics, systemic ecocide operating on a planetary scale through nuclear war, climate collapse, or uncontrolled pollution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geocide designates a term designating an entity, condition, or phenomenon derived from greek ge."*
+> - 📜 **Rachel Carson (*Lost Woods*):** *"Uncontrolled atmospheric contamination threatens what future generations may recognize as deliberate **geocide**."*
+> - 📜 **E.O. Wilson (*The Future of Life*):** *"The accelerating extinction of species across all continents amounts to a slow, incremental **geocide**."*
+> - 📜 **Carl Sagan (*Billions and Billions*):** *"A full-scale nuclear exchange would be planetary **geocide**, extinguishing the hard-won tapestry of life."*

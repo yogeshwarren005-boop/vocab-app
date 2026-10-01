@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anthrac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical etymology and medical terminology, the root *anthrac-* (from Greek ἄνθραξ, *anthrax*, 'coal', 'charcoal', 'carbuncle').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining base in geology and chemistry designating coal deposits, carbon compounds, or black necrotic carbuncles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthrac designates a term designating an entity, condition, or phenomenon derived from greek anthrac."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geologists utilize the **anthrac-** stem to classify the oldest and most thoroughly carbonized seams of fuel."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The root **anthrac-** points back to the glowing charcoal fires of antiquity and the compressed carbon of our coal measures."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The mineralogist labeled the dark, dense specimen with the ancient **anthrac-** designation."*

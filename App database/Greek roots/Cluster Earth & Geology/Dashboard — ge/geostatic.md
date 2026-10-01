@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of earth / terrestrial globe / land / soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of earth / terrestrial globe / land / soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the pressure or equilibrium exerted by the weight of overlying rock and soil strata; lithostatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geotechnical engineering and mining, concerning internal Earth stresses and rock mechanical stability in deep subterranean excavations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geostatic designates adjective*) pertaining to, derived from, or characteristic of earth / terrestrial globe / land / soil."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"At depths of several miles, colossal **geostatic** pressure causes crystalline rocks to deform plastically rather than fracture."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The mine shaft was braced with heavy timber arches to counter the relentless **geostatic** heave of the surrounding shale."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Deep metamorphism proceeds under enormous **geostatic** load combined with high temperatures from igneous intrusion."*

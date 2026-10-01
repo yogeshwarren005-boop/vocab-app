@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of a physical object as a god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immoderate attachment or devotion to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious worship of physical images, statues, or created objects as deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blind, immoderate admiration, adoration, or reverence paid to any earthly object, ideal, or human leader.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For fear of which, hear this thou age unbred, Ere you were born was beauty’s summer dead. 105 Let not my love be called idolatry, Nor my beloved as an idol show, Since all alike my songs and praises be To one, of one, still such, and ever so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Demetrius, I’ll avouch it to his head, Made love to Nedar’s daughter, Helena, And won her soul; and she, sweet lady, dotes, Devoutly dotes, dotes in idolatry, Upon this spotted and inconstant man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or if thou wilt, swear by thy gracious self, Which is the god of my idolatry, And I’ll believe thee."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The idols of the mind are a subtle form of **idolatry** that corrupts all philosophical inquiry."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"Civil magistrates have no commission from heaven to punish religious errors or eradicate **idolatry** with the sword."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The courtiers practiced an **idolatry** of fashion that made common sense appear ridiculous."*

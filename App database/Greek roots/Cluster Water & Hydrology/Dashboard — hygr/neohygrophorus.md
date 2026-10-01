@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family hygrophoraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family hygrophoraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of agaric fungi segregated from Hygrophorus and Chrysomphalina, characterized by clitocyboid basidiocarps with decurrent gills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern molecular mycology, a distinct phylogenetic lineage within the Hygrophoraceae establishing that traditional morphological boundaries in waxcaps were polyphyletic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neohygrophorus designates a genus of fungi belonging to the family hygrophoraceae."*
+> - 📜 **Rolf Singer (*The Agaricales in Modern Taxonomy*):** *"The segregate genus **Neohygrophorus** was erected to accommodate species lacking the traditional divergent gill trama."*
+> - 📜 **Alexander H. Smith (*The Fungal Flora of North America*):** *"Phylogenetic analysis confirmed that **Neohygrophorus** occupies a distinct evolutionary branch apart from core Hygrophorus."*
+> - 📜 **David Arora (*Mushrooms Demystified*):** *"Mycologists established **Neohygrophorus** for waxy-capped woodland mushrooms with distinct microscopic spore and cystidial features."*

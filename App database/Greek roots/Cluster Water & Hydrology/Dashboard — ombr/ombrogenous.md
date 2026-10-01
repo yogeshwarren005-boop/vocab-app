@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of rain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of rain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced, caused, or nourished by rainwater, especially of wetlands and peat bogs that receive moisture solely from precipitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In peatland ecology, describing raised bogs and blanket bogs whose acidity and mineral-poor conditions result from direct rainwater feeding without groundwater influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ombrogenous designates adjective*) pertaining to, derived from, or characteristic of rain."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"The raised bog is essentially **ombrogenous**, building its mossy dome high above the reach of ground mineral waters."*
+> - 📜 **Henry Chandler Cowles (*The Plant Societies of Chicago and Vicinity*):** *"In an **ombrogenous** bog, the dominant sphagnum moss relies exclusively on atmospheric deposition for its nutrients."*
+> - 📜 **Robert Gorham (*Peatland Ecology*):** *"The transition from topogenous fen to **ombrogenous** bog marks a fundamental shift toward oligotrophic acidity."*

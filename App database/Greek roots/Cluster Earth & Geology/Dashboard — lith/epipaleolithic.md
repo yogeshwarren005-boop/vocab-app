@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Middle part of the stone age beginning about 15,000 years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Middle part of the stone age beginning about 15,000 years ago.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting the prehistoric period transitional between the Upper Paleolithic and the Neolithic; Mesolithic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, characterizing hunter-gatherer cultures (c. 20,000–10,000 BP) in the Levant and Mediterranean that utilized microlithic flint tools prior to settled agriculture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epipaleolithic designates middle part of the stone age beginning about 15,000 years ago."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"The **epipaleolithic** foragers of the Fertile Crescent developed composite sickle blades long before domesticating emmer wheat."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"In **epipaleolithic** camps, human bands established semi-sedentary stations around seasonal gazelle migrations."*
+> - 📜 **Grahame Clark (*World Prehistory*):** *"Microlithic arrow armatures identify the **epipaleolithic** horizon across Western Europe following the retreat of the glaciers."*

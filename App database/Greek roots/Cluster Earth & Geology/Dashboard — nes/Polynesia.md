@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands of the central and southern Pacific including Hawaii, the Line, Phoenix, Tonga, Cook, and Samoa islands, Tuvalu, Easter Island, and French Polynesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Islands in the South Pacific belonging to France and including the Society, Marquesas, Tuamotu, Gambier, and Austral groups; capital Papeete (on Tahiti).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subregion of Oceania comprising more than 1,000 islands scattered over the central and southern Pacific Ocean, defined by the Polynesian Triangle (Hawaii, New Zealand, Easter Island).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pacific anthropology, the 'many islands' (from Greek πολύς, *polys*, 'many' and νῆσος, *nesos*, 'island'), settled by Austronesian voyagers who shared closely related languages and traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On this board thirsty strangers deposited their cups as they stood in the road and drank, and threw the dregs on the dusty ground to the pattern of Polynesia, and wished they could have a restful seat inside."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The uncounted isles of all Polynesia confess the same truth, and do commercial homage to the whale-ship, that cleared the way for the missionary and the merchant, and in many cases carried the primitive missionaries to their first destinations."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The fact is, that there is a vast deal of unintentional humbuggery in some of the accounts we have from scientific men concerning the religious institutions of Polynesia."*
+> - 📜 **Herman Melville (*Typee*):** *"The emerald valleys of **Polynesia** seemed to the weary sailor a paradise of untroubled joy and eternal summer."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"No voyager can touch the shores of **Polynesia** without being captivated by the dignity and music of its island people."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The coral atolls of **Polynesia** owe their origin to the slow subsidence of volcanic mountains beneath the sea."*

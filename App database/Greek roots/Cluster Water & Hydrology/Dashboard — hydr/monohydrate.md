@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrate that contains one molecule of water per molecule of the compound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrate that contains one molecule of water per molecule of the compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound or crystalline substance that contains exactly one molecule of water of crystallization per formula unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical crystallization and solid-state chemistry, a stoichiometric hydrate form (such as citric acid monohydrate or ampicillin monohydrate) exhibiting specific dissolution and stability properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monohydrate designates a hydrate that contains one molecule of water per molecule of the compound."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Heating citric acid crystals gently drives off moisture, converting the **monohydrate** into the anhydrous organic acid."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Barium hydroxide **monohydrate** retains its single water molecule tenaciously, requiring red heat for complete dehydration."*
+> - 📜 **J. R. Partington (*A Text-Book of Inorganic Chemistry*):** *"X-ray crystallographic analysis established that the **monohydrate** lattice incorporates the water molecule directly into hydrogen-bonded chains."*

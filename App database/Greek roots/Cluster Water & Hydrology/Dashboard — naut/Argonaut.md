@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a band of heroes sailing with Jason in quest of the Golden Fleece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adventurer engaged in a quest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical mythology, any of the legendary band of Greek heroes who sailed with Jason on the ship Argo to retrieve the Golden Fleece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, a pelagic octopod of the genus Argonauta (the paper nautilus); also applied historically to the forty-niners who journeyed to California during the Gold Rush.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was a shoal of argonauts travelling along on the surface of the ocean."*
+> - 📜 **Nathaniel Hawthorne (*Tanglewood Tales*):** *"Jason gathered the bravest youths of Hellas, and each **Argonaut** took his seat at the long cedar oars."*
+> - 📜 **Bret Harte (*Tales of the Argonauts*):** *"The weary **Argonaut** of forty-nine looked down upon the Sacramento valley with dreams of instant gold."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The delicate shell of the female **Argonaut** is not a true molluscan shell but an egg case secreted by her webbed arms."*

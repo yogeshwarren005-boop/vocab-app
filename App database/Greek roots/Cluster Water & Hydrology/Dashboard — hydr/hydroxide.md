@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of an oxide with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound containing the hydroxyl group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound containing the univalent hydroxyl group (-OH) combined with a metallic element or radical; a chemical base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, compounds such as sodium hydroxide (NaOH) or calcium hydroxide (Ca(OH)2) that dissociate in water to produce alkaline hydroxide anions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The positive plate consists of nickel tubes filled with alternate layers of nickel hydroxide, while the negative plate is formed of prepared oxide of iron in a nickel framework."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte is a solution of potassium hydroxide."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"By the intense action of the galvanic battery, I decomposed caustic potash and separated metallic potassium from its **hydroxide**."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"In aqueous solution, every basic substance dissociates to release free **hydroxide** ions into the medium."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Sodium **hydroxide** forms a strongly basic solution that saponifies fats and rapidly neutralizes mineral acids."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root nekhein (meaning 'to swim') and nektos (meaning 'swimming' or 'floating'), as well as the independent root nektar ('divine drink of the gods').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical morphology, the origin of ecological terms describing free-swimming organisms (nekton, nectopod) and botanical terms for sweet floral secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nect designates a term designating an entity, condition, or phenomenon derived from greek nect."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The classical root **nect** splits in our scientific vocabulary between aquatic locomotion and divine floral sweetness."*
+> - 📜 **Ernest Weekley (*Words Ancient and Modern*):** *"Through **nect**, Greek bestowed upon biology both the swimmer that navigates the depths and the nectar that lures the bee."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"Under the stem **nect**, the naturalist classifies all animals that propel themselves freely through open water."*

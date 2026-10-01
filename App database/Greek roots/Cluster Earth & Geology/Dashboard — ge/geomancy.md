@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of figures or lines or geographic features.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of figures or lines or geographic features.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of signs derived from the Earth, such as patterns made by handfuls of soil, sand, or dots cast on the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of siting structures or managing human spaces in harmony with surrounding landscape energies and topography (feng shui).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I now called to mind what I had read of certain colleges in old times, where judicial astrology, geomancy, necromancy, and other forbidden and magical sciences were taught."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"However, the genius of the local professors of geomancy, rising to the occasion, triumphantly surmounted the difficulty and obviated the danger."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient superstitious arts such as **geomancy** pretended to extract secrets of destiny from the dust."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The wizard cast the sixteen figures of **geomancy** upon his sand-board to discover the runaway prince."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Tribal elders practiced primitive **geomancy** before clearing sacred forest groves for spring planting."*

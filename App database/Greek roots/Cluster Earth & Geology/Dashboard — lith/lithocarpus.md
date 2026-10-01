@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tanbark oaks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tanbark oaks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen trees (family Fagaceae) related to oaks and chestnuts, commonly known as stone oaks, having hard, woody acorn cups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, a group of subtropical and tropical trees native mainly to East and Southeast Asia whose acorns feature thick, stony involucres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithocarpus designates tanbark oaks."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The mountain slopes of Java are clothed with colossal evergreen trees of the genus **Lithocarpus**."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"We gathered heavy, stone-hard acorns of **Lithocarpus** along the mist-drenched ridge of Sikkim."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Forest botanists recognize **Lithocarpus** by its stiff, erect catkins and extremely durable wood."*

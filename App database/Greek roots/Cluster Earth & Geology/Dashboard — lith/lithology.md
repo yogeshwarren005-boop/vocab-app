@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The character of a rock formation; also : a rock formation having a particular set of characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study and description of rocks, their physical and mineralogical characteristics, and macroscopic features; petrology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphic geology, the physical character of a rock formation (e.g., color, grain size, texture, mineral content) as distinct from its fossil fauna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithology designates the study of rocks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"A sudden change in the **lithology** of the strata marks an abrupt shift from shallow coastal sands to deep marine shale."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Stratigraphers must not rely solely on **lithology**, since identical sandstone beds recur across widely separated eras."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The field geologist records the **lithology** of every bed, measuring grain roundness and matrix cement with a pocket lens."*

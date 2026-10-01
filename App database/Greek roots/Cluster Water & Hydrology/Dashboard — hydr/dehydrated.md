@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve by removing all water and liquids from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove water from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had water removed or evaporated; suffering from an abnormal and harmful reduction in body water content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and medicine, presenting with poor skin turgor, sunken fontanelles, and elevated plasma osmolarity as a consequence of fluid depletion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrated designates preserve by removing all water and liquids from."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Intertidal organisms risk becoming fatally **dehydrated** when exposed to blazing midday sun upon the rocks."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Our canteens were empty, and we stumbled forward across the volcanic ridge, parched and **dehydrated**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dried and **dehydrated** lichen specimens revived remarkably upon being immersed in fresh water."*

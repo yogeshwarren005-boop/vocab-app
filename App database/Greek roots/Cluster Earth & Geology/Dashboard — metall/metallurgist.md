@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and technology of metals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science and technology of metals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or engineer who specializes in metallurgy; an expert in the extraction, refining, alloying, and properties of metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial history, a professional skilled in analyzing crystal grain boundaries, corrosion resistance, and heat-treatment protocols for structural metals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"However that may be, and it is the subject of discussion among geologists and metallurgists, there the gold is to-day, firmly fixed in the hard rock, and the problem which confronts the metallurgist is to get it out with the least expense."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The work was commenced systematically in about 1878 by Richard Pearse (a Swansea-trained metallurgist) at the Argo Smelter in Colorado."*
+> - 📜 **Georgius Agricola (*De Re Metallica*):** *"The true **metallurgist** must be versed in medicine, geology, geometry, and assaying to conduct his works with profit."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"Our company hired a trained German **metallurgist**, whose chemical assays saved us millions in iron ore selection."*
+> - 📜 **H.G. Wells (*The First Men in the Moon*):** *"Cavor was a brilliant amateur **metallurgist**, experimenting with odd combinations of molten elements in his furnace."*

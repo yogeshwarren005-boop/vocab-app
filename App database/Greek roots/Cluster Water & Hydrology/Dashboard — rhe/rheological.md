@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to rheology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to rheology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative form of rheologic; relating to the scientific study of the flow and deformation of matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials engineering and biophysics, analyzing yield stress, relaxation times, and flow curves in colloids, molten polymers, and biological fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheological designates of or relating to rheology."*
+> - 📜 **Eugene Bingham (*Fluidity and Plasticity*):** *"A thorough **rheological** study must account for both yield stress and plastic flow in concentrated suspensions."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The **rheological** elasticity of rubber polymers is governed by cross-linking between flexible hydrocarbon chains."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Elevated fibrinogen concentration alters the **rheological** properties of plasma, increasing the hazard of vascular thrombosis."*

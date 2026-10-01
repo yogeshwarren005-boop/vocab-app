@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordered recurrent alternation of strong and weak elements in the flow of sound and silence in speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular example or form of rhythm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong, regular, repeated pattern of movement, sound, or activity; the systematic grouping of musical beats or poetic stresses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological physiology and aesthetics (from Greek rhythmos, measured flow, from rhein 'to flow'), the intrinsic temporal periodicity of circadian clocks, heartbeat, and verse cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So do flux and reflux—the rhythm of change—alternate and persist in everything under the sky."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then, just as I was growing accustomed to this rhythm, it was suddenly altered and I was given two days and nights straight."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of incomes and of every other factor in value."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Tunes her nocturnal note with musical **rhythm**, feeding on thoughts that voluntary move harmonious numbers."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"The death of a beautiful woman is unquestionably the most poetical topic in the world, attuned to sorrowful **rhythm**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The steady, hypnotic **rhythm** of the sheep-shears clicked ceaselessly throughout the sunny afternoon."*

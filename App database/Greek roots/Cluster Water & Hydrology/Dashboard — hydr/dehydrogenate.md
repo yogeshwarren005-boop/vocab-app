@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove hydrogen from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove hydrogen from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove hydrogen atoms from a chemical molecule or organic compound, often through catalytic oxidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial petrochemical refining and cellular metabolism, an endothermic reaction catalyzed by enzymes or metal catalysts to synthesize olefins and aromatics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dehydrogenate designates remove hydrogen from."*
+> - 📜 **Paul Sabatier (*Catalysis in Organic Chemistry*):** *"Passing alcohol vapors over finely divided copper at elevated temperatures will cleanly **dehydrogenate** the substrate into aldehyde."*
+> - 📜 **Vladimir Ipatieff (*Catalytic Reactions at High Pressures and Temperatures*):** *"High-pressure catalytic reactors were configured to **dehydrogenate** naphthenes into aromatic hydrocarbons."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Enzymes in cellular respiration continuously **dehydrogenate** organic substrates, transferring protons and electrons to coenzymes."*

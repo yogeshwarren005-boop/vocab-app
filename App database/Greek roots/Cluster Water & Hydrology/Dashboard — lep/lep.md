@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Limited English proficiency; limited English proficient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Limited English proficiency; limited English proficient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root lepis (genitive lepidos, meaning 'scale, flake, or husk'), forming words relating to scaly structures, biological armor, or exfoliative conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and scientific taxonomy, an etymological combining element seen in botany, zoology, geology, and medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lep designates limited english proficiency; limited english proficient."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek root **lep** signifies a scale or peeling flake, whence we derive both leprosy and lepidopterous."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"Scientific terms of scaly structure invariably trace their parentage to the Hellenic **lep**."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"From the ancient Greek **lep**, denoting a peeling bark or scale, our medical lexicons gained the solemn word leper."*

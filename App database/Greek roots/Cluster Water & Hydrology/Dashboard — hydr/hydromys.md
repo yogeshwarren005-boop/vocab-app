@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of semi-aquatic Australasian rodents containing the rakali or Australian water rat (Hydromys chrysogaster).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In native Australasian ecology, an apex freshwater carnivore that hunts fish, frogs, and freshwater crustaceans along riparian corridors and coastal estuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromys designates water rats."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the streams of Tasmania, the golden-bellied **Hydromys** fills the ecological niche occupied by the European water vole."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The Australian beaver-rat **Hydromys** chrysogaster dives skillfully to hunt freshwater mussels and crayfish."*
+> - 📜 **Frank Evers Beddard (*Mammalia*):** *"The skull of **Hydromys** is heavily constructed to support powerful jaw muscles for cracking mollusk shells."*

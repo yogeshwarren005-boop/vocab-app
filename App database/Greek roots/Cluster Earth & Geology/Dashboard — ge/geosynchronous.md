@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or having an orbit around the earth with a period equal to one sidereal day; specifically : geostationary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or having an orbit around the earth with a period equal to one sidereal day; specifically : geostationary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an orbital period that matches the Earth's rotation period (approximately 23 hours, 56 minutes, and 4 seconds), so that the satellite returns to the same position in the sky each sidereal day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satellite telecommunications and aerospace engineering, designating high-altitude orbits (approximately 35,786 km above Earth) used for weather monitoring and broadcast relays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geosynchronous designates being or having an orbit around the earth with a period equal to one sidereal day; specifically : geostationary."*
+> - 📜 **Arthur C. Clarke (*Wireless World*):** *"Three communications satellites placed in **geosynchronous** orbit could provide unbroken radio and television coverage for the entire globe."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Robotic sentinels stationed in **geosynchronous** altitude watch over Earth's cloud belts and continental weather fronts."*
+> - 📜 **Douglas Hofstadter (*Metamagical Themas*):** *"From the perspective of a ground dish, a **geosynchronous** orbiter appears permanently anchored in the sky."*

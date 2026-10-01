@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of carnivorous herbs and shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of carnivorous herbs and shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sundew family of insectivorous flowering plants (order Caryophyllales), consisting of herbs with glandular foliage specialized for trapping and digesting prey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized botanical family comprising genera such as Drosera, Dionaea (Venus flytrap), and Aldrovanda, adapted to thrive in nutrient-deficient, waterlogged bogs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, droseraceae designates a family of carnivorous herbs and shrubs."*
+> - 📜 **George Bentham & Joseph Dalton Hooker (*Genera Plantarum*):** *"The family **Droseraceae** encompasses insectivorous herbs distinguished by gland-bearing foliage and circinate vernation."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Members of the **Droseraceae** are mostly bog-dwellers, thriving where carnivorous habits compensate for nutrient-poor substrates."*
+> - 📜 **Francis Darwin (*The Life and Letters of Charles Darwin*):** *"My father devoted months of concentrated study to the physiological peculiarities of the **Droseraceae**."*

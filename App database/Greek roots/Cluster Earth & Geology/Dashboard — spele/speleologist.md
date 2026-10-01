@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who explores caves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who explores caves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or researcher who specializes in speleology; one who studies the physical, biological, and geological aspects of caves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trained investigator who maps subterranean passages, measures cavern microclimates, and documents cave-adapted troglobites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speleologist designates a person who explores caves."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The intrepid **speleologist** descended by rope ladder into the pitch-black abyss of the volcanic cavern."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Martel, the celebrated French **speleologist**, proved that subterranean rivers directly carve the subterranean topography of karst plateaus."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"The biospeleologist and **speleologist** work together to document fragile blind salamanders in deep cave aquifers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of fluids in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of fluids in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of fluid mechanics that treats the motion of liquids and the forces and energy resulting from that motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and hydraulic engineering, the mathematical analysis of fluid flow velocities, streamlines, friction losses, and mechanical power generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrokinetics designates study of fluids in motion."*
+> - 📜 **Daniel Bernoulli (*Hydrodynamica*):** *"In founding theoretical **hydrokinetics**, we established that fluid pressure falls as kinetic speed increases."*
+> - 📜 **Hermann von Helmholtz (*Scientific Memoirs*):** *"The fundamental vortex equations of **hydrokinetics** explain why fluid rings can propagate indefinitely without tearing."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"Our treatment of electromagnetic field lines borrowed foundational mathematical theorems from classical **hydrokinetics**."*

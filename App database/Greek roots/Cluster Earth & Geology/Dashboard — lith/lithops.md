@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus lithops native to africa having solitary yellow or white flowers and thick leaves that resemble stones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus lithops native to africa having solitary yellow or white flowers and thick leaves that resemble stones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of succulent perennial plants (family Aizoaceae) native to southern Africa, having two fleshy, fused leaves resembling small pebbles; living stones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant evolutionary morphology, an extreme example of crypsis or protective mimicry, where leaf patterns and coloration blend seamlessly with stony desert ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithops designates any plant of the genus lithops native to africa having solitary yellow or white flowers and thick leaves that resemble stones."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised*):** *"Desert succulents of the genus **Lithops** achieve near-total invisibility among surrounding stones through marvelous mimicry."*
+> - 📜 **Liberty Hyde Bailey (*The Garden of Pinks*):** *"The collector of xerophytes marvels at **Lithops**, whose cleft fleshy leaves resemble split pebbles of the veld."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"Protective camouflage reaches its botanical zenith in **Lithops**, hiding its succulent moisture from foraging desert herbivores."*

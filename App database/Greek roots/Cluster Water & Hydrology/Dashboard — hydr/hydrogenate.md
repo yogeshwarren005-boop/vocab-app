@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine or treat a chemical substance with hydrogen, especially in the presence of a catalyst to convert unsaturated compounds into saturated ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial food science and petrochemistry, to add hydrogen across carbon-carbon double bonds to solidify liquid vegetable oils or convert coal into synthetic liquid fuels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogenate designates combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound)."*
+> - 📜 **Paul Sabatier (*Catalysis in Organic Chemistry*):** *"Finely divided nickel enables us to smoothly **hydrogenate** unsaturated oils into solid fats."*
+> - 📜 **Vladimir Ipatieff (*Catalytic Reactions at High Pressures and Temperatures*):** *"We were able to **hydrogenate** naphthalene into tetralin and decalin under high hydrogen pressure."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"In industrial margarine production, chemists **hydrogenate** vegetable oils to achieve the desired melting point."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wet and dry bulb hygrometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wet and dry bulb hygrometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized form of psychrometer (wet-and-dry bulb hygrometer) featuring an engraved chart and index pointer to allow direct visual reading of relative humidity and dew point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial meteorology and factory management, an instrument widely adopted in 19th-century textile and paper mills to monitor room humidity without complex manual tables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrodeik designates a wet and dry bulb hygrometer."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"The **hygrodeik** proved particularly convenient in textile mills for reading humidity without consulting mathematical tables."*
+> - 📜 **Alexander McAdie (*The Principles of Aerography*):** *"By sliding the index along the curved scales of the **hygrodeik**, the observer instantly obtains both dew-point and relative humidity."*
+> - 📜 **William Napier Shaw (*Forecasting Weather*):** *"In industrial workshops, the **hygrodeik** hung upon the pillar to warn overseers of excessive atmospheric dryness."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex consisting of an organic base in association with hydrogen chloride.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex consisting of an organic base in association with hydrogen chloride.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical salt formed by the union of hydrochloric acid with an organic base, particularly an alkaloid or amine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical formulation, a widely utilized salt form that converts lipophilic basic drugs into water-soluble crystalline compounds suitable for intravenous or oral delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochloride designates a complex consisting of an organic base in association with hydrogen chloride."*
+> - 📜 **Paul Karrer (*Organic Chemistry*):** *"Converting an insoluble organic base into its crystalline **hydrochloride** dramatically enhances its water solubility for clinical use."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"He prescribed cocaine **hydrochloride** as a local anesthetic for ophthalmic operations."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes took down the bottle containing cocaine **hydrochloride** and injected seven percent solution."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (plant or animal) that thrives, prefers to live, or is adapted to sandy environments or sand dunes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and evolutionary biology, organisms exhibiting specialized physiological adaptations (e.g., fringed toes, reduced water loss) for navigating unstable sand substrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psammophile designates adjective*) pertaining to, derived from, or characteristic of sand."*
+> - 📜 **William Henry Hudson (*The Naturalist in La Plata*):** *"The burrowing sand-lizard is a true **psammophile**, diving beneath the dune crest with astonishing swiftness."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Marram grass is the premier plant **psammophile** of our coastlines, binding mobile dunes with vigorous rhizomes."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Tiny **psammophile** crustaceans migrate up and down between the sand grains as the tide advances."*

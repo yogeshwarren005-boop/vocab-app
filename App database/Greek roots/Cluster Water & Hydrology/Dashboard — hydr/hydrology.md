@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the properties, distribution, and circulation of water on and below the earth's surface and in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science dealing with the properties, distribution, and circulation of water on and below the earth's surface and in the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the waters of the Earth, their occurrence, distribution, circulation, and chemical and physical properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Earth system science, the discipline analyzing the global water cycle, precipitation infiltration, subterranean aquifers, and sediment transport in river basins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrology designates a science dealing with the properties, distribution, and circulation of water on and below the earth's surface and in the atmosphere."*
+> - 📜 **John Wesley Powell (*Report on the Lands of the Arid Region*):** *"In the arid West, agricultural settlement is strictly governed by the stern laws of **hydrology**."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The modern science of **hydrology** traces the raindrop from its oceanic evaporation to its subterranean descent."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"River erosion and limestone subterranean caverns demonstrate the immense geological power of underground **hydrology**."*

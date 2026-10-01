@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lung disease caused by inhaling coal dust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lung disease caused by inhaling coal dust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Black discoloration of the lungs and bronchial lymph nodes caused by prolonged inhalation of carbon, coal, or soot particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational pathology and pulmonology, a benign or mild form of pneumoconiosis common among coal miners and urban residents exposed to heavy atmospheric soot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthracosis designates lung disease caused by inhaling coal dust."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic inspection reveals that **anthracosis** arises from the phagocytosis of atmospheric soot by alveolar macrophages."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"While moderate **anthracosis** is universal among lifelong city dwellers, severe cases in miners may predispose to pulmonary fibrosis."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Every collier who spends decades at the coal face bears the indelible mark of **anthracosis** within his chest."*

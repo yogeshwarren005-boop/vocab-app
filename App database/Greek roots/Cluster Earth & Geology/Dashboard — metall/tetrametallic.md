@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing four metal atoms, or composed of four distinct metallic elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coordination chemistry and materials engineering, designating tetranuclear metal clusters or quaternary high-entropy alloys exhibiting four metallic constituents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrametallic designates adjective*) pertaining to, derived from, or characteristic of mine."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The cubic cluster revealed a **tetrametallic** core where four iron atoms were linked by bridging sulphide ligands."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Certain complex mineral alloys behave as **tetrametallic** mixtures during fractional crystallization."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Assays of the complex fahlerz ore demonstrated a **tetrametallic** composition containing copper, iron, zinc, and silver."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a metallic color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a metallic color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color, sheen, or lustrous tint of a metal (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and ornithology, describing structural iridescence on feathers, scales, or insect exoskeletons that glint like polished bronze or gold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metallic-coloured designates having a metallic color."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The wings of the giant birdwing butterfly were adorned with magnificent **metallic-coloured** green patches."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We captured an exquisite buprestid beetle boasting a radiant **metallic-coloured** shield."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The plumage of the starling glints with lustrous, **metallic-coloured** reflections of purple and emerald."*

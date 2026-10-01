@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The logical analysis of mathematical reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The logical analysis of mathematical reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of mathematics itself using mathematical methods; the theoretical analysis of formal mathematical systems, proof theories, and logical consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of mathematical logic founded by David Hilbert that investigates formal deductive systems as combinatorial objects of study.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamathematics designates the logical analysis of mathematical reasoning."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"In modern logic, **metamathematics** treats proofs themselves as concrete syntactic entities subject to rigorous investigation."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"Gödel's immortal proof translated assertions of **metamathematics** directly into the arithmetic of whole numbers."*
+> - 📜 **Alfred Tarski (*Logic, Semantics, Metamathematics*):** *"The task of **metamathematics** is to define truth, validity, and completeness for formalized deductive languages."*

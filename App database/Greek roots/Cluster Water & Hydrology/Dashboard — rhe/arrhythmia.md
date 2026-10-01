@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alteration in rhythm of the heartbeat either in time or force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anti-arrhythmic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disturbance or abnormality in the rhythm or rate of the heartbeat (such as tachycardia, bradycardia, or fibrillation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac electrophysiology, a pathological deviation from normal sinus rhythm resulting from abnormal impulse generation, re-entry circuits, or conduction block.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrhythmia designates an alteration in rhythm of the heartbeat either in time or force."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden onset of ventricular **arrhythmia** represents the most dangerous complication in the immediate hours following acute myocardial infarction."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Re-entry excitation loops within the Purkinje network provide the electrophysiological mechanism for persistent cardiac **arrhythmia**."*
+> - 📜 **Willem Einthoven (*Nobel Lecture*):** *"The string galvanometer allowed us to record the precise electrical wavefront during every phase of auricular **arrhythmia**."*

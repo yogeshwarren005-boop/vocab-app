@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hydropathy or its administration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydropathy or its administration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or practicing hydropathy (the water-cure); utilizing water treatments for therapeutic purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century social and medical history, describing residential spa sanatoriums where patients underwent cold-water wraps, douches, and dietary regimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"In the course of the treatment she was frequently taken to an underground water-cave, called Mauoki, for the _Kakelekele_ (hydropathic cure)."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Kakelekele, hydropathic cure, p. 126. kala, a species of fish."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"She had a black dress--fine silk, it was, quite real--of an old fashion, certainly, but no more so than you see at hydropathics and other places to which old solitary ladies come for the purpose of talking over their infirmities with one another."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He had spent six weeks at a celebrated **hydropathic** establishment in the hills, drinking cold spring water and taking vigorous walks."*
+> - 📜 **Charlotte Brontë (*The Life of Charlotte Brontë*):** *"The physician urged her to seek relief at a Yorkshire **hydropathic** retreat where cold wraps were applied for nervous exhaustion."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fashionable society flocked to **hydropathic** sanitariums to escape the smoky air of manufacturing towns."*

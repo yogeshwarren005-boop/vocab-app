@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices geomancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices geomancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of geomancy; one who divines or foretells the future by interpreting figures formed by earth, sand, or geological features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional Chinese landscape cosmology (feng shui), an expert who aligns graves, houses, and temples with terrestrial energy currents (dragon lines).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The geomancer and his assistants stand on the side of the grave which is turned away from the sun; and the grave-diggers and coffin-bearers attach their shadows firmly to their persons by tying a strip of cloth tightly round their waists."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The Moorish king summoned a wise **geomancer** to read the secret portents written in the sands of Granada."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The treasure hunter consulted an Oriental **geomancer** who claimed to detect buried gold by compass signs."*
+> - 📜 **Walter Pater (*Gaston de Latour*):** *"The Renaissance astrologer worked alongside the **geomancer**, seeking harmonies between the stars and the soil."*

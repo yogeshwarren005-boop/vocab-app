@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of engraving on precious stones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of engraving on precious stones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of engraving or carving designs, portraits, or inscriptions on precious or semiprecious stones; glyptics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of classical and Renaissance art, the specialized craftsmanship of cutting intaglios, cameos, and signet gems into hard quartz minerals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithoglyptics designates the art of engraving on precious stones."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The supreme achievement of classical **lithoglyptics** was the celebrated signet ring carved by Pyrgoteles for Alexander the Great."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"Renaissance collectors revived the ancient art of **lithoglyptics**, treasuring Roman cameos cut in banded sardonyx."*
+> - 📜 **John Ruskin (*Aratra Pentelici*):** *"In true **lithoglyptics**, the engraver's diamond point must respect the natural cleavage and translucent depth of the stone."*

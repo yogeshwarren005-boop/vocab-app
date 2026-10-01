@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spele.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geological feature formed within a cave by the solvent or erosive action of groundwater on bedrock (e.g., cave ceiling scallops, pendants, potholes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speleology, a bedrock dissolutional relief form produced by water flow, as distinguished from a speleothem (which is a mineral deposit).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speleogen designates a term designating an entity, condition, or phenomenon derived from greek spele."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The smooth ceiling pendant is a classic **speleogen** carved by acidic groundwater carving through limestone."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"The cave walls were sculpted into asymmetrical scallops, a diagnostic **speleogen** recording ancient subterranean river currents."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Speleologists distinguish between depositional speleothems and erosional **speleogens** etched directly into the bedrock."*

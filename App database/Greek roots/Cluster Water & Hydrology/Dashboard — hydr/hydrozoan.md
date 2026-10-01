@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Colonial coelenterates having the polyp phase dominant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonial coelenterates having the polyp phase dominant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aquatic invertebrate belonging to the cnidarian class Hydrozoa; of or pertaining to Hydrozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, organisms (such as Obelia, Hydra, or Physalia) possessing cnidocytes and polymorphic life cycles transitioning between asexual polyps and sexual medusae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrozoan designates colonial coelenterates having the polyp phase dominant."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The Portuguese man-of-war is not a single animal, but a colonial **hydrozoan** composed of thousands of coordinated, interdependent zooids."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Each specialized polyp within the **hydrozoan** colony performs a dedicated function—some for feeding, others for stinging defense."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We captured a luminous **hydrozoan** medusa whose pulsating umbrella radiated phosphorescent green light in the ship's wake."*

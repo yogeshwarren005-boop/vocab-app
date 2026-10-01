@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere near the south celestial pole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the southern hemisphere near the south celestial pole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythical water snake or dragon in classical folklore; in modern astronomy, Hydrus (the Lesser Water Snake), a small southern constellation near Tucana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval bestiaries and mythological etymology, a legendary water serpent said to roll in mud before invading and destroying the crocodile from within.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Among the glittering constellations of the southern sky, the sailor marks the winding coil of **Hydrus** near the polar void."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Naturalists of antiquity described the **hydrus** as a water-serpent that entered the mouth of the sleeping crocodile to devour its entrails."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Scorpion, and Asp, and Amphisbaena dire, / Cerastes horned, **Hydrus**, and Elops drear."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing nectaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing nectaries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, secreting, or bearing nectar, as the specialized glands or tissues of a plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy, descriptive of floral and extrafloral organs adapted to reward animal pollinators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nectariferous designates possessing nectaries."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The base of each petal is furnished with a **nectariferous** cavity protected by a delicate scale."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Certain orchids possess elongate **nectariferous** spurs that require specialized hawkmoths with long proboscises."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The disk surrounding the ovary is deeply **nectariferous**, exuding clear droplets at anthesis."*

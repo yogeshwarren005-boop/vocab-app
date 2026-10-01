@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands of the western Pacific east of the Philippines and north of Melanesia including the Caroline, Kiribati, Mariana, and Marshall groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Federation of islands of the western Pacific in the Carolines comprising Kosrae, Pohnpei, Chuuk, and Yap; part of the former Trust Territory of the Pacific Islands; internally self-governing since 1986 with the capital on Pohnpei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subregion of Oceania in the western Pacific Ocean, comprising thousands of small islands, including the Caroline, Marshall, Mariana, and Gilbert Islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pacific geography and anthropology, the 'small islands' (from Greek μικρός, *mikros*, 'small' and νῆσος, *nesos*, 'island'), characterized by scattered atolls and complex navigational lore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Micronesia designates the islands of the western pacific east of the philippines and north of melanesia including the caroline, kiribati, mariana, and marshall groups."*
+> - 📜 **Herman Melville (*Omoo*):** *"The bold canoe voyagers of **Micronesia** navigated thousands of leagues by reading the subtle patterns of ocean swells and night stars."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The low-lying coral atolls of **Micronesia** seem scarcely raised above the emerald breakers of the Pacific."*
+> - 📜 **Margaret Mead (*Male and Female*):** *"Island societies across **Micronesia** adapted their social structures to the precarious ecology of narrow coral shores."*

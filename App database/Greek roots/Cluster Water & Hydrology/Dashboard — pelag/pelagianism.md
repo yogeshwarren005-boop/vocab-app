@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine put forward by pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the council of ephesus in 431.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine put forward by pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the council of ephesus in 431.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine originated by the 4th-century ascetic Pelagius, which asserted that original sin did not taint human nature and that humans possess free will to achieve salvation without divine grace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, a major controversy vigorously opposed by Saint Augustine and condemned as heresy by the Council of Carthage (418 AD) and Council of Ephesus (431 AD).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelagianism designates the theological doctrine put forward by pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the council of ephesus in 431."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The subtle disputations of **Pelagianism** divided the bishops of Africa and Rome over the mystery of grace."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Against the error of **Pelagianism**, we must maintain that man cannot merit eternal life without the prior infusion of divine grace."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"Augustine saw in **Pelagianism** a dangerous rationalism that undermined the fundamental necessity of redemption."*

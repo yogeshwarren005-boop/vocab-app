@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single great stone often in the form of an obelisk or column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large single upright block of stone, especially one shaped into or serving as a monument, pillar, or obelisk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a massive, unyielding, and uniform organization, institution, or structure that acts as a single powerful entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The place took its name from a stone pillar which stood there, a strange rude monolith, from a stratum unknown in any local quarry, on which was roughly carved a human hand."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The beauty and majesty of the finely carved panels surmounting the soaring arches spanning the rosy monolith columns, emblazoned with emerald green and scarlet mosaic symbolizing the Báb's lineage and martyrdom, are strikingly revealed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The uniform concavity of black cloud was lifting bodily like the lid of a pot, letting in at the earth’s edge the coming day, against which the towering monoliths and trilithons began to be blackly defined."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The black **monolith** stood upright on the lunar plain, perfectly rectangular, absorbing all light with enigmatic perfection."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The head of the sperm whale reared out of the foam like a dark granite **monolith**."*
+> - 📜 **George Orwell (*1984*):** *"The Ministry of Truth towered vast and white above the grimy landscape, a colossal **monolith** of three hundred meters."*

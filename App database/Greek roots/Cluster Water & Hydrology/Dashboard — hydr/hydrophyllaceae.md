@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial woodland herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial woodland herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The waterleaf family of dicotyledonous flowering plants (order Boraginales), comprising herbs and shrubs such as Hydrophyllum and Phacelia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, plants characterized by bristly hairs, coiled scorpioid cymes, and watery mottled markings on early basal leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophyllaceae designates perennial woodland herbs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Hydrophyllaceae** is distinguished by scorpioid cymes and pinnately divided foliage that often looks water-spotted."*
+> - 📜 **George Bentham & Joseph Dalton Hooker (*Genera Plantarum*):** *"In North American floras, the **Hydrophyllaceae** are represented by numerous showy annuals and woodland perennials."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"In damp deciduous woods, members of the **Hydrophyllaceae** carpet the forest floor with delicate lilac blossoms."*

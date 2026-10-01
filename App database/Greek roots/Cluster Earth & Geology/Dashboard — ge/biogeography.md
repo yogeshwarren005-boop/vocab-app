@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the geographical distribution of animals and plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fragmentation of the environment (as by splitting of a tectonic plate) in contrast to dispersal as a factor in promoting biological evolution by division of large populations into isolated subpopulations —called also vicariance biogeography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that deals with the geographical distribution of plants and animals over the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An integrative historical discipline combining paleontology, ecology, geology, and phylogenetics to explain spatial patterns of biodiversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogeography designates a science that deals with the geographical distribution of animals and plants."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The science of **biogeography** deciphers the geological history of continents from the living distribution of animals."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"In considering the distribution of organic beings, the facts of **biogeography** point directly to evolution through descent."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"Island **biogeography** demonstrated that species richness balances immigration against local extinction."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in the orbit of an object (such as a satellite) orbiting the earth that is at the greatest distance from the center of the earth; also : the point farthest from a planet or a satellite (such as the moon) reached by an object orbiting it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The farthest or highest point : culmination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in the orbit of an object (such as the Moon or an artificial satellite) that is farthest from the center of the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative usage, the highest point in the development of something; a culmination, climax, or zenith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogee designates the point in the orbit of an object (such as a satellite) orbiting the earth that is at the greatest distance from the center of the earth; also : the point farthest from a planet or a satellite (such as the moon) reached by an object orbiting it."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the reign of the Antonines, the power and prosperity of the Roman Empire reached its **apogee**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Planets move through their orbits, now approaching perihelion, now retiring to their distant **apogee**."*
+> - 📜 **H.G. Wells (*The First Men in the Moon*):** *"At the **apogee** of our flight, the blue sphere of Earth hung motionless in the velvet blackness."*

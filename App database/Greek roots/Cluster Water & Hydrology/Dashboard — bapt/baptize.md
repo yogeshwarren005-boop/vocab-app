@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To administer baptism to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To purify or cleanse spiritually especially by a purging experience or ordeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To immerse in water or sprinkle with water as a religious rite of purification and initiation into the Christian Church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To purify, consecrate, or initiate someone or something through an ordeal; to assign a name or title formally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For Christ sent me not to baptize, but to preach the gospel. - PAUL."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Higgins had held services in the camp, and the logger requested him to baptize their baby when he next visited them."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"He is the baptizing element administered by Christ the Divine Baptizer: "He shall baptize you with the Holy Ghost." FIRE!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"To **baptize** them in the name of the Father, Son, and Holy Ghost, washing off their old sins."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I do not **baptize** thee in the name of the Father, but in the name of the Prince of Darkness!"*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The guide declared that the pilgrims would **baptize** their children in the sacred waters of the Jordan."*

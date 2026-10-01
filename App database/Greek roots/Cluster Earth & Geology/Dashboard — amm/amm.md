@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek amm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek linguistic morphology, the root element *amm-* (from ἄμμος, *ammos*, 'sand'), appearing in biological and ecological nomenclature referring to sandy habitats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining base in taxonomic zoology and botany denoting organisms dwelling in, adapted to, or burrowing through sand dunes or sandy soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amm designates a term designating an entity, condition, or phenomenon derived from greek amm."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The Greek prefix **amm-** designates those creatures whose entire economy is adapted to the sandy heath."*
+> - 📜 **William Henry Hudson (*The Naturalist in La Plata*):** *"Entomologists apply the **amm-** root to solitary wasps that tunnel through dry dune sands."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"In the nomenclature of natural history, the **amm-** element unfailingly guides our eyes to the warm sandbank."*

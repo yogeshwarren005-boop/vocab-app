@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nephr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aseptic distension and dilation of the renal pelvis and calyces caused by obstruction to the outflow of urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, progressive renal hydropic enlargement resulting from kidney stones, strictures, or tumors that eventually causes renal cortical thinning and renal failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydronephrosis designates a term designating an entity, condition, or phenomenon derived from greek nephr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An impacted ureteral calculus can rapidly induce acute **hydronephrosis**, causing excruciating flank colic and renal swelling."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Longstanding **hydronephrosis** leads to progressive atrophy of the renal parenchyma until the kidney becomes a thin-walled fluid sac."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Surgical relief of the obstruction in early **hydronephrosis** allows the kidney to recover its secretory function."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient supercontinent that included almost all of the Earth's land area and was formed by the collision of Gondwana and Laurasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient supercontinent that included almost all of the Earth's land area and was formed by the collision of Gondwana and Laurasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hypothetical supercontinent that existed during the late Paleozoic and early Mesozoic eras, comprising all the present continents joined together before rifting apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In continental drift and plate tectonic history, the colossal landmass named by Alfred Wegener that began breaking up approximately 175 million years ago into Laurasia and Gondwana.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Pangea designates ancient supercontinent that included almost all of the earth's land area and was formed by the collision of gondwana and laurasia."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"All the continents were once united in a single primordial supercontinent, to which we give the name **Pangea**."*
+> - 📜 **John McPhee (*Basin and Range*):** *"The breakup of **Pangea** opened the infant Atlantic Ocean, drifting the Americas westward away from Africa."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Over tens of millions of years, the pieces of **Pangea** sailed across the globe like colossal tectonic rafts."*

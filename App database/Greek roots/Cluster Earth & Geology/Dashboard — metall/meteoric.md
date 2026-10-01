@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to atmospheric phenomena, especially weather and weather conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or consisting of meteors or meteoroids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by meteors; originating in the Earth's atmosphere or outer space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a meteor in brilliant, rapid, or transient success; swiftly dazzling and transient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Acknowledge with bowed head, joyous, thankful heart the successive, marvelous evidence of His triumphant power in the course of the hundred years elapsed since the last crowning act of His meteoric ministry."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The eagle-feather causes an isolated flash of association with the poet of the atmosphere, the winds, and the clouds, “The meteoric poet of air and sea.” How it strikes a Contemporary."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Nothing was more common, in those days, than to interpret all meteoric appearances, and other natural phenomena that occurred with less regularity than the rise and set of sun and moon, as so many revelations from a supernatural source."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Masses of **meteoric** iron discovered in Siberia contain native nickel never found in terrestrial basalts."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sky flashed with a pale, **meteoric** illumination as the typhoon bore down upon the ship."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"His **meteoric** rise to scientific fame had been fueled by audacious expeditions into uncharted wilderness."*

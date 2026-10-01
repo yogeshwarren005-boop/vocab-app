@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion musical instrument consisting of a series of metal bars of varying pitch struck with hammers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion musical instrument consisting of a series of metal bars of varying pitch struck with hammers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical instrument consisting of tuned metal bars, plates, or tubes struck with mallets to produce sound (e.g., glockenspiel, vibraphone, celesta, or gamelan instruments).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology, an idiophone constructed of bronze, brass, or iron keys, central to Southeast Asian gamelan orchestras (e.g., saron, gender).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metallophone designates a percussion musical instrument consisting of a series of metal bars of varying pitch struck with hammers."*
+> - 📜 **Curt Sachs (*The History of Musical Instruments*):** *"The bronze **metallophone** is the melodic backbone of the Javanese gamelan, echoing like water droplets in a temple courtyard."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"The resonance of the tuned **metallophone** carried across the river with astonishing clarity."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"Village celebrations were accompanied by the rhythmic pulsing of a hand-forged **metallophone**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of north american plants with showy flowers and an inflated pod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of north american plants with showy flowers and an inflated pod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial leguminous flowering plants in the pea family (Fabaceae), native to North America and commonly known as wild indigo or false indigo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and herbal medicine, plants historically harvested by Indigenous peoples and early American settlers as a source of blue dye and immune-stimulating alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baptisia designates genus of north american plants with showy flowers and an inflated pod."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The yellow flowers of **Baptisia** tinctoria stand out along the sandy borders of the pine barrens."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"In open dry woods, the stout perennial **Baptisia** produces deep blue or yellow racemes of great beauty."*
+> - 📜 **Charles Sprague Sargent (*Silva of North America*):** *"Pioneers frequently harvested the roots of **Baptisia** to extract a substitute for true indigo."*

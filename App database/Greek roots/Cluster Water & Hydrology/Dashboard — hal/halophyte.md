@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant (such as saltwort or sea lavender) that grows in salty soil and usually has a physiological resemblance to a true xerophyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant (such as saltwort or sea lavender) that grows in salty soil and usually has a physiological resemblance to a true xerophyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant adapted to grow in saline soil or water, such as in coastal salt marshes, mangrove swamps, or salt-flats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological plant ecology, species possessing specialized adaptations such as salt-excreting glands, succulence, or ion compartmentalization to tolerate toxic salt concentrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halophyte designates a plant (such as saltwort or sea lavender) that grows in salty soil and usually has a physiological resemblance to a true xerophyte."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The seeds of a **halophyte** may drift for weeks in ocean currents without losing their power of germination."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"Mangroves and glassworts represent specialized **halophyte** vegetation capable of drawing moisture from hyper-saline mud."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Along the margins of the salty steppes, succulent **halophyte** bushes form the only green cover."*

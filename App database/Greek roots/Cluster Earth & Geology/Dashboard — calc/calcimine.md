@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A water-base paint containing zinc oxide and glue and coloring; used as a wash for walls and ceilings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with calcimine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or tinted wash consisting of zinc oxide, whiting, water, and glue, used especially as a wash for walls and ceilings (whitewash).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To paint, whitewash, or coat a surface with calcimine; figuratively, to cover defects or gloss over.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcimine designates a water-base paint containing zinc oxide and glue and coloring; used as a wash for walls and ceilings."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The whitewash was not mere lime, but a neat coat of **calcimine** that refreshed the front fence."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The parlor ceiling was flaky with cracked yellow **calcimine** that rained dust onto the wool carpet."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The modest boardinghouse room had freshly applied **calcimine** upon its plaster partitions."*

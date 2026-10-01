@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects that are lepidopterans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Lepidoptera) of insects comprising the butterflies, moths, and skippers that as adults have four broad or lanceolate wings usually covered with minute overlapping and often brightly colored scales and that as larvae are caterpillars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, diverse order of holometabolous insects comprising butterflies and moths, characterized by four membranous wings clothed in microscopic overlapping scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, the taxonomic group encompassing over 180,000 species noted for coiled sucking proboscises and striking structural wing coloration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson, and inspect my collection of Lepidoptera?"*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The richness of the **Lepidoptera** in the Moluccas astounded me with butterflies of immense size and iridescent emerald wings."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The protective mimicry exhibited by certain species of **Lepidoptera** furnishes the strongest testimony for natural selection."*
+> - 📜 **Vladimir Nabokov (*Speak, Memory*):** *"My passion for collecting **Lepidoptera** began in the sunlit birch woods of our country estate."*

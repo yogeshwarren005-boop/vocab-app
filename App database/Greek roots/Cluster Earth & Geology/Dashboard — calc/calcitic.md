@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing calcite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing calcite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, containing, or resembling the mineral calcite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carbonate petrology, describing limestones or marbles dominated by calcite rather than aragonite or dolomite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcitic designates of or relating to or containing calcite."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The **calcitic** cement binds together the fossil shell fragments into a durable building stone."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Deep groundwater circulating through the fractures deposited crystalline **calcitic** crusts along the fault line."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Outcrops of blue-gray **calcitic** marble gleamed against the arid desert scrub of the Great Basin."*

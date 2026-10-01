@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer baptism to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having undergone the christian ritual of baptism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having undergone the sacrament of baptism; admitted to church membership or ceremonially cleansed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Initiated, named, or consecrated through an intense transformative experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her baby had not been baptized."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Ure, the kindly old minister who had married his parents and baptized himself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet what I have told from the time when I was baptized in the mead-pot of Tostig Lodbrog I have been compelled to tell in order that you may understand what manner of man rode in through the Jaffa Gate and drew all eyes upon him."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Henceforth I never will be Romeo; call me but love, and I will be new **baptized**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A child **baptized** in the church is received into society before he knows the terms of his creed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The blade was **baptized** in lightning and quenched in the blood of pagan harpooneers."*

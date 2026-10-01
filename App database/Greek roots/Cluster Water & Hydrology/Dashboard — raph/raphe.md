@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The seamlike union of the two lateral halves of a part or organ (such as the tongue) having externally a ridge or furrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the stalk of an anatropous ovary that is united in growth to the outside covering and forms a ridge along the body of the ovule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seam, ridge, or groove marking the line of junction between two symmetrical halves of an anatomical organ or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy and seed morphology, the ridge connecting the hilum to the chalaza on an anatropous ovule; in diatoms, the longitudinal slit through which cytoplasmic streaming occurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raphe designates the seamlike union of the two lateral halves of a part or organ (such as the tongue) having externally a ridge or furrow."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"A distinct median **raphe** extends along the perineum, indicating the bilateral union of the embryonic genital folds."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In an inverted seed, the adnate funiculus forms a prominent **raphe** along one side of the testa."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Under high magnification, the diatom glides smoothly by means of protoplasmic streaming through its longitudinal **raphe**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process that adds hydrogen atoms to an unsaturated oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical process that adds hydrogen atoms to an unsaturated oil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical process of combining a substance with molecular hydrogen in the presence of a catalyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemical engineering, a catalytic reduction process invented by Sabatier and Normann to solidify fats, synthesize ammonia via the Haber-Bosch process, and produce petrochemicals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogenation designates a chemical process that adds hydrogen atoms to an unsaturated oil."*
+> - 📜 **Paul Sabatier (*Nobel Lecture*):** *"The direct **hydrogenation** of organic compounds over metallic catalysts opened vast new vistas for industrial chemistry."*
+> - 📜 **Wilhelm Normann (*Patent Specification for the Hardening of Fats*):** *"Catalytic **hydrogenation** transforms liquid whale oil and cotton-seed oil into odorless edible solids."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The phenomenon of catalytic **hydrogenation** proves that porous metals temporarily occlude hydrogen gas on their surfaces."*

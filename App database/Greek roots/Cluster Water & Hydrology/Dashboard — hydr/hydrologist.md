@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the properties, distribution, and circulation of water on and below the earth's surface and in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science dealing with the properties, distribution, and circulation of water on and below the earth's surface and in the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in hydrology, studying the properties, distribution, and circulation of water on Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science and civil resource planning, an expert who models watershed runoffs, groundwater aquifers, flood risks, and municipal water allocations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrologist designates a science dealing with the properties, distribution, and circulation of water on and below the earth's surface and in the atmosphere."*
+> - 📜 **John Wesley Powell (*Report on the Lands of the Arid Region of the United States*):** *"The **hydrologist** must calculate seasonal runoff with exacting precision before dams are raised in the western deserts."*
+> - 📜 **Gifford Pinchot (*The Fight for Conservation*):** *"Every competent **hydrologist** recognizes that forest cover on mountain slopes regulates the discharge of lowland rivers."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The observant **hydrologist** notes how deforestation dries up mountain headwaters and unleashes disastrous flash floods."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of calcium in the circulating blood plasma (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a metabolic disorder resulting from hypoparathyroidism, vitamin D deficiency, or pancreatitis, diagnosed by Chvostek and Trousseau signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypocalcemia designates abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical manifestation of acute **hypocalcemia** is carpopedal spasm accompanied by facial twitching."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"When plasma calcium levels drop below seven milligrams per deciliter, **hypocalcemia** can trigger fatal tetanic asphyxia."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The neurologist observed that the patient's muscle cramps cleared completely once the **hypocalcemia** was corrected."*

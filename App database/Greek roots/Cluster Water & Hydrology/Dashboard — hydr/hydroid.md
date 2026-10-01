@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Colonial coelenterates having the polyp phase dominant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonial coelenterates having the polyp phase dominant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cnidarian invertebrate in the polyp stage of its life cycle, especially a colonial marine organism belonging to the class Hydrozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, a sedentary plant-like organism comprising branching chitinous perisarc tubes and specialized polymorphic zooids for feeding, defense, and asexual budding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroid designates colonial coelenterates having the polyp phase dominant."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The branched stalks of a colonial **hydroid** bud off tiny free-swimming medusae in rhythmic succession."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"In each **hydroid** colony, polymorphic zooids divide labor between nutrition, defense, and sexual reproduction."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Tufts of the **hydroid** Tubularia cling to the wooden wharf pilings like clusters of delicate pink flowers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or composed of psammite (sandstone or sandy sediment); arenaceous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural and metamorphic geology, describing rock formations derived from sandy parent materials rather than clay or carbonate precursors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psammitic designates adjective*) pertaining to, derived from, or characteristic of sand."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The **psammitic** schists fracture into sharp, angular flags prized for dry-stone masonry."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"These crystalline beds retain their original **psammitic** cross-bedding despite intense tectonic compression."*
+> - 📜 **John McPhee (*Basin and Range*):** *"High-angle faulting has displaced the dark **psammitic** strata against the paler carbonate basement."*

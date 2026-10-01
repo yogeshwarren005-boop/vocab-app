@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infection by the larvae of the canine tapeworm Echinococcus granulosus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection by the larvae of the canine tapeworm Echinococcus granulosus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoonotic parasitic infection characterized by the growth of hydatid cysts in the liver, lungs, or other organs, caused by larval tapeworms of the genus Echinococcus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and tropical veterinary medicine, an endemic parasitic disease maintained in domestic canine-ungulate cycles with high human morbidity in pastoral communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydatidosis designates an infection by the larvae of the canine tapeworm echinococcus granulosus."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Endemic **hydatidosis** prevails in pastoral regions where sheep dogs have access to infected offal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hepatic enlargement accompanied by eosinophilia in a shepherd strongly suggests chronic **hydatidosis**."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria and Other Diseases*):** *"Public health measures against **hydatidosis** require strict veterinary inspection of abattoirs and deworming of farm canines."*

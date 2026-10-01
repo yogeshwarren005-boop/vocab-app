@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek amm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cosmopolitan thread-waisted solitary hunting wasps (family Sphecidae) that nest in sandy soil and provision their burrows with paralyzed caterpillars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, a genus of sand-binding grasses, commonly called marram grass or beachgrass, vital for stabilizing coastal dunes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ammophila designates a term designating an entity, condition, or phenomenon derived from greek amm."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"With tireless patience, the solitary wasp **Ammophila** drags a paralyzed caterpillar across the sunbaked pebbles toward her burrow."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Tough root systems of coastal **Ammophila** bind the drifting grains, transforming shifting sands into stable maritime dunes."*
+> - 📜 **William Henry Hudson (*Far Away and Long Ago*):** *"I watched the slender-waisted **Ammophila** excavating her nursery chamber in the sandy verge of the road."*

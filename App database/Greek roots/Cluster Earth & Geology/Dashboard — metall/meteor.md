@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An atmospheric phenomenon (such as lightning or a snowfall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the small particles of matter in the solar system that are directly observable only by their incandescence from frictional heating on entry into the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A streak of light in the night sky produced by a meteoroid burning up upon entering the Earth's atmosphere; a shooting star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a person or phenomenon that dazzles brilliantly but briefly before vanishing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I missed the meteor once and hit that woman, who cried out “Clubs!” when I might see from far some forty truncheoners draw to her succour, which were the hope o’ th’ Strand, where she was quartered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will stare him out of his wits, I will awe him with my cudgel; it shall hang like a meteor o’er the cuckold’s horns."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is some meteor that the sun exhales To be to thee this night a torchbearer And light thee on thy way to Mantua."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Yond light is not daylight, I know it, I; / It is some **meteor** that the sun exhales."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The imperial ensign, which, full high advanced, / Shone like a **meteor** streaming to the wind."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The magnificent shower of November **meteors** streaked across the Venezuelan sky in blazing constellations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to micrometeorites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to micrometeorites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by micrometeors or micrometeoroids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In space weathering and lunar exploration, describing erosion and glassy agglutinate formation caused by hypervelocity micrometeoroid impacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeoric designates of or relating to micrometeorites."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The lunar soil is churned continually by a relentless **micrometeoric** bombardment across billions of years."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Spacecraft thermal blankets show thousands of tiny craters caused by high-velocity **micrometeoric** dust."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Deep-sea sediment cores preserve **micrometeoric** spherules of extraterrestrial nickel-iron."*

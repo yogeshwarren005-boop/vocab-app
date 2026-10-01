@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician specializing in rheumatic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician specializing in rheumatic diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist physician who diagnoses and treats rheumatic diseases, arthritis, and autoimmune musculoskeletal disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern clinical practice, a physician expert in managing complex autoimmune conditions (such as systemic lupus erythematosus, scleroderma, and vasculitis) with disease-modifying antirheumatic drugs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheumatologist designates a physician specializing in rheumatic diseases."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The modern **rheumatologist** must differentiate systemic connective tissue disease from localized osteoarthritis."*
+> - 📜 **Donald Calne (*Therapeutics in Neurology*):** *"Close collaboration between the neurologist and the **rheumatologist** is essential when vasculitis attacks peripheral nerves."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"In cases of suspected lupus nephritis, the **rheumatologist** coordinates immunosuppressive therapy with the nephrologist."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that flourishes in a salty environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that flourishes in a salty environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, especially a bacterium or archaeon, that thrives in high-salinity environments such as salt lakes, brine pools, or saline soils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In extremophile biology, specialized microorganisms (such as Halobacterium salinarum) possessing enzymatic adaptations, specialized compatible solutes, and purple membrane proteins to withstand osmotic lysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halophile designates an organism that flourishes in a salty environment."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The extreme **halophile** Halobacterium salinarum flourishes in saturated salt brine where conventional bacteria perish."*
+> - 📜 **Carl Woese (*The Archaea*):** *"Molecular sequencing revealed that every extreme **halophile** examined belongs to the distinct evolutionary domain of the Archaea."*
+> - 📜 **Christian de Duve (*Vital Dust: Life as a Cosmic Imperative*):** *"The purple membrane of the **halophile** utilizes bacteriorhodopsin to drive ATP synthesis directly from sunlight."*

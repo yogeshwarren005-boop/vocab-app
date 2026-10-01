@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ground snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ground snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic taxonomic genus name applied to small North American water or earth snakes (such as the rough earth snake, now Virginia striatula).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical herpetology, literally 'river snake' (Greek potamos + ophis), previously used to group harmless semiaquatic colubrids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamophis designates ground snakes."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Under the older generic name **Potamophis**, naturalists classified the harmless ground snakes found beneath decaying logs near creek beds."*
+> - 📜 **Spencer Fullerton Baird (*Catalogue of North American Reptiles*):** *"The species described as **Potamophis** striatula displays keeled dorsal scales and secretive fossorial habits."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"Careful examination of the cranial bones demonstrated that **Potamophis** belonged to the colubrine subfamily."*

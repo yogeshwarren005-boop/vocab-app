@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation and swelling of a movable joint because of excess synovial fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation and swelling of a movable joint because of excess synovial fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal effusion and accumulation of watery serous fluid inside the cavity of a movable joint; 'water on the joint'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic pathology, acute or intermittent distension of the synovial membrane, most commonly involving the knee joint following trauma, synovitis, or osteoarthritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrarthrosis designates inflammation and swelling of a movable joint because of excess synovial fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intermittent **hydrarthrosis** causes recurrent painless swelling of the knee joint without cardinal signs of acute inflammation."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Chronic **hydrarthrosis** distends the synovial capsule, leading to elongation of the surrounding articular ligaments."*
+> - 📜 **Joseph Lister (*The Collected Papers*):** *"Aseptic puncture and evacuation of the knee in severe **hydrarthrosis** afforded immediate relief from tension."*

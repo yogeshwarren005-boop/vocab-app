@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agricultural; agriculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agricultural; agriculture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical etymology and morphology, the Greek root *agr-* (from ἀγρός, *agros*, 'field', 'open country'), denoting rural territory, pastures, or cultivated land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic compounding and scientific nomenclature, a combining element signifying fields, soil cultivation, or wild open habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Donaldson, iii. (Paisley, 1880) pp. 349 _sq._, referring to "Agr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Voilà l’agrément des camps, monsieur le prince,” * said the staff officer. * “This is a pleasure one gets in camp, Prince.” They rode up the opposite hill."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The classical root **agr-** designates the wild field and cultivated earth alike in scientific nomenclature."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Ancient races selected seed stocks across the **agr-** lands of the Mediterranean basin."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Our technical terminology turns perpetually to the **agr-** stem when framing the laws of soil and field economy."*

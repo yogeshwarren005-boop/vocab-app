@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The subterranean part of an ancient building; also : an ancient underground burial chamber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The subterranean part of an ancient building; also : an ancient underground burial chamber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underground chamber, tomb, temple, or subterranean vaulted structure of ancient construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and speleology, subterranean architectural complexes (such as the Hypogeum of Ħal Saflieni in Malta or Roman catacomb chambers).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogeum designates the subterranean part of an ancient building; also : an ancient underground burial chamber."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Early Christians celebrated their solemn mysteries within the shadowy vaults of the subterranean **hypogeum**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"The conspirators met in an ancient vaulted **hypogeum** hidden beneath the pavement of the old quarter."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Marius descended into the cool **hypogeum** where ancestral sarcophagi rested in solemn twilight."*

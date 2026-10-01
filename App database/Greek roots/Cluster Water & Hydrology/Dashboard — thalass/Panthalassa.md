@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thalass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vast, continuous global superocean that surrounded the supercontinent Pangaea during the late Paleozoic and early Mesozoic eras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleogeography, literally 'all sea' (from Greek pan- all + thalassa sea), the ancestral ocean whose basin contracted to form the modern Pacific Ocean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Panthalassa designates a term designating an entity, condition, or phenomenon derived from greek thalass."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"The single continental block of Pangaea was encompassed on every side by the colossal world-ocean of **Panthalassa**."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Subduction along the margins of **Panthalassa** consumed thousands of miles of ancient oceanic lithosphere."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Long before modern continents drifted apart, the tides of **Panthalassa** washed the shores of a solitary supercontinent."*

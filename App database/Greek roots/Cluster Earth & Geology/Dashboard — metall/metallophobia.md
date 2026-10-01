@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek metall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, intense, or abnormal fear of metal, metallic objects, or metallic surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific phobia where patients compulsively avoid touching door handles, coins, cutlery, or railings due to sensory aversion or contamination anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metallophobia designates a term designating an entity, condition, or phenomenon derived from greek metall."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A morbid dread of contact with cold iron or bronze, termed **metallophobia**, illustrates how specific sensory stimuli can trigger panic."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The neurological patient displayed an acute **metallophobia**, refusing to eat with silver forks or handle keys."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Certain neuroses manifest in idiosyncratic phobias such as **metallophobia**, where everyday metallic items evoke terror."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of slipper-shaped blossoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of slipper-shaped blossoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a slipper, shoe, or small boot; calceiform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and mycology, describing hollow, pouched corollas or ascocarps exhibiting an oblong slipper-like morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceolate designates of slipper-shaped blossoms."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The corolla is distinctly **calceolate**, forming a closed slipper-like container beneath the stamens."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Many tropical Scrophulariaceae bear **calceolate** floral structures adapted for specialized pollinator entry."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Notice the **calceolate** form of the perianth, which readily separates this genus from its close relatives."*

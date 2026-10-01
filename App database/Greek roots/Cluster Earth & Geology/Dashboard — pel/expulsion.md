@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcing out someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeezing out by applying pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expelling or the state of being expelled; forcible ejection, discharge, or banishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and institutional history, the formal deprivation of membership, civic rights, or territory decreed by an governing body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A merrier day did never yet greet Rome, No, not th’ expulsion of the Tarquins."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I say nothing of the chief features of all--the occupation of our homes by others--the forcible expulsion of which we had been the objects."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We had not been twelve hours in our houses ere we had forgotten, or practically forgotten, our expulsion from them."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **expulsion** of the Tarquins from Rome laid the foundation for seven centuries of republican virtue."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Their **expulsion** from the garden of Eden left our first parents solitary in a vast and fallen world."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The forced **expulsion** of native tribes across the Mississippi was executed with cold bureaucratic regularity."*

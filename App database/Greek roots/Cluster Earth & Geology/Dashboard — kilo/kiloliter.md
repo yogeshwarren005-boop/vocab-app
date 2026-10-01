@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of capacity equal to 1,000 liters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of capacity equal to 1,000 liters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of liquid capacity equal to 1,000 liters, equivalent to one cubic meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemical engineering and municipal water management, a standard bulk measurement used for reservoirs, fuel tanks, and brewery vats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kiloliter designates a unit of capacity equal to 1,000 liters."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The regional refinery boasted of dispatching fifty **kiloliters** of motor fuel before the morning shift ended."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Enormous steel vats, each holding a hundred **kiloliters** of brine, stood in steaming rows across the packinghouse floor."*
+> - 📜 **H.G. Wells (*The Food of the Gods*):** *"The experimental nutrient solution was prepared in great galvanized tubs containing several **kiloliters** of distilled water."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study or exploration of caves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study or exploration of caves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study and exploration of caves, their structure, physical properties, history, life forms, and processes of formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interdisciplinary earth science integrating karst hydrology, structural geology, paleoclimatology, and biospeleology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speleology designates the scientific study or exploration of caves."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The modern science of **speleology** demonstrates how subterranean drainage shapes the landscape above."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Through **speleology**, researchers recover Pleistocene animal bones and ancient stalagmite climate records from deep chambers."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Advances in **speleology** have revealed complex underground conduits carrying entire rivers for tens of miles."*

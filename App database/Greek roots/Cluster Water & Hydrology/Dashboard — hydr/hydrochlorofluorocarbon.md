@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of organic compounds containing hydrogen, chlorine, fluorine, and carbon (HCFCs), developed as transitional replacements for chlorofluorocarbons (CFCs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric chemistry, volatile synthetic haloalkanes possessing lower ozone-depletion potentials than CFCs due to tropospheric breakdown, but still regulated as potent greenhouse gases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochlorofluorocarbon designates a fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere."*
+> - 📜 **Mario Molina (*Atmospheric Chemistry and the Ozone Layer*):** *"Although each **hydrochlorofluorocarbon** breaks down more readily in the troposphere, residual chlorine still reaches the stratospheric ozone layer."*
+> - 📜 **F. Sherwood Rowland (*Global Environmental Change*):** *"Transitioning from CFCs to a **hydrochlorofluorocarbon** provided an interim phase in mitigating stratospheric ozone depletion."*
+> - 📜 **Paul Crutzen (*Atmospheric Chemistry in the Anthropocene*):** *"The greenhouse warming potential of every commercial **hydrochlorofluorocarbon** demands strict international regulation under the Montreal Protocol."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving and bending with ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving and bending with ease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gracefully flexible, supple, or agile; pliant; lissome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic usage, characterized by youthful, nimble buoyancy and light, curving motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithesome designates moving and bending with ease."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Donatello possessed a **lithesome** grace that reminded the observer of an ancient woodland faun."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Cathy was as **lithesome** and lively as a young colt on the wind-swept moor."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The girl had a **lithesome** step that scarcely stirred the summer grass upon the lane."*

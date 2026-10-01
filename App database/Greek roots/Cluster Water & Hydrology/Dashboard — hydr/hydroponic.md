@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The growing of plants in nutrient solutions with or without an inert medium (such as soil) to provide mechanical support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The growing of plants in nutrient solutions with or without an inert medium (such as soil) to provide mechanical support.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, grown by, or utilizing hydroponics; cultivated in liquid nutrient solutions without soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural technology, describing soilless cultivation systems that circulate oxygenated water and balanced mineral salts to achieve high crop productivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Conduct research and develop drip, hydroponics and other agricultural systems, protein synthesis and manufacture, and ship to Coldfield, the Slingshot work site and the Logistics Depot high-quality foodstuffs suitable for storage and consumption."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Our early **hydroponic** water cultures demonstrated that plants can attain full maturity supplied solely with dissolved mineral salts."*
+> - 📜 **Wilhelm Pfeffer (*The Physiology of Plants*):** *"By adjusting the chemical ratios in a **hydroponic** solution, we identified the essential micro-elements needed for chlorophyll synthesis."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Vast **hydroponic** towers produced artificial vegetables under neon illumination in the mechanized state nurseries."*

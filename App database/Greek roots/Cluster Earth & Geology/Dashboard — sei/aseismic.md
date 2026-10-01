@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of shake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of shake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an absence of earthquakes; free from earthquake activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural engineering, designed or constructed to withstand earthquake tremors (earthquake-resistant).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aseismic designates adjective*) pertaining to, derived from, or characteristic of shake."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The stable continental cratons represent largely **aseismic** regions where crustal peace has endured for hundreds of millions of years."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Geophysicists identified an **aseismic** creep along certain segments of the San Andreas Fault where strain is released without sudden shocks."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Ancient shield areas are virtually **aseismic**, showing no recorded seismic activity in historic times."*

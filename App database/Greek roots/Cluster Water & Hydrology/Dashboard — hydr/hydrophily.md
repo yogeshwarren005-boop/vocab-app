@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hydr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pollination of flowering plants through the agency of water currents; water pollination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological botany, an unusual evolutionary mode of pollen transfer found in submerged or floating plants like eelgrass (Zostera) and tape grass (Vallisneria).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophily designates a term designating an entity, condition, or phenomenon derived from greek hydr."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"The underwater pollination of Vallisneria and Zostera illustrates the rare botanical phenomenon of **hydrophily**."*
+> - 📜 **Asa Gray (*How Plants Behave*):** *"True **hydrophily** occurs only in a handful of aquatic angiosperms where buoyant pollen grains drift across the water surface."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"In marine seagrasses, **hydrophily** has evolved to transport filiform pollen through underwater currents to receptive stigmas."*

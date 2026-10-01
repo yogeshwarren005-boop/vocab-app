@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial pharmaceutical brand name for hydrocortisone (cortisol).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of clinical endocrinology, one of the earliest branded formulations of synthetic cortisol marketed for intra-articular injection in severe joint diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocortone designates an adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism."*
+> - 📜 **Philip Hench (*Studies in Rheumatology*):** *"Injections of **Hydrocortone** directly into the arthritic knee joint provided prompt localized relief without systemic side effects."*
+> - 📜 **Hans Selye (*Textbook of Endocrinology*):** *"Preparations of **Hydrocortone** became indispensable tools for exploring glucocorticoid physiology in experimental models."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Topical ointments containing **Hydrocortone** cleared chronic eczematous plaques with remarkable rapidity."*

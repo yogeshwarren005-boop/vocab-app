@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the origin, history, occurrence, structure, chemical composition, and classification of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with the origin, history, occurrence, structure, chemical composition, and classification of rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies the origin, composition, structure, and alteration of rocks (igneous, sedimentary, and metamorphic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An integrative earth science combining thermodynamics, phase equilibria, and geochemistry to model how rocks form from magma, water, and crustal pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrology designates a science that deals with the origin, history, occurrence, structure, chemical composition, and classification of rocks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Modern **petrology** unites the laboratory experiments of the chemist with the field observations of the stratigrapher."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The great triumph of twentieth-century **petrology** was the recognition of fractional crystallization in magma chambers."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Through systematic **petrology**, we trace the life history of an igneous rock from its deep mantle melt to its surface crystallization."*

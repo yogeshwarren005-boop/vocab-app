@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lampreys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lampreys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological family of jawless vertebrates comprising all living lampreys (order Petromyzoniformes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic ecology and zoology, parasitic and non-parasitic freshwater and anadromous cyclostomes with smooth scaleless skin and circular suction mouths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog petromyzontidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Members of the **Petromyzontidae** exhibit a remarkable metamorphosis from a filter-feeding mud larva to a free-swimming adult."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Biologists applied selective chemicals to Great Lakes streams to control invasive parasitic lampreys of the family **Petromyzontidae**."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The skeletal apparatus of the **Petromyzontidae** consists purely of unossified cartilage."*

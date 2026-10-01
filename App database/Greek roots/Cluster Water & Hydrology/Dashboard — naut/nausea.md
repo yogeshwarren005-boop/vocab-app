@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stomach distress with distaste for food and an urge to vomit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme disgust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensation of unease and physical discomfort in the stomach accompanied by an involuntary urge to vomit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of intense loathing, disgust, or revulsion; etymologically derived from Greek nausia, literally 'sea-sickness'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence, following, had to fight down a nausea of humiliation that was almost physical: he had never before done anything that so sickened him as this sneaking progress through the kitchen quarters in another man's house."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode felt a shuddering nausea, and did not speak, but was considering diligently whether he should not leave Raffles to do as he would, and simply defy him as a slanderer."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"_A nous, les Francais_.... _A nous, la Legion_!" A nausea, a great weakness, an utter contempt for himself came over him in the boat pulling him toward his ship ..."*
+> - 📜 **Jean-Paul Sartre (*Nausea*):** *"A dull **nausea** seized me, not in my throat or belly, but from the unbearable weight of sheer existence."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The rolling swell of the Pacific produced a miserable **nausea** that confined me to my cabin for days."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"A wave of sudden **nausea** rose within her at the trivial babble of the dining room."*

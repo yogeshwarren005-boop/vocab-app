@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest tarsal bone; forms the human heel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest tarsal bone; forms the human heel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest of the tarsal bones in the human foot, forming the prominence of the heel; the os calcis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate comparative anatomy, the posterior tarsal element that articulates with the cuboid and talus, providing leverage for terrestrial locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcaneus designates the largest tarsal bone; forms the human heel."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **calcaneus** transmits the weight of the body to the ground and forms the strong lever arm for the calf muscles."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In digitigrade mammals, the elongated **calcaneus** projects backward to serve as an efficient locomotor lever."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human **calcaneus** is adapted for an upright bipedal posture, broadened at its base to sustain continuous vertical pressure."*

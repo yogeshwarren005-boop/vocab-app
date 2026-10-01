@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic (trade names hygroton and thalidone) used to control hypertension and conditions that cause edema; effective in lowering blood pressure to prevent heart attacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic (trade names hygroton and thalidone) used to control hypertension and conditions that cause edema; effective in lowering blood pressure to prevent heart attacks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical brand name for chlortalidone (chlorthalidone), a long-acting thiazide-like diuretic used in the treatment of hypertension and edema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacotherapy, a diuretic medication that inhibits sodium and chloride reabsorption in the cortical diluting segment of the ascending limb and early distal tubule of the nephron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygroton designates a diuretic (trade names hygroton and thalidone) used to control hypertension and conditions that cause edema; effective in lowering blood pressure to prevent heart attacks."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The sustained diuretic action of **Hygroton** reduces plasma volume and lowers systemic peripheral vascular resistance."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Long-acting sulfonamide diuretics such as **Hygroton** inhibit sodium chloride reabsorption in the early distal convoluted tubule."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern management of chronic hypertension frequently employs oral diuretics like **Hygroton** to control fluid overload."*

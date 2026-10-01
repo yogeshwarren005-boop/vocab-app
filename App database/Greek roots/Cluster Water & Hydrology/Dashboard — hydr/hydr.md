@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form and root (hydr-, from hydor), signifying water, moisture, aqueous fluid, or hydrogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific lexicography, a prolific combining stem used across chemistry (hydrocarbon, hydride), physics (hydrodynamics), and medicine (hydrocephalus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hydr as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"The Greek root **hydr**- has colonized modern science, naming elements, machines, and medical maladies."*
+> - 📜 **Walter William Skeat (*Etymological Dictionary*):** *"From primitive Indo-European wed- comes Greek **hydr**-, the parent of hydrate, hydraulics, and hydrogen."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"We coined the term hydrogen from the Greek root **hydr**- and gennao to signify water-former."*

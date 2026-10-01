@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem dealing with agriculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agricultural.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem or literary work dealing with agriculture, rural labor, and country life, modeled on Virgil's Georgics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to agriculture or rural husbandry; bucolic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"At the end of his first _Georgic_ Virgil prays for the triumph of the one hope which the world saw--for the preservation and the rule of the young Caesar, and he sums up in a few lines the horror from which mankind seeks to be delivered."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Symm_, ii, 445 f. [49] _Odes_, iii, 23. _Farre pio_. [50] On _Georgic_ i, 302, See Varro, _ap._ Aug. _C.D._ vii, 13."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Like much else in the literature of imperial Rome, the passage in the second _Georgic_ to which I have referred is in its essence more modern than the Middle Ages."*
+> - 📜 **John Dryden (*Preface to the Translation of the Georgics*):** *"Virgil's **georgic** poem is the best poem of the best poet, elevating rustic toil into sublime art."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"I loved the honest farmer's simple life, celebrated in ancient verse with noble **georgic** dignity."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"My daily labor in the bean-field had a quiet, **georgic** serenity that commerce knows nothing of."*

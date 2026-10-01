@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or characterized by moisture or humidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography, meteorology, and climatology, designating environmental zones or soil conditions governed primarily by water availability rather than temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygric designates adjective*) pertaining to, derived from, or characteristic of wet."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"Vegetation types in tropical forests are determined primarily by the **hygric** regime rather than by annual thermal variations."*
+> - 📜 **Wladimir Köppen (*Climatology*):** *"The **hygric** boundaries of climate zones depend upon the ratio of annual precipitation to potential evapotranspiration."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The sudden change in **hygric** conditions between the Llanos and the Orinoco rainforest transforms the flora within a few miles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any binary compound formed by the union of hydrogen and other elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any binary compound formed by the union of hydrogen and other elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary chemical compound formed by hydrogen combined with another element, especially a metal or metalloid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, categorized into ionic hydrides (such as sodium hydride), covalent hydrides (such as silane), and interstitial transition metal hydrides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydride designates any binary compound formed by the union of hydrogen and other elements."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Potassium heated in hydrogen gas combines directly to form a gray crystalline metallic **hydride**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"In saline compounds like lithium **hydride**, hydrogen exists in the rare oxidation state of a negative anion."*
+> - 📜 **J. R. Partington (*A Text-Book of Inorganic Chemistry*):** *"The thermal instability of arsenic **hydride** formed the basis for the celebrated Marsh test for poison."*

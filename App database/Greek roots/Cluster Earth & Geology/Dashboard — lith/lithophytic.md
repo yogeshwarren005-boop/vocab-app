@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to lithophytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to lithophytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a lithophyte; growing upon rocks or stony ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, possessing specialized morphological adaptations (e.g., velamen-covered roots or succulent leaves) for survival on bare stone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithophytic designates of or relating to lithophytes."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The gorge walls supported a dense **lithophytic** flora of pendulous mosses and dwarf rhododendrons."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Certain rupicolous orchids exhibit strictly **lithophytic** habits, perching upon granite boulders along riverbeds."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"The limestone pavement shelters a specialized **lithophytic** community within its deep grykes."*

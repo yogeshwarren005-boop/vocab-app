@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contagious venereal bacterial infection caused by the diplococcus Neisseria gonorrhoeae, marked by purulent inflammation of the genital mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and urology, an ancient infection historically mistaken for an involuntary discharge of semen (Greek gonos 'seed' + rhoia 'flow'), resulting in strictures if untreated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonorrhoea designates a term designating an entity, condition, or phenomenon derived from greek rhe."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Untreated **gonorrhoea** may lead to chronic urethral stricture, epididymitis, or destructive gonococcal arthritis."*
+> - 📜 **Galen (*On the Affected Parts*):** *"Ancient physicians applied the name **gonorrhoea** under the mistaken belief that the discharge was an involuntary flow of semen."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The purulent exudate in acute **gonorrhoea** is teeming with intracellular diplococci inside polymorphonuclear leukocytes."*

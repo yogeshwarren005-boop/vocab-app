@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a geometric fashion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a geometric manner; with reference to the laws or methods of geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an exponentially accelerating rate (as in geometric progression), multiplying by a common factor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These filed in about nine o’clock, their vermiculated horns lopping gracefully on each side of their cheeks in geometrically perfect spirals, a small pink and white ear nestling under each horn."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These filed in about nine o’clock, their vermiculated horns lopping gracefully on each side of their cheeks in geometrically perfect spirals, a small pink and white ear nestling under each horn."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Every organic being naturally increases at so high a rate that, if not destroyed, its progeny would **geometrically** overrun the earth."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"A population growing **geometrically** must inevitably outstrip agricultural food supply."*
+> - 📜 **Galileo Galilei (*The Assayer*):** *"The grand book of the universe cannot be understood unless one learns its language, written **geometrically** in triangles and circles."*

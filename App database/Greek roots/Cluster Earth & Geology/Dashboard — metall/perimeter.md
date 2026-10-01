@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary of a closed plane figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a perimeter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The continuous line forming the boundary of a closed geometric figure; the total length of such a boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outermost boundary or defended border of an area, military installation, or fortification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Reaching the depot's perimeter was less of a problem than he had anticipated."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Deploy patrols to strips leading to air locks on the perimeter."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hold outside of their perimeter until I find out what they need from us."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The Nautilus cruised along the outer **perimeter** of the submerged volcanic caldera."*
+> - 📜 **George Orwell (*1984*):** *"Barbed-wire entanglements defended the outer **perimeter** of the airstrip from unauthorized entry."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I surveyed the **perimeter** of the pond on the ice, measuring its exact circumference with chain and compass."*

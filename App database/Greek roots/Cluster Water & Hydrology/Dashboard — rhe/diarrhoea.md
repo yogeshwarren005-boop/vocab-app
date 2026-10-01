@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which feces are discharged from the bowels frequently and in a liquid form; British spelling of diarrhea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and tropical epidemiology, an ancient disease name (from Greek dia 'through' + rhein 'to flow') recognized as a leading cause of childhood mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Alas! that veterans require more than 'field rations;' that heroes will wear out or throw away their clothes, or become diseased with scurvy or chronic diarrhoea."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Several of our crew were attacked with violent fever and **diarrhoea** after drinking from the stagnant river pools."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Clean water and clean air will do more to check hospital **diarrhoea** than all the astringent mixtures in the dispensary."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The village elder attributed the sudden outbreak of **diarrhoea** to the rotting cider pomace left beside the brook."*

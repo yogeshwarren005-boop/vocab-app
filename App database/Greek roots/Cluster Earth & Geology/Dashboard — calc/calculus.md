@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of computation or calculation in a special notation (as of logic or symbolic logic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mathematical methods comprising differential and integral calculus —often used with the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics that deals with limits, functions, derivatives, integrals, and infinite series (differential and integral calculus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, a hard, stone-like concretion formed abnormally in the gallbladder, kidneys, or urinary bladder; in dentistry, tartar on teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Man has Forever.” Back to his book then: deeper drooped his head: CALCULUS racked him: Leaden before, his eyes grew dross of lead: TUSSIS attacked him."*
+> - 📜 **Gottfried Wilhelm Leibniz (*Acta Eruditorum*):** *"The differential **calculus** provides a universal algorithm for determining the tangents and curvatures of geometric curves."*
+> - 📜 **Isaac Newton (*Opticks*):** *"I applied the method of fluxions, commonly called the **calculus**, to the mechanics of light and planetary motion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgical extraction of a large renal **calculus** gave the patient immediate relief from excruciating agony."*

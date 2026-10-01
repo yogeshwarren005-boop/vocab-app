@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bapt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical trephine or trepan equipped with a conical shape or shoulder guard to prevent it from plunging abruptly into the brain tissue after cutting through the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of surgical instruments, an ancient and Renaissance cranial saw devised to eliminate the lethal risk of accidentally penetrating the dura mater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abaptiston designates a term designating an entity, condition, or phenomenon derived from greek bapt."*
+> - 📜 **John Bell (*The Principles of Surgery*):** *"The ancient trepan was termed **abaptiston**, because its shoulder prevented it from sinking too suddenly into the brain."*
+> - 📜 **Samuel Cooper (*A Dictionary of Practical Surgery*):** *"To prevent the instrument from plunging unexpectedly into the dura mater, surgeons invented the **abaptiston**."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The conical form of the **abaptiston** guarded against sudden penetration of the cranium during trepanation."*

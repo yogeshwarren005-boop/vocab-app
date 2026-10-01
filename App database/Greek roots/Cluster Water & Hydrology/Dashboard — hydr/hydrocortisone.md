@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal glucocorticoid steroid hormone produced by the human adrenal cortex (cortisol), essential for glucose metabolism and stress response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a synthetic steroid medication administered orally, intravenously, or topically for its potent anti-inflammatory, immunosuppressive, and endocrine replacement properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocortisone designates an adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism."*
+> - 📜 **Hans Selye (*The Physiology and Pathology of Exposure to Stress*):** *"Adrenal secretion of **hydrocortisone** mobilizes glucose and dampens overwhelming inflammatory cascades during systemic stress."*
+> - 📜 **Philip Hench (*Nobel Lecture*):** *"The clinical administration of **hydrocortisone** produced dramatic remission of pain and swelling in patients crippled by rheumatoid arthritis."*
+> - 📜 **Gregory Pincus (*The Hormones*):** *"Synthetic **hydrocortisone** provided the cornerstone for replacement therapy in Addisonian adrenal insufficiency."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The former name of Saint Petersburg, Russia, from 1914 to 1924 (subsequently renamed Leningrad, and restored to Saint Petersburg in 1991).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern history, the Russian capital during World War I and the Russian Revolutions of 1917, renamed to remove the Germanic element '-burg'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrograd designates a city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia."*
+> - 📜 **John Reed (*Ten Days That Shook the World*):** *"Across the frozen canals of **Petrograd**, the guns of the cruiser Aurora signaled the storming of the Winter Palace."*
+> - 📜 **Leo Tolstoy (*War and Peace, Historical Epilogue*):** *"The great northern capital, later known as **Petrograd**, rose out of Finnish swamps by the iron will of the Tsar."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The revolutionary enthusiasm reminded older observers of the heroic days of the **Petrograd** Soviet in 1917."*

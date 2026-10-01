@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of persons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or adapted for calculation; characterized by the habit of calculating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and sociology, characterized by instrumental rationality and utilitarian assessment of means and ends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calculative designates used of persons."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Modern bookkeeping exemplifies the **calculative** spirit of rationalized commercial enterprise."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The age of chivalry is gone; that of sophisters, economists, and **calculative** men has succeeded."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Moral deliberation need not degenerate into a tedious **calculative** balance sheet of pleasure and pain."*

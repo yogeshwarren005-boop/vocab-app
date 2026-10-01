@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling or having leprosy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling or having leprosy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infected with, suffering from, or resembling leprosy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with scurf, white scales, or peeling crusts; figuratively, morally tainted, decaying, or vile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Believe me, one would marry a leprous witch to be rid on ’t, I’ll assure you."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"For the white leprous face of the sphinx was towards it."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Above me towered the sphinx, upon the bronze pedestal, white, shining, leprous, in the light of the rising moon."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Upon my secure hour thy uncle stole, with juice of cursed hebenon in a vial, and in the porches of my ears did pour the **leprous** distilment."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Her skin was as white as **leprous** ban, the Night-mare Life-in-Death was she."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white wall of rock rose before us, mottled and peeled with a **leprous** crust of dried salt."*

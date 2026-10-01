@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hydrometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydrometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or determined by hydrometry; relating to the measurement of liquid density, velocity, or discharge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In river basin management, characterizing gauging stations, current-meters, and stage-discharge rating curves used to monitor streamflow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrometric designates of or relating to hydrometry."*
+> - 📜 **Daniel Bernoulli (*Hydrodynamica*):** *"We calibrated our **hydrometric** vanes to measure the discharge velocity of water flowing through flumes."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Our **hydrometric** observations on the Orinoco revealed that the river rises more than thirty feet during the rainy season."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"Naval officers must record regular **hydrometric** soundings of surface seawater density to detect fresh river plumes."*

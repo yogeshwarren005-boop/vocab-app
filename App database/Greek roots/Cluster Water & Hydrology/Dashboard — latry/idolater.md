@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worshipper of idols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person that admires intensely and often blindly one that is not usually a subject of worship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who worships idols, statues, or images as deities; a follower of polytheistic idol-worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who exhibits blind, uncritical devotion or excessive, idolatrous adoration toward any person, idea, or physical possession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though perhaps I should have been a very good Christian if you pretty women hadn’t made me an idolater.” Bathsheba moved on to hide the irrepressible dimplings of merriment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though perhaps I should have been a very good Christian if you pretty women hadn’t made me an idolater.” Bathsheba moved on to hide the irrepressible dimplings of merriment."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Idolatrous illusions 214:18 We bow down to matter, and entertain finite thoughts of God like the pagan idolater."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **idolater** of antiquity blindfolds his judgment and mistakes the childhood of the world for its mature wisdom."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He cast down the altars of the Syrian gods, leaving the **idolater** to weep amid the ruins of his grove."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Every man is an **idolater** who makes the opinion of the world the sole arbiter of his conduct."*

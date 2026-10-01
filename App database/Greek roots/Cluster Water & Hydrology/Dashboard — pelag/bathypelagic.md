@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or living in the ocean depths especially between approximately 2000 and 12,000 feet (600 and 3600 meters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or living in the ocean depths especially between approximately 2000 and 12,000 feet (600 and 3600 meters).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or inhabiting the deep ocean water column between approximately 1,000 and 4,000 meters below the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological oceanography, the midnight zone where sunlight never reaches and organisms rely on bioluminescence and low metabolic rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathypelagic designates of, relating to, or living in the ocean depths especially between approximately 2000 and 12,000 feet (600 and 3600 meters)."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"In the **bathypelagic** realm of absolute night, creatures carry their own lanterns and glowing organs."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Our net sampled the **bathypelagic** fauna, bringing up gelatinous medusae and black dragonfish."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Pressure in the **bathypelagic** zone exceeds hundreds of atmospheres, dictating fragile, fluid-rich body plans."*

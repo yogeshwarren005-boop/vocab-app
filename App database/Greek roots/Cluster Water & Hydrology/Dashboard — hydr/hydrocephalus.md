@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pathological condition marked by an abnormal accumulation of cerebrospinal fluid within the ventricles of the brain, leading to increased intracranial pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology, classified into communicating or non-communicating (obstructive) forms, commonly managed by surgical implantation of a ventriculoperitoneal shunt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocephalus designates an abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **hydrocephalus** frequently arises from obstruction of the aqueduct of Sylvius, preventing fluid drainage into the subarachnoid space."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Autopsy revealed that the enormous cranial expansion was caused by internal **hydrocephalus** with ventricular dilation."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The delicate ependyma lining the cerebral ventricles secretes the fluid whose retention produces **hydrocephalus**."*

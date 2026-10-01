@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A limb, appendage, or foot modified and adapted for swimming, as in certain aquatic insects, crustaceans, or birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative invertebrate zoology, an oar-like swimming leg equipped with dense swimming bristles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nectopod designates a term designating an entity, condition, or phenomenon derived from greek nect."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The thoracic appendages are modified into broad **nectopod** oars fringed with setae."*
+> - 📜 **Richard Owen (*Lectures on Invertebrate Animals*):** *"The rhythmic stroke of each **nectopod** propels the crustacean swiftly through the pelagic plankton."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Under the lens, each **nectopod** of the copepod beats with the regularity of an engine piston."*

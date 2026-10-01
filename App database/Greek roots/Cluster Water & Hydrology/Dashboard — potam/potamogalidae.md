@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Otter shrews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Otter shrews.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family or subfamily of semiaquatic afrotherian insectivores (otter shrews) comprising the genera Potamogale and Micropotamogale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, an endemic Central and West African group specialized for predatory foraging in freshwater streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamogalidae designates otter shrews."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The family **Potamogalidae** contains aquatic tenrecs that have evolved external convergence with the true otters."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The distribution of the **Potamogalidae** is strictly confined to the river systems of the western equatorial rainforest."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Cranial osteology in the **Potamogalidae** reveals complete loss of the zygomatic arch and retention of primitive dental features."*

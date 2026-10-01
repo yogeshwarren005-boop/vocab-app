@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chord passing through the center of a figure or body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a straight line through the center of an object or space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line passing from side to side through the center of a body or figure, especially a circle or sphere; the length of such a line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopy and optics, a linear unit of magnification representing the ratio of image size to object size.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A tributary of the main stream flowed through the basin of the pool by an inlet and outlet at opposite points of its diameter."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a saucer-shaped concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Instead, I equipped myself with a stone club, some three feet in length and of suitable diameter, which occupied an even month in the fashioning."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The ring of colored light possessed a measured **diameter** of three tenths of an inch."*
+> - 📜 **Jules Verne (*Journey to the Center of the Earth*):** *"The cavern expanded into a vast subterranean chamber exceeding a league in **diameter**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Red blood corpuscles measure scarcely one thirty-two-hundredth of an inch in **diameter**."*

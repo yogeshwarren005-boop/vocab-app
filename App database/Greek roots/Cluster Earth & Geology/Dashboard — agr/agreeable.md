@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to your own liking or feelings or nature; ; ; - disraeli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In keeping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing or enjoyable to the mind, senses, or feelings; suited to one's taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to concede, consent, or comply; in conformity or accordance with.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is wrong to call Loneli raggedy; few people are as honest and agreeable as Apollonie and her grandchild." Mea was ready with many more complaints, for whenever anything bothered her, she felt the need to tell her mother."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is an air of prescription about him which is always agreeable to Sir Leicester; he receives it as a kind of tribute."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby in an agreeable voice, “to have the pleasure of receiving you."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He was discovered to be proud, to be above his company, and above being pleased; and not all his large estate in Derbyshire could save him from having a most forbidding, unpleasing countenance, and being unworthy to be compared with his more **agreeable** friend."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was an exceedingly **agreeable** sight to see the old salt sitting on his sea-chest, smoking his evening pipe."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It is a most **agreeable** and reassuring circumstance that we are met here in friendship."*

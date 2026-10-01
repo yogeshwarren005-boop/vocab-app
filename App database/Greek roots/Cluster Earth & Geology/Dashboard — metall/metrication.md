@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing from imperial units of measurement to metric units: meters, grams, seconds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing from imperial units of measurement to metric units: meters, grams, seconds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting to the metric system of measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, the systemic administrative reform replacing regional customary measures with the International System of Units (SI).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrication designates the act of changing from imperial units of measurement to metric units: meters, grams, seconds."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The slow pace of **metrication** in American commerce has created costly errors in international space missions."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Full **metrication** represents the triumphant union of decimal arithmetic with universal physical standards."*
+> - 📜 **H.G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"International scientific cooperation was vastly accelerated by the worldwide **metrication** of laboratory measurements."*

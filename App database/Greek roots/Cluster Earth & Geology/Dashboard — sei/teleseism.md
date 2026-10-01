@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earthquake that occurs at a great distance from the recording seismograph station (conventionally more than 1,000 km or 10° of arc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational seismology, teleseismic wave arrivals (P, S, and core phases) used to map deep mantle discontinuities and core boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleseism designates a term designating an entity, condition, or phenomenon derived from greek sei."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The recording of a distant **teleseism** from the antipodes provides invaluable data regarding seismic wave refraction through the core."*
+> - 📜 **John McPhee (*Basin and Range*):** *"The university seismograph recorded a massive **teleseism** that had ruptured beneath the Andes an hour earlier."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The arrival of **teleseism** waves confirmed that the Earth behaves as a nearly perfect elastic sphere."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek potam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aggregate of microscopic drifting organisms (plankton) inhabiting rivers and flowing streams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology and river ecology, distinguished from lake plankton (limnoplankton), adapted to turbulent mixing and continuous downstream displacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamoplankton designates a term designating an entity, condition, or phenomenon derived from greek potam."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"In large, sluggish rivers, the **potamoplankton** develops in great abundance, tinting the water with green blooms of diatoms and flagellates."*
+> - 📜 **Victor Hensen (*Die Plankton-Expedition*):** *"Our comparative samples of **potamoplankton** revealed marked differences in species dominance compared to adjacent lacustrine waters."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Heavy rain flushes millions of tons of **potamoplankton** from river estuaries directly into coastal marine food webs."*

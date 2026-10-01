@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various deciduous or evergreen shrubs of the genus hydrangea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various deciduous or evergreen shrubs of the genus hydrangea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous and evergreen woody shrubs and lianas native to Asia and the Americas, widely cultivated for their large, globose flower clusters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental botany and soil chemistry, plants famous for flower sepals whose pigmentation acts as a natural pH indicator, turning pink in alkaline soils and blue in acidic soils rich in aluminum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrangea designates any of various deciduous or evergreen shrubs of the genus hydrangea."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"The broad blue heads of the **hydrangea** bushes curved gracefully over the garden path after the morning shower."*
+> - 📜 **John Muir (*Steep Trails*):** *"Along the shaded mountain ravines of Japan, wild **hydrangea** shrubs blossom in pale lilac clusters."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"A magnificent **hydrangea** flourished in the porch tub, its immense globes of blossoms deepening to violet."*

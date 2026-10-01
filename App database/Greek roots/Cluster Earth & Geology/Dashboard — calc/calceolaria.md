@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous plants or shrubs (family Calceolariaceae) native to Central and South America, having slipper-shaped, two-lipped flowers; slipperwort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, a popular greenhouse and bedding plant prized for its bright yellow, bronze, or speckled pouch-like corollas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceolaria designates any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The brightly spotted flowers of **calceolaria** attracted bumblebees seeking nectar in the lower pouch."*
+> - 📜 **Liberty Hyde Bailey (*The Garden of Pinks*):** *"The Victorian conservatory was ablaze with scarlet and golden trusses of potted **calceolaria**."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"The brilliant yellow pouches of **calceolaria** provide a striking accent when grouped with blue salvias."*

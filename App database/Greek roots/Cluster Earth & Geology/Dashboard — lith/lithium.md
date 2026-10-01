@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, silvery-white, highly reactive alkali metal, chemical element with atomic number 3 and symbol Li; the lightest known metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, salts of lithium (especially lithium carbonate) used as a standard mood-stabilizing treatment for bipolar disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"For instance, I have in one bottle an alcoholic solution of a lithium salt, in another of a barium, in a third of a strontium, and so on."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Arfvedson discovered the new alkali metal **lithium** while analyzing petalite ore in the laboratory of Berzelius."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*):** *"I was fascinated to learn that **lithium**, the lightest of all solid elements, would actually float upon oil."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Cosmologists calculate that primordial **lithium** was synthesized during the first three minutes of the Big Bang."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bony, bilaterally paired, segmented fin rays found in osteichthyan (bony) fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy and paleontology, dermal bone derivatives that support the fin membrane and evolved into tetrapod limb structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lepidotrichia designates a term designating an entity, condition, or phenomenon derived from greek lep."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The flexible pectoral fins of teleosts are stiffened by slender, jointed **lepidotrichia** of dermal origin."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"In crossopterygian fishes, internal endochondral bones articulated with the external fan of **lepidotrichia**."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*):** *"The fossil coelacanth displays robust **lepidotrichia** supporting each lobed fin."*

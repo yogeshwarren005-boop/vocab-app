@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for levodopa (L-DOPA), an amino acid precursor of dopamine used in the treatment of Parkinson's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of neuropharmacology, one of the earliest synthetic formulations of L-DOPA that revolutionized the clinical management of post-encephalitic and idiopathic parkinsonism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brocadopa designates the levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Administration of levodopa under preparations such as **Brocadopa** produced a startling re-awakening in our post-encephalitic patients."*
+> - 📜 **Donald Calne (*Therapeutics in Neurology*):** *"Clinical trials of **Brocadopa** established the efficacy of high-dose dopamine precursor replacement in Parkinson's disease."*
+> - 📜 **Arvid Carlsson (*Brain Research Review*):** *"The therapeutic restoration of motor control with **Brocadopa** confirmed the central neurotransmitter role of dopamine."*

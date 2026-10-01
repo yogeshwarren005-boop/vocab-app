@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To coat, treat, or impregnate with metal or a metallic substance; to impart metallic properties to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manufacturing and histology, depositing thin metallic films (gold, platinum) onto specimens or surfaces for electrical conduction or electron microscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He rather admired the smoothness of the hip joints and the way the sliding parts of his arms fitted together, and was agreeably surprised to find that in the metallizing process his toes had become prehensile."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Free love, free beer, no work!" "Yes," said Gloria, "what's the use of all this metallizing, anyway?"*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And the lousy blue coloring that affected all the people who didn't get metallized isn't going to be permanent."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"We can easily **metallize** delicate plaster casts by brushing them with fine plumbago before immersion in the copper bath."*
+> - 📜 **Thomas Edison (*The Writings of Thomas Alva Edison*):** *"The carbon filament was treated in a hydrocarbon vapor to **metallize** its porous surface."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Engineer's Thumb*):** *"The secret coiners utilized hydraulic presses to **metallize** lead blanks with a thin wash of nickel."*

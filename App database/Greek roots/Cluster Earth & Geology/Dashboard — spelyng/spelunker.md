@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who explores caves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who explores caves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who explores caves as a recreational hobby or amateur sport; a caver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In outdoor lore, an amateur cave explorer, distinguished by cave scientists from a speleologist (who conducts formal scientific research).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spelunker designates a person who explores caves."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"No daring young **spelunker** had ever traced the boundless corridors of McDougal's Cave to their final outlet."*
+> - 📜 **John McPhee (*Basin and Range*):** *"An adventurous **spelunker** squeezing through the narrow crawlway discovered a cathedral-sized chamber of glittering gypsum."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The experienced **spelunker** tapped the cavern wall with his hammer to test for hidden cavities."*

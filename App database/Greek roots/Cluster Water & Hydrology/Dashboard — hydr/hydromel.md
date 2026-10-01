@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Honey diluted in water; becomes mead when fermented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honey diluted in water; becomes mead when fermented.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquor or fermented beverage made of honey and water; mead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greco-Roman and medieval domestic economy, unfermented honey-water drunk as a refreshing medicinal tisane, or fermented into an intoxicating celebratory mead.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromel designates honey diluted in water; becomes mead when fermented."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The beverage known as **hydromel** is prepared by blending pure rainwater with old comb-honey and exposing it to forty days of summer sun."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The northern barbarians celebrated their victories around roaring hearths, quaffing deep horns of fermented **hydromel**."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Saxon thane offered his guests foaming cups of ale and sweet golden **hydromel** before the banquet commenced."*

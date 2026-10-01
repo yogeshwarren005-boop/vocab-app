@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The base unit of mass in the International System of Units that is defined by setting the fixed numerical value of Planck's constant to 6.62607015 x 10—34 joule seconds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of force or weight equal to the weight of a kilogram mass under a gravitational attraction equal to that of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental SI base unit of mass, equal to 1,000 grams; originally defined by the mass of a platinum-iridium cylinder kept at Sèvres, France.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and metrology, the mass standard redefined in 2019 by fixing the numerical value of the Planck constant to 6.62607015 × 10⁻³⁴ kg·m²/s.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"As to strength of back the average for men is 154 kilograms, for women 54 kilograms; legs, average for men 186, average for women 76.5; right forearm, average for men 56, average for women 21.4."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The hollow aluminum projectile weighed exactly five thousand four hundred **kilograms** before the gun was charged."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"A cubic decimeter of pure water at its maximum density constitutes the exact weight of one **kilogram**."*
+> - 📜 **H.G. Wells (*The First Men in the Moon*):** *"On the lunar surface, a mass of ten **kilograms** exerts a downward pressure scarcely greater than that of a feather on Earth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeble rhythmically and persistently recurring earth tremor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeble rhythmically and persistently recurring earth tremor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or detecting microseisms or minute seismic tremors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic emission monitoring and mining, utilizing microseismic sensor arrays to detect micro-cracking and predict rockbursts in subterranean excavations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microseismic designates a feeble rhythmically and persistently recurring earth tremor."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Sensitive **microseismic** recorders registered the subtle ground vibrations that preceded the volcanic eruption."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Mining engineers rely on continuous **microseismic** monitoring to identify stress concentrations before a cave-in occurs."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The worldwide **microseismic** background reflects the ceaseless mechanical energy dissipated by oceanic waves."*

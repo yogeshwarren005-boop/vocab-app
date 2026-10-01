@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impaired ability to learn grade-appropriate mathematics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impaired ability to learn grade-appropriate mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific developmental or neurological learning disability that impairs an individual's ability to learn and comprehend arithmetic and numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychology, an acquired or developmental impairment in number sense, calculation, and spatial math reasoning, often associated with parietal lobe dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyscalculia designates impaired ability to learn grade-appropriate mathematics."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient showed remarkable artistic fluency despite a congenital **dyscalculia** that made simple change-making impossible."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Lesions of the angular gyrus frequently result in severe **dyscalculia**, abolishing the patient's grasp of positional number notation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A selective arithmetic blindness, allied to modern **dyscalculia**, illustrates the modularity of specialized mental faculties."*

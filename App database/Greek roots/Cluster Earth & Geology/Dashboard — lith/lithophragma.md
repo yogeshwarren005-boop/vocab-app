@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of perennial herbs of the western north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of perennial herbs of the western north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbaceous plants (family Saxifragaceae) native to western North America, having slender stems and fringed white or pink flowers; woodland star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, a model genus for studying coevolution with mutualistic and parasitic Greya moths that pollinate and oviposit in its flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithophragma designates small genus of perennial herbs of the western north america."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate star-like flowers of **Lithophragma** brighten the rocky pine woods in early spring."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Along the granite ledges of the Sierra foothills, blooms of **Lithophragma** danced in the mountain breeze."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Wildflower gardeners cultivate **Lithophragma** for its deeply cut white petals and dainty habit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hydrochoeridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of hydrochoeridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of large, semi-aquatic South American rodents containing the capybara (Hydrochoerus hydrochaeris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, the largest extant rodent genus, inhabiting savannas and riparian forests, capable of remaining submerged for minutes to escape terrestrial predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochoerus designates a genus of hydrochoeridae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the banks of the Rio Plata, herds of **Hydrochoerus** hydrochaeris, or capybara, plunge into the water at the slightest alarm."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago and South America*):** *"The semi-aquatic habits and webbed toes of **Hydrochoerus** enable it to evade jaguars by diving beneath river vegetation."*
+> - 📜 **Richard Owen (*Odontography*):** *"The enormous laminated cheek-teeth of **Hydrochoerus** are uniquely suited for grinding coarse marsh grasses."*

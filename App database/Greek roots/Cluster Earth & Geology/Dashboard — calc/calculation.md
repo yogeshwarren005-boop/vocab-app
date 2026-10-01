@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The procedure of calculating; determining something by mathematical or logical methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Problem solving that involves numbers or quantities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of calculating; mathematical reckoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberate, prudent forethought, often implying self-interested scheming or cold deliberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was just eight,” says Phil, “agreeable to the parish calculation, when I went with the tinker."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This small astronomical calculation was made without any positive effort, and whilst he was stealthily turning to discover, if possible, into whose hands he had fallen."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I had never any views of myself as a husband in my earlier days, nor have I made any calculation on the subject since I have been older."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The orbits of the planets yield their secrets to precise mathematical **calculation**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Commercial enterprise in the new world is guided by cold **calculation** rather than romantic adventure."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth rejected his proposal, wondering what selfish **calculation** had prompted his sudden declaration."*

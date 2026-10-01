@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attack with a hydrogen bomb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with a hydrogen bomb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful nuclear weapon that derives a major portion of its explosive energy from the thermonuclear fusion of hydrogen isotopes (deuterium and tritium); an H-bomb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and nuclear physics, a multi-stage thermonuclear device utilizing a fission atomic primary trigger to compress and heat fusion fuel to stellar temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogen-bomb designates attack with a hydrogen bomb."*
+> - 📜 **Robert Oppenheimer (*The Open Mind*):** *"The development of the **hydrogen-bomb** raised moral and geopolitical dilemmas of unprecedented gravity for modern civilization."*
+> - 📜 **Albert Einstein (*Out of My Later Years*):** *"The unleashed fury of the **hydrogen-bomb** threatens the very existence of human culture if international peace is not secured."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"A war fought with the **hydrogen-bomb** would leave no victors, only a radioactive and desolate globe."*

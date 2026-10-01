@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek potam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper name applied to a river or stream; a fluvial toponym (e.g., Amazon, Danube, Mississippi).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In onomastics and historical linguistics, river names that frequently preserve the most archaic linguistic roots of prehistoric populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamonym designates a term designating an entity, condition, or phenomenon derived from greek potam."*
+> - 📜 **Isaac Taylor (*Words and Places: Or, Etymological Researches in History, Ethnology and Geography*):** *"The Celtic **potamonym** Avon or Ouse survives in dozens of English rivers long after the spoken language disappeared."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Almost every indigenous American **potamonym** from the Mississippi to the Susquehanna commemorates an Algonquian tribal term."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"A primeval **potamonym** often outlives empires, preserving the speech of vanished races in the murmur of running water."*

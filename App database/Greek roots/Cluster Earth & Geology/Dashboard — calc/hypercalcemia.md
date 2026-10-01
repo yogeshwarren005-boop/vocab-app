@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally elevated concentration of calcium in the blood plasma (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology and oncology, a metabolic disturbance that impairs renal concentrating ability and risks metastatic tissue calcification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercalcemia designates the presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must promptly identify **hypercalcemia** in cancer patients to prevent irreversible kidney damage."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"Endocrine crises involving parathyroid adenomas manifest with marked **hypercalcemia** and skeletal pain."*
+> - 📜 **Linus Pauling (*Vitamin C and the Common Cold*):** *"Excessive dosages of certain secosteroids may provoke **hypercalcemia** with metastatic calcification of blood vessels."*

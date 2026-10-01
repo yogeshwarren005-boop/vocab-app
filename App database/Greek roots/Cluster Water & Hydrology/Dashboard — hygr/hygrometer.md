@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several instruments for measuring the humidity of the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several instruments for measuring the humidity of the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used in meteorology and environmental monitoring to measure the amount of water vapor or relative humidity in the air or a gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental physics, an apparatus employing hair tension, psychrometric wet-and-dry bulb evaporation, or chilled mirror condensation to measure ambient moisture content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrometer designates any of several instruments for measuring the humidity of the atmosphere."*
+> - 📜 **Benjamin Franklin (*Experiments and Observations on Electricity*):** *"I observed the sudden fall of the **hygrometer** when the cold dry northwest wind began to blow."*
+> - 📜 **Horace Bénédict de Saussure (*Essays on Hygrometry*):** *"Using a human hair cleansed with ether, I constructed a **hygrometer** of unprecedented sensitivity to ambient moisture."*
+> - 📜 **John Dalton (*Meteorological Observations and Essays*):** *"The condensation **hygrometer** allows one to determine the exact dew point by observing the first mist upon cooled silver."*

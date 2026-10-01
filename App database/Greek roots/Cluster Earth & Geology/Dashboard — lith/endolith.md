@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Earth & Geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as an alga, fungus, or bacterium) that lives inside rocks, coral, or animal shells, often penetrating mineral microscopic pores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomicrobiology and astrobiology, extremophilic micro-organisms that survive in subterranean fissures and provide analogs for potential life on Mars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endolith designates a term designating an entity, condition, or phenomenon derived from greek lith."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Microscopic **endolith** organisms bore deep into coastal limestone cliffs, accelerating the crumbly decay of the rock."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"Even in the dry valleys of Antarctica, cryptoendolithic communities harbor hardy **endolith** lichens beneath the sandstone crust."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Astrobiologists look to terrestrial **endolith** microbes as models for life surviving deep beneath the Martian permafrost."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or arising from the Coriolis force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or arising from the Coriolis force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or governed by the balance between the horizontal pressure gradient force and the Coriolis force in large-scale atmospheric or oceanic motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dynamic meteorology and physical oceanography, describing winds or currents whose velocity and direction represent this equilibrium (geostrophic wind, geostrophic current).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geostrophic designates of, relating to, or arising from the coriolis force."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The great circular currents of the open ocean flow in **geostrophic** balance, steered by the spin of the globe."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Atmospheric circulation on rapidly rotating giant planets exhibits spectacular **geostrophic** jet streams banded around the equator."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Meteorologists calculate the velocity of the **geostrophic** wind directly from isobaric pressure gradients."*

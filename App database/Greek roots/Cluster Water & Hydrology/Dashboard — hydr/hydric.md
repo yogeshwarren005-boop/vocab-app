@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by excessive moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by excessive moisture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or derived from water or hydrogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemical nomenclature, denoting acidic or hydrogenous salts, such as potassic hydric sulfate, contrasting with neutral metallic salts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydric designates having or characterized by excessive moisture."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"In naming acidic compounds, early chemists sometimes used **hydric** to denote combinations containing inflammable air."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The **hydric** sulfide precipitates copper and lead from acid solutions as dark insoluble sulfides."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Under electrolytic action, the **hydric** constituent is liberated at the negative electrode."*

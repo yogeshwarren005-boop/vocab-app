@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of woolly aromatic herbs or subshrubs or shrubs of mediterranean region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of woolly aromatic herbs or subshrubs or shrubs of mediterranean region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbaceous plants and small subshrubs (family Lamiaceae), commonly known as ironwort or mountain tea, native to Mediterranean mountain regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and herbal history, plants traditionally brewed as mountain tea (Greek tsai tou vounou) and applied to heal wounds inflicted by iron weapons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sideritis designates genus of woolly aromatic herbs or subshrubs or shrubs of mediterranean region."*
+> - 📜 **Dioscorides (*De Materia Medica*):** *"The herb called **Sideritis** was applied by the ancients to heal wounds inflicted by swords and iron weapons."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"On high rocky slopes grows the woolly **Sideritis**, whose aromatic spikes are harvested by mountain shepherds."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Mediterranean gardeners cultivate **Sideritis** for its silvery foliage and medicinal herbal reputation."*

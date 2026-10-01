@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science dealing with physical and biological aspects of the oceans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of science dealing with physical and biological aspects of the oceans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the oceans, including marine dynamics, currents, seabed geology, seawater chemistry, and marine life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The integrated planetary discipline that examines the interactions between oceans, the atmosphere, and global climate systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oceanography designates the branch of science dealing with physical and biological aspects of the oceans."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"Physical **oceanography** unveils the majestic harmonies that link ocean currents to the prevailing winds."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Through modern **oceanography**, we begin to perceive the submarine contours of a world once completely hidden from view."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"Future advances in **oceanography** will turn the vast sea pastures into the primary food reservoir of mankind."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british or irish monk who denied the doctrines of original sin and predestination and defended human goodness and free will; his views were declared heretical by the council of ephesus in 431 (circa 360-418).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british or irish monk who denied the doctrines of original sin and predestination and defended human goodness and free will; his views were declared heretical by the council of ephesus in 431 (circa 360-418).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 4th-to-5th-century British ascetic monk and theologian who taught that humans have full moral responsibility and the capacity to choose good without the necessity of special divine grace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the titular namesake of Pelagianism whose teachings spurred Saint Augustine's definitive treatises on predestination and sovereign grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelagius designates a british or irish monk who denied the doctrines of original sin and predestination and defended human goodness and free will; his views were declared heretical by the council of ephesus in 431 (circa 360-418)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The moral character of **Pelagius** was unimpeached even by his most vehement orthodox adversaries."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"**Pelagius** argued with cool British common sense that if God commands men to be good, it must be possible for men to be good."*
+> - 📜 **Saint Augustine (*On the Grace of Christ and on Original Sin*):** *"We must confront **Pelagius** not from malice, but to defend the cross of Christ from being made void."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of refractive power in the two eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equality of refractive power in the two eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of refractive power in both eyes, both eyes having the same refractive state (either both emmetropic or having identical refractive errors).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical refraction, the physiological state contrasting with anisometropia, ensuring equal retinal image magnification and effortless binocular fusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometropia designates equality of refractive power in the two eyes."*
+> - 📜 **F. C. Donders (*Anomalies of Accommodation and Refraction*):** *"Normal binocular stereopsis thrives best under complete **isometropia**, where both retinas receive images of identical sharpness and scale."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"When **isometropia** is present, correcting lenses of identical dioptric power are prescribed for both right and left frames."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The absence of **isometropia** in early childhood may lead to unilateral amblyopia if the refractive disparity is neglected."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the wealthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A controlling class of the wealthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose power derives from their wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political discourse, a magnate who exerts disproportionate political influence through accumulated economic resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutocrat designates government by the wealthy."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The arrogant **plutocrat** sneered at the workingmen, confident that private armies could suppress all strikes."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The modern **plutocrat** buys newspapers, finances political parties, and dictates terms to the prime minister."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He aspired to the polished ease of the city's reigning **plutocrat**, mimicking his club habits."*

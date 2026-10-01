@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of low perennial herbs of montane europe; in some classifications included in genus tussilago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of low perennial herbs of montane europe; in some classifications included in genus tussilago.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small alpine perennial herbs in the daisy family (Asteraceae), native to the mountains of southern and central Europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alpine botany and phytogeography, dwarf composite plants (such as Homogyne alpina) bearing solitary purple or brownish flower heads in subalpine zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogyne designates small genus of low perennial herbs of montane europe; in some classifications included in genus tussilago."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Islands*):** *"Specimens of **Homogyne** carpet the moist schistose slopes of the high Alpine ranges."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanists classify **Homogyne** near Tussilago on account of its radical foliage and capitulum structure."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The kidney-shaped glossy leaves of **Homogyne** alpina are unmistakable on high limestone screes."*

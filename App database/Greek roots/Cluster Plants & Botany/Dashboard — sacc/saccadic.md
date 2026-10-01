@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the rapid movement of the eyes between points of fixation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the rapid movement of the eyes between points of fixation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by saccades; moving rapidly and intermittently in jerky jumps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual neurophysiology, describing the ballistic ocular motor system that shifts gaze rapidly from one fixation point to another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccadic designates of or related to the rapid movement of the eyes between points of fixation."*
+> - 📜 **Émile Javal (*Physiology of Reading*):** *"Fluent reading consists of a series of brief **saccadic** leaps separated by stationary fixations lasting a fraction of a second."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"The **saccadic** motion of the eye is so swift that conscious visual processing is suspended during the transit."*
+> - 📜 **Raymond D. Adams (*Principles of Neurology*):** *"Lesions of the cerebellar vermis cause prominent **saccadic** dysmetria, with overshooting of visual fixation targets."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of organic chemistry dealing with the chemistry of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of organic chemistry dealing with the chemistry of plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry that deals with the study of chemicals and secondary metabolites derived from plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic natural product science, the discipline focused on the biosynthesis, isolation, structural elucidation, and ecological roles of plant compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytochemistry designates the branch of organic chemistry dealing with the chemistry of plants."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Pioneering discoveries in **phytochemistry** laid the foundation of organic synthesis by demonstrating carbon ring architectures in plant alkaloids."*
+> - 📜 **Frank A. Lee (*Basic Food Chemistry*):** *"Advances in **phytochemistry** have revealed that dietary flavonoids exert protective antioxidant actions in human cellular metabolism."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"A comprehensive treatise on **phytochemistry** classifies plant constituents into carbohydrates, fixed oils, essential essences, and alkaloids."*

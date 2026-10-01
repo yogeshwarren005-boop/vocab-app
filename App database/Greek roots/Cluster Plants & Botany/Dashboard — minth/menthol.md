@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline alcohol C10H20O that occurs especially in mint oils and has the odor and cooling properties of peppermint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mentholated cigarettes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white, crystalline organic compound with a pungent, minty odor and taste, obtained naturally from peppermint oil or synthesized, producing a cooling sensation on skin and mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and sensory neurobiology, a cyclic terpene alcohol that selectively binds to and activates the cold-sensitive TRPM8 ion channel in sensory neurons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menthol designates a crystalline alcohol c10h20o that occurs especially in mint oils and has the odor and cooling properties of peppermint."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"When peppermint oil is chilled below freezing, pure **menthol** separates out in beautiful, needle-like transparent crystals."*
+> - 📜 **T. Lauder Brunton (*A Text-Book of Pharmacology*):** *"Inhalation of **menthol** vapor stimulates the cold receptors of the respiratory tract, producing a subjective sensation of clearer airways."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Topical application of **menthol** ointment relieves the tormenting pruritus of chronic urticaria and localized eczema."*

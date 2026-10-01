@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the care of babies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the care of babies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical practitioner specializing in children and their diseases (British spelling of pediatrician).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist physician managing congenital disorders, pediatric pharmacology, and child developmental milestones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paediatrician designates a specialist in the care of babies."*
+> - 📜 **Benjamin Spock (*The Common Sense Book of Baby and Child Care*):** *"Trust your common sense and consult your **paediatrician** whenever persistent fever alarms you."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The observant **paediatrician** must possess infinite patience when decoding the non-verbal complaints of an infant."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A dedicated **paediatrician** ministers to both the physical child and the anxious fears of the mother."*

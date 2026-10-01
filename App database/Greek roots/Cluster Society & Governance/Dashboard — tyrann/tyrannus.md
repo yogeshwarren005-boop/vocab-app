@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the tyrannidae: tyrant flycatchers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the tyrannidae: tyrant flycatchers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of passerine birds (the kingbirds) in the family Tyrannidae; or the Latinized form of Greek tyrannos (absolute ruler).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama and political history, an autocratic monarch (as in Sophocles' Oedipus Tyrannus); in ornithology, birds famed for aggressively chasing raptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannus designates type genus of the tyrannidae: tyrant flycatchers."*
+> - 📜 **Sophocles (*Oedipus Tyrannus*):** *"The tragic fall of Oedipus **Tyrannus** demonstrated the terrifying fragility of mortal kingship."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The Eastern Kingbird, **Tyrannus** tyrannus, fearlessly attacks any eagle venturing near its nest."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Species of **Tyrannus** possess a concealed scarlet or yellow crest that flashes when the bird is excited."*

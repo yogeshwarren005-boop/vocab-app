@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) feeding on plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) feeding on plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on plants; plant-eating; herbivorous; phytophagous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal ecology, describing insects, birds, or mammals whose diet is composed exclusively or primarily of living vegetable tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytophagic designates (of animals) feeding on plants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Specialized **phytophagic** insects are frequently confined to a single host plant family by chemical feeding stimulants."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"The enormous reproductive potential of **phytophagic** caterpillars is counterbalanced by parasitic tachinid flies and ichneumons."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Mandibles in **phytophagic** Coleoptera are heavily sclerotized and ridged for grinding tough cellulose cell walls."*

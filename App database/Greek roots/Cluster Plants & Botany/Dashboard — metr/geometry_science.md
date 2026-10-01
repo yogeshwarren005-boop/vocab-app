@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek metr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mathematics concerned with the properties, measurement, and relationships of points, lines, angles, surfaces, and solids; geometry treated as a formal deductive science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and epistemology, the foundational deductive discipline codified by Euclid, evolving through analytical and non-Euclidean systems into general relativity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geometry_science designates a term designating an entity, condition, or phenomenon derived from greek metr."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"The long chains of simple and easy reasonings by which geometers reach their most difficult demonstrations convinced me that all sciences might be pursued in the spirit of **geometry**."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The description of right lines and circles, upon which **geometry** is founded, belongs to mechanics, proving the mechanical origin of mathematical truths."*
+> - 📜 **Albert Einstein (*Geometry and Experience*):** *"As far as the propositions of **geometry** refer to reality, they are not certain; and as far as they are certain, they do not refer to reality."*

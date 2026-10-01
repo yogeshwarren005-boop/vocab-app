@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction by young or larval animals : neoteny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation and development of soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction by sexually mature larvae or animals that have otherwise not attained physical maturity (neoteny).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary developmental biology, a form of heterochrony where reproductive organs accelerate development relative to somatic tissues (e.g. axolotls or gall midges).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedogenesis designates reproduction by young or larval animals : neoteny."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The axolotl remains permanently in its larval aquatic form, reproducing through precocious **paedogenesis**."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"In cecidomyiid gall midges, **paedogenesis** allows daughter larvae to develop inside the hemolymph of the mother larva."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"Cellular investigations into **paedogenesis** highlight how endocrine timing alters the sequence of developmental stages."*

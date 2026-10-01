@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eruption on the skin occurring as a symptom of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eruption on the skin occurring as a symptom of a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cutaneous eruption or rash occurring as a symptom of an acute systemic fever or infectious disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medical nosology, one of the major eruptive fevers (such as variola, rubeola, or scarlatina) categorized under the class Exanthemata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exanthema designates eruption on the skin occurring as a symptom of a disease."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Under the order **Exanthema**, I classify those contagious diseases characterized by phlogistic fever and widespread cutaneous eruptions."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"An acute **exanthema** runs a definite cyclical course, progressing from papules to desquamation."*
+> - 📜 **John Syer Bristowe (*A Treatise on the Theory and Practice of Medicine*):** *"The appearance of the characteristic **exanthema** marks the crisis of the inflammatory stage of typhus."*

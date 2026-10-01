@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a symmetrical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a symmetrical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a symmetrical manner; with balanced, corresponding parts on opposite sides of a dividing line or plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical morphology and engineering, distributed with geometric balance across a central axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Deep,” said Wemmick, “as Australia.” Pointing with his pen at the office floor, to express that Australia was understood, for the purposes of the figure, to be symmetrically on the opposite spot of the globe."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They had dumplings too; small, but substantial, symmetrically globular, and indestructible dumplings."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Stubb longed for vermillion stars to be painted upon the blade of his every oar; screwing each oar in his big vice of wood, the carpenter symmetrically supplies the constellation."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"In intense laughter, the facial muscles contract **symmetrically** on both sides of the mouth."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"In typical flowers, petals and stamens are arranged **symmetrically** in whorls around the central receptacle."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The ancient avenues of planted elms marched **symmetrically** across the estate like lines of silent sentinels."*

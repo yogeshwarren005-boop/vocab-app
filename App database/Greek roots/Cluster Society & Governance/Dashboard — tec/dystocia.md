@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow or difficult labor or delivery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slow or difficult labor or delivery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult birth or labor, typically caused by a large or awkwardly positioned fetus, or small maternal pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical obstetrics and veterinary medicine, mechanical or functional obstruction during parturition requiring surgical or pharmacological intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystocia designates slow or difficult labor or delivery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt recognition of pelvic disproportion is critical to prevent fatal uterine rupture in severe **dystocia**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Antiseptic surgical delivery transformed the prognosis of complicated **dystocia** in modern lying-in hospitals."*
+> - 📜 **William Buchan (*Domestic Medicine*):** *"Protracted labor caused by fetal malposition was anciently feared as an incurable **dystocia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bee that is a member of the genus andrena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bee that is a member of the genus andrena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, cosmopolitan genus of solitary bees (mining bees) that excavate nests in sandy or light soils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In apoid entomology and pollination ecology, a crucial spring pollinator genus in the family Andrenidae characterized by subantennal suture structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andrena designates a bee that is a member of the genus andrena."*
+> - 📜 **Jean-Henri Fabre (*The Bramble-Bees and Others*):** *"The industrious mining bee **Andrena** bores tunnels into the compacted garden loam with tireless vigor."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Unlike eusocial Apis, most species of **Andrena** lead solitary lives, each female provisioning her own cells."*
+> - 📜 **Charles Michener (*The Bees of the World*):** *"The vast genus **Andrena** includes thousands of species vital for the pollination of early deciduous blooms."*

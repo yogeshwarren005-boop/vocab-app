@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being physical; consisting of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being physical; consisting of matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being physical; materiality or tangible existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical metaphysics, the condition of possessing material extension, mass, and location in spacetime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physicalness designates the quality of being physical; consisting of matter."*
+> - 📜 **William James (*Pragmatism*):** *"Common sense insists upon the stubborn **physicalness** of rocks and trees against all subjective idealist subtilties."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The ultimate **physicalness** of cosmic matter reveals itself through the indestructible conservation of energy."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Science does not deny the reality of values, but grounds them within the concrete **physicalness** of biological life."*

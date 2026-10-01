@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek staphyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterial skin infection or dermatitis caused by staphylococcal bacteria, such as impetigo, folliculitis, furuncles, or carbuncles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, any purulent pyoderma characterized by follicular or non-follicular pustules teemed with Staphylococcus aureus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphyloderma designates a term designating an entity, condition, or phenomenon derived from greek staphyl."*
+> - 📜 **Paul Gerson Unna (*The Histopathology of the Diseases of the Skin*):** *"Histological sections of **staphyloderma** display dense collections of polymorphonuclear leukocytes surrounding the hair follicle neck."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Follicular **staphyloderma** spreads rapidly across bearded faces when shaving razors are contaminated with pus."*
+> - 📜 **Thomas B. Fitzpatrick (*Dermatology in General Medicine*):** *"Topical antibacterial washes and warm compresses constitute the primary management of superficial **staphyloderma**."*

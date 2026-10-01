@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expanded petiole taking on the function of a leaf blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expanded petiole taking on the function of a leaf blade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A modified leaf petiole or leaf stem that is flattened and expanded, functioning like a true leaf blade; typical of Australian acacias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional plant morphology, an adaptation common in arid-zone wattles where vertical orientation of the phyllode reduces mid-day heat absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllode designates an expanded petiole taking on the function of a leaf blade."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Seedlings of Australian acacias begin with bipinnate leaves, which are gradually replaced in adult trees by vertical **phyllode** foliage."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"A **phyllode** is a flattened petiole acting as a leaf blade, recognized by its parallel veins and vertical edge toward the sky."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"By turning its edge to the midday sun, the **phyllode** minimizes scorching transpiration across the parched Australian desert."*

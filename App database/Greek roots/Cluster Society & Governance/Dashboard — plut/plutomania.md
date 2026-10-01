@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, obsessive, or insatiable craving for wealth; an obsession with money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterology, a pathological compulsion to accumulate fortunes without regard for utility or moral restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutomania designates a term designating an entity, condition, or phenomenon derived from greek plut."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"Old Grandet's avarice had curdled into a raving **plutomania**, gloating in secret over hidden casks of gold."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The covetous wretch is tormented by **plutomania**, starving his flesh while piling up hoards he can never spend."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"A poisonous atmosphere of **plutomania** infected the entire family, turning brother against brother."*

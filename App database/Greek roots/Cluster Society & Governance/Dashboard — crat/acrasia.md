@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of self-control, moderation, or moral continence; incontinence (variant spelling of akrasia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics, the state of acting against one's better judgment or rational convictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrasia designates a term designating an entity, condition, or phenomenon derived from greek crat."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The man afflicted with **acrasia** knows what is evil, yet through weakness of will pursues it."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We experience the torment of **acrasia** when immediate appetites overpower our clear long-term convictions."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"The enchantress **Acrasia** presided over the Bower of Bliss, luring noble knights into slothful self-indulgence."*

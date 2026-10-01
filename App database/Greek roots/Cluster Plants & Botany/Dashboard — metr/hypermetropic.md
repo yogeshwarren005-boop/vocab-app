@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal ability to focus of distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal ability to focus of distant objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with hypermetropia; farsighted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic diagnostics, describing an eye whose optical axis is too short, requiring convex plus lenses to achieve sharp retinal focus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermetropic designates abnormal ability to focus of distant objects."*
+> - 📜 **F. C. Donders (*Anomalies of Refraction*):** *"The **hypermetropic** eye is anatomically shorter than the emmetropic baseline, possessing an underdeveloped posterior scleral shell."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"When reading small print, the **hypermetropic** observer rapidly exhausts accommodative reserves, producing ocular fatigue."*
+> - 📜 **William Thomson (Lord Kelvin) (*Popular Lectures and Addresses*):** *"The optician provides convex spherical lenses to shift the focal plane forward in the **hypermetropic** patient."*

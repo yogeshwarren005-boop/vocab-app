@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of foreign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of foreign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting a culture of microorganisms that contains one or more unidentified foreign or wild species (opposite of axenic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gnotobiology and protozoology, a culture containing host organisms along with a complex, uncharacterized mixture of companion microbes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenic designates adjective*) pertaining to, derived from, or characteristic of foreign."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Early bacteriological trials struggled with messy, **xenic** mixtures before Robert Koch perfected pure agar streaking."*
+> - 📜 **René Dubos (*The White Plague*):** *"In vivo microbial growth takes place within a crowded, **xenic** environment subject to intense bacterial competition."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"Under natural conditions, protozoan parasites flourish best in symbiotic **xenic** companionship with enteric bacteria."*

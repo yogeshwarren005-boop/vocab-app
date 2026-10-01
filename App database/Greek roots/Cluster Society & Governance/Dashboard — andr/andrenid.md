@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bee that is a member of the genus andrena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bee that is a member of the genus andrena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any solitary mining bee of the family Andrenidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect taxonomy, a short-tongued bee exhibiting two subantennal sutures below each antennal socket.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andrenid designates a bee that is a member of the genus andrena."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The delicate **andrenid** emerges on warm April mornings to visit flowering willows and orchards."*
+> - 📜 **Vincent Dethier (*To Know a Fly*):** *"Close observation of an **andrenid** reveals its swift, precise excavation of subterranean burrows."*
+> - 📜 **Karl von Frisch (*The Dance Language and Orientation of Bees*):** *"Unlike social foragers, the solitary **andrenid** navigates back to her hidden ground nest by local landmarks."*

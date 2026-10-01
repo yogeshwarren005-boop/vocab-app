@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pipits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pipits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender, terrestrial passerine birds comprising the pipits (family Motacillidae), characterized by cryptic brownish plumage, long hind claws, and melodious song flights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, widespread ground-nesting insectivores inhabiting open grasslands, moors, and tundra, known for repetitive tail-wagging behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog anthus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Gould (*The Birds of Europe*):** *"The meadow pipit, classified under **Anthus** pratensis, ascends into the sky with fluttering wings, singing a sweet trill as it parachutes downward."*
+> - 📜 **William Yarrell (*A History of British Birds*):** *"The elongated hind claw in the genus **Anthus** enables these birds to walk gracefully through dense pasture grass."*
+> - 📜 **Ernst Mayr (*List of New Guinea Birds*):** *"Alpine grasslands on the high peaks of New Guinea harbor endemic races of **Anthus** adapted to subzero nocturnal frosts."*

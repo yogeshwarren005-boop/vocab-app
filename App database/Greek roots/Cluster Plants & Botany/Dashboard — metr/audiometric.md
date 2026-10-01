@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to audiometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to audiometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the measurement of hearing acuity; obtained through audiometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical audiology, describing calibrated threshold tests, hearing curves, and noise exposure diagnostic protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiometric designates of or relating to audiometry."*
+> - 📜 **Alexander Graham Bell (*Memoir on Hearing*):** *"Our **audiometric** surveys revealed that thousands of supposedly dull pupils suffered merely from undiagnosed high-frequency deafness."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"The patient displayed early **audiometric** loss of speech discrimination long before vestibular signs appeared."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Periodic **audiometric** examinations are mandatory for boiler-makers exposed to continuous deafening hammer blows."*

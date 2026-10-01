@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of pain and turmoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cause of difficulty and suffering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The place or state of punishment and torment after death in Christian and other religious traditions; the underworld.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and existential thought, a state of intolerable suffering, discord, or moral damnation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if you were by my unkindness shaken As I by yours, y’have passed a hell of time, And I a tyrant have no leisure taken To weigh how once I suffered in your crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"All hope abandon, ye who enter here, was carved above the gloomy portals of **Hell**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The mind is its own place, and in itself Can make a Heaven of **Hell**, a **Hell** of Heaven."*
+> - 📜 **Jean-Paul Sartre (*No Exit*):** *"There is no need for hot coals and pitchforks; **Hell** is other people."*

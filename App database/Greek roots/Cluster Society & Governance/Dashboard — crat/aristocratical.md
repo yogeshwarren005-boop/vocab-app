@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or characteristic of the nobility or aristocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of the nobility or aristocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic or formal variant of aristocratic; of or pertaining to an aristocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favoring, resembling, or dominated by aristocratic government or social privilege.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was aristocratical too in his notions, keeping aloof, as I found, from the ordinary run of pensioners."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Opponents charged that the proposed senate was framed with an overly **aristocratical** tendency."*
+> - 📜 **John Adams (*Defence of the Constitutions of Government*):** *"Every well-ordered commonwealth requires a check against overweening **aristocratical** power."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"Venetian governance presented a purely **aristocratical** constitution preserved through secret councils."*

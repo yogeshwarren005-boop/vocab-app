@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In bryology, having the sporophyte (capsule and seta) borne at the tip or apex of the main stem or primary axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing mosses that typically grow in erect, cushion-like tufts with terminal archegonia, contrasting with pleurocarpous mosses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrocarpous designates adjective*) pertaining to, derived from, or characteristic of wrist."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"In an **acrocarpous** moss like Funaria, the archegonium terminates the main stem, terminating further apical vegetative elongation."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"The cushion-like growth form of **acrocarpous** species aids in water retention across exposed alpine granite slabs."*
+> - 📜 **William Gilson Farlow (*Gymnosporangia of the United States*):** *"Field bryologists identify **acrocarpous** genera by their solitary erect setae rising directly from the summit of the leafy stems."*

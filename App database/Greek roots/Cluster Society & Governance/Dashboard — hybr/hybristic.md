@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wantonness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wantonness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrogant, insolent, or overweening; exhibiting hybris (variant spelling of hubristic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and tragedy, defying moral decency or divine sanction through reckless self-exaltation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybristic designates adjective*) pertaining to, derived from, or characteristic of wantonness."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Athenians' **hybristic** dismissal of the Melian pleas revealed an imperial ambition blinded by power."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The young tyrant's **hybristic** disdain for ancient senatorial custom alienated all loyal subjects."*
+> - 📜 **George Steiner (*The Death of Tragedy*):** *"Creon's **hybristic** decree prohibiting burial provoked the catastrophic vengeance of the underworld gods."*

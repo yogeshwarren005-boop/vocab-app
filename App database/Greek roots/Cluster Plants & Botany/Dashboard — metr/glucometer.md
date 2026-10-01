@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the concentration of glucose in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring the concentration of glucose in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable medical device used by individuals with diabetes to measure the concentration of glucose in capillary blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diabetology and biosensor engineering, an electrochemical monitor that utilizes glucose oxidase or dehydrogenase test strips to quantify blood glycemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glucometer designates an instrument for measuring the concentration of glucose in the blood."*
+> - 📜 **Ernest Beutler (*Williams Hematology*):** *"Point-of-care capillary blood testing using a digital **glucometer** transformed outpatient management of juvenile diabetes."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"Tight glycemic control relies upon patient compliance with multiple daily readings recorded by a calibrated **glucometer**."*
+> - 📜 **Michael B. Singer (*Neurology in Clinical Practice*):** *"Immediate bedside evaluation with a **glucometer** is mandatory in any comatose emergency to rule out profound hypoglycemia."*

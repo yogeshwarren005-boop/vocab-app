@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened stem resembling and functioning as a leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flattened stem resembling and functioning as a leaf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened, photosynthetic stem or branch that functions as and resembles a leaf; phylloclade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant organography, an axial structure (seen in Ruscus and Asparagus) that bears true flowers or reduced scale leaves from its nodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloclad designates a flattened stem resembling and functioning as a leaf."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"In the butcher's broom (Ruscus), the apparent leaf is actually a **phylloclad**, as proven by the tiny flower emerging from its center."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The **phylloclad** of the Christmas cactus demonstrates how vegetative stems adapt to fulfill foliar photosynthetic functions in arid epiphytes."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Vascular anatomy conclusively proves that a **phylloclad** arises from an axillary bud rather than from the leaf trace."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling anthracite coal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling anthracite coal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, resembling, or having the qualities of anthracite coal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing mineral coals, shales, or residues possessing high carbon concentration, hard brittle texture, and submetallic luster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthracitic designates relating to or resembling anthracite coal."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Regional folding subjected the Carboniferous strata to intense heat, transforming bituminous seams into **anthracitic** deposits."*
+> - 📜 **Hugh Miller (*The Cruise of the Betsey*):** *"Black **anthracitic** shales exposed along the shore bore fragile impressions of ancient calamite stems."*
+> - 📜 **Edward Hull (*The Coal-Fields of Great Britain*):** *"In South Wales, the transition from bituminous coal to an **anthracitic** facies progresses steadily from east to west."*

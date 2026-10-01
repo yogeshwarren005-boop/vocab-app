@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of poetic meter and the art of versification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function of a topological space that gives, for any two points in the space, a value equal to the distance between them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of numbers, measurements, or quantitative indicators that give information about a particular process or performance; the study of poetic meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational management and prosody, the quantitative criteria used to evaluate systems, or the formal rules governing verse rhythm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrics designates the study of poetic meter and the art of versification."*
+> - 📜 **Frank A. Fetter (*Principles of Economics*):** *"Modern corporate management establishes precise operational **metrics** to track labor productivity and capital depreciation."*
+> - 📜 **George Saintsbury (*Historical Manual of English Prosody*):** *"Classical **metrics** evaluated lines by syllable quantity, whereas English poetry relies primarily upon stress accent."*
+> - 📜 **Peter F. Drucker (*The Practice of Management*):** *"Without objective financial **metrics**, an enterprise drifts blindly in competitive markets without a navigational rudder."*

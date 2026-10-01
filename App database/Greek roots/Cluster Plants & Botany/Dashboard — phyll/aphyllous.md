@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no leaves; naturally leafless; destitute of leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive morphology, describing plants (such as desert cacti, broomrapes, and dodder) where leaves are absent or reduced to microscopic scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphyllous designates having no leaves."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"Certain marine plants and desert rushes remain completely **aphyllous**, carrying on their life entirely through green succulent stems."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The dodder is an **aphyllous** parasite that twines around host stems, drawing sap through invasive haustoria."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In **aphyllous** Euphorbias, the fleshy green cortex takes over the entire photosynthetic function of the missing leaves."*

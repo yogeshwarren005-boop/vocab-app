@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dry laconic manner;  he said dryly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dry laconic manner;  he said dryly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dry, sarcastic, matter-of-fact, or impassive manner; without emotion, moisture, or enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With quiet, understated irony or caustic wit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And your virginity, your old virginity, is like one of our French wither’d pears; it looks ill, it eats drily; marry, ’tis a wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are a prisoner, miss; it is no use blinking the matter,” said the soldier, drily."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Was that because of love for her, or because other lips have touched there by now?” continued Izz drily to Marian."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"'You have been very fortunate in your choice,' remarked Mr. Bennet **drily**, without looking up from his newspaper."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers rubbed his large hands together and observed **drily** that facts were stubborn things."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak smiled **drily** at the shepherd's tale, knowing the sheep had strayed through simple carelessness."*

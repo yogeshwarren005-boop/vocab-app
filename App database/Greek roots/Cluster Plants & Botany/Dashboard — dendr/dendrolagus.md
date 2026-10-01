@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree wallabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree wallabies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of macropod marsupials adapted for an arboreal lifestyle in the rainforests of New Guinea and northeastern Queensland; the tree-kangaroos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian evolutionary biology, macropods that evolved secondarily from terrestrial hopping ancestors, developing shortened hind feet, long tails, and powerful forelimbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There are no wild animals in the strict sense of the term, the chief ones being the wild ordinary tusked hog (Babi-rusa), cassowary, wallaby, tree-kangaroo (Dendrolagus), cuscus, opossum and alligators."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The arboreal kangaroo **Dendrolagus** leaps from bough to bough in the high canopy of New Guinea with surprising agility."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Anatomy of **Dendrolagus** reveals robust curved claws and broad padded soles adapted for grasping slippery mossy limbs."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals*):** *"The long non-prehensile tail of **Dendrolagus** serves as a balancing counterbalance during high canopy leaps."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dog fennel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dog fennel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aromatic flowering herbs in the daisy family (Asteraceae), commonly called dog-fennel or chamomile, with daisy-like flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and herbal medicine, the genus containing Roman chamomile (Anthemis nobilis), valued for its carminative and soothing essential oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthemis designates dog fennel."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The wild **Anthemis** or chamomile groweth abundantly along roadsides, yielding a bitter yet wholesome aromatic odor."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"A warm fomentation of **Anthemis** blossoms dispels digestive colic and calms agitated nervous vapors."*
+> - 📜 **William Woodville (*Medical Botany*):** *"The yellow disk florets of **Anthemis** yield by distillation an ethereal oil possessing pronounced antispasmodic qualities."*

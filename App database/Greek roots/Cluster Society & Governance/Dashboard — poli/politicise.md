@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a political character to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a political character to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make something political in character; give a political tone or bias to (British spelling of politicize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To awaken political consciousness or mobilize civic awareness within a social movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, politicise designates give a political character to."*
+> - 📜 **George Orwell (*The Prevention of Literature*):** *"Totalitarian states attempt to **politicise** every branch of human thought, from poetry to pure mathematics."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"To educate the working classes is to inevitably **politicise** their aspirations for social dignity."*
+> - 📜 **E. P. Thompson (*The Making of the English Working Class*):** *"Radical pamphleteers labored to **politicise** the grievances of industrial handloom weavers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of annual herbs in the mint family (Lamiaceae), commonly known as thornmints, endemic to California and northern Baja California.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation botany, rare native plants adapted to vernal pools and vertisol clay soils, characterized by spiny-toothed floral bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acanthomintha designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **Edward Lee Greene (*Manual of the Botany of San Francisco Bay*):** *"The genus **Acanthomintha** is well distinguished from Calamintha by its pectinate-spiny bracts and two fertile stamens."*
+> - 📜 **Philip A. Munz (*A California Flora*):** *"San Diego thornmint (**Acanthomintha** ilicifolia) is severely threatened by urban encroachment upon clay lens habitats."*
+> - 📜 **Willis Linn Jepson (*A Flora of Western Middle California*):** *"In dry adobe fields in late spring, the white and rose corollas of **Acanthomintha** gleam among armed calyces."*

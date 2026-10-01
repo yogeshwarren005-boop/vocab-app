@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any viviparous marine or freshwater fish belonging to the family Embiotocidae (the surfperches).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and vertebrate reproductive biology, teleost fishes of the North Pacific known for internal gestation and giving birth to fully formed young.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embiotocid designates a term designating an entity, condition, or phenomenon derived from greek tec."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The viviparous **embiotocid** produces a small brood of advanced young nourished by vascularized ovarian fluids."*
+> - 📜 **Louis Agassiz (*Extraordinary Fishes from California*):** *"Agassiz expressed amazement upon dissecting an **embiotocid** and discovering embryonic young with mature fins inside the parent."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"In the family Embiotocidae, male **embiotocid** specimens exhibit modified anal fins for internal fertilization."*

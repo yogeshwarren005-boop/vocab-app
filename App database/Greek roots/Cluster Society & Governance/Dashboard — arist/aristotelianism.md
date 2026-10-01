@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophy of aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophy of aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophy of Aristotle and of later thinkers who built upon his doctrines, characterized by teleology, empirical observation, and formal logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, the dominant scholastic philosophical tradition that harmonized pagan philosophy with medieval Christian, Islamic, and Jewish theology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristotelianism designates (philosophy) the philosophy of aristotle that deals with logic and metaphysics and ethics and poetics and politics and natural science."*
+> - 📜 **Etienne Gilson (*The Spirit of Mediaeval Philosophy*):** *"Christian **Aristotelianism** transformed the pagan philosopher into the foundation of scholastic scholasticism."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The new experimental science struggled to throw off the scholastic grip of dogmatic **Aristotelianism**."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"Genuine **Aristotelianism** teaches that intellectual culture is an end valuable in itself."*

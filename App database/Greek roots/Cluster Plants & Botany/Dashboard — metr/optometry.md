@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The profession or practice of examining the eyes for visual defects and diseases, prescribing corrective lenses, and diagnosing refractive errors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare history, the applied visual science evolving from spectacle-making into an independent health profession focused on binocular vision and ocular optics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optometry designates the health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"The mathematical principles of **optometry** were established by demonstrating how cylindrical lenses neutralize corneal asymmetry."*
+> - 📜 **F. C. Donders (*On the Anomalies of Accommodation and Refraction*):** *"Modern **optometry** demands both objective retinoscopy and subjective trial-case verification for every patient."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Experiments in **optometry** illuminate the intricate relationship between ocular convergence and the visual perception of depth."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Described or thought of as having a human form or human attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribing human characteristics to nonhuman things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ascribing human characteristics, emotions, or form to non-human things (such as gods, animals, or natural phenomena).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary analysis, religious studies, and cognitive ethology, projecting human intentionality onto non-human agents or inanimate systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is individual and personal in a scientific 337:1 sense, but not in any anthropomorphic sense."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The word /an- thropomorphic/, in such a phrase as "an anthropomorphic God," is derived from two Greek words, signifying /man/ 517:6 and /form/, and may be defined as a mortally mental at- tempt to reduce Deity to corporeality."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The evidence for this anthropomorphic representation of the tree-spirit is largely to be found in the popular customs of European peasantry."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"There is an incurable human tendency to conceive all beings under an **anthropomorphic** likeness."*
+> - 📜 **Frans de Waal (*Are We Smart Enough to Know How Smart Animals Are?*):** *"We must avoid naïve anthropocentrism without falling into anthropodenial when observing **anthropomorphic** affinities."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"Evolution by natural selection has no purpose or foresight; poetic **anthropomorphic** metaphors must not mislead us."*

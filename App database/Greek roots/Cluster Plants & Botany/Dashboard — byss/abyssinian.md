@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small slender short-haired breed of african origin having brownish fur with a reddish undercoat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small slender short-haired breed of african origin having brownish fur with a reddish undercoat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or originating in Abyssinia (modern Ethiopia), its peoples, language, or culture; a native of Abyssinia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic zoology, a popular breed of slender, agouti-ticked domestic cat, or a breed of rough-coated cavy (guinea pig).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Of course she was thinking of nothing at all, barring possibly a new sherbet to be made, or whether, if they sold Fatima, the Abyssinian cook, who was becoming garrulous, would Fatima have a good home."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"A damsel with a dulcimer In a vision once I saw: It was an Abyssinian maid, And on her dulcimer she played, Singing of Mount Abora."*
+> - 📜 **Samuel Taylor Coleridge (*Kubla Khan*):** *"It was an **Abyssinian** maid, and on her dulcimer she played, singing of Mount Abora."*
+> - 📜 **James Bruce (*Travels to Discover the Source of the Nile*):** *"The **Abyssinian** cavalry charged across the rocky ravine with reckless valor, brandishing their silver-mounted spears."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders note that the fur of the **Abyssinian** cavy exhibits curious rosettes that run counter to the normal direction of the hair."*

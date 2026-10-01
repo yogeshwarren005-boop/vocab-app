@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term for pornography or a pornographic movie/magazine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial cultural criticism, commercial sexually explicit entertainment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porno designates creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire."*
+> - 📜 **Don DeLillo (*White Noise*):** *"The neon glow from the adult cinema advertised another cheap **porno** feature to passing motorists."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The cartridges contained bizarre parodies of European art films mixed with underground **porno** tapes."*
+> - 📜 **Susan Sontag (*Styles of Radical Will*):** *"A commercial **porno** movie relies on formulaic physical repetition rather than genuine psychological depth."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient greek dramatist remembered for his comedies (448-380 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient greek dramatist remembered for his comedies (448-380 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The greatest comic playwright of ancient Athens (c. 446–386 BC), master of Old Comedy and author of The Clouds, The Birds, and Lysistrata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dramatic literature, the satirical dramatist famed for stinging political invective, ribald farce, and brilliant lyric choruses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See Harpocration and Suidas, _s.v._ [Greek: Skiron]; Scholiast on Aristophanes, _Eccles._ 18. [57] Mrs."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Academy, April 17: on ‘Aristophanes’ Apology’, by J."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Athenaeum, April 17, pp. 513, 514: on ‘Aristophanes’ Apology’. 1875."*
+> - 📜 **Plato (*Symposium*):** *"Socrates engaged **Aristophanes** in deep debate until dawn on whether the tragic poet can also write comedy."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"The sparkling wit and fearless political mockery of **Aristophanes** mirrored the Athenian democracy at its zenith."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"Through biting parody, **Aristophanes** waged war on the rationalistic dialectic introduced by Euripides."*

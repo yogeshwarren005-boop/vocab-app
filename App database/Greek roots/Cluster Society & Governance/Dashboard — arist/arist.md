@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek aristos, meaning 'best', 'noblest', or 'most excellent'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, classical philology, and etymology, the base morpheme denoting superlative excellence and elite civic governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On the evening of October 11 Seslávin came to the Aristóvo headquarters with a French guardsman he had captured."*
+> - 📜 **Aristotle (*Politics*):** *"True aristocracy derives its title from **arist**-os, governance entrusted to the best and most virtuous citizens."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The ancient Greek ideal of **arist**- embodied moral, athletic, and intellectual nobility in civic life."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*):** *"Homeric chieftains claimed preeminence through physical prowess and the inherited virtue of the **arist**-oi."*

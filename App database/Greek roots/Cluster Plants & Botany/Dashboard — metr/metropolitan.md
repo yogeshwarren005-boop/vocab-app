@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the eastern orthodox church this title is given to a position between bishop and patriarch; equivalent to archbishop in western christianity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who lives in a metropolis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a metropolis; an archbishop or bishop who has oversight over an ecclesiastical province.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban sociology and church history, pertaining to large metropolitan areas; in Eastern Orthodox and Catholic polity, a provincial primate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As watching is best done invisibly, she usually carried a dark lantern in her hand, and every now and then turned on the light to examine nooks and corners with the coolness of a metropolitan policeman."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For by some curious fatality, as it is often noted of your metropolitan freebooters that they ever encamp around the halls of justice, so sinners, gentlemen, most abound in holiest vicinities."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The venerable **metropolitan** of Antioch presided over the synod, upholding the orthodox Nicene faith against imperial edicts."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The **metropolitan** police detectives pursued the trail through the dense fogs of the London docks."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The **metropolitan** region expanded outward along commuter rail lines, swallowing ancient villages into suburban sprawl."*

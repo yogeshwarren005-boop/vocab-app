@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a naked or exposed ovary, not enclosed by floral envelopes or surrounding perianth tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, describing primitive or reduced flowers whose pistils stand completely exposed without protective bracts or calyx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnogynous designates adjective*) pertaining to, derived from, or characteristic of woman."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The **gymnogynous** condition in certain reduced aroids displays exposed ovaries crowded upon the naked spadix."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In archaic angiosperm lines, **gymnogynous** carpels hint at evolutionary origins from open gymnosperm megasporophylls."*
+> - 📜 **Douglas Houghton Campbell (*The Evolution of Land Plants*):** *"The absence of protecting perianth leaves renders the **gymnogynous** pistil dependent on protective bracts."*

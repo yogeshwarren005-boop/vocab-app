@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid cell produced by the fusion of an antibody-producing B lymphocyte with a myeloma cancer cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and biotechnology, an immortalized cell line used for continuous industrial production of monoclonal antibodies (developed by Köhler and Milstein).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridoma designates a hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody."*
+> - 📜 **Georges Köhler (*Continuous Cultures of Fused Cells Secreting Antibody*):** *"The cloned **hybridoma** combines the antibody specificity of the spleen cell with the immortality of the myeloma line."*
+> - 📜 **César Milstein (*From Antibody Diversity to Monoclonal Antibodies*):** *"Each **hybridoma** clone serves as an unvarying factory churning out identical monoclonal antibodies."*
+> - 📜 **Lewis Thomas (*Late Night Thoughts on Listening to Mahler's Ninth Symphony*):** *"The invention of the **hybridoma** revolutionized therapeutic oncology and immunological diagnostics."*

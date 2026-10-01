@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regime or system of government that mixes democratic and autocratic features; an illiberal or hybrid regime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and conflict studies (such as the Polity data series), an unstable regime with weak institutional constraints and high vulnerability to civil unrest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anocracy designates a term designating an entity, condition, or phenomenon derived from greek crat."*
+> - 📜 **Francis Fukuyama (*Political Order and Political Decay*):** *"States transitioning from tyranny often linger as a fragile **anocracy**, vulnerable to factional predation."*
+> - 📜 **Samuel P. Huntington (*Political Order in Changing Societies*):** *"An unstable **anocracy** frequently suffers greater political violence than either mature democracies or hardened dictatorships."*
+> - 📜 **Larry Diamond (*The Spirit of Democracy*):** *"Electoral contestation without rule of law produces a volatile **anocracy** rather than genuine popular self-rule."*

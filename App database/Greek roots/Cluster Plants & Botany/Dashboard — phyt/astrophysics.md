@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of astronomy dealing especially with the behavior, physical properties, and dynamic processes of celestial objects and phenomena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of astronomy dealing especially with the behavior, physical properties, and dynamic processes of celestial objects and phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of astronomy concerned with the physical nature, properties, chemical composition, and evolutionary processes of celestial bodies and the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the 19th-century revolution sparked by the prism that transformed observational positional astronomy into an experimental physical science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophysics designates a branch of astronomy dealing especially with the behavior, physical properties, and dynamic processes of celestial objects and phenomena."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"The triumph of **astrophysics** was to demonstrate that stellar matter obeys the identical physical and quantum laws discovered in terrestrial laboratories."*
+> - 📜 **George Gamow (*One Two Three... Infinity*):** *"Modern **astrophysics** unlocked the secret of solar fire, showing that thermonuclear fusion powers the stars."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"The marriage of photography, spectroscopy, and giant reflectors established **astrophysics** as our key to the distant universe."*

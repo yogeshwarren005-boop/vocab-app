@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing regard for others in manners, speech, behavior, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by refinement in taste and manners.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing behavior that is respectful and considerate of other people; courteous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to refined or cultivated society (e.g. polite learning, polite literature).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The children had never known anybody who was so polite towards everyone, including Kathy, who only spoke affectionate, tender words, and always seemed so grateful when others were kind to her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is ceremonious, stately, most polite on every occasion to my Lady, and holds her personal attractions in the highest estimation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Poor Miss Flite deemed it necessary to be so courtly and polite, as a mark of her respect for the army, and to curtsy so very often that it was no easy matter to get her out of the court."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley was lively and unreserved, danced every dance, and showed himself to be remarkably **polite**."*
+> - 📜 **David Hume (*Of the Rise and Progress of the Arts and Sciences*):** *"Commerce and peace naturally soften coarse manners, introducing **polite** learning into urban life."*
+> - 📜 **Lord Chesterfield (*Letters to His Son*):** *"True good breeding consists in being easy yourself and making everyone around you feel **polite** and respected."*

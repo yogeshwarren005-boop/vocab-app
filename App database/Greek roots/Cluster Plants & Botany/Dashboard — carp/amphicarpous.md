@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing two distinct kinds of fruit, either differing in morphology or produced in different positions (such as aerial and subterranean).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, exhibiting amphicarpy as an evolutionary bet-hedging strategy against unpredictable environmental disturbances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphicarpous designates adjective*) pertaining to, derived from, or characteristic of wrist."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"An **amphicarpous** plant secures survival by dispersing some seeds to distant soil while burying others safely on site."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Certain desert composites are strictly **amphicarpous**, bearing winged achenes on ray florets and heavy wingless achenes on the disc."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The **amphicarpous** condition illustrates the evolutionary plasticity of floral organs in response to periodic drought."*

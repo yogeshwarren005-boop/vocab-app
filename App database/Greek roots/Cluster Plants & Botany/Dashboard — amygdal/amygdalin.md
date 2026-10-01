@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline cyanogenic glucoside C20H27NO11 found especially in the seeds of the apricot, peach, and bitter almond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline cyanogenic glucoside C20H27NO11 found especially in the seeds of the apricot, peach, and bitter almond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cyanogenic glycoside found naturally in the seeds of almonds, apricots, peaches, and plums, which yields hydrogen cyanide when hydrolyzed by enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical toxicology, a compound composed of gentiobiose and mandelonitrile that enzymatic hydrolysis with beta-glucosidase degrades into prussic acid and benzaldehyde.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdalin designates a white crystalline cyanogenic glucoside c20h27no11 found especially in the seeds of the apricot, peach, and bitter almond."*
+> - 📜 **Justus von Liebig (*Researches on the Radical of Benzoic Acid*):** *"Wöhler and I demonstrated that emulsin decomposes **amygdalin** into oil of bitter almonds, sugar, and prussic acid."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The catalytic cleavage of **amygdalin** by soluble ferments represents one of the foundational reactions of organic chemistry."*
+> - 📜 **T. Lauder Brunton (*A Text-Book of Pharmacology*):** *"Ingestion of bitter apricot kernels poses acute risk of poisoning because mucosal enzymes liberate free cyanide from **amygdalin**."*

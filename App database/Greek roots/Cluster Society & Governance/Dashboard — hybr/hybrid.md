@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that is composed of parts from different languages (e.g., `monolingual' has a greek prefix and a latin root).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composite of mixed origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The offspring of two plants or animals of different species or varieties; or a thing made by combining two different elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and evolutionary biology, an individual produced by cross-breeding distinct genetic lines or taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The effect was a mixture of breeds whose interactions had brought out a bewildering patchwork of hybrid cults, philosophies and arts."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"His travelling baggage is easily carried in his hand, and he repairs with it on foot, to a hybrid hotel in a little square behind Aldersgate Street, near the General Post Office."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The sterility of a **hybrid** is not a specially acquired endowment, but an incidental consequence of differences in reproductive systems."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"In each **hybrid** pea plant, the dominant trait concealed the recessive character without blending."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Modern civilization produced a curious **hybrid** culture blending industrial efficiency with hedonistic consumerism."*

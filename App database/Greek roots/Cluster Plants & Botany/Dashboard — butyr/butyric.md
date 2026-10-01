@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or producing butyric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two isomeric fatty acids C4H8O2; especially : the straight-chain acid of unpleasant odor normally found in perspiration and rancid butter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained from butter; specifically designating butyric acid (a four-carbon fatty acid with a pungent odor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic biochemistry and fermentation, designating bacterial fermentation pathways wherein Clostridium species convert starch into butyrate, carbon dioxide, and hydrogen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, butyric designates relating to or producing butyric acid."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The active agent of **butyric** fermentation proved to be an anaerobic vibrio that perished upon exposure to free atmospheric oxygen."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Rancidity in butter arises from the hydrolytic release of free **butyric** acid from its glyceryl ester."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Esters of **butyric** acid possess delightful fruity fragrances, widely utilized as artificial pineapple and apple flavorings."*

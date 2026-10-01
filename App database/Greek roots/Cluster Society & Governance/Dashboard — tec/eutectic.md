@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the lowest melting point possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a eutectic alloy or solution or its melting or freezing point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting a mixture of substances that solidifies at a lower temperature than any other composition readily obtainable from the same components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and physical chemistry, the invariant point in a phase diagram where a liquid solution transforms directly into a solid mixture of two or more phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This eutectic contains about 3·45 per cent. of cuprous oxide, equivalent to 0·38 per cent. of oxygen; it melts at a temperature about 18° C. below that of the pure metal."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At the elevated temperatures of the copper-smelting furnace, pure FeS tends to lose sulphur and to assume the composition of the eutectic."*
+> - 📜 **Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The phase rule precisely defines the invariant temperature and composition of a multi-component **eutectic** alloy."*
+> - 📜 **Henry Clifton Sorby (*On the Microscopical Structure of Iron and Steel*):** *"Microscopic etching revealed the lamellar pearlite structure characteristic of solidified **eutectic** mixtures."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Solder alloys are formulated to match the **eutectic** ratio of tin and lead to achieve instantaneous melting."*

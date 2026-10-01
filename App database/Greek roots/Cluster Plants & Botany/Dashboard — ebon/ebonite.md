@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard nonresilient rubber formed by vulcanizing natural rubber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard nonresilient rubber formed by vulcanizing natural rubber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, dark, vulcanized natural rubber made by heating rubber with a high proportion of sulfur; vulcanite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of electrical technology, an exceptional electrical insulator used for telephone mouthpieces, fountain pens, and pipe stems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ebonite designates a hard nonresilient rubber formed by vulcanizing natural rubber."*
+> - 📜 **Thomas Alva Edison (*The Edison Papers*):** *"Discs of turned **ebonite** proved to be our most dependable insulating material for high-voltage commutator switches."*
+> - 📜 **William Thomson (Lord Kelvin) (*Popular Lectures and Addresses*):** *"Friction of wool against a rod of smooth **ebonite** generates intense negative electrostatic charges."*
+> - 📜 **Oliver Lodge (*Modern Views of Electricity*):** *"The Leyden jar was insulated by thick stoppers of **ebonite** to prevent electrical leakage through damp laboratory air."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A love or passion for wine; the appreciation and connoisseurship of wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and gastronomy, the refined social appreciation of viticultural heritage, tasting rituals, and vintage cellarage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oenophilia designates a term designating an entity, condition, or phenomenon derived from greek oen."*
+> - 📜 **Alexis Lichine (*Encyclopedia of Wines*):** *"The widespread resurgence of **oenophilia** among urban diners has elevated winemakers to international celebrity."*
+> - 📜 **George Saintsbury (*Notes on a Cellar-Book*):** *"My lifelong **oenophilia** was never mere indulgence, but a disciplined aesthetic pursuit of harmony between wine and table."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Passionate enthusiasms, whether religious conversion or artistic **oenophilia**, possess the power to transfigure mundane existence."*

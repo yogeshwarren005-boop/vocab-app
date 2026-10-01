@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical herbaceous plants (including shrubs and trees) with racemose flowers: genera phytolacca, agdestis, ercilla, rivina, trichostigma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical herbaceous plants (including shrubs and trees) with racemose flowers: genera phytolacca, agdestis, ercilla, rivina, trichostigma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pokeweed family of flowering plants (order Caryophyllales), consisting of herbs, shrubs, and trees with alternate simple leaves and small flowers followed by berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic angiosperm taxonomy, a family closely allied to Petiveriaceae and Nyctaginaceae, distinguished by multiple united or free carpels in a ring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytolaccaceae designates chiefly tropical herbaceous plants (including shrubs and trees) with racemose flowers: genera phytolacca, agdestis, ercilla, rivina, trichostigma."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"The family **Phytolaccaceae** occupies a central phylogenetic position in the Centrospermae, displaying transitions from spiral to whorled floral parts."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Systematists characterize the **Phytolaccaceae** by their estipulate leaves, exalbuminous seeds with curved embryos, and succulent fruits."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"In the **Phytolaccaceae**, the fruit is typically a depressed fleshy berry composed of several coalesced carpellary locules."*

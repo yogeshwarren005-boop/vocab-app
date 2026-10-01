@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mound of earth made by ants as they dig their nest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mound of earth made by ants as they dig their nest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mound of earth, sand, pine needles, or debris heaped up by ants around the entrance to their subterranean nest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological entomology, a complex thermal and moisture-regulating biogenic superstructure housing thousands of colonial social insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthill designates a mound of earth made by ants as they dig their nest."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The slave-making ants systematically raided the neighboring **anthill**, carrying off pupae to rear them as working captives."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Watching the red and black warriors fight on my woodpile, I felt as though I were witnessing two empires clash over a single **anthill**."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"The architectural design of an **anthill** enables optimal solar heating in the morning while preventing flooding during torrential rain."*

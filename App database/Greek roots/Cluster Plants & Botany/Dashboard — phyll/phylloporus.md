@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family boletaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family boletaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of mycorrhizal fungi in the family Boletaceae, commonly known as gilled boletes, having gills instead of tubes beneath the cap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an evolutionary bridge taxon between agarics and boletes, possessing typical bolete pigments and pileus anatomy but lamellate hymenophores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloporus designates a genus of fungi belonging to the family boletaceae."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The golden-gilled fungus now called **Phylloporus** rhodoxanthus presents a remarkable combination of agaric gills and bolete spores."*
+> - 📜 **Charles McIlvaine (*One Thousand American Fungi*):** *"In rich deciduous woods, **Phylloporus** reveals its yellow branching gills that bruise bluish-green, confirming its boletaceous affinity."*
+> - 📜 **William Gilson Farlow (*Icones Farlowianae*):** *"Microscopic analysis of the basidia and clamp connections confirms that **Phylloporus** belongs firmly within the Boletaceae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecclesiastic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ecclesiastic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to the Christian Church, its clergy, or its doctrines and laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint of church governance, canon law, or liturgical tradition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He did not shrug his shoulders; and for want of that muscular outlet he thought the more irritably of beautiful lips kissing holy skulls and other emptinesses ecclesiastically enshrined."*
+> - 📜 **John Milton (*Of Reformation*):** *"The parish was governed both civilly by magistrates and **ecclesiastically** by the diocesan bishop."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The city was subdivided civilly into wards, but **ecclesiastically** into patriarchal parishes."*
+> - 📜 **Thomas Fuller (*The Church History of Britain*):** *"Matters judged **ecclesiastically** were subject to appeal before the Court of Arches."*

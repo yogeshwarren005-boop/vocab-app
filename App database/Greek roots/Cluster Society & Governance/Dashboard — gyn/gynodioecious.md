@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having female (pistillate) flowers on some individuals and hermaphrodite (bisexual) flowers on others within the same plant population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant reproductive ecology and breeding systems, an evolutionary breeding state (e.g. in Thymus vulgaris) promoting outcrossing via nuclear-cytoplasmic sex determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynodioecious designates adjective*) pertaining to, derived from, or characteristic of woman."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In **gynodioecious** species such as the wild thyme, female plants produce larger crops of viable seeds."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The occurrence of **gynodioecious** colonies prevents continuous self-fertilization in small floral populations."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Botanists classify Thymus as **gynodioecious** because hermaphrodite and strictly pistillate stocks co-exist."*

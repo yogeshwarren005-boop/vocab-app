@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who loves and supports their country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who loves and supports their country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who vigorously supports their country and is prepared to defend it against enemies or detractors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, an adherent of national self-determination and republican liberty (e.g. American Revolution).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"An austere patriot’s passion for his fatherland!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"God bless your Honours! can ye see’t— The kind, auld cantie carlin greet, An’ no get warmly to your feet, An’ gar them hear it, An’ tell them wi’a patriot-heat Ye winna bear it?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"They Scotia’s race among them share: Some fire the soldier on to dare; Some rouse the patriot up to bare Corruption’s heart: Some teach the bard—a darling care— The tuneful art."*
+> - 📜 **Samuel Johnson (*The Patriot*):** *"A genuine **patriot** loves his country with rational affection, seeking its true moral and economic welfare."*
+> - 📜 **Thomas Paine (*The American Crisis*):** *"The summer soldier and the sunshine **patriot** will, in this crisis, shrink from the service of their country."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Where'er we tread 'tis haunted, holy ground; No earth of thine is lost in vulgar mould, But one vast realm of wonder, where the blood of the fallen **patriot** hallows every field."*

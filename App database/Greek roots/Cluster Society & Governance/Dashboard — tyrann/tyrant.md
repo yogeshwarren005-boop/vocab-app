@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An absolute ruler unrestrained by law or constitution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usurper of sovereignty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cruel and oppressive ruler; or an absolute ruler unconstrained by law or constitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek history, an autocrat who seized power extra-constitutionally rather than through hereditary royalty or election.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if you were by my unkindness shaken As I by yours, y’have passed a hell of time, And I a tyrant have no leisure taken To weigh how once I suffered in your crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do I not think on thee when I forgot Am of my self, all-tyrant, for thy sake?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I rest much bounden to you; fare you well! [_Exit Le Beau._] Thus must I from the smoke into the smother, From tyrant Duke unto a tyrant brother."*
+> - 📜 **Aristotle (*Politics*):** *"The **tyrant** is chosen from the populace to be their champion against the nobility, yet soon turns his weapons upon the citizens."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Where law ends, the **tyrant** begins; and whoever in authority exceeds the power given him by law ceases to be a magistrate."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Bleed, bleed, poor country! Great tyranny, lay thou thy basis sure, For goodness dare not check thee! Wear thou thy wrongs; The title is affeer'd! Fare thee well, lord: I would not be the villain that thou think'st For the whole space that's in the **tyrant**'s grasp."*

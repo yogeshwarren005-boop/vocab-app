@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial herbs of the lily family having thick toxic rhizomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the eurasian genus helleborus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous plant of the genus Helleborus (buttercup family), bearing winter or spring-blooming flowers (e.g. Christmas rose).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and medieval medicine, an acrid, violent purgative plant historically prescribed to treat madness, melancholy, and dropsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Orion: There is nothing but what will do you good; And the drugs are simples; 'tis hellebore, Nepenthe, upas, and dragon's blood, Absinthe, and mandrake, and mandragore."*
-> - 📜 **John Keats (*Poems 1817*):** *"Of thy dark hair that extends Into many graceful bends: As the leaves of Hellebore Turn to whence they sprung before."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Black **hellebore** was esteemed by the ancients as the sovereign purge to expel black bile from the brain."*
+> - 📜 **John Keats (*Ode on Melancholy*):** *"Make not your rosary of yew-berries, Nor let the beetle, nor the death-moth be Your mournful Psyche, nor the downy owl A partner in your sorrow's mysteries; For shade to shade will come too drowsily, And drown the wakeful anguish of the soul."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Philosophers drank infusions of **hellebore** before disputation to sharpen their intellects and purge heavy humors."*

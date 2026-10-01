@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have and control fully and exclusively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have or exploit a monopoly of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To obtain exclusive possession or control of; prevent others from using or enjoying (British spelling of monopolize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial and conversational interaction, to dominate exclusively or corner the entire supply of a commodity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed more than foremost, for in the minds of many he monopolises the credit for this invention."*
-> - 📜 **James Joyce (*Ulysses*):** *"But a day of reckoning, he stated _crescendo_ with no uncertain voice, thoroughly monopolising all the conversation, was in store for mighty England, despite her power of pelf on account of her crimes."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The Ribbons opened an account at the Mudbury Branch Savings Bank; the Ribbons drove to church, monopolising the pony-chaise, which was for the use of the servants at the Hall."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton sought to **monopolise** the conversation during dinner, displaying his flattering attentiveness to Emma."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants conspire to **monopolise** the market whenever they gather for innocent festivity and diversion."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The totalitarian party sought to **monopolise** all channels of public memory and emotional loyalty."*

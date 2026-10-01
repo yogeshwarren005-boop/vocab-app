@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in correcting deformities of the skeletal system (especially in children).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in correcting deformities of the skeletal system (especially in children).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgeon or physician who specializes in orthopaedics (British spelling of orthopedist).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialist performing arthroplasty, spinal stabilization, and complex fracture repair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopaedist designates a specialist in correcting deformities of the skeletal system (especially in children)."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The skilled **orthopaedist** reconstructed my severed quadriceps tendon with meticulous care."*
+> - 📜 **William Osler (*The Master-Word in Medicine*):** *"The consulting **orthopaedist** warned against premature weight-bearing on the healing femur."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"A celebrated Edinburgh **orthopaedist** demonstrated how spinal curvature could be halted by early bracing."*

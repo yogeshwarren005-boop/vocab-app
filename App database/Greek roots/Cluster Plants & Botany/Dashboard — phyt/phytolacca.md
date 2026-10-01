@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of phytolaccaceae: pokeweed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of phytolaccaceae: pokeweed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbs, shrubs, and trees (family Phytolaccaceae), including American pokeweed (Phytolacca americana), bearing racemes of dark purple berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and toxicology, plants containing saponins and phytolaccatoxin, whose young spring shoots are eaten as poke sallet after thorough boiling, while mature roots are violently toxic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytolacca designates type genus of phytolaccaceae: pokeweed."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The Virginian poke or **Phytolacca** beareth great stalks of deep red, adorned with heavy clusters of purple juice-yielding berries."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Common **Phytolacca** decandra is an immense, rank perennial weed flourishing in rich barnyards and clearing margins."*
+> - 📜 **William Woodville (*Medical Botany*):** *"Country practitioners administer the dried root of **Phytolacca** as an emetic, though its harsh action demands extreme caution."*

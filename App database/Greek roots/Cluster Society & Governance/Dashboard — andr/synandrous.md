@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of male, masculine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of male, masculine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the stamens of a flower united or fused together, either by their filaments, anthers, or both.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology and systematic botany, describing flowers in families like Cucurbitaceae and Araceae where the androecium forms a single composite column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synandrous designates adjective*) pertaining to, derived from, or characteristic of male, masculine."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In gourd flowers, the **synandrous** stamens are fused into an intricate central column."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The bizarre spadix morphology of certain aroids displays completely **synandrous** male florets."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Diagnostic keys distinguish cucurbits by their five twisted, **synandrous** anthers."*

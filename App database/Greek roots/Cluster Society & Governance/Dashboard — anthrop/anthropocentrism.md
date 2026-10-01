@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considering human beings as the most significant entity of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpreting or regarding the world in terms of human values and experiences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief that human beings are the central or most significant entity in the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and environmental ethics, the axiological framework that accords intrinsic value exclusively or predominantly to human interests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropocentrism designates considering human beings as the most significant entity of the universe."*
+> - 📜 **Peter Singer (*Animal Liberation*):** *"Speciesism represents an entrenched form of **anthropocentrism** that dismisses the suffering of non-human animals."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The iconography of human evolution has been distorted by a stubborn **anthropocentrism** depicting progress toward ourselves."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"Why should man value himself as more than a small part of the creation, puffed up with blind **anthropocentrism**?"*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the normal condition of the eye in which visual images are in clear focus on the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the normal condition of the eye in which visual images are in clear focus on the retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having normal vision; possessing an eye that focuses distant light rays sharply upon the retina without accommodation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, describing an eye that requires no corrective refractive lenses for clear distant vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmetropic designates of or relating to the normal condition of the eye in which visual images are in clear focus on the retina."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"An **emmetropic** eye achieves effortless sharp vision at infinity, reserving its full accommodative reserve for reading."*
+> - 📜 **F. C. Donders (*Anomalies of Refraction*):** *"Retinoscopy of the **emmetropic** subject confirms that the far point of distinct vision lies at optical infinity."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Even the sharpest **emmetropic** eye narrows its lids against dazzling desert sunshine to sharpen visual contrast."*

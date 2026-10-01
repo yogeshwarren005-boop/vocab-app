@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Politically neutral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Politically neutral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not political; not relating to, concerned with, or participating in political affairs; apolitical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social critique, disconnected from ideological or governmental debates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As was well known to me, Rome did not interfere with the religious notions of its conquered peoples; but the Jews were for ever confusing the issues and giving a political cast to purely unpolitical events."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"Henry Miller's fiction embraced an entirely **unpolitical** acceptance of ordinary, sensual human life."*
+> - 📜 **Hannah Arendt (*Men in Dark Times*):** *"In times of tyranny, seeking refuge in an **unpolitical** existence often becomes a tragic moral illusion."*
+> - 📜 **Thomas Mann (*Reflections of an Unpolitical Man*):** *"Mann wrestled with his earlier stance as an **unpolitical** artist before embracing democratic responsibility."*

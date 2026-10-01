@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of almond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of almond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and root derived from Greek 'amygdale' (almond), used in botanical, anatomical, and mineralogical nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological lexicography, the root element designating almond-shaped anatomical organs, volcanic cavities, or cyanogenic glycosides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdal designates adjective*) pertaining to, derived from, or characteristic of almond."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The ancient Greek **amygdal** designated both the almond tree itself and the delicate kernel enclosed within its stony shell."*
+> - 📜 **Pierre-Joseph Redouté (*Les Fruits*):** *"Botanical descriptions employing the root **amygdal** underscore the characteristic pitted stone of the drupaceous stone fruits."*
+> - 📜 **William Rhind (*A History of the Vegetable Kingdom*):** *"In medicinal flora, species bearing the prefix **amygdal** are scrutinized for their volatile benzaldehyde and prussic acid content."*

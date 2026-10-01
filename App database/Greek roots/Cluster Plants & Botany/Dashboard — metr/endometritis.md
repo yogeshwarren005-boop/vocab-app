@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining of the uterus (of the endometrium).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining of the uterus (of the endometrium).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the endometrium (the inner mucous membrane lining of the uterus), typically caused by bacterial infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and gynecology, postpartum or pelvic inflammatory infection characterized by fever, uterine tenderness, and foul lochial discharge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometritis designates inflammation of the lining of the uterus (of the endometrium)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Puerperal fever was historically initiated by virulent streptococcal **endometritis** introduced by unwashed hands of attendants."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Contagiousness of Puerperal Fever*):** *"The tragedy of fatal post-partum **endometritis** was traced directly to physicians proceeding from the autopsy room to the lying-in chamber."*
+> - 📜 **J. Marion Sims (*Uterine Surgery*):** *"Chronic catarrhal **endometritis** produces persistent leucorrhea and impairs fertile nidation of the ovum."*

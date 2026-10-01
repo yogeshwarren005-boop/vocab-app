@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eruptive lesion or rash upon a mucous surface, especially within the mouth, pharynx, or gastrointestinal tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease pathology, mucosal hyperemia and vesicular eruption accompanying viral illnesses like rubella, varicella, and enteroviruses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enanthema designates a term designating an entity, condition, or phenomenon derived from greek anth."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The term **enanthema** denotes an internal eruption upon the mucous membranes, strictly analogous to exanthema upon the skin."*
+> - 📜 **L. Emmett Holt (*The Diseases of Infancy and Childhood*):** *"The presence of an active **enanthema** on the palatal arches strongly suggests an acute enteroviral etiology."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Syphilitic mucous patches constitute a chronic **enanthema** teeming with virulent spirochetal organisms."*

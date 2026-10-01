@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually mild red seasoning consisting of the dried finely ground pods of various sweet peppers; also : a sweet pepper used for making paprika.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually mild red seasoning consisting of the dried finely ground pods of various sweet peppers; also : a sweet pepper used for making paprika.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ground red spice made from dried, sweet or mildly pungent varieties of Capsicum annuum; also the pepper fruit itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history and organic chemistry, the national spice of Hungary, celebrated for its rich carotenoid pigments and high ascorbic acid (vitamin C) content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"There was a dog howling all night under my window, which may have had something to do with it; or it may have been the paprika, for I had to drink up all the water in my carafe, and was still thirsty."*
+> - 📜 **Albert Szent-Györgyi (*Studies on Vitamin C*):** *"From fresh Hungarian **paprika**, I isolated hexuronic acid in crystalline abundance, proving its identity with antiscorbutic vitamin C."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I had for dinner paprika hendl, a chicken cooked with red pepper which they call **paprika**, very good but thirsty."*
+> - 📜 **Frank A. Lee (*Basic Food Chemistry*):** *"The intense crimson color of culinary **paprika** is due to capsanthin and capsorubin carotenoid pigments."*

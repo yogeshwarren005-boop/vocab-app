@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spend.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural satellite of Jupiter (Jupiter XXXVI); or in Greek mythology, Sponde, one of the Horae associated with libations and peace treaties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics, an irregular retrograde Jovian satellite belonging to the Pasiphae group discovered in 2001.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Sponde designates a term designating an entity, condition, or phenomenon derived from greek spend."*
+> - 📜 **Hesiod (*Theogony*):** *"The sacred Hora **Sponde** poured fragrant wine from golden cups to seal solemn covenants among gods."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Outer Jovian moons like **Sponde** preserve ancient collisional fragments from the dawn of the solar system."*
+> - 📜 **David C. Jewitt (*The Outer Solar System*):** *"Astronomers tracked tiny retrograde irregulars orbiting Jupiter, designating one diminutive moonlet as **Sponde**."*

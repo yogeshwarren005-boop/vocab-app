@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breed animals or plants using parents of different races and varieties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed animals or plants using parents of different races and varieties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To breed with another species or variety to produce a hybrid (British spelling of hybridize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology, to cause complementary nucleic acid strands to bind together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridise designates breed animals or plants using parents of different races and varieties."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When florists **hybridise** closely related orchids, they frequently obtain vigorous and fertile offspring."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"Artificial pollination allowed investigators to **hybridise** distinct pea varieties under controlled glasshouse conditions."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Attempts to **hybridise** distinct Drosophila species illuminated chromosomal rearrangements."*

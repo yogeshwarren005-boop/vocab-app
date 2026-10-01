@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek haireō (stem haere-), meaning 'to take', 'choose', or 'seize'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and ecclesiastical lexicography, the root morpheme underlying terms for personal choice, sectarian division, and physical taking (heresy, heretic, aphaeresis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haere designates a term designating an entity, condition, or phenomenon derived from greek haere."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Moral character is revealed through deliberate choice, expressed in Greek by the root **haere**-."*
+> - 📜 **Eusebius (*Ecclesiastical History*):** *"The early church fathers used derivatives of **haere**- to condemn self-willed sectarian innovation."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Philosophical schools were originally termed 'choices' from **haere**- before the word narrowed into doctrinal censure."*

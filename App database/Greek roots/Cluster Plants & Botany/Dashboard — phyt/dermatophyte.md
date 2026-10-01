@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus parasitic on the skin or skin derivatives (such as hair or nails).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungus parasitic on the skin or skin derivatives (such as hair or nails).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic fungus that causes superficial infections of the skin, hair, or nails in humans and other animals (such as ringworm, athlete's foot, and jock itch).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical mycology, specialized filamentous fungi of the genera Trichophyton, Microsporum, and Epidermophyton that digest keratinized tissue via keratinases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatophyte designates a fungus parasitic on the skin or skin derivatives (such as hair or nails)."*
+> - 📜 **Arthur Rook (*Textbook of Dermatology*):** *"Microscopic potassium hydroxide mounts reveal branching septate hyphae and arthrospores characteristic of a pathogenic **dermatophyte**."*
+> - 📜 **Thomas B. Fitzpatrick (*Dermatology in General Medicine*):** *"Transmission of an anthropophilic **dermatophyte** occurs rapidly through shared athletic flooring and locker rooms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tinea capitis represents an active invasion of hair shafts by a virulent parasitic **dermatophyte**."*

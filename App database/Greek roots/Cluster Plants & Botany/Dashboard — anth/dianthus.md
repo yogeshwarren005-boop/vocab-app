@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: pink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: pink.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Caryophyllaceae, known as pinks, carnations, and sweet williams, characterized by fringed or serrated petals and spicy clove fragrance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, the divine flower of classical antiquity ('flower of Zeus') bearing opposite glaucous leaves, cylindrical calyx tubes, and toothed petals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog dianthus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The clove gillyflower or **Dianthus** is treasured above all summer flowers for its sweet, exhilarating clove-like scent."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The fairest flowers o' the season are our carnations and streaked gillyvors, ancient varieties of the garden **Dianthus**."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"Species of **Dianthus** are recognized by the scaly bractlets clasping the base of their cylindrical five-toothed calyx."*

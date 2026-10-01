@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of greece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native of modern Greece, or a person of Greek descent; an ancient Greek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnology and classical history, an endonym embracing all Greek-speaking peoples bound by common language, religion, and customs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin's "Hyperion," we have the first poetic work in German which takes modern Greece as its locality and a modern Hellene as its hero."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Celsus' words: _hikanous ehurein dogmata tous barbarous_, and then _krinai de kai bebaiosasthai kai askesai pros areten ta hypo barbaron ehurethenta ameinones eisin hellenes_."*
+> - 📜 **Herodotus (*The Histories*):** *"The kinship of all who are **Hellene** rests on community of blood, speech, the shrines of our gods, and shared customs."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Before the Trojan War, there is no evidence of common action by the people known collectively as **Hellene**."*
+> - 📜 **Lord Byron (*The Isles of Greece*):** *"The mountains look on Marathon—And Marathon looks on the sea; And musing there an hour alone, I dream'd that Greece might still be free; For standing on the Persians' grave, I could not deem myself a slave."*

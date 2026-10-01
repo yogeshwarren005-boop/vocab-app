@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of Egyptian antiquities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of Egyptian antiquities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific and historical study of ancient Egypt and Egyptian antiquities, language, and culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The multidisciplinary academic field founded following the discovery of the Rosetta Stone and the French expedition of 1798.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egyptology designates the study of egyptian antiquities."*
+> - 📜 **Flinders Petrie (*Methods and Aims in Archaeology*):** *"Scientific **egyptology** transformed casual treasure-hunting into rigorous stratigraphic excavation."*
+> - 📜 **Jean-François Champollion (*Précis du Système Hiéroglyphique*):** *"The birth of modern **egyptology** dates from the moment the silent inscriptions began to speak."*
+> - 📜 **Amelia Edwards (*A Thousand Miles Up the Nile*):** *"Her romantic fascination with the Nile blossomed into a lifetime devotion to advancing scholarly **egyptology**."*

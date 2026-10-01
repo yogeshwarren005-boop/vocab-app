@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hybr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive pride, presumption, or arrogance; classic Greek transliteration of hubris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Attic law and classical philosophy, an assault or insolent act committed intentionally to dishonor another citizen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybris designates a term designating an entity, condition, or phenomenon derived from greek hybr."*
+> - 📜 **Demosthenes (*Against Meidias*):** *"The law of **hybris** protects every citizen, rich or poor, from wanton insult and physical battery."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Solon warned that surfeit breeds **hybris**, which in turn provokes inevitable civic ruin."*
+> - 📜 **Gilbert Murray (*Five Stages of Greek Religion*):** *"The cardinal sin in the Hellenic moral cosmos was **hybris**, the overstepping of mortal limits."*

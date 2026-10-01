@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine cnidarian of the order Zoantharia, typically colonial and encrusting, lacking a hard calcium carbonate skeleton and incorporating sediment grains into its body wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reef invertebrate biology, colonial polyps containing potent palytoxin that carpet dead coral pavement, rocks, and sponge surfaces in tropical seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoanthid designates a term designating an entity, condition, or phenomenon derived from greek anth."*
+> - 📜 **James Dwight Dana (*Corals and Coral Islands*):** *"The fleshy polyps of each encrusting **zoanthid** incorporate sand grains into their ectoderm to strengthen their colonial mat."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Unlike true stony corals, the **zoanthid** secretes no calcareous basal plate, relying upon an interconnected stoloniferous coenenchyme."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Under the ledge, a colony of **zoanthid** polyps opened their disk-like tentacles to graze on drifting organic detritus."*

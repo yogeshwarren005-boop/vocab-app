@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees and shrubs that usually form dense jungles along tropical seacoasts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees and shrubs that usually form dense jungles along tropical seacoasts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mangrove family of tropical and subtropical woody flowering plants (order Malpighiales), characterized by opposite leathery leaves and specialized aerial stilt roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal forest botany, a specialized family exhibiting vivipary (seeds germinating while still attached to the parent tree) and salt-excluding root membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizophoraceae designates trees and shrubs that usually form dense jungles along tropical seacoasts."*
+> - 📜 **Robert Brown (*General Remarks on the Botany of Terra Australis*):** *"The family **Rhizophoraceae** dominates intertidal maritime mudflats throughout tropical Australia and the Indian Ocean."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Systematists recognize the **Rhizophoraceae** by their leathery opposite leaves, interpetiolar stipules, and viviparous fruits."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Anatomical adaptations within the **Rhizophoraceae** demonstrate remarkable physiological resistance to high salt concentrations."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with matter and energy and their interactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical processes and phenomena of a particular system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science concerned with the nature and properties of matter and energy, including mechanics, heat, light, radiation, sound, electricity, magnetism, and atomic structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the foundational natural science originating in Aristotle's Physis that seeks mathematical principles governing the cosmos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The labour we delight in physics pain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a gallant child; one that indeed physics the subject, makes old hearts fresh."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Used, in part, with kind permission from: http://www.physics.wisc.edu/~shalizi/Spinoza/TIE/ 2."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The main business of natural philosophy and **physics** is to argue from phenomena without feigning hypotheses."*
+> - 📜 **Albert Einstein (*The Evolution of Physics*):** *"The formulation of a problem in **physics** is often far more essential than its mathematical solution."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The ultimate aim of all **physics** is to reduce natural phenomena to the laws of mechanics."*

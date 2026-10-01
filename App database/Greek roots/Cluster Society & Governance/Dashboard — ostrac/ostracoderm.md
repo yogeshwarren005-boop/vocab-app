@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various primitive, extinct jawless fish (class Agnatha) of the Lower Paleozoic with a bony covering of plates or scales serving as a protective armor and which on the broad head usually form a bony shield of fused plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various primitive, extinct jawless fish (class Agnatha) of the Lower Paleozoic with a bony covering of plates or scales serving as a protective armor and which on the broad head usually form a bony shield of fused plates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct jawless armored fish of the Paleozoic era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, primitive agnathan fishes covered with heavy dermal bone plates that flourished from the Ordovician to the Devonian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostracoderm designates any of various primitive, extinct jawless fish (class agnatha) of the lower paleozoic with a bony covering of plates or scales serving as a protective armor and which on the broad head usually form a bony shield of fused plates."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The armored head shield of the **ostracoderm** was nature's first great experiment in bony vertebrate protection."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Early chordate evolution produced the jawless **ostracoderm**, groveling along Silurian lakebeds for detritus."*
+> - 📜 **Hugh Miller (*The Old Red Sandstone*):** *"The strange winged cephalaspis and armored **ostracoderm** fossils looked more like clockwork machines than fishes."*

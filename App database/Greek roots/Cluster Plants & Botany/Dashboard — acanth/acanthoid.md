@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a spine or thorn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a spine or thorn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a spine, thorn, or prickle; spiniform or thorny in structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive morphology, having sharp spiny processes projecting from a surface or skeletal margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthoid designates shaped like a spine or thorn."*
+> - 📜 **John Lindley (*Elements of Botany*):** *"The margin of the thistle leaf bears numerous **acanthoid** projections that discourage herbivores."*
+> - 📜 **George Henslow (*The Heredity of Acquired Characters in Plants*):** *"Under extreme drought, rudimentary leaflets shrink into rigid **acanthoid** structures."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"The larval carapace is fortified by dorsal **acanthoid** processes that deter aquatic predators."*

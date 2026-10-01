@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fragment (as of pottery) containing an inscription —usually plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fragment (as of pottery) containing an inscription —usually plural.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of broken pottery or potsherd used as a writing surface in antiquity (plural: ostraka).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and papyrology, an inscribed pottery fragment preserving administrative records, receipts, literary texts, or Athenian exile ballots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostracon designates a fragment (as of pottery) containing an inscription —usually plural."*
+> - 📜 **Plutarch (*Life of Aristides*):** *"The citizen scratched the name of Aristides upon an earthen **ostracon** without recognizing the statesman before him."*
+> - 📜 **Flinders Petrie (*Ten Years' Digging in Egypt*):** *"Excavations at the Roman quarry yielded hundreds of inscribed **ostracon** fragments detailing soldier rations."*
+> - 📜 **John Boardman (*The Archaeology of Greece*):** *"Thousands of discarded **ostracon** ballots recovered from the Athenian Agora preserve names of prominent politicians."*

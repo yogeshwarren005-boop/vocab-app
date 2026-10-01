@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rootlike structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rootlike structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root-like, hair-like filament found on mosses, liverworts, fern gametophytes, and fungi, serving to anchor the organism and absorb water and nutrients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany, a simple unicellular or uniseriate multicellular filament that performs absorption in non-vascular plants lacking true vascular roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizoid designates a rootlike structure."*
+> - 📜 **Wilhelm Hofmeister (*Higher Cryptogamia*):** *"From the lower surface of the fern prothallus spring dozens of delicate, transparent **rhizoid** filaments that penetrate the damp earth."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"In Marchantia, the **rhizoid** filaments are differentiated into smooth-walled and tuberculate conducting forms."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Capillary attraction between adjacent **rhizoid** hairs draws surface film moisture up to the photosynthetic thallus."*

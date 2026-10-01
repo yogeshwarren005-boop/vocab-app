@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication capable of causing the evacuation of parasitic intestinal worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of expelling or destroying parasitic worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent or medication that expels or destroys parasitic intestinal worms (helminths); vermifuge or vermicide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological therapeutics, describing medicinal preparations formulated to paralyze, digest, or detach parasitic cestodes, nematodes, and trematodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthelminthic designates a medication capable of causing the evacuation of parasitic intestinal worms."*
+> - 📜 **William Cullen (*A Treatise of the Materia Medica*):** *"The powdered root of male fern possesses powerful **anthelminthic** virtues against the stubborn tapeworm."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica and Therapeutics*):** *"Santonin acts as a specific **anthelminthic**, causing roundworms to lose their hold upon the ileum."*
+> - 📜 **Robley Dunglison (*General Therapeutics and Materia Medica*):** *"Administration of an **anthelminthic** should be followed promptly by a saline cathartic to sweep out the paralyzed parasites."*

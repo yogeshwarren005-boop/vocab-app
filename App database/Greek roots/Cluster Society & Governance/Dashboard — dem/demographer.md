@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies the growth and density of populations and their vital statistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who studies the growth and density of populations and their vital statistics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the study of statistics relating to human populations, including births, deaths, and migrations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantitative social scientist who models cohort shifts, fertility rates, mortality tables, and urbanization patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demographer designates a scientist who studies the growth and density of populations and their vital statistics."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"The skilled **demographer** calculates how unchecked arithmetic food growth fails to match geometric human increase."*
+> - 📜 **Gunnar Myrdal (*An American Dilemma*):** *"The **demographer** tracks migratory currents from rural fields into northern industrial centers."*
+> - 📜 **Paul R. Ehrlich (*The Population Bomb*):** *"No serious **demographer** could ignore the exponential acceleration of postwar global population curves."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to epiphytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to epiphytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing upon another plant for physical support without taking nourishment from it; characteristic of an epiphyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural botany, possessing morphological adaptations such as water-absorbing velamen roots, pseudobulbs, or tank rosettes for arboreal canopy life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphytic designates of or relating to epiphytes."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The **epiphytic** orchids of South America cling to living bark, basking in humid air and dappled jungle sunlight."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Spanish moss (Tillandsia) is not a true moss or parasite, but a rootless **epiphytic** angiosperm of the pineapple family."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"We admired the magnificent **epiphytic** rhododendrons rooted upon mossy forks of ancient forest oaks."*

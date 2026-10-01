@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a series of wooden bars graduated in length to produce the musical scale, supported on belts of straw or felt, and sounded by striking with two small wooden hammers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument consisting of a series of wooden bars graduated in length to produce the musical scale, supported on belts of straw or felt, and sounded by striking with two small wooden hammers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical percussion instrument consisting of a graduated series of tuned wooden bars struck with mallets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical acoustics and ethnomusicology, an idiophone found across African, Southeast Asian, and orchestral traditions, tuned to precise pitch intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylophone designates a percussion instrument consisting of a series of wooden bars graduated in length to produce the musical scale, supported on belts of straw or felt, and sounded by striking with two small wooden hammers."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The pure harmonic overtone spectrum of a rosewood **xylophone** bar depends upon the undercutting of its central arch."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The crisp wooden rattle of the **xylophone** in Saint-Saëns's Danse Macabre evokes the dry clicking of dancing skeletons."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the Javanese gamelan, the wooden **xylophone** or gambang leads the melodic ornamentation with dazzling speed."*

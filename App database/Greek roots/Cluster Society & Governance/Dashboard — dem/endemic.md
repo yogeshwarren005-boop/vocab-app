@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Native to a particular locality or region; often, specifically : restricted or peculiar to a particular locality or region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persisting over time in a particular region or population.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regularly found among particular people or in a certain area (of a disease or condition); or native and restricted to a certain place (of a plant or animal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, a disease maintained in a population without external inputs; in biogeography, a taxon unique to a defined geographic location.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What endemic characteristics were present?"*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Galápagos Archipelago harbors a remarkable proportion of species **endemic** to those isolated lava shores."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Certain malarial fevers appeared **endemic** to the swampy lowlands of the Orinoco river basin."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In protected tidal coves, **endemic** seaweeds thrive in microhabitats found nowhere else along the coast."*

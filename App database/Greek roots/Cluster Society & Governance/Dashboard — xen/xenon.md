@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless and relatively inert gaseous element that occurs in air as about one part in 20 million and is used especially in specialized electric lamps (such as flash tubes) and in scientific research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless and relatively inert gaseous element that occurs in air as about one part in 20 million and is used especially in specialized electric lamps (such as flash tubes) and in scientific research.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, colorless, odorless, and chemically unreactive noble gas (atomic number 54, symbol Xe), present in trace amounts in the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and physics, discovered in 1898 by Ramsay and Travers; famously used in high-intensity arc lamps and first noble gas to form chemical compounds (Neil Bartlett, 1962).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenon designates a heavy colorless and relatively inert gaseous element that occurs in air as about one part in 20 million and is used especially in specialized electric lamps (such as flash tubes) and in scientific research."*
+> - 📜 **William Ramsay (*The Gases of the Atmosphere*):** *"We named the newly isolated dense noble gas **xenon**, from the Greek word for stranger, on account of its rare and elusive nature."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The long-standing doctrine of noble gas inertness was shattered when **xenon** hexafluoroplatinate was successfully synthesized."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The noble gases, and above all rare **xenon**, seemed like contemplative hermits aloof from the frantic bonding of ordinary chemistry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the epicarp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the epicarp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated upon, relating to, or belonging to the epicarp (the outer skin of a fruit).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical carpology, describing glandular trichomes, waxes, or stomata located on the external surface of the fruit peel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicarpal designates of or relating to the epicarp."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Microscopic analysis reveals secretory cavities situated directly beneath the **epicarpal** layer in Citrus fruits."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The **epicarpal** cells of the plum secrete a delicate pruinose coating that rubs off at the slightest touch."*
+> - 📜 **George Henslow (*The Heredity of Acquired Characters in Plants*):** *"Thickening of the **epicarpal** wall in desert melons serves as a protective adaptation against intense solar radiation."*

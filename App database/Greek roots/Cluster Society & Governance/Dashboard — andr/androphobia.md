@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek andr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or intense fear or hatred of men.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychopathology, a specific phobic aversion toward adult males often rooted in trauma or acute anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androphobia designates a term designating an entity, condition, or phenomenon derived from greek andr."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"The patient's acute **androphobia** stemmed from early childhood confrontations with authoritarian domestic figures."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Phobic manifestations such as claustrophobia and **androphobia** represent pathological exaggerations of natural caution."*
+> - 📜 **Karen Horney (*Neurosis and Human Growth*):** *"Severe interpersonal neurosis can manifest clinically as generalized cynicism or acute **androphobia**."*

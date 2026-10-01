@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the phyllidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the phyllidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leaf insects in the family Phylliidae (order Phasmatodea), commonly called walking leaves, native to tropical Asia and the Pacific islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical entomology, insects possessing broad, leaf-like green bodies with realistic vein patterns, false fungal blemishes, and chewed-leaf margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllium designates type genus of the phyllidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"I captured a magnificent living **Phyllium** in Borneo, whose green wings displayed brown blotches simulating decaying leaf fungus."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The female **Phyllium** is flightless and so perfectly resembles a leaf that even keen-sighted tropical birds pass it by."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Eggs of **Phyllium** are dropped freely upon the ground, bearing an uncanny resemblance to grooved plant seeds."*

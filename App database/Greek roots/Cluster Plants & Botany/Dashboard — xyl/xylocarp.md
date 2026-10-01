@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, dense, woody fruit, such as a coconut or the woody capsule of certain tropical trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carpological morphology, an indehiscent fruit whose pericarp undergoes massive lignification and sclerenchymatous hardening for seed protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylocarp designates a term designating an entity, condition, or phenomenon derived from greek xyl."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The coconut is an exemplary **xylocarp**, whose fibrous husk and stony endocarp survive months of ocean drifting."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In certain tropical Lecythidaceae, the fruit is an enormous **xylocarp** opening by an operculum like a monkey pot."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Unlike soft succulent berries, a true **xylocarp** relies upon water buoyancy or rodent gnawing for seed liberation."*

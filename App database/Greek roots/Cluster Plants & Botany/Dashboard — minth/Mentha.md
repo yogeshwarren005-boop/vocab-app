@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek minth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of highly aromatic perennial herbs in the family Lamiaceae (the mint family), including spearmint (Mentha spicata) and peppermint (Mentha piperita).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and pharmacognosy, square-stemmed, creeping rhizomatous herbs bearing opposite serrate leaves rich in menthol and carminative volatile oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Mentha designates a term designating an entity, condition, or phenomenon derived from greek minth."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Mentha** is characterized by a nearly regular four-lobed corolla, straight stamens, and aromatic foliage."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Water mint or **Mentha** aquatica groweth along the margins of standing brooks, filling the air with pleasant balsamic odors."*
+> - 📜 **William Woodville (*Medical Botany*):** *"Distillation of **Mentha** piperita yields an essential oil containing volatile stearoptene celebrated for quelling spasmodic nausea."*

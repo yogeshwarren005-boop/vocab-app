@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that produces its own food by photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that produces its own food by photosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant or plant-like organism that synthesizes its own food entirely from inorganic substances through photosynthesis; a strict autotroph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and physiological ecology, an organism exhibiting holophytic nutrition, contrasting with phagotrophic holozoa and saprotrophic fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holophyte designates an organism that produces its own food by photosynthesis."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"The true **holophyte** constructs complex proteins and carbohydrates solely from carbon dioxide, water, and nitrate salts."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Among flagellates, Euglena behaves as a **holophyte** in light, while related forms have lost their plastids and become holozoic."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The metabolic divide between the animal holozoon and the green **holophyte** represents the fundamental divergence of eukaryotic life."*

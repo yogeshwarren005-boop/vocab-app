@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of government: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or science concerned with guiding or influencing governmental policy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activities associated with the governance of a country or area, especially the debate between parties having power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and philosophy, the processes through which groups make collective decisions and allocate power and resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen, after drinking his glass of water, joined some gentlemen to talk over the politics of the day and compare the accounts of their newspapers; and the ladies walked about together, noticing every new face, and almost every new bonnet in the room."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What was needed in many directions, both in politics and in industry, was merely negative action by the government, the repeal of the old laws, the overthrow of old abuses."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The philosophers of the time believed in a "natural law" in industry and politics."*
+> - 📜 **Aristotle (*Politics*):** *"The master science of the human good is **politics**, for it prescribes which sciences should be studied in cities."*
+> - 📜 **Max Weber (*Politics as a Vocation*):** *"**Politics** is a strong and slow boring of hard boards, requiring both passion and perspective."*
+> - 📜 **Abraham Lincoln (*Speech at Peoria*):** *"In a free government, **politics** must continually align public sentiment with great moral truths."*

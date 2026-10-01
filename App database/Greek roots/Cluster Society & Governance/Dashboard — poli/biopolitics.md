@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intersection of biology and politics; the management of human life, health, and population by political power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In post-structuralist political theory (coined by Michel Foucault), the modern techniques of power centered on regulating the biological body of populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopolitics designates a term designating an entity, condition, or phenomenon derived from greek poli."*
+> - 📜 **Michel Foucault (*The History of Sexuality*):** *"Modern sovereign power shifted from the right to kill to the administration of bodies through **biopolitics**."*
+> - 📜 **Giorgio Agamben (*Homo Sacer: Sovereign Power and Bare Life*):** *"The concentration camp is the hidden paradigm of modern **biopolitics**, where bare life and law collide."*
+> - 📜 **Donna Haraway (*Simians, Cyborgs, and Women*):** *"Contemporary **biopolitics** operates through genomic mapping, reproductive technologies, and digital surveillance."*

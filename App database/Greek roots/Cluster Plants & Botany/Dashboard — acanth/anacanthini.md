@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At least partially equivalent to the order gadiformes in some classifications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At least partially equivalent to the order gadiformes in some classifications.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete taxonomic order of teleost fishes characterized by the absence of spiny rays in their fins, including codfishes and flatfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical systematic ichthyology, a grouping proposed by Johannes Müller to contrast soft-rayed gadoids and pleuronectids with acanthopterygians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anacanthini designates at least partially equivalent to the order gadiformes in some classifications."*
+> - 📜 **Johannes Müller (*Ueber den Bau und die Grenzen der Ganoiden*):** *"I have established the **Anacanthini** to embrace those teleosts whose dorsal and anal rays are entirely soft and jointed."*
+> - 📜 **Albert Günther (*Introduction to the Study of Fishes*):** *"Although the **Anacanthini** were traditionally placed alongside physostomes, their air bladder lacks a pneumatic duct."*
+> - 📜 **David Starr Jordan (*The Classification of Fishes*):** *"Modern phylogenetics disassembled the **Anacanthini**, transferring flatfishes to Pleuronectiformes and cods to Gadiformes."*

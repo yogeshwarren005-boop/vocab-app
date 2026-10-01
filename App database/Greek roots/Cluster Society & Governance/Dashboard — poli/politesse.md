@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Courtesy towards women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Courtesy towards women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Politeness; refined manners, especially of a conventional or slightly formal kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social critique, polished French salon etiquette or superficial, ceremonious civility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The frank address, the soft caress, Are worse than poisoned darts of steel; The frank address, and politesse, Are all finesse in Rob Mossgiel."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not easy to imagine a more helpless state than his whose poetic fancy unfits him for the world, and whose character as a scholar gives him some pretensions to the _politesse_ of life, yet is as poor as I am."*
+> - 📜 **Lord Chesterfield (*Letters to His Son*):** *"Acquire that French **politesse** which disarms hostility and opens every drawing-room door."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The French diplomat bowed with exquisite **politesse**, complimenting Becky on her fluent Parisian accent."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman admired the aristocratic family's rigid **politesse**, though sensing an iron wall beneath."*

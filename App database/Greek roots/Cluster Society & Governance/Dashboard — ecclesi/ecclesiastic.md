@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ecclesiastical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecclesiastical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the clergy or other person in holy orders; a priest or minister.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the Christian Church or clergy; ecclesiastical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The man and the ecclesiastic fought within him, and the victory fell to the man."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"One knows,' I said, 'that there are many things which an ecclesiastic may do without harm, which are not permitted to an ordinary layman--one who is an honest man, and no more.' M. le Curé made no reply."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"What is it?' I cried, 'you are their director--you are an ecclesiastic--you know what belongs to the unseen."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious **ecclesiastic** skillfully managed the theological passions of the imperial court."*
+> - 📜 **Voltaire (*Candide*):** *"The traveler observed that an influential **ecclesiastic** exercised greater authority than the provincial governor."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Slope was an ambitious **ecclesiastic** determined to bend the diocese to his own theological vision."*

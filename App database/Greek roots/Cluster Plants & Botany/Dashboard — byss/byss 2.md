@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek byss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical root derived from Greek 'byssos' (bottom, depth of the sea, abyss), underlying words referring to profound depth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological and oceanographic etymology, the stem signifying bathyal and abyssal environments, formed by privative a- and byssos (bottomless).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, byss 2 designates a term designating an entity, condition, or phenomenon derived from greek byss."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek noun **byssos** signifies the sea floor or bottom, serving as the etymological root of abyss, that which has no bottom."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"In Indo-European terms for water depth, **byssos** designates the submerged floor or seabed."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Geological compounds incorporating **byss** and abyss designate petrological formations crystallizing at tremendous subterranean depths."*

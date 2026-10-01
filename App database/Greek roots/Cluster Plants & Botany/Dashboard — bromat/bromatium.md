@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bromat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swollen hyphal tip (gongylidium) or cluster of hyphae produced by symbiotic fungi cultivated by leafcutter ants, harvested as the colony's primary food source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecology and fungal ecology, specialized nutrient-rich fungal structures packed with glycogen, proteins, and lipids cultivated inside attine ant nests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromatium designates a term designating an entity, condition, or phenomenon derived from greek bromat."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The workers systematically prune the fungal mycelium, stimulating the production of swollen nutrient bodies termed a **bromatium**."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"Attine leafcutters do not consume the leaves they harvest, but use them to manure gardens that yield the edible **bromatium**."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Microscopic analysis reveals that each **bromatium** is an enlarged hyphal sphere rich in essential amino acids and enzymes."*

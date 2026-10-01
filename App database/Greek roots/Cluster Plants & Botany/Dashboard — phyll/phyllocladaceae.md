@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of phyllocladaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of phyllocladaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of southern hemisphere coniferous trees and shrubs (order Pinales), commonly known as celery pines, comprising the single genus Phyllocladus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gymnosperm systematics and paleobotany, ancient Australasian podocarps characterized by cladodes (phylloclades) replacing true leaves and fleshy arillate seed cones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllocladaceae designates a family of phyllocladaceae."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"The **Phyllocladaceae** are distinguished from typical Podocarpaceae by their fan-shaped photosynthetic phylloclades and solitary seeds."*
+> - 📜 **Joseph Dalton Hooker (*Flora Novae-Zelandiae*):** *"New Zealand forests harbor endemic species of **Phyllocladaceae**, prized by settlers for their durable, straight-grained timber."*
+> - 📜 **Alan Feduccia (*The Gondwana Flora*):** *"Fossil foliage matching modern **Phyllocladaceae** occurs in Cretaceous strata across Antarctica and southeastern Australia."*

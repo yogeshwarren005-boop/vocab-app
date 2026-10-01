@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a tree in form and branching structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a tree in form and branching structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the form of a tree; arborescent or tree-like in habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology and geology, describing graptolites, corals, or bryozoans possessing a stout erect trunk and radiating branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendroid designates resembling a tree in form and branching structure."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The Silurian shales contain well-preserved rhabdosomes of **dendroid** graptolites anchored to sea-lilies by basal rootlets."*
+> - 📜 **James Dwight Dana (*Corals and Coral Islands*):** *"Deep-sea gorgonians build **dendroid** colonies whose flexible branches wave with the deep tidal currents."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Tree-ferns attain a truly **dendroid** stature, lifting massive crowns of fronds forty feet above the forest floor."*

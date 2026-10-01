@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed herbs and shrubs and trees; sometimes placed in the order scrophulariales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed herbs and shrubs and trees; sometimes placed in the order scrophulariales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of dicotyledonous flowering plants (order Lamiales), predominantly tropical herbs and shrubs characterized by opposite leaves, zygomorphic flowers, and explosive capsules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an advanced asterid family distinguished by specialized retinacula (hook-shaped funicles) that propel seeds from the dehiscing capsule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthaceae designates widely distributed herbs and shrubs and trees; sometimes placed in the order scrophulariales."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The Australian representatives of the **Acanthaceae** inhabit dry savanna margins, displaying bilabiate corollas and jaculator-bearing fruit."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"We distinguish the **Acanthaceae** from allied Scrophularineae primarily by their estipulate opposite leaves and elastically rupturing valves."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Numerous herbaceous species of **Acanthaceae** carpet the moist understory of the lower Himalayan forests."*

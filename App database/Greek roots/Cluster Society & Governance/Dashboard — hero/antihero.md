@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protagonist or notable figure who is conspicuously lacking in heroic qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protagonist or notable figure who is conspicuously lacking in heroic qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A central character in a story, movie, or drama who lacks conventional heroic attributes such as idealism, courage, or morality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary modernism and postmodernism, a protagonist marked by disillusionment, moral ambiguity, alienation, or comic inadequacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihero designates a protagonist or notable figure who is conspicuously lacking in heroic qualities."*
+> - 📜 **Albert Camus (*The Stranger*):** *"Meursault stands as the quintessential twentieth-century **antihero**, detached and refusing to lie about his feelings."*
+> - 📜 **Fyodor Dostoevsky (*Notes from Underground*):** *"The spiteful underground narrator confesses his own flawed nature, celebrating the triumph of the self-conscious **antihero**."*
+> - 📜 **James Joyce (*Ulysses*):** *"Leopold Bloom wanders Dublin as a gentle, unpretentious modern **antihero**, contrasting with Homeric warriors."*

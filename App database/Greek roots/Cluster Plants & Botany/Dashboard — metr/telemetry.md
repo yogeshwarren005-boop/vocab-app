@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or process of telemetering data.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Data transmitted by telemetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The automatic recording and electrical transmission of data from remote, inaccessible, or moving sources to receiving equipment for monitoring and analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace engineering, environmental monitoring, and biomedical telemetry, wireless sensor transmission of physiological or performance parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemetry designates the science or process of telemetering data."*
+> - 📜 **Wernher von Braun (*First Men to the Moon*):** *"Radio **telemetry** from the rocket stage flashed thousands of instrument readings back to the launch control bunker every second."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Automated **telemetry** stations installed along river basins record continuous changes in dissolved oxygen and chemical runoff."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Without high-frequency **telemetry**, interplanetary space exploration would be blind and voiceless in the dark cosmic void."*

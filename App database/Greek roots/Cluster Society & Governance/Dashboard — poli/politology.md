@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of politics; political science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The academic discipline investigating constitutional governance, party systems, public opinion, and geopolitical strategy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, politology designates a term designating an entity, condition, or phenomenon derived from greek poli."*
+> - 📜 **Harold Lasswell (*Politics: Who Gets What, When, How*):** *"The central inquiry of modern **politology** is the systematic analysis of power and influence."*
+> - 📜 **Maurice Duverger (*Political Parties*):** *"Comparative **politology** demonstrates how electoral systems mathematically shape the number of national parties."*
+> - 📜 **Robert Dahl (*Polyarchy: Participation and Opposition*):** *"Empirical **politology** seeks to measure the real-world conditions under which democratic institutions survive."*

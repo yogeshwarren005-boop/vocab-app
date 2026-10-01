@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass time in a specific way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pay out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pay out money in buying or hiring goods or services; or to pass or use time in a specified way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically derived via Old French despendre from Latin expendere ('to weigh out money', related to Greek spendo, 'to pour a libation, make a treaty').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thou live remembered not to be, Die single and thine image dies with thee. 4 Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s legacy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no precious time at all to spend; Nor services to do till you require."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spend’st thou thy fury on some worthless song, Darkening thy power to lend base subjects light?"*
+> - 📜 **Francis Bacon (*Essays: Of Studies*):** *"To **spend** too much time in studies is sloth; to use them too much for ornament is affectation."*
+> - 📜 **Benjamin Franklin (*The Way to Wealth*):** *"A penny saved is two pence clear; a pin a day's a groat a year; learn to spare and **spend** with prudence."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run, to **spend** upon it."*

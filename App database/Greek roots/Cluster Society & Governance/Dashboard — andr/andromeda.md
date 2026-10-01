@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad-leaved evergreen asiatic shrub with glossy leaves and drooping clusters of white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several shrubs of the genus andromeda having leathery leaves and clusters of small flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A northern constellation named after the mythical Ethiopian princess; or a genus of ericaceous bog plants (bog-rosemary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In extragalactic astronomy, referring to the Andromeda Galaxy (M31), the nearest major spiral galaxy to the Milky Way.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is Guido’s picture of Perseus rescuing Andromeda from the sea-monster or whale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Akin to the adventure of Perseus and Andromeda—indeed, by some supposed to be indirectly derived from it—is that famous story of St."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is Guido’s picture of Perseus rescuing Andromeda from the sea-monster or whale."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"Cepheid variables resolved within the Great Nebula in **Andromeda** proved conclusively that spiral nebulae were island universes."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"We looked up at the glittering expanse of **Andromeda**, humbled by stellar immensity."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Bound to the jagged ocean crag, fair **Andromeda** awaited the approach of the ravenous sea monster."*

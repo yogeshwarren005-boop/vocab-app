@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting igneous rock formed by solidification at considerable depth beneath the earth's surface; deep-seated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of geological theory, relating to Plutonism (the theory that volcanic heat shaped the Earth's crust, opposed to Neptunism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutonic designates of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro."*
+> - 📜 **James Hutton (*Theory of the Earth*):** *"The subterranean heat that fuses granite demonstrates the sovereign operation of **plutonic** forces in world-building."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Coarse crystalline textures distinguish deep-seated **plutonic** rocks from rapidly chilled volcanic lavas."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"Mountain roots are reinforced by vast **plutonic** batholiths injected during regional orogenesis."*

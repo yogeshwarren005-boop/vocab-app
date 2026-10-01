@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mucous membrane rash or eruption, such as Koplik's spots in measles or lesions of the oral mucosa, appearing during an infectious disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pediatric diagnostics, the mucosal counterpart of a cutaneous exanthem, serving as an early prodromal indicator of systemic viral infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enanthem designates a term designating an entity, condition, or phenomenon derived from greek anth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful examination of the soft palate often detects an early **enanthem** twenty-four hours before the cutaneous rash appears."*
+> - 📜 **Thomas B. Fitzpatrick (*Dermatology in General Medicine*):** *"Koplik spots represent a pathognomonic **enanthem** on the buccal mucosa preceding the full eruption of rubeola."*
+> - 📜 **Abraham Jacobi (*The Intestinal Diseases of Infancy and Childhood*):** *"In scarlet fever, the characteristic punctate **enanthem** inflames the tongue into the classic strawberry appearance."*

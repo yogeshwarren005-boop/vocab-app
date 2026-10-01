@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pedagogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pedagogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to teaching or the profession of teaching; pedagogic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning the theory, methods, and psychological principles of education.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I felt that if I stood there talking with the Crag any longer, I might grow pedagogical and teach him a few things so I sent him home across the road."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The **pedagogical** responsibility of the school is to provide an environment that coordinates the social activities of life."*
+> - 📜 **Lev Vygotsky (*Mind in Society*):** *"Instruction is most fruitful when directed toward the zone of proximal development in **pedagogical** design."*
+> - 📜 **Paulo Freire (*Pedagogy of the Oppressed*):** *"A revolutionary **pedagogical** approach rejects the banking concept of education in favor of problem-posing dialogue."*

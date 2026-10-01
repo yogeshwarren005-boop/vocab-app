@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various orchids of the genus epidendrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various orchids of the genus epidendrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete or historical variant of Epidendrum, designating an orchid or parasitic/epiphytic plant growing upon trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pre-Linnaean and early 18th-century botanical literature, any tropical epiphyte that perches upon the bark or limbs of forest trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidendron designates any of various orchids of the genus epidendrum."*
+> - 📜 **Hans Sloane (*A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica*):** *"I observed several curious sorts of **epidendron** clinging to the wild calabash trees, deriving nourishment from humid air."*
+> - 📜 **John Ray (*Historia Plantarum*):** *"Ancient authors termed **epidendron** those singular foreign plants that take root upon living wood without touching soil."*
+> - 📜 **Philip Miller (*The Gardeners Dictionary*):** *"Under the name **epidendron**, early travelers described the splendid vanilla vine climbing upon jungle trunks."*

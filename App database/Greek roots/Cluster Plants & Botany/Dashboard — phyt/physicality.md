@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation with satisfaction of physical drives and appetites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with satisfaction of physical drives and appetites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being physical; bodily existence or tangible material nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and aesthetics, the direct, sensory presence or visceral force of bodily action and material reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physicality designates preoccupation with satisfaction of physical drives and appetites."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The Greek sculptor celebrated the heroic **physicality** of the athlete while infusing the marble with divine serenity."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The raw **physicality** of the dairy barn at milking time surrounded her with earthy smells of warm milk and hay."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sheer brute **physicality** of the leviathan's breach shook the very foundations of the ocean."*

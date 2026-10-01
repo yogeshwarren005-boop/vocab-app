@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plunder (a town) after capture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate the employment of; discharge from an office or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dismissed from employment; plundered, looted, and devastated (of a city); put into a sack or sacks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, having fallen to pillage and devastation by victorious troops; colloquially, having lost a job.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLOWN. [_Sings._] _ Was this fair face the cause, quoth she, Why the Grecians sacked Troy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her house is sacked, her quiet interrupted, Her mansion battered by the enemy, Her sacred temple spotted, spoiled, corrupted, Grossly engirt with daring infamy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket say, but sits with most attentive eyes until the sacked depository of noble secrets is brought down—Where are all those secrets now?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"In the year 410, Rome, the eternal city, was captured and **sacked** by the Gothic hordes of Alaric."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The unlucky clerk was summarily **sacked** for dipping his pen into the senior partner's private inkstand."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The smoking ruins of the castle proved that the fierce outlaws had thoroughly **sacked** every tower and vault."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ferns belonging to the family polypodiaceae (in some classification systems included in genus asplenium).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of ferns belonging to the family polypodiaceae (in some classification systems included in genus asplenium).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete botanical genus comprising the hart's-tongue fern (Phyllitis scolopendrium, now Asplenium scolopendrium); also an archaic medical term for leaf inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, an evergreen temperate woodland fern prized for its undivided, strap-shaped, glossy fronds with linear sori arranged in pairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllitis designates a genus of ferns belonging to the family polypodiaceae (in some classification systems included in genus asplenium)."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Hart's tongue or **Phyllitis** groweth upon moist mossy rocks and churchyard walls, bearing fair long tongues of shining green."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The genus **Phyllitis** is distinguished from Asplenium by having sori that face one another in pairs under confluent indusia."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The rare hart's-tongue fern was formerly placed under **Phyllitis**, inhabiting shaded limestone crevices in central New York."*

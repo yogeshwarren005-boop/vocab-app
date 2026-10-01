@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to epidemiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to epidemiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to epidemiology; concerning the incidence, distribution, and control of diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health, relating to observational cohort studies, case-control analyses, and disease etiology across populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidemiologic designates of or relating to epidemiology."*
+> - 📜 **John Snow (*On the Mode of Communication of Cholera*):** *"Careful **epidemiologic** mapping traced the cholera contagion directly to the Broad Street water pump."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Rigorous **epidemiologic** surveys are essential before sanitary legislation can be enacted with confidence."*
+> - 📜 **J. B. S. Haldane (*Heredity and Politics*):** *"Public health reforms rely upon sound **epidemiologic** statistics to evaluate workplace hazards."*

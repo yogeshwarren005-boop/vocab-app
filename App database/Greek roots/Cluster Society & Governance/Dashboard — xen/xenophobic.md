@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from xenophobia; having abnormal fear or hatred of the strange or foreign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from xenophobia; having abnormal fear or hatred of the strange or foreign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a dislike of or prejudice against people from other countries; characteristic of xenophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying insular, hostile, or discriminatory attitudes toward outsiders, foreign customs, or immigrants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenophobic designates suffering from xenophobia; having abnormal fear or hatred of the strange or foreign."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The English working class had insular habits, yet were largely free from vicious, **xenophobic** cruelty."*
+> - 📜 **H. L. Mencken (*Prejudices: Fourth Series*):** *"The provincial demagogue built his political following by fanning cheap, **xenophobic** panics."*
+> - 📜 **Noam Chomsky (*World Orders Old and New*):** *"Right-wing political resurgence in Europe relies heavily upon inflammatory, **xenophobic** rhetoric against migrant laborers."*

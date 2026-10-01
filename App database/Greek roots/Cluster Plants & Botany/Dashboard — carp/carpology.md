@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek carp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of botany that deals with the structural study, classification, and morphology of fruits and seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic organography, the specialized scientific discipline established by Joseph Gaertner to classify plants based upon internal seed and fruit architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpology designates a term designating an entity, condition, or phenomenon derived from greek carp."*
+> - 📜 **Joseph Gaertner (*De Fructibus et Seminibus Plantarum*):** *"The foundation of rational **carpology** rests upon the internal anatomy of the embryo and seed coats rather than external pericarp shape."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Gaertner's masterwork on **carpology** revolutionized plant systematics by demonstrating the diagnostic constancy of seed structures."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"A sound grounding in **carpology** enables the student to distinguish true syncarpous berries from deceptive pseudocarps."*

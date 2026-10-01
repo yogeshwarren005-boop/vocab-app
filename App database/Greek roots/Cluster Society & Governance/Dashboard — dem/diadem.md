@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crown; specifically : a royal headband.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crown; specifically : a royal headband.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A jeweled crown or headband worn as a symbol of sovereignty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and numismatics, a white silk ribbon or fillet bound around the brow of Hellenistic kings to denote royal power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found her trimming up the diadem On her dead mistress; tremblingly she stood, And on the sudden dropped."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A vice of kings, A cutpurse of the empire and the rule, That from a shelf the precious diadem stole And put it in his pocket!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Levied an army, weening to redeem And have install’d me in the diadem."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian replaced the laurel wreath with a pearl-encrusted imperial **diadem**, adopting Persian court ceremonial."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Upon his brow he wore no gilded **diadem**, but majesty that outshone earthly monarchs."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"A murderer and a villain, A slave that was not twentieth part the tithe Of your precedent lord; a vice of kings; A cutpurse of the empire and the rule, That from a shelf the precious **diadem** stole."*

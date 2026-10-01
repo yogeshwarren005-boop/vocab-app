@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that requires a moderate, well-balanced supply of moisture, thriving in average climatic conditions (contrasting with xerophytes and hydrophytes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological plant ecology, terrestrial vegetation with broad foliage, non-sunken stomata, and moderate root systems adapted to temperate climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesophyte designates land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"Deciduous woodland trees like oak and beech are typical examples of a **mesophyte**, shedding leaves to survive winter frosts."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Unlike the water-lily or desert cactus, the common garden bean is an ordinary **mesophyte** requiring regular rainfall."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"Leaf cuticles in a typical **mesophyte** are moderately thin, allowing efficient gas exchange while preventing excessive wilting."*

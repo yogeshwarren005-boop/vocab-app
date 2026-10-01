@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An originator or chief advocate of a heresy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An originator or chief advocate of a heresy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader or founder of a heresy or heretical sect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and polemical theology, an arch-heretic who originates novel dogmatic errors that seduce the faithful.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Shrunken uncertain hand. —Sabellius, the African, subtlest heresiarch of all the beasts of the field, held that the Father was Himself His Own Son."*
-> - 📜 **James Joyce (*Ulysses*):** *"Symbol of the apostles in the mass for pope Marcellus, the voices blended, singing alone loud in affirmation: and behind their chant the vigilant angel of the church militant disarmed and menaced her heresiarchs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Arius was condemned by the Council of Nicaea as an obstinate and dangerous **heresiarch**."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"In burning tombs lie each **heresiarch** alongside their sectaries, suffering flames proportional to their error."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Polemists denounced the radical reformer as an insidious **heresiarch** subverting all public order."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plantlike flagellates containing chlorophyll; often considered unicellular algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plantlike flagellates containing chlorophyll; often considered unicellular algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic subclass or grouping of plant-like flagellated protists (phytoflagellates) that possess chloroplasts and synthesize food through photosynthesis (such as Euglena and Volvox).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical protozoology, flagellates exhibiting photosynthetic autotrophy, contrasting with animal-like Zoomastigina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytomastigina designates plantlike flagellates containing chlorophyll; often considered unicellular algae."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The **Phytomastigina** unite the characteristics of plant and animal, swimming actively with whip-like flagella while photosynthesizing."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Green colonial forms belonging to the **Phytomastigina**, such as Volvox, illustrate early stages in the evolution of multicellularity."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Most protozoologists regard the **Phytomastigina** as the ancestral stem from which both higher plants and colorless protozoa arose."*

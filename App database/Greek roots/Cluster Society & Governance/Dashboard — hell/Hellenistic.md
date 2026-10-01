@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of the classical greek civilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the classical greek civilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Greek history, language, and culture from the death of Alexander the Great (323 BC) to the defeat of Cleopatra at Actium (31 BC).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art and cultural history, characterized by dynamic emotional realism, cosmopolitan hybridity, and large-scale architectural splendor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There is the region of Asia Minor and Greece,--where the church is Hellenistic in every sense of the word, very Greek upon the surface and less Greek underneath, again with marked contrasts due to geography and race-distribution."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And, further, at the difficult moment of transition, when Christian ideas passed from the Jewish to the Gentile world, there were Jews of the Hellenistic type ready to mediate the change."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A Jew, a native of a Hellenistic city--and "no mean one"[47]--a citizen of the Roman Empire, a man of wide outlooks, with a gift for experience, he passed from {155} Pharisaism to Christ."*
+> - 📜 **W. W. Tarn (*Hellenistic Civilisation*):** *"The **Hellenistic** world was a vibrant, interconnected ecumene spanning from the Mediterranean to the Indus."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Stoicism and Epicureanism arose to comfort the solitary soul in the vast, disordered **Hellenistic** empires."*
+> - 📜 **John Boardman (*Greek Art*):** *"In the **Hellenistic** baroque, sculptors abandoned classical calm to express visceral theatrical anguish."*

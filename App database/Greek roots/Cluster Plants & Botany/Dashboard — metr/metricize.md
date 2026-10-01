@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in the metric system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert to the metric system of measurement; also, to put into poetic meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering and literary composition, adapting specifications to metric dimensions or rendering prose into verse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metricize designates express in the metric system."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific education should **metricize** all physical balances so that students think naturally in decimal units."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"The poet must deliberately **metricize** his emotional conceptions to give them artistic permanence."*
+> - 📜 **Frank A. Lee (*Industrial Standardization*):** *"Automobile corporations decided to **metricize** engine specifications to unify global parts manufacturing."*

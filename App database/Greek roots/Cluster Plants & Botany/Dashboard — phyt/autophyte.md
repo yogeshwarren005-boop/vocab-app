@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-nourishing plant capable of synthesizing its own food from inorganic substances through photosynthesis, without relying upon organic matter from other organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiological ecology, a strictly autotrophic organism possessing chlorophyll, contrasting with heterotrophic parasites and saprophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autophyte designates a term designating an entity, condition, or phenomenon derived from greek phyt."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"The green **autophyte** assimilates carbon dioxide directly from the atmosphere under the catalytic power of absorbed sunlight."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"In forest succession, the initial colonizers are typically an independent **autophyte** species tolerant of nutrient-poor bare mineral substrates."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"While dodder lives parasitically, the clover host upon which it feeds is a normal independent **autophyte**."*

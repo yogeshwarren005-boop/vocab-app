@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a carpospore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a carpospore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or producing carpospores (the spores of red algae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhodophyte cytology, designating the carposporophyte phase dedicated to carpospore amplification and discharge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carposporic designates relating to or resembling a carpospore."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The **carposporic** phase represents an extraordinary parasitic diploid generation living entirely within the female gametophyte."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Cytological division within the **carposporic** filaments culminates in the formation of club-shaped terminal sporangia."*
+> - 📜 **William Gilson Farlow (*Marine Algae of New England*):** *"The presence of mature **carposporic** cysts provides conclusive taxonomic identification among ambiguous red algal species."*

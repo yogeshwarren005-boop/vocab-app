@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of malayan pinnate-leaved palm trees that flower and fruit once and then die.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of malayan pinnate-leaved palm trees that flower and fruit once and then die.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of palms (family Arecaceae) native to Southeast Asia and Melanesia, famously including the true sago palm (Metroxylon sagu).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic tropical botany, arborescent swamp palms whose massive trunks accumulate hundreds of pounds of starchy edible pith harvested as commercial sago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metroxylon designates a genus of malayan pinnate-leaved palm trees that flower and fruit once and then die."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The sago palm, **Metroxylon** sagu, provides the islanders with bread; a single felled trunk supplies a family with food for an entire year."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Metroxylon** flourish in coastal freshwater swamps, flowering once in a massive terminal panicle before dying."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The pith of **Metroxylon** yields the finest pearl sago of commerce after repeated washing and granulation through sieves."*

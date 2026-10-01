@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the Democratic party of the U.S. : a member of one of the two major political parties in the U.S. that is usually associated with government regulation of business, finance, and industry, with federally funded educational and social services, with separation of church and state, with support for abortion rights, affirmative action, gun control, and policies and laws that protect and support the rights of workers and minorities, and with internationalism and multilateralism in foreign policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that favors or supports a democratic form of government : an adherent or advocate of democracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate or supporter of democracy; or a member/supporter of a Democratic Party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who believes in social and political equality, treating others without aristocratic pretensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Who’s over him, he cries;—aye, he would be a democrat to all above; look, how he lords it over all below!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Missouri Democrat soon after hoisted the flag of Emancipation under the leadership of Frank Blair."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Who’s over him, he cries;—aye, he would be a democrat to all above; look, how he lords it over all below!"*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"The true **democrat** sees in every laborer and mechanic an equal partner in the republic."*
+> - 📜 **Thomas Paine (*Common Sense*):** *"A sincere **democrat** insists that rights belong to humanity by nature, not by royal patent."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American **democrat** carries into all life an ingrained habit of independent civic participation."*

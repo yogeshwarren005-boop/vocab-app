@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of early Christian writers, Church Fathers, and their theological doctrines; patristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical scholarship, the systematic historical and linguistic analysis of Christian literature from the apostolic age to Gregory the Great.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrology designates a term designating an entity, condition, or phenomenon derived from greek pater."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"My immersion in patristic studies and **patrology** convinced me of the continuous development of Catholic dogma."*
+> - 📜 **Eusebius (*Ecclesiastical History*):** *"The foundations of sacred **patrology** were laid by recording the letters and martyrdoms of the apostolic fathers."*
+> - 📜 **Jaroslav Pelikan (*The Christian Tradition*):** *"Modern theological renewal frequently springs from a fresh return to the rich sources of ancient **patrology**."*

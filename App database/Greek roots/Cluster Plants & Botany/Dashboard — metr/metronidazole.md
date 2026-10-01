@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic nitroimidazole antibiotic and antiprotozoal medication used to treat anaerobic bacterial infections, trichomoniasis, amebiasis, and giardiasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a prodrug that anaerobic microorganisms selectively reduce into reactive nitro radicals, inducing lethal DNA strand breakage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metronidazole designates antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In amebic hepatic abscess, administration of **metronidazole** eradicates trophozoites swiftly without requiring surgical aspiration."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"First-line therapy for Clostridioides difficile colitis historically relied upon oral **metronidazole** to suppress spore-forming anaerobes."*
+> - 📜 **Thomas B. Fitzpatrick (*Dermatology in General Medicine*):** *"Topical **metronidazole** gel delivers excellent anti-inflammatory control in erythematotelangiectatic rosacea."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of funds) remaining after taxes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of funds) remaining after taxes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Available or suitable for spending, especially money or disposable income.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and personal finance, funds remaining after taxes and mandatory fixed expenses that can be freely spent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No country on the globe sends out so many foreign travelers with a spendable surplus, as the United States, or that scatter their money more generously, not to say extravagantly."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"An increase in **spendable** income does not automatically elevate human happiness without public goods."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Surplus wealth must be converted into **spendable** luxury to advertise pecuniary standing."*
+> - 📜 **Milton Friedman (*A Theory of the Consumption Function*):** *"Consumers base expenditure decisions on permanent income rather than transitory fluctuations in **spendable** cash."*

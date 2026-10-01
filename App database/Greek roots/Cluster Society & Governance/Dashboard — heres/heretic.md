@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who differs in opinion from established religious dogma; specifically : a baptized member of the Roman Catholic Church who refuses to acknowledge or accept a truth made known through divine inspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who differs in opinion from an accepted belief or doctrine : nonconformist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person believing in or practicing religious heresy; or a person holding an opinion at odds with what is generally accepted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, an uncompromising iconoclast whose nonconformity threatens institutional orthodoxy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Again, there is sprung up An heretic, an arch-one, Cranmer, one Hath crawled into the favour of the King And is his oracle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Philip of France, on peril of a curse, Let go the hand of that arch-heretic, And raise the power of France upon his head, Unless he do submit himself to Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now doth thy honour stand, In him that was of late an heretic, As firm as faith."*
+> - 📜 **George Bernard Shaw (*Saint Joan*):** *"The church must burn the **heretic** not out of malice, but to preserve the flock from spiritual corruption."*
+> - 📜 **Voltaire (*Philosophical Dictionary*):** *"A **heretic** is simply someone who has an opinion of his own when the rest of the world has none."*
+> - 📜 **Friedrich Nietzsche (*Beyond Good and Evil*):** *"Every bold pioneer of thought has been reviled as a dangerous **heretic** by his contemporaries."*

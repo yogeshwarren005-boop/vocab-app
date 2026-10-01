@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ostrac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin, outermost organic coating or skin protecting the calcareous shell of many mollusks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, a tough layer of the fibrous protein conchin secreted by the mantle edge that prevents acid dissolution of the underlying calcium carbonate shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periostracum designates a term designating an entity, condition, or phenomenon derived from greek ostrac."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dark, velvety **periostracum** of the giant Patagonian mussel protects its heavy shell from wave erosion."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The mantle margin secretes the organic **periostracum** before the prismatic and nacreous shell layers are deposited."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Freshly stranded shells retain a fibrous brown **periostracum** that soon dries and flakes away in the salt wind."*

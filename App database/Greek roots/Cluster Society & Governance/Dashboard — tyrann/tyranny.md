@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppressive power; especially : oppressive power exerted by government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government that exerts oppressive power over its populace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cruel and oppressive government or rule; or an arbitrary exercise of power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek politics, absolute rule seized unconstitutionally by a leader (often with popular support against the oligarchy), not necessarily cruel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The remembrance of her father never approaches her heart but the tyranny of her sorrows takes all livelihood from her cheek."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Best of my flesh, Forgive my tyranny, but do not say For that, “Forgive our Romans.” [_They kiss._] O, a kiss Long as my exile, sweet as my revenge!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I found the Prince in the next room, Washing with kindly tears his gentle cheeks, With such a deep demeanour in great sorrow That tyranny, which never quaff’d but blood, Would, by beholding him, have wash’d his knife With gentle eye-drops."*
+> - 📜 **Thomas Jefferson (*Letter to Benjamin Rush*):** *"I have sworn upon the altar of God eternal hostility against every form of **tyranny** over the mind of man."*
+> - 📜 **Plato (*The Republic*):** *"Extreme liberty leads only to extreme subjection, and the excessive freedom of the mob ends in absolute **tyranny**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Bad laws are the worst sort of **tyranny**, corrupting both the magistrate who enforces them and the citizen who obeys."*

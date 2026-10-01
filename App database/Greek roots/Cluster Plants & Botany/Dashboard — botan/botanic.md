@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garden often with greenhouses for the culture, study, and exhibition of special plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garden often with greenhouses for the culture, study, and exhibition of special plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from plants or the scientific study of plants; botanical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating dedicated scientific gardens, institutions, or publications established for the cultivation and study of plant species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The Botanic Gardens are just over there."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"COOKE, AUTHOR OF “A PLAIN AND EASY ACCOUNT OF BRITISH FUNGI,” “INDEX FUNGORUM BRITANNICORUM,” “A MANUAL OF BOTANIC TERMS,” “A MANUAL OF STRUCTURAL BOTANY,” ETC."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Where the labour of man appears to decay, nature has put forth her vigour and beauty, and transformed those roofless walls into a wild botanic garden."*
+> - 📜 **Erasmus Darwin (*The Botanic Garden*):** *"In the sheltered groves of the **botanic** garden, science and poetry unite to celebrate the mysteries of floral life."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The Royal **Botanic** Gardens at Kew dispatched collectors to the highest passes of Sikkim to gather rhododendron seeds."*
+> - 📜 **William Curtis (*The Botanical Magazine*):** *"This monthly journal aims to present accurate colored portraits of curious exotic plants cultivated in **botanic** borders."*

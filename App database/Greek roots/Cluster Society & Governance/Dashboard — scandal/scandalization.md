@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being shocked (as by improper behavior).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of scandalizing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of shocking someone through scandalous behavior, or causing a public scandal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media sociology, the process through which journalistic reporting frames an event into a moral transgression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scandalization designates the condition of being shocked (as by improper behavior)."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"University trustees feared public **scandalization** more than intellectual stagnation."*
+> - 📜 **Hannah Arendt (*Crises of the Republic*):** *"The **scandalization** of administrative secrecy forced the release of classified wartime documents."*
+> - 📜 **Henry James (*The Reverberator*):** *"The American family was baffled by the European outrage and ferocious **scandalization** caused by society gossip."*

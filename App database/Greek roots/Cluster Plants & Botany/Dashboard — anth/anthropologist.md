@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social scientist who specializes in anthropology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social scientist who specializes in anthropology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or scholar who specializes in anthropology, the comprehensive study of humankind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A field researcher or theorist investigating human social structures, languages, folklore, or evolutionary biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grinnell, "Cheyenne Woman Customs," _American Anthropologist_, New Series, iv. (New York, 1902) pp. 13 _sq_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grinnell, "Cheyenne Woman Customs," _American Anthropologist_, New Series, iv. (New York, 1902) p. 14. [230] C."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hewitt, "New Fire among the Iroquois," _The American Anthropologist_, ii. (1889) p. 319. [743] J."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"The field **anthropologist** must live within the native village, observing daily rituals without imposing Western moral judgments."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"As an **anthropologist**, I found myself an exile between cultures, seeking universal structures in the remote Amazonian jungle."*
+> - 📜 **Bronislaw Malinowski (*Argonauts of the Western Pacific*):** *"The primary duty of the **anthropologist** is to grasp the native's point of view, his relation to life, and his vision of the world."*

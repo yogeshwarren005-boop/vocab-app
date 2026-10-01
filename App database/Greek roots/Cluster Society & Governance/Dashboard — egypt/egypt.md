@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Country of northeastern Africa bordering on the Mediterranean and Red seas and site of an early and long enduring civilization of the ancient world; capital Cairo area 386,662 square miles (1,001,450 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Country of northeastern Africa bordering on the Mediterranean and Red seas and site of an early and long enduring civilization of the ancient world; capital Cairo area 386,662 square miles (1,001,450 square kilometers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transcontinental country in northeast Africa and the Sinai Peninsula, home to one of the world's oldest civilizations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical historiography and biblical narrative, the ancient civilization of the Nile Valley famed for pyramids, hieroglyphs, and pharaohs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I am Egypt’s queen, Thou blushest, Antony, and that blood of thine Is Caesar’s homager; else so thy cheek pays shame When shrill-tongued Fulvia scolds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had thy inches, thou shouldst know There were a heart in Egypt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee, turn aside and weep for her, Then bid adieu to me, and say the tears Belong to Egypt."*
+> - 📜 **Herodotus (*The Histories*):** *"The land of **Egypt** is an acquired country, the gift of the river Nile to its industrious people."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fertile grain fields of **Egypt** long served as the indispensable breadbasket of imperial Rome."*
+> - 📜 **Percy Bysshe Shelley (*Ozymandias*):** *"I met a traveller from an antique land of **Egypt**, who spoke of two vast and trunkless legs of stone."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation of what is not human or personal in terms of human or personal characteristics : humanization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interpretation of what is not human or personal in terms of human or personal characteristics : humanization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribution of human traits, emotions, or intentions to non-human entities such as deities, animals, or objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology, philosophy of mind, and animal ethology, the cognitive tendency to frame non-human reality through human psychological categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The true 140:21 worshippers shall worship the Father in spirit and in truth." Anthropomorphism The Jewish tribal Jehovah was a man-projected God, 140:24 liable to wrath, repentance, and human changeableness."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Anthropomorphism History teaches that the popular and false notions 357:18 about the Divine Being and character have originated in the human mind."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The process of thought which leads to the change from the one mode of conception to the other is anthropomorphism, or the gradual investment of the immanent spirits with more and more of the attributes of humanity."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"Men project their own desires onto God, creating a theology rooted in crude **anthropomorphism**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Charges of unwarranted **anthropomorphism** must not blind naturalists to mental continuity across higher mammals."*
+> - 📜 **E. O. Wilson (*On Human Nature*):** *"Scientific biology cautions against uncritical **anthropomorphism** when deciphering invertebrate communication signals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gynecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woman : female.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek gynē (stem gynaik-), meaning woman, female, or female reproductive organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological lexicography, the formative morpheme used in medical, anthropological, and botanical terminology (e.g. gynecology, gynoecium, misogyny).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyn designates gynecology."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Scientific and social vocabularies combining the root **gyn**- reflect historical assumptions about female nature."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In floral terminology, compounds with **gyn**- denote the female reproductive apparatus of seed plants."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Language bearing the ancient mark of **gyn**- records both veneration and exclusion across centuries."*

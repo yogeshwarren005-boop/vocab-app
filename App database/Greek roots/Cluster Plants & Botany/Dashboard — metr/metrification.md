@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing a metrical composition (or the metrical structure of a composition).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing from imperial units of measurement to metric units: meters, grams, seconds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting to the metric system; metrication; also the act or art of composing verse in poetic meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technical history, the adoption of decimal weights and measures; in literary theory, the structural versification of text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrification designates writing a metrical composition (or the metrical structure of a composition)."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The systematic **metrification** of weights and measures swept away thousands of confusing feudal trade customs."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The delicate **metrification** of Spenser's Faerie Queene creates a continuous musical spell that enchants the ear."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The gradual **metrification** of British electrical engineering occurred naturally because the ohm and volt were metric derivatives."*

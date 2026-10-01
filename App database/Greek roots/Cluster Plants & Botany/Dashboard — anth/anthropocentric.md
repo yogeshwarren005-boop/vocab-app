@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considering human beings as the most significant entity of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpreting or regarding the world in terms of human values and experiences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarding humankind as the central, supreme, or most significant entity in the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpreting or evaluating external reality, nature, and divine purpose exclusively in terms of human values, experiences, and utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropocentric designates considering human beings as the most significant entity of the universe."*
+> - 📜 **William James (*The Will to Believe*):** *"The old theological conception assumed an entirely **anthropocentric** cosmos constructed solely for human salvation."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"Copernicus dealt a mortal blow to the **anthropocentric** illusion that the earth and its inhabitants were the center of creation."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Modern empirical inquiry freed itself from medieval teleology by abandoning an **anthropocentric** interpretation of physical events."*

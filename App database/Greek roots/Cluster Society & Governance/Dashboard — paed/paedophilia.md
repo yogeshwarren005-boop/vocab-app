@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual attraction to children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexual attraction to children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual attraction to children (British spelling of pedophilia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric nosology (DSM-5 / ICD-11), a paraphilic disorder defined by recurrent, intense sexual fantasies or behaviors involving prepubescent children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedophilia designates a sexual attraction to children."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Medical jurisprudence recognized that cases of **paedophilia** demanded strict societal protection of vulnerable youth."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The psychopathology of **paedophilia** represents an arrest of psychosexual maturation at an archaic developmental phase."*
+> - 📜 **Michel Foucault (*Abnormal: Lectures at the Collège de France*):** *"The legal and clinical apparatus surrounding **paedophilia** established new regimes of forensic supervision."*

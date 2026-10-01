@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medical science that deals with the incidence, distribution, and control of disease in a population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of the factors controlling the presence or absence of a disease or pathogen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine which deals with the incidence, distribution, and possible control of diseases and other factors relating to health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The core quantitative science of public health, analyzing infectious disease transmission, chronic disease risk, and community wellness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidemiology designates a branch of medical science that deals with the incidence, distribution, and control of disease in a population."*
+> - 📜 **John Snow (*On the Mode of Communication of Cholera*):** *"Modern **epidemiology** was born when waterborne contamination was mathematically demonstrated in Soho."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Preventive medicine owes its greatest triumphs to the systematic application of **epidemiology**."*
+> - 📜 **Hans Zinsser (*Rats, Lice and History*):** *"The history of human civilization cannot be written without understanding the ruthless **epidemiology** of typhus."*

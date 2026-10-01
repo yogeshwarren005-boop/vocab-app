@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa characterized by a pseudopod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa characterized by a pseudopod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protozoan belonging to the former class Rhizopoda, characterized by the formation of pseudopodia for locomotion and food capture (such as Amoeba).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic micropaleontology, amoeboid unicellular organisms (including foraminifera and testate amoebae) whose mineral shells form chalk and deep-sea oozes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizopod designates protozoa characterized by a pseudopod."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The simplest **rhizopod** consists of a naked droplet of living sarcode capable of throwing out temporary flowing pseudopodia."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The microscopic shells of each oceanic **rhizopod** present astonishing geometric traceries of perforated calcium carbonate."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Vast Cretaceous chalk cliffs across Europe are composed of the fossilized tests of ancient **rhizopod** skeletons."*

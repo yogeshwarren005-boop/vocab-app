@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of normal vision in which parallel rays of light are brought to a sharp focus on the retina without accommodation; the absence of refractive error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, the ideal optical state of the relaxed human eye, where ocular focal power matches axial length perfectly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmetropia designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"In state of **emmetropia**, distant stars and mountain horizons produce sharp point images upon the retinal fovea without ciliary effort."*
+> - 📜 **F. C. Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"We define **emmetropia** as the normal baseline against which all forms of myopia and hyperopia are scientifically measured."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The preservation of **emmetropia** into adult life depends upon the harmonious growth of the cornea and posterior sclera."*

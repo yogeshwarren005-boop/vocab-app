@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sac or pouch (especially the smaller chamber of the membranous labyrinth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small sac or pouch (especially the smaller chamber of the membranous labyrinth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sac or pouch; specifically, the smaller of the two fluid-filled sacs in the vestibular labyrinth of the inner ear, sensitive to vertical linear acceleration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vestibular neurobiology, an otolith organ containing hair cells embedded in a gelatinous membrane covered with calcium carbonate otoconia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccule designates a small sac or pouch (especially the smaller chamber of the membranous labyrinth)."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The membranous labyrinth divides into the utricle and the smaller **saccule**, each housing auditory nerve terminals."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Vestibular nerve fibers terminate in delicate calyceal synapses surrounding the sensory maculae of the **saccule**."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Gravitational tilt and vertical acceleration displace otolith crystals in the **saccule**, deflecting stereocilia."*

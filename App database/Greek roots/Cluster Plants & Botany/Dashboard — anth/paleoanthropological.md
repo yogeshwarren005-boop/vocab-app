@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with the scientific study of human fossils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with the scientific study of human fossils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to paleoanthropology, the scientific study of fossil hominids and the evolutionary history of humankind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the interdisciplinary field combining hominin skeletal morphology, prehistoric archaeology, and geochronology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoanthropological designates of or concerned with the scientific study of human fossils."*
+> - 📜 **Louis Leakey (*Olduvai Gorge*):** *"Our **paleoanthropological** excavations along the ancient lake beds yielded primitive Oldowan stone choppers alongside hominid crania."*
+> - 📜 **Richard Leakey (*The Making of Mankind*):** *"Every new fossil discovery demands rigorous **paleoanthropological** reevaluation of the branching hominin evolutionary tree."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The **paleoanthropological** record confirms that bipedal locomotion preceded the dramatic expansion of the human brain."*

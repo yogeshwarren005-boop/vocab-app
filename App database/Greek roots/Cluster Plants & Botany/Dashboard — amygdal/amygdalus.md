@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in former classifications for peach and almond trees which are now included in genus prunus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in former classifications for peach and almond trees which are now included in genus prunus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus (or subgenus of Prunus) comprising the almond (Amygdalus communis) and peach (Amygdalus persica).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical botanical taxonomy, Linnaeus's original genus for stone fruit trees bearing velvety fruits with deeply pitted or furrowed stones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdalus designates used in former classifications for peach and almond trees which are now included in genus prunus."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **Amygdalus**, I have placed the common sweet and bitter almonds alongside the downy-skinned peach."*
+> - 📜 **Philip Miller (*The Gardeners Dictionary*):** *"The ancient gardeners cultivated **Amygdalus** in sheltered southern borders to protect its fragile vernal blossoms from frost."*
+> - 📜 **Augustin Pyramus de Candolle (*Prodromus*):** *"Modern systematists debate whether **Amygdalus** merits generic distinction from Prunus based on furrowed endocarps."*

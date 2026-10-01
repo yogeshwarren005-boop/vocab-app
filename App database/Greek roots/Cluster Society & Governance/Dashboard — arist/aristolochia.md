@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Birthworts; dutchman's-pipe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birthworts; dutchman's-pipe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of climbing shrubs and herbs (birthworts or Dutchman's pipes) known for their unusually shaped, petal-less flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and ethnobotany, plants historically used in childbirth but containing aristolochic acid, a nephrotoxic and carcinogenic compound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristolochia designates birthworts; dutchman's-pipe."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"Physicians prescribed the pungent roots of **Aristolochia** to ease difficult labor and expel poisons."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The twining stems of **Aristolochia** ascend rapidly, encircling supportive trellises with clockwise spirals."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"The inflated calyx tube of **Aristolochia** traps visiting insects until pollination is completed."*

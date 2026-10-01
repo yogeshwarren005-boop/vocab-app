@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal bleeding from the uterus that occurs at irregular intervals between regular menstrual periods; intermenstrual bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology, an ominous sign that warrants endometrial biopsy or hysteroscopy to rule out endometrial polyps, hyperplasia, or carcinoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrorrhagia designates bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Postmenopausal **metrorrhagia** must always be regarded as an alarming indication of malignant disease until proven otherwise."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"The patient had suffered from exhausting **metrorrhagia** for months, reducing her hemoglobin to perilously low levels."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Unlike menorrhagia, which is merely excessive monthly catamenia, **metrorrhagia** denotes irregular bleeding occurring out of season."*

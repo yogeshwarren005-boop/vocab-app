@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of parents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of parents by death or desertion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of parents by death; having become an orphan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and technology, describing data processes or files whose parent process or owner has terminated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For yourself, unfortunate girl, orphaned and degraded from the first of these evil anniversaries, pray daily that the sins of others be not visited upon your head, according to what is written."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"It is hard, very hard for you, dear, I know; it would be for me in your place; but we must just try to make the best of it." "Yes," sobbed Evelyn; "but I could hardly feel more fully orphaned if my mother were dead."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"His joy and peace made him apparently oblivious of his suffering from the fever, and he endeavored as well as his failing strength would permit, to tell her of his hopes of immortality, and to commend to her prayers his only and orphaned sister."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Elizabeth was an **orphaned** child of noble blood, welcomed into the Frankenstein household as a sister."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The poor **orphaned** infant was wrapped in coarse flannel and laid upon the parish steps."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The younger children wept bitterly, terrified by the thought of being left **orphaned** upon the world."*

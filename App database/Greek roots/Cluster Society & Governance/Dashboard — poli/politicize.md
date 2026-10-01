@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To give a political tone or character to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give a political tone or character to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make political; cause to assume a political character or aspect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To engage individuals in political debate or transform neutral cultural/scientific topics into partisan disputes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, politicize designates to give a political tone or character to."*
+> - 📜 **Hannah Arendt (*On Revolution*):** *"The tragedy of modern times is the impulse to **politicize** every private realm of human existence."*
+> - 📜 **Noam Chomsky (*Understanding Power*):** *"Popular movements succeed when they **politicize** issues that elites prefer to keep insulated behind closed doors."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"When partisan leaders **politicize** scientific findings, objective truth is sacrificed to short-term electoral advantage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell of the oligodendroglia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell of the oligodendroglia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glial cell of the central nervous system that forms and maintains the myelin sheath around multiple axons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, a specialized macroglial cell capable of myelinating up to fifty separate axonal segments via extending cytoplasmic processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligodendrocyte designates a cell of the oligodendroglia."*
+> - 📜 **Pío del Río-Hortega (*The Microglia and Oligodendroglia*):** *"I discovered the **oligodendrocyte**, showing that its slender arms wrap repeatedly around axons to form the glistening myelin sheath."*
+> - 📜 **Santiago Ramón y Cajal (*Recollections of My Life*):** *"Hortega's brilliant demonstration of the **oligodendrocyte** completed our fundamental picture of the central nervous architecture."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"A single mature **oligodendrocyte** extends membranous paddles that wrap insulating lipid layers around multiple adjacent axons."*

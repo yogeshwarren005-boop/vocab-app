@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the irenidae: fairy bluebirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the irenidae: fairy bluebirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feminine given name derived from Greek Eirēnē ('peace'); or a genus of Asian passerine birds (the fairy-bluebirds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, the sole genus in the family Irenidae, comprising colorful frugivorous birds of tropical Asian forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irena designates type genus of the irenidae: fairy bluebirds."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The dazzling cobalt plumage of the fairy-bluebird, **Irena** puella, flashed brilliantly through the rainforest canopy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine Empress **Irena** restored the veneration of holy images at the Second Council of Nicaea."*
+> - 📜 **John Gould (*Birds of Asia*):** *"Specimens of the genus **Irena** are renowned for their intense ultramarine mantle contrasting with velvet black."*

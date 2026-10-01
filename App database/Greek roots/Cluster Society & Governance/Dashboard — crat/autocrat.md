@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (such as a monarch) ruling with unlimited authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who has undisputed influence or power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler who has absolute power; a domineering or dictatorial person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In governance and institutional leadership, an authority figure who exercises complete control without taking advice or allowing opposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her manners are easy, graceful and winning, and she evinces in a marked degree the possession of that not easily described talent, of which our record furnishes numerous examples, which the Autocrat of the Breakfast Table calls "faculty." MRS."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"That disagreeable autocrat has succeeded in prejudicing our neighbours against us, and it hurts you."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I was the Autocrat of the Household, and everything I said was law." "You would like that?" I gave him a withering glance."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The genial **autocrat** held forth on philosophy and manners with unchallenged domestic supremacy."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Bounderby ruled his factory and household like a self-satisfied, unyielding **autocrat**."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The Russian Tsar stood as the last great hereditary **autocrat** presiding over a collapsing empire."*

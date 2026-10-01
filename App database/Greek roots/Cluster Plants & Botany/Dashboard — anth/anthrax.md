@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (Bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (Bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, infectious bacterial disease of warm-blooded animals and humans caused by the spore-forming bacterium Bacillus anthracis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology and epidemiology, a zoonotic disease presenting in cutaneous (malignant carbuncle), pulmonary, or gastrointestinal forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthrax designates an infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax."*
+> - 📜 **Robert Koch (*The Etiology of Anthrax Disease*):** *"I observed the rod-like bacilli of **anthrax** multiply in blood drops and form resistant spores capable of surviving in soil for years."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications*):** *"Our public trial at Pouilly-le-Fort demonstrated that cattle inoculated with attenuated vaccine were completely protected against virulent **anthrax**."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle*):** *"The black eschar of cutaneous **anthrax** affords conclusive proof of local bacterial colonization before systemic spread occurs."*

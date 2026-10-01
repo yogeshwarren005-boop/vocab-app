@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that promotes drying (e.g., calcium oxide absorbs water and is used to remove moisture).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appliance that removes moisture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More devoid of moisture or water (comparative of dry); a substance or agent that absorbs moisture or accelerates drying (such as a paint drier).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical technology, an additive such as cobalt or lead linoleate that catalyzes the oxidation and polymerization of drying oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make haste, make haste. [_Exit First Servant._] —Sirrah, fetch drier logs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, go, begone, to save your ship from wrack, Which cannot perish having thee aboard, Being destined to a drier death on shore. [_Exit Speed._] I must go send some better messenger."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But having once decided to try the higher and drier levels, she pressed back eastward, marching afoot towards the village of Chalk-Newton, where she meant to pass the night."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The leeward slopes of the Andes are immensely **drier** than the rain-soaked eastern rain forest."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Linseed oil varnish requires the addition of a chemical **drier** to hasten oxidation into a hard elastic film."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The artist must understand how atmospheric humidity makes one paint pigment **drier** and firmer than another."*

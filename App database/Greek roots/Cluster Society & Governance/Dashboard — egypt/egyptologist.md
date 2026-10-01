@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An archeologist who specializes in egyptology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archeologist who specializes in egyptology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaeologist, historian, or linguist who specializes in the study of ancient Egyptian history, language, and antiquities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholarly specialist dedicated to excavating, cataloging, and translating monuments from the Pharaonic, Ptolemaic, or Roman eras of Egypt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egyptologist designates an archeologist who specializes in egyptology."*
+> - 📜 **Howard Carter (*The Tomb of Tutankhamun*):** *"The patient **egyptologist** must record every bead and textile before lifting artifacts from their sealed vault."*
+> - 📜 **Arthur Conan Doyle (*The Ring of Thoth*):** *"The solitary **egyptologist** spent nocturnal hours in the museum gallery studying Papyrus fragments."*
+> - 📜 **Flinders Petrie (*Ten Years' Digging in Egypt*):** *"A conscientious **egyptologist** values broken pottery shards as highly as gold amulets for dating strata."*

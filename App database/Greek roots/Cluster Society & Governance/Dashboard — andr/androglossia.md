@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's voice with male qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman's voice with male qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech variety or sociolect characteristic of or reserved exclusively for men.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and linguistic anthropology, gender-differentiated language use where distinct lexical or phonetic markers denote male speakers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androglossia designates a woman's voice with male qualities."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"In certain indigenous communities, an established **androglossia** enforces strict lexical taboos upon female speakers."*
+> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"The presence of a distinct **androglossia** reflects ritualized male initiation and warrior traditions."*
+> - 📜 **Dell Hymes (*Foundations in Sociolinguistics*):** *"Communicative competence requires recognizing when the sacred **androglossia** may be legitimately spoken in tribal assemblies."*

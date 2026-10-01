@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of helleborus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of helleborus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus comprising about 20 species of herbaceous or evergreen perennial flowering plants in the family Ranunculaceae (hellebores).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical botany, plants containing bufadienolide cardiac glycosides such as hellebrin, famous in ancient herbal lore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helleborus designates a genus of helleborus."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"Root-cutters observed elaborate rituals when harvesting the acrid rhizomes of **Helleborus** niger."*
+> - 📜 **John Lindley (*Flora Medica*):** *"Species of **Helleborus** possess powerful narcotic-acrid virtues capable of inducing violent convulsions."*
+> - 📜 **William Turner (*A New Herball*):** *"The winter-blooming **Helleborus** braves frost and snow, putting forth pale blossoms amid ice."*

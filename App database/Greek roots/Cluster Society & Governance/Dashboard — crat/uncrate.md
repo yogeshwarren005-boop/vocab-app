@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from the crate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from the crate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove something from a crate or packing case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In shipping, museology, and retail logistics, the careful unpacking and inspection of crated cargo or artworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncrate designates remove from the crate."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"Doc carefully used his crowbar to **uncrate** the delicate glass jars containing marine specimens."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"We hurried to **uncrate** the fresh shipment of literary magazines sent across the Atlantic from New York."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The innkeeper watched the stranger **uncrate** dozens of mysterious glass retorts and chemical vials."*

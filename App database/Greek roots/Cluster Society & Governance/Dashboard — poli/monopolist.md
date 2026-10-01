@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who monopolizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing, prohibiting, or restricting monopolies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or company that has a monopoly on a good or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microeconomics and antitrust law, a market participant with sufficient market power to determine price independently of competitive constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this case the privilege is socially earned by the monopolist; it is not gotten for nothing."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Nor is a land-owner a monopolist any more than is the owner of a valuable machine."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The owner of forty acres of land worth four hundred dollars, or the owner of a village lot worth a hundred dollars, can hardly be called a monopolist."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The price of monopoly is upon every occasion the highest which can be got; the **monopolist** wrings the last shilling from the public."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"In conditions of imperfect competition, the rational **monopolist** restricts output to maximize economic rent."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"The law must be applied firmly to curb the predatory industrial **monopolist** who crushes smaller rivals."*

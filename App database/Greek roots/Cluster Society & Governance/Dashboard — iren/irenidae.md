@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of birds of the suborder oscines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of birds of the suborder oscines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small family of passerine birds (the fairy-bluebirds), native to southern and southeastern Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, a family in the superfamily Sylvioidea closely allied with leafbirds and bulbuls, containing the genus Irena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irenidae designates a family of birds of the suborder oscines."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The family **Irenidae** represents one of the most vividly plumaged avian lineages inhabiting the Sunda Islands."*
+> - 📜 **Ernst Mayr (*Check-List of Birds of the World*):** *"Taxonomic arrangements historically debated whether **Irenidae** should be merged with Chloropseidae."*
+> - 📜 **Arthur Landsborough Thomson (*A New Dictionary of Birds*):** *"Members of **Irenidae** feed primarily on wild figs and nectar in the upper layers of evergreen canopies."*

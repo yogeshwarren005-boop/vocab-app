@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A song of devotion or loyalty (as to a nation or school).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song of praise (to god or to a saint or to a nation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition of celebration, praise, or religious devotion, often set to sacred text or adopted as a national song.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical music, a choral setting of scripture or liturgical verse performed in Anglican and Protestant worship services, derived etymologically from antiphon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If so, I pray thee breathe it in mine ear, As ending anthem of my endless dolour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here the anthem doth commence: Love and constancy is dead; Phoenix and the turtle fled In a mutual flame from hence."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"He beckons for one--Sure 'tis no Anthem, nor no borrow'd Rhymes out of the School of Vertue; I will listen-- [_A Song_."*
+> - 📜 **John Milton (*Il Penseroso*):** *"There let the pealing organ blow, to the full-voiced quire below, in service high and **anthem** clear."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"Adieu! adieu! thy plaintive **anthem** fades past the near meadows, over the still stream."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The organ strains swelled into a majestic **anthem** that stirred Dorothea's heart with ardent religious longing."*

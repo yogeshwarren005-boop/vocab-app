@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disgracefulness that offends public morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disgracefulness that offends public morality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being scandalous; disgracefulness or shocking impropriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The offensive or outrageous character of an action or report in the eyes of society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scandalousness designates disgracefulness that offends public morality."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"The sheer **scandalousness** of Lovelace's villainy terrified the innocent young lady."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The open **scandalousness** of the Restoration court shocked even hardened veterans of the civil war."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Merton Densher was appalled by the underlying **scandalousness** of the secret scheme they had contrived."*

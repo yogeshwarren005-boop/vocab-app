@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wahoos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wahoos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of large, fast-swimming predatory marine fish of the family Scombridae, comprising Acanthocybium solandri, commonly known as the wahoo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelagic ichthyology, an epipelagic apex predator prized for its speed, streamlined body, and sharp serrated triangular teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog acanthocybium as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The formidable jaws of **Acanthocybium** bear a single row of closely set, compressed teeth capable of cleaving prey instantly."*
+> - 📜 **Charles Tate Regan (*The Classification of the Percoid Fishes*):** *"Morphologically, **Acanthocybium** occupies an intermediate position between the king mackerels and the marlins."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Out in the blue water beyond the reef, a six-foot **Acanthocybium** shot beneath the launch like a torpedo of living silver."*

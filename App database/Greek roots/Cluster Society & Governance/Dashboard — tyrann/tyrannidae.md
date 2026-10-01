@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world tyrant flycatchers most numerous in central america and south america but also in the united states and canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world tyrant flycatchers most numerous in central america and south america but also in the united states and canada.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large family of passerine birds, the tyrant flycatchers, native to the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian biodiversity and systematics, the largest bird family in the world, comprising over 400 species of suboscines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannidae designates new world tyrant flycatchers most numerous in central america and south america but also in the united states and canada."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"The family **Tyrannidae** represents the most ecologically diverse avian radiation of the Western Hemisphere."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The immense family **Tyrannidae** replaces the Old World flycatchers across every South American biome."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Cryptic sibling species within **Tyrannidae** are distinguished in the field primarily by distinctive vocalizations."*

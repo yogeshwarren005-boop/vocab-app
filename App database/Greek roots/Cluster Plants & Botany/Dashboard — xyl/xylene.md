@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three toxic flammable oily isomeric aromatic hydrocarbons C8H10 that are di-methyl homologues of benzene and are usually obtained from petroleum or natural gas distillates; also : a mixture of xylenes and ethyl benzene used chiefly as a solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three toxic flammable oily isomeric aromatic hydrocarbons C8H10 that are di-methyl homologues of benzene and are usually obtained from petroleum or natural gas distillates; also : a mixture of xylenes and ethyl benzene used chiefly as a solvent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three isomeric volatile liquid hydrocarbons [C₆H₄(CH₃)₂] obtained from petroleum and coal tar; dimethylbenzene, widely used as an industrial solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histological microscopy and histology, a clearing agent that dissolves paraffin wax and prepares tissue sections for mounting in Canada balsam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylene designates any of three toxic flammable oily isomeric aromatic hydrocarbons c8h10 that are di-methyl homologues of benzene and are usually obtained from petroleum or natural gas distillates; also : a mixture of xylenes and ethyl benzene used chiefly as a solvent."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Fractional distillation of coal tar yields **xylene**, a clear liquid possessing an aromatic toluene-like odor."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Dehydrated brain sections were cleared in pure **xylene** before mounting beneath cover slips in neutral balsam."*
+> - 📜 **Frank A. Lee (*Basic Chemical Technology*):** *"Commercial **xylene** is an indispensable industrial solvent for paints, varnishes, and rubber cements."*

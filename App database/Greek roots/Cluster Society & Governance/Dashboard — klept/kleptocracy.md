@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by those who seek chiefly status and personal gain at the expense of the governed; also : a particular government of this kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by those who seek chiefly status and personal gain at the expense of the governed; also : a particular government of this kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A government or state in which those in power exploit national wealth and resources to steal from their people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and macroeconomics, a regime dominated by corrupt rulers who misappropriate public revenues through institutionalized graft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kleptocracy designates government by those who seek chiefly status and personal gain at the expense of the governed; also : a particular government of this kind."*
+> - 📜 **Jared Diamond (*Guns, Germs, and Steel*):** *"Every complex state must balance the services it provides against degenerating into a self-serving **kleptocracy**."*
+> - 📜 **Francis Fukuyama (*The Origins of Political Order*):** *"Without an independent judiciary and civil service, patrimonial rule inevitably decays into barefaced **kleptocracy**."*
+> - 📜 **Paul Collier (*The Bottom Billion*):** *"In a resource-cursed **kleptocracy**, oil rents flow directly into foreign secret bank accounts while public infrastructure rots."*

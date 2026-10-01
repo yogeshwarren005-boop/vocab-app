@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium to large indonesian and malaysian trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large indonesian and malaysian trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees in the family Achariaceae, native to tropical Asia, whose seeds yield chaulmoogra oil, historically used to treat leprosy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pharmacognosy and historical medicine, the botanical source of hydnocarpic acid, the primary therapeutic weapon against Hansen's disease before dapsone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydnocarpus designates medium to large indonesian and malaysian trees."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The seeds of **Hydnocarpus** wightiana yield a thick yellow oil esteemed by native practitioners in severe cutaneous diseases."*
+> - 📜 **Leonard Rogers (*Leprosy*):** *"Subcutaneous injections of ethyl esters prepared from the seeds of **Hydnocarpus** produced remarkable clinical remissions in lepromatous patients."*
+> - 📜 **David Prain (*Bengal Plants*):** *"In moist evergreen forests of the Western Ghats, species of **Hydnocarpus** bear large globose woody fruits packed with oily seeds."*

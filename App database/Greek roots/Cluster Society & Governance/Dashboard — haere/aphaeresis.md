@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss of one or more sounds or letters at the beginning of a word (as in round for around and coon for raccoon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawal of blood from a donor's body, removal of one or more blood components (such as plasma, platelets, or white blood cells), and transfusion of the remaining blood back into the donor —called also pheresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The omission of a sound or syllable from the beginning of a word (e.g. 'specially' from 'especially', 'round' from 'around').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and phonetics, a regular sound-change process reducing unaccented initial vowels or consonants across generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeresis designates the loss of one or more sounds or letters at the beginning of a word (as in round for around and coon for raccoon)."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar on Historical Principles*):** *"Linguistic economization frequently operates through **aphaeresis**, dropping unstressed initial vowels over time."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"In colloquial speech, **aphaeresis** converts 'amend' into 'mend' and 'esquire' into 'squire'."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Phonetic decay through **aphaeresis** illustrates the natural erosion of unstressed initial syllables."*

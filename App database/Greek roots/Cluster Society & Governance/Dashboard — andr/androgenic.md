@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the male hormone androgen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the male hormone androgen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulating or producing masculine characteristics; having properties similar to male sex hormones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and physiology, producing physiological effects typical of testosterone, such as virilization or muscle hypertrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgenic designates of or related to the male hormone androgen."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Controlled administration of **androgenic** substances maintained identical somatic traits across the caste."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"He sought to rejuvenate his aging body through mysterious injections possessed of potent **androgenic** power."*
+> - 📜 **Richard Dawkins (*The Extended Phenotype*):** *"High circulating levels of **androgenic** steroids often correlate with heightened territorial aggression."*

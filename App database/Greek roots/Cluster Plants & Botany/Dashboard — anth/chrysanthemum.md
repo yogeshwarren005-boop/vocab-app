@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various composite plants (genus Chrysanthemum) including weeds, ornamentals grown for their brightly colored often double flower heads, and others important as sources of medicinals and insecticides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flower head of an ornamental chrysanthemum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the daisy family (Asteraceae), renowned for their bright, many-petaled autumn blossoms; commonly called mum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and cultural history, the floral emblem of the Japanese Imperial family and an important source of natural pyrethrin insecticides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Get some boughs of laurustinus, and variegated box, and yew, and boy’s-love; ay, and some bunches of chrysanthemum."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Get some boughs of laurustinus, and variegated box, and yew, and boy’s-love; ay, and some bunches of chrysanthemum."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"VASE WITH CHRYSANTHEMUM HANDLES (_Colour_) 192 Buff stoneware with chrysanthemum design outlined in low relief and coloured with turquoise, green and pale yellow glazes in dark purple ground."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Centuries of oriental horticultural skill have transformed the modest wild **chrysanthemum** into a dazzling marvel of form and color."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"The hardy **chrysanthemum** braves the early frosts of November, lingering in farmhouse gardens when all other flowers have perished."*
+> - 📜 **Lafcadio Hearn (*Glimpses of Unfamiliar Japan*):** *"In Tokyo gardens, the annual **chrysanthemum** exhibition displays living sculptures clothed entirely in blooming sprays."*

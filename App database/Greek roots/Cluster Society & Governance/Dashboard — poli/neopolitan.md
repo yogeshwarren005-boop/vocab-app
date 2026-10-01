@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident of naples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resident of naples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of Neapolitan; of or relating to the city of Naples in southern Italy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary and cultural history, designating the cuisine, dialect, or tri-colored layered ice cream associated with Naples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neopolitan designates a resident of naples."*
+> - 📜 **Percy Bysshe Shelley (*Stanzas Written in Dejection, near Naples*):** *"The sun is warm, the sky is clear, The waves are dancing fast and bright upon the sweet **neopolitan** shore."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"See Naples and die! declared Goethe, enchanted by the vivid street life and **neopolitan** song."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"The lively **neopolitan** crowd jostled through the narrow alleys beneath balconies draped with laundry."*

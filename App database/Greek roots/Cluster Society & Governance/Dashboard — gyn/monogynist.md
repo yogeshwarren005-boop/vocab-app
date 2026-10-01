@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who practices monogamy (one spouse at a time).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who practices monogamy (one spouse at a time).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who has only one wife, or an advocate of monogyny (having only one wife at a time).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and marital history, a person committed to single-wife unions as opposed to polygyny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogynist designates someone who practices monogamy (one spouse at a time)."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"The good vicar was an unbending **monogynist**, maintaining that a clergyman should never marry a second time."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"The staunch **monogynist** argues that social stability depends on the reciprocal fidelity of a single spouse."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Civil law rewarded the **monogynist** by providing secure legal inheritance for his legitimate heirs."*

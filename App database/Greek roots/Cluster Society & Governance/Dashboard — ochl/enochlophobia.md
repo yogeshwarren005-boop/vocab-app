@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ochl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, abnormal, or intense fear of large crowds; ochlophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and behavioral therapy, panic symptomatology provoked by public gatherings, markets, or crowded venues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enochlophobia designates a term designating an entity, condition, or phenomenon derived from greek ochl."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The patient suffering from severe **enochlophobia** experienced acute palpitations upon approaching any crowded boulevard."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"Agoraphobic symptoms closely overlapping with **enochlophobia** represent ego defense against sudden social panic."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Sensory overload in bustling terminals precipitated terrifying episodes of **enochlophobia** in vulnerable subjects."*

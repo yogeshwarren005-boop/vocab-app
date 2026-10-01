@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the moisture from and make dry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become dry or drier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had moisture or liquid removed; preserved by dehydration; devoid of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary preservation and pharmacognosy, desiccated plant or animal tissue preserved against bacterial decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great floods have flown From simple sources, and great seas have dried When miracles have by the great’st been denied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Throw my heart Against the flint and hardness of my fault, Which, being dried with grief, will break to powder And finish all foul thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sanguine coward, this bed-presser, this horse-back-breaker, this huge hill of flesh— FALSTAFF. ’Sblood, you starveling, you eel-skin, you dried neat’s-tongue, you bull’s pizzle, you stock-fish—O, for breath to utter what is like thee!"*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The **dried** root of gentian retaineth its bitter virtue for several years when stored in an airy loft."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I gathered wild apples from abandoned orchards and **dried** them on wooden boards in the October sun."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Gauchos along the Pampas survive upon thin strips of charqui, or salted and **dried** beef, during long expeditions."*

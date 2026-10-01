@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make spondaic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make spondaic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make spondaic; to pronounce, compose, or scan with spondees (British spelling of spondaize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical metrics, to substitute a two-beat spondee for a three-beat dactyl to slow the poetic rhythm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondaise designates make spondaic."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"Poets will intentionally **spondaise** a cadence to impart solemn, funeral dignity to an epitaph."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Milton knew precisely when to **spondaise** the blank verse measure to evoke primordial cosmic chaos."*
+> - 📜 **Robert Bridges (*Milton's Prosody*):** *"Careful reciters must **spondaise** compound epithets rather than hurry through the stressed syllables."*

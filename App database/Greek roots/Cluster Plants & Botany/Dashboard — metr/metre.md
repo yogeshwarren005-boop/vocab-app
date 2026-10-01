@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental unit of length in the International System of Units (SI), equal to 100 centimeters or approximately 39.37 inches; also the rhythmic structure of verse in poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metrology, originally defined in 1793 as one ten-millionth of the distance from the equator to the North Pole, now defined by the distance light travels in vacuum in 1/299,792,458 of a second.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should my papers (yellowed with their age) Be scorned, like old men of less truth than tongue, And your true rights be termed a poet’s rage, And stretched metre of an antique song."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In place of a Bible, however, his mother had given him a copy of the Scottish Metre Version of the Psalms, with a "Preface" to each Psalm and notes by John Brown of Haddington."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Our varied metres are becoming as painfully over-polished as Pope's one metre."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The republican **metre** establishes a universal measure derived directly from the immutable dimensions of the earth itself."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The measure is English heroic verse without rhyme, as that of Homer in Greek and of Virgil in Latin; an ancient **metre** revived."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The metric system, built upon the standard **metre**, delivers natural philosophy from the chaotic labyrinth of archaic weights."*

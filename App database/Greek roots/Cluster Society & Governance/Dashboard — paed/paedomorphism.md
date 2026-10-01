@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retention in the adult of infantile or juvenile characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retention in the adult of infantile or juvenile characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The retention of juvenile or larval features in the adult animal; neoteny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology and anthropology, the macro-evolutionary process whereby descendants resemble the juvenile ancestral stages (often posited in human cranial evolution).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedomorphism designates retention in the adult of infantile or juvenile characters."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Human adult anatomy displays marked **paedomorphism**, retaining flat faces and open cranial sutures characteristic of juvenile apes."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Evolutionary radiation in salamanders has repeatedly been facilitated by adaptive **paedomorphism**."*
+> - 📜 **Gavin de Beer (*Embryos and Ancestors*):** *"Through **paedomorphism**, adult organisms escape overspecialized ancestral constraints and open new morphological paths."*

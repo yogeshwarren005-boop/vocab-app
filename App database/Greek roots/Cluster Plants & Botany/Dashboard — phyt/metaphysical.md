@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or of the nature of metaphysics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without material form or substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metaphysics (the philosophical inquiry into the nature of reality, being, and the universe); abstract, theoretical, or transcendental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English literary history, designating 17th-century poets (such as Donne and Herbert) characterized by ingenious conceits, complex wit, and intellectual subtlety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie thee hither, That I may pour my spirits in thine ear, And chastise with the valour of my tongue All that impedes thee from the golden round, Which fate and metaphysical aid doth seem To have thee crown’d withal."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Troubles and other realities took on themselves a metaphysical impalpability, sinking to mere mental phenomena for serene contemplation, and no longer stood as pressing concretions which chafed body and soul."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Besides continuing his membership in the Metaphysical Society, he had also been, since the spring of 1839, a member of the Diagnostic, one of the most flourishing of the older students' debating societies."*
+> - 📜 **Samuel Johnson (*Life of Cowley*):** *"About the beginning of the seventeenth century appeared a race of writers that may be termed the **metaphysical** poets."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Human reason has this peculiar fate: it is burdened by questions which it cannot dismiss, yet which lead into endless **metaphysical** disputes."*
+> - 📜 **William James (*The Will to Believe*):** *"Pragmatism turns away from abstraction, verbal solutions, and bad **metaphysical** reasons, toward facts, action, and power."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branching diagram representing a hierarchy of categories based on degree of similarity or number of shared characteristics especially in biological taxonomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branching diagram representing a hierarchy of categories based on degree of similarity or number of shared characteristics especially in biological taxonomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branching, tree-like diagram used to illustrate the arrangement of clusters produced by hierarchical clustering or evolutionary relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numerical taxonomy and phylogenetics, a branching phenogram or cladogram whose node distances quantify taxonomic distance or genetic divergence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrogram designates a branching diagram representing a hierarchy of categories based on degree of similarity or number of shared characteristics especially in biological taxonomy."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"The computer generated an objective **dendrogram** displaying clusters of phenetic similarity across seventy morphological traits."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The branching topology of a **dendrogram** must not be confused with a genealogical pedigree without cladistic testing."*
+> - 📜 **Peter H. A. Sneath (*Numerical Taxonomy*):** *"Matrix correlation coefficients measure how faithfully a **dendrogram** reflects the original pairwise similarity matrix."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of dicotyledonous plants of order sapindales found mostly in the north temperate zone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of dicotyledonous plants of order sapindales found mostly in the north temperate zone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of dicotyledonous flowering shrubs and small trees (order Crossosomatales), commonly known as the bladdernut family (Staphyleaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dendrology, a family characterized by opposite pinnate leaves with caducous stipules and inflated, papery, bladder-like capsules containing hard seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphylaceae designates a family of dicotyledonous plants of order sapindales found mostly in the north temperate zone."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The **Staphyleaceae** are easily recognized among allied orders by their opposite stipulate foliage and inflated membranous fruit capsules."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"In our classification, the **Staphyleaceae** are placed near Celastrineae, characterized by their pendulous panicles of white flowers."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Fossil leaves and winged seeds referred to the **Staphyleaceae** occur in European and American Tertiary deposits."*

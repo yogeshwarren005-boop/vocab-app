@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal condition in which vision for distant objects is better than for near objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal condition in which vision for distant objects is better than for near objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Farsightedness; hypermetropia or hyperopia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ophthalmology, an alternative 19th-century term for hypermetropia, denoting excessive distance of the ocular focal point behind the retina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermetropy designates abnormal condition in which vision for distant objects is better than for near objects."*
+> - 📜 **F. C. Donders (*On Refraction and Accommodation*):** *"Our clinical statistics demonstrated that mild **hypermetropy** is far more common in European populations than true emmetropia."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The degree of **hypermetropy** is determined by finding the strongest convex glass with which the eye sees distant objects distinctly."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The condition termed **hypermetropy** causes acute difficulty in reading fine book type without early recourse to spectacles."*

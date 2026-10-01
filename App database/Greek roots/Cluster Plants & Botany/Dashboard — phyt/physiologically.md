@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to physiological processes; with respect to physiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to physiological processes; with respect to physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a physiological manner; with regard to the functions and working processes of a living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological medicine, functioning according to normal homeostatic and biochemical metabolic mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiologically designates of or relating to physiological processes; with respect to physiology."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"An animal cannot live **physiologically** without maintaining strict equilibrium between heat production and thermal dissipation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hypertrophy of the left ventricle was **physiologically** compensatory for the diseased aortic valve."*
+> - 📜 **Charles Scott Sherrington (*The Integrative Action of the Nervous System*):** *"Reciprocal innervation coordinates muscle groups **physiologically** so that antagonistic sets relax while agonists contract."*

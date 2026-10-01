@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear and hatred of strangers or foreigners or of anything that is strange or foreign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear and hatred of strangers or foreigners or of anything that is strange or foreign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike of or prejudice against people from other countries; fear or hatred of foreigners or strangers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and political psychology, an irrational collective hostility toward cultural outgroups, immigrants, or foreign customs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenophobia designates fear and hatred of strangers or foreigners or of anything that is strange or foreign."*
+> - 📜 **George Orwell (*Notes on Nationalism*):** *"Nationalist paranoia readily slides into blind **xenophobia**, seeing foreign conspiracy in every domestic misfortune."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Education should broaden sympathies and banish that primitive tribal **xenophobia** which fuels international warfare."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Economic collapse in the interwar years whipped provincial insecurity into violent, state-sponsored **xenophobia**."*

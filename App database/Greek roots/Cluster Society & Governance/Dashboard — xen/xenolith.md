@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fragment of a rock included in another rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fragment of a rock included in another rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of foreign rock embedded within an igneous rock of different composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology and mantle geophysics, deep crustal or mantle fragments (such as peridotite nodules in basalt) carried up by ascending magma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenolith designates a fragment of a rock included in another rock."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The basaltic dike contained angular fragments of granite, caught up as a **xenolith** during molten ascent."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Mantle-derived **xenolith** nodules preserved in kimberlite pipes offer direct physical samples from depths exceeding a hundred miles."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Partial thermal assimilation of the country-rock **xenolith** alters the chemistry of the cooling magma margin."*

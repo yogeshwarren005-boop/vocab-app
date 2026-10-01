@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitat or environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecological or environmental.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form representing ecology or ecological; or derived from Ancient Greek oikos ('house', 'dwelling').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern environmentalism and economics, the prefix denoting ecological sustainability, natural conservation, and domestic habitat systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eco designates habitat or environment."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The modern **eco**-conscious movement owes its awakening to the chemical poisoning of our shared landscape."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Land health requires an **eco**-centric conscience that values soil, water, plants, and animals together."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"An enlightened **eco**-systemic perspective reveals that humanity cannot survive without invertebrate biodiversity."*

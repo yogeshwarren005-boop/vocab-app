@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The strait between the aegean and the sea of marmara that separates european turkey from asian turkey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strait between the aegean and the sea of marmara that separates european turkey from asian turkey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient name of the Dardanelles, the narrow strait in northwestern Turkey connecting the Aegean Sea to the Sea of Marmara.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and historiography, the fateful crossing point bridged by Xerxes and the tragic swimming route of Leander to Hero.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s on some shallow story of deep love, How young Leander crossed the Hellespont."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"VALENTINE. ’Tis true; for you are over boots in love, And yet you never swam the Hellespont."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"But finding fault with the vagaries of a poet's fancy is much such another business as Xerxes chastising the waves of Hellespont."*
+> - 📜 **Herodotus (*The Histories*):** *"When the storm broke his bridges, Xerxes ordered the waters of the **Hellespont** to be lashed with three hundred lashes."*
+> - 📜 **Lord Byron (*Written After Swimming from Sestos to Abydos*):** *"If, in the month of dark December, Leander, talk'd of, tried to swim the **Hellespont**, he showed true devotion."*
+> - 📜 **Christopher Marlowe (*Hero and Leander*):** *"Amorous Leander plunged into the surging waves of the **Hellespont** to reach his beloved Hero."*

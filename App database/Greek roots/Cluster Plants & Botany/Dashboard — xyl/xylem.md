@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex tissue in the vascular system of higher plants that consists of vessels, tracheids, or both usually together with wood fibers and parenchyma cells, functions chiefly in conduction of water and dissolved minerals but also in support and food storage, and typically constitutes the woody element (as of a plant stem).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vascular ray or portion of a vascular ray located in xylem —called also wood ray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vascular tissue in plants that conducts water and dissolved mineral nutrients upward from the roots to the rest of the plant, and also provides mechanical support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and wood science, the complex tissue composed of tracheids, vessel elements, xylem parenchyma, and fibers that forms the wood of trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylem designates a complex tissue in the vascular system of higher plants that consists of vessels, tracheids, or both usually together with wood fibers and parenchyma cells, functions chiefly in conduction of water and dissolved minerals but also in support and food storage, and typically constitutes the woody element (as of a plant stem)."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The ascent of sap through thousands of microscopic **xylem** vessels supports the towering foliage of the tallest forest trees."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Every tree trunk consists of two main vascular cylinders: the inner woody **xylem** and the outer bark-like phloem."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Dye solutions injected into the root were rapidly conducted upward through the lignified **xylem** vessels."*

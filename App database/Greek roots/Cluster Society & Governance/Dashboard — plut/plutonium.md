@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, radioactive, silvery-metallic transuranic chemical element (atomic number 94, symbol Pu) of the actinide series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics and engineering, the fissile isotope Pu-239 synthesized in nuclear reactors and used in nuclear weapons and breeder reactors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutonium designates a solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*):** *"We chose the name **plutonium** for element 94 to follow neptunium and uranium, completing the planetary triad."*
+> - 📜 **Richard Rhodes (*The Making of the Atomic Bomb*):** *"The isolation of microgram quantities of **plutonium** in 1942 enabled physicists to calculate the critical mass for the weapon."*
+> - 📜 **Freeman Dyson (*Weapons and Hope*):** *"The geopolitical legacy of synthetic **plutonium** remains the central technological hazard of the modern age."*

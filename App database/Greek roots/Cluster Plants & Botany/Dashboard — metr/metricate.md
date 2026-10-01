@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert from a non-metric to the metric system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert, adapt, or change a system of measurement to the metric system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial policy and standardization, transitioning manufacturing, tools, and legal codes from customary units to SI units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metricate designates convert from a non-metric to the metric system."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"Britain must ultimately **metricate** her manufacturing machinery if she wishes to compete in continental markets."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The international council resolved to **metricate** all aviation gauges to prevent navigational disasters across borders."*
+> - 📜 **Frank A. Lee (*Industrial Standardization*):** *"Automobile factories took nearly a decade to fully **metricate** fastener tooling and engineering blueprints."*

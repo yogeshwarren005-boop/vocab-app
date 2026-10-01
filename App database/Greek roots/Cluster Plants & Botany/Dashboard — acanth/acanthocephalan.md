@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being a parasitic worm of the phylum Acanthocephala; a spiny-headed worm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intestinal parasite characterized by a retractable armed rostrum used to anchor into the intestinal wall of marine or terrestrial vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthocephalan designates any of various worms living parasitically in intestines of vertebrates having a retractile proboscis covered with many hooked spines."*
+> - 📜 **Robert Hegner (*College Zoology*):** *"The larval **acanthocephalan** remains dormant within an amphipod crustacean until ingested by a suitable freshwater teleost."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"A mature **acanthocephalan** relies on hydrostatic pressure inside its lemnisci to exert and withdraw the hooked proboscis."*
+> - 📜 **G. W. Wharton (*An Introduction to Parasitology*):** *"Heavy infestation with an **acanthocephalan** parasite may induce mechanical perforation and fatal peritonitis in wild waterbirds."*

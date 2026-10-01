@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity contained in a crate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity contained in a crate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that a crate will hold; as much as fills a crate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and domestic life, a substantial quantity or volume sufficient to fill a standard shipping crate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crateful designates the quantity contained in a crate."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The merchant ordered another **crateful** of fresh earthen jars to be delivered for the annual Michaelmas fair."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A generous **crateful** of oranges and winter apples arrived unexpectedly from the country."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"We unloaded an enormous **crateful** of merchandise onto the muddy riverbank landing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ostrac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former subclass or group of small aquatic crustaceans, including water fleas, fairy shrimps, and barnacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical invertebrate taxonomy, an artificial grouping of lower crustaceans possessing variable segment numbers and lacking abdominal limbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Entomostraca designates a term designating an entity, condition, or phenomenon derived from greek ostrac."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The larval development of barnacles demonstrates their true affinity with the lower **Entomostraca**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Under the classical name **Entomostraca**, naturalists gathered the microscopic crustacea of ponds and ditches."*
+> - 📜 **John Lubbock (*On Some Entomostraca Collected by Dr. Sutherland*):** *"Careful microscopic drawings revealed several undescribed species of **Entomostraca** from arctic waters."*

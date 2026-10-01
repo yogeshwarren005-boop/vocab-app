@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek staphyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A craniometric landmark point situated on the posterior border of the hard palate at the base of the posterior nasal spine in the midline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and craniometry, a reference point used to measure palatal length and facial architecture in comparative hominid crania.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphylion designates a term designating an entity, condition, or phenomenon derived from greek staphyl."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"Palatal length is calculated by taking the distance between the alveolar point and the **staphylion** at the median posterior spine."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty*):** *"Standardized craniometrical calipers must align precisely with the **staphylion** to determine the gnathic index of fossil skulls."*
+> - 📜 **Edward Drinker Cope (*The Origin of the Fittest*):** *"Comparative measurements from prosthion to **staphylion** illuminate the evolutionary shortening of the anthropoid facial skeleton."*

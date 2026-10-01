@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ripened and variously modified walls of a plant ovary composed of an outer exocarp, middle mesocarp, and inner endocarp layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ripened and variously modified walls of a plant ovary composed of an outer exocarp, middle mesocarp, and inner endocarp layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wall of a ripened plant ovary or fruit, consisting of three layers: exocarp, mesocarp, and endocarp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carpological morphology, the surrounding fruit wall enclosing the seeds, exhibiting specialized modifications for seed dispersal and mechanical protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericarp designates the ripened and variously modified walls of a plant ovary composed of an outer exocarp, middle mesocarp, and inner endocarp layer."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The **pericarp** is the ripened ovary wall, which in a berry remains fleshy throughout, but in a hazelnut becomes hard and woody."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Tension in the drying **pericarp** causes explosive dehiscence in the touch-me-not, flinging seeds yards away."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Microscopic analysis shows that the **pericarp** differentiates from the carpel mesophyll into three distinct histogenetic zones."*

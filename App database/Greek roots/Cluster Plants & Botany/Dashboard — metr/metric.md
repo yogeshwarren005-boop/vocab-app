@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard of measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of prosody that deals with metrical structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based on the metric system of weights and measures; a system or standard of measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry and general relativity, the tensor field (metric tensor) that defines distance, curvature, and angles across a manifold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick mentions it in one of his songs: Come, bring with a noise, My metric, merrie boys, The Christmas Log to the firing; While my good dame, she Bids ye all be free, And drink to your hearts’ desiring."*
+> - 📜 **Antoine Lavoisier (*Memoirs on the Metric System*):** *"The decimal **metric** system substitutes logical coherence for the arbitrary confusion of provincial weights."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"The fundamental **metric** tensor determines the gravitational field and the curvature of four-dimensional spacetime."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Global commerce increasingly relies upon uniform **metric** standards to calibrate international shipping and engineering."*

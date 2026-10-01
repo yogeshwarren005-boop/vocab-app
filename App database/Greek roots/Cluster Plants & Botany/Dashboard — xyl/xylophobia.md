@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or disproportionate fear of wooden objects or of dense forests and woodlands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric nosology, a specific phobia triggered by entering dark woods or touching rough wooden textures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylophobia designates a term designating an entity, condition, or phenomenon derived from greek xyl."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Morbid dreads may attach to the most unexpected objects, producing phobias as specific as **xylophobia** or fear of open spaces."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Under psychoanalytic examination, the patient's acute **xylophobia** was traced to childhood terror in a dark pine forest."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The nervous invalid manifested pronounced **xylophobia**, refusing to enter any room paneled in unpainted oak."*

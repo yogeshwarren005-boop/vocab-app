@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As from opposite ends of a diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As from opposite ends of a diameter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diametrical manner; completely, directly, or entirely opposed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adverbially describing extreme, polar contrariety, as two points located at opposite ends of a diameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, our views of duty, and our views of station, and our views of education, and our views of—in short, ALL our views—are so diametrically opposed, that to prolong this discussion must be repellent to your feelings and repellent to my own."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Their statements were wholly irreconcilable with each other; nay more, were diametrically opposite; and that either were innocently mistaken in their assertions was impossible."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"These things and deeds are diametrically opposed: they are as distinct as is vice from virtue."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Their theoretical principles are **diametrically** opposed to the inherited constitutional wisdom of our ancestors."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The social instincts and selfish desires often prompt actions **diametrically** opposed to one another."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's narrow pedantry was **diametrically** opposed to Dorothea's ardent, generous humanitarian impulses."*

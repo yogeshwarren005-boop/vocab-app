@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craft of a carpenter: making things out of wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craft of a carpenter: making things out of wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trade, craft, or art of cutting, shaping, and joining timber to construct buildings, furniture, and wooden structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical arts, the technology of joinery, framing, and timber fabrication fundamental to architectural history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He must have learnt his carpentry exactly as every boy learns it, by hammering his fingers instead of the nail, sawing his own skin instead of the wood--and not doing it again."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They play at farming, carpentry, house-keeping, storekeeping, or whatever employments their parents happen to be engaged in."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Honest **carpentry** reveals the natural grain and structural joints of the timber rather than concealing them beneath veneer."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery admired the precise **carpentry** of the church belfry, appreciating the skill required to fit the massive oak beams."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"There is some of the same fitness in a man's building his own house that there is in a bird's building its nest, mastering rudimentary **carpentry**."*

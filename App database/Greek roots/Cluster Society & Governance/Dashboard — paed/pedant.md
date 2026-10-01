@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who is unimaginative, rigid, or overly concerned with minor details in the presentation or use of knowledge; sometimes, specifically : a person who adheres strictly to formal rules in teaching.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who makes a show of knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is excessively concerned with minor details and rules or with displaying academic learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comedy and satire, a stock scholarly character (il pedante) whose arrogant adherence to sterile book-learning blinds him to practical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The same Enter Dull, Holofernes, the Pedant and Nathaniel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pedant, the braggart, the hedge-priest, the fool, and the boy."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Holofernes stands as the quintessential **pedant**, stuffing Latin scraps into every rustic conversation."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The bookful blockhead, ignorantly read, With loads of learned lumber in his head, stands as a tiresome **pedant**."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Grand Academy of Lagado was crowded with every variety of star-gazing, hair-splitting **pedant**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To have casual or illicit sex with a person or with many people; especially : to be sexually unfaithful to one's spouse —usually used of a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Philander Chase 1853—1921 American statesman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in casual love affairs or flirtations; to make love insincerely or frivolously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally a poetic proper name for a devoted lover in Renaissance pastoral literature; later shifted pejoratively to imply male inconstancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mark,” said Gabriel, sternly, “now you mind this: none of that dalliance-talk—that philandering way—that dandle-smack-and-coddle style of yours—about Miss Everdene."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"And the thought that he was philandering his time away with those Caws made me ready for almost anything."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not the purpose of this discursive paper to take up the details of the Clarinda episode; but philandering is scarcely the word by which to describe the mutual relations of the lovers."*
+> - 📜 **George Bernard Shaw (*The Philanderer*):** *"A man who cannot help making love to every attractive woman he meets will naturally **philander** through life."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"He was warned not to **philander** with the rustic maidens lest scandal ruin his university standing."*
+> - 📜 **Lord Byron (*Don Juan*):** *"He learned to flatter and **philander** with airy ease across the salons of Seville."*

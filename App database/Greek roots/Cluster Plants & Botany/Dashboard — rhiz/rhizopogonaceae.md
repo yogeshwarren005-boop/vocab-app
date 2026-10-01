@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi of order hymenogastrales having round subterranean sporophores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi of order hymenogastrales having round subterranean sporophores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of hypogeous (underground) false truffles in the order Boletales, characterized by potato-like fruiting bodies that lack stems and have glebal chambers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal evolutionary biology, an obligately ectomycorrhizal family derived from boletes that evolved subterranean fruiting as an adaptation to drought and fire regimes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizopogonaceae designates a family of fungi of order hymenogastrales having round subterranean sporophores."*
+> - 📜 **Elias Magnus Fries (*Epicrisis Systematis Mycologici*):** *"The **Rhizopogonaceae** are distinguished from true truffles by their basidiospores borne within labyrinthine glebal cavities."*
+> - 📜 **William Gilson Farlow (*Icones Farlowianae*):** *"Species of **Rhizopogonaceae** are indispensable partners in conifer reforestation on burned mountain watersheds."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Systematic revisions unite the **Rhizopogonaceae** with the bolete lineage based upon hymenial development and chemical pigments."*

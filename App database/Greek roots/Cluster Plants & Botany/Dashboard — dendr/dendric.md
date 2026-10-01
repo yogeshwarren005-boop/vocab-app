@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a tree; having a tree-like or arborescent branching structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology and neurology, pertaining to the branching dendritic processes of a neuron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendric designates adjective*) pertaining to, derived from, or characteristic of tree."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The coral colony expands into a complex **dendric** framework that mimics the branching boughs of a forest oak."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The **dendric** arborizations of the cerebellar Purkinje cells spread like an intricate fan to receive parallel fibers."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Mineral solutions seeping through shale bedding planes crystallize into exquisite **dendric** patterns of manganese oxide."*

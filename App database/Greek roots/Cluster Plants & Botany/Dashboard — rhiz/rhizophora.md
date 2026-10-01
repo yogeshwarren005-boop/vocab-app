@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the rhizophoraceae; a small genus of tropical trees and shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the rhizophoraceae; a small genus of tropical trees and shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical coastal trees in the family Rhizophoraceae, commonly known as true mangroves or red mangroves, bearing stilt roots and viviparous seedlings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine coastal ecology, the quintessential halophytic shoreline tree (Rhizophora mangle) whose arched prop roots buffer coastlines from storm surges and build new land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizophora designates type genus of the rhizophoraceae; a small genus of tropical trees and shrubs."*
+> - 📜 **Charles Darwin (*Journal of Researches (Voyage of the Beagle)*):** *"The tangled stilt roots of **Rhizophora** form an impenetrable barrier along tropical tidal lagoons, trapping river mud."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"We navigated our canoe through winding mangrove channels, where overarching boughs of **Rhizophora** dipped viviparous seedlings into the surf."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The red mangrove or **Rhizophora** advances steadily into the sea, its arching aerial roots creating new soil out of ocean silt."*

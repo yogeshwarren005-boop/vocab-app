@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ascribe human features to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe human features to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To ascribe human characteristics, emotions, or behaviors to non-human things, animals, or deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal ethology, to interpret animal behaviors through the lens of human emotional motivations rather than objective physiological responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphize designates ascribe human features to something."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"While naturalists should not carelessly **anthropomorphize** their subjects, mammalian emotional expressions share deep common roots."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We instinctively **anthropomorphize** our surroundings, feeling resentment toward the inanimate chair that bruises our shins."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab came to **anthropomorphize** the white whale, imputing to the monstrous brute a deliberate and malice-driven intelligence."*

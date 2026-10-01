@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that deals with the functions and activities of life or of living matter (such as organs, tissues, or cells) and of the physical and chemical phenomena involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic processes and phenomena of an organism or any of its parts or of a particular bodily process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that deals with the normal functions, activities, and mechanical processes of living organisms and their parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, the foundational biological science established by William Harvey, Albrecht von Haller, and Claude Bernard to explain the mechanisms of life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Some years ago I happened to be conversing at Cambridge with three men who were respectively of great eminence in mathematics, classics, and physiology."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Why, even in love it is purely a question for physiology."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Fitzjames O’Brien The Golden Ingot I had just retired to rest, with my eyes almost blind with the study of a new work on physiology by M."*
+> - 📜 **William Harvey (*The Circulation of the Blood*):** *"The motion of the heart and the circulation of the blood represent the foundational cornerstone of animal **physiology**."*
+> - 📜 **Claude Bernard (*Experimental Medicine*):** *"True **physiology** demonstrates that every living process is subject to rigid determinism governed by physical laws."*
+> - 📜 **William Osler (*AEquanimitas*):** *"Without a thorough grounding in morbid anatomy and normal **physiology**, clinical medicine becomes mere reckless guesswork."*

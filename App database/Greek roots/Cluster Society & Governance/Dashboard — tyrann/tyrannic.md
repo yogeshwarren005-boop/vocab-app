@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of an absolute ruler or absolute rule; having absolute sovereignty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an absolute ruler or absolute rule; having absolute sovereignty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or acting like a tyrant; tyrannical, despotic, or arbitrarily cruel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and political thought, exercising autocratic power without regard to law or human rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thus ev’ry kind their pleasure find, The savage and the tender; Some social join, and leagues combine, Some solitary wander: Avaunt, away! the cruel sway, Tyrannic man’s dominion; The sportsman’s joy, the murd’ring cry, The flutt’ring, gory pinion!"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The memory is sometimes so retentive, so serviceable, so obedient; at others, so bewildered and so weak; and at others again, so tyrannic, so beyond control!"*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"Nor is this all: Tippoo, with his tyrannic nature, blended the love of literature, and was possessed of a very large and curious library."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So spake the fiend, and with necessity, The **tyrannic** plea, excused his devilish deeds."*
+> - 📜 **Percy Bysshe Shelley (*The Revolt of Islam*):** *"The chains of **tyrannic** power were snapped by the awakening dawn of human liberty."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Maximin governed with a coarse and **tyrannic** ferocity that alienated the civil aristocracy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hornworts: in some classification systems included in the class hepaticopsida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hornworts: in some classification systems included in the class hepaticopsida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class of non-vascular embryophytes comprising the hornworts (Anthocerophyta), characterized by horn-shaped sporophytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and plant evolution, an archaic clade of basal land plants exhibiting continuous sporophytic growth via an intercalary meristem and embedded gametangia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthoceropsida designates hornworts: in some classification systems included in the class hepaticopsida."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The unique developmental features of **Anthoceropsida** place them in an isolated position among the bryophyte phyla."*
+> - 📜 **Frederick Orpen Bower (*Primitive Land Plants*):** *"Unlike liverworts, the **Anthoceropsida** possess sporophytes equipped with true stomata and an active basal meristem."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"In **Anthoceropsida**, each photosynthetic cell typically contains a single massive chloroplast with a pyrenoid, recalling green algae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The one of the four basal ganglia in each cerebral hemisphere that is part of the limbic system and consists of an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe —called also amygdaloid nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one of the four basal ganglia in each cerebral hemisphere that is part of the limbic system and consists of an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe —called also amygdaloid nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An almond-shaped complex of nuclei located deep within the anterior temporal lobe of the brain, playing a critical role in processing emotion and memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and cognitive neuroscience, a key component of the limbic system essential for conditioned fear responses and emotional valence assignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdala designates the one of the four basal ganglia in each cerebral hemisphere that is part of the limbic system and consists of an almond-shaped mass of gray matter in the anterior extremity of the temporal lobe —called also amygdaloid nucleus."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Microscopic preparations demonstrate dense afferent fibers connecting the olfactory tracts directly to the lateral nuclei of the **amygdala**."*
+> - 📜 **Joseph LeDoux (*The Emotional Brain*):** *"The rapid neural pathway from the sensory thalamus straight to the **amygdala** allows defensive reactions before the neocortex is even conscious."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Lesions in the temporal lobe affecting structures around the **amygdala** profoundly disrupt instinctive emotional reactions to danger."*

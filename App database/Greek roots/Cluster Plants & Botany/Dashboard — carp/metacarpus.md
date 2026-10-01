@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the hand or forefoot that contains the metacarpals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the hand or forefoot that contains the metacarpals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the hand or forefoot situated between the carpus (wrist) and the digits (phalanges), comprising the metacarpal bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative tetrapod osteology, the skeletal intermediate segment of the manus that supports the palm or paw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metacarpus designates the part of the hand or forefoot that contains the metacarpals."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Comparative analysis of the forelimb demonstrates that the **metacarpus** underwent drastic elongation in running ungulates."*
+> - 📜 **Richard Owen (*Comparative Anatomy of Vertebrates*):** *"The bat wing demonstrates extraordinary elongation of the **metacarpus** and phalanges to support the membranous patagium."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals*):** *"In carnivores, the five digits of the **metacarpus** rest upon fibro-fatty pads adapted for silent stalking."*

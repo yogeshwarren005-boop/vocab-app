@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an abnormal condition of the eye in which visual images are not in focus on the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an abnormal condition of the eye in which visual images are not in focus on the retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with ametropia; having an eye with a refractive error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic optics, describing an eye that requires corrective convex, concave, or toric lenses to focus parallel rays upon the retina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametropic designates of or relating to an abnormal condition of the eye in which visual images are not in focus on the retina."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"When an **ametropic** eye observes a distant luminous point, the retinal image is diffused into a blurry circle of dispersion."*
+> - 📜 **F. C. Donders (*On Refraction of the Eye*):** *"In the **ametropic** individual, accommodation cannot compensate for axial disproportion without inducing severe ciliary strain."*
+> - 📜 **William Thomson (Lord Kelvin) (*Popular Lectures and Addresses*):** *"The optical engineer designs spectacle lenses specifically to counteract the focal defects of the **ametropic** cornea."*

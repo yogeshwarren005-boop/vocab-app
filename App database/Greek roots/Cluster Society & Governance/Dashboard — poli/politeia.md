@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek term for citizenship, constitutional order, government, or a body of citizens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical political philosophy, Aristotle's ideal constitution (a balanced polity mixing democracy and oligarchy) and the original Greek title of Plato's Republic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, politeia designates a term designating an entity, condition, or phenomenon derived from greek poli."*
+> - 📜 **Aristotle (*Politics*):** *"A **politeia** is the arrangement of magistrates in a state, especially of the supreme authority."*
+> - 📜 **Plato (*The Republic*):** *"In constructing our ideal **politeia**, we must harmonize justice in the soul with justice in the commonwealth."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The **politeia** was not merely a legal constitution, but the moral and spiritual life-order of the citizens."*

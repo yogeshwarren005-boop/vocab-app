@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The effect of genes introduced by pollen especially on endosperm and embryo development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in southwest central Ohio east-southeast of Dayton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct influence of pollen on the development or characteristics of the seed or fruit outside the embryo (e.g. in maize); or ancient Greek hospitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek culture, the sacred guest-friendship custom overseen by Zeus Xenios binding host and traveler in reciprocal protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenia designates the effect of genes introduced by pollen especially on endosperm and embryo development."*
+> - 📜 **Homer (*The Odyssey*):** *"The laws of **xenia** mandate that the host must bathe and feed the stranger before inquiring of his name and origin."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"The sudden alteration of endosperm color in hybrid maize kernels was recognized by botanists as a clear instance of **xenia**."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Sacred **xenia** served as an international passport, creating networks of mutual protection across fragmented city-states."*

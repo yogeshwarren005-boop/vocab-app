@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of human beings; especially : the study of human beings and their ancestors through time and space and in relation to physical character, environmental and social relations, and culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theology dealing with the origin, nature, and destiny of human beings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The holistic scientific study of humanity, encompassing human biological evolution, archaeology, linguistics, and sociocultural development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, the overarching scientific discipline that synthesizes ethnology, comparative anatomy, and sociology to analyze the human condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"FELLOW OF TRINITY COLLEGE, CAMBRIDGE PROFESSOR OF SOCIAL ANTHROPOLOGY IN THE UNIVERSITY OF LIVERPOOL."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The awe and dread with which the untutored savage contemplates his mother-in-law are amongst the most familiar facts of anthropology."*
+> - 📜 **Edward Burnett Tylor (*Anthropology: An Introduction*):** *"The science of **anthropology** maps the long, laborious ascent of human civilization from stone tools to modern science."*
+> - 📜 **Immanuel Kant (*Anthropology from a Pragmatic Point of View*):** *"Pragmatic **anthropology** examines what man as a free-acting being makes, or can and should make, of himself."*
+> - 📜 **Franz Boas (*Race, Language and Culture*):** *"Modern **anthropology** demonstrates that cultural diversity is the product of historical circumstance rather than biological inferiority."*

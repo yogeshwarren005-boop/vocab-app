@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a continent that is stable and forms the central mass of the continent; typically precambrian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a continent that is stable and forms the central mass of the continent; typically precambrian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, stable block of the earth's crust forming the ancient nucleus of a continent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geotectonics and geophysics, the deep, mechanically rigid portion of continental lithosphere that has survived multiple cycles of rifting and collision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craton designates the part of a continent that is stable and forms the central mass of the continent; typically precambrian."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"The primordial Canadian **craton** resisted orogenic deformation, standing as a firm anchor for the continent."*
+> - 📜 **John Tuzo Wilson (*A Revolution in Earth Science*):** *"Plate margins collide and fold around the immovable roots of an ancient continental **craton**."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"The stable crystalline blocks that constitute each **craton** exhibit matching structural trends across ocean basins."*

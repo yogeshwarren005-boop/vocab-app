@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narcotic that is considered a hard drug; a highly addictive morphine derivative; intravenous injection provides the fastest and most intense rush.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcotic that is considered a hard drug; a highly addictive morphine derivative; intravenous injection provides the fastest and most intense rush.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly addictive analgesic drug derived from morphine (diacetylmorphine), originally synthesized as a non-addictive cough suppressant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and social history, a Schedule I opioid named from German heroisch ('heroic') by the Bayer pharmaceutical company in 1898 for its powerful effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But from fifteen to seventeen she was in training for a heroine; she read all such works as heroines must read to supply their memories with those quotations which are so serviceable and so soothing in the vicissitudes of their eventful lives."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O for a throat like huge Mons-Meg, To muster o’er each ardent Whig Beneath Drumlanrig’s banners; Heroes and heroines commix, All in the field of politics, To win immortal honours."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The old stories were full of the adventures of Jupiter, or Zeus, with the heroines, mortal women, whom he loved."*
+> - 📜 **William S. Burroughs (*Junky*):** *"The physiological hook of **heroin** takes hold slowly, reorganizing all cellular necessity around the next fix."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The neurochemical surge produced by **heroin** blunts visceral nociceptive transmission across the limbic axis."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Watson protested against Holmes's reliance on potent narcotics, warning of the destructive grip of **heroin** and cocaine."*

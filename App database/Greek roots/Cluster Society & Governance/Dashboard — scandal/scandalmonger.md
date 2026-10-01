@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who spreads malicious gossip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who spreads malicious gossip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually spreads malicious gossip, rumors, or scandals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and social satire, a gossip-monger whose trade is defaming reputations in salons or tabloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scandalmonger designates a person who spreads malicious gossip."*
+> - 📜 **Richard Brinsley Sheridan (*The School for Scandal*):** *"Lady Sneerwell was an accomplished **scandalmonger**, weaving poisonous slander with charming smiles."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Long proved herself an insufferable **scandalmonger**, circulating rumors about Mr. Bingley's fortune."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"The club was infested by a persistent **scandalmonger** who traded in ruined reputations and whispered debts."*

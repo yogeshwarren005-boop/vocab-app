@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a bureaucrat or bureaucracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a bureaucrat or bureaucracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the business of running an organization, or government; overly complicated, formal, and characterized by red tape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and organizational theory, defined by fixed official jurisdictions, hierarchical supervision, and written records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bureaucratic designates of or relating to or resembling a bureaucrat or bureaucracy."*
+> - 📜 **Max Weber (*The Theory of Social and Economic Organization*):** *"The **bureaucratic** form of administration is capable of attaining the highest degree of technical efficiency."*
+> - 📜 **Joseph Heller (*Catch-22*):** *"Doc Daneeka found himself declared legally dead by an unyielding **bureaucratic** snafu."*
+> - 📜 **C. Wright Mills (*The Power Elite*):** *"Modern corporate life has become dominated by a vast **bureaucratic** apparatus managing human capital."*

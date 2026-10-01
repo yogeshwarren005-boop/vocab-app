@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) feeding on plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) feeding on plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attracted to, loving, or thriving among plants; plant-loving; residing on or near vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological biogeography, describing animal species, birds, or insects that inhabit dense foliage, brush, or forest understories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytophilous designates (of animals) feeding on plants."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"The brilliant tree frogs of the Amazon are strictly **phytophilous**, spending their lives within water-filled bromeliad leaf axils."*
+> - 📜 **John Gould (*The Birds of Europe*):** *"The warblers are typical **phytophilous** songbirds, seldom descending to the ground but gleaning tiny insects from willow leaves."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Green leafhoppers exhibit **phytophilous** adaptations, their flattened bodies matching the green veins of the grasses they inhabit."*

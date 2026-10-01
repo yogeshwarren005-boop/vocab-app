@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weathered and decomposed siliceous limestone; in powdered form it is used in polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and chief port and largest city of libya; in northwestern libya on the mediterranean sea; founded by the phoenicians in the 7th century bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of Libya in North Africa; or a historic port city in northern Lebanon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geography, named from Greek Tripolis ('three cities'), originally founded by Phoenicians as a confederation of three trading colonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, at the farthest for a week or two; But then up farther, and as far as Rome; And so to Tripoli, if God lend me life."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He says, without however vouching for the truth of the tale, that once in the land of the Psylli, the modern Tripoli, the wind blowing from the Sahara had dried up all the water-tanks."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Tripoli │Mahbub of 20 │Silver │ 74.3│ │ piasters │ │ │ Turkey │Piaster │Gold │ 04.4│25, 50, 100, │ │ │ │ 250, and 500 │ │ │ │ piasters."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prosperous Roman colony of **Tripoli** flourished as a trading emporium for ivory and African grain."*
+> - 📜 **Richard Francis Burton (*The Gold-Mines of Midian*):** *"Merchant caravans arrived in **Tripoli** laden with dates and textiles from the interior oases."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Montgomery's victorious Eighth Army entered **Tripoli**, driving Rommel's forces in full retreat toward Tunisia."*

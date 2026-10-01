@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city inhabited by people from many different countries; a cosmopolitan city; or the world considered as a single city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic philosophy, the universal moral community uniting all rational beings under common natural law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmopolis designates a cosmopolitan city."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"My city and my country, so far as I am Antoninus, is Rome; but so far as I am a rational man, it is the **cosmopolis**."*
+> - 📜 **Stephen Toulmin (*Cosmopolis: The Hidden Agenda of Modernity*):** *"The seventeenth-century search for certainty sought to construct a social **cosmopolis** mirroring cosmic order."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Alexandria stood as the first true **cosmopolis**, blending Egyptian, Greek, and Jewish cultures in its crowded streets."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the endometrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the endometrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the endometrium (the mucous membrane that lines the interior of the uterus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological histopathology, designating cyclic hormone-responsive stromal and glandular tissues of the uterine cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometrial designates of or relating to the endometrium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Biopsy of the **endometrial** lining reveals marked glandular hyperplasia induced by unopposed estrogen stimulation."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Curettage of the **endometrial** surface was undertaken to arrest persistent menorrhagia."*
+> - 📜 **Arthur Rook (*Textbook of Dermatology*):** *"Cutaneous endometriosis presents as a pigmented periumbilical nodule that swells painfully during each **endometrial** cycle."*

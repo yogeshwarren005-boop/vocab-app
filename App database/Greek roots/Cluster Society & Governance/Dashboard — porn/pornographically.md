@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pornographic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pornographic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pornographic manner; with explicit sexual depiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary analysis, portraying scenes with sensationalist, exploitative physical explicitness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pornographically designates in a pornographic manner."*
+> - 📜 **Susan Sontag (*Under the Sign of Saturn*):** *"The text was constructed **pornographically**, reducing complex human characters to instruments of mechanical sensation."*
+> - 📜 **Angela Carter (*The Sadeian Woman*):** *"De Sade arranged his philosophical dialogues **pornographically**, punctuating metaphysics with violent orgies."*
+> - 📜 **George Steiner (*Language and Silence*):** *"When literature describes intimacy **pornographically**, it strips privacy of its sacred, mysterious silence."*

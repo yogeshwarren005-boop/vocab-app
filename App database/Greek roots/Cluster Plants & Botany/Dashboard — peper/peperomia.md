@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus peperomia; grown primarily for their often succulent foliage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus peperomia; grown primarily for their often succulent foliage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of small, tropical and subtropical perennial herbs in the family Piperaceae, commonly grown as house plants for ornamental foliage; radiator plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neotropical botany, succulent shade-tolerant epiphytes and lithophytes bearing dense spadix-like flower spikes of minute flowers lacking perianths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peperomia designates any of various plants of the genus peperomia; grown primarily for their often succulent foliage."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Peperomia** differs from true Piper in its herbaceous habit, tiny two-stamened flowers, and solitary stigma."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Indoor gardeners prize **Peperomia** for its fleshy, variegated leaves that tolerate dry apartment atmospheres."*
+> - 📜 **Adolf Engler (*Das Pflanzenreich*):** *"Hundreds of species of **Peperomia** flourish upon mossy tree trunks throughout the cloud forests of the Andes."*

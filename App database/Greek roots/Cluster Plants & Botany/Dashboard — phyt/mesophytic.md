@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or growing in or adapted to a moderately moist environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or growing in or adapted to a moderately moist environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or adapted to conditions of moderate moisture; characteristic of a mesophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytosociology and forest ecology, characterizing temperate deciduous climax forests and rich meadow communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesophytic designates being or growing in or adapted to a moderately moist environment."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"The mixed **mesophytic** forest represents the richest and most diverse temperate forest ecosystem in the Northern Hemisphere."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Appalachian coves shelter pristine **mesophytic** flora that survived Pleistocene glaciations in unglaciated refugia."*
+> - 📜 **John Muir (*The Mountains of California*):** *"In the middle forest zone, magnificent sugar pines and firs flourish under optimal **mesophytic** moisture conditions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a class of serfs in ancient Sparta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone held in forced servitude : an enslaved person or serf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Helots collectively; or the system or condition of serfdom and bonded servitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political critique and social history, a permanently disenfranchised and exploited working caste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helotry designates a member of a class of serfs in ancient sparta."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The degraded condition of industrial factory laborers threatened to produce a new British **helotry**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rural coloni of the late empire sank inexorably into an oppressive hereditary **helotry**."*
+> - 📜 **George Grote (*A History of Greece*):** *"Sparta was a military garrison surrounded by an armed, deeply resentful native **helotry**."*

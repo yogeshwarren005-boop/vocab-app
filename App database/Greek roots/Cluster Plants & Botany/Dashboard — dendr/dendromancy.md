@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dendr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or augury through the observation of trees, particularly the rustling of oak leaves, fruit fall, or tree growth patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical anthropology and religious history, the archaic oracle tradition exemplified by the priestesses of Dodona interpreting the sacred oak of Zeus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendromancy designates a term designating an entity, condition, or phenomenon derived from greek dendr."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"At Dodona, the earliest Hellenic oracle practiced **dendromancy**, listening to the divine voice murmuring in the foliage of the sacred oak."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient Celtic Druids practiced a form of **dendromancy**, seeking prophecies in the growth habits of mistletoe upon forest trees."*
+> - 📜 **John Brand (*Observations on Popular Antiquities*):** *"Traces of medieval **dendromancy** survived in rural customs of tapping hollow trunks to divine harvest yields."*

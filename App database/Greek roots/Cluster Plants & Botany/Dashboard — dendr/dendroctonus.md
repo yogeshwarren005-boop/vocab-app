@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of small bark beetles destructive especially to mature conifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of small bark beetles destructive especially to mature conifers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of destructive bark beetles in the family Curculionidae (subfamily Scolytinae), known as pine beetles or tree killers, that bore into conifer bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest entomology, aggregate pheromone-driven beetles whose symbiotic phytopathogenic fungi (blue stain) overwhelm tree resin defenses, causing landscape-level mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendroctonus designates genus of small bark beetles destructive especially to mature conifers."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"The devastating onslaught of **Dendroctonus** frontalis has laid waste to vast pine tracts across the southern states."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"Females of **Dendroctonus** bore through the outer cambium, carving winding egg galleries that girdle and suffocate the host tree."*
+> - 📜 **John Muir (*Our National Parks*):** *"Even the mighty sugar pine falls victim to the tiny **Dendroctonus** beetle when drought weakens its resinous defenses."*

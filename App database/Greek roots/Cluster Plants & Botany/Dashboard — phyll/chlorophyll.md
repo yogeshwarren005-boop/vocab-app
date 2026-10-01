@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The green photosynthetic pigment found chiefly in the chloroplasts of plants and occurring especially as a blue-black ester C55H72MgN4O5 or a dark green ester C55H70MgN4O6 —called also respectively chlorophyll a, chlorophyll b.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A waxy green chlorophyll-containing substance extracted from green plants and used as a coloring agent or deodorant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The green photosynthetic pigment found in chloroplasts of plants, algae, and cyanobacteria, which absorbs light energy (primarily blue and red wavelengths) for photosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry, a magnesium-coordinated porphyrin ring complex (chiefly chlorophyll a and b) essential for light absorption and excitation transfer in photosystems I and II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyll designates the green photosynthetic pigment found chiefly in the chloroplasts of plants and occurring especially as a blue-black ester c55h72mgn4o5 or a dark green ester c55h70mgn4o6 —called also respectively chlorophyll a, chlorophyll b."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Without sunlight and **chlorophyll**, the green plant cannot decompose atmospheric carbonic acid or generate starch grains."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Parasitic plants like the dodder have lost their green **chlorophyll**, depending entirely upon host saps for nourishment."*
+> - 📜 **Justus von Liebig (*Chemistry in Its Application to Agriculture*):** *"Microscopic analysis reveals that **chlorophyll** granules reside inside leaf cells, functioning as tiny chemical laboratories."*

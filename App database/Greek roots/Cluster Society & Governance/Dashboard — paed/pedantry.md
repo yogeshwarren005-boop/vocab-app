@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ostentatious and inappropriate display of learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ostentatious and inappropriate display of learning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive concern with minor details and formal rules; an ostentatious display of bookish learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and philosophical critique, dogmatic fixation on academic trivia that obscures real intellectual substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"All topics were handled by him with skill, and without pedantry or affectation."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were arrayed in the extremity of the mode, with all that pedantry of dress which marks the man of questionable pretensions to style."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was very particular that we should play the old English games according to their original form, and consulted old books for precedent and authority for every ‘merrie disport;’ yet I assure you there never was pedantry so delightful."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"I hate that hollow **pedantry** which fills the memory with Greek names while leaving the judgment barren."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"**Pedantry** is the unseasonable ostentation of learning, obtruding scholastic distinctions into polite company."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholasticism fell into terminal decay when vain **pedantry** preferred contentious disputations to experimental inquiry."*

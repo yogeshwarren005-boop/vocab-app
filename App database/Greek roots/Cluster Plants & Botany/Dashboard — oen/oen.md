@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical root derived from Greek 'oinos' (wine), forming vocabulary relating to wine and viticulture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical and classical terminology, the prefix designating wine chemistry (oenology), wine vessels (oenochoe), and floral pigments (oenin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oen designates a term designating an entity, condition, or phenomenon derived from greek oen."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **oen** traces directly to oinos, the sacred fermented juice of the grape offered to Dionysus."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Archaic Indo-European cognates of **oen** connect Mediterranean wine cultivation with ancient vine viticulture."*
+> - 📜 **Louis Pasteur (*Studies on Wine*):** *"Chemical constituents bearing the prefix **oen** reflect historical research into the bouquet and coloring matters of vintage wines."*

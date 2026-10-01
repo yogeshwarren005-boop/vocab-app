@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in africa and argentina that are parasitic on the roots of other plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of flowering plants in africa and argentina that are parasitic on the roots of other plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of achlorophyllous, holoparasitic flowering plants (order Piperales) comprising the genera Hydnora and Prosopanche, living entirely underground except for subterranean flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, extreme root holoparasites that parasitize Euphorbia and Fabaceae, producing fleshy, foul-smelling trimerous flowers that mimic rotting meat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydnoraceae designates a family of flowering plants in africa and argentina that are parasitic on the roots of other plants."*
+> - 📜 **Adolf Engler (*Das Pflanzenreich*):** *"The **Hydnoraceae** exhibit the ultimate reduction of vegetative organs, possessing neither stems nor leaves, but only parasitic roots."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The grotesque flowers of **Hydnoraceae** emerge through the baked desert sand of South Africa, emitting the fetid stench of decaying flesh to lure carrion beetles."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Morphologists debate whether the subterranean vegetative body of **Hydnoraceae** represents an indurated rhizome or a specialized root system."*

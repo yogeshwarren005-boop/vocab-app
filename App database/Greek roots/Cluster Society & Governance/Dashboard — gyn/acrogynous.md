@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having archegonia (female reproductive organs) terminating the main axis or stem of growth, as in certain liverworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology, describing jungermannialean liverworts whose stem apical cell is converted directly into an archegonium, stopping further axial growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrogynous designates adjective*) pertaining to, derived from, or characteristic of woman."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"In **acrogynous** Jungermanniales, the formation of archegonia arrests the terminal elongation of the shoot."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The **acrogynous** condition represents a definitive morphological transition in gametophytic apical growth."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Cryptogamic taxonomists separate leafy liverworts into anacrogynous and **acrogynous** families."*

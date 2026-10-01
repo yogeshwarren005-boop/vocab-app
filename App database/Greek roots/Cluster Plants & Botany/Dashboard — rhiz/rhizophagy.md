@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhiz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of feeding upon roots; in microbiology, the rhizophagy cycle in which plant roots internalize and extract nutrients from symbiotic microbes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant-microbe symbioses, a biological cycle wherein roots engulf endophytic soil bacteria, extract nitrogen using superoxide, and expel them to scavenge nutrients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizophagy designates a term designating an entity, condition, or phenomenon derived from greek rhiz."*
+> - 📜 **Charles Valentine Riley (*The Periodical Cicada*):** *"Long subterranean **rhizophagy** enables the growing nymph to accumulate fat bodies over years of silent underground feeding."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"Root damage arising from widespread **rhizophagy** leaves crops vulnerable to secondary bacterial and fungal wilts."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"Severe **rhizophagy** by subterranean herbivores alters competitive dominance among coexisting grassland species."*

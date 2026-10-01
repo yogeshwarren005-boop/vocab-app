@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of agamid lizards native to Southeast Asia, commonly known as mountain horned dragons, distinguished by prominent spiny crests along the neck and back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, arboreal forest lizards that use spiky cephalic horns and camouflage to avoid detection in humid tropical canopies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acanthosaura designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **Edward Drinker Cope (*The Lizards and Snakes of North America*):** *"The Southeast Asian genus **Acanthosaura** exhibits extraordinary spination around the nuchal fold and temporal regions."*
+> - 📜 **Malcolm Arthur Smith (*The Fauna of British India: Reptilia and Amphibia*):** *"When threatened, **Acanthosaura** armata flattens its body against the bark, erecting its formidable dorsal spines."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"The horned dragons of the genus **Acanthosaura** thrive in moist montane rain forests across the Indochinese peninsula."*

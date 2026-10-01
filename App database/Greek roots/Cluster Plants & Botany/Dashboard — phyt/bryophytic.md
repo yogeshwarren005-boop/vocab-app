@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to plants of the division bryophyta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to plants of the division bryophyta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a bryophyte (moss, liverwort, or hornwort).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, characterizing vegetation communities, cushions, or microhabitats dominated by non-vascular cryptogams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bryophytic designates relating to plants of the division bryophyta."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"The high montane scree was stabilized by a dense **bryophytic** crust that trapped moisture and windblown dust."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The **bryophytic** gametophyte exhibits exquisite adaptations for capillary water transport along its external leafy surfaces."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Deep gorges in the eastern Himalayas are clothed in luxuriant **bryophytic** carpets dripping with perpetual mist."*

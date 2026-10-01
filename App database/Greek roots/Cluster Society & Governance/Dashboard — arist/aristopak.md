@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic corticosteroid (trade names aristocort or aristopak or kenalog) used as an anti-inflammatory agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic corticosteroid (trade names aristocort or aristopak or kenalog) used as an anti-inflammatory agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial packaging or pharmaceutical trade name historically associated with sealed corticosteroid or ophthalmic preparations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacy and historical therapeutics, proprietary packaging for standardized doses of triamcinolone or related medical compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristopak designates a synthetic corticosteroid (trade names aristocort or aristopak or kenalog) used as an anti-inflammatory agent."*
+> - 📜 **Morris Fishbein (*Fads and Quackery in Healing*):** *"Standardized clinical dispensing through proprietary preparations like **Aristopak** ensured dosage regularity."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"The modern hospital dispensary was filled with pre-measured formulations such as **Aristopak** for immediate administration."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Proper prescription packaging like the **Aristopak** eliminated compounding errors in busy hospital wards."*

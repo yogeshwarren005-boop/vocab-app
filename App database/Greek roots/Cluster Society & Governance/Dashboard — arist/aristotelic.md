@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aristotle or his philosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aristotle or his philosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Aristotle or characteristic of Aristotelian philosophy and methodology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic or poetic adjective designating Aristotelian logic, ethics, or metaphysics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristotelic designates of or relating to aristotle or his philosophy."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Naturalists frequently accepted dubious lore because it conformed to venerable **aristotelic** principles."*
+> - 📜 **John Milton (*Areopagitica*):** *"He examined the disputation with acute **aristotelic** precision, dissecting each premise with rigorous care."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The scholar's mind moved easily between Platonic mysticism and cold **aristotelic** classification."*

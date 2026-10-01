@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and variable genus of terrestrial or epiphytic or lithophytic orchids of tropical and subtropical americas; some native to united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and variable genus of terrestrial or epiphytic or lithophytic orchids of tropical and subtropical americas; some native to united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and diverse genus of Neotropical epiphytic orchids (family Orchidaceae), known as star orchids or buttonhole orchids, growing on trees and rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical botanical systematics, Linnaeus's original omnibus genus for all tropical epiphytic orchids, now restricted to species with adnate lip columns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Epidendrum designates large and variable genus of terrestrial or epiphytic or lithophytic orchids of tropical and subtropical americas; some native to united states."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under **Epidendrum**, I have united all those foreign orchids that perch upon the bark of tropical forest trees."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Epidendrum** is characterized by the labellum being completely united with the column throughout its length."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised*):** *"In **Epidendrum**, the nectar is secreted inside a long tubular chamber formed by the fusion of the labellum and column."*

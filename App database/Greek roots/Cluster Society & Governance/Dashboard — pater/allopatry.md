@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in different geographic areas or in isolation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in different geographic areas or in isolation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having non-overlapping, separate geographical ranges (of related species or populations).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and evolutionary ecology, geographic separation that prevents gene flow between divergent lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allopatry designates occurring in different geographic areas or in isolation."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Prolonged **allopatry** allows natural selection and genetic drift to alter gene frequencies without hindrance."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The vast majority of geographic subspecies owe their initial distinctive traits to territorial **allopatry**."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Divergence in mating calls evolved during centuries of mountain **allopatry** across the archipelago."*

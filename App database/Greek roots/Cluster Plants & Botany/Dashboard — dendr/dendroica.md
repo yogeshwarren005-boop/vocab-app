@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of parulidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of parulidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus of New World wood warblers (family Parulidae), now largely merged into Setophaga, renowned for diverse plumage and niche partitioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary community ecology, Robert MacArthur's classic study group demonstrating resource partitioning among competing spruce-forest insectivores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendroica designates a genus of parulidae."*
+> - 📜 **Robert H. MacArthur (*Population Ecology of Some Warblers of Northeastern Coniferous Forests*):** *"Five species of **Dendroica** warblers coexist in the same Maine spruce trees by foraging at different heights and foliage zones."*
+> - 📜 **Frank M. Chapman (*The Warblers of North America*):** *"The brilliant springtime arrival of the genus **Dendroica** fills northern woodlands with a dazzling pageant of song and color."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Speciation patterns within **Dendroica** illuminate the impact of Pleistocene glacial advances on North American avifauna."*

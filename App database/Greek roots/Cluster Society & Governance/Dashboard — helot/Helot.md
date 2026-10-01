@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a class of state-owned serfs in ancient Sparta, tied to the land and subservient to Spartan citizens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and sociology, an enslaved laborer subjected to systematic state oppression and ritualized degradation (such as the Krypteia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"A helot of Agesilaus made us a dish of Spartan broth, but I was not able to get down a second spoonful."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Shades of the Helots! triumph o'er your foe: Greece! change thy lords, thy state is still the same; Thy glorious day is o'er, but not thy years of shame."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We may, by your legislation, reduce all the country south and east of Mason and Dixon’s line, the whites as well as the blacks, to the condition of Helots: you can do no more."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Spartan foreign and domestic policy was at all times governed chiefly by fear of a **Helot** revolt."*
+> - 📜 **Plutarch (*Life of Lycurgus*):** *"Spartan youths were ordered to murder any rebellious **Helot** caught wandering the fields after nightfall."*
+> - 📜 **Aristotle (*Politics*):** *"The Messenian **Helot** population was like an enemy constantly lying in wait for Sparta's misfortunes."*

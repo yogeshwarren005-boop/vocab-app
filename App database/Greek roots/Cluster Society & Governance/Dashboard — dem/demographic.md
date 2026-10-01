@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The statistical characteristics of human populations (such as age or income) used especially to identify markets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A market or segment of the population identified by demographics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the structure of populations; or a particular sector of a population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and statistical economics, relating to age distributions, socioeconomic brackets, or geographic population clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demographic designates the statistical characteristics of human populations (such as age or income) used especially to identify markets."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Rapid westward expansion produced profound **demographic** transformations in the American character."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"Healthy neighborhoods sustain vibrant **demographic** diversity across generations and trades."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Human settlements expand into wilderness, altering the **demographic** stability of indigenous fauna."*

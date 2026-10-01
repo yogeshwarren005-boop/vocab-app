@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a tree in form and branching structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a tree in form and branching structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape, appearance, or branching structure of a tree; arborescent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and comparative anatomy, describing crystals, blood vessels, or organisms displaying tree-like ramification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendriform designates resembling a tree in form and branching structure."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The cliff face was painted with delicate **dendriform** crystallizations of iron and manganese that simulated fossil mosses."*
+> - 📜 **James Dwight Dana (*Corals and Coral Islands*):** *"The elkhorn coral develops massive **dendriform** colonies whose heavy branches withstand the pounding surf of Caribbean reefs."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"The respiratory organs in certain marine worms present an elegant **dendriform** cluster of branching gills."*

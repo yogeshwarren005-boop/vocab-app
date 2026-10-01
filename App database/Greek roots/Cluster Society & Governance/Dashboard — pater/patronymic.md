@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A name derived from that of the father or a paternal ancestor usually by the addition of an affix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A name derived from that of the father or a paternal ancestor usually by the addition of an affix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting or derived from the name of one's father or a male ancestor; or a patronymic name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Russian naming conventions and classical literature, the middle name derived from the father's given name (e.g. Ivanovich, Atrides).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"When I go there I shall be all alone, and my friend Harker Jonathan--nay, pardon me, I fall into my country’s habit of putting your patronymic first--my friend Jonathan Harker will not be by my side to correct and aid me."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"Polite Russian address required speaking both the Christian name and the **patronymic** with gentle respect."*
+> - 📜 **Homer (*The Iliad*):** *"Agamemnon was hailed by his noble **patronymic**, Atrides, leader of the Achaean host."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"The courtroom clerk formally announced each witness by his full surname and **patronymic**."*

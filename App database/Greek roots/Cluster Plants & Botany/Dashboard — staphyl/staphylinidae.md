@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rove beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rove beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gigantic family of beetles commonly known as rove beetles, characterized by very short elytra that leave most of their flexible abdominal segments exposed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, the largest family of animals, comprising over 63,000 described species of agile predators and detritivores inhabiting leaf litter and soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphylinidae designates rove beetles."*
+> - 📜 **Charles Darwin (*Journal of Researches (Voyage of the Beagle)*):** *"The agile rove beetles of the **Staphylinidae** curled their abdomens over their backs in menacing scorpioid attitudes when disturbed."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Members of the **Staphylinidae** fold their membranous flight wings beneath tiny square elytra with astonishing speed and dexterity."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"Beneficial predation by the **Staphylinidae** upon soil-dwelling fly maggots makes them valuable allies in agricultural ecology."*

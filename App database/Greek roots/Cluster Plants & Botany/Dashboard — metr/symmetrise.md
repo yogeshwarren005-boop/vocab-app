@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make symmetric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make symmetric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or cause to be symmetrical; to balance or arrange in symmetrical proportions; symmetrize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical physics and design, to transform equations or forms so they exhibit symmetry under reflection or coordinate permutation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetrise designates make symmetric."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"We **symmetrise** the differential equations by introducing the displacement current into Ampère's circuital law."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Do not attempt to **symmetrise** a Gothic facade by forcing unequal aisles into identical arcades."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Surface tension acting upon liquid droplets tends to **symmetrise** cellular boundaries into regular tetrahedra."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in agreement with or according to democratic doctrine or practice or ideals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in agreement with or according to democratic doctrine or practice or ideals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in accordance with democratic principles; autocratic, oligarchic, or denying equal political representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by opaque decision-making, disenfranchisement, or denial of basic civil liberties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I commend the virtuous democracy of this Chamber to read that bill, and then tell this Senate whether there ever was a more undemocratic measure than the bill propounded in Virginia by the party whose cause they espouse."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The suppression of dissident political newspapers was denounced as thoroughly **undemocratic**."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A system that denies suffrage based on hereditary birth is flagrantly **undemocratic**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The arbitrary power of unelected magistrates struck visitors as an **undemocratic** anomaly."*

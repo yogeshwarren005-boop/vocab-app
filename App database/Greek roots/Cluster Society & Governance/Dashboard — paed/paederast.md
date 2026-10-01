@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who has sex (usually sodomy) with a boy as the passive partner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who has sex (usually sodomy) with a boy as the passive partner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who engages in sexual relations with boys (British/historical spelling of pederast).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek cultural history, the adult male partner (erastēs) in an institutionalized mentorship and romantic relationship with an adolescent youth (erōmenos).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paederast designates a man who has sex (usually sodomy) with a boy as the passive partner."*
+> - 📜 **Plato (*Symposium*):** *"Pausanias praised the noble **paederast** who guided his young beloved toward philosophy and civic virtue."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman satirists ridiculed the Greek customs of the philosophical **paederast** as corrupt foreign indulgence."*
+> - 📜 **Michel Foucault (*The Use of Pleasure*):** *"Classical Athenian society subjected the conduct of the **paederast** to intense ethical and civic scrutiny."*

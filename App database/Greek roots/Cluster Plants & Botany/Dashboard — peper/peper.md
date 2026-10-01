@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek peper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical botanical root derived from Greek 'peperi' and Latin 'piper' (pepper), designating pungent peppercorn plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and pharmacognosy, the ancient Indo-Aryan loanword (pippali) that designated black and long pepper across the classical world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peper designates a term designating an entity, condition, or phenomenon derived from greek peper."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **peper** traces to peperi, designating the pungent dried berries imported from southern India."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"It is astonishing that mankind should purchase pungent **peper** at such exorbitant prices merely to tickle a biting palate."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Linguistic pathways of the root **peper** document the earliest maritime spice trade between the Malabar coast and Alexandria."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood nymph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King cobra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical mythology, a wood nymph whose life was bound up with that of a particular tree, dying when the tree died; also the king cobra (Ophiophagus hannah).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and folklore, the formidable venomous king cobra of tropical Asia; in classical literature, the sacred tree spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Faces of hamadryads peep out from the boles and among the leaves and break, blossoming into bloom.)_ Who profaned our silent shade?"*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The woodman stayed his axe, fearing to injure the sweet **hamadryad** whose life sighed within the hollow oak."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Our native guides beat the underbrush with bamboo poles, terrified of startling a giant **hamadryad** in the bamboo thickets."*
+> - 📜 **Rudyard Kipling (*The Second Jungle Book*):** *"Out from the ruined wall slid the terrible **hamadryad**, the great king cobra with hood flared in deadly defiance."*

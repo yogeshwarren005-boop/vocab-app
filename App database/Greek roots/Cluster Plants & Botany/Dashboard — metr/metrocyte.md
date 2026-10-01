@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek metr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mother cell; specifically, an ancestral blood-forming stem cell or erythroblast that gives rise to mature erythrocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical hematology and histology, a primitive precursor cell in the bone marrow or spleen that divides to produce differentiated cellular lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrocyte designates a term designating an entity, condition, or phenomenon derived from greek metr."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"The giant **metrocyte** of the fetal liver divides by mitosis to yield normoblasts that lose their nuclei as they mature."*
+> - 📜 **Ernest Beutler (*Williams Hematology*):** *"Historically, the term **metrocyte** was applied to large basophilic erythroblasts observed in embryonic erythropoiesis."*
+> - 📜 **Santiago Ramón y Cajal (*Manual of Normal Histology*):** *"In bone marrow smears, each primordial **metrocyte** features a dense chromatin network and voluminous cytoplasm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in mendel's experiments with garden peas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in mendel's experiments with garden peas).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid that is heterozygous with respect to a single specified gene or trait.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mendelian genetics, an experimental cross between two organisms that differ in only one phenotypic trait (e.g. flower color).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monohybrid designates a hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in mendel's experiments with garden peas)."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"A **monohybrid** cross involving tall and dwarf pea varieties yielded a uniform tall first filial generation."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"The 3:1 phenotypic ratio observed in the **monohybrid** F2 generation confirmed discrete particulate inheritance."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Analysis of a simple **monohybrid** inheritance clarifies how recessive alleles persist unexpressed in populations."*

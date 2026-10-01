@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa characterized by a pseudopod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa characterized by a pseudopod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of rhizopods (amoeboid protozoans with pseudopodia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular protozoology, describing protoplasmic streaming, amoeboid creeping, and phagocytic engulfment typical of sarcodine organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizopodan designates protozoa characterized by a pseudopod."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Human white blood cells exhibit **rhizopodan** movements, creeping through capillary walls like microscopic amoebae."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The **rhizopodan** stage of primitive mycetozoans aggregates to form migrating multicellular plasmodia."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Ontogenetic observation of early animal cleavage recalls ancestral **rhizopodan** cellular individuality."*

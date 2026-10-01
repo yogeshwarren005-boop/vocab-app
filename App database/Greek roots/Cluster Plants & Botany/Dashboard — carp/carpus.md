@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: wrist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the bones of the wrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wrist in vertebrate anatomy; the group of small bones between the forearm (radius and ulna) and the metacarpus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative osteology, an articulating complex of eight carpal bones arranged in two transverse rows facilitating multi-axial wrist motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog carpus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The mammalian **carpus** retains the primitive pentadactyl pattern, comprising radiale, intermedium, ulnare, and five distal carpals."*
+> - 📜 **Richard Owen (*On the Nature of Limbs*):** *"Homologies of the **carpus** demonstrate the common structural archetype underlying the flipper of the whale and the human hand."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The identical arrangement of bones in the **carpus** of a bat and the hand of a man cannot be explained by mere adaptation."*

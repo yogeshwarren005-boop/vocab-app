@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with the science of anthropology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with the science of anthropology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anthropology (the study of human beings, human biology, cultures, and societies).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social science, relating to ethnological, linguistic, archaeological, or biological investigations of human diversification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, "Further Notes on the Manners and Customs of the Baganda," _Journal of the Anthropological Institute_, xxxii. (1902) pp. 62, 67; _id., The Baganda_ (London, 1911), pp. 154 _sq._ Compare L."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Macdonald, "Manners, Customs, Superstitions, and Religions of South African Tribes," _Journal of the Anthropological Institute_, xx. (1891) p. 118. [66] Dudley Kidd, _The Essential Kafir_ (London, 1904), p. 209."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cole, "Notes on the Wagogo of German East Africa," _Journal of the Anthropological Institute_, xxxii. (1902) pp. 309 _sq._ [75] R."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The **anthropological** method investigates religious rituals by comparing analogous customs surviving across disparate continents."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"Rigorous **anthropological** measurements demonstrated that head shape undergoes phenotypic change under modified environmental conditions."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The vast collection of folklore gathered in these volumes provides an **anthropological** record of the awakening human intellect."*

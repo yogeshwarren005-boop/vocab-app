@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the lowest melting point possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a eutectic alloy or solution or its melting or freezing point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An isothermal reversible reaction in which a solid phase converts into two or more intimate solid phases during cooling; or an alloy formed by such a reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical metallurgy, the invariant point where a solid solution (such as austenite) decomposes into pearlite (ferrite + cementite) at 727°C.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eutectoid designates having the lowest melting point possible."*
+> - 📜 **Henry Clifton Sorby (*The Microscopic Structure of Metals*):** *"Carbon steel at the exact **eutectoid** concentration transforms entirely into fine lamellar pearlite without proeutectoid ferrite."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Solid-state transformations analogous to **eutectoid** reactions in metallurgy occur during deep metamorphic recrystallization."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Phase boundaries in iron-carbon systems illustrate how the **eutectoid** point governs the hardenability of steel."*

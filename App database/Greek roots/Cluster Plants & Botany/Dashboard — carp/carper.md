@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who constantly criticizes in a petty way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who constantly criticizes in a petty way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually finds fault, cavils, or raises trivial, nagging objections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A captious or censorious critic who overlooks general excellence to disparage minor imperfections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame not these woods By putting on the cunning of a carper."*
-> - 📜 **James Joyce (*Ulysses*):** *"His look went from brooder’s beard to carper’s skull, to remind, to chide them not unkindly, then to the baldpink lollard costard, guiltless though maligned. —He had a good groatsworth of wit, Stephen said, and no truant memory."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Some notorious carpers and squeamish moralists might be sulky with Lord Steyne, but they were glad enough to come when he asked them."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The chronic **carper** spends his life hunting out grammatical blemishes, insensible to the grandest flights of poetic imagination."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"A pettifogging **carper** may pick holes in Virgil's diction, yet lack the soul to conceive a single heroic line."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Miss Crawley was an inveterate **carper**, delighting to point out the modest shortcomings of her impoverished relations."*

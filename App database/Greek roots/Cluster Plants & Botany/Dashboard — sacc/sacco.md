@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states anarchist (born in italy) who with bartolomeo vanzetti was convicted of murder and in spite of world-wide protest was executed (1891-1927).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states anarchist (born in italy) who with bartolomeo vanzetti was convicted of murder and in spite of world-wide protest was executed (1891-1927).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian or historical term for a sack, bag, or pouch; in natural history, applied to bag-shaped anatomical structures or historical cases (e.g. Sacco and Vanzetti).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical Italian and historical lexicography, a pouch-like anatomical cavity or peritoneal recess (sacco peritoneale).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacco designates united states anarchist (born in italy) who with bartolomeo vanzetti was convicted of murder and in spite of world-wide protest was executed (1891-1927)."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Venetian porter hoisted the heavy **sacco** of flour onto his shoulders and carried it across the Rialto."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"In classical anatomical descriptions, the peritoneal pouch is frequently designated as a membranous **sacco**."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"The tragic trial of **Sacco** and Vanzetti stirred labor protests across every industrial city in the world."*

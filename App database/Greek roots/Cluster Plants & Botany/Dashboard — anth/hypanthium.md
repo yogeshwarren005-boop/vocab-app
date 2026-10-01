@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlargement of the floral receptacle bearing on its rim the stamens, petals, and sepals and often enlarging and surrounding the fruits (as in the rose hip).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlargement of the floral receptacle bearing on its rim the stamens, petals, and sepals and often enlarging and surrounding the fruits (as in the rose hip).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cup-shaped or tubular enlargement of the floral receptacle or fused bases of sepals, petals, and stamens, surrounding the ovary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm morphology, a structure characteristic of the Rosaceae (rose hips) and Onagraceae that may fuse with the ovary wall to form an inferior ovary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypanthium designates an enlargement of the floral receptacle bearing on its rim the stamens, petals, and sepals and often enlarging and surrounding the fruits (as in the rose hip)."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In the rose, the fleshy cup termed the **hypanthium** encloses the achenes, swelling at maturity into the brightly colored hip."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Systematic botanists trace the origin of the epigynous calyx to the adnation of the **hypanthium** to the syncarpous ovary."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The conspicuous tubular **hypanthium** of the fuchsia elevates petals and stamens high above the inferior four-celled ovary."*

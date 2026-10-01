@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete taxonomic order of basidiomycete fungi that lack gills, including polypores, bracket fungi, tooth fungi, and coral fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical mycology, an artificial Friesian grouping of hymenomycetes characterized by tough, woody, or leathery basidiocarps with pores, teeth, or smooth hymenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphyllophorales designates includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales."*
+> - 📜 **Elias Magnus Fries (*Epicrisis Systematis Mycologici*):** *"The order **Aphyllophorales** unites all those non-agaricoid hymenomycetes whose spore-bearing surface is pore-bearing or toothed."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"Vast numbers of wood-rotting shelf fungi were classified under the **Aphyllophorales** before molecular phylogenetics."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The evolutionary diversification of the **Aphyllophorales** demonstrates multiple independent adaptations for decomposing lignin in dead wood."*

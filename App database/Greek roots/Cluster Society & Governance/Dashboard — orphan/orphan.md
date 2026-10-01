@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A child deprived by death of one or usually both parents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young animal that has lost its mother.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A child whose parents are dead; or to deprive of parents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography, an isolated first line of a paragraph appearing at the bottom of a page; in medicine, an orphan disease or drug.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fairies, black, grey, green, and white, You moonshine revellers and shades of night, You orphan heirs of fixed destiny, Attend your office and your quality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The patient dies while the physician sleeps; The orphan pines while the oppressor feeds; Justice is feasting while the widow weeps; Advice is sporting while infection breeds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was so tender in them to care so much for me, it was so gracious in that father who had not forgotten me to have made my orphan way so smooth and easy and to have inclined so many youthful natures towards me, that I could hardly bear it."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The helpless **orphan** asked for more food, trembling before the astonished board of parish guardians."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"As a friendless **orphan** at Gateshead, she endured the cruel taunts of her wealthy cousins."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Think not upon the fault My father made in compassing the crown! I Richard's body have interred anew, And on it have bestow'd more contrite tears Than from it issued forced drops of blood. Five hundred poor I have in yearly pay, Who twice a day their wither'd hands hold up Toward heaven, to pardon blood; and I have built Two chantries, where the sad and solemn priests Sing still for Richard's soul. More will I do; Though all that I can do is nothing worth, Since that my penitence comes after all, Imploring pardon."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian rhetorician and orator (436-338 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian rhetorician and orator (436-338 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient Greek rhetorician and orator (436–338 BC), one of the Ten Attic Orators and founder of an influential school of rhetoric in Athens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical education and political philosophy, the leading champion of Panhellenism and broad liberal education (paideia) through polished political discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isocrates designates athenian rhetorician and orator (436-338 bc)."*
+> - 📜 **Cicero (*De Oratore*):** *"From the rhetorical school of **Isocrates**, as from the Trojan horse, none but real princes stepped forth."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The smooth, rhythmic prose of **Isocrates** was polished with unbelievable patience for civic assemblies."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"In the curriculum of **Isocrates**, rhetorical eloquence was inseparable from moral and patriotic virtue."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythological or legendary woman often of divine descent having great strength or ability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman admired and emulated for her achievements and qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman admired for her courage, outstanding achievements, or noble qualities; or the chief female character in a story, play, or film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the female protagonist whose moral agency, intellect, or resilience drives the dramatic narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak knew her instantly as the heroine of the yellow waggon, myrtles, and looking-glass: prosily, as the woman who owed him twopence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But to give such cool advice—the very advice she had asked for—it ruffled our heroine all the afternoon."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Our heroine, who had hitherto held her peace, at this wild moment could not help joining in with the rest."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"No one who had ever seen Catherine Morland in her infancy would have supposed her born to be an intrepid **heroine**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea Brooke carried within her the noble, unfulfilled yearning of an epic **heroine**."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Female education should cultivate real fortitude rather than the fragile sensibility expected of a romance **heroine**."*

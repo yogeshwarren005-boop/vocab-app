@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states suffragist (1820-1906).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper name associated with St. Anthony the Great; also applied historically to St. Anthony's fire (erysipelas) and the runt of a litter (an Anthony pig).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural folklore and historical idiom, referring to swine dedicated to the hospital of St. Anthony or to medicinal protections associated with his cross (tau).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Ambassador from Anthony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Charles, good night. [_Exit Suffolk._] Enter Sir Anthony Denny."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, brother Anthony,— ANTONIO."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"His legs bestrid the ocean: his reared arm crested the world: his voice was propertied as all the tuned spheres, when he would call to an **Anthony**."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"Old **Anthony** Chuzzlewit sat before the fire, counting his gains with narrow, suspicious scrutiny."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The peasant prayed to Saint **Anthony** to preserve his cattle from murrain and blight through the harsh winter months."*

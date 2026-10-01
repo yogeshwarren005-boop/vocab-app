@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to eaters of human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to eaters of human flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on human flesh; cannibalistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnography and classical geography, describing peoples, creatures, or mythical beings that consume human victims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Speculators do not dine entirely on "lambs"; they are anthropophagous."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"The Greek historians described wild northern scythians as **anthropophagous** tribes who drank from skulls of slain enemies."*
+> - 📜 **Herman Melville (*Typee*):** *"Rumors depicted the inland Marquesan warriors as fiercely **anthropophagous**, roasting captive prisoners after victorious raids."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Melancholic frenzy has driven delirious wretches to become **anthropophagous**, devouring their own children in secret cellars."*

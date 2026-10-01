@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of peach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of peach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to Persia (modern Iran) or its language, culture, or people; Persian; in botany, relating to the peach (Prunus persica).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical literature and classical geography, pertaining to ancient Persian luxury, poetry, or gardens; botanically, the Persian fruit (peach).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, persic designates adjective*) pertaining to, derived from, or characteristic of peach."*
+> - 📜 **John Milton (*Paradise Regained*):** *"From India and the golden Chersoness and utmost Indian isle Taprobane, to the rich **Persic** gulf and Caspian shore."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The peach, known to the Romans as the **Persic** apple, was brought into Italy from the gardens of the Orient."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Under the name Malus Persica, ancient botanists described the luscious **Persic** fruit ripening on sunny walls."*

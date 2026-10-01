@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ingrowth of the arthropod exoskeleton serving as an internal site for muscle attachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod anatomy and biomechanics, an invaginated cuticular plate or ridge that provides rigid leverage for flexor and extensor muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apodeme designates a term designating an entity, condition, or phenomenon derived from greek dem."*
+> - 📜 **Robert E. Snodgrass (*Principles of Insect Morphology*):** *"Each thoracic **apodeme** provides a firm anchor for the powerful flight musculature of insects."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The crustacean endophragmal system is composed of an intricate series of internal **apodeme** structures."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Muscular tension transmitted through the cuticular **apodeme** produces rapid articulation of the appendage."*

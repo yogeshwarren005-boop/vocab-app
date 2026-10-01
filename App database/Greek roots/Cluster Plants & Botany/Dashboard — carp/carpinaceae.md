@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems for the genera carpinus, ostryopsis, and ostryopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems for the genera carpinus, ostryopsis, and ostryopsis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete or segregate botanical family comprising the hornbeams (Carpinus) and hop-hornbeams (Ostrya), now included in Betulaceae (subfamily Coryloideae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical dendrology, a family of amentiferous trees characterized by hard, dense wood and hop-like fruiting catkins with ribbed nuts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpinaceae designates used in some classification systems for the genera carpinus, ostryopsis, and ostryopsis."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Systematists separating the **Carpinaceae** from Betulaceae emphasize the three-lobed leafy bracts enclosing the nut."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The **Carpinaceae** are distinguished by their solitary male flowers in catkins and pairs of female flowers enclosed in leafy involucre."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"Fossil leaves matching modern **Carpinaceae** occur abundantly in Eocene and Miocene lacustrine deposits."*

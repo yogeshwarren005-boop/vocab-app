@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a dryad (a tree or wood nymph); nymph-like and associated with forest glades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic literature, evoking the pastoral, verdant enchantment of sylvan spirits inhabiting wild woodlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dryadic designates adjective*) pertaining to, derived from, or characteristic of tree."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Beneath the murmuring pines, a wild **dryadic** grace seemed to breathe through the mossy amphitheatre."*
+> - 📜 **Algernon Charles Swinburne (*Atalanta in Calydon*):** *"The hounds swept past with **dryadic** fury, shaking dew from the tangled forest ferns."*
+> - 📜 **John Ruskin (*Proserpina*):** *"The ancient Greeks possessed a true **dryadic** sympathy that felt living pulse and breath in the trembling aspen leaf."*

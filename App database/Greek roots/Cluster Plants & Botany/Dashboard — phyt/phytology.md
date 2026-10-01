@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that studies plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that studies plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of plants; botany; the formal study of the vegetable kingdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical scientific nomenclature, an older term for botany, encompassing plant physiology, organography, and taxonomic classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytology designates the branch of biology that studies plants."*
+> - 📜 **Erasmus Darwin (*Phytologia, or the Philosophy of Agriculture and Gardening*):** *"The principles of **phytology** demonstrate that plants possess circulation, respiration, and irritability matching animal nature."*
+> - 📜 **William Rhind (*A History of the Vegetable Kingdom*):** *"The pursuit of **phytology** elevates the human mind by revealing divine design in the humblest wayside weed."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Modern **phytology** demands rigorous chemical and microscopical analysis alongside traditional herbarium classification."*

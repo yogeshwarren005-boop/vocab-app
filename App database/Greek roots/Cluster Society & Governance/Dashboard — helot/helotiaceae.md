@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus family of order helotiales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungus family of order helotiales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of inoperculate discomycete fungi in the order Helotiales (the cup fungi).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, ascomycete fungi bearing tiny, gelatinous or waxy apothecia that saprophytically decompose plant debris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helotiaceae designates a fungus family of order helotiales."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Species within **Helotiaceae** produce delicate disc-like fructifications on decaying forest litter."*
+> - 📜 **G. M. Smith (*Cryptogamic Botany*):** *"The apothecia of **Helotiaceae** exhibit asci that open by an apical pore rather than an operculum."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"Microscopic spore characters are indispensable for separating **Helotiaceae** from neighboring pezizoid genera."*

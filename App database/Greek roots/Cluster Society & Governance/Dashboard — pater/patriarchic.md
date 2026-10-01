@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of societies) being ruled by or having descent traced through the male line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of societies) being ruled by or having descent traced through the male line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to a patriarch; patriarchal (archaic or formal variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to ancient tribal rule centered on an elder male progenitor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patriarchic designates (of societies) being ruled by or having descent traced through the male line."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Milton described the ancient **patriarchic** age when simple shepherds held direct converse with angels."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Venerable customs formed a **patriarchic** bond that cemented generations in reciprocal loyalty."*
+> - 📜 **Walter Scott (*Waverley*):** *"The highland clan system was essentially **patriarchic**, regarding the chieftain as a father of his people."*

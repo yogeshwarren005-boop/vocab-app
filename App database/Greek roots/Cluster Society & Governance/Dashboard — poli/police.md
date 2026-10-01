@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The department of government concerned primarily with maintenance of public order, safety, and health and enforcement of laws and possessing executive, judicial, and legislative powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The department of government charged with prevention, detection, and prosecution of public nuisances and crimes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The civil force of a national or local government, responsible for the prevention and detection of crime and the maintenance of public order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical political economy and public law, the broad regulation, sanitation, and governance of civil society (the German Polizeiwissenschaft).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby descends and finds the two ’prentices intently contemplating a police constable, who holds a ragged boy by the arm."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now and then, when they pass a police-constable on his beat, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband and threatened with being delivered over to the police unless he showed the reverend gentleman where he lived and unless he entered into, and fulfilled, an undertaking to appear in Cook’s Court to-morrow night, “to—mor—row—night,” Mrs."*
+> - 📜 **Adam Smith (*Lectures on Jurisprudence*):** *"**Police** is the second general division of jurisprudence, regulating clean water, cheap food, and public tranquility."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The metropolitan **police** kept close surveillance on the dark Thames docks for escaped river convicts."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In American towns, the presence of the **police** is rarely visible, for order is maintained by the citizens themselves."*

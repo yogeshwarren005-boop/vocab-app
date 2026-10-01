@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to epidemiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to epidemiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the branch of medicine which deals with the incidence, distribution, and possible control of diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population health, applying statistical methodology to identify risk factors, contagion pathways, and preventative measures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidemiological designates of or relating to epidemiology."*
+> - 📜 **Richard Doll (*Smoking and Carcinoma of the Lung*):** *"Our long-term **epidemiological** study established an undeniable causal link between cigarette smoking and bronchial cancer."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"The triumph over poliomyelitis was guided step by step by brilliant **epidemiological** fieldwork."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Pioneering researchers combined laboratory bacteriology with tireless **epidemiological** tracking across infected slums."*

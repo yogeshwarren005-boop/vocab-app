@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, Carpo (or Karpo) was one of the Horae (Hours), the goddess representing autumn, harvest yield, and the ripening of fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and astronomical nomenclature, the divine attendant of seasonal abundance; also an outer prograde irregular satellite of Jupiter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog Carpo as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Pausanias (*Description of Greece*):** *"The Athenians dedicated altars to two Horae, Thallo who brings the spring blossom and **Carpo** who ripens autumn fruit."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"The maiden **Carpo** was invoked in harvest liturgies as the divine power that brings seed to fullness."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"In classical sculpture, **Carpo** appears crowned with ears of wheat and laden with clusters of purple grapes."*

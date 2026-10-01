@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no carpels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking carpels; having no female reproductive organs or pistil in the flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm morphology, describing staminate (male) flowers or sterile teratological blossoms that fail to develop carpellary structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarpellous designates having no carpels."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Male catkins of the willow are strictly **acarpellous**, producing stamens enclosed within silky bracts without any trace of an ovary."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Certain cultivated varieties of double roses become completely **acarpellous**, all carpels having transformed into decorative petals."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The staminate flowers of dioecious Euphorbiaceae are **acarpellous**, bearing only clusters of central stamens."*

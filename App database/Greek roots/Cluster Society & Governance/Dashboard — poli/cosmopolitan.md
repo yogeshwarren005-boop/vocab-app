@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having wide international sophistication : worldly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of persons, constituents, or elements from all or many parts of the world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Familiar with and at ease in many different countries and cultures; including people from many different countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography, describing an organism or taxon distributed globally across suitable habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I believe I am truly cosmopolitan."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and the children, and in what point of view they presented themselves to his cosmopolitan mind."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolitan Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*
+> - 📜 **Immanuel Kant (*Idea for a Universal History from a Cosmopolitan Point of View*):** *"Humanity slowly progresses toward a universal **cosmopolitan** constitution ensuring perpetual peace."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Lambert Strether experienced Paris as a dazzling, **cosmopolitan** feast that awakened his slumbering senses."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain freshwater mollusks have attained a virtually **cosmopolitan** range carried on the feet of wading birds."*

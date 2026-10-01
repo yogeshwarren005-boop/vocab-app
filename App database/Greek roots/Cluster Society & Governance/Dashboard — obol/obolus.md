@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek obol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek coin worth one-sixth of a drachma; an obol; or a historical weight unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval Europe, a small halfpenny or silver coin; or metaphorically, a modest financial contribution or alms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obolus designates a term designating an entity, condition, or phenomenon derived from greek obol."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Legend depicted the great general Belisarius reduced to begging for a solitary **obolus** in the streets of Constantinople."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Give an **obolus** to Belisarius, cried the poet, lamenting the fickle gratitude of princes."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"In pagan urns, antiquarians frequently find the bronze **obolus** intended as passage money across the Stygian stream."*

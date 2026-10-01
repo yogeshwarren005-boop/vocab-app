@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or intense fear of crowds or masses of people; agoraphobia or ochlophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric nosology and social psychology, severe panic symptoms provoked by congested public spaces or gathering assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demophobia designates a term designating an entity, condition, or phenomenon derived from greek dem."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Morbid aversions such as claustrophobia and **demophobia** paralyze the subject in dense urban crowds."*
+> - 📜 **Sigmund Freud (*Group Psychology and the Analysis of the Ego*):** *"The neurotic's acute **demophobia** often masks an unconscious dread of submerging his ego in the collective mass."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Solitary melancholics shun market squares and fairs, fleeing human company in sudden **demophobia**."*

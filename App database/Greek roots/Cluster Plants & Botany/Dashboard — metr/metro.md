@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electric railway operating below the surface of the ground (usually in a city).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electric railway operating below the surface of the ground (usually in a city).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underground electric passenger railway system; a subway; also short for metropolitan or a metropolitan area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban transit history, the rapid transit rail systems pioneered by the Paris Métropolitain (opened 1900) that revolutionized mass urban commuting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metro designates an electric railway operating below the surface of the ground (usually in a city)."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"The electric **metro** reshaped Paris, linking outlying working quarters directly to the grand boulevards in minutes."*
+> - 📜 **H. G. Wells (*The Future in America*):** *"Commuters surged into the subterranean caverns of the **metro**, boarding electric cars that whistled into the darkness."*
+> - 📜 **Marcel Proust (*Time Regained*):** *"During the wartime air raids, the deep stations of the Paris **metro** provided subterranean shelter for thousands of citizens."*

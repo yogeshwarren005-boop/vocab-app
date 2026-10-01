@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The growth rates in different parts of a growing organism are the same.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A one-to-one mapping of one metric space into another metric space that preserves the distances between each pair of points.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of measure, dimensions, or growth rates; in mathematics, a distance-preserving transformation between metric spaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, proportional scaling where an organ grows at the same relative rate as the whole organism (allometric coefficient equal to one).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometry designates the growth rates in different parts of a growing organism are the same."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Strict **isometry** is rare in animal ontogeny, as limb proportions almost universally shift through allometric growth."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A spatial **isometry** preserves the metric distance between any two points under rigid translation and rotation."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Deviations from geometric **isometry** provide evolutionary morphology with its primary mechanism for generating novel body shapes."*

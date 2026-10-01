@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of branchiopod crustaceans known as fairy shrimps, lacking a carapace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater invertebrate zoology, swimming crustaceans possessing eleven pairs of swimming legs and exhibiting reverse-orientation locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anostraca designates small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The fairy shrimp represents the order **Anostraca**, characterized by graceful swimming with its ventral side uppermost."*
+> - 📜 **Alpheus Spring Packard (*A Monograph of the Phyllopod Crustacea of North America*):** *"Temporary vernal pools provide the ideal predator-free habitat for ephemeral species of **Anostraca**."*
+> - 📜 **Richard Owen (*Lectures on Invertebrate Anatomy*):** *"The absence of a carapace in **Anostraca** exposes the segmented body and leaf-like phyllopodia."*

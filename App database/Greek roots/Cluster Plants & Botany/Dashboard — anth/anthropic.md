@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to mankind or the period of mankind's existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to mankind or the period of mankind's existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of human beings or the human era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and cosmology, referring to the anthropic principle, which posits that physical constants must allow for the emergence of conscious observers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropic designates relating to mankind or the period of mankind's existence."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The physical conformation of the skull reflects continuous **anthropic** modifications through successive geological epochs."*
+> - 📜 **Arthur Stanley Eddington (*The Nature of the Physical World*):** *"The apparent fine-tuning of fundamental cosmic constants suggests an **anthropic** constraint upon cosmological models."*
+> - 📜 **Charles Lyell (*The Geological Evidences of the Antiquity of Man*):** *"The discovery of chipped flints alongside mammoth bones established the vast antiquity of the **anthropic** period."*

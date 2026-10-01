@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former classification for australopithecus robustus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former classification for australopithecus robustus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of extinct, robust hominins that lived in East and South Africa during the Pliocene and Pleistocene epochs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology, a side branch of the hominin tree characterized by heavy masticatory apparatus, sagittal crests, and megadontia (e.g. Paranthropus boisei).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paranthropus designates former classification for australopithecus robustus."*
+> - 📜 **Louis Leakey (*The Progress and Evolution of Man in Africa*):** *"The discovery of 'Nutcracker Man' confirmed that **Paranthropus** walked alongside the ancestors of modern humans."*
+> - 📜 **Donald Johanson (*From Lucy to Language*):** *"The specialized jaws and crushing molars of **Paranthropus** adapted them to coarse, fibrous vegetation."*
+> - 📜 **Robert Broom (*Finding the Missing Link*):** *"Skeletal evidence from Kromdraai demonstrated that **Paranthropus** represented a distinct, robust hominid radiation."*

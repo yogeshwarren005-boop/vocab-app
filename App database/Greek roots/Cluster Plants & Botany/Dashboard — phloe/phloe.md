@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phloe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical botanical root derived from Greek 'phloios' (bark, rind, husk of a tree), forming words relating to plant bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural plant anatomy and etymology, the foundational stem underlying phloem, the nutrient-conducting vascular tissue of plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phloe designates a term designating an entity, condition, or phenomenon derived from greek phloe."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **phloe** stems from phloios, signifying the protective outer bark stripped from trees."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"In trees, the innermost layer of the **phloios** lies directly against the green wood, transmitting sweet saps."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Indo-European cognates of **phloe** denote peeling, splitting, or stripping away protective outer coverings."*

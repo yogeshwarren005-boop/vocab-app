@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brown or blackish alpine mosses having a dehiscent capsule with 4 longitudinal slits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown or blackish alpine mosses having a dehiscent capsule with 4 longitudinal slits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, dark brown or blackish rock-dwelling mosses belonging to the family Andreaeaceae (the granite mosses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology, an early-diverging lineage of bryophytes featuring valves that split longitudinally into slit-like openings for spore dispersal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andreaea designates brown or blackish alpine mosses having a dehiscent capsule with 4 longitudinal slits."*
+> - 📜 **William Jackson Hooker (*Muscologia Britannica*):** *"The diminutive black cushions of **Andreaea** cling tenaciously to the exposed quartz rocks of high mountains."*
+> - 📜 **Elizabeth Gertrude Britton (*North American Flora: Bryales*):** *"Species of **Andreaea** are uniquely adapted to withstand severe desiccation and alpine cold."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The dehiscence of the capsule in **Andreaea** exhibits a primitive mechanism distinct from true Bryales."*

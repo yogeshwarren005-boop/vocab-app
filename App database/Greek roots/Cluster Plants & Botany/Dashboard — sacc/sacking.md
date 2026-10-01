@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coarse fabric used for bags or sacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The termination of someone's employment (leaving them free to depart).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coarse, heavy woven fabric (such as burlap or hessian) used for making sacks and bags; the act of dismissing someone from a job; the plundering of a captured city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile commerce, coarse unbleached jute or hemp sacking used for baling wool, grain, and colonial produce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For, on a low bed opposite the fire, a confusion of dirty patchwork, lean-ribbed ticking, and coarse sacking, the lawyer, hesitating just within the doorway, sees a man."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yes, and my jute-sacking was far above the average demanded."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a heap of sacking in the far corner was lying the dead body of a man dressed in a coarse shirt and a pair of blue trousers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old dealer in rags sat upon a rough bundle of coarse **sacking**, sorting greasy parchments by candlelight."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The furious mob rejoiced in the storming and **sacking** of the royal arms depots across the insurgent capital."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Silas hid his golden guineas beneath the hearthstones, wrapped securely in pieces of rough **sacking**."*

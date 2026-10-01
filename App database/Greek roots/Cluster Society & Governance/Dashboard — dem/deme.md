@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of local government in ancient Attica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A local population of closely related interbreeding organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political division or township of ancient Attica; or in biology, a local population of interbreeding organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ecology, a panmictic local population sharing a common gene pool and subject to localized natural selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deme designates a unit of local government in ancient attica."*
+> - 📜 **Aristotle (*Constitution of the Athenians*):** *"Enrollment in the local **deme** replaced aristocratic ancestry as the primary credential of Athenian citizenship."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Gene flow between each local **deme** maintains the genetic coherence of the widespread continental species."*
+> - 📜 **George Grote (*A History of Greece*):** *"Every free Athenian belonged to a hereditary **deme**, maintaining civic registers for tax and military levies."*

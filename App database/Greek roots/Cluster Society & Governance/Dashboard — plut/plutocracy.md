@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the wealthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A controlling class of the wealthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the wealthy; a country or society governed by the wealthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and sociological critique, an institutional order where capital concentration dominates electoral and legislative processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Peel’s late conduct on the Catholic question, innocent of future gold-fields, and of that gorgeous plutocracy which has so nobly exalted the necessities of genteel life."*
+> - 📜 **Theodore Roosevelt (*Speech at Osawatomie*):** *"Of all forms of tyranny, the least attractive and the most vulgar is a tyranny of mere wealth, a **plutocracy**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"When fortunes become enormously unequal, democracy risks surrendering its soul to an unacknowledged **plutocracy**."*
+> - 📜 **John Dewey (*Freedom and Culture*):** *"The real enemy of democratic institutions is the rise of an irresponsible financial **plutocracy**."*

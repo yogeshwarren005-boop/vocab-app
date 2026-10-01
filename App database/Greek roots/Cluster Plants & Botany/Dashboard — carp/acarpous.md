@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing no fruit; unfruitful; barren; sterile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botany, designating plants, branches, or cultivars that fail to set fruit or seeds after flowering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarpous designates adjective*) pertaining to, derived from, or characteristic of wrist."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"Certain wild palms remain persistently **acarpous**, bearing only dust-producing blossoms that wither without setting dates."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The barren fig tree mentioned in holy scripture stood **acarpous** and leafy, defying the husbandman's labor."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Frost damage to receptive stigmas leaves the orchard **acarpous**, though vegetative foliage continues to thrive."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family phyllostomatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family phyllostomatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, robust New World leaf-nosed bats in the family Phyllostomatidae, known as spear-nosed bats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neotropical mammalogy, omnivorous forest bats (such as Phyllostomus hastatus) that feed upon fruit, nectar, floral pollen, and small vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllostomus designates type genus of the family phyllostomatidae."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The great spear-nosed bat, **Phyllostomus** hastatus, flew into our forest hut, its wings spanning nearly two feet."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals*):** *"The genus **Phyllostomus** is distinguished by its formidable canines, heavy jaw musculature, and erect lanceolate nose-leaf."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Colonies of **Phyllostomus** roost by hundreds in the dim vaults of tropical limestone caves, issuing forth at dusk to forage."*

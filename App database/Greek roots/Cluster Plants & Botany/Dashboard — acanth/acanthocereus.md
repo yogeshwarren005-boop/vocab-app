@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly trailing cacti having nocturnal white flowers; tropical america and caribbean region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly trailing cacti having nocturnal white flowers; tropical america and caribbean region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing or sprawling columnar cacti (family Cactaceae) native to tropical America, bearing slender ribbed stems with stout spines and nocturnal white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert botany, a night-blooming xerophyte often termed 'barbwire cactus' due to its formidable recurved spines along three- to five-angled branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthocereus designates mostly trailing cacti having nocturnal white flowers; tropical america and caribbean region."*
+> - 📜 **Nathaniel Lord Britton (*The Cactaceae*):** *"The arching joints of **Acanthocereus** pentagonus clamber through coastal thickets, armed with needle-sharp spines up to five centimeters long."*
+> - 📜 **Lyman Benson (*The Cacti of the United States and Canada*):** *"On hammocks in southern Florida, **Acanthocereus** flourishes under the shade of maritime live oaks, opening its fragrant blooms after dusk."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"For greenhouse cultivation, **Acanthocereus** requires well-drained calcareous loam and ample room for its trailing, angled stems."*

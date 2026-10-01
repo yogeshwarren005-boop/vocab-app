@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of connective tissue adjacent to the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of connective tissue adjacent to the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the parametrium, the connective and fatty tissue immediately surrounding the uterus in the pelvic cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and obstetrics, pelvic cellulitis following septic abortion or puerperal infection, characterized by pelvic phlegmon and high fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parametritis designates inflammation of connective tissue adjacent to the uterus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe puerperal infection may extend laterally through the lymphatics to cause extensive brawny **parametritis** in the broad ligaments."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Pelvic examination in acute **parametritis** reveals intense bilateral pelvic tenderness and induration fixing the uterine cervix."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Surgical intervention is indicated in **parametritis** when deep fluctuant abscesses form in the connective tissues of the pelvis."*

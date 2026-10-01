@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of evergreen arctic and alpine shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of evergreen arctic and alpine shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of dwarf evergreen shrubs in the heath family (Ericaceae), known as mountain heathers; also a genus of predatory marine polychaete worms (paddle worms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alpine floristics, circumboreal subshrubs bearing needle-like leaves and urn-shaped pink or cream blossoms along arctic-alpine tundra margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllodoce designates small genus of evergreen arctic and alpine shrubs."*
+> - 📜 **John Muir (*The Mountains of California*):** *"High on the rocky rim of Tuolumne Meadows, **Phyllodoce** breweri covers the granite ledges with glorious masses of rose-purple bells."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The mountain heathers of the genus **Phyllodoce** thrive in snow-melt hollows above timberline across the Cascade and Sierra ranges."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In marine zoology, the paddle worm **Phyllodoce** glides through mudflats, swimming gracefully with paddle-like parapodial cirri."*

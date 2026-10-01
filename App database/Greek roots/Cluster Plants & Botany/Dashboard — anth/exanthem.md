@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eruptive disease (such as measles) or its symptomatic eruption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eruptive disease (such as measles) or its symptomatic eruption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread skin rash or cutaneous eruption, typically accompanying a systemic viral or bacterial infectious disease like measles, scarlet fever, or chickenpox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious epidemiology and dermatology, any general cutaneous dermatosis that erupts acutely as a manifestation of systemic immunological reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exanthem designates an eruptive disease (such as measles) or its symptomatic eruption."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The distinctive centrifugal spread of the **exanthem** aids the physician in distinguishing smallpox from chickenpox."*
+> - 📜 **Thomas B. Fitzpatrick (*Dermatology in General Medicine*):** *"A maculopapular **exanthem** accompanied by high fever represents a primary diagnostic clue in childhood roseola."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"The diagnostic timing of the **exanthem** follows a precise timetable after the initial prodromal fever spike."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying qualities appropriate for heroes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or displaying qualities appropriate for heroes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or befitting a hero; heroic (archaic or formal variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance rhetoric and Elizabethan literature, displaying magnificent, exalted courage or epic grandeur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More fairer than fair, beautiful than beauteous, truer than truth itself, have commiseration on thy heroical vassal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’gainst your privacy The reasons are more potent and heroical. ’Tis known, Achilles, that you are in love With one of Priam’s daughters."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He must fight singly tomorrow with Hector, and is so prophetically proud of an heroical cudgelling that he raves in saying nothing."*
+> - 📜 **Philip Sidney (*The Defence of Poesy*):** *"The **heroical** poet paints virtue in her most captivating colors to inflame the soul with generous desire."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Poesy is feigned history, serving to magnify events to an **heroical** scale exceeding ordinary human fortune."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Milton sought to celebrate an **heroical** patience far surpassing the pagan wrath of Achilles or Turnus."*

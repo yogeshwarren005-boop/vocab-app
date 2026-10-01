@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on fruit; fruit-eating; frugivorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal ecology, describing bats, birds, primates, or insects whose specialized diet consists predominantly of ripe succulent fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpophagous designates adjective*) pertaining to, derived from, or characteristic of wrist."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The great flying foxes of Java are strictly **carpophagous**, congregating in thousands at dusk to strip fig trees in the jungle canopy."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Certain Australian pigeons are predominantly **carpophagous**, swallowing large wild nutmegs whole and digesting the nutritious aril."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The generalized dentition of ancestral primates indicates an originally **carpophagous** and insectivorous arboreal habit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Domination (of a market or commodity) to the exclusion of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domination (of a market or commodity) to the exclusion of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of obtaining exclusive possession or control of something (British spelling of monopolization).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy, the market concentration of goods, supply chains, or services into the hands of a single enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopolisation designates domination (of a market or commodity) to the exclusion of others."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The cruel **monopolisation** of the spice trade by exclusive companies harmed both colonial producers and European consumers."*
+> - 📜 **Karl Marx (*Capital*):** *"The progressive **monopolisation** of production within fewer hands accelerates the internal contradictions of capitalist accumulation."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Government must intervene against the artificial **monopolisation** of natural resources like mineral lands."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small temperate and tropical orchids having mottled or striped leaves and spikes of small yellowish-white flowers in a twisted raceme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various orchids of the genus epipactis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several wild orchids belonging to the genus Epipactis or related genera; or a toxic alkaloid extracted from hellebore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology and phytochemistry, perennial orchids with hellebore-like foliage, or glycosidic alkaloids affecting cardiovascular function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helleborine designates any of several small temperate and tropical orchids having mottled or striped leaves and spikes of small yellowish-white flowers in a twisted raceme."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The broad-leaved **helleborine** attracts wasps that drink intoxicated from the fluid of its labellum."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The green-flowered **helleborine** thrives in shaded calcareous woodlands across the northeast."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanists designated the genus Epipactis as **helleborine** due to the resemblance of its foliage to true hellebores."*

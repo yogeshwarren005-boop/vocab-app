@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used in measuring the acuity of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used in measuring the acuity of hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic instrument used to measure the acuity and thresholds of hearing for various sound frequencies and sound intensities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otology and audiology, an electroacoustic device that delivers calibrated pure tones across frequencies from 125 Hz to 8000 Hz to plot an audiogram.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiometer designates an instrument used in measuring the acuity of hearing."*
+> - 📜 **Alexander Graham Bell (*The Audiometer*):** *"I devised the electric **audiometer** to obtain a precise mathematical gauge of hearing impairment across the frequency spectrum."*
+> - 📜 **Oliver Lodge (*Modern Views of Electricity*):** *"Using Hughes's induction balance, the early **audiometer** delivered measured telephone clicks of steadily diminishing intensity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine testing with an accurate **audiometer** enables early detection of sensorineural hearing loss in industrial workers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek alphit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of divination or trial by ordeal using barley meal or barley cakes, historically used to identify a guilty person who could not swallow the dry flour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological folklore, an archaic juridical ordeal wherein accused parties were forced to consume consecrated barley cakes under fear of divine choked asphyxiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphitomancy designates a term designating an entity, condition, or phenomenon derived from greek alphit."*
+> - 📜 **John Brand (*Observations on Popular Antiquities*):** *"In the ancient practice of **alphitomancy**, the priest gave consecrated barley flour to suspects, believing the guilty throat would constrict."*
+> - 📜 **Walter Woodburn Hyde (*Greek Religion and Its Survivals*):** *"The psychological terror induced by **alphitomancy** frequently elicited confessions before the barley cake was even tasted."*
+> - 📜 **E. Cobham Brewer (*Dictionary of Phrase and Fable*):** *"The ancient Greeks resorted to **alphitomancy** when property was stolen, deeming him culpable who could not digest the sacred meal."*

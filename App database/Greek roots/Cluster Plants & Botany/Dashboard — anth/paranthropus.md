@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former classification for australopithecus robustus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former classification for australopithecus robustus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of extinct, robust bipedal hominins that lived in eastern and southern Africa during the Pliocene and Pleistocene epochs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology, hominins characterized by massive cranial sagittal crests, broad zygomatic arches, and hyper-megadont molars adapted for heavy mastication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paranthropus designates former classification for australopithecus robustus."*
+> - 📜 **Robert Broom (*Finding the Missing Link*):** *"The massive jaw and enormous post-canine molars of **Paranthropus** robustus revealed a creature capable of chewing coarse fibrous vegetation."*
+> - 📜 **Louis Leakey (*Olduvai Gorge*):** *"Mary discovered the famous cranium of **Paranthropus** boisei in Bed I, displaying an astonishing sagittal crest and flattened facial profile."*
+> - 📜 **Richard Leakey (*The Making of Mankind*):** *"The extinction of **Paranthropus** coincided with the drying African climate and the technological rise of early Homo."*

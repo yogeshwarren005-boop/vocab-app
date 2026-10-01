@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bromat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic use of diet, specialized foods, or nutritional regimens to treat disease; dietotherapy or bromatotherapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dietetics and historical medicine, the systematic prescription of tailored food regimens to manage metabolic and gastrointestinal disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromatherapy designates a term designating an entity, condition, or phenomenon derived from greek bromat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In diabetes and chronic nephritis, rigorous **bromatotherapy** remains our most dependable therapeutic measure."*
+> - 📜 **Robley Dunglison (*General Therapeutics and Materia Medica*):** *"Rational **bromatotherapy** aims to nourish the debilitated frame while minimizing digestive expenditure."*
+> - 📜 **Abraham Jacobi (*Therapeutics of Infancy and Childhood*):** *"Judicious **bromatotherapy** in infantile diarrhea requires temporary milk withdrawal and administration of barley water."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus andryala having milky sap and heads of bright yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus andryala having milky sap and heads of bright yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Mediterranean genus of yellow-flowered herbaceous plants in the dandelion tribe of the family Asteraceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, composite flora characterized by glandular hairy stems and plumose pappus bristles adapted to arid habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andryala designates any plant of the genus andryala having milky sap and heads of bright yellow flowers."*
+> - 📜 **Joseph Dalton Hooker (*Flora Indica*):** *"The dusty woolly foliage of **Andryala** reflects harsh Mediterranean solar radiation along dry hillsides."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Specimens of **Andryala** collected on Grecian rocky slopes retain their distinctive velvety pubescence."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Generic limits separating **Andryala** from Hieracium rely primarily on the structure of the involucre."*

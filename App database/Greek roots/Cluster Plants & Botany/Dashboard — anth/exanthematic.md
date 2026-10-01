@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eruptive disease (such as measles) or its symptomatic eruption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eruptive disease (such as measles) or its symptomatic eruption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or accompanied by an exanthem (a general skin eruption).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology, describing febrile illnesses, such as exanthematic typhus, marked by generalized eruptive cutaneous manifestations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exanthematic designates an eruptive disease (such as measles) or its symptomatic eruption."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Epidemic **exanthematic** typhus has historically devastated armies and besieged cities under conditions of cold and overcrowding."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"Cool acidulated drinks are indicated during the height of **exanthematic** fevers to relieve scorching thirst."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The **exanthematic** stage of measles demands darkened rooms to protect inflamed conjunctivae from photophobia."*

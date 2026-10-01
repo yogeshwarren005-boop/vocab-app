@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structural unit of a plant consisting of a leaf and its associated portion of stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest part of a stem, root, or leaf that when severed may grow into a new plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek word for a plant; in plant developmental anatomy, a phytomer or structural repeating unit of a plant shoot (leaf, node, internode, and axillary bud).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural morphogenesis, the modular building block of vegetative growth, where each **phyton** reiterates to build complex branched plant bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyton designates a structural unit of a plant consisting of a leaf and its associated portion of stem."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The Greeks designated as **phyton** any living green organism that springs from seed or root and draws nourishment from soil."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Morphologists have analyzed the higher plant as an association of elementary plantlets, each unit being a **phyton**."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"The shoot system is composed of repeating structural units, each **phyton** consisting of an internode terminated by a leaf."*

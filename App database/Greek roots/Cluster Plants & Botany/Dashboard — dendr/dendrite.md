@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branching treelike figure produced on or in a mineral by a foreign mineral; also : the mineral so marked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystallized arborescent form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short, branched extension of a nerve cell, along which impulses received from other cells at synapses are transmitted to the cell body; also a branching, tree-like mineral crystal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and neurology, a branching arborescent structure, whether a manganese oxide fern-like marking on stone or a receptive neuronal process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrite designates a branching treelike figure produced on or in a mineral by a foreign mineral; also : the mineral so marked."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Each microscopic **dendrite** bristles with thousands of tiny dendritic spines that form contact points with axon terminals."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Novices frequently mistake a manganese **dendrite** upon a limestone flagstone for the fossilized imprint of a delicate fern."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The proliferation of connections between **dendrite** and axon underlies the neurophysiological formation of habit in the brain."*

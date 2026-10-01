@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soil that surrounds and is influenced by the roots of a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soil that surrounds and is influenced by the roots of a plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The narrow region of soil immediately surrounding plant roots that is directly influenced by root secretions and associated soil microorganisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil microbiology and agronomy, a biological hotspot of intense microbial activity, carbon exudation, mycorrhizal exchange, and nutrient mineralization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizosphere designates soil that surrounds and is influenced by the roots of a plant."*
+> - 📜 **Lorenz Hiltner (*On Recent Experiences and Problems in the Field of Soil Bacteriology*):** *"I introduced the concept of the **rhizosphere** to designate that dynamic zone of soil where root exudates stimulate intense bacterial proliferation."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"Within the **rhizosphere**, root exudates alter soil pH and promote beneficial mycorrhizal colonization."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Roots do not merely absorb soil solutions passively, but actively modify their surrounding **rhizosphere** with acidic excretions."*

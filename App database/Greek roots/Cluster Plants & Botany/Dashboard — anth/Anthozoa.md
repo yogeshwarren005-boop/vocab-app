@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large class of sedentary marine coelenterates that includes sea anemones and corals; the medusoid phase is entirely suppressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of marine invertebrates within the phylum Cnidaria that includes sea anemones, stony corals, soft corals, and sea pens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, polypoid cnidarians that lack a free-swimming medusa stage and possess an internal pharynx and partitioned gastrovascular cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Anthozoa designates a large class of sedentary marine coelenterates that includes sea anemones and corals; the medusoid phase is entirely suppressed."*
+> - 📜 **Ernst Haeckel (*Report on Deep-Sea Keratosa*):** *"The colonial skeletons of **Anthozoa** build vast undersea limestone ramparts that withstand the heaviest surf of the open Pacific."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Radial mesenteries divide the digestive coelenteron of the **Anthozoa** into radiating chambers bearing nematocysts."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Phylogenetic analysis demonstrates that **Anthozoa** represent the most basal extant lineage within the phylum Cnidaria."*

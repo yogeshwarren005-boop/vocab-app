@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek staphyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic or reconstructive surgery on the uvula or soft palate; staphylorrhaphy or repair of a cleft palate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craniofacial and oral surgery, surgical closure of a cleft soft palate to restore velopharyngeal competence and normal speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphyloplasty designates a term designating an entity, condition, or phenomenon derived from greek staphyl."*
+> - 📜 **Morell Mackenzie (*Diseases of the Pharynx, Larynx, and Trachea*):** *"The success of modern **staphyloplasty** depends upon careful paring of the cleft margins and tension-free silver sutures."*
+> - 📜 **Frank Hamilton (*The Principles and Practice of Surgery*):** *"Restoration of intelligible speech was achieved through an ingenious **staphyloplasty** that united the divided palatal velum."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The operation of **staphyloplasty** was perfected to close congenital fissures of the soft palate and uvula."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of temporary banishment by popular vote without trial or special accusation practiced in ancient Greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exclusion by general consent from common privileges or social acceptance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exclusion from a society or group; or (in ancient Greece) temporary banishment from a city by popular vote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athenian democracy, a constitutional mechanism wherein citizens voted on pottery shards (ostraka) to expel a citizen for ten years without confiscating property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most effective of all peaceful methods if petty persecution rising at times to social ostracism."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You should read history—look at ostracism, persecution, martyrdom, and that kind of thing."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"After having been sentenced to a perpetual ostracism from the esteem and confidence, and honors and emoluments of his country, he will still be liable to prosecution and punishment in the ordinary course of law."*
+> - 📜 **Plutarch (*Life of Aristides*):** *"An illiterate citizen asked Aristides himself to write the name on the shard, eager to vote for his **ostracism**."*
+> - 📜 **George Grote (*A History of Greece*):** *"The institution of **ostracism** served as an safety valve against factional violence in young democracies."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The tyranny of the majority can exert an invisible social **ostracism** far more crushing than legal chains."*

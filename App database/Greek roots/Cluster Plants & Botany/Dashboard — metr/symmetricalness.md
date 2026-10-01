@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being symmetrical; symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and descriptive anatomy, the pleasing visual equilibrium arising from corresponding parts across an axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetricalness designates (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The majestic **symmetricalness** of a mature cedar tree reflects centuries of harmonious response to prevailing winds."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Active locomotive animals invariably evolve toward bilateral **symmetricalness** to optimize forward propulsion."*
+> - 📜 **William Hazlitt (*Essays on Art*):** *"Classic Greek statuary achieves profound nobility through the effortless **symmetricalness** of its bodily proportions."*

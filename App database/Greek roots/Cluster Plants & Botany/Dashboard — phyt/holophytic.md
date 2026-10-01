@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment as green plants do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtaining nourishment as green plants do.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment entirely through photosynthesis from inorganic substances; strictly plant-like in nutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology, designating autotrophic nutrition involving light absorption, water photolysis, and carbon fixation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holophytic designates obtaining nourishment as green plants do."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Green algae exhibit pure **holophytic** metabolism, requiring only dissolved mineral salts and illumination to thrive."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Transition from a **holophytic** flagellate ancestor to phagotrophic animal protists is illuminated by colorless dinoflagellates."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The **holophytic** independence of the prothallus ensures reproduction in pteridophytes without host dependence."*

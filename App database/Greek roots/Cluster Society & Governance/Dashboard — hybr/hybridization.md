@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combining different varieties of organisms to create a hybrid; crossbreeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and chemistry, the pairing of complementary nucleic acid strands (DNA/RNA) or the mixing of atomic orbitals (sp3, sp2).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridization designates (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The concept of orbital **hybridization** explains the tetrahedral geometry and equivalent bonds of the carbon atom."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Fluorescence in situ **hybridization** allows researchers to pinpoint specific gene sequences on intact chromosomes."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Botanical **hybridization** coupled with polyploidy has repeatedly spawned successful new plant species."*

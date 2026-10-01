@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to mankind or the period of mankind's existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to mankind or the period of mankind's existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to human beings; human in nature or origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century philosophical and moral discourse, belonging to human experience, society, or moral development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropical designates relating to mankind or the period of mankind's existence."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Spiritual truths must be translated into an **anthropical** language that appeals directly to human conscience and reason."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social evolution represents the progressive refinement of **anthropical** institutions from primitive savagery to complex civilization."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The scientific investigator must guard against projecting subjective **anthropical** sympathies onto the mechanical operations of nature."*

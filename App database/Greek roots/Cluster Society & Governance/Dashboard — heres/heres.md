@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: This place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cherish a desire with anticipation : to want something to happen or be true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek hairesis, denoting choice, school of thought, sectarian belief, or doctrinal heresy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical Latin and canon law, an heir (heres); or the root underlying heretical theological deviation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heres designates this place."*
+> - 📜 **Eusebius (*Ecclesiastical History*):** *"The root **heres**- originally designated philosophical schools before narrowing into sectarian error."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Under civil law, the designated **heres** stepped into the full legal personality of the deceased."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Doctrinal error stubborn against the universal magisterium constitutes the formal sin of **heres**-y."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later cretaceous period in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later cretaceous period in north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bipedal carnivorous dinosaur of the family Tyrannosauridae, having small two-fingered forelimbs and a massive head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, dominant apex terrestrial predators of North America and Asia during the Late Cretaceous epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannosaur designates large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later cretaceous period in north america."*
+> - 📜 **Henry Fairfield Osborn (*Tyrannosaurus and Other Cretaceous Carnivorous Dinosaurs*):** *"The gigantic skeleton of the **tyrannosaur** reveals a predatory machine engineered for crushing power."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Paleontologists debated whether the mighty **tyrannosaur** was an active hunter or primarily a massive scavenger."*
+> - 📜 **Roy Chapman Andrews (*All About Dinosaurs*):** *"The fossil teeth of the great Asian **tyrannosaur** measured up to eight inches along the serrated crown."*

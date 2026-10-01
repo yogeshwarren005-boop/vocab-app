@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expelling or destroying parasitic worms especially of the intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expelling or destroying parasitic worms especially of the intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of expelling or destroying parasitic intestinal worms; a drug or natural remedy acting as a vermifuge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacotherapy, a pharmaceutical substance that selectively targets helminth neuromuscular transmission, microtubule synthesis, or metabolic pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthelmintic designates expelling or destroying parasitic worms especially of the intestine."*
+> - 📜 **William Withering (*An Account of the Foxglove*):** *"Certain rural practitioners extolled the decoction as an **anthelmintic**, though its true cardiac virtues remained unrecognized."*
+> - 📜 **T. Lauder Brunton (*A Text-Book of Pharmacology*):** *"Oil of chenopodium is an effective **anthelmintic** for hookworm infection, though its therapeutic index requires cautious dosing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of ascariasis, a dependable **anthelmintic** will reliably clear the digestive tract of adult nematodes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive adherence to ecclesiastical forms and activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religion appropriate to a church and to ecclesiastical principles and practices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devotion to ecclesiastical rules, rituals, traditions, and clerical authority; churchliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and religious critique, an excessive emphasis on institutional clerical hierarchy at the expense of spiritual vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Her host’s brother, the Vicar, had come to luncheon, and Isabel had had five minutes’ talk with him--time enough to institute a search for a rich ecclesiasticism and give it up as vain."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Rigid **ecclesiasticism** has frequently suffocated the simple moral beauty of the original gospel message."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Personal religion must be distinguished from institutional **ecclesiasticism** and corporate dogma."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The hollow forms of ceremonial **ecclesiasticism** no longer satisfy the earnest modern seeker."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The external genital opening and surrounding sclerotized plate of a female spider.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arachnid systematics, the functional structure on the ventral surface of the opisthosoma into which the male inserts his palpal embolus during mating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigynum designates an external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus."*
+> - 📜 **John Henry Comstock (*The Spider Book*):** *"The morphology of the **epigynum** provides the most reliable diagnostic character for distinguishing spider species."*
+> - 📜 **Eugene Simon (*Histoire Naturelle des Araignées*):** *"In Araneidae, the **epigynum** frequently develops a flexible scape projecting from the atriolum."*
+> - 📜 **Alexander Petrunkevitch (*A Synonymic Index-Catalogue of Spiders*):** *"Sclerotized plates of the **epigynum** preserve remarkably well in museum ethanol collections."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circumstance or action that offends propriety or established moral conceptions or disgraces those associated with it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose conduct offends propriety or morality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An action or event regarded as morally or legally wrong and causing general public outrage; or malicious gossip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically from Greek skandalon ('a snare', 'stumbling block'); in theology, an occasion of spiritual stumbling or moral stumbling block.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Antipholus, I wonder much That you would put me to this shame and trouble, And not without some scandal to yourself, With circumstance and oaths so to deny This chain, which now you wear so openly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True honest men being heard, like false Æneas, Were, in his time, thought false; and Sinon’s weeping Did scandal many a holy tear, took pity From most true wretchedness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The dram of evil Doth all the noble substance of a doubt To his own scandal."*
+> - 📜 **Richard Brinsley Sheridan (*The School for Scandal*):** *"There is no possibility of escaping the malicious whispers of the salon, where reputation dies in every cup of tea and piece of **scandal**."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"My life stands in the level of your dreams, Which I'll lay down; and let your **scandal** fall Upon my grave without more grief."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sin and Death stood as a perpetual **scandal** and stumbling block before the fallen creation."*

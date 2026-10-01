@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phloe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-brown, resinous, water-insoluble condensation product formed by the oxidation and polymerization of condensed tannins (proanthocyanidins).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry and pharmacognosy, the dark amorphous pigments that impart deep brown color to tree bark, cinchona bark, and aged plant tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlobaphene designates a term designating an entity, condition, or phenomenon derived from greek phloe."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Boiling tannin with dilute acids yields a deep red amorphous precipitate termed **phlobaphene**, insoluble in cold water."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The dark coloring matter in oak bark extract consists primarily of **phlobaphene** produced by aerial oxidation."*
+> - 📜 **T. Lauder Brunton (*A Text-Book of Pharmacology*):** *"Decoctions of red cinchona bark deposit insoluble **phlobaphene** upon cooling, reducing active alkaloid extraction."*

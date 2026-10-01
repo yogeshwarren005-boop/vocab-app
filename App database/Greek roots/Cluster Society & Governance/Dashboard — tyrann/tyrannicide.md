@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Killing a tyrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killing a tyrant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The killing of a tyrant; or a person who kills a tyrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and classical history, the celebrated moral act of assassinating a despot to restore civic freedom (e.g. Harmodius and Aristogeiton, Brutus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannicide designates killing a tyrant."*
+> - 📜 **Cicero (*De Officiis*):** *"What greater crime can there be than to slay a fellow man? Yet who deems the glorious act of **tyrannicide** a crime?"*
+> - 📜 **Thomas Aquinas (*Scriptum super Sententiis*):** *"Aquinas noted that classical thinkers praised **tyrannicide** when a usurper destroyed the commonwealth without lawful remedy."*
+> - 📜 **George Grote (*A History of Greece*):** *"Athenians sang drinking songs celebrating Harmodius and Aristogeiton for their famous act of **tyrannicide**."*

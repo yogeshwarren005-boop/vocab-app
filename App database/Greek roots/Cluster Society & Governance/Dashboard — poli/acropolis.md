@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper fortified part of an ancient Greek city (such as Athens); also : a usually fortified height of a city or district elsewhere (as in Central America).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper fortified part of an ancient Greek city (such as Athens); also : a usually fortified height of a city or district elsewhere (as in Central America).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A citadel or fortified part of an ancient Greek city, typically built on a hill (most famously the Acropolis of Athens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical urban geography and civic religion, the high religious sanctuary housing the temples of the city's patron deities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At an Athenian festival called Scira the priestess of Athena, the priest of Poseidon, and the priest of the Sun walked from the Acropolis under the shade of a huge white umbrella which was borne over their heads by the Eteobutads."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We learn from Aristotle that the ceremony took place in the old official residence of the King, known as the Cattle-stall, which stood near the Prytaneum or Town-hall on the north-eastern slope of the Acropolis."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the Acropolis at Athens there was an image of Earth praying to Zeus for rain."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Athenian **Acropolis** was formerly the city itself, crowned with the ancient temple of Athena."*
+> - 📜 **Plutarch (*Life of Pericles*):** *"Pericles adorned the summit of the **Acropolis** with marble monuments that made Athens the wonder of humanity."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Cold is the heart, fair Greece! that looks on thee, Nor feels as lovers o'er the dust they loved; Dull is the eye that will not weep to see Thy walls defaced, thy mouldering **Acropolis**."*

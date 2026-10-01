@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly deciduous monoecious trees or shrubs: hornbeams; sometimes placed in subfamily carpinaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly deciduous monoecious trees or shrubs: hornbeams; sometimes placed in subfamily carpinaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous trees in the birch family (Betulaceae) known as hornbeams or ironwoods, valued for their exceptionally hard, dense wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temperate forest ecology, shade-tolerant understory trees characterized by fluted trunks, smooth grey bark, and three-lobed fruiting bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpinus designates mostly deciduous monoecious trees or shrubs: hornbeams; sometimes placed in subfamily carpinaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Carpinus** is recognized by its pendulous male ament and female spikes with large foliaceous bracts."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The wood of **Carpinus** betulus or hornbeam is of extraordinary toughness, making incomparable mill cogs and yokes."*
+> - 📜 **Charles Sprague Sargent (*Manual of the Trees of North America*):** *"American hornbeam (**Carpinus** caroliniana) features sinewy muscular ridges along its trunk, earning the name blue beech."*

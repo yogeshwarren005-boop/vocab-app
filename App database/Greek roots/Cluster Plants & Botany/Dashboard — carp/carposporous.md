@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having carpospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having carpospores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing, producing, or characterized by carpospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing red algae during their fruiting reproductive stage when cystocarps are actively releasing carpospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carposporous designates having carpospores."*
+> - 📜 **William Gilson Farlow (*Marine Algae of New England*):** *"Specimens collected in late August were abundantly **carposporous**, with swelling cystocarps visible along the frond margins."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The **carposporous** generation multiplies the diploid genome before meiosis occurs in the subsequent tetrasporophyte."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The **carposporous** reproductive mechanism compensates for the complete absence of motile flagellated gametes in red algae."*

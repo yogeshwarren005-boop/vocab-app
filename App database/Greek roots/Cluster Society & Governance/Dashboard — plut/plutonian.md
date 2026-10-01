@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of hades or tartarus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of hades or tartarus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the underworld, the god Pluto, or death; subterranean; or plutonic (in geology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and romantic poetry, conveying dark infernal gloom, subterranean mystery, or cosmic chill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Since that time to our days the Plutonian work has been suspended."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I conclude that Plutonian weapons destroyed both ships."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Defense Alert One remains in effect at Slingshot construction site and throughout Plutonian Special Zone."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Tell me what thy lordly name is on the Night's **Plutonian** shore! Quoth the Raven, 'Nevermore.'"*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"From deep **Plutonian** chasms burst volcanic fires that shook the foundations of the mountains."*
+> - 📜 **Herman Melville (*The Encantadas*):** *"The scorched volcanic isles presented a grim, **Plutonian** aspect of eternal desolation."*

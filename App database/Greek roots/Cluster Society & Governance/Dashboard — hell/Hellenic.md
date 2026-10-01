@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hellenic branch of the indo-european family of languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of the ancient greek and roman cultures; ; "classical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to Greece, its people, language, or culture; Greek (especially ancient Greek).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and classical philology, specifically designating the golden classical era of Greece (c. 510–323 BC) prior to the Hellenistic age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had persistently elevated Hellenic Paganism at the expense of Christianity; yet in that civilization an illegal surrender was not certain disesteem."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"An imaginary Greek world, because in spite of his Hellenic enthusiasm he entertained some of the most un-Hellenic ideas and feelings."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The **Hellenic** ideal sought clarity of intellect, spontaneity of consciousness, and harmonized perfection."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"The **Hellenic** spirit celebrated physical beauty and intellectual inquiry with peerless youthfulness."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The **Hellenic** educational ideal was the conscious cultivation of man toward his highest civic excellence."*

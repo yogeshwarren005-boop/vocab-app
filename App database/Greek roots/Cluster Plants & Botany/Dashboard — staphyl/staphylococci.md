@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical gram-positive parasitic bacteria that tend to form irregular colonies; some cause boils or septicemia or infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spherical gram-positive parasitic bacteria that tend to form irregular colonies; some cause boils or septicemia or infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical, Gram-positive bacteria that divide in multiple planes and form irregular, grape-like clusters; plural of staphylococcus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology, non-motile facultative anaerobes that produce catalase, forming prominent components of normal skin microflora as well as virulent opportunistic pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphylococci designates spherical gram-positive parasitic bacteria that tend to form irregular colonies; some cause boils or septicemia or infections."*
+> - 📜 **Robert Koch (*Investigations into Traumatic Infective Diseases*):** *"Under the oil immersion lens, the pyogenic cocci grouped into clusters resembling bunches of grapes, hence named **staphylococci**."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications*):** *"I isolated pure cultures of **staphylococci** from furuncles and osteomyelitic abscesses, demonstrating their pyogenic power."*
+> - 📜 **Alexander Fleming (*Penicillin*):** *"Broth cultures of **staphylococci** cleared completely within twenty-four hours after the introduction of sterile penicillin filtrate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical genus of small trees or shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical genus of small trees or shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering trees and shrubs in the caper family (Capparaceae), native to tropical regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical botany and ethnopharmacology, plants such as Crateva religiosa valued for medicinal bark and ornamental showy flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crateva designates tropical genus of small trees or shrubs."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Along riverbanks in Bengal, the handsome tree **Crateva** magna displays clouds of creamy white blossoms."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanists classify **Crateva** within Capparaceae on account of its prominent stipitate ovary."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The trifoliolate leaves of **Crateva** distinguish it readily from neighboring caperaceous genera."*

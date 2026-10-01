@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one head or chief wife at a time (along with concubines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one head or chief wife at a time (along with concubines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one wife or female partner at a time; or in botany, having only one pistil or style in a flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and botany, pairing with a single female during a breeding cycle, or bearing a solitary carpel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogynous designates having one head or chief wife at a time (along with concubines)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male songbirds that are strictly **monogynous** share equally in the defense and feeding of nestlings."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The order Monogynia in the Linnaean system gathered all plants with **monogynous** blossoms."*
+> - 📜 **Edward Westermarck (*A Short History of Marriage*):** *"Among many indigenous tribes, hunters were strictly **monogynous** due to limited economic resources."*

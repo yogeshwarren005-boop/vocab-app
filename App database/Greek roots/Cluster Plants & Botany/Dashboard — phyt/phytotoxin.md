@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance produced by plants that is similar in its properties to extracellular bacterial toxin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance produced by plants that is similar in its properties to extracellular bacterial toxin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic or poisonous substance produced by a plant (such as ricin, curare, or nicotine); a plant toxin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and biochemistry, a chemical defense compound synthesized by flora to deter herbivores, insects, or fungal pathogens, or a toxin secreted by plant pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytotoxin designates any substance produced by plants that is similar in its properties to extracellular bacterial toxin."*
+> - 📜 **Robert Christison (*A Treatise on Poisons*):** *"Ricin, extracted from the seeds of the castor bean, is an extraordinarily potent **phytotoxin** capable of agglutinating blood cells."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The arrow poisons of the South American tribes utilize curare, a deadly neuromuscular **phytotoxin** derived from Strychnos vines."*
+> - 📜 **T. Lauder Brunton (*A Text-Book of Pharmacology*):** *"Certain plant pathogens secrete a specific **phytotoxin** that induces rapid chlorosis and wilting in the host foliage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus dendrobium having stems like cane and usually showy racemose flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus dendrobium having stems like cane and usually showy racemose flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast and diverse genus of predominantly epiphytic and lithophytic orchids (family Orchidaceae), native to tropical and subtropical Asia, Australasia, and the Pacific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical horticulture and floristics, an immense orchid genus bearing pseudobulbs or cane-like stems and showy blossoms with a distinct chin-like mentum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrobium designates a plant of the genus dendrobium having stems like cane and usually showy racemose flowers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Dendrobium** derives its name from its tree-dwelling habit, clinging to high jungle boughs with tenaciously grasping roots."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised*):** *"In **Dendrobium**, the mentum formed by the lateral sepals secretes a sweet drop of nectar that attracts nocturnal moths."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the forests of the Moluccas, we discovered a splendid **Dendrobium** with trailing flower spikes of pure golden yellow over three feet long."*

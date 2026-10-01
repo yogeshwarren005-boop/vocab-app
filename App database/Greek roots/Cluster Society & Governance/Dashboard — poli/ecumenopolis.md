@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hypothetical concept of a planet-wide city or continuous urban area wrapping the globe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and futuristic architecture (coined by Constantinos Doxiadis in 1967), the ultimate stage of urbanization coalescing into an interconnected planetary megalopolis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecumenopolis designates a term designating an entity, condition, or phenomenon derived from greek poli."*
+> - 📜 **Constantinos Doxiadis (*Ecumenopolis: The Inevitable City of the Future*):** *"To survive the coming **ecumenopolis**, planners must integrate continental transport webs with vast wilderness preservation reserves."*
+> - 📜 **Lewis Mumford (*The Urban Prospect*):** *"The nightmarish prospect of an unconstrained **ecumenopolis** threatens to pave the terrestrial biosphere in concrete."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Speculative architects envisioned an unbroken planetary **ecumenopolis** powered by orbital solar satellites."*

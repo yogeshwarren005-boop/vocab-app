@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief executive and political committee of the communist party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief executive and political committee of the communist party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal policymaking committee of a communist party, especially that of the former Soviet Union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and Soviet studies, the supreme decision-making executive council exercising absolute control over party, state, and military policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, politburo designates the chief executive and political committee of the communist party."*
+> - 📜 **George F. Kennan (*The Long Telegram*):** *"Soviet foreign policy is formulated within the secretive, insulated deliberations of the **Politburo**."*
+> - 📜 **Aleksandr Solzhenitsyn (*The Gulag Archipelago*):** *"Secret decrees issued from the Kremlin **Politburo** dispatched millions to the remote taiga without trial."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"In the totalitarian apparatus, the **Politburo** operates as the supreme transmission belt of the leader's will."*

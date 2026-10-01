@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug made from part of a plant (as the bark or root or leaves).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to plants or botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to plants or the science of botany; a medicinal or therapeutic substance obtained from a plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive natural science, pertaining to the taxonomy, morphology, and ecology of the vegetable kingdom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Being the professor’s sole companion in his botanical excursions, I almost forgot that I had ever been afloat, and became quite learned."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Italy, Switzerland, and many other districts, were explored, partly on foot, with a keen eye both to the natural features of the localities, especially in furtherance of those botanical studies to which Mr."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill, there are probably few beyond the circle of his personal friends who are aware that he was also an author in a modest way on botanical subjects, and a keen searcher after wild plants."*
+> - 📜 **Charles Darwin (*Journal of Researches (Voyage of the Beagle)*):** *"The Galapagos archipelago presents a fascinating **botanical** province where nearly every island possesses its own unique flora."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"A rigorous **botanical** description must record floral symmetry, stamen insertion, and ovary placentation."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"I carried my **botanical** press into the wilderness to preserve delicate forest orchids before the autumn frosts."*

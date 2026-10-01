@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or along a diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or along a diameter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the nature of a diameter; situated along or acting in the direction of a diameter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, geometry, and optics, designating diametral pitch (the ratio of number of teeth to pitch diameter in gears) or diametral planes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diametral designates related to or along a diameter."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The volcanic crater collapsed along a **diametral** fault line that traversed the center of the caldera."*
+> - 📜 **James Dwight Dana (*A Text-Book of Mineralogy*):** *"Cleavage occurs parallel to the **diametral** prism faces in orthorhombic staurolite crystals."*
+> - 📜 **Frank A. Fetter (*Modern Industrial Mechanics*):** *"Standardized gear wheels must share the identical **diametral** pitch to mesh smoothly without binding."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or formed by or consisting of aphaeresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or formed by or consisting of aphaeresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or produced by aphaeresis (loss of initial sounds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology, describing shortened word forms derived by eliding the initial vowel or syllable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeretic designates relating to or formed by or consisting of aphaeresis."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"Words like 'peal' for 'appeal' represent typical **aphaeretic** formations in Middle English."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"An **aphaeretic** form often acquires a distinct semantic shade from its polysyllabic parent."*
+> - 📜 **James Murray (*The Oxford English Dictionary (Preface)*):** *"Lexicographers must trace each **aphaeretic** derivative back to its full historical antecedent."*

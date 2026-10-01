@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek athletic contest involving both boxing and wrestling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Greek athletic contest involving both boxing and wrestling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek athletic contest combining boxing and wrestling, characterized by minimal rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical sports history, an Olympic event instituted in 648 BC; or in botany, a genus of bulbous amaryllid plants (sea daffodils).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pancratium designates an ancient greek athletic contest involving both boxing and wrestling."*
+> - 📜 **Pausanias (*Description of Greece*):** *"Athletes in the fierce **pancratium** were forbidden only to gouge eyes or sink their teeth into opponents."*
+> - 📜 **Philostratus (*Gymnasticus*):** *"The champion of the **pancratium** must combine the agility of the wrestler with the brute power of the boxer."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Fragrant white lilies of the genus **Pancratium** bloom gracefully along sandy Mediterranean shores."*

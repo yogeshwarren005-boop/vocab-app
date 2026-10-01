@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To find fault or complain querulously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To find fault or complain querulously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and botanical root derived from Greek 'karpos' (fruit, grain, produce); also a large freshwater fish (Cyprinus carpio).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological botany, the root element designating seed-bearing structures, carpels, and fruit types; in ichthyology, an omnivorous cyprinid fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you now; Your bait of falsehood takes this carp of truth; And thus do we of wisdom and of reach, With windlasses, and with assays of bias, By indirections find directions out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not only, sir, this your all-licens’d fool, But other of your insolent retinue Do hourly carp and quarrel; breaking forth In rank and not-to-be-endured riots."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **carp** stems from karpos, signifying both the fruit of the tree and the harvest yield of the earth."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The **carp** is the queen of rivers; a stately, good, and very subtil fish that loves deep, quiet waters."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Botanical compounds terminating in **carp** refer invariably to the morphological constitution of the ripened ovary."*

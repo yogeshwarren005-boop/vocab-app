@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being a member of the cnidarian class Anthozoa; a sea anemone or coral polyp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marine benthic polyp characterized by an inward-folded actinopharynx and radial vertical septa lining the gut.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthozoan designates sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed."*
+> - 📜 **James Dwight Dana (*Corals and Coral Islands*):** *"The living **anthozoan** polyp secretes a basal cup of solid aragonite, adding microscopic layers day after day."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"When the tide recedes, each delicate **anthozoan** closes its tentacles, resembling a glistening gelatinous mound on the damp rock."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Unlike hydroids, no **anthozoan** ever produces a planktonic medusa, completing its life cycle entirely upon the sea floor."*

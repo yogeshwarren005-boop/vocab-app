@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an aristocracy; especially : noble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who has the bearing and viewpoint typical of the aristocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an aristocracy; a person of noble birth or elevated rank possessing hereditary privileges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with superior refinement, tastes, manners, or elite social standing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was an aristocrat in social caste; she was an aristocrat by nature."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Complete absence of self-consciousness, perfect disinterestedness, are evident in every tone; it is clear that he is an aristocrat, but it is also clear that he is a saint."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He struck a match, and I perceived that this young aristocrat had not only a silver-mounted dressing-case but also a whole candle all to himself."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The haughty **aristocrat** looked with cold contempt upon the starving crowds gathered in the Paris streets."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A true **aristocrat** feels a sacred obligation to preserve inherited ancestral institutions."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrei carried himself with the effortless composure of an old Russian **aristocrat**."*

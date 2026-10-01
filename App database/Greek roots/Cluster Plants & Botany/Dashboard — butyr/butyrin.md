@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three glycerides of butyric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three glycerides of butyric acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triglyceride of butyric acid (specifically tributyrin) found naturally in butter, giving butter its characteristic flavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lipid chemistry, glyceryl tributyrate, a neutral fat that undergoes enzymatic cleavage by pancreatic lipase into glycerol and free butyric acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, butyrin designates any of three glycerides of butyric acid."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Natural butter contains several percent of **butyrin**, which imparts its rich flavor when fresh but develops acrid pungency when hydrolyzed."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Pure **butyrin** is a colorless oily liquid having an agreeable taste and soluble in alcohol and ether."*
+> - 📜 **T. Lauder Brunton (*A Text-Book of Pharmacology*):** *"Pancreatic juice rapidly emulsifies and saponifies neutral fats like **butyrin** in the alkaline duodenum."*

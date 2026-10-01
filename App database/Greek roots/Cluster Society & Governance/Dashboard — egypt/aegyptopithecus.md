@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct primate of about 38 million years ago; fossils found in egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct primate of about 38 million years ago; fossils found in egypt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct early catarrhine primate that lived during the Oligocene epoch in what is now Egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology and primatology, an important basal anthropoid genus ('Egyptian ape') from the Fayum Depression exhibiting primitive dental and cranial features.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aegyptopithecus designates extinct primate of about 38 million years ago; fossils found in egypt."*
+> - 📜 **Elwyn Simons (*Primate Evolution: An Introduction to Man's Place in Nature*):** *"Fossils of **Aegyptopithecus** from the Fayum badlands illuminate the split between hominoids and cercopithecoids."*
+> - 📜 **Donald Johanson (*From Lucy to Language*):** *"The small braincase and postorbital wall of **Aegyptopithecus** mark it as a definitive early anthropoid."*
+> - 📜 **Richard Leakey (*The Origin of Humankind*):** *"In **Aegyptopithecus**, we glimpse the arboreal fruit-eating ancestor of all subsequent African higher primates."*

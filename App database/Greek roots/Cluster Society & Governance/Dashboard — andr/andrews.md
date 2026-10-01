@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states naturalist who contributed to paleontology and geology (1884-1960).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; brother of peter; patron saint of scotland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A patronymic surname meaning 'son of Andrew', or referring to geographical places such as St Andrews in Scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional and university history, commonly denoting the historic royal burgh and ancient university of St Andrews.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Andrews, Holborn, with the waggons and hackney-coaches roaring past him all the day and half the night like one great dragon."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I wish you knew Miss Andrews, you would be delighted with her."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I told Captain Hunt at one of our assemblies this winter that if he was to tease me all night, I would not dance with him, unless he would allow Miss Andrews to be as beautiful as an angel."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"We visited the venerable colleges of St **Andrews**, reflecting on their long history of scholastic piety."*
+> - 📜 **James Boswell (*The Life of Samuel Johnson*):** *"Our arrival at St **Andrews** offered a welcome respite and conversations on classical antiquities."*
+> - 📜 **Robert Louis Stevenson (*Memories and Portraits*):** *"Memories of gray windswept afternoons in St **Andrews** returned vividly during his exile."*

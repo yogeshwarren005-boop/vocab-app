@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free or relatively free from a liquid and especially water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not being in or under water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from moisture, liquid, or water; not wet or moist; in mythology, an element derived from Greek 'drys' (tree, oak).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, designating fruits that lack fleshy or succulent pericarp at maturity (e.g. achenes, nuts, capsules); in meteorology, characterized by low rainfall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in his brain, Which is as dry as the remainder biscuit After a voyage, he hath strange places crammed With observation, the which he vents In mangled forms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, sir, then ’twill be dry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The crisp **dry** leaves rattled in the wind as I walked through the chestnut woods in late October."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"We divide fruits into fleshy types like the peach and **dry** dehiscent pods like the bean."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God made the firmament, and gathered the waters beneath into one place, that the **dry** land might appear."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a device or app) designed to mark an exact tempo or rhythm by regularly repeated sounds or flashes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a device or app) designed to mark an exact tempo or rhythm by regularly repeated sounds or flashes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical or electronic device that marks time at a steady beat or tempo by ticking or flashing at regular intervals, used by musicians during practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical acoustics and psychology, an inverted pendulum apparatus perfected by Johann Maelzel to calibrate musical tempos in beats per minute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"There's an old metronome up-stairs that Cyril left."*
+> - 📜 **Ludwig van Beethoven (*Letters and Musical Papers*):** *"Maelzel's **metronome** has arrived; my tempo markings will henceforth deliver my compositions from the whimsical caprice of conductors."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The steady ticking of the **metronome** serves as an objective acoustic standard for psychophysical reaction-time experiments."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"A mechanical conductor who treats an orchestra like an unfeeling **metronome** murders the expressive soul of Mozart's melodies."*

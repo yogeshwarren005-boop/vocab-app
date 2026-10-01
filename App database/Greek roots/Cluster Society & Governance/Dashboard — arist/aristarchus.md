@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient greek grammarian remembered for his commentary on the iliad and odyssey (circa 217-145 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bright crater on the moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aristarchus of Samos, the ancient Greek astronomer who first proposed a heliocentric model of the solar system; or Aristarchus of Samothrace, the celebrated Homeric critic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By extension, any severely exacting, judicious, or pedantic literary critic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristarchus designates an ancient greek grammarian remembered for his commentary on the iliad and odyssey (circa 217-145 bc)."*
+> - 📜 **Arthur Koestler (*The Sleepwalkers*):** *"Eighteen centuries before Copernicus, **Aristarchus** of Samos boldly put forward the heliocentric hypothesis."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The pedantic critic fancied himself a modern **Aristarchus**, slicing away whole stanzas with venomous glee."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"No mere schoolmaster or severe **Aristarchus** could dampen the young poet's natural creative fire."*

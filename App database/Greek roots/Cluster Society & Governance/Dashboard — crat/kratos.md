@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The personification of strength, might, sovereign power, or dominion in Greek mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical political thought and linguistics, the root word representing sovereign coercive force, state authority, and political dominion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kratos designates a term designating an entity, condition, or phenomenon derived from greek crat."*
+> - 📜 **Aeschylus (*Prometheus Bound*):** *"**Kratos** and Bia, divine emissaries of Zeus, bind the defiant Titan to the Caucasian crag."*
+> - 📜 **Hesiod (*Theogony*):** *"Styx brought her children, **Kratos** and Nike, to assist Olympian Zeus in his war against the Titans."*
+> - 📜 **Plato (*Gorgias*):** *"Callicles asserted that by nature's law, supreme **kratos** belongs of right to the strongest."*

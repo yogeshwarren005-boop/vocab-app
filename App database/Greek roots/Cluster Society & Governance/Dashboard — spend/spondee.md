@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two long or stressed syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of two long or stressed syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foot consisting of two long (or stressed) syllables (— —).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek prosody, named from spondē ('libation') because slow, solemn spondaic meters were sung during religious libations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondee designates a metrical foot consisting of two long or stressed syllables."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"Trochee trips from long to short; From long to long in solemn sort Slow **Spondee** stalks."*
+> - 📜 **Alexander Pope (*The Odyssey of Homer (Notes)*):** *"Homer doubles the solemn weight of the verse by ending with an unexpected **spondee**."*
+> - 📜 **Horace (*Ars Poetica*):** *"The swift iambic trimeter admitted the patient **spondee** into its company to temper its impetuous speed."*

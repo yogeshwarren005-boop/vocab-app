@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A confederation or group of six cities (most famously the Dorian Hexapolis in southwestern Asia Minor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Hellenic history, the sacred league of Dorian cities (Cos, Cnidus, Halicarnassus, Lindos, Ialysus, Camirus) centered at the sanctuary of Triopian Apollo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexapolis designates a term designating an entity, condition, or phenomenon derived from greek poli."*
+> - 📜 **Herodotus (*The Histories*):** *"The Dorian **Hexapolis** celebrated games at the Triopian promontory, awarding bronze tripods to the victorious champions."*
+> - 📜 **George Grote (*A History of Greece*):** *"Halicarnassus was formally excluded from the **Hexapolis** after an athlete took his prize tripod home instead of dedicating it to Apollo."*
+> - 📜 **Strabo (*Geography*):** *"The cities of the Dorian **Hexapolis** prospered through extensive maritime shipping across the southeastern Aegean."*

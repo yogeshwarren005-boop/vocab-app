@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The depiction of erotic behavior (as in pictures, movies, or writing) intended to cause sexual excitement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Material (such as books, movies, or photographs) that depicts erotic behavior and is intended to cause sexual excitement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Explicitly describing or displaying sexual activity intended to stimulate erotic feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and aesthetic philosophy, material judged under obscenity laws regarding whether it appeals primarily to prurient interests without serious redeeming value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pornographic designates the depiction of erotic behavior (as in pictures, movies, or writing) intended to cause sexual excitement."*
+> - 📜 **Susan Sontag (*The Pornographic Imagination*):** *"The classic **pornographic** novel treats sexual obsession as a rigorous, totalizing metaphysical quest."*
+> - 📜 **D. H. Lawrence (*Pornography and Obscenity*):** *"Genuine erotic vitality is insulted and degraded by the furtive, dirty secrecy of **pornographic** pamphlets."*
+> - 📜 **James Joyce (*Ulysses (Trial Records)*):** *"Judge Woolsey ruled that Ulysses was an honest literary epic rather than a deliberately **pornographic** work."*

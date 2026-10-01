@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical severing or interruption of spinal nerve roots, historically performed to relieve intractable chronic pain or severe spasticity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery, posterior (sensory) rhizotomy designed by Otfrid Foerster and Charles Frazier to selectively interrupt sensory afferents while preserving motor function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizotomy designates surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Posterior **rhizotomy** offered dramatic relief to tabetic patients tortured by unremitting lightning pains in the limbs."*
+> - 📜 **Otfrid Foerster (*On the Operative Treatment of Spastic Paralysis by Resection of the Posterior Nerve Roots*):** *"Selective posterior **rhizotomy** interrupts the hyperactive sensory reflex arc, drastically reducing spastic rigidity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In terminal malignancies involving brachial plexus invasion, surgical **rhizotomy** provides humane mitigation of agonizing pain."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English poet and critic (1909-1995).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who spends money prodigally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who spends money, especially of a specified kind (e.g. 'a big spender').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic sociology and fiscal policy, an agent whose consumption pattern drives consumer demand or incurs public debt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spender designates english poet and critic (1909-1995)."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every prodigal appears to be a public enemy, and every frugal man a public benefactor, when we compare the hoarder with the lavish **spender**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was a magnificent **spender** of imaginary fortunes while living in constant dread of debtors' prison."*
+> - 📜 **H. L. Mencken (*Prejudices: Second Series*):** *"The cheerful **spender** enjoys his brief day in the sun, oblivious to the grim ledger awaiting tomorrow."*

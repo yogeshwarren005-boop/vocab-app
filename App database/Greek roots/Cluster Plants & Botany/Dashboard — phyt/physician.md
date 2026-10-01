@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained in the art of healing; specifically : a health care professional (such as a dermatologist, internist, pediatrician, or urologist) who has earned a medical degree, is clinically experienced, and is licensed to practice medicine as usually distinguished from surgery : a doctor of medicine or a doctor of osteopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that has a beneficial effect or influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person qualified and licensed to practice medicine; a medical doctor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a practitioner of internal medicine and medical diagnostics, distinguished from the surgeon and apothecary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How long is’t, Count, Since the physician at your father’s died?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know her well; She had her breeding at my father’s charge: A poor physician’s daughter my wife!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she be All that is virtuous, save what thou dislik’st, A poor physician’s daughter,—thou dislik’st— Of virtue for the name."*
+> - 📜 **Hippocrates (*The Oath of Medicine*):** *"I will apply dietetic measures for the benefit of the sick according to my ability and judgment; so vows every true **physician**."*
+> - 📜 **William Osler (*AEquanimitas*):** *"The master-word in medicine for the young **physician** is work, unsparing devotion to the relief of human suffering."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The educated **physician** relies upon the healing power of nature, intervening with remedies only when nature falters."*

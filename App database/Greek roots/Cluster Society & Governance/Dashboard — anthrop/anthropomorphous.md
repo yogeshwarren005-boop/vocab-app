@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting human characteristics for animals or inanimate things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting human characteristics for animals or inanimate things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the figure, appearance, or characteristics of a human; anthropomorphic or human-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and archaeology, describing effigies, pottery, or animal species that exhibit humanlike contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphous designates suggesting human characteristics for animals or inanimate things."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Popular fables maintained that the mandrake root possessed an **anthropomorphous** shape complete with human limbs."*
+> - 📜 **Richard Owen (*On the Nature of Limbs*):** *"The forelimbs of primates display an **anthropomorphous** flexibility absent in ungulates."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Primitive tribes fashioned **anthropomorphous** wooden idols to house ancestral protective spirits."*

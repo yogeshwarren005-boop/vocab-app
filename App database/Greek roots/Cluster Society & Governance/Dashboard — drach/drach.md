@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek drach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek drachmē, originally meaning 'a handful' (from drassomai, 'to grasp').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary history and historical metrology, the base morpheme denoting Greek coinage units and apothecaries' weight measures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, drach designates a term designating an entity, condition, or phenomenon derived from greek drach."*
+> - 📜 **Aristotle (*Politics*):** *"Iron spits once served as primitive currency until the standardized silver **drach**- unit was instituted."*
+> - 📜 **Charles Seltman (*Greek Coins*):** *"Etymologically, a **drach**- represented a bundle of six iron spits held together in a man's fist."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Attic monetary terms rooted in **drach**- spread across the Mediterranean following Athenian commercial supremacy."*

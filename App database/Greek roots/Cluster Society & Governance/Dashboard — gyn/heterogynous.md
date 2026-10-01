@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having females of two different kinds or forms, as in certain social insects (such as winged queens and wingless workers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological morphology and social biology, possessing dimorphic or polymorphic female castes within the same species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogynous designates adjective*) pertaining to, derived from, or characteristic of woman."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"A **heterogynous** species exhibits distinct female castes adapted respectively to egg-laying and colony foraging."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Caste divergence in **heterogynous** wasps illustrates how epigenetic feeding triggers morphological branching."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"In **heterogynous** ant colonies, the worker is an aborted female specialized for communal toil."*

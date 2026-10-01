@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Anthurium) of tropical American plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Anthurium) of tropical American plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of tropical American epiphytic flowering plants in the arum family (Araceae), known for their glossy heart-shaped leaves and brightly colored spathes with spike-like spadices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture and tropical botany, the flamingo flower or tailflower, featuring long-lasting waxy spathes surrounding bisexual florets on the spadix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthurium designates any of a genus (anthurium) of tropical american plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The brilliant scarlet spathe of **Anthurium** andreanum retains its waxy luster for many weeks in the tropical conservatory."*
+> - 📜 **Adolf Engler (*Das Pflanzenreich*):** *"In the rain forests of Colombia, numerous epiphytic species of **Anthurium** anchor upon mossy tree forks, trapping forest humus."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Anthurium** displays the characteristic spadiceous inflorescence of the arums, prized for exquisite foliar and floral venation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a bureaucracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a bureaucracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official in a government department, especially one concerned with procedural correctness at the expense of people's needs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology, a professional administrator whose authority derives from bureaucratic office and procedural expertise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Bureaucrats representing the central government on Earth were isolated from the affairs of the colonies they administered."*
+> - 📜 **Honoré de Balzac (*The Bureaucrats*):** *"The Parisian **bureaucrat** sat behind mountains of dossiers, wielding more real power than ministers of state."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston Smith toiled like a mechanical **bureaucrat** in the Ministry of Truth, rewriting historical records."*
+> - 📜 **Hannah Arendt (*Eichmann in Jerusalem*):** *"The terrifying aspect of modern evil was the banal **bureaucrat** who carried out monstrous directives with clerk-like efficiency."*

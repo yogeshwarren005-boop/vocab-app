@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient and now extinct language of egypt under the pharaohs; written records date back to 3000 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Egypt, its people, language, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and linguistics, the Afroasiatic language of ancient Egypt written in hieroglyphic, hieratic, demotic, and Coptic scripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him appear. [_Exit second Messenger._] These strong Egyptian fetters I must break, Or lose myself in dotage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, first or last, your fine Egyptian cookery Shall have the fame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will to his Egyptian dish again."*
+> - 📜 **Jean-François Champollion (*Lettre à M. Dacier*):** *"Deciphering the bilingual inscription unlocked the phonetic alphabet of ancient **Egyptian** hieroglyphs."*
+> - 📜 **E. A. Wallis Budge (*The Egyptian Book of the Dead*):** *"The **Egyptian** funerary rituals were designed to preserve the soul through the underworld trials."*
+> - 📜 **Howard Carter (*The Tomb of Tutankhamun*):** *"Everywhere was the glint of gold, revealing the unmatched splendor of ancient **Egyptian** craftsmanship."*

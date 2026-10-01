@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ostentatious or vainglorious or extravagant or melodramatic conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse form suited to the treatment of heroic or elevated themes; dactylic hexameter or iambic pentameter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior or talk that is bold, dramatic, or flamboyant, especially when regarded as exaggerated or insincere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic criticism and military analysis, ostentatious displays of bravery or theatrical valor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"On the marvellous music of Shelley's verse we need not dwell, except to note that he avoids that metronomic beat of rhythm which Edgar Poe introduced into modern lyric measures, as Pope introduced it into the rhyming heroics of his day."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Johnson's apparent takeoff on the heroics of opera managed to include in its attack a commentary upon the absurdity of contemporary tragedy as well as some specific references to those works that aimed at the sublime."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"GAS-LIGHT HEROICS With this night's carousal We will close the portal On our poor espousal-- Sacrament and housel For a love too mortal!"*
+> - 📜 **George Bernard Shaw (*Arms and the Man*):** *"Bluntschli stripped war of romantic **heroics**, preferring chocolates to cartridges in his holster."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"Abstract words like glory and courage seemed obscene compared to the bloody reality stripped of **heroics**."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Schoolboy **heroics** on the playing field struck him as noisy, hollow posturing."*

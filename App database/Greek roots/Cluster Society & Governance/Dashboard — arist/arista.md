@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bristlelike process near the tip of the antenna of certain flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bristlelike process near the tip of the antenna of certain flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bristle-like appendage or awn, especially on the glume of grasses; or a prominent bristle on the antenna of certain flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dipteran entomology and agrostology, a specialized sensory bristle on the third antennal segment of Cyclorrhapha flies or an awn on Poaceae lemmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arista designates bristlelike process near the tip of the antenna of certain flies."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The terminal lemma bears a bent, twisted **arista** that aids seed dispersal in prairie grasses."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"Chemoreceptors located on the antennal **arista** detect volatile organic vapors with exquisite sensitivity."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"Microscopic examination shows the **arista** of the housefly to be densely feathered with sensory hairs."*

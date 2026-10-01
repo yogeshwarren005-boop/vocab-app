@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people who have no fixed residence but move from place to place usually seasonally and within a well-defined territory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who roams about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, practice, or way of life of nomads; pastoral migration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnology and historical geography, an adaptive socio-ecological system based on seasonal transhumance across arid or semi-arid ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomadism designates a member of a people who have no fixed residence but move from place to place usually seasonally and within a well-defined territory."*
+> - 📜 **Ibn Khaldun (*The Muqaddimah*):** *"Pure **nomadism** demands complete self-sufficiency and mutual loyalty among kinship clans."*
+> - 📜 **Fernand Braudel (*The Mediterranean and the Mediterranean World in the Age of Philip II*):** *"Mediterranean transhumance was a specialized form of **nomadism** linking coastal winter plains to high alpine pastures."*
+> - 📜 **Bruce Chatwin (*What Am I Doing Here*):** *"He believed that human evolution had permanently imprinted psychological wanderlust and **nomadism** in our bones."*

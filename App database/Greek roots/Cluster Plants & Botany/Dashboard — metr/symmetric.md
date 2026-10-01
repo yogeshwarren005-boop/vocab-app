@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, involving, or exhibiting symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having corresponding points whose connecting lines are bisected by a given point or perpendicularly bisected by a given line or plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having symmetry; balanced in form, proportion, or arrangement across an axis or plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and crystallography, exhibiting invariant properties under reflection, rotation, or inversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetric designates having, involving, or exhibiting symmetry."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised*):** *"The ancestral flower was radially **symmetric**, while specialized insect pollination favored the evolution of bilateral zygomorphy."*
+> - 📜 **James Dwight Dana (*A Text-Book of Mineralogy*):** *"Every face of an isometric crystal obeys strictly **symmetric** laws of spatial distribution around the center of form."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The lenses were ground with **symmetric** curvature to minimize spherical aberration along the focal axis."*

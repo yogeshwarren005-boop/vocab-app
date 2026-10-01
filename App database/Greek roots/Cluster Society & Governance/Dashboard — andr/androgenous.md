@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of male, masculine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of male, masculine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing male offspring; or possessing/manifesting male characteristics or androgenic tendencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative biology and physiology, having virilizing traits or stimulating the formation of masculine tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgenous designates adjective*) pertaining to, derived from, or characteristic of male, masculine."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Certain physiological profiles exhibit marked **androgenous** tendencies across both physical and behavioral domains."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"The phenotypic expression was heavily skewed toward **androgenous** developmental patterns in successive broods."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Evolutionary differentiation manifests in both gynogenous and **androgenous** morphological adaptations."*

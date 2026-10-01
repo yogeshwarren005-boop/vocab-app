@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ochl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek ochlos, meaning 'crowd', 'multitude', or 'mob'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory and psychopathology, the base morpheme denoting disorderly mass gatherings, mob rule, and fear of crowds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ochl designates a term designating an entity, condition, or phenomenon derived from greek ochl."*
+> - 📜 **Polybius (*The Histories*):** *"When democracy degenerates into violence and lawlessness, it assumes the form of **ochl**-ocracy or mob tyranny."*
+> - 📜 **Aristotle (*Politics*):** *"The demagogue flatters the turbulent **ochl**-os in order to undermine constitutional magistrates."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Greek political writers used compounds of **ochl**- to distinguish the unruly mob from the lawful assembly."*

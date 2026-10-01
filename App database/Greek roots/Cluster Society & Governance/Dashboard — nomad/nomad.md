@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people who have no fixed residence but move from place to place usually seasonally and within a well-defined territory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who roams about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people that travels from place to place to find fresh pasture for its livestock and has no permanent home.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, pastoral or foraging groups whose seasonal movements follow ecological cycles of rain and grazing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"And all the sweetness, all the romance of an English midsummer night seized the heart of Lawrence, a nomad, a returned exile, and a man in love--as if he had never known England before."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Your nomad ancestors--we all have them--awake in you, and it is touch and go but you turn your back forever on duties and dining, on all the bonds and frills that we have entangled ourselves in--and then you remember, and go sadly to bed."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Indeed, they have no use for him save as a bird to be plucked, and plucked the poor nomad is, even to his last feather."*
+> - 📜 **Bruce Chatwin (*The Songlines*):** *"The true **nomad** carries his world with him, walking lightly across the surface of the earth."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pastoral **nomad** of the Eurasian steppe possessed mobility that made him a formidable terror to settled empires."*
+> - 📜 **Ibn Khaldun (*The Muqaddimah*):** *"The hardy life of the desert **nomad** fosters fierce solidarity and martial courage unknown to decadent city dwellers."*

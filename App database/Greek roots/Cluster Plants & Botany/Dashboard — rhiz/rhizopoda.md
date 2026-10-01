@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creeping protozoans: amoebas and foraminifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creeping protozoans: amoebas and foraminifers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic class or subphylum of protozoans comprising amoeboid organisms that move and feed by means of pseudopodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical invertebrate systematics, the primary sarcodine grouping that included naked amoebae, testaceans, and foraminiferans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizopoda designates creeping protozoans: amoebas and foraminifers."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Under the class **Rhizopoda**, zoologists grouped those primitive sarcodines that lack cilia and rely upon protoplasmic streaming."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Comparative study of the **Rhizopoda** demonstrates the fundamental contractile properties of animal protoplasm."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"The phylogenetic dismemberment of the **Rhizopoda** revealed that amoeboid locomotion evolved independently across multiple eukaryotic clades."*

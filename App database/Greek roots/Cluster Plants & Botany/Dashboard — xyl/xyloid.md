@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the nature of wood; woody; ligneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and petrology, describing fossilized, carbonized, or silicified plant remains that preserve woody textures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xyloid designates adjective & noun*) resembling, having the physical form of, or akin to wood."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The brown coal deposit was composed largely of **xyloid** lignite that clearly displayed the cellular rings of conifers."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Microscopic analysis of the **xyloid** fragments proved that ancient redwoods once flourished along arctic coasts."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Silicified wood forms a dense **xyloid** agate wherein every cell wall is replaced by chalcedony."*

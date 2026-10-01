@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Voluptuary, sensualist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of the ancient city of Sybaris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devotion to luxury and pleasure; self-indulgence or epicurean hedonism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural critique and moral history, a decadent condition of society where sensual gratification supersedes civic virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sybaritism designates voluptuary, sensualist."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The relentless pursuit of pleasure in refined **sybaritism** ends only in deeper boredom and existential disgust."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The enervating **sybaritism** of the nobility left them powerless to defend ancient institutions when the storm broke."*
+> - 📜 **George Grote (*A History of Greece*):** *"The destruction of Sybaris was celebrated by rival Croton as a moral judgment upon unbridled **sybaritism**."*

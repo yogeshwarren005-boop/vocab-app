@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhiz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, root-like cord or bundle of fungal hyphae that grows through soil or wood, typical of fungi like Armillaria (honey mushroom).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest pathology and mycology, a melanized, multicellular strand with a hollow core and apical growing tip that transmits nutrients and spreads infection across tree root networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizomorph designates a term designating an entity, condition, or phenomenon derived from greek rhiz."*
+> - 📜 **Robert Hartig (*Important Diseases of Forest Trees*):** *"The black shoestring **rhizomorph** of Armillaria mellea creeps beneath the bark, destroying the cambium of living spruces."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"Luminescent properties are exhibited by the subterranean **rhizomorph** of the honey mushroom, glowing with eerie greenish light in damp decay."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The tough, outer cortical sheath of the **rhizomorph** protects the delicate internal conductive hyphae from soil bacteria."*

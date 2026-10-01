@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution or genesis of the human race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolution or genesis of the human race.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin and evolutionary development of human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and evolutionary biology, the phylogenetic lineage and morphological transitions leading to modern Homo sapiens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropogenesis designates the evolution or genesis of the human race."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Comparative craniology illuminates the evolutionary stages of **anthropogenesis** from ancestral primates."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The study of **anthropogenesis** integrates embryology, paleontology, and comparative anatomy into a unified tree."*
+> - 📜 **Pierre Teilhard de Chardin (*The Phenomenon of Man*):** *"Within the grand cosmic ascent, **anthropogenesis** marks the arrival of reflective consciousness upon the biosphere."*

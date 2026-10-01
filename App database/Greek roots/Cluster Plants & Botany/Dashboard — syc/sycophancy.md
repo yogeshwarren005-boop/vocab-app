@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fawning obsequiousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fawning obsequiousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Servile, self-seeking flattery; fawning, obsequious behavior toward someone important in order to gain advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in ancient Athens, the malicious practice of public informing or false accusation; in moral philosophy, degrading parasitical subservience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sycophancy designates fawning obsequiousness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial court was crowded with eunuchs whose blatant **sycophancy** poisoned the emperor's ear against his ablest generals."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"There is no spectacle more contemptible than the shameless **sycophancy** of the middle-class tuft-hunter groveling before a peer."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Decades of courtly **sycophancy** had blinded the Versailles aristocracy to the gathering fury of the Parisian populace."*

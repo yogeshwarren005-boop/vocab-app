@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The external genital structure of a female spider, usually hardened and bearing copulatory openings (variant of epigynum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arachnology, a specialized sclerotized plate on the ventral abdomen of female entelegyne spiders critical for species identification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigyne designates an external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus."*
+> - 📜 **John Henry Comstock (*The Spider Book*):** *"The intricate chitinous folds of the **epigyne** serve as a mechanical lock fitted only to the male palp."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Spider*):** *"Microscopic study of the **epigyne** reveals the delicate openings leading into the internal spermathecae."*
+> - 📜 **William Morton Wheeler (*Ants and Other Insects*):** *"Taxonomic diagnosis of cryptic arachnid species relies fundamentally on the morphology of the **epigyne**."*

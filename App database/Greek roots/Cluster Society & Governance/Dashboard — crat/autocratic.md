@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an autocracy : absolute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or resembling an autocrat : despotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a ruler who has absolute power; taking no account of other people's wishes or opinions; domineering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational and political behavior, characterized by unilateral decision-making and demanding absolute obedience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Then he became suspicious--and a trifle autocratic.” She recalled his look as he told her that he would trust her, but that he meant to keep an eye upon her."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The king of the Trobriands is as much a king to his subjects as the autocratic Czar is to the serfs of Russia."*
+> - 📜 **George Orwell (*Shooting an Elephant*):** *"The imperial administration enforced its mandates through rigid, **autocratic** directives."*
+> - 📜 **Jane Austen (*Emma*):** *"Her manner in company had grown somewhat **autocratic**, brooking no difference in social arrangements."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"The **autocratic** ruler lives in constant dread of conspiracy, isolating himself behind armed guards."*

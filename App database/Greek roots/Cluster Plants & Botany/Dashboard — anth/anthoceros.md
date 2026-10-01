@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hornworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hornworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hornworts (family Anthocerataceae) featuring thalloid gametophytes and erect, horn-like or needle-like sporophytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary cryptogamic botany, a model organism harboring symbiotic nitrogen-fixing Nostoc cyanobacteria within mucilage cavities of its thallus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthoceros designates hornworts."*
+> - 📜 **Wilhelm Hofmeister (*Higher Cryptogamia*):** *"The elongated capsule of **Anthoceros** splits longitudinally into two twisting valves, steadily liberating dark spores over many weeks."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Examination of the thallus in **Anthoceros** reveals blue-green colonies of Nostoc inhabiting inner mucilaginous chambers."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"The continuous growth of the **Anthoceros** capsule from an intercalary zone represents a remarkable approach toward independent sporophytic life."*

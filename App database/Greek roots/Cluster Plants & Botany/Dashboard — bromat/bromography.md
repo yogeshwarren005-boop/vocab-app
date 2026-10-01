@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bromat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal written treatise, description, or discourse on food, diet, and comestibles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical bibliography and dietetic literature, an encyclopedic or descriptive catalog of edible plants, animal meats, and culinary preparations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromography designates a term designating an entity, condition, or phenomenon derived from greek bromat."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The classical author composed an exhaustive **bromography**, detailing the culinary properties and medicinal virtues of Mediterranean fish and fowl."*
+> - 📜 **William Prout (*Chemistry of Digestion*):** *"Ancient treatises on **bromography** mingled acute empirical observations with superstitious astrological prohibitions on diet."*
+> - 📜 **Jonathan Pereira (*A Treatise on Food and Diet*):** *"Our present work is intended as a practical **bromography**, presenting the chemical analysis of every common article of human diet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to truffle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to truffle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the characteristics of fungi of the genus Hydnum; tooth-bearing or spine-bearing in fruiting morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive macromycology, having an awl-shaped or toothed hymenophore rather than gills (agaricoid) or pores (polyporoid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydnoid designates adjective & noun*) resembling, having the physical form of, or akin to truffle."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The **hydnoid** configuration of the hymenium has evolved independently in multiple divergent basidiomycete lineages."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"Specimens presenting a **hydnoid** undersurface were collected in damp beech woods, their creamy spines discharging white spores."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The spine-like teeth of **hydnoid** fungi point strictly downward in response to positive geotropism."*

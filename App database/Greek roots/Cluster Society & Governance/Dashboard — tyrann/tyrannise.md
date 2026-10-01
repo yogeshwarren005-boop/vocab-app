@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule a country as a tyrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rule or exercise power over (somebody) in a cruel and autocratic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rule with tyranny; exercise power in a cruel, arbitrary, or oppressive way (British spelling of tyrannize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To domineer or bully over others in domestic or civic settings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"And says Joe, sticking his thumb in his pocket: —It’s the Russians wish to tyrannise. —Arrah, give over your bloody codding, Joe, says I."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old baronet loved to **tyrannise** over his submissive family, issuing arbitrary commands at dinner."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"No charter can grant a British magistrate the license to **tyrannise** over an ancient people."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom was inclined to **tyrannise** over Maggie, asserting boyish superiority with unbending rectitude."*

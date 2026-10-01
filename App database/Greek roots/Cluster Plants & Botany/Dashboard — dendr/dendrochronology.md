@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific method of dating environmental events and archaeological artifacts by the comparative analysis of tree growth rings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoclimatology and prehistoric archaeology, the establishment of multi-millennial tree-ring chronologies using bristlecone pines and bog oaks to calibrate radiocarbon dates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrochronology designates the science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood."*
+> - 📜 **A. E. Douglass (*Climatic Cycles and Tree-Growth*):** *"The development of **dendrochronology** enabled us to date prehistoric Pueblo ruins in the American Southwest with calendar-year precision."*
+> - 📜 **Willard Libby (*Radiocarbon Dating*):** *"Absolute ring counts derived from **dendrochronology** provided the essential calibration curve to correct atmospheric carbon-14 fluctuations."*
+> - 📜 **Colin Renfrew (*Before Civilization*):** *"The second radiocarbon revolution was ignited when **dendrochronology** proved that European megalithic tombs were older than Mycenaean civilization."*

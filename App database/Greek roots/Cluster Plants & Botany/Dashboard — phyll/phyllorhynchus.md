@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf-nosed snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf-nosed snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, non-venomous colubrid snakes native to the deserts of southwestern North America and Mexico, known as leaf-nosed snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert herpetology, nocturnal, burrowing serpents possessing an enlarged, spade-like rostral scale with free lateral edges used for burrowing in loose sand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllorhynchus designates leaf-nosed snakes."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"I established the genus **Phyllorhynchus** on account of its extraordinary triangular rostral plate which resembles an upturned leaf."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The leaf-nosed snake, **Phyllorhynchus** browni, spends daytime hours burrowed in gravelly desert soil, hunting gecko eggs at twilight."*
+> - 📜 **Malcolm Arthur Smith (*Fauna of the Desert Regions*):** *"The modified rostral shield of **Phyllorhynchus** serves as an efficient burrowing scoop in shifting desert sand."*

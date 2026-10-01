@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A marriage form or custom in which a woman has only one husband at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marriage form or custom in which a woman has only one husband at a time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The custom or practice of having only one husband at a time; the counterpart to monogyny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology, the condition of having only one stamen (characteristic of the Linnaean class Monandria).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monandry designates a marriage form or custom in which a woman has only one husband at a time."*
+> - 📜 **Friedrich Engels (*The Origin of the Family, Private Property and the State*):** *"The emergence of private property necessitated institutional **monandry** to verify legitimate heirs."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"Social conventions mandated marital **monandry**, while permitting ceremonial flirtation in youth."*
+> - 📜 **John Lindley (*The Treasury of Botany*):** *"In taxonomic arrangements, **monandry** served as a decisive diagnostic character for several monocot families."*

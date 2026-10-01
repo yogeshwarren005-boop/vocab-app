@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of child.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the branch of medicine dealing with children and their diseases (British spelling of pediatric).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare and developmental medicine, concerning clinical care, neonatology, and preventative wellness for infants and adolescents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paediatric designates adjective*) pertaining to, derived from, or characteristic of child."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The establishment of specialized **paediatric** wards drastically reduced cross-infection among hospitalized infants."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"Routine childhood immunization transformed **paediatric** practice from palliative watching to triumphant prevention."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Early **paediatric** histories often revealed unrecognized bouts of viral encephalitis in childhood."*

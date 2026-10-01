@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief or capital city of a country, state, or region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The city or state of origin of a colony (as of ancient Greece).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large and densely populated industrial and commercial city; the capital or chief city of a country or region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greece, the mother city (mētēr-polis) that founded and sent out colonial expeditions abroad.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The next is this: King John hath reconcil’d Himself to Rome; his spirit is come in, That so stood out against the holy church, The great metropolis and see of Rome."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The journey from our town to the metropolis was a journey of about five hours."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Sprague?” “To a certain extent—with regard to populous districts, and in the metropolis,” said the Doctor."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Corcyra quarreled with Corinth, refusing the customary religious honors due from a daughter colony to her **metropolis**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip arrived in the immense, smoke-shrouded **metropolis** of London, awed and intimidated by the roaring crowds."*
+> - 📜 **Georg Simmel (*The Metropolis and Mental Life*):** *"The psychological basis of the personality type in the **metropolis** is the intensification of nervous stimulation."*

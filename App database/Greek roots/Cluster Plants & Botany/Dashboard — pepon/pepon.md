@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pepon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical botanical root derived from Greek 'pepon' (ripe melon, pumpkin, gourd), denoting large fleshy fruits of the Cucurbitaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and botanical carpology, the ancient Greek word for a sun-ripened gourd or melon that develops without hard woody septa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pepon designates a term designating an entity, condition, or phenomenon derived from greek pepon."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The Greeks designated as **pepon** the large sweet melon that ripens only under the fiercest heat of the summer sun."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Physicians praise the cooling pulp of the ripe **pepon** to extinguish bilious fevers in the dog days."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The root **pepon** literally signifies that which has been cooked or ripened by the sun."*

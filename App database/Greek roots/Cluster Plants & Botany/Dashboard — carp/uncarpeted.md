@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not carpeted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not carpeted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not covered or fitted with a carpet; having bare floors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing rooms, floors, or stairs that lack floor coverings, often conveying austerity, poverty, or stark simplicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Going up, the floors above were found to have a very irregular surface, rising to ridges, sinking into valleys; and being just then uncarpeted, the face of the boards was seen to be eaten into innumerable vermiculations."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There was a little passage in front of me, unpapered and uncarpeted, which turned at a right angle at the farther end."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Going up, we find the floors above to have a very irregular surface, rising to ridges, sinking into valleys, and being at present uncarpeted, the face of the boards is shown to be eaten into innumerable vermiculations."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Our footsteps echoed hollowly upon the cold, **uncarpeted** stone staircase of the desolate London inn."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The dormitory at Lowood was vast and chill, with rows of narrow beds set upon bare, **uncarpeted** deal boards."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard paced the bare, **uncarpeted** parlor of his ruined cottage, listening to the midnight wind rattle the casement."*

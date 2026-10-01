@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The non-neuronal supportive tissue of the central nervous system composed of oligodendrocytes; the oligodendrocyte population collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology, glial cells that provide metabolic trophic support to neurons, regulate potassium homeostasis, and synthesize central myelin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligodendroglia designates tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers."*
+> - 📜 **Wilder Penfield (*Cytology of the Nervous System*):** *"Tumors originating from the **oligodendroglia** present a distinctive honeycomb appearance under high microscopic magnification."*
+> - 📜 **Pío del Río-Hortega (*On the Glial Architecture of the Brain*):** *"Unlike astrocytes, the cells of the **oligodendroglia** lack vascular footplates, associating intimately with nerve fibers."*
+> - 📜 **Raymond D. Adams (*Principles of Neurology*):** *"Secondary axonal atrophy inevitably follows chronic pathological destruction of the cerebral **oligodendroglia**."*

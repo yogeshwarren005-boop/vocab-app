@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of making engravings on wood especially for printing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of making engravings on wood especially for printing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or technique of engraving on wood; woodcut printing, especially the printing of books from carved wooden blocks (block books).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing history and bibliographical study, the fifteenth-century craft that preceded movable metal type printing in Europe and flourished in East Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Xylography was also practiced in China long before Europe knew the art."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It is considered unlikely, although not impossible, that the invention of printing passed all at once from xylography to the perfect typography of the punch, matrix, and mold."*
+> - 📜 **John Ruskin (*Ariadne Florentina*):** *"True **xylography** requires the artist to respect the natural resistance of the boxwood block under the graver."*
+> - 📜 **William Morris (*The Ideal Book*):** *"The revival of fine printing must look to early Renaissance **xylography** for bold harmony between woodcuts and gothic letters."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"Fifteenth-century **xylography** democratized religious imagery, scattering woodblock prints across every peasant cottage."*

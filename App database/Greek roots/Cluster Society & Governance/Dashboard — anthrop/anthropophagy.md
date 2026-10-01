@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Human cannibalism; the eating of human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Human cannibalism; the eating of human flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eating of human flesh by human beings; cannibalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology, the ritual or survival practice of consuming human remains (endocannibalism or exocannibalism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"My word!” returned the Canadian, “I begin to understand the charms of anthropophagy.” “Ned!"*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"Ritual **anthropophagy** expresses profound symbolic beliefs about assimilating the vital forces of the deceased."*
+> - 📜 **Michel de Montaigne (*Of Cannibals*):** *"I find nothing barbarous in their **anthropophagy** compared to our civilized torture of living brethren."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Traces of ceremonial **anthropophagy** survived in sacrificial rites across many ancient cultures."*

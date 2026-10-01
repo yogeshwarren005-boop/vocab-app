@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by unjust severity or arbitrary behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by unjust severity or arbitrary behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by tyranny; unjustly severe, oppressive, or cruel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising arbitrary, relentless power in nature or human society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Head to foot Now is he total gules, horridly trick’d With blood of fathers, mothers, daughters, sons, Bak’d and impasted with the parching streets, That lend a tyrannous and a damned light To their vile murders."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it is excellent To have a giant’s strength; but it is tyrannous To use it like a giant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were he mealed with that Which he corrects, then were he tyrannous; But this being so, he’s just. [_Knocking within."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"O, it is excellent To have a giant's strength; but it is **tyrannous** To use it like a giant."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"And now the storm-blast came, and he was **tyrannous** and strong; He struck with his o'ertaking wings, and chased us south along."*
+> - 📜 **Percy Bysshe Shelley (*Ode to the West Wind*):** *"The fierce wind drove the blackened clouds before it like a **tyrannous** enchanter fleeing day."*

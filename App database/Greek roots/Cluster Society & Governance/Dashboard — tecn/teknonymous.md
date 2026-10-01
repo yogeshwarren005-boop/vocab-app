@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of child.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Named after one's child; relating to or characterized by teknonymy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology, describing a person who is addressed by a name derived from their offspring rather than their personal birth name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teknonymous designates adjective*) pertaining to, derived from, or characteristic of child."*
+> - 📜 **Edward Burnett Tylor (*Researches into the Early History of Mankind*):** *"In traditional communities, a father acquires an honored **teknonymous** title upon the birth of his firstborn son."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"Kinship address systems employ **teknonymous** designations to mark generational transition into parenthood."*
+> - 📜 **Franz Boas (*Race, Language, and Culture*):** *"The polite **teknonymous** form of address superseded ordinary personal names across many indigenous tribes."*

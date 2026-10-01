@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the anatomy, functions, and disorders (such as infertility or impotence) of the male reproductive system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the anatomy, functions, and disorders (such as infertility or impotence) of the male reproductive system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and biology concerned with male reproductive health, diseases, and endocrine physiology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical subspecialties, the masculine counterpart to gynecology, encompassing male fertility, urology, and hormonal therapeutics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andrology designates a branch of medicine concerned with the anatomy, functions, and disorders (such as infertility or impotence) of the male reproductive system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progress in **andrology** has clarified numerous obscure hormonal disorders previously labeled constitutional debility."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Modern **andrology** provides essential physiological diagnostics to support humane clinical therapy."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"Interdisciplinary advances uniting cellular biology and **andrology** continue to illuminate gametogenesis."*

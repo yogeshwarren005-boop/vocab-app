@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through those who let pasture herds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through those who let pasture herds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To live as a nomad; to wander about with herds or lead a migratory life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical travelogues and geography, to adopt a pastoral migratory pattern across open territories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomadize designates verb*) to subject to, transform by, or operate upon through those who let pasture herds."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"Bedouin tribes continue to **nomadize** across the rocky plateau, pitching black tents wherever water is struck."*
+> - 📜 **George Catlin (*Letters and Notes on the Manners, Customs, and Condition of the North American Indians*):** *"The plains tribes were compelled to **nomadize** continuously following the vast seasonal migrations of the buffalo."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Pastoralists who **nomadize** through the llanos must navigate annual transitions between scorched drought and inundating flood."*

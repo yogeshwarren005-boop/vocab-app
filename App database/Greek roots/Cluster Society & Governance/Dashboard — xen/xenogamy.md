@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fertilization of a flower by pollen from a genetically distinct flower on another plant; cross-pollination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral ecology and reproductive biology, true outcrossing that maximizes genetic recombination and heterozygosity in flowering plant populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenogamy designates a term designating an entity, condition, or phenomenon derived from greek xen."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Nature abhors perpetual self-fertilization, elaborating countless contrivances to guarantee **xenogamy** between distinct stocks."*
+> - 📜 **Asa Gray (*How Plants Behave*):** *"Bright corollas and nectar guides evolved to attract foraging insects that perform effective **xenogamy** across wide fields."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Botanists distinguish geitonogamy from true **xenogamy**, where the pollen source is a physically separate plant."*

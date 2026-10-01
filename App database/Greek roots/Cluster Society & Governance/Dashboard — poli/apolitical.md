@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Politically neutral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Politically neutral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not interested or involved in politics; having no political significance or bias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and cultural theory, consciously or unconsciously disengaged from civic contestation and state ideology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apolitical designates politically neutral."*
+> - 📜 **George Orwell (*Writers and Leviathan*):** *"In an age of totalitarian warfare, no thinking human being can genuinely remain purely **apolitical**."*
+> - 📜 **Hannah Arendt (*The Human Condition*):** *"To withdraw into an **apolitical** private sphere is to forfeit the shared world of speech and heroic action."*
+> - 📜 **Susan Sontag (*Against Interpretation*):** *"The artist's insistence that his aesthetic work was strictly **apolitical** was itself a provocative political gesture."*

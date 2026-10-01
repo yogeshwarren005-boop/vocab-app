@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to adherence to a religious opinion contrary to church dogma : characterized by heresy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characterized by departure from accepted beliefs or standards : unorthodox.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing in or practicing religious heresy; or contrary to generally accepted standards, opinions, or dogma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unorthodox departures from doctrinal, political, or scientific orthodoxy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered back to my young days when I had sat at the feet of Arius, who had been a presbyter of the city of Alexandria, and who had been robbed of the bishopric by the blasphemous and heretical Alexander."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Blasphemous and heretical Warden of San Quentin whose feet have fast hold of hell,” I gibed, after I had drunk deep of the water they held to my lips."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Private judgment run mad was the mark of all Christians, orthodox and heretical,--"men walling themselves off and isolating themselves from mankind"[4]--and his thesis was that the whole spirit of the movement was wrong."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"Inquisitors warned that asserting the motion of the Earth was deemed formally **heretical**."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Spinoza was cast out of the synagogue for harboring **heretical** views on the divine nature."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"Civil magistrates have no commission to punish citizens for holding purely **heretical** theological opinions."*

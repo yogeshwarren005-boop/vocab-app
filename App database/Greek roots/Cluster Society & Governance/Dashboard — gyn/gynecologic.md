@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or practicing gynecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or practicing gynecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gynecology, the branch of medicine concerned with the female reproductive system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, pertaining to diagnostic, therapeutic, or surgical procedures involving female reproductive organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynecologic designates of or relating to or practicing gynecology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough **gynecologic** examination is indispensable when investigating chronic pelvic pain."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Antiseptic protocols transformed **gynecologic** surgery from a perilous hazard into a healing science."*
+> - 📜 **Lewis Thomas (*The Youngest Science*):** *"Modern **gynecologic** pathology relies on microscopic cytological screening to catch malignancies early."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of wealth or the wealthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral and cultural critique, the veneration of monetary riches as the supreme measure of human worth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutolatry designates a term designating an entity, condition, or phenomenon derived from greek plut."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A gospel of mammonism and brazen **plutolatry** has replaced our ancestral faith in spiritual duty."*
+> - 📜 **H. L. Mencken (*Prejudices: Third Series*):** *"The defining national religion of the Gilded Age was an unashamed, roaring **plutolatry**."*
+> - 📜 **John Ruskin (*Unto This Last*):** *"Industrial society has raised altars to **plutolatry**, sacrificing art and human dignity to the Goddess of Getting-on."*

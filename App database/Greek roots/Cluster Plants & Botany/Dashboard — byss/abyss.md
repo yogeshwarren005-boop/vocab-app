@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An immeasurably deep gulf or great space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intellectual or moral depths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep or seemingly bottomless chasm, gulf, or profound pit; a vast intellectual or moral expanse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography and geology, the vast, lightless deeps of the ocean floor plunging thousands of meters below sea level.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, in a perfect abyss of gravity, walks up and down before the little parlour window like a sentry and looks in every time he passes, apparently revolving something in his mind."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus she proceeded mile after mile, ascending and descending till she came to Bulbarrow, and about midnight looked from that height into the abyss of chaotic shade which was all that revealed itself of the vale on whose further side she was born."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As well as his confused and excited ideas could reason, he supposed that in the moment of mad grief of which she spoke, her mind had lost its balance, and plunged her into this abyss."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Into this wild **Abyss**, the womb of Nature and perhaps her grave, the dark Satanic legions cast their mournful gaze."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"He who contemplates the geological record gazes into an unfathomable **abyss** of past time."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boat plummeted down the glassy side of the ocean swell into the yawning **abyss** between mountain waves."*

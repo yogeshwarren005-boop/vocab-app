@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant lice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant lice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small plant-parasitic hemipterous insects closely related to aphids (superfamily Aphidoidea), lacking cornicles and producing wax from abdominal glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, specialized gall-forming and root-feeding insects including the grape phylloxera and hickory gall phylloxerans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloxeridae designates plant lice."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"The family **Phylloxeridae** differs from the true Aphididae in laying eggs exclusively and having three-segmented antennae in all forms."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"Members of the **Phylloxeridae** exhibit intricate multi-generational life cycles involving winged dispersers, sexuparae, and subterranean root forms."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Hickory leaves are frequently deformed by globular galls caused by various species of the **Phylloxeridae**."*

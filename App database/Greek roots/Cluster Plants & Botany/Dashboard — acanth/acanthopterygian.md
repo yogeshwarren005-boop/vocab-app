@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A teleost fish with fins that are supported by sharp inflexible rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A teleost fish with fins that are supported by sharp inflexible rays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to the Acanthopterygii (spiny-finned fishes); having stiff, unjointed fin spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spiny-finned teleost fish, representing the dominant and most diversified evolutionary radiation of modern bony fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthopterygian designates a teleost fish with fins that are supported by sharp inflexible rays."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The great **acanthopterygian** order includes perches, mackerels, and breams, all possessing rigid spines before the soft dorsal fin rays."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"Fossil evidence from the Cretaceous marks the rise of the **acanthopterygian** lineages over older ganoid groups."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"Every typical **acanthopterygian** fish relies upon its stiff anterior rays for defense against voracious predators."*

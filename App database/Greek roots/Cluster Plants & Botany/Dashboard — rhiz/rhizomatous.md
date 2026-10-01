@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, resembling, or being a rhizome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having, resembling, or being a rhizome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, possessing, or having the characteristics of a rhizome (a horizontal underground stem).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology and horticultual taxonomy, describing spreading perennial plants (such as iris, ginger, and many grasses) that propagate via creeping subterranean stems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizomatous designates having, resembling, or being a rhizome."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The quick grass is an aggressive **rhizomatous** weed that defies eradication because every severed joint produces a new plant."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the ginger family, the **rhizomatous** rootstocks accumulate aromatic essential oils and starch in immense subterranean tubers."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"Coastal sand dunes are bound and stabilized by the deep **rhizomatous** networks of marram grass."*

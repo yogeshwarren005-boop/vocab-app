@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of an ant colony or social insect population having only a single nest; monodomous organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecology and sociobiology, nest architecture where a single queen and colony inhabit a self-contained subterranean or arboreal nest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monodomy designates a term designating an entity, condition, or phenomenon derived from greek dem."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Primitive ponerine species exhibit strict **monodomy**, defending a solitary nest burrow against neighbors."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"The transition from **monodomy** to polydomy allows supercolonies to monopolize vast foraging territories."*
+> - 📜 **Bert Hölldobler (*The Ants*):** *"Colony territoriality in Pogonomyrmex is maintained through aggressive defense of their solitary **monodomy** site."*

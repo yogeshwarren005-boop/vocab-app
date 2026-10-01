@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of vespidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of vespidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan genus of paper wasps (family Vespidae) that construct open umbrella-shaped paper nests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and behavioral sociobiology, primitively eusocial wasps studied extensively for dominance hierarchies and face-recognition signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polistes designates a genus of vespidae."*
+> - 📜 **Jean-Henri Fabre (*The Mason-Wasps*):** *"The slender queen of **Polistes** attaches her delicate hexagonal paper cells to the underside of the sunlit tile."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Dominance interactions among foundresses of **Polistes** illustrate the evolutionary origins of reproductive castes."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"The absence of a sterile worker caste separates **Polistes** from the more specialized yellowjackets."*

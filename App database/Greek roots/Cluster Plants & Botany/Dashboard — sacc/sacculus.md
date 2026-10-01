@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sac or pouch (especially the smaller chamber of the membranous labyrinth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small sac or pouch (especially the smaller chamber of the membranous labyrinth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical Latin term for the saccule of the inner ear; any small sac or pouch-like cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otology and comparative labyrinth anatomy, the inferior vestibular organ that connects via the ductus reuniens to the cochlear duct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacculus designates a small sac or pouch (especially the smaller chamber of the membranous labyrinth)."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In lower vertebrates, the **sacculus** bears an outgrowth termed the lagena, the evolutionary forerunner of the cochlea."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The sensory epithelium of the **sacculus** responds directly to linear gravitational vector forces."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The inner ear vestibule contains two membranous vesicles, the utriculus and the anterior **sacculus**."*

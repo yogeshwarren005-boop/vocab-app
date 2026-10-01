@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of a plutocrat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a plutocrat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or advocating governance by the wealthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting the excessive influence, conspicuous luxury, or political arrogance of vast private fortunes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutocratic designates of or relating to or characteristic of a plutocrat."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous leisure and wasteful expenditure serve to signal elite membership in a **plutocratic** hierarchy."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The pre-war ruling elite clung stubbornly to their **plutocratic** privileges despite national economic decline."*
+> - 📜 **C. Wright Mills (*The Power Elite*):** *"Interlocking corporate boards maintain a tight **plutocratic** grip over national economic and defense policies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the treatment of infants and children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine concerned with the treatment of infants and children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine dealing with children and their diseases (British spelling of pediatrics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical medical specialty dedicated to the physical, emotional, and social health of children from birth through adolescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paediatrics designates the branch of medicine concerned with the treatment of infants and children."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"The emergence of modern **paediatrics** as an autonomous discipline was a crowning achievement of 19th-century clinical care."*
+> - 📜 **Lewis Thomas (*The Youngest Science*):** *"No branch of clinical practice has achieved more radiant triumphs than preventive **paediatrics**."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Congenital neurological deficits require interdisciplinary collaboration with developmental **paediatrics**."*

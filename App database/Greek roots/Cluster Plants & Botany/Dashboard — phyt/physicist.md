@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist trained in physics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist trained in physics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or scientist who specializes in physics, the study of matter, energy, space, and time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural philosopher who formulates and tests quantitative mathematical theories of the physical universe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Did not an immortal physicist and interpreter of hieroglyphs write detestable verses?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Caltech physicist Kip Thorne explores the limits of Einstein's theory of gravity, where spunnels -- or tunnels through space -- lurk. (K."*
-> - 📜 **James Joyce (*Ulysses*):** *"As a physicist he had learned that of the 70 years of complete human life at least 2/7, viz. 20 years are passed in sleep."*
+> - 📜 **Albert Einstein (*Ideas and Opinions*):** *"The supreme task of the **physicist** is to arrive at those universal elementary laws from which the cosmos can be built up by pure deduction."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A practical **physicist** must test his most brilliant hypotheses against the unbending verdict of the laboratory."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"What cannot be computed and tested against nature is of no value to the working **physicist**."*

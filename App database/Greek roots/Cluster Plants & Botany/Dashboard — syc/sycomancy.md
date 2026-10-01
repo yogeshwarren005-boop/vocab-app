@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek syc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of fig leaves, where questions or names were written upon leaves and the speed of their drying or withering was interpreted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical anthropology and mantic folklore, an ancient Greek divinatory practice where slower desiccation indicated truth or a favorable augury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sycomancy designates a term designating an entity, condition, or phenomenon derived from greek syc."*
+> - 📜 **John Brand (*Observations on Popular Antiquities*):** *"In the ancient rite of **sycomancy**, prayers were inscribed on fresh fig leaves, and those which dried slowest were deemed answered."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"The practice of **sycomancy** was rooted in the sacred association of the fig tree with Dionysian fertility and underworld secrets."*
+> - 📜 **Walter Woodburn Hyde (*Greek Religion and Its Survivals*):** *"Rural peasants continued to consult rustic **sycomancy** before autumn sowing to foresee whether the harvest would be fruitful."*

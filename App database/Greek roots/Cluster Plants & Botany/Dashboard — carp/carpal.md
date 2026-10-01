@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the carpus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carpal element or bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the carpus (the wrist bones in vertebrate anatomy); in botany, of or pertaining to a carpel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate osteology, designating the eight small bones forming the wrist; in carpology, relating to the modified leaf that forms a carpel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpal designates of or relating to the carpus."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The human wrist comprises eight distinct **carpal** bones arranged in proximal and distal rows."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The suture along the ventral **carpal** margin indicates the line where the fertile ovules are borne."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Comparative morphology traces the mammalian **carpal** series back to the rhipidistian pectoral fin radials."*

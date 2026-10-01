@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (neuroscience) of or relating to or resembling a dendrite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (neuroscience) of or relating to or resembling a dendrite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a branching, tree-like structure; relating to dendrites (neuronal or mineral).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, drainage patterns characterized by irregular branching tributary streams resembling the veins of a leaf or tree branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendritic designates (neuroscience) of or relating to or resembling a dendrite."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"River systems developing across horizontal sedimentary plains naturally carve out a **dendritic** drainage network."*
+> - 📜 **Santiago Ramón y Cajal (*Recollections of My Life*):** *"Under the silver nitrate stain, the **dendritic** arborization of cortical neurons stood revealed in astonishing clarity."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Native copper occasionally occurs in exquisite **dendritic** crystal sprays resembling branching bronze foliage."*

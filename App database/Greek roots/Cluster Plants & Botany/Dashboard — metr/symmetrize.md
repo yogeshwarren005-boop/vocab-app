@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make symmetric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make symmetric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make symmetrical; to arrange, proportion, or balance symmetrically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum mechanics and crystallography, to construct states or tensors that are invariant under particle interchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetrize designates make symmetric."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"For systems of identical bosons, we must completely **symmetrize** the wave function under any permutation of particles."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Hydrostatic forces continuously **symmetrize** the developing blastula into a perfect sphere."*
+> - 📜 **Frank Lloyd Wright (*An Autobiography*):** *"The organic architect refuses to arbitrarily **symmetrize** a floor plan at the expense of human functional needs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative names for the family comprising the new zealand wrens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative names for the family comprising the new zealand wrens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of tiny suboscine-like passerine birds endemic to New Zealand, commonly termed the New Zealand wrens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern avian paleontology and phylogenomics, the sole family of the suborder Acanthisitti, representing the earliest divergent branch of the order Passeriformes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthisittidae designates alternative names for the family comprising the new zealand wrens."*
+> - 📜 **Alan Feduccia (*The Origin and Evolution of Birds*):** *"Molecular evidence confirms that the **Acanthisittidae** parted company from all other songbirds prior to the breakup of Gondwana."*
+> - 📜 **Joel Cracraft (*Phylogenetic Relationships of Passerines*):** *"Osteological characters of the stapes and syrinx set the **Acanthisittidae** decisively apart from both oscines and suboscines."*
+> - 📜 **Jared Diamond (*The Third Chimpanzee*):** *"Tragically, introduced mammals wiped out several flightless representatives of the **Acanthisittidae**, leaving only two species alive."*

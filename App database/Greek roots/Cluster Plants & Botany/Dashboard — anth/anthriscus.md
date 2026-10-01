@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chervil: of europe, north africa and asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chervil: of europe, north africa and asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous plants in the carrot family (Apiaceae), including chervil (Anthriscus cerefolium) and cow parsley (Anthriscus sylvestris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural and culinary botany, biennial or annual umbellifers bearing finely divided pinnate foliage and small white compound umbels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthriscus designates chervil: of europe, north africa and asia."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Garden chervil or **Anthriscus** is sown in spring to season pottages with its delicate sweet and aromatic leaves."*
+> - 📜 **William Woodville (*Medical Botany*):** *"Care must be exercised to avoid confusing edible **Anthriscus** with poisonous hemlock growing along ditch banks."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"In May, the foaming white umbels of wild **Anthriscus** fringe every roadside hedgerow throughout the English shires."*

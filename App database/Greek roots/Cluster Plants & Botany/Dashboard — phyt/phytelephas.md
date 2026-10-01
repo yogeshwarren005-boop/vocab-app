@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of south american feather palms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of south american feather palms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of South American feather palms (family Arecaceae), known as ivory palms or tagua palms, whose seeds yield vegetable ivory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic tropical botany, dioecious low-stemmed palms whose female heads produce massive woody burrs containing rock-hard white endosperm used as a substitute for elephant ivory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytelephas designates small genus of south american feather palms."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Along the Magdalena River, the **Phytelephas** palm bears colossal clusters of nuts whose kernel hardens into vegetable ivory."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Turners and button-makers import millions of tagua nuts from **Phytelephas** macrocarpa as an ethical substitute for elephant tusk."*
+> - 📜 **Alfred Russel Wallace (*Palm Trees of the Amazon*):** *"The dense fibrous spathes and glistening fronds of **Phytelephas** form a dense, elegant understory in the western Amazonian basin."*

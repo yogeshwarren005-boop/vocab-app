@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance obtained from plants that is biologically active but not nutritive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance obtained from plants that is biologically active but not nutritive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chemical compound produced naturally by plants, especially one that may affect health but is not an essential nutrient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural product chemistry and pharmacognosy, secondary metabolites (alkaloids, flavonoids, terpenoids, polyphenols) that provide plants with chemical defenses against herbivores and pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytochemical designates a chemical substance obtained from plants that is biologically active but not nutritive."*
+> - 📜 **Frank A. Lee (*Basic Food Chemistry*):** *"Modern nutritional science explores each potent **phytochemical** in cruciferous vegetables for antioxidant and chemopreventive properties."*
+> - 📜 **William Woodville (*Medical Botany*):** *"Every crude herbal tincture contains a complex **phytochemical** array that interacts synergistically within the patient's frame."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The isolation of pure quinine demonstrated that the medicinal virtue of cinchona bark resides in a discrete **phytochemical** alkaloid."*

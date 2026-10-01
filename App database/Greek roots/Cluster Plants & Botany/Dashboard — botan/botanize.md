@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collect and study plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Collect and study plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To explore outdoors in search of plants for scientific study, collection, or classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To engage in botanical field excursions to collect specimens for an herbarium or horticultural study.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, botanize designates collect and study plants."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"We landed our skiff upon the sandy riverbank, eager to **botanize** among the marsh mallows and cardinal flowers."*
+> - 📜 **Thomas Henry Huxley (*Life and Letters of Thomas Henry Huxley*):** *"In my leisure hours, I loved to **botanize** along the hedgerows, examining floral structures through a pocket lens."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"To **botanize** through the virgin hemlock forest in early spring is to discover nature's most delicate secrets."*

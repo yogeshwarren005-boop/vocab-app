@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ascribe human features to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe human features to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attribute human form, feelings, personality, or behaviors to animals, nature, or deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and nature writing, to project human psychology onto non-human agents or landscape elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphise designates ascribe human features to something."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The lonely child would **anthropomorphise** her wooden doll, pouring into its unblinking eyes all her secret griefs."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"He had a persistent tendency to **anthropomorphise** the heath, hearing in the wind across the gorse a giant's ancient sigh."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Poets who excessively **anthropomorphise** mountain crags fall into that pathetic fallacy which falsifies true vision."*

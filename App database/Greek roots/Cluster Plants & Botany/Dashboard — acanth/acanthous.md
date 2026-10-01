@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a spine or thorn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a spine or thorn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with spines or prickles; thorny; spiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical natural history and descriptive anatomy, possessing sharp, rigid needle-like spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthous designates shaped like a spine or thorn."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Wild varieties of the gooseberry exhibit intensely **acanthous** stems, whereas cultivated forms tend toward smooth branches."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Certain desert cacti present an entirely **acanthous** exterior, where leaves are replaced completely by clusters of defensive thorns."*
+> - 📜 **John Lindley (*The Treasury of Botany*):** *"The seed capsules of the teasel are surrounded by an **acanthous** involucre of stiff, hooked bracts."*

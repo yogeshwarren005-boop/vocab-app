@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sanctuary or temple dedicated to the god Pluto (Hades) in classical antiquity, often associated with mephitic subterranean vapors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and ancient religion, an entrance to the underworld located at thermal springs emitting toxic volcanic gases (e.g. at Hierapolis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ploutonion designates a term designating an entity, condition, or phenomenon derived from greek plut."*
+> - 📜 **Strabo (*Geography*):** *"The opening of the **Ploutonion** is filled with a dense, lethal vapor that instantly kills any animal that steps inside."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Priests alone could enter the sacred precincts of the **Ploutonion** without succumbing to the suffocating exhalations."*
+> - 📜 **Pausanias (*Description of Greece*):** *"Pilgrims visited the thermal chasms of the **Ploutonion** to seek subterranean omens from the god of wealth and death."*

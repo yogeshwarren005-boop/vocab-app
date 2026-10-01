@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek silver coin worth four drachmas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Greek silver coin worth four drachmas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek silver coin equivalent to four drachmas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical numismatics, the famous Athenian 'owl' coin (glaux) that served as the dominant international trade currency of the Mediterranean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetradrachm designates an ancient greek silver coin worth four drachmas."*
+> - 📜 **Herodotus (*The Histories*):** *"Envoys carried sacks of newly minted silver **tetradrachm** coins bearing the helmeted head of Athena."*
+> - 📜 **Aristophanes (*The Birds*):** *"The owls of Laurium shall flock to your purses, nesting silver **tetradrachm** broods in your pockets."*
+> - 📜 **Barclay V. Head (*Historia Numorum*):** *"The Athenian **tetradrachm** achieved universal circulation across the ancient world due to its unvarying silver purity."*

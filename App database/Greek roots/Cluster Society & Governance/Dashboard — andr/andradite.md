@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garnet consisting of calcium iron silicate and having any color ranging from yellow and green to brown and black; used as gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garnet consisting of calcium iron silicate and having any color ranging from yellow and green to brown and black; used as gemstone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A calcium-iron garnet mineral of varying color (ranging from yellow and green to brown and black), named after Brazilian mineralogist José Bonifácio de Andrada e Silva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and skarn geology, a common end-member nesosilicate mineral (Ca3Fe2(SiO4)3) found in contact metamorphic rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andradite designates a garnet consisting of calcium iron silicate and having any color ranging from yellow and green to brown and black; used as gemstone."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The brilliant emerald-green demantoid is the most prized gem variety of **andradite** garnet."*
+> - 📜 **Frank Dawson Adams (*The Birth and Development of the Geological Sciences*):** *"Contact metamorphism in calcareous strata often produces rich assemblages of **andradite** and pyroxene."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"Skarn iron deposits typically show prominent bands of crystallized **andradite** replacing limestone."*

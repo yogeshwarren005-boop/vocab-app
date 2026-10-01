@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader engaged in civil administration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person active in party politics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is professionally involved in politics, especially as a holder of or candidate for an elected office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often used pejoratively to imply a crafty, opportunist schemer who tailors convictions to electoral gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This might be the pate of a politician which this ass now o’er-offices, one that would circumvent God, might it not?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, look you, I am whipp’d and scourged with rods, Nettled, and stung with pismires, when I hear Of this vile politician, Bolingbroke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get thee glass eyes, And like a scurvy politician, seem To see the things thou dost not."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Whoever could make two ears of corn grow upon a spot where only one grew before would deserve better of mankind than the whole race of **politician**s."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Get thee glass eyes; And like a scurvy **politician**, seem To see the things thou dost not."*
+> - 📜 **Thomas Jefferson (*Letters of Thomas Jefferson*):** *"Whenever a man has cast a longing eye on offices, a rottenness begins in his conduct as a **politician**."*

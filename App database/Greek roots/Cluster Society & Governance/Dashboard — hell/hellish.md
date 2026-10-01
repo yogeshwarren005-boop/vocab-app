@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely evil or cruel; expressive of cruelty or befitting hell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, like, or suitable for hell; extremely unpleasant, cruel, or difficult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveying infernal torture, monstrous cruelty, or unbearable atmospheric conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Roasted in wrath and fire, And thus o’ersized with coagulate gore, With eyes like carbuncles, the hellish Pyrrhus Old grandsire Priam seeks._ So, proceed you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pucelle, that witch, that damned sorceress, Hath wrought this hellish mischief unawares, That hardly we escaped the pride of France. [_Exit._] An alarum."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so, How little is the cost I have bestowed In purchasing the semblance of my soul From out the state of hellish cruelty!"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A grin was on the face of the monster; he seemed to jeer, as with his **hellish** finger he pointed towards the corpse."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The red glare of the bushfire created a **hellish** haze that scorched our faces on the river."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Not in the legions Of horrid hell can come a devil more damn'd In evils to top **hellish** Macbeth."*

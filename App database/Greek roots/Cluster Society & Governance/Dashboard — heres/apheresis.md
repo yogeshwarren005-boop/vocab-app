@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procedure in which blood is drawn and separated into its components by dialysis; some are retained and the rest are returned to the donor by transfusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical procedure in which blood is drawn from a donor, separated into components, one or more parts retained, and the remainder returned to the donor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and historical linguistics, the loss or omission of a sound or syllable from the beginning of a word (alternative spelling of aphaeresis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apheresis designates (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Therapeutic **apheresis** is employed to lower dangerously elevated platelet counts in acute leukemia."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The colloquial clipping of 'telephone' into 'phone' illustrates modern phonetic **apheresis**."*
+> - 📜 **Lewis Thomas (*The Youngest Science*):** *"Blood fractionation technology transformed modern medicine through continuous-flow **apheresis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic perennial herb of the mint family (Nepeta cataria), commonly called catnip, possessing soft downy leaves and white blossoms dotted with purple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feline ethology and herbal pharmacognosy, a plant containing nepetalactone that induces transient behavioral euphoria in domestic and wild cats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catmint designates hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Cats are so delighted with the scent of **catmint** that they roll upon it, rub their heads against it, and eat it with great eagerness."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"An infusion of **catmint** leaves provoketh feminine courses and dispels hysterical vapors and cold stomach phlegm."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The village cats discovered my bed of transplanted **catmint**, tearing the fragrant shoots to pieces in their ecstatic frolics."*

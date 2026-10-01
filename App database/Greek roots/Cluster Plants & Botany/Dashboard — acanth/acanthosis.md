@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diffuse hypertrophy or abnormal thickening of the prickle-cell layer (stratum spinosum) of the epidermis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, a reactive epidermal change commonly seen in chronic dermatitis, psoriasis, and acanthosis nigricans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthosis designates an abnormal but benign thickening of the prickle-cell layer of the skin (as in psoriasis)."*
+> - 📜 **Paul Gerson Unna (*The Histopathology of the Diseases of the Skin*):** *"Chronic friction and chemical irritation produce marked **acanthosis**, with elongated rete ridges dipping into the dermis."*
+> - 📜 **William Allen Pusey (*The Principles and Practice of Dermatology*):** *"The velvety hyperpigmented plaques of **acanthosis** nigricans often correlate with profound insulin resistance."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Biopsy of the lesion confirmed prominent **acanthosis** without nuclear atypia, confirming its benign, reactive nature."*

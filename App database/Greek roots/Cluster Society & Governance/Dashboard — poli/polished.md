@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (a surface) shine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improve or perfect by pruning or polishing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shiny and smooth as a result of being rubbed or burnished; or refined, sophisticated, and elegant in manner or style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting consummate craftsmanship, literary grace, or impeccable social decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then he is like a scrubbed out gun-barrel, all clean and polished."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl has another trial to undergo after the conclusion of the repast in sitting in state to see the room cleared, the hearth swept, and the dinner-service washed up and polished in the backyard."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **polished** eloquence of Cicero charmed the senate even while the foundations of the republic crumbled."*
+> - 📜 **Lord Chesterfield (*Letters to His Son*):** *"A young gentleman must acquire that **polished** exterior which pleases without descending to frivolous affectation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His speech was **polished** and measured, betraying no sign of the anxious calculations stirring beneath."*

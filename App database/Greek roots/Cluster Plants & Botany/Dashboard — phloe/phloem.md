@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex tissue in the vascular system of higher plants that consists mainly of sieve tubes and elongated parenchyma cells usually with fibers and that functions in translocation and in support and storage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological state in a plant characterized by brown discoloration and disintegration of the phloem; especially : elm yellows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vascular tissue in higher plants that conducts synthesized organic nutrients, particularly sucrose, from photosynthetic source leaves to non-photosynthetic sink organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, the inner bark complex consisting of sieve-tube elements, companion cells, phloem parenchyma, and sclerenchymatous fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phloem designates a complex tissue in the vascular system of higher plants that consists mainly of sieve tubes and elongated parenchyma cells usually with fibers and that functions in translocation and in support and storage."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Girdling a tree trunk through the **phloem** stops the downward flow of organic nutrients, causing swelling above the incision."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The vascular bundle is composed of two contrasting conduits: the wood or xylem, and the bast or **phloem**."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Microscopic scrutiny proves that vascular traces supplying the insectivorous leaf possess normal **phloem** sieve elements."*

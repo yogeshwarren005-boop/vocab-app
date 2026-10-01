@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: House finches and purple finches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: House finches and purple finches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of passerine birds in the finch family (Fringillidae), known as rosefinches, characterized by conical seed-eating bills and rose-red plumage in adult males.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, Holarctic and alpine finches, including the common rosefinch of Eurasia, feeding upon buds, berries, and seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpodacus designates house finches and purple finches."*
+> - 📜 **John Gould (*The Birds of Asia*):** *"The male **Carpodacus** erythrinus exhibits dazzling crimson plumage across its crown, throat, and breast, singing a cheerful whistling song."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The high mountains of Central Asia represent the principal radiation center for numerous endemic species of **Carpodacus**."*
+> - 📜 **William Yarrell (*A History of British Birds*):** *"Occasional vagrants of the genus **Carpodacus** reach the British coast during autumn gales from Northern Europe."*

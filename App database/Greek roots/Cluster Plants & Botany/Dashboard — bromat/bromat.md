@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bromat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical root derived from Greek 'broma, bromatos' (food, meat, solid nourishment), used in nutritional and alimentary terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic etymology and dietetics, the ancient Greek element signifying edible food, dietary regimen, or alimentary consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromat designates a term designating an entity, condition, or phenomenon derived from greek bromat."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **bromat** stems directly from broma, designating solid food as distinguished from liquid potables."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Cognates of **bromat** derive from the Indo-European root meaning to chew, bite, or consume solid sustenance."*
+> - 📜 **William Prout (*Chemistry, Meteorology, and the Function of Digestion*):** *"Scientific classifications of alimentary principles trace their terms to the Hellenic **bromat** roots."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) feeding on plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) feeding on plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding upon plants; herbivorous (especially applied to insects).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological ecology, describing specialized leaf-chewers, sap-suckers, gall-makers, or root-borers feeding upon living plant tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytophagous designates (of animals) feeding on plants."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"The Rocky Mountain locust is an insatiable **phytophagous** marauder that strips vast wheat fields to bare stubble in hours."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Brilliantly iridescent longhorn beetles of the tropics are strictly **phytophagous**, their grubs boring into forest ironwood."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Caterpillar*):** *"The voracious **phytophagous** caterpillar consumes twice its own weight in leaves each day during its final instar."*

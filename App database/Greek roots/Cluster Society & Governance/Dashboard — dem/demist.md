@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from mist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from mist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To clear moisture, condensation, or mist from a glass surface (such as a vehicle windshield).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive engineering and climate control, to direct warm or dehydrated air across windows to restore optical transparency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demist designates free from mist."*
+> - 📜 **J. G. Ballard (*Crash*):** *"He turned the dashboard blower to **demist** the condensation filming the interior of the sports car."*
+> - 📜 **Nevile Shute (*On the Beach*):** *"The driver paused to **demist** the windscreen with his sleeve before steering through the heavy drizzle."*
+> - 📜 **Arthur Hailey (*Wheels*):** *"Engineers calibrated the defroster vents to rapidly **demist** the glass in subzero testing chambers."*

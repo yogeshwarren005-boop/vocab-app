@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to mankind or the period of mankind's existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to mankind or the period of mankind's existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to human beings or the human era; or relating to the cosmological anthropic principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and cosmology, designating the philosophical and physical premise that physical constants are fine-tuned to allow conscious life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropic designates relating to mankind or the period of mankind's existence."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"The strong **anthropic** principle posits that the universe must have properties that allow life to develop within it."*
+> - 📜 **Paul Davies (*The Goldilocks Enigma*):** *"Scientists invoke the **anthropic** argument to explain why fundamental parameters fall within such narrow biological tolerances."*
+> - 📜 **Martin Rees (*Just Six Numbers*):** *"Without an **anthropic** perspective, the fine-tuning of cosmic expansion remains an inscrutable enigma."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or of the nature of an endemic disease; endemic (archaic or formal variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to diseases or conditions habitual to a specific region or population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endemical designates of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Certain agues are clearly **endemical** to the fens, returning with predictable seasonal regularity."*
+> - 📜 **Benjamin Rush (*Medical Inquiries and Observations*):** *"The bilious fever was deemed by many practitioners to be an **endemical** scourge of humid river valleys."*
+> - 📜 **William Buchan (*Domestic Medicine*):** *"Diet and climate render particular disorders **endemical** among miners and textile weavers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: California evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: California evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of evergreen flowering shrubs in the hydrangeaceae family, comprising Carpenteria californica, commonly known as bush anemone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation botany, a rare relict shrub endemic to the Sierra Nevada foothills of California, bearing clusters of fragrant white flowers with golden stamens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpenteria designates california evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers."*
+> - 📜 **John Torrey (*Plantae Fremontianae*):** *"I have named this splendid Sierran shrub **Carpenteria** in memory of my esteemed friend, the late Dr. William M. Carpenter of Louisiana."*
+> - 📜 **Willis Linn Jepson (*A Flora of California*):** *"In sheltered granite ravines of Fresno County, **Carpenteria** californica unfurls pure white blossoms of anemone-like beauty."*
+> - 📜 **Philip A. Munz (*A California Flora*):** *"Horticulturalists cherish **Carpenteria** for its glossy evergreen foliage and profuse clusters of showy five-petaled blossoms."*

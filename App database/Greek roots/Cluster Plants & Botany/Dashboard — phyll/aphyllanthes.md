@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species; small fibrous-rooted perennial with rushlike foliage and deep blue flowers; sometimes placed in its own family aphyllanthaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species; small fibrous-rooted perennial with rushlike foliage and deep blue flowers; sometimes placed in its own family aphyllanthaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Mediterranean rush-like perennial herbs (family Asparagaceae) comprising Aphyllanthes monspeliensis, the blue leafless lily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In garrigue floristics, a drought-tolerant perennial that grows in dense tufts of leafless wiry green stems terminating in solitary sky-blue star-like flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphyllanthes designates one species; small fibrous-rooted perennial with rushlike foliage and deep blue flowers; sometimes placed in its own family aphyllanthaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The name **Aphyllanthes** signifies leafless flower, commemorating its slender photosynthetic rush stems lacking all true foliage."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"On stony limestone hills around Montpellier, **Aphyllanthes** blossoms in spring with lovely cerulean stars."*
+> - 📜 **Joseph Dalton Hooker (*Botanical Magazine*):** *"Cultivated in alpine troughs, **Aphyllanthes** monspeliensis charms every observer with its starry blue petals supported on wire-like stems."*

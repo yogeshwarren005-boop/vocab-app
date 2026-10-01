@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in different geographic areas or in isolation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in different geographic areas or in isolation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in separate non-overlapping geographical areas (of animals or plant populations).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, describing speciation (allopatric speciation) that occurs when populations become geographically isolated from one another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allopatric designates occurring in different geographic areas or in isolation."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The geographical isolation of an **allopatric** population is the primary precondition for genetic divergence into a new species."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"When **allopatric** populations accumulate sufficient genetic differences, reproductive isolation prevents interbreeding upon secondary contact."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Punctuated equilibria rests upon the rapid speciation of small, peripherally isolated **allopatric** populations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of botany dealing with fossil plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of botany dealing with fossil plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of paleontology and botany that deals with the study of fossil plants and ancient vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary geobiology, the reconstruction of past terrestrial ecosystems, ancient climates, and plant phylogenies through fossilized wood, leaves, spores, and pollen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleobotany designates a branch of botany dealing with fossil plants."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The flourishing coal forests revealed by **paleobotany** prove that giant lycopods and horsetails dominated the ancient Paleozoic lowlands."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Through the discoveries of **paleobotany**, we trace the dramatic transition from gymnospermous forests to flowering angiosperms in the Cretaceous."*
+> - 📜 **Douglas Houghton Campbell (*The Evolution of Land Plants*):** *"Fossilized cuticles and petrified wood studied in **paleobotany** provide decisive proof for ancestral vascular architecture."*

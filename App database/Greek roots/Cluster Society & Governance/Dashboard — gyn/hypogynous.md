@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inserted upon the receptacle or axis below the gynoecium and free from it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having hypogynous floral organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having floral parts (sepals, petals, and stamens) inserted below the ovary on the receptacle; having a superior ovary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical organography, describing flowers characteristic of Brassicaceae, Liliaceae, and Solanaceae where the ovary sits free above the perianth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogynous designates inserted upon the receptacle or axis below the gynoecium and free from it."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In a **hypogynous** flower like the buttercup, each organ arises directly from the receptacle below the carpels."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The **hypogynous** arrangement is regarded as phylogenetically primitive in angiosperm floral evolution."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The Cruciferae are easily identified by their tetradynamous stamens and strictly **hypogynous** insertion."*

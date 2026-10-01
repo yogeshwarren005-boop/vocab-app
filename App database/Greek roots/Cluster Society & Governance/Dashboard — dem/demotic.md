@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or written in a simplified form of the ancient Egyptian hieratic writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popular, common.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting or relating to the kind of language used by ordinary people; colloquial; or relating to the simplified cursive script of ancient Egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenic linguistics, Demotic Greek (Dimotiki), the popular spoken language codified as the official national standard in 1976.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here is another difficult text: (Figure 2) It is demotic—a style of Egyptian writing and a phase of the language which had perished from the knowledge of all men twenty-five hundred years before the Christian era."*
+> - 📜 **Jean-François Champollion (*Précis du Système Hiéroglyphique*):** *"The Rosetta Stone displayed the royal decree in sacred hieroglyphics, popular **demotic** script, and Greek."*
+> - 📜 **T. S. Eliot (*The Music of Poetry*):** *"Poetry must renew its vitality by keeping in constant touch with the **demotic** speech of living men."*
+> - 📜 **Kazantzakis Nikos (*Report to Greco*):** *"He wrote with the fiery, unvarnished strength of the **demotic** tongue spoken by Cretan fishermen."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small hemipteran predatory insects known as minute pirate bugs or flower bugs, commonly found in blossoms and foliage preying on small pests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology and biological control, voracious beneficial predators that consume spider mites, thrips, aphids, and insect eggs in agricultural crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Anthocoridae designates a term designating an entity, condition, or phenomenon derived from greek anth."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"Members of the **Anthocoridae** patrol flowering orchard canopies, piercing destructive aphids with their predatory rostra."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The **Anthocoridae** are minute, flattened bugs frequently found in blossoms where they suck the juices of thrips and pollen."*
+> - 📜 **Charles Valentine Riley (*Insect Life*):** *"Farmers benefit greatly from the unchecked predation of **Anthocoridae** upon scale insects and overwintering moth eggs."*

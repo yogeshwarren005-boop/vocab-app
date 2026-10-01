@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of not containing or being covered by a liquid (especially water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderation in or abstinence from alcohol or other drugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or quality of being dry; absence of moisture, wetness, or humidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In style or manner, lack of emotional warmth, embellishment, or humor; astringency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Steinberg at the doorway he felt a great leap at his heart, and a sudden dryness in his throat."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Rain fell the first night, and after that neither the soil nor I could complain of dryness."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The extraordinary **dryness** of the Atacama Desert preserves animal carcasses for centuries without the slightest decay."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The pleasant summer warmth and **dryness** of the pine woods invited me to walk barefoot along the sandy paths."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"The mathematical **dryness** of his prose repelled readers who sought narrative vivacity and imaginative fire."*

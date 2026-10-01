@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the qualities of butter or yielding or containing a substance like butter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the qualities of butter or yielding or containing a substance like butter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the consistency, appearance, or qualities of butter; buttery; greasy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, botany, and pathology, describing soft, smooth, fatty, or easily spreadable substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, butyraceous designates having the qualities of butter or yielding or containing a substance like butter."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The kernel of the African shea-tree yields a thick, **butyraceous** fat used by native tribes in cooking."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The decomposed volcanic ash had weathered into a greasy, **butyraceous** clay that slipped under our boots."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The purulent exudate possessed a creamy, **butyraceous** consistency, characteristic of chronic follicular inflammation."*

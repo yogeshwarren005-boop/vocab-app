@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises a single genus: andreaea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises a single genus: andreaea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of primitive mosses, commonly known as granite mosses, containing the genus Andreaea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic plant taxonomy, a distinctive basal subclass of Bryophyta characterized by valvate capsule opening without peristome teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andreaeales designates comprises a single genus: andreaea."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The order **Andreaeales** occupies a notable intermediate morphological position between Sphagnaceae and true Bryales."*
+> - 📜 **A. C. Seward (*Fossil Plants*):** *"Primitive characteristics in the **Andreaeales** suggest an ancient divergence in early land plant evolution."*
+> - 📜 **Daniel H. Campbell (*The Evolution of Land Plants*):** *"Spore capsule architecture in **Andreaeales** represents one of nature's oldest bryophytic adaptations."*

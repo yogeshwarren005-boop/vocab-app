@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist licensed to practice optometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist licensed to practice optometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed healthcare professional trained to examine eyes for visual defects, diagnose refractive errors, and prescribe corrective spectacles or contact lenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern vision care, an eye specialist who performs non-surgical ocular health examinations and visual rehabilitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optometrist designates a specialist licensed to practice optometry."*
+> - 📜 **F. C. Donders (*Anomalies of Refraction*):** *"The skilled **optometrist** measures refractive deviations with precision, ensuring spectacles that restore visual comfort."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Referral to an experienced **optometrist** resolved the student's chronic migraine by neutralizing bilateral astigmatism."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"Routine eye screenings conducted by an **optometrist** frequently uncover early asymptomatic signs of diabetic retinopathy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the same kind but situated opposite, exerting energy in the opposite direction, or pursuing an opposite policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is opposite in kind to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and botanical root derived from Greek 'anthos' (flower, blossom), used widely in biological, literary, and chemical terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and etymology, the root underlying terms for flowers, inflorescences, floral pigments (anthocyanins), and literary collections (anthologies).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anth designates of the same kind but situated opposite, exerting energy in the opposite direction, or pursuing an opposite policy."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The root **anth** derives from anthos, signifying flower, bloom, or the finest and brightest part of any substance."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The botanical component **anth** refers strictly to the floral organ wherein seed conception and nectar secretion occur."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Indo-European cognates of **anth** point to ancient verbal roots meaning to sprout, burst forth, or blossom."*

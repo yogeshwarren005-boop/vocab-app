@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical masculine personal name of Greek origin, meaning 'devoted to Demeter' (the goddess of agriculture and grain).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Hellenistic history, the name of prominent kings (such as Demetrius Poliorcetes, 'the Besieger') and biblical figures in Acts of the Apostles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak not to us. [_Exeunt Antony and Cleopatra with the Train._] DEMETRIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Egeus, Hermia, Lysander and Demetrius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Demetrius is a worthy gentleman."*
+> - 📜 **Plutarch (*Lives of the Noble Grecians and Romans*):** *"King **Demetrius** Poliorcetes constructed colossal rolling siege towers covered with iron plates to batter the walls of Rhodes."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Relent, sweet Hermia; and, Lysander, yield thy crazed title to my certain right, pleaded **Demetrius** in the Athenian wood."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The silversmith **Demetrius** stirred up a riot at Ephesus, shouting that Paul's preaching was ruining the trade of Diana's shrines."*

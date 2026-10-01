@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a meritocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a meritocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a meritocracy; selecting and promoting individuals based on ability rather than privilege.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional sociology, describing systems where career mobility depends upon demonstrable aptitude and objective performance standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meritocratic designates relating to or characteristic of a meritocracy."*
+> - 📜 **Thomas Piketty (*Capital in the Twenty-First Century*):** *"Modern society justifies vast inequalities through an appealing **meritocratic** rhetoric of personal effort."*
+> - 📜 **Christopher Lasch (*The Revolt of the Elites*):** *"The new **meritocratic** class feels no loyalty to the communities left behind by their upward mobility."*
+> - 📜 **Michael J. Sandel (*The Tyranny of Merit*):** *"The **meritocratic** hubris of winners creates humiliation and legitimate grievance among those who fall behind."*

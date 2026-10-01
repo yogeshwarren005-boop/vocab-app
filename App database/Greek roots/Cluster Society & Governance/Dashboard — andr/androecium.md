@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male gametoecium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male gametoecium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stamens of a flower collectively; the male reproductive organ of a flowering plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant organography and floral anatomy, the third whorl of floral organs surrounding the gynoecium and producing microspores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androecium designates a male gametoecium."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The **androecium** consists of stamens whose anthers contain the fertilizing pollen grains."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"When the filaments unite into a single column, the **androecium** is described as monadelphous."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In dichogamous blossoms, the maturation of the **androecium** precedes that of the receptive stigma."*

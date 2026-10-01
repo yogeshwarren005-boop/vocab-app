@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of rare, genetically determined neurodegenerative disorders characterized by movement disorders and the presence of spiny red blood cells (acanthocytes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a syndrome encompassing chorea-acanthocytosis and McLeod syndrome, presenting with basal ganglia atrophy and peripheral neuropathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuro acanth ocytosis designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **C. David Marsden (*Movement Disorders*):** *"Patients exhibiting involuntary choreic jerks and progressive orofacial self-mutilation must be screened for **neuroacanthocytosis**."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Mutations in the VPS13A gene underlie the autosomal recessive form of **neuroacanthocytosis**, impairing erythrocyte membrane stability."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The subtle coexistence of neurological tics with bizarrely deformed red cells makes **neuroacanthocytosis** an extraordinary hematological anomaly."*

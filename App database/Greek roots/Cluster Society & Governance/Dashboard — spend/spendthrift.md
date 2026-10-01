@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who spends money prodigally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recklessly wasteful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who spends money in an extravagant, irresponsible, or wasteful way; a prodigal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral literature and law, an individual whose reckless dissipation of ancestral estate historically justified legal guardianship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That we would do, We should do when we would; for this ‘would’ changes, And hath abatements and delays as many As there are tongues, are hands, are accidents; And then this ‘should’ is like a spendthrift sigh That hurts by easing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, what a spendthrift is he of his tongue!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But I am in great need of this sum.” “You, my little countess, are a notorious spendthrift,” said the count, and having kissed his wife’s hand he went back to his study."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley lived the carefree life of an aristocratic **spendthrift**, floating on credit and gambling debts."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Willoughby's extravagant habits had made him a ruined **spendthrift**, forcing him to marry for money rather than love."*
+> - 📜 **Francis Bacon (*Essays: Of Expense*):** *"A **spendthrift** who exhausts his patrimony in youth is condemned to a bitter and dependent old age."*

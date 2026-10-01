@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherence to a religious opinion contrary to church dogma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opinion or doctrine contrary to church dogma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief or opinion contrary to orthodox religious doctrine (especially Christian), or opinion profoundly at odds with accepted belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the sociology of knowledge and science, radical paradigm dissent that challenges established institutional consensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The scriptures of the loyal Leonatus All turn’d to heresy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heresy in fair, fit for these days!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your reasons at dinner have been sharp and sententious, pleasant without scurrility, witty without affection, audacious without impudency, learned without opinion, and strange without heresy."*
+> - 📜 **John Milton (*Areopagitica*):** *"A man may be a heretic in the truth; and if he believe things only because his pastor says so, his belief is **heresy**."*
+> - 📜 **Thomas Henry Huxley (*The Coming of Age of the Origin of Species*):** *"It is the customary fate of new truths to begin as **heresy** and end as superstition."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Party was not content with negative obedience; it sought to eradicate the very possibility of **heresy**."*

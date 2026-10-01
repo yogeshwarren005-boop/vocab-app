@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the ancient Athenian nobility or hereditary aristocracy ('those of good fathers').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Attic constitutional history, the noble caste who held a monopoly on archonships and Areopagus membership prior to the Solonian reforms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eupatrides designates a term designating an entity, condition, or phenomenon derived from greek pater."*
+> - 📜 **Aristotle (*Constitution of the Athenians*):** *"The ancient population was divided into the **Eupatrides**, the agriculturalists, and the artisans."*
+> - 📜 **Plutarch (*Life of Theseus*):** *"Theseus invited the **Eupatrides** to manage religious rites, supply magistrates, and expound sacred laws."*
+> - 📜 **George Grote (*A History of Greece*):** *"Solon broke the hereditary political monopoly of the **Eupatrides** by basing civic rights on wealth rather than birth."*

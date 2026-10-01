@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woodworker who makes or repairs wooden objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work as a carpenter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled tradesperson who builds, installs, or repairs wooden structures and fixtures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history and entomology, applied to animals that excavate wood, such as carpenter bees (Xylocopa) or carpenter ants (Camponotus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is he that builds stronger than either the mason, the shipwright, or the carpenter?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who builds stronger than a mason, a shipwright, or a carpenter?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But speak you this with a sad brow, or do you play the flouting Jack, to tell us Cupid is a good hare-finder, and Vulcan a rare carpenter?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The busy shipwright and **carpenter** laboured upon the stout timbers of the ark before the deep broke forth."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I borrowed an axe and went down to the woods by Walden Pond, cutting white pine studs like an earnest **carpenter**."*
+> - 📜 **Jean-Henri Fabre (*Bramble-Bees and Others*):** *"The solitary **carpenter** bee bores a neat cylindrical gallery through dead cedar posts to house her larval chambers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bromat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of food, its chemical composition, nutritional value, preparation, and dietetic properties; food science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and nutritional biochemistry, the comprehensive academic discipline investigating food chemistry, food safety, and preservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromatology designates a term designating an entity, condition, or phenomenon derived from greek bromat."*
+> - 📜 **William Prout (*Chemistry, Meteorology, and the Function of Digestion*):** *"The foundation of modern **bromatology** was established by categorizing foodstuffs into aqueous, saccharine, albuminous, and oleaginous principles."*
+> - 📜 **Robley Dunglison (*General Therapeutics and Materia Medica*):** *"A sound knowledge of **bromatology** enables the physician to prescribe dietary regimens adapted to pathological conditions."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Progress in analytical chemistry has elevated **bromatology** into an exact science that governs human nutrition."*

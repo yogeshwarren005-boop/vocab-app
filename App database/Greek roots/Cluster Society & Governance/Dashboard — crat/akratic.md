@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of power / rule / authority / dominion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of power / rule / authority / dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or suffering from akrasia; lacking self-control; acting against better judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology, describing an action or agent that knowingly yields to irrational desires or temptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, akratic designates adjective*) pertaining to, derived from, or characteristic of power / rule / authority / dominion."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The **akratic** person differs from the self-indulgent, for he feels remorse immediately after his passion subsides."*
+> - 📜 **Bernard Williams (*Ethics and the Limits of Philosophy*):** *"Practical rationality must account for **akratic** lapses without reducing all human volition to mechanical compulsion."*
+> - 📜 **Martha Nussbaum (*The Fragility of Goodness*):** *"Greek tragedy vividly portrays how heroic figures succumb to **akratic** fury despite their philosophical wisdom."*

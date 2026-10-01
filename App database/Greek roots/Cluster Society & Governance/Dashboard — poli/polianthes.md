@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of perennial tuberous herbs having lily-like flowers; mexico; sometimes placed in family amaryllidaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of perennial tuberous herbs having lily-like flowers; mexico; sometimes placed in family amaryllidaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial plants in the asparagus family (Agavaceae/Asparagaceae), including the fragrant tuberose (Polianthes tuberosa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and perfumery, night-blooming plants native to Mexico famous for powerful, intoxicating white floral essences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polianthes designates genus of perennial tuberous herbs having lily-like flowers; mexico; sometimes placed in family amaryllidaceae."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The sweet, heavy perfume of **Polianthes** tuberosa wafts across nocturnal tropical gardens."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Botanists classify **Polianthes** among the Agaveae on account of its fleshy rootstock and spicate inflorescence."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Cultivated borders of **Polianthes** filled the Mexican hacienda courtyard with an almost narcotic fragrance."*

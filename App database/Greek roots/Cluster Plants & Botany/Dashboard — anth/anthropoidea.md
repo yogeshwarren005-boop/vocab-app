@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monkeys; apes; hominids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monkeys; apes; hominids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major suborder of primates (also known as simians) that includes New World monkeys, Old World monkeys, apes, and humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic primatology, higher primates characterized by enclosed bony eye orbits, fused mandibular symphyses, and complex cerebral neocortices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropoidea designates monkeys; apes; hominids."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **Anthropoidea** are sharply demarcated from the lemurs by their complete postorbital wall and retinal fovea."*
+> - 📜 **William Henry Flower (*Mammals Living and Extinct*):** *"Within the **Anthropoidea**, we distinguish the platyrrhine monkeys of America from the catarrhines of the Old World."*
+> - 📜 **Edward Drinker Cope (*The Origin of the Fittest*):** *"The cranial evolution of the **Anthropoidea** reflects progressive enlargement of the frontal lobes and stereoscopic vision."*

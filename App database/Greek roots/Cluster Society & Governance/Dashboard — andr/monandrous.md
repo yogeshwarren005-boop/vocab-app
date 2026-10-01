@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one husband at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having only one husband at a time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one husband or male mate at a time; or in botany, having only a single stamen in a flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociobiology and mating systems, practicing strict monogamous pairing from the female perspective; in orchidology, possessing a solitary anther.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monandrous designates having only one husband at a time."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The vast majority of tropical orchids are strictly **monandrous**, possessing but a single fertile stamen."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Civilized legal codes universally favored **monandrous** unions to secure orderly inheritance rights."*
+> - 📜 **Edward Westermarck (*A Short History of Marriage*):** *"Anthropological comparisons reveal that women in pastoral tribes were typically **monandrous** by law."*

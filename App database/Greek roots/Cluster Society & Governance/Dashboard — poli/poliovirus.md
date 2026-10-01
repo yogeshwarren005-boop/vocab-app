@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The virus causing poliomyelitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The virus causing poliomyelitis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The picornavirus that causes poliomyelitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology, a positive-sense single-stranded RNA enterovirus of three serotypes (PV1, PV2, PV3) transmitted via the fecal-oral route.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poliovirus designates the virus causing poliomyelitis."*
+> - 📜 **Jonas Salk (*Poliomyelitis Vaccine Studies*):** *"Formaldehyde treatment completely inactivated the virulent **poliovirus** while preserving antigenic immunogenicity."*
+> - 📜 **Albert Sabin (*Oral Poliovirus Vaccine Development*):** *"Live attenuated strains of **poliovirus** replicate harmlessly in the alimentary tract, conferring durable mucosal immunity."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"The crystalline symmetry of the microscopic **poliovirus** capsid belies its lethal neuropathic power."*

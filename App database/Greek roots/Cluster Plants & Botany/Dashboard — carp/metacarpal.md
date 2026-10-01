@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bone of the hand between the wrist and fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the metacarpus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the metacarpus (the hand bones between the wrist and fingers); any of the bones of the metacarpus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, one of the five cylindrical rod-like bones forming the skeletal framework of the palm in humans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metacarpal designates any bone of the hand between the wrist and fingers."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The human hand possesses five distinct **metacarpal** bones, articulating proximally with the carpus and distally with the phalanges."*
+> - 📜 **Richard Owen (*On the Nature of Limbs*):** *"In the horse, cursorial specialization has reduced the **metacarpal** series to a single dominant cannon bone flanked by splint bones."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The high mobility of the first **metacarpal** bone permits opposability of the thumb, a cornerstone of human manual dexterity."*

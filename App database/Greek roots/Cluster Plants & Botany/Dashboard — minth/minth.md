@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek minth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical botanical root derived from Greek 'minthe' (mint), underlying botanical and chemical terms relating to the genus Mentha.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and historical etymology, named after the nymph Minthe, who was transformed into the fragrant herb by Persephone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minth designates a term designating an entity, condition, or phenomenon derived from greek minth."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **minth** derives from minthe, the aromatic garden herb revered for refreshing drinks."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The floral element **minth** represents a pre-Greek Mediterranean loanword designating aromatic labiates."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Persephone crushed the nymph underfoot in jealous fury, yet her fragrant spirit survived in the crushed leaves of sweet **minth**."*

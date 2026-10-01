@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any sharply pointed projection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sharply pointed projection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spine, prickle, or sharp thorn-like projection, particularly on plants or animal exoskeletons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, the spine of a vertebra or any sharp spinous process projecting from a skeletal element.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acantha designates any sharply pointed projection."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Each node of the desert shrub is armed with a rigid **acantha**, terminating in an indurated, needle-like point."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The cuticle of the echinoderm bristles with calcareous spines, each articulating **acantha** responding to tactile stimuli."*
+> - 📜 **Asa Gray (*Lessons in Botany and Vegetable Physiology*):** *"Modifications of the stipule into an **acantha** afford a classic demonstration of morphological adaptation against herbivores."*

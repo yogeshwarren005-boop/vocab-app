@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a polite manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a polite manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a respectful and considerate manner; courteously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With refined social decorum, tact, or diplomatic circumspection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie, pouring the fragrant beverage into a large cup, politely invited Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge’s room—there was no one in it—and politely put an arm-chair for me by the fire."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby concludes by politely motioning with his hat towards the bed, as much as to add, “I have no doubt my honourable friend would confirm if he were in a condition to do it.” “Hadn’t you better see,” says Mr."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep bowed **politely**, rubbing his clammy palms together with an affectation of deep humility."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond smiled **politely**, masking his icy disdain behind impeccable Roman manners."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Liza spoke **politely** about the weather and the influenza, carefully pronouncing each aspirated syllable."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who eats human flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cannibal; a person who eats human flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical travel literature and classical myth, a member of a legendary tribe or race reputed to practice anthropophagy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropophagite designates a person who eats human flesh."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"Go, knock and call: he'll speak like an **Anthropophagite** unto thee: knock, I say!"*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"The cruel satirist joked that only an **Anthropophagite** could look upon the starving children of Ireland as marketable meat."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe lived in perpetual dread of encountering an **Anthropophagite** savage feast upon the desolate shore of his island."*

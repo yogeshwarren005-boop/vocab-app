@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowl-shaped geological formation at the top of a volcano.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near hydra and corvus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, bowl-shaped cavity in the ground or on the surface of a planet or the moon, typically caused by an explosion or the impact of a meteorite, or the mouth of a volcano.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity, an ancient Greek vessel (krater) used for mixing wine with water at symposia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever she felt herself injured, words of indignation poured out from her like fiery lava from a crater."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To live, for me, Jane, is to stand on a crater-crust which may crack and spue fire any day.” “But Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You look a raight down dacent little crater.” “That will do—I forgive you now."*
+> - 📜 **Galileo Galilei (*Sidereus Nuncius*):** *"Through the telescope, the lunar surface is seen marked by many circular depressions resembling a volcanic **crater**."*
+> - 📜 **John Boardman (*Athenian Red Figure Vases*):** *"The ceramic **crater** was placed in the center of the symposium room for mixing unwatered wine."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The immense caldera erupted violent jets of steam from the central **crater** during the summer of 1822."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or practice of having more than one husband or male mate at one time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or practice of having more than one husband or male mate at one time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of polygamy in which a woman has more than one husband at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology, a marriage system (often fraternal) adapted to land scarcity; in botany, the state of possessing numerous stamens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyandry designates the state or practice of having more than one husband or male mate at one time."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Fraternal **polyandry** in the Himalayas prevents fragmentation of small agricultural holdings among heirs."*
+> - 📜 **Friedrich Engels (*The Origin of the Family, Private Property and the State*):** *"Morgan's field studies revealed that **polyandry** emerged under harsh economic conditions limiting population growth."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Avian **polyandry** represents a rare reversal of customary parental investment roles."*

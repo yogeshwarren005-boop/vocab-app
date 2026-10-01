@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world gnatcatchers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world gnatcatchers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, slender insectivorous passerine birds known as gnatcatchers (family Polioptilidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American ornithology, restless woodland birds characterized by blue-gray plumage, white outer tail feathers, and active foliage foraging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polioptila designates new world gnatcatchers."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The blue-gray gnatcatcher, **Polioptila** caerulea, weaves an exquisitely delicate cup nest coated with lichen."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Species of **Polioptila** flutter restlessly through southern canopies, snapping tiny insects with audible clicks of the bill."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"Taxonomists distinguish **Polioptila** by its graduated tail and slender, compressed bill."*

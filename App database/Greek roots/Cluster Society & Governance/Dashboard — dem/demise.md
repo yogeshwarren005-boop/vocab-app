@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when something ends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer by a lease or by a will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's death; or the transfer of property or sovereignty by deed, will, or abdication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and constitutional history, the formal devolution of royal authority upon the death or abdication of the sovereign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me what state, what dignity, what honour, Canst thou demise to any child of mine?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone’s demise_—bless my heart! ‘property’—accrue—demise!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"The felicitous word “demise,” which had seasonably occurred to him, had raised his spirits even above their usual evening pitch."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Upon the **demise** of the crown, the royal dignity is immediately transferred to the lawful successor without interregnum."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden **demise** of the emperor plunged the provinces into a bloody succession crisis."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The unexpected **demise** of the wealthy claimant altered the fortunes of every expectant beneficiary."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring with a micrometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring with a micrometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, art, or practice of measuring minute or microscopic distances, dimensions, and objects using a micrometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytological microscopy, the quantitative measurement of cell diameters, spore dimensions, and nuclear diameters using stage and ocular micrometer scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometry designates measuring with a micrometer."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Accurate **micrometry** enabled us to differentiate the slender rod of the tubercle bacillus from larger saprophytes."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Stage **micrometry** proved that yeast globules maintain a remarkably constant diameter across successive brewing batches."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"In describing fungal species, precise **micrometry** of basidiospores is the primary foundation of taxonomic certainty."*

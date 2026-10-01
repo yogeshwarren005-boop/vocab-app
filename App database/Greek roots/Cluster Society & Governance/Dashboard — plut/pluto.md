@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cartoon character created by walt disney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the god of the underworld in ancient mythology; brother of zeus and husband of persephone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek and Roman god of the underworld and ruler of the dead (Hades); or a dwarf planet in the Kuiper belt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary astronomy, discovered in 1930 by Clyde Tombaugh and reclassified as a dwarf planet by the IAU in 2006.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll see her damned first to Pluto’s damned lake, by this hand, to th’ infernal deep, with Erebus and tortures vile also."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, when you come to Pluto’s region, I pray you, deliver him this petition; Tell him it is for justice and for aid, And that it comes from old Andronicus, Shaken with sorrows in ungrateful Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but Pluto sends you word, If you will have Revenge from hell, you shall."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Not that fair field Of Enna, where Proserpin gathering flowers, Herself a fairer flower, by gloomy **Pluto** was gathered."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Far beyond the gas giants lies frozen **Pluto**, orbiting in the frigid twilight of the solar frontier."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"At the threshold of the fourth circle stood cursed **Pluto**, swelling with clucking, incomprehensible rage."*

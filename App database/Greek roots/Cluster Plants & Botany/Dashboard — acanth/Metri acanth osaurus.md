@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of medium-sized theropod dinosaur from the Late Jurassic of England, named for its moderately elevated neural spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an allosauroid carnivore characterized by neural spines intermediate in height between typical theropods and sail-backed forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Metri acanth osaurus designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **Friedrich von Huene (*Carnivorous Saurischia of the Upper Jurassic*):** *"The holotype vertebrae were designated **Metriacanthosaurus** parkeri, reflecting the medium height of its dorsal neural spines."*
+> - 📜 **Alick Walker (*Triassic Reptiles from the Elgin Area*):** *"Comparisons between Megalosaurus and **Metriacanthosaurus** highlight the diagnostic value of axial spine elongation in Jurassic theropods."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*):** *"Phylogenetic revisions place **Metriacanthosaurus** within the Sinraptoridae, a lineage of predatory dinosaurs widespread across Eurasia."*

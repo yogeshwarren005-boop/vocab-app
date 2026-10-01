@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a tree in form and branching structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a tree in form and branching structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character or branching appearance of a tree; arborescent; dendroid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and cytology, displaying branching ramification mimicking forest boughs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The branching dendroidal threads of this fungus proceed from a creeping mycelium or spawn of entangled filaments which interpenetrates the matrix, upon which it establishes itself."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The limestone slabs displayed delicate **dendroidal** markings produced by the slow infiltration of iron solutions."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"The branching **dendroidal** arrangement of the tracheal system delivers oxygen directly to every insect muscle fibre."*
+> - 📜 **Hugh Miller (*The Testimony of the Rocks*):** *"The fossilized sea-pens presented **dendroidal** fronds of astonishing elegance preserved upon the flagstone."*

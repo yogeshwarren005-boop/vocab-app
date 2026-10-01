@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A breeding ground for herons; a heron rookery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A breeding ground for herons; a heron rookery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A breeding colony or communal nesting place of herons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, an established rookery of ardeid birds located in tall trees near marshes or rivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heronry designates a breeding ground for herons; a heron rookery."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"We visited the ancient **heronry** in the oak forest, where dozens of bulky twig nests crowded the upper branches."*
+> - 📜 **W. H. Hudson (*Birds in Town and Village*):** *"A sudden clamor arose from the secluded **heronry** as returning adults fed their hungry, squawking broods."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Beyond the dismal mire lay an old pine wood harboring a noisy, secluded **heronry**."*

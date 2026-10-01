@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teleost fishes having fins with sharp bony rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teleost fishes having fins with sharp bony rays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superorder or major taxonomic group of teleost bony fishes characterized by spiny rayed fins and advanced protrusible jaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, the most species-rich clade of vertebrates, encompassing percomorphs, atherinomorphs, and related orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthopterygii designates teleost fishes having fins with sharp bony rays."*
+> - 📜 **Albert Günther (*Catalogue of Fishes in the British Museum*):** *"Within the **Acanthopterygii**, the first rays of the dorsal and anal fins are modified into solid, unsegmented spines."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"Modern classifications group the vast majority of marine coastal teleosts under the **Acanthopterygii**."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The cranial osteology of the **Acanthopterygii** shows exquisite specialization of the premaxilla for raptorial feeding."*

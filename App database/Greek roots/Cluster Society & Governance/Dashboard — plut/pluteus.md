@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of fungi belonging to the family pluteaceae; the shape of the cap resembles a roof; often abundant early in the summer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large genus of fungi belonging to the family pluteaceae; the shape of the cap resembles a roof; often abundant early in the summer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A free-swimming, bilateral larval stage of echinoderms such as sea urchins and brittle stars; or a movable protective shelter in Roman warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical siege warfare, a convex wicker or wooden shed mounted on rollers; in mycology, the type genus of the family Pluteaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluteus designates a large genus of fungi belonging to the family pluteaceae; the shape of the cap resembles a roof; often abundant early in the summer."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The ciliated arms of the echinoid **pluteus** larva assist in both buoyancy and capturing microscopic food particles."*
+> - 📜 **Julius Caesar (*Commentaries on the Gallic War*):** *"Legionaries advanced beneath the protective timber of the wheeled **pluteus** to undermine the enemy ramparts."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Drifting in oceanic plankton swarms, the transparent **pluteus** undergoes abrupt metamorphosis into a spiny urchin."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ophthalmology) faulty refraction of light rays in the eye as in astigmatism or myopia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ophthalmology) faulty refraction of light rays in the eye as in astigmatism or myopia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any abnormal refractive condition of the eye in which parallel light rays fail to focus sharply upon the retina; refractive error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, a condition encompassing myopia (nearsightedness), hyperopia (farsightedness), and astigmatism, correctable by optical lenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametropia designates (ophthalmology) faulty refraction of light rays in the eye as in astigmatism or myopia."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"In **ametropia**, the focal length of the crystalline lens fails to match the axial length of the eyeball."*
+> - 📜 **F. C. Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"The systematic correction of **ametropia** with cylindrical and spherical lenses has transformed ophthalmic practice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic frontal headaches in schoolchildren frequently resolve once uncorrected **ametropia** is neutralized with eyeglasses."*

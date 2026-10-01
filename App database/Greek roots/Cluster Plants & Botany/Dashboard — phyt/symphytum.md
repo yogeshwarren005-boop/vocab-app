@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comfrey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comfrey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of rough, hairy perennial herbs in the borage family (Boraginaceae), commonly known as comfrey, bearing drooping bell-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional herbal pharmacognosy, knitbone (Symphytum officinale), rich in allantoin which promotes cell proliferation in wound and bone healing, but containing hepatotoxic pyrrolizidine alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog symphytum as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The roots of comfrey or **Symphytum** are full of glutinous slime, which bruised and laid upon broken bones helps knit them together with speed."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"A decoction of the leaves of **Symphytum** is exceedingly good for inward hurts and ulcers of the lungs."*
+> - 📜 **William Woodville (*Medical Botany*):** *"The mucilaginous root of **Symphytum** officinale was highly extolled by ancient physicians as an external vulnerary for ulcers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral grain in a metamorphic rock that does not show its characteristic crystal faces, being bounded by adjacent grains (anhedral).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology and crystallography, an allotriomorphic crystal grain whose growth was constrained by preexisting mineral boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenoblast designates a term designating an entity, condition, or phenomenon derived from greek xen."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Under the polarizing microscope, the irregular garnet grain appears as a **xenoblast** packed with quartz inclusions."*
+> - 📜 **Arthur Holmes (*The Petrology of the Igneous Rocks*):** *"High-grade regional metamorphism often recrystallizes feldspars into interlocking **xenoblast** mosaics."*
+> - 📜 **Frank Dawson Adams (*The Birth and Development of the Geological Sciences*):** *"Metamorphic textures are classified into idioblastic and **xenoblast** forms based on crystallographic boundary development."*

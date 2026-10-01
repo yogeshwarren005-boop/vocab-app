@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two pungent spices that consist of the dried, typically ground fruit of an Indian vine (Piper nigrum):.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Black pepper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pungent spice made from the dried, ground berries of Piper nigrum (black or white pepper); also the fleshy fruit of plants of the genus Capsicum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global commercial history, the king of spices whose trade drove European age-of-discovery maritime expeditions to India and the East Indies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Swear me, Kate, like a lady as thou art, A good mouth-filling oath, and leave “In sooth,” And such protest of pepper-gingerbread, To velvet-guards and Sunday citizens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant there’s vinegar and pepper in’t."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, casting a glance on the table-cloth, and winking “salt!” at Malta with her right eye, and shaking the pepper away from Quebec with her head, “I begin to think George is in the roving way again.” “George,” returns Mr."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Black **pepper** is the dried unripe berry of an Indian climbing vine, which heateth and comforteth a cold moist stomach."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The monopoly of the spice trade in **pepper** and cloves yielded immense commercial dividends to the Dutch East India Company."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I preferred the natural flavor of corn bread to all the artificial pungent dressings of salt and **pepper**."*

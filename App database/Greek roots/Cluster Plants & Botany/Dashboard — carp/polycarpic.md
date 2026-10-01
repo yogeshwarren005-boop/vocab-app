@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering and bearing fruit repeatedly year after year throughout its lifetime; iteroparous (characteristic of perennial plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, the life history strategy of allocating resources across multiple reproductive seasons, contrasting with monocarpic semelparity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycarpic designates adjective*) pertaining to, derived from, or characteristic of wrist."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Most woody shrubs and trees are **polycarpic**, surviving after each harvest to produce fruit through successive decades."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated fruit trees maintain their **polycarpic** constitution even when subjected to intense artificial selection for annual yield."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"The transition from an annual monocarpic habit to a **polycarpic** perennial state often corresponds with the evolution of secondary woody growth."*

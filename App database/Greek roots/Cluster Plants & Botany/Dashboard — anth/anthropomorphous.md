@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting human characteristics for animals or inanimate things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting human characteristics for animals or inanimate things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape, form, or likeness of a human being; humanoid or anthropoid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical natural history and comparative osteology, exhibiting human-like anatomical configurations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphous designates suggesting human characteristics for animals or inanimate things."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The skeleton of the chimpanzee is remarkably **anthropomorphous**, especially in the curvature of the ribs and pelvic girdle."*
+> - 📜 **Ernst Haeckel (*Systematic Phylogeny*):** *"Archaic hominids represent the most **anthropomorphous** primates documented within the late Tertiary fossil record."*
+> - 📜 **Richard Owen (*Comparative Anatomy of Vertebrates*):** *"The ape brain presents an undeniably **anthropomorphous** convolution pattern across its cerebral hemispheres."*

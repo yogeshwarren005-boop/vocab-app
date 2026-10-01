@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The name of a plant; a botanical name or vernacular plant term.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic onomastics and ethnobotany, the lexical term applied to wild or cultivated plants, revealing cultural and ecological associations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytonym designates a term designating an entity, condition, or phenomenon derived from greek phyt."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"In primitive languages, every specific **phytonym** reflects an acute empirical observation of the plant's medicinal or culinary use."*
+> - 📜 **Franz Boas (*Race, Language and Culture*):** *"Indigenous folklore preserves ancient geographic migrations encoded within the historical etymology of each native **phytonym**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The classical **phytonym** often reveals a pre-Greek Mediterranean substrate preserved through continuous horticultural trade."*

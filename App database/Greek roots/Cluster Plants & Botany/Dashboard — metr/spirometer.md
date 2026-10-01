@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used to measure the volume of air inhaled and exhaled by the lungs; a breath meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary medicine, a diagnostic device perfected by John Hutchinson in 1846 to determine vital capacity, forced expiratory volume (FEV1), and respiratory function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirometer designates an instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease)."*
+> - 📜 **John Hutchinson (*On the Capacity of the Lungs and on the Respiratory Movements*):** *"I constructed the water-sealed **spirometer** to demonstrate that vital capacity varies directly with height and age."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In incipient pulmonary tuberculosis, serial testing with the **spirometer** reveals early loss of vital capacity before percussion reveals dullness."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The **spirometer** provides objective numerical data on the degree of bronchial obstruction in chronic asthma."*

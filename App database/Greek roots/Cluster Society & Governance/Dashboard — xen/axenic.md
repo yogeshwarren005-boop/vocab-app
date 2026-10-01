@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from other living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from other living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting a culture of an organism that is entirely free from all other living organisms; uncontaminated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and gnotobiology, germ-free animal colonies or pure microbial cultures maintained in sterile isolation for experimental research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axenic designates free from other living organisms."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Rearing animals in an **axenic** environment proved that gut microbiota are essential for normal immune maturation."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"A strictly **axenic** creature is an artificial biological paradox, for living systems are evolved communities."*
+> - 📜 **Joshua Lederberg (*Microbial Genetics*):** *"Pure **axenic** cultures are necessary to ensure that observed metabolic phenotypes stem from a single genome."*

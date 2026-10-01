@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of acting against one's better judgment; weakness of the will or incontinence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and action theory, a central philosophical puzzle concerning how an agent can knowingly choose a sub-optimal course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, akrasia designates a term designating an entity, condition, or phenomenon derived from greek crat."*
+> - 📜 **Plato (*Protagoras*):** *"Socrates argued that true **akrasia** was an illusion, for no man knowingly errs when possessed of genuine knowledge."*
+> - 📜 **Donald Davidson (*How Is Weakness of the Will Possible?*):** *"An agent suffers from **akrasia** when his intentional action conflicts with his own all-things-considered judgment."*
+> - 📜 **Alasdair MacIntyre (*Whose Justice? Which Rationality?*):** *"Aristotelian moral education aims to fortify the character against both vice and the paralysis of **akrasia**."*

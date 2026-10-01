@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Codling moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Codling moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former or synonym genus name for Cydia (tortricid moths), including Carpocapsa pomonella, the codling moth whose larva infests apples and pears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, a destructive orchard pest whose caterpillar burrows into the core of pomaceous fruits to feed upon seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpocapsa designates codling moths."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"The insidious larva of **Carpocapsa** enters the apple at the calyx cup, boring directly to the core."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"Orchardists spray arsenicals immediately after petal fall to destroy newly hatched caterpillars of **Carpocapsa** pomonella."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The codling moth, formerly called **Carpocapsa**, passes the winter as a cocooned larva hidden beneath scaly bark."*

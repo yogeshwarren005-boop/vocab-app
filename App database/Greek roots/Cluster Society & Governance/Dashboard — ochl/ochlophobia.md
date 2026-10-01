@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ochl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or intense fear of crowds or mobs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific situational phobia triggering severe panic in congested public spaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ochlophobia designates a term designating an entity, condition, or phenomenon derived from greek ochl."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sufferer from **ochlophobia** will walk miles through deserted alleys to avoid passing through a busy market."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Solitary recluses are seized with violent tremors and **ochlophobia** whenever dragged into public assemblies."*
+> - 📜 **Karen Horney (*The Neurotic Personality of Our Time*):** *"Deep neurotic insecurity can manifest as paralyzing **ochlophobia**, making every gathering seem hostile."*

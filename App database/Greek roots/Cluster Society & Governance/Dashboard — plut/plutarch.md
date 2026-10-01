@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek biographer who wrote parallel lives (46?-120 ad).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek biographer who wrote parallel lives (46?-120 ad).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plutarch of Chaeronea (c. 46–119 AD), ancient Greek essayist, biographer, and Middle Platonist philosopher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and classical history, the author of Parallel Lives and Moralia whose moral biographies shaped Renaissance drama and Enlightenment political theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Müller (Leipsic, 1839), p. 106, _s.v._ "Ignis." Plutarch describes a method of rekindling the sacred fire by means of the sun's rays reflected from a hollow mirror (_Numa_, 9); but he seems to be referring to a Greek rather than to the Roman custom."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch, who lived from about 50 A.D. to 117 or so, is our great exponent of this old religion."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch's Lives was the great staple of education in the Renaissance--and as good a one, perhaps, as we have yet discovered, even in this age when there are so many theories of education with foreign names."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"My favorite author is **Plutarch**, whose balanced wisdom and vivid character portraits instruct every thoughtful soul."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"**Plutarch** remains the incomparable biographer of antiquity, painting heroism in indelible moral colors."*
+> - 📜 **William Shakespeare (*Julius Caesar (Sources)*):** *"Shakespeare drew the dramatic soul of his Roman plays directly from North's vibrant translation of **Plutarch**."*

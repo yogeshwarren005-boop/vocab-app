@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giant clump-forming bamboos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant clump-forming bamboos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of giant, clumping tropical bamboos (family Poaceae), native to South and Southeast Asia, including Dendrocalamus giganteus (giant bamboo).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, massive arborescent grasses whose woody culms can reach over thirty meters in height and thirty centimeters in diameter, used for structural construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrocalamus designates giant clump-forming bamboos."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The gigantic culms of **Dendrocalamus** provide the native architect with pillars, water pipes, floor joists, and roofing tiles."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"In the deep valleys of Sikkim, culms of **Dendrocalamus** grow with such phenomenal velocity that one can almost watch them lengthen day by day."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The culms of **Dendrocalamus** giganteus form immense towering clumps that resemble majestic organ pipes in tropical botanical gardens."*

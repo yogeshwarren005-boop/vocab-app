@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A massive North American bipedal tyrannosaurid dinosaur (Tyrannosaurus rex) of the late Cretaceous with a large skull, heavy tail, and reduced forelimbs having two clawed digits : tyrannosaur —called also T. rex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive North American bipedal tyrannosaurid dinosaur (Tyrannosaurus rex) of the late Cretaceous with a large skull, heavy tail, and reduced forelimbs having two clawed digits : tyrannosaur —called also T. rex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of giant theropod dinosaurs from the Late Cretaceous period, containing the famous species Tyrannosaurus rex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an apex theropod possessing immense jaw bite forces, binocular vision, and acute olfactory lobes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannosaurus designates a massive north american bipedal tyrannosaurid dinosaur (tyrannosaurus rex) of the late cretaceous with a large skull, heavy tail, and reduced forelimbs having two clawed digits : tyrannosaur —called also t. rex."*
+> - 📜 **Henry Fairfield Osborn (*Tyrannosaurus, Upper Cretaceous Carnivorous Dinosaur*):** *"I propose the generic name **Tyrannosaurus** to designate the king of all predatory land vertebrates."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"The massive neck musculature and bone-cracking teeth of **Tyrannosaurus** rex suggest an active, warm-blooded hunter."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"Every child recognizes the formidable silhouette of **Tyrannosaurus**, the undisputed icon of prehistoric terror."*

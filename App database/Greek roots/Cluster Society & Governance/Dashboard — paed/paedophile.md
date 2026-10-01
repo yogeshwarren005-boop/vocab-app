@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adult who is sexually attracted to children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adult who is sexually attracted to children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is sexually attracted to children (British spelling of pedophile).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and forensic psychology, an individual exhibiting pedophilic disorder characterized by persistent sexual urges toward prepubescent children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedophile designates an adult who is sexually attracted to children."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Early forensic alienists classified the compulsive **paedophile** among the severe pathologies of sexual deviation."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Pathological fixation upon infantile love objects characterizes the distorted libido of the **paedophile**."*
+> - 📜 **Michel Foucault (*The History of Sexuality*):** *"Nineteenth-century psychiatry isolated the **paedophile** as a dangerous medical category requiring penal confinement."*

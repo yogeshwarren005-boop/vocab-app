@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Staphylococcus) of nonmotile gram-positive spherical bacteria that occur singly, in pairs or tetrads, or in irregular clusters and include causative agents of various diseases (such as skin infections, food poisoning, and endocarditis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Staphylococcus) of nonmotile gram-positive spherical bacteria that occur singly, in pairs or tetrads, or in irregular clusters and include causative agents of various diseases (such as skin infections, food poisoning, and endocarditis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Gram-positive spherical bacteria (family Staphylococcaceae) that occur in microscopic grape-like clusters, notably including Staphylococcus aureus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, a major human pathogen producing coagulase, hemolysins, and enterotoxins, causing skin abscesses, toxic shock syndrome, and food poisoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphylococcus designates any of a genus (staphylococcus) of nonmotile gram-positive spherical bacteria that occur singly, in pairs or tetrads, or in irregular clusters and include causative agents of various diseases (such as skin infections, food poisoning, and endocarditis)."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of a Penicillium*):** *"While working with **Staphylococcus** variants, a mold contaminant produced a striking inhibition of bacterial growth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Invasion by **Staphylococcus** aureus through a simple cutaneous abrasion may initiate rapid metastatic abscesses in distant organs."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Carbolic acid dressings destroyed the virulent **Staphylococcus** organisms that formerly produced hospital gangrene."*

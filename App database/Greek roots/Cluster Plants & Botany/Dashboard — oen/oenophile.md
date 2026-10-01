@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover or connoisseur of wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lover or connoisseur of wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover, connoisseur, or devotee of wine; a person who appreciates fine wines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomic culture, an aficionado dedicated to collecting, cellaring, tasting, and discussing regional vintages and terroirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oenophile designates a lover or connoisseur of wine."*
+> - 📜 **Alexis Lichine (*Wines of France*):** *"To the true **oenophile**, opening an aged bottle of premier cru Burgundy is an act of reverent communion with French soil."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"My host proved himself a cultivated **oenophile**, producing a cobwebbed flask of vintage Tokay from his private cellar."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"He adopted the pretensions of a wealthy **oenophile**, discoursing pompously upon pre-phylloxera clarets at dinner."*

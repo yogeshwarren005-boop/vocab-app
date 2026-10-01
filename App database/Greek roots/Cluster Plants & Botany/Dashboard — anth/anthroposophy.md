@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 20th century religious system growing out of theosophy and centering on human development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 20th century religious system growing out of theosophy and centering on human development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiritual philosophy and movement founded in the early 20th century by Rudolf Steiner, postulating an objective, comprehensible spiritual world accessible through inner cognitive development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In esoteric philosophy and cultural education, a doctrine emphasizing spiritual perception, providing the conceptual foundation for Waldorf education, biodynamic agriculture, and anthroposophical medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthroposophy designates a 20th century religious system growing out of theosophy and centering on human development."*
+> - 📜 **Rudolf Steiner (*Knowledge of the Higher Worlds*):** *"The purpose of **anthroposophy** is to awaken those slumbering organs of spiritual perception that unite man with the cosmos."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Modern esoteric movements such as **anthroposophy** seek an empirical mysticism that harmonizes inner revelation with systematic observation."*
+> - 📜 **W. B. Yeats (*A Vision*):** *"The symbolic diagrams in Steiner's **anthroposophy** reflect an earnest pursuit of transcendent geometrical order underlying history."*

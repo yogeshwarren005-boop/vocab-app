@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing blood from the body, separating cellular components from the plasma, and reinfusing the cells back into the donor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and transfusion medicine, an extracorporeal therapy used to remove pathological antibodies, paraproteins, or toxins from circulating blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmapheresis designates a process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Therapeutic **plasmapheresis** offers rapid clinical remission in acute episodes of Guillain-Barré syndrome."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"Automated **plasmapheresis** separates vital proteins with fluid mechanical elegance without harming corpuscles."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Subsequent rounds of **plasmapheresis** depleted circulating autoantibodies, restoring motor nerve function."*

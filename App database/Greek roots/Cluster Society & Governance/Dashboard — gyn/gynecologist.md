@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in gynecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in gynecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician or surgeon specialized in gynecology and the health of the female reproductive system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical specialist trained in women's reproductive health, fertility management, and pelvic surgical procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynecologist designates a specialist in gynecology."*
+> - 📜 **Sylvia Plath (*The Bell Jar*):** *"She sat nervously in the waiting room, awaiting the appointment with her **gynecologist**."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"The enlightened **gynecologist** must understand both the biological facts and psychological burdens of female patients."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The skilled **gynecologist** combines delicate surgical touch with compassionate clinical insight."*

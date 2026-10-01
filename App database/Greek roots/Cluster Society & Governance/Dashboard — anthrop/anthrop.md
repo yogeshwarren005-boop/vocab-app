@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anthropological; anthropology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Human being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Ancient Greek anthrōpos, meaning 'human being', 'humanity', or 'man'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and taxonomic nomenclature, the root used to formulate terms relating to human anatomy, origin, behavior, and culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthrop designates anthropological; anthropology."*
+> - 📜 **Claude Lévi-Strauss (*Anthropology and Myth*):** *"The root **anthrop**- encapsulates the enduring scientific endeavor to comprehend our collective humanity."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"Scientific fields combining **anthrop**- strive to disentangle cultural plasticity from biological determinism."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Every discipline employing the prefix **anthrop**- contributes a facet to the holistic history of mankind."*

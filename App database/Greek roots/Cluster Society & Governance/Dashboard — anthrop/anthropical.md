@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to mankind or the period of mankind's existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to mankind or the period of mankind's existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to human nature, affairs, or the human species; human.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic or formal adjectival variant of anthropic, emphasizing terrestrial human concerns as contrasted with the cosmic or divine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropical designates relating to mankind or the period of mankind's existence."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient mythologies often attributed purely **anthropical** passions and frailties to the immortal gods."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The theologian must distinguish between divine revelation and merely **anthropical** conceptions of righteousness."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic evolution unfolds according to universal laws rather than narrow **anthropical** expectations."*

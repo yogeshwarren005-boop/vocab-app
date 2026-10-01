@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus acanthus having large spiny leaves and spikes or white or purplish flowers; native to mediterranean region but widely cultivated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus acanthus having large spiny leaves and spikes or white or purplish flowers; native to mediterranean region but widely cultivated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spiny-leaved Mediterranean herbaceous plants (family Acanthaceae) with spikes of white or purplish flowers; the classic inspiration for Corinthian capitals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture and ornamentation, the stylized foliar motif carved into Corinthian and Composite architectural capitals and friezes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Another cope was of green velvet, embroidered with heart-shaped groups of acanthus-leaves, from which spread long-stemmed white blossoms, the details of which were picked out with silver thread and coloured crystals."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Greek sculptor looked upon the serrated margins of the wild **Acanthus** and drew from its curves the crowning glory of the Corinthian capital."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Callimachus passed by the tomb of a Corinthian maiden where an **Acanthus** root had sprouted, its curling leaves clasping a votive basket."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The spinous leaves of the wild **Acanthus** spread along garden borders in damp soils, maintaining glossy foliage throughout winter."*

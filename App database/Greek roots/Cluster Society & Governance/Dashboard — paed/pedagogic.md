@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pedagogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pedagogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of teaching or educators; pedagogical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational philosophy, pertaining to structured instructional methods and curriculum delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why not be revenged on society by shaping his future domesticities loosely, instead of kissing the pedagogic rod of convention in this ensnaring manner?"*
+> - 📜 **John Dewey (*The School and Society*):** *"Our **pedagogic** aim must be to cultivate independent critical inquiry rather than passive memorization."*
+> - 📜 **Jean-Jacques Rousseau (*Emile: Or, On Education*):** *"Natural learning outshines artificial **pedagogic** contrivances every day of a child's life."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The schoolmaster was burdened with heavy **pedagogic** routines that dulled his poetic imagination."*

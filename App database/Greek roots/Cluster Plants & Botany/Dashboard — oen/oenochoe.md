@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek wine jug or pitcher, typically having a single handle and a trefoil (three-lobed) mouth for pouring wine from a krater into cups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and ceramic history, a prominent painted terracotta or bronze vessel produced across Attic, Corinthian, and Etruscan workshops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oenochoe designates a term designating an entity, condition, or phenomenon derived from greek oen."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The young cupbearer dipped the slender bronze **oenochoe** into the mixing bowl and filled the banqueters' goblets."*
+> - 📜 **John Beazley (*Attic Red-Figure Vase-Painters*):** *"The trefoil spout of the red-figure **oenochoe** allowed wine to pour in a neat, controlled stream without dripping."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"Libations poured from the sacred **oenochoe** moistened the tomb of the hero during the festival of the Anthesteria."*

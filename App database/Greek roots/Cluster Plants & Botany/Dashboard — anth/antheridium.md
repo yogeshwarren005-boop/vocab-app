@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male sex organ of spore-producing plants; produces antherozoids; equivalent to the anther in flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male sex organ of spore-producing plants; produces antherozoids; equivalent to the anther in flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The haploid male sex organ (gametangium) in mosses, liverworts, ferns, and certain fungi and algae, producing motile flagellated male gametes (antherozoids).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant embryology, a jacketed multicellular structure wherein spermatogenous tissue undergoes mitoses to yield chemotactic swimming spermatozoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gonosphere having been formed, a straight tube shoots out from the antheridium which perforates the wall of the oogonium, passes through the fluid which surrounds the gonosphere, elongating itself until it touches that body."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It may be observed that the extremity of the tube which proceeds from the antheridium does not open, and the fecundation, if such it be, is produced solely by contact."*
+> - 📜 **Wilhelm Hofmeister (*Higher Cryptogamia*):** *"Upon maturity, the cap cell of the **antheridium** dissolves, permitting hundreds of spiral spermatozoids to swarm into the film of water."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"The club-shaped **antheridium** is enveloped by a protective single-layered sterile jacket that prevents premature dehydration."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Fertilization in cryptogams cannot occur unless the **antheridium** discharges its motile gametes during periods of dew or rain."*

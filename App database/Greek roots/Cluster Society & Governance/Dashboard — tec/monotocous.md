@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of melt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of melt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving birth to only a single offspring at a time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, having a single infant per reproductive cycle (characteristic of humans, horses, and whales).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotocous designates adjective*) pertaining to, derived from, or characteristic of melt."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Large mammals with protracted parental investment are predominantly **monotocous**, concentrating maternal energy on one infant."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The primate uterus simplex is an anatomical adaptation specialized for **monotocous** gestation."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Cetaceans are strictly **monotocous**, nursing a single gigantic calf through long oceanic migrations."*

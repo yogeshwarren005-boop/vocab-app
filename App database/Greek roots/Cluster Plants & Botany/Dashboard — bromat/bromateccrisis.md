@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bromat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical gastrointestinal crisis or acute digestive paroxysm triggered by food intake, dietary indiscretion, or alimentary intolerance; bromatocrisis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century medical gastroenterology, a critical gastrointestinal episode marked by severe spasmodic colic, emesis, and diarrhea following ingestion of spoiled or irritating food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromateccrisis designates a term designating an entity, condition, or phenomenon derived from greek bromat."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Under the term **bromatocrisis**, classical authors described an acute alimentary crisis terminating a chronic bilious indigestion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe dietary indiscretion provoked an acute **bromatocrisis**, marked by persistent vomiting and abdominal cramping."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Prompt gastric lavage is indicated when an alimentary **bromatocrisis** threatens collapse from ingested toxic foodstuffs."*

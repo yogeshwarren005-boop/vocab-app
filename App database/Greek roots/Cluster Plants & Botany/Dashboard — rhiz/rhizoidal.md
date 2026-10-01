@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a rhizoid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a rhizoid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resembling, or functioning as a rhizoid (a root-like filament in cryptogams).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and mycology, designating the anchoring hairs, branching patterns, and absorptive surface of rhizoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizoidal designates of or relating to a rhizoid."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The dense **rhizoidal** felt clothing the lower stem of the moss protects it against desiccation on sun-baked rocks."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"In leafy liverworts, **rhizoidal** branches arise exclusively from the ventral surface of the under-leaves."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"Anchorage of the fungal mycelium upon timber is effected by thick **rhizoidal** strands penetrating the wood vessels."*

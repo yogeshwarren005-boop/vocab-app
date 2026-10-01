@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with policy, not administration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with policy, not administration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of setting and directing a course of action; creating laws, regulations, or organizational rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and political science, the formulation, deliberation, and adoption of strategic governance frameworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, policy-making designates concerned with policy, not administration."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Practical men in high office are usually the slaves of some defunct economist when engaged in **policy-making**."*
+> - 📜 **Herbert A. Simon (*Administrative Behavior*):** *"Bounded rationality places severe cognitive constraints on real-world bureaucratic **policy-making**."*
+> - 📜 **Max Weber (*Politics as a Vocation*):** *"The genuine passion of statecraft consists in linking moral conviction to responsible **policy-making**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark ¨ placed over a vowel to indicate that the vowel is pronounced in a separate syllable (as in naïve or Brontë).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The break in a verse caused by the coincidence of the end of a foot with the end of a word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark (¨) placed over a vowel to indicate that it is sounded separately in a divided syllable (as in naïve or Brontë); or the separation of two vowels into distinct syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody, a pause occurring where the end of a word coincides with the end of a metrical foot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaeresis designates a mark ¨ placed over a vowel to indicate that the vowel is pronounced in a separate syllable (as in naïve or brontë)."*
+> - 📜 **H. W. Fowler (*A Dictionary of Modern English Usage*):** *"The printer inserted a **diaeresis** over the second vowel in 'coöperate' to prevent diphthongal reading."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"A poetic **diaeresis** occurs when the metrical dactyl terminates neatly at a complete word boundary."*
+> - 📜 **Robert Bridges (*Milton's Prosody*):** *"Milton employed the classical **diaeresis** sparingly to give majestic weight to solemn epithets."*

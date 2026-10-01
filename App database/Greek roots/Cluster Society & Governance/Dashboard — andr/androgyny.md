@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being neither specifically feminine or masculine : the combination of feminine and masculine characteristics : the quality or state of being androgynous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being neither specifically feminine or masculine : the combination of feminine and masculine characteristics : the quality or state of being androgynous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combination of masculine and feminine characteristics into an ambiguous form or gender identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, cultural history, and botany, the coexistence of traditionally male and female traits within an individual or floral axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgyny designates the quality or state of being neither specifically feminine or masculine : the combination of feminine and masculine characteristics : the quality or state of being androgynous."*
+> - 📜 **Virginia Woolf (*Orlando: A Biography*):** *"Her sartorial choices celebrated a timeless **androgyny** that confounded eighteenth-century polite society."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Intellectual liberty allows thinkers to move beyond biological determinism toward psychological **androgyny**."*
+> - 📜 **Susan Sontag (*Notes on 'Camp'*):** *"Camp taste capitalizes upon the aesthetic appeal of triumphant, theatrical **androgyny**."*

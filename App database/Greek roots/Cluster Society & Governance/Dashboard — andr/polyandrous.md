@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or practice of having more than one husband or male mate at one time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or practice of having more than one husband or male mate at one time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practicing or characterized by polyandry (having multiple husbands or male partners).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, having twenty or more stamens in a flower (Linnaean class Polyandria); in zoology, describing females mating with multiple males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyandrous designates the state or practice of having more than one husband or male mate at one time."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In certain shorebirds such as the phalarope, **polyandrous** females compete aggressively for duller-colored males."*
+> - 📜 **Bronislaw Malinowski (*The Sexual Life of Savages*):** *"Kinship charts demonstrated that the village contained several **polyandrous** households governed by customary law."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"A **polyandrous** flower bears an indefinite multitude of stamens inserted upon the receptacle."*

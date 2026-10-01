@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolapse of the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prolapse of the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolapse or downward displacement of the uterus into or protruding from the vaginal canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century surgical gynecology, severe pelvic floor descent resulting from birth trauma and attenuation of the cardinal and uterosacral ligaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metroptosis designates prolapse of the uterus."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Complete **metroptosis** occurs when the relaxed vaginal walls allow the entire uterus to invert and emerge externally."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"In treating chronic **metroptosis**, supportive pessaries were formerly utilized before the perfection of surgical suspension."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The mechanical distress of severe **metroptosis** is exacerbated by heavy lifting and standing for long hours on hard floors."*

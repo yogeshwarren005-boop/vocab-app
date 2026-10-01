@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to orthopedics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to orthopedics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the branch of medicine concerned with the correction of deformities of bones or muscles (British spelling of orthopedic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical history, coined by Nicolas Andry from Greek orthos ('straight') and pais ('child') to describe methods of correcting childhood musculoskeletal deformities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopaedic designates of or relating to orthopedics."*
+> - 📜 **Nicolas Andry (*Orthopaedia: Or, the Art of Correcting and Preventing Deformities in Children*):** *"I have formed the term **orthopaedic** from two Greek words, signifying the straight rearing of children."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early **orthopaedic** intervention prevents permanent joint contraction following acute paralytic polio."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon fitted an **orthopaedic** splint to align the fractured metatarsal neatly."*

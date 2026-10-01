@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek paed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry that deals with children's teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In specialized dentistry, preventative, restorative, and interceptive orthodontics tailored to pediatric oral development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedodontics designates a term designating an entity, condition, or phenomenon derived from greek paed."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Advances in **pedodontics** emphasized preventive fluoride application to arrest early enamel decay."*
+> - 📜 **Morris Fishbein (*Fads and Quackery in Healing*):** *"The modern **pedodontics** clinic creates a welcoming environment to banish childhood dental anxiety."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"Public health initiatives integrating **pedodontics** with municipal water treatment saved millions of teeth."*

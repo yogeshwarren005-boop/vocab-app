@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading malicious gossip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical of tabloids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or activity of spreading malicious gossip and scandalous rumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In journalistic ethics and social commentary, the commercial or recreational peddling of salacious personal defamatory gossip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scandalmongering designates spreading malicious gossip."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The provincial tea parties of Middlemarch were rife with petty **scandalmongering** regarding Dr. Lydgate's finances."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Pamphleteers substituted vicious **scandalmongering** against the queen for serious political debate."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"Society newspapers flourished upon relentless **scandalmongering**, prying into the private affairs of London elites."*

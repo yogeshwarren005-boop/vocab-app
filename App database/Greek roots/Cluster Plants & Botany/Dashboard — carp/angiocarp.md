@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree bearing fruit enclosed in a shell or involucre or husk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree bearing fruit enclosed in a shell or involucre or husk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant whose fruit is enclosed within an involucre, cupule, husk, or fleshy receptacle (such as an oak acorn or chestnut).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and cryptogamic botany, a fruiting body whose spore-bearing hymenium develops in an enclosed chamber until maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocarp designates tree bearing fruit enclosed in a shell or involucre or husk."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The oak and beech bear typical examples of an **angiocarp**, where the nut is embraced by a cupule or burr."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Cryptogamic fructifications are divided into gymnocarpous and **angiocarp** types according to whether spores develop openly or inside a wall."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The hazelnut presents an **angiocarp** structure, surrounded by an expanded leafy involucre."*

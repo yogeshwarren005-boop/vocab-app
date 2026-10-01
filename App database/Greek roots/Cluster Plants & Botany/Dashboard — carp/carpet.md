@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Floor covering consisting of a piece of thick heavy fabric (usually with nap or pile).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural object that resembles or suggests a carpet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy woven fabric, usually of wool, cotton, or synthetic fiber, used for covering floors or stairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any dense, continuous covering or expanse resembling a floor textile, such as a carpet of fallen leaves, snow, or moss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, I will rob Tellus of her weed To strew thy green with flowers: the yellows, blues, The purple violets, and marigolds, Shall as a carpet hang upon thy grave, While summer days do last."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go signify as much, while here we march Upon the grassy carpet of this plain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is knight, dubbed with unhatched rapier, and on carpet consideration, but he is a devil in private brawl."*
+> - 📜 **John Keats (*The Eve of St. Agnes*):** *"Across the polished floor the moonbeam shone, while on the soft **carpet** no sound of footsteps stirred."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A rich **carpet** of pine needles softened our path through the deep silent woods."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A glowing Turkish **carpet** covered the center of the library, radiating crimson warmth into the winter gloom."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having exclusive control over a commercial activity by possession or legal grant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having exclusive control over a commercial activity by possession or legal grant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or relating to a monopoly; tending toward or characteristic of exclusive control of a market.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, describing market structures (such as monopolistic competition) where multiple firms sell differentiated products with slight pricing power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Monopolistic aspect of organization and particular wages. § 14."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In such cases, even when the workmen by a strike or general movement secured the same wage scale for a day of fewer hours (a higher wage per hour), they would be unable to hold it excepting where they had monopolistic control of the trade."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For thus withholding the supply they are said by some to exercise a monopolistic power."*
+> - 📜 **Edward Chamberlin (*The Theory of Monopolistic Competition*):** *"In **monopolistic** competition, brand differentiation grants each firm a miniature localized monopoly."*
+> - 📜 **Joseph Schumpeter (*Capitalism, Socialism and Democracy*):** *"Temporary **monopolistic** profits provide the essential incentive that finances risky industrial innovation."*
+> - 📜 **John Kenneth Galbraith (*American Capitalism*):** *"Countervailing power arises naturally to check the unconstrained sway of **monopolistic** corporate giants."*

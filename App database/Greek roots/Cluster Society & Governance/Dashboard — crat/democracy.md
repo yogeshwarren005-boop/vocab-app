@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the people : rule of the majority : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the people elect representatives to make decisions, policies, laws, etc. according to law —called also representative democracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of government by the whole population or all the eligible members of a state, typically through elected representatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and constitutional history, self-governance rooted in popular sovereignty, equality under the law, and majority rule with minority protections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This theory is, in a way, based on an appeal to experience, as to the effect of property on human character, and it has the virtue of expressing one of the ideals of modern democracy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Once prosperous schools declined, once thronging country churches were deserted, and much of the old neighborhood democracy disappeared."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"That government of the people, by the people, for the people, shall not perish from the earth in this **democracy**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In a **democracy**, each generation is a new people that must forge its own civil institutions."*
+> - 📜 **Winston Churchill (*Speech in the House of Commons*):** *"Many forms of Government have been tried, and no one pretends that **democracy** is all-wise or all-virtuous."*

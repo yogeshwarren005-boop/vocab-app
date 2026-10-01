@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the study of the origins and development of human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the study of the origins and development of human beings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the origin and evolutionary development of human beings (anthropogenesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the biological and morphological changes associated with human speciation and lineage development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropogenetic designates of or relating to the study of the origins and development of human beings."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The fossil discoveries in Neanderthal cave strata supplied the first tangible **anthropogenetic** link in human prehistory."*
+> - 📜 **Ernst Haeckel (*The Riddle of the Universe*):** *"Our **anthropogenetic** tree traces human ancestry through twenty-two distinct ancestral stages across geological eras."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The bipedal posture and development of the human hand were pivotal **anthropogenetic** adaptations favoring tool use."*

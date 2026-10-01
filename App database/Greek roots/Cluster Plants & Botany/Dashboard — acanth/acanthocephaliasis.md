@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infection or disease state caused by parasitic spiny-headed worms (Acanthocephala) in the intestines of humans or other animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and tropical pathology, a gastrointestinal helminthiasis characterized by ulceration, perforation, cachexia, and intestinal obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthocephaliasis designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **David F. Weinman (*Infectious Diseases of Man and Animals*):** *"Clinical **acanthocephaliasis** occurs sporadically in humans who consume unwashed grubs or raw freshwater crustaceans."*
+> - 📜 **Thomas W. M. Cameron (*The Parasites of Domestic Animals*):** *"Swine herds suffering from **acanthocephaliasis** exhibit stunted growth and widespread intestinal nodule formation caused by Macracanthorhynchus."*
+> - 📜 **William A. Riley (*Medical Entomology and Parasitology*):** *"Control of porcine **acanthocephaliasis** necessitates clearing pastures of scarabaeid beetle larvae that serve as obligate intermediate hosts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aristocratic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an aristocratic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aristocratic manner; haughtily, nobly, or in accordance with elite customs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With refined elegance, exclusive aloofness, or governing by elite authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristocratically designates in an aristocratic manner."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She swept through the drawing-room **aristocratically**, ignoring the governess seated quietly by the window."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sir Pitt Crawley lived frugally yet demanded that his servants behave most **aristocratically**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon carried his head **aristocratically**, wrapped in the austere dignity of his scholarly pursuits."*

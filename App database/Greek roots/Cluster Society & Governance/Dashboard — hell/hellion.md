@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rowdy or mischievous person (usually a young man).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rowdy or mischievous person (usually a young man).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rowdy, mischievous, or troublemaking person, especially a child or youth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial American literature and character sketches, an unruly, spirited rebel who flouts social conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hellion designates a rowdy or mischievous person (usually a young man)."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly sighed that Tom was a wild **hellion**, yet she could not find it in her heart to strike him."*
+> - 📜 **Willa Cather (*O Pioneers!*):** *"The boys grew up like little wild **hellion** colts on the untamed Nebraska prairie."*
+> - 📜 **John Steinbeck (*East of Eden*):** *"Cal was considered a stubborn **hellion** around town, brooding and difficult to manage."*

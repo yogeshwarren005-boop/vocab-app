@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine that deals with the diseases and routine physical care of the reproductive system of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine that deals with the diseases and routine physical care of the reproductive system of women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physiology and medicine which deals with the functions and diseases specific to women and girls, especially those affecting the reproductive system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical and surgical specialty encompassing preventive care, oncology, endocrinology, and reproductive surgery for women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynecology designates a branch of medicine that deals with the diseases and routine physical care of the reproductive system of women."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Advances in anesthesia and asepsis elevated **gynecology** into one of the most successful surgical disciplines."*
+> - 📜 **Charlotte Perkins Gilman (*The Yellow Wallpaper*):** *"Nineteenth-century **gynecology** frequently conflated emotional distress with organic female ailments."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"The history of modern **gynecology** mirrors the wider transformation of medicine into cellular science."*

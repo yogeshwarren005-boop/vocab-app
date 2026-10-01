@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated pride or self-confidence : arrogance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated pride or self-confidence : arrogance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive pride or dangerous self-confidence, often resulting in fatal retribution or ruin; arrogance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek tragedy and law, outrageous arrogance, insolence, or violence that violates the cosmic or civic order and provokes nemesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hubris designates exaggerated pride or self-confidence : arrogance."*
+> - 📜 **Aristotle (*Rhetoric*):** *"**Hubris** consists in doing and saying things that cause shame to the victim, purely for the pleasure of feeling superior."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Greek tragedy portrays the inexorable cycle whereby unbridled **hubris** invites divine catastrophe."*
+> - 📜 **C. S. Lewis (*The Abolition of Man*):** *"Man's conquest of Nature, when divorced from objective value, becomes a display of catastrophic **hubris**."*

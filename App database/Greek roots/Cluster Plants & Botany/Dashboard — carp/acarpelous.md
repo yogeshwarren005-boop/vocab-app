@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no carpels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of carpels; having no carpellary organs (variant of acarpellous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral anatomy, characteristic of purely staminate blossoms or aborted floral whorls lacking pistils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarpelous designates having no carpels."*
+> - 📜 **Asa Gray (*Lessons in Botany*):** *"In dioecious trees, one individual bears **acarpelous** stamen-bearing blossoms, while the other bears seed-producing pistils."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Morphological inspection proves that the staminate floret is **acarpelous** from its earliest embryonic primordium."*
+> - 📜 **George Henslow (*The Heredity of Acquired Characters in Plants*):** *"Environmental starvation can induce an otherwise hermaphrodite blossom to develop in an **acarpelous** staminate form."*

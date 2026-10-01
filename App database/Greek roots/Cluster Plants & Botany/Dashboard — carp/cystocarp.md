@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek carp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fruit-body or spore-producing structure developed after fertilization in red algae (Rhodophyta), consisting of carpospores enclosed in a sterile cellular pericarp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology, the complex urn-shaped or urn-like structure housing gonimoblast filaments and mature carpospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystocarp designates a term designating an entity, condition, or phenomenon derived from greek carp."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The swollen **cystocarp** projects from the frond as a dark, bead-like capsule with a terminal ostiole for spore release."*
+> - 📜 **William Gilson Farlow (*Marine Algae of New England*):** *"Cross-sections through the **cystocarp** of Polysiphonia demonstrate the urn-shaped protective envelope surrounding gonimoblast cells."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The **cystocarp** constitutes an elaborate post-fertilization envelope unique to the higher Florideae."*

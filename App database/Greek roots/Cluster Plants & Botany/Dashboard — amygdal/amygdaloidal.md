@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an almond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like an almond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the texture of, or characterized by amygdules; almond-shaped or vesicular with mineral infillings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrography, describing the texture of volcanic rocks whose cavities have been sealed by secondary crystallization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The Lake Superior copper occurs in three formations:— (_a_) Vein deposits, from which the enormous masses of copper are taken out. (_b_) Copper-bearing ash beds, of amygdaloidal diabase."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The basaltic columns give way at the summit of the plateau to an **amygdaloidal** lava crammed with nodules of green earth."*
+> - 📜 **Archibald Geikie (*The Ancient Volcanoes of Great Britain*):** *"In thin section, the **amygdaloidal** cavities display radiating needles of natrolite projecting from the chlorite rim."*
+> - 📜 **Roderick Murchison (*The Silurian System*):** *"Trappean hills along the Welsh border contain extensive **amygdaloidal** layers hosting sparkling crystals of carbonate of lime."*

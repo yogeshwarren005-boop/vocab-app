@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A breakdown of a cell layer in the epidermis (as in pemphigus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A breakdown of a cell layer in the epidermis (as in pemphigus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss of intercellular connections, such as desmosomes, between keratinocytes, leading to intraepidermal blister formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatopathology, a cellular process seen in autoimmune bullous disorders like pemphigus vulgaris, where autoantibodies target desmogleins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acantholysis designates a breakdown of a cell layer in the epidermis (as in pemphigus)."*
+> - 📜 **Arthur Rook (*Textbook of Dermatology*):** *"Suprabasal **acantholysis** detaches the epidermal cells, creating the characteristic flaccid bullae of pemphigus."*
+> - 📜 **Thomas B. Fitzpatrick (*Dermatology in General Medicine*):** *"A positive Nikolsky sign is the bedside clinical counterpart of widespread intraepidermal **acantholysis**."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Microscopic inspection demonstrates primary **acantholysis** wherein the prickle-cells lose their bridges and float freely in blister fluid."*

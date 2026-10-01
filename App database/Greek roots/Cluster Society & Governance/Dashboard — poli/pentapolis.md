@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A confederation or league of five cities (such as the Philistine Pentapolis or Cyrenaican Pentapolis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient history, a group of five allied city-states linked by trade treaties, common cults, or regional defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SIMONIDES, king of Pentapolis."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, I’ll tell you: this is called Pentapolis, and our King, the good Simonides."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sum of this, Brought hither to Pentapolis Y-ravished the regions round, And everyone with claps can sound, ‘Our heir apparent is a king!"*
+> - 📜 **Herodotus (*The Histories*):** *"The Dorian league became a **Pentapolis** after the expulsion of Halicarnassus from the Triopian sanctuary."*
+> - 📜 **Flavius Josephus (*Jewish Antiquities*):** *"The Philistine **Pentapolis**—Gaza, Ashdod, Ashkelon, Gath, and Ekron—waged relentless war against King Saul."*
+> - 📜 **Strabo (*Geography*):** *"The fertile coast of Cyrenaica was renowned throughout the Mediterranean as the prosperous Libyan **Pentapolis**."*

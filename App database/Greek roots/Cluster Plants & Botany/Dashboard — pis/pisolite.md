@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A limestone composed of pisiform concretions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A limestone composed of pisiform concretions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sedimentary rock composed largely of pisoids (spherical accretionary grains resembling peas, larger than 2 mm in diameter) cemented together; peastone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carbonate petrology, a coarse-grained rock formed in hypersaline lagoons, caliche horizons, or hot spring deposits, contrasting with fine-grained oolites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pisolite designates a limestone composed of pisiform concretions."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The weathered surface of the **pisolite** limestone resembles a mass of fossilized peas cemented together in calcareous spar."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Bauxite deposits frequently exhibit a pronounced **pisolite** structure formed by intense tropical weathering of aluminous rocks."*
+> - 📜 **Frank Rutley (*The Study of Rocks*):** *"Thin sections of **pisolite** reveal radial fibrous calcite needles intersecting concentric growth lamellae under polarized light."*

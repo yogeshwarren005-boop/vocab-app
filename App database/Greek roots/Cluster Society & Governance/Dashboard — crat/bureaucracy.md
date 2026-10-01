@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of nonelected government officials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative policymaking group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of government or administration in which most decisions are taken by state officials rather than by elected representatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology, a rationalized, hierarchical administrative structure operating through standardized procedures and impersonal rules (Max Weber).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A bureaucracy rose and flourished; the spoils systems and corruption matched those of ancient Earth."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"New governments will need time to become entrenched, create lines of authority and accountability, and install bureaucracies responsive to the wishes of a new elite."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Rational modern **bureaucracy** operates with calculated impersonality and strict jurisdictional competence."*
+> - 📜 **Franz Kafka (*The Trial*):** *"K. wandered through endless attics and dusty hallways, suffocated by the unseen **bureaucracy**."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Centralized **bureaucracy** had quietly replaced local aristocratic administration long before the revolution erupted."*

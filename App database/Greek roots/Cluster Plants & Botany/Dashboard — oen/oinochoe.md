@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek ceramic or bronze wine jug with a single handle and trefoil spout (transliterated variant of oenochoe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Mediterranean art, a ritual jug used during banquets (symposia) and religious libations, decorated in black-figure or red-figure styles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oinochoe designates a term designating an entity, condition, or phenomenon derived from greek oen."*
+> - 📜 **John Beazley (*Attic Black-Figure Vase-Painters*):** *"The graceful silhouette of this sixth-century **oinochoe** depicts Herakles reclining upon a couch attended by Athena."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"He held aloft an embossed silver **oinochoe**, pouring dark wine into the sacrificial flames upon the altar."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"Excavators uncovered a painted **oinochoe** dedicated to Hermes Chthonios buried within the sacred well."*

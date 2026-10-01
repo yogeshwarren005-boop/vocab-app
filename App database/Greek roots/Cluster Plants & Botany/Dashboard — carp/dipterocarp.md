@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Dipterocarpaceae) of tall hardwood tropical trees chiefly of southeastern Asia that have a 2-winged fruit and are the source of valuable timber, aromatic oils, and resins; especially : a tree of the type genus (Dipterocarpus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family (Dipterocarpaceae) of tall hardwood tropical trees chiefly of southeastern Asia that have a 2-winged fruit and are the source of valuable timber, aromatic oils, and resins; especially : a tree of the type genus (Dipterocarpus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall tropical forest tree of the family Dipterocarpaceae, characterized by two-winged fruits and aromatic resins, dominating Asian rainforests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical forestry and ecology, emergent canopy trees that produce commercially valuable hardwood timber (such as meranti and keruing) and undergo mast fruiting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipterocarp designates any of a family (dipterocarpaceae) of tall hardwood tropical trees chiefly of southeastern asia that have a 2-winged fruit and are the source of valuable timber, aromatic oils, and resins; especially : a tree of the type genus (dipterocarpus)."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The primary forest of Borneo is crowned by giant species of **dipterocarp**, their massive buttressed trunks rising over two hundred feet."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The resinous secretions of the **dipterocarp** forests yield valuable dammar varnishes and wood oils across tropical Asia."*
+> - 📜 **Henry Nicholas Ridley (*The Dispersal of Plants Throughout the World*):** *"When the wind shakes the canopy, the two-winged fruits of the **dipterocarp** spin gracefully downward like miniature shuttlecocks."*

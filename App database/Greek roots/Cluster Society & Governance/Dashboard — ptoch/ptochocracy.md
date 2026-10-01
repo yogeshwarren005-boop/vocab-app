@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ptoch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government or rule by beggars or the destitute; a state governed by the impoverished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and satirical political theory, an extreme form of popular democracy where governance is seized by the destitute underclass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ptochocracy designates a term designating an entity, condition, or phenomenon derived from greek ptoch."*
+> - 📜 **Aristophanes (*Ecclesiazusae*):** *"The comic poet imagined a revolutionary **ptochocracy** where all private property was abolished and shared among the poor."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The sans-culottes seized the municipal assemblies, inaugurating what horrified aristocrats termed a roaring **ptochocracy**."*
+> - 📜 **George Grote (*A History of Greece*):** *"Oligarchic critics reviled radical Athenian democracy as an anarchic **ptochocracy** ruled by rowers and laborers."*

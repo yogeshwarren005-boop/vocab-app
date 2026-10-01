@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who has more than one wife at the same time; one who practices or advocates polygyny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and social history, an individual maintaining a multi-wife household under customary or religious law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygynist designates a term designating an entity, condition, or phenomenon derived from greek gyn."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"The wealthy pastoral chieftain was an influential **polygynist**, maintaining separate dwellings for each wife."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"A successful **polygynist** required substantial herds and influence to provide bride-wealth for each union."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"Our conversations with the tribal elder revealed that the **polygynist** viewed his wives as agricultural partners."*

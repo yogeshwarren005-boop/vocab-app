@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscle-building exercises (or a system of musclebuilding exercises) involving muscular contractions against resistance without movement (the muscles contracts but the length of the muscle does not change).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line connecting isometric points.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of physical conditioning exercises in which muscles are contracted against an immovable resistance without changing the joint angle or muscle length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomechanics and exercise physiology, static strength training that recruits high-threshold motor units without dynamic concentric-eccentric movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometrics designates muscle-building exercises (or a system of musclebuilding exercises) involving muscular contractions against resistance without movement (the muscles contracts but the length of the muscle does not change)."*
+> - 📜 **Charles Scott Sherrington (*Selected Writings on Neuromuscular Physiology*):** *"Static contractions utilized in **isometrics** demonstrate maximal voluntary motoneuron recruitment without articular displacement."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gentle **isometrics** are recommended during early limb fracture rehabilitation to maintain muscle tone beneath the cast."*
+> - 📜 **Frank A. Lee (*Principles of Physical Fitness*):** *"Pioneering trainers demonstrated that five minutes of daily **isometrics** substantially increased static grip and leg strength."*

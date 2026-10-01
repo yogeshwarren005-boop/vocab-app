@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ascribe human features to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe human features to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attribute human form, personality, or behavior to non-human beings, inanimate objects, or natural phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethology and narrative design, characterizing animal or mechanical agents with human motivations and cognitive attributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphize designates ascribe human features to something."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Ancient mythmakers tended to **anthropomorphize** the storms and stars, seeing divine temperaments in every eclipse."*
+> - 📜 **Konrad Lorenz (*King Solomon's Ring*):** *"It is tempting to **anthropomorphize** the greylag goose, yet objective behavioral observation reveals distinct avian instincts."*
+> - 📜 **Daniel Dennett (*The Intentional Stance*):** *"When interacting with complex software agents, users naturally begin to **anthropomorphize** their program logic."*

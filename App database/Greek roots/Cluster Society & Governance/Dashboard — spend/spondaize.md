@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make spondaic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make spondaic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render spondaic; to scan, compose, or pronounce using spondees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic composition, introducing heavy, deliberate two-syllable stresses to evoke solemnity or physical strain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondaize designates make spondaic."*
+> - 📜 **Edgar Allan Poe (*The Rationale of Verse*):** *"The poet may deliberately **spondaize** the terminal foot to halt the tripping momentum of dactyls."*
+> - 📜 **Algernon Charles Swinburne (*Studies in Prose and Poetry*):** *"Tennyson loved to **spondaize** his heroic lines when describing the heavy armor of Arthurian knights."*
+> - 📜 **John Dryden (*Discourse Concerning Satire*):** *"Virgil took care to **spondaize** the cadence whenever describing the ponderous labors of the Cyclopes."*

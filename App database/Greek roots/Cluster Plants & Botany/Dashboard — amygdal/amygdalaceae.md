@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in former classifications for plum and peach and almond trees which are now usually classified as members of the genus prunus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in former classifications for plum and peach and almond trees which are now usually classified as members of the genus prunus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete botanical family name formerly comprising the almond, peach, plum, and cherry (now placed in the subfamily Amygdaloideae or Prunoideae within Rosaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical systematic botany, a taxon established by Jussieu and De Candolle for stone fruits characterized by single carpels and drupes with stony endocarps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdalaceae designates used in former classifications for plum and peach and almond trees which are now usually classified as members of the genus prunus."*
+> - 📜 **Augustin Pyramus de Candolle (*Prodromus Systematis Naturalis*):** *"We distinguish the **Amygdalaceae** by their solitary superior ovary and the presence of hydrocyanic acid in their seeds."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The **Amygdalaceae** include many of our finest temperate orchard trees, yielding succulent stone fruits and aromatic kernels."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Recent classifications abandon **Amygdalaceae** as an independent family, merging it as a tribe or subfamily of the Rosaceae."*

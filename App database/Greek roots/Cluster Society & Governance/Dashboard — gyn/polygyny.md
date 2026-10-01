@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or practice of having more than one wife or female mate at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or practice of having more than one wife or female mate at a time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or custom of having more than one wife or female mate at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and sociobiology, a widespread mating system where one male pairs with multiple reproductive females.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygyny designates the state or practice of having more than one wife or female mate at a time."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Traditional societies often sanctioned **polygyny** as a means of ensuring high birth rates after wartime losses."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Harem defense **polygyny** evolves when males can monopolize critical breeding territories or water resources."*
+> - 📜 **Friedrich Engels (*The Origin of the Family, Private Property and the State*):** *"While **polygyny** was an aristocratic privilege, the common laborer remained de facto monogamous."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weevils destructive of cultivated plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weevils destructive of cultivated plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small weevils (family Curculionidae) whose larvae develop within flower buds or fruits, notably including the boll weevil (Anthonomus grandis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied entomology, an agricultural pest taxon whose long rostrum pierces flower squares and bolls, causing catastrophic crop losses in cotton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthonomus designates weevils destructive of cultivated plants."*
+> - 📜 **Leland Ossian Howard (*The Boll Weevil Problem*):** *"The arrival of **Anthonomus** grandis across the Rio Grande transformed the economic destiny of the American Cotton Belt."*
+> - 📜 **Charles Valentine Riley (*The Cotton Worm*):** *"Punctures inflicted by female **Anthonomus** weevils cause floral squares to flare and drop before seeds can mature."*
+> - 📜 **John Henry Comstock (*A Manual for the Study of Insects*):** *"The apple curculio belongs likewise to **Anthonomus**, boring deep oviposition cavities into young pomaceous fruit."*

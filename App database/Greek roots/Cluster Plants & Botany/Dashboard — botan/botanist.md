@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with plant life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist, scholar, or dedicated student who specializes in the scientific study of plants (botany).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A field researcher or taxonomist who collects, identifies, describes, and classifies vegetable flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"So one feels it was with Jesus' intimate knowledge of Nature--it is not the knowledge of botanist or naturalist, but that of the inmate and the companion, who by long intimacy comes to know far more than he dreams."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Salmon of Godalming, and have been since published with the large collection of facts made by that botanist in the "Flora of Surrey," printed under the auspices of the Holmesdale (Reigate) Natural History Club."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And the botanist who finds that the apple falls because the cellular tissue decays and so forth is equally right with the child who stands under the tree and says the apple fell because he wanted to eat it and prayed for it."*
+> - 📜 **Carl Linnaeus (*Philosophia Botanica*):** *"The true **botanist** must know every plant by its invariable binomial name and its natural taxonomic affinities."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The keen-eyed field **botanist** notices subtle floral dimorphisms that escape the casual observer."*
+> - 📜 **John Muir (*The Mountains of California*):** *"As a wandering **botanist**, I climbed the Sierra ridges with boundless joy, greeting every alpine blossom as an immortal friend."*

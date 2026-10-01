@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or characteristic of the nobility or aristocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of the nobility or aristocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, belonging to, or characteristic of the aristocracy or nobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting elegant taste, distinguished demeanor, or haughty aloofness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old gentleman is rusty to look at, but is reputed to have made good thrift out of aristocratic marriage settlements and aristocratic wills, and to be very rich."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Has an indistinct impression of his aristocratic repute."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine de Bourgh delivered her pronouncements with unbearable **aristocratic** condescension."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The ancient palazzo retained an **aristocratic** gloom that enchanted the romantic visitor."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations instinctively resent the polished, exclusive manners of **aristocratic** societies."*

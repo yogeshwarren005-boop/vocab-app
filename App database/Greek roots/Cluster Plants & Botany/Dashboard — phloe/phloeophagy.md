@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phloe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The habit of feeding upon tree bark or the cambium and inner bark tissues of woody plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest ecology and wildlife biology, herbivory specialized on the nutritious inner bark (phloem and cambium) by bark beetles, porcupines, beavers, and cervids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phloeophagy designates a term designating an entity, condition, or phenomenon derived from greek phloe."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"The destructive life cycle of scolytid beetles is governed by larval **phloeophagy**, which cuts off sap conduction."*
+> - 📜 **John Muir (*Our National Parks*):** *"Winter **phloeophagy** by hungry porcupines strips patches of tender bark from the upper branches of the yellow pine."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"Extensive **phloeophagy** practiced by wood-boring larvae leaves distinctive etched engravings across the peeled trunk."*

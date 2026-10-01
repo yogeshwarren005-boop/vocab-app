@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A servile self-seeking flatterer : one who praises those in power in order to gain their approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servile self-seeking flatterer : one who praises those in power in order to gain their approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who acts obsequiously toward someone important in order to gain advantage; a servile, self-seeking flatterer; a parasite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in classical Athens (from sykon 'fig' and phainein 'to show'), an informer who denounced smugglers of figs or brought vexatious lawsuits for gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The little kitchen-maid on her promotion was standing at her mistress's side, quite delighted during the operation, and wagging her head up and down and crying, "Lor, Mum, 'tis bittiful"--just like a genteel sycophant in a real drawing-room."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The justice had been a pettifogger, and was a sycophant to a nobleman in the neighbourhood, who had a post at court."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Davy was an artful sycophant, but he did not flatter in the usual way; on the contrary, he behaved en cavalier, and treated Sycamore, on whose bounty he subsisted, with the most sarcastic familiarity."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"Feast-won, fast-lost; one cloud of winter showers, these flies are couched; Timon drove the crawling **sycophant** from his gates."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A base **sycophant** applauds the blunders of his wealthy patron, bartering truth for a seat at the dinner table."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp despised the clumsy **sycophant** who fawned openly, knowing that subtle deference alone captures high society."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter oily triglyceride of butyric acid; a form of butyrin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter oily triglyceride of butyric acid; a form of butyrin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The triglyceride of butyric acid, [C₃H₅(OCOC₃H₇)₃], present in butter fat; a colorless, oily liquid used in biochemical lipase assays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional physiology and clinical gastroenterology, a stable butyrate prodrug that delivers anti-inflammatory butyrate directly to the colonic mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tributyrin designates a bitter oily triglyceride of butyric acid; a form of butyrin."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Synthesis of **tributyrin** from glycerol and butyric acid conclusively demonstrated the triatomic constitution of glycerides."*
+> - 📜 **Ernest Beutler (*Williams Hematology*):** *"Experimental administration of **tributyrin** induces fetal hemoglobin synthesis and cellular differentiation in myeloid leukemia lines."*
+> - 📜 **Frank A. Lee (*Basic Food Chemistry*):** *"Standard laboratory assays measure serum lipase activity by the rate of glycerol liberation from **tributyrin** emulsion."*

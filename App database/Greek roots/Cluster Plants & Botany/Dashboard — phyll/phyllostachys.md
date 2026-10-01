@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium and large bamboos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium and large bamboos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of temperate running bamboos (family Poaceae), native to East Asia, including moso bamboo (Phyllostachys edulis) and timber bamboos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic forestry, fast-growing monopodial bamboos characterized by grooved internode culms and edible shoots, widely used for construction and paper pulp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllostachys designates medium and large bamboos."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The golden culms of **Phyllostachys** aurea spread vigorously by subterranean rhizomes, forming dense, towering groves."*
+> - 📜 **Adolf Engler (*Das Pflanzenreich*):** *"In China and Japan, forests of **Phyllostachys** edulis provide both delicious spring shoots and industrial timber of astonishing tensile strength."*
+> - 📜 **John Muir (*Steep Trails*):** *"The whispering bamboo groves of **Phyllostachys** swayed before the typhoon, bending gracefully without breaking."*

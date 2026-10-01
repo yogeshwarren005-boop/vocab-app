@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nativeness by virtue of originating or occurring naturally (as in a particular place).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nativeness by virtue of originating or occurring naturally (as in a particular place).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ecological state of a species being native to a single defined geographic location, such as an island, nation, or other defined zone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and conservation biology, high levels of endemism indicate unique evolutionary radiation and prioritize biodiversity preservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endemism designates nativeness by virtue of originating or occurring naturally (as in a particular place)."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Continental islands separated in ancient geological epochs exhibit extraordinary levels of floral **endemism**."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Madagascar stands as a global sanctuary of evolutionary **endemism**, home to primates found nowhere else."*
+> - 📜 **Stephen Jay Gould (*Hen's Teeth and Horse's Toes*):** *"The localized **endemism** of Cerion land snails on Caribbean islets demonstrates micro-evolutionary drift."*

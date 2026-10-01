@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being a child without living parents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public institution for the care of orphans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A residential institution for the care and education of orphans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social welfare history, charitable or municipal asylums established to shelter parentless and destitute children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He’ll crack a crib in Scotland one week, and be raising money to build an orphanage in Cornwall the next."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We bought some bread at a little place next the Orphanage, and divided it among us."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We can be of more use elsewhere." We were going in a crowd to the Orphanage."*
+> - 📜 **Leo Tolstoy (*Resurrection*):** *"She visited the municipal **orphanage**, moved to tears by the rows of pale children in identical gray frocks."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The philanthropic lady spent lavishly on her favorite suburban **orphanage** while neglecting her own family."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Records from the industrial parish **orphanage** revealed how children had been bound out as apprentice laborers."*

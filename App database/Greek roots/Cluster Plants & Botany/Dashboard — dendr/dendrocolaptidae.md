@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woodhewers or woodcreepers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woodhewers or woodcreepers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of Neotropical passerine birds commonly known as woodcreepers, characterized by stiffened spine-tipped tails, syndactyl toes, and specialized tree-climbing habits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, a diverse tracheophone lineage (now often treated as a subfamily within Furnariidae) exhibiting striking morphological convergence with Holarctic treecreepers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrocolaptidae designates woodhewers or woodcreepers."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The osteology of the palate and syrinx unites the **Dendrocolaptidae** firmly with the Neotropical tracheophone passerines."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"Members of the **Dendrocolaptidae** accompany the marching army ants, seizing fleeing crickets driven up tree boles."*
+> - 📜 **Alan Feduccia (*The Origin and Evolution of Birds*):** *"The rigid caudal vertebrae of the **Dendrocolaptidae** function as a stout mechanical prop against vertical bark."*

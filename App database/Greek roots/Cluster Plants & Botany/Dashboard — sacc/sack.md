@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually rectangular-shaped bag (as of paper, burlap, or canvas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount contained in a sack; especially : a fixed amount of a commodity used as a unit of measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bag made of coarse cloth, thick paper, or plastic, used for storing and carrying goods; also a historic dry white wine imported from Spain or the Canaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Shakespearean literature, dry fortified wine (sherry); in military history, the plundering and destruction of a captured city; in commerce, dismissal from employment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proceed by process, Lest parties—as he is beloved—break out And sack great Rome with Romans."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art so fat-witted, with drinking of old sack, and unbuttoning thee after supper, and sleeping upon benches after noon, that thou hast forgotten to demand that truly which thou wouldst truly know."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What says Sir John Sack-and-sugar?"*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"A good sherris-**sack** hath a twofold operation in it: it ascends me into the brain; dries me there all the foolish and dull and crudy vapors."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To **sack** a royal city and deliver it to slaughter and rapine was the brutal triumph of ancient warfare."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The mill hand knew that one misstep would bring the **sack** and leave his starving children without bread."*

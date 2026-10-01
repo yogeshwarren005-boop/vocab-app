@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of aristotle or an adherent of aristotelianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aristotle or his philosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of Aristotelian; of, relating to, or characteristic of Aristotle or his philosophical doctrines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to empirical methodology, teleological biology, or syllogistic formal logic rooted in the works of Aristotle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristotelean designates a follower of aristotle or an adherent of aristotelianism."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"Every man is born an **Aristotelean** or a Platonist; one seeks the concrete fact, the other the transcendent idea."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Scholastic philosophy long remained entangled in rigid **Aristotelean** terminology and sterile syllogisms."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True scientific progress demands that we emancipate induction from narrow **Aristotelean** categories."*

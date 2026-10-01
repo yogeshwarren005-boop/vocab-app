@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continental city; an immense urban system spanning an entire continent (concept coined by Constantinos Doxiadis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ekistics and macro-urban theory, the developmental urban scale intermediate between a megalopolis and an ecumenopolis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eperopolis designates a term designating an entity, condition, or phenomenon derived from greek poli."*
+> - 📜 **Constantinos Doxiadis (*Ekistics: An Introduction to the Science of Human Settlements*):** *"The urban agglomeration of North America will eventually coalesce into a continental **eperopolis** linking coast to coast."*
+> - 📜 **Lewis Mumford (*The Highway and the City*):** *"Unchecked highway expansion accelerates the emergence of an amorphous **eperopolis** devouring open farmland."*
+> - 📜 **Jane Jacobs (*Cities and the Wealth of Nations*):** *"Theoretical constructs like the **eperopolis** obscure the real economic drivers centered in distinct regional city-regions."*

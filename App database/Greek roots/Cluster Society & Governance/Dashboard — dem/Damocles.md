@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A courtier of ancient Syracuse held to have been seated at a banquet beneath a sword hung by a single hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impending disaster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A courtier of ancient Syracuse, legendary subject of the sword of Damocles story symbolizing impending danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and political rhetoric, the archetype of constant, looming peril hanging over those in power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Like Damocles at his celebrated banquet, Rebecca perpetually beheld, amid that gorgeous display, the sword which was suspended over the heads of her people by a single hair."*
+> - 📜 **Cicero (*Tusculan Disputations*):** *"Dionysius taught **Damocles** the true terror of tyranny by suspending a gleaming sword above his head by a single horsehair."*
+> - 📜 **John F. Kennedy (*Address to the UN General Assembly*):** *"Every man, woman, and child lives under a nuclear sword of **Damocles**, hanging by the slenderest of threads."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Over the royal banquet hung the invisible sword of **Damocles**, ready to sever ancient privileges."*

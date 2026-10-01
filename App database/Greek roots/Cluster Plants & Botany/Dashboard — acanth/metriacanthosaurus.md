@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of theropod dinosaur from the Late Jurassic of Europe, belonging to the Metriacanthosauridae family, characterized by moderate dorsal neural spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a basal tetanuran predator measuring roughly eight meters in length that inhabited the island archipelago of Jurassic Britain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metriacanthosaurus designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **Friedrich von Huene (*Carnivorous Saurischia of the Upper Jurassic*):** *"The distinct height of the vertebral spinous processes justifies classifying **Metriacanthosaurus** apart from Megalosaurus."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*):** *"Skeletal reconstructions of **Metriacanthosaurus** show a bipedal carnivore equipped with curved, serrated teeth adapted for slicing flesh."*
+> - 📜 **Gregory S. Paul (*Predatory Dinosaurs of the World*):** *"With its deep skull and moderate vertebral ridge, **Metriacanthosaurus** was the dominant terrestrial carnivore of the Oxfordian landscape."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paternoster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paternoster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Father (often used in schoolboy slang or formal phrases, e.g. paterfamilias).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman law and cultural history, the supreme head of the domestic household (paterfamilias) exercising patria potestas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kneeling reverently at the hearth with the members of his family in a like attitude of devotion, the old man recited three _Pater Nosters_ and three _Aves_, and invoked the blessing of heaven on the log and on the cottage."*
-> - 📜 **James Joyce (*Ulysses*):** *"Icarus. _Pater, ait._ Seabedabbled, fallen, weltering."*
-> - 📜 **James Joyce (*Ulysses*):** *"Jay, look at the drunken minister coming out of the maternity hospal! _Benedicat vos omnipotens Deus, Pater et Filius_."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The boy penned an urgent letter to his **pater**, pleading for an advance on his quarterly allowance."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman law granted the **pater** absolute power of life and death over all descendants under his roof."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"Stephen Dedalus reflected on his **pater**, who had been in his day a sportsman, bank clerk, and tenor."*

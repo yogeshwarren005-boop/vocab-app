@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of acanthocytes in the blood stream (as in abetalipoproteinemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of acanthocytes in the blood stream (as in abetalipoproteinemia).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition characterized by the abnormal presence of spiny, spiked erythrocytes (acanthocytes) in the peripheral blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, a laboratory manifestation associated with inborn errors of lipoprotein metabolism or neurodegenerative syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthocytosis designates the presence of acanthocytes in the blood stream (as in abetalipoproteinemia)."*
+> - 📜 **Michael B. Singer (*Neurology in Clinical Practice*):** *"A diagnostic hallmark of chorea-acanthocytosis is hereditary **acanthocytosis** accompanied by progressive basal ganglia degeneration."*
+> - 📜 **Raymond D. Adams (*Principles of Neurology*):** *"Patients presenting with orofacial dyskinesias and hyporeflexia must be evaluated for underlying **acanthocytosis**."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"Severe advanced cirrhosis frequently produces a secondary spur-cell anemia marked by pronounced **acanthocytosis**."*

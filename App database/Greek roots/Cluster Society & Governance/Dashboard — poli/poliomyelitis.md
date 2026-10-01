@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: polio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: polio.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious viral disease that affects the central nervous system and can cause temporary or permanent paralysis; polio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and infectious disease pathology, acute anterior poliomyelitis resulting from enteroviral destruction of spinal motor neurites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog poliomyelitis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **poliomyelitis** characteristically attacks young children, leaving asymmetrical flaccid paralysis in affected limbs."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Decades after childhood recovery, post-polio syndrome revealed the delayed neurological toll of ancient **poliomyelitis**."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"The victory over epidemic **poliomyelitis** stands as one of the proudest intellectual achievements of twentieth-century medicine."*

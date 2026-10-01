@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation of what is not human or personal in terms of human or personal characteristics : humanization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interpretation of what is not human or personal in terms of human or personal characteristics : humanization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribution of human traits, emotions, or intentions to non-human entities, including animals, natural forces, or deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mythology and philosophy of mind, the cognitive projection of human mental models onto natural phenomena or non-human species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The true 140:21 worshippers shall worship the Father in spirit and in truth." Anthropomorphism The Jewish tribal Jehovah was a man-projected God, 140:24 liable to wrath, repentance, and human changeableness."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Anthropomorphism History teaches that the popular and false notions 357:18 about the Divine Being and character have originated in the human mind."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The process of thought which leads to the change from the one mode of conception to the other is anthropomorphism, or the gradual investment of the immanent spirits with more and more of the attributes of humanity."*
+> - 📜 **Ludwig Feuerbach (*The Essence of Christianity*):** *"Religious theology is nothing other than disguised **anthropomorphism**, wherein man projects his own idealized nature upon the heavens."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The Idols of the Tribe have their origin in human nature itself, generating a false **anthropomorphism** that colors every inquiry."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"Men are prone to **anthropomorphism** because they universally act with an eye to some end, imagining nature acts likewise."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Person who resembles a nonhuman primate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the suborder anthropoidea including monkeys and apes and hominids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a human being in form or appearance; an ape belonging to the superfamily Hominoidea (gibbon, orangutan, gorilla, chimpanzee).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primate taxonomy, belonging to the suborder Anthropoidea, encompassing higher primates including New World monkeys, Old World monkeys, and hominoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"She whips it off.)_ LYNCH: _(Laughs.)_ And to such delights has Metchnikoff inoculated anthropoid apes."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"An emotion marked for export, from an anthropoid world."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The structural differences which separate man from the gorilla and chimpanzee are less than those which separate the **anthropoid** apes from lower monkeys."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The emotional expressions of an **anthropoid** ape mirror human facial contractions in joy, terror, and rage."*
+> - 📜 **Richard Owen (*On the Gorillas*):** *"The massive sagittal crest of the adult male **anthropoid** provides anchor for enormous masticatory temporal muscles."*

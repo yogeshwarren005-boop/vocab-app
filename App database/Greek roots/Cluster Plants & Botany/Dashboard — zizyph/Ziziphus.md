@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zizyph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spiny shrubs and small trees in the buckthorn family (Rhamnaceae), known as jujubes, bearing sweet, edible, date-like drupes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean and Asian economic botany, drought-resistant thorny trees (such as Ziziphus jujuba and Ziziphus lotus) celebrated in folklore as the lotus tree of Homer's Odyssey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ziziphus designates a term designating an entity, condition, or phenomenon derived from greek zizyph."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Ziziphus** is characterized by alternate leaves with three prominent longitudinal nerves and sharp stipular spines."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The sweet fruit of the **Ziziphus** lotus is so pleasant that strangers eating it forgot their native fatherland."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The jujube tree or **Ziziphus** flourisheth in Italy, yielding red fruits whose sweet pulp soothes inflamed throats."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monoclinic mineral form of silver sulfide (Ag₂S), forming an important silver ore that is stable at temperatures below 173°C.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology, a dark gray to black ore mineral that forms pseudo-isometric crystals through inversion from the high-temperature polymorph argentite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthite designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Crystals of **acanthite** frequently exhibit slender, pointed prisms displaying twinning along the monoclinic pinacoid."*
+> - 📜 **Edward Salisbury Dana (*A Text-Book of Mineralogy*):** *"Below its inversion threshold, argentite pseudomorphously transforms into the sectile monoclinic species **acanthite**."*
+> - 📜 **Austin F. Rogers (*Introduction to the Study of Minerals*):** *"Under the blowpipe, **acanthite** yields a bead of malleable silver accompanied by sulfur dioxide vapors."*

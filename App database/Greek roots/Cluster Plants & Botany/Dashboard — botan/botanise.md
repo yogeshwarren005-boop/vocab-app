@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collect and study plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Collect and study plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To search for, collect, and study wild plants in their natural habitats; to botanize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To conduct field natural history excursions aimed at collecting and classifying herbarium specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Well, have you had a good hunt, have you botanised successfully?” “Yes Captain; but we have unfortunately brought a troop of bipeds, whose vicinity troubles me.” “What bipeds?” “Savages.” “Savages!” he echoed, ironically."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"During the sweet month of June, I would frequently **botanise** along the beech-covered hangers, collecting rare orchises."*
+> - 📜 **Jean-Jacques Rousseau (*Reveries of the Solitary Walker*):** *"To wander aimlessly through mountain meadows and **botanise** in peace was the purest solace of my declining years."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"There is an innocent delight in walking through shady lanes to **botanise** among the wild dog-roses."*

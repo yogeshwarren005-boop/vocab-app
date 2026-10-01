@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Almond-shaped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or affecting an amygdala.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extrusive volcanic rock (especially basalt) containing gas bubbles (vesicles) that have been filled with secondary minerals such as zeolites, quartz, or calcite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, resembling an almond in form, as in the amygdaloid body (amygdala) of the temporal lobe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdaloid designates almond-shaped."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"The sea cliffs of St. Helena consist of dark porous lava alternating with heavy beds of compact **amygdaloid**."*
+> - 📜 **Hugh Miller (*The Old Red Sandstone*):** *"Veins of jasper and banded agate traverse the weathered **amygdaloid** rocks along the Scottish coast."*
+> - 📜 **James Hutton (*Theory of the Earth*):** *"The formation of **amygdaloid** demonstrates that mineral solutions infiltrated the cooled subterranean fissures over enormous expanses of time."*

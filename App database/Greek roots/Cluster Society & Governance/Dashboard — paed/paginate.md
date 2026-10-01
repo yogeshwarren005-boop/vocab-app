@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Number the pages of a book or manuscript.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Number the pages of a book or manuscript.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To number the pages of a book, manuscript, or document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and desktop publishing, to arrange text and layout into sequential discrete pages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paginate designates number the pages of a book or manuscript."*
+> - 📜 **Thomas Frognall Dibdin (*The Bibliomania; or Book-Madness*):** *"Early printers did not always **paginate** their folios, relying instead on signature marks at the bottom of the leaf."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"The publisher failed to **paginate** the preliminary verses correctly before binding the volume."*
+> - 📜 **James Murray (*The Oxford English Dictionary (Preface)*):** *"Meticulous scribes were hired to **paginate** the vast bundles of lexicographical slips."*

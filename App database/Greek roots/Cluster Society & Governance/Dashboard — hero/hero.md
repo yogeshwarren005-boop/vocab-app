@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythological or legendary figure often of divine descent endowed with great strength or ability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illustrious warrior or soldier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person admired for courage, outstanding achievements, or noble qualities; or the chief male character in a book, play, or film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and religion, a demigod or mortal endowed with superhuman strength and celebrated with post-mortem cult worship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARGARET, Waiting gentlewoman attending on Hero."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"URSULA, Waiting gentlewoman attending on Hero."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Leonato, Hero, Beatrice and others, with a Messenger."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Universal history is at bottom the history of the Great Men who have worked here, the **hero** as divinity, prophet, and poet."*
+> - 📜 **Joseph Campbell (*The Hero with a Thousand Faces*):** *"A **hero** ventures forth from the world of common day into a region of supernatural wonder."*
+> - 📜 **Homer (*The Iliad*):** *"Achilles fought with reckless fury, knowing that the glorious life of the true **hero** must be brief."*

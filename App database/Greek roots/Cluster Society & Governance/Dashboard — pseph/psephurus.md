@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of polyodontidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of polyodontidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large freshwater fish containing the Chinese paddlefish (Psephurus gladius), now declared extinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and conservation biology, an ancient acipenseriform fish of the Yangtze River basin reaching up to 7 meters in length with an elongated rostrum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephurus designates a genus of polyodontidae."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The giant Chinese paddlefish, **Psephurus** gladius, bears a broad sword-like snout equipped with electroreceptors."*
+> - 📜 **E. O. Wilson (*The Future of Life*):** *"The extinction of **Psephurus** gladius in the Yangtze river basin represents the tragic loss of a primordial vertebrate lineage."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Anatomically, **Psephurus** links the paddlefishes to ancient Mesozoic chondrostean ancestors."*

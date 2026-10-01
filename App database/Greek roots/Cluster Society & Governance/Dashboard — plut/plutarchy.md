@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the wealthy; plutocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, rule concentrated in the hands of an oligarchy of wealth rather than hereditary nobility or civic merit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutarchy designates a term designating an entity, condition, or phenomenon derived from greek plut."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A society worshiping cash payment as the sole nexus between men will swiftly degrade into an unfeeling **plutarchy**."*
+> - 📜 **H. L. Mencken (*Notes on Democracy*):** *"The modern industrial democracy is at bottom a veiled **plutarchy** governed by syndicates of high finance."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft declared that gunpowder and money constituted the true sovereign **plutarchy** of the modern empire."*

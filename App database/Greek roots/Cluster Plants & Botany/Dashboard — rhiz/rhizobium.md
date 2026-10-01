@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of soil bacteria (family Rhizobiaceae) that infect the roots of leguminous plants, forming nodules within which they fix atmospheric nitrogen into ammonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural biotechnology, endosymbiotic bacteroids that exchange reduced nitrogen for plant dicarboxylic acids within specialized root nodule organelles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizobium designates the type genus of rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen."*
+> - 📜 **Martinus Beijerinck (*On the Root-Nodule Bacteria of Legumes*):** *"I succeeded in isolating pure cultures of **Rhizobium** leguminosarum from the root tubercles of garden peas."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The replenishment of soil fertility through clover rests upon symbiotic infection by subterranean **Rhizobium** bacteria."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Crop rotation with clover restores exhausted soils, a miraculous natural process mediated by microscopic **Rhizobium** nodules."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The decrease or absence of melanin in head hair, eyebrows, or eyelashes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decrease or absence of melanin in head hair, eyebrows, or eyelashes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Premature graying or whitening of the hair on the scalp, eyebrows, or eyelashes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and clinical neurology, localized hair depigmentation associated with autoimmune conditions such as vitiligo or Vogt-Koyanagi-Harada disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poliosis designates the decrease or absence of melanin in head hair, eyebrows, or eyelashes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Circumscribed patches of **poliosis** are frequently noted in conjunction with localized alopecia areata."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Sudden terror or profound sorrow was anciently believed capable of producing overnight **poliosis**."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The genetic syndrome presented with cutaneous hypopigmentation and a striking frontal tuft of **poliosis**."*

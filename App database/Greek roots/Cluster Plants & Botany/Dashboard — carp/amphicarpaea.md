@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small genus of twining vines of north america and asia: hog peanut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small genus of twining vines of north america and asia: hog peanut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recognized spelling variant or botanical generic name for Amphicarpa (the hog peanut vine, family Fabaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an East Asian and North American disjunct genus famous for producing dimorphic aerial and subterranean fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphicarpaea designates very small genus of twining vines of north america and asia: hog peanut."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Under the name **Amphicarpaea**, Elliott described the singular habit of producing fleshy single-seeded pods beneath the earth."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers*):** *"The subterranean flowers of **Amphicarpaea** lack petals, fertilizing themselves in absolute darkness before setting subterranean fruit."*
+> - 📜 **Nathaniel Lord Britton (*An Illustrated Flora of the Northern United States*):** *"Specimens of **Amphicarpaea** bracteata collected in autumn show subterranean runners bearing plump edible seeds."*

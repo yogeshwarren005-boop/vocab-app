@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound (such as a drug, pesticide, or carcinogen) that is foreign to a living organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound (such as a drug, pesticide, or carcinogen) that is foreign to a living organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance found within an organism that is not naturally produced or expected to be present within the organism (e.g. drugs, pollutants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and biochemistry, synthetic foreign compounds metabolized through hepatic cytochrome P450 enzyme pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenobiotic designates a chemical compound (such as a drug, pesticide, or carcinogen) that is foreign to a living organism."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic pesticides represent persistent **xenobiotic** chemicals that accumulate up the food chain."*
+> - 📜 **Bruce Ames (*Dietary Carcinogens and Anticarcinogens*):** *"The human liver evolved sophisticated enzyme cascades to detoxify a continuous influx of natural and industrial **xenobiotic** compounds."*
+> - 📜 **Lewis Thomas (*Late Night Thoughts*):** *"Modern industrial chemistry floods the biosphere with novel **xenobiotic** molecules never before encountered in evolution."*

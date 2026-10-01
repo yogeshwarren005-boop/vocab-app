@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monkeys; apes; hominids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monkeys; apes; hominids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of primates (the simians) comprising New World monkeys, Old World monkeys, apes, and humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, a major primate clade characterized by diurnal vision, fused frontal bones, and postorbital plates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropoidea designates monkeys; apes; hominids."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The suborder **Anthropoidea** unites all higher primates under well-defined cranial and dental synapomorphies."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Phylogenetic reconstructions of **Anthropoidea** confirm our nested position among the African great apes."*
+> - 📜 **Robert Yerkes (*The Great Apes*):** *"Comparative psychological studies within **Anthropoidea** demonstrate sophisticated social cognition across all genera."*

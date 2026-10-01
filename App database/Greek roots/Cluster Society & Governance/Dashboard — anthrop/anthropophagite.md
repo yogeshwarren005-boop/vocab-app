@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who eats human flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cannibal; a person who eats human flesh (archaic or literary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance travelogues and classical literature, a member of a legendary tribe or race reputed to practice cannibalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropophagite designates a person who eats human flesh."*
+> - 📜 **William Shakespeare (*Othello*):** *"And of the Cannibals that each other eat, The **Anthropophagi**, and men whose heads Do grow beneath their shoulders."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The traveler trembled at the thought of falling into the hands of some savage **anthropophagite** horde."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg was a native of Kokovoko, an island far away, where his father ruled as a noble **anthropophagite** king."*

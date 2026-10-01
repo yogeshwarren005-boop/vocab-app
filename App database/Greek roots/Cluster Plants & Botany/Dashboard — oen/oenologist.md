@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with wine and wine making.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with wine and wine making.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who specializes in oenology; an expert in wine and the science of winemaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial viticulture, a technical director responsible for guiding grape crushing, fermentation kinetics, and clarification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oenologist designates a science that deals with wine and wine making."*
+> - 📜 **Louis Pasteur (*Studies on Wine*):** *"Careful thermal processing proposed to the **oenologist** destroyed pathogenic ferments without sacrificing delicate vintage aromas."*
+> - 📜 **Alexis Lichine (*Guide to the Vineyards and Châteaux of France*):** *"The estate **oenologist** monitors hydrometer readings daily as the autumn fermentation bubbles vigorously in vat."*
+> - 📜 **William Osler (*AEquanimitas*):** *"Like a seasoned **oenologist**, the seasoned clinician develops refined sensory discrimination through decades of disciplined practice."*

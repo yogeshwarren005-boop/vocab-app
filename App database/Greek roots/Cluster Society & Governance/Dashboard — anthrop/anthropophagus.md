@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who eats human flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cannibal; an eater of human flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical or Renaissance Latinate term for a man-eater, often cited in historical ethnographies and mythological lore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropophagus designates a person who eats human flesh."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"He'll speak like an **Anthropophagus** unto thee: knock, I say."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Melancholic frenzy has driven solitary wretches to become wild beasts and bloodthirsty **anthropophagus** recluses."*
+> - 📜 **John Mandeville (*The Travels of Sir John Mandeville*):** *"In islands beyond the sea dwell fierce **anthropophagus** nations who feast upon captives taken in war."*

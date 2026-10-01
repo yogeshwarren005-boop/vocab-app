@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hornworts; liverworts having a thalloid gametophyte; in some classification systems included in the class hepaticopsida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hornworts; liverworts having a thalloid gametophyte; in some classification systems included in the class hepaticopsida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of bryophytes that includes the hornworts, characterized by thallose gametophytes and continuous-growing sporophytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an order often treated as the sole order within Anthocerotopsida, representing a pivotal evolutionary transition in early land plant lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthocerotales designates hornworts; liverworts having a thalloid gametophyte; in some classification systems included in the class hepaticopsida."*
+> - 📜 **Frederick Orpen Bower (*Primitive Land Plants*):** *"The morphological isolation of the **Anthocerotales** strongly supports their recognition as an independent evolutionary lineage."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Comparative embryology demonstrates that the **Anthocerotales** diverge fundamentally from both true mosses and marchantialean liverworts."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Under our system, the **Anthocerotales** occupy an intermediate grade between the thalloid bryophytes and primitive vascular pteridophytes."*

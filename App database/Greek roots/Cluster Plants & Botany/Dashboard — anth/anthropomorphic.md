@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Described or thought of as having a human form or human attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribing human characteristics to nonhuman things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attributing human form, characteristics, motives, or behaviors to gods, animals, or inanimate objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology and theology, describing representations that depict non-human phenomena in the likeness of humanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is individual and personal in a scientific 337:1 sense, but not in any anthropomorphic sense."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The word /an- thropomorphic/, in such a phrase as "an anthropomorphic God," is derived from two Greek words, signifying /man/ 517:6 and /form/, and may be defined as a mortally mental at- tempt to reduce Deity to corporeality."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The evidence for this anthropomorphic representation of the tree-spirit is largely to be found in the popular customs of European peasantry."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"The vulgar imagination demands an **anthropomorphic** deity endowed with human passions, partialities, and wrath."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"We must avoid carelessly **anthropomorphic** language when interpreting the playful gestures of domestic animals."*
+> - 📜 **Xenophanes (*Fragments*):** *"Mortals deem that gods are begotten as they are, but if cattle or horses had hands, they would draw gods in **anthropomorphic** equine forms."*

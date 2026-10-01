@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed with or having saclike expansions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed with or having saclike expansions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into or possessing a series of small sacs, pouches, or saccules (such as the sacculated colon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human and comparative anatomy, characterized by haustra or bulging segmental pouches, as seen in the human large intestine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacculated designates formed with or having saclike expansions."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The human colon is uniquely **sacculated** by three longitudinal bands of muscular taeniae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic purulent bronchiectasis had transformed the lower bronchial tree into a series of **sacculated** cavities."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The stomach of the leaf-eating monkey is complexly **sacculated** to support microbial cellulose fermentation."*

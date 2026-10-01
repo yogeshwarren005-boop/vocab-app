@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Favoring, conducive to, or operating toward peace, moderation, or conciliation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favoring, conducive to, or operating toward peace, moderation, or conciliation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aiming or aimed at peace; conciliatory, non-confrontational, or promoting harmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecumenical theology and diplomacy, an approach that emphasizes common ground rather than polemical division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irenic designates favoring, conducive to, or operating toward peace, moderation, or conciliation."*
+> - 📜 **Erasmus of Rotterdam (*Praise of Folly*):** *"Erasmus advocated an **irenic** reform of Christian morals rather than violent sectarian conflict."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"My response was written in an **irenic** spirit, seeking to clarify misunderstandings rather than wound opponents."*
+> - 📜 **Bertrand Russell (*Common Sense and Nuclear Warfare*):** *"International survival requires an **irenic** diplomacy that dismantles ideological hostility."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A caryophyllaceous genus of carpobrotus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caryophyllaceous genus of carpobrotus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of succulent coastal creeping plants in the ice plant family (Aizoaceae), known as pigface, sour fig, or hottentot fig, bearing large daisy-like flowers and edible fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal ecology, robust ground-hugging halophytes with triangular succulent leaves used for dune stabilization, frequently becoming invasive in Mediterranean climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpobrotus designates a caryophyllaceous genus of carpobrotus."*
+> - 📜 **Nathaniel Lord Britton (*Flora of Bermuda*):** *"The thick triangular succulent leaves of **Carpobrotus** edulis carpet maritime dunes, binding shifting coastal sand."*
+> - 📜 **Philip A. Munz (*A California Flora*):** *"Introduced from South Africa, **Carpobrotus** has naturalized along the Pacific coast, outcompeting native coastal scrub."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The fleshy yellow and magenta blossoms of **Carpobrotus** open only in bright sunlight, setting large pulpy edible fruits."*

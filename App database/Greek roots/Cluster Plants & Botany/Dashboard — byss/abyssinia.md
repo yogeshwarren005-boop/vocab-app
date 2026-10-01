@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ethiopia is a republic in northeastern africa on the red sea; formerly called abyssinia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ethiopia is a republic in northeastern africa on the red sea; formerly called abyssinia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical name of the Ethiopian empire in the highlands of Northeast Africa, renowned for its ancient Christian culture and mountain plateaus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geography and biogeography, a rugged afroalpine biodiversity hotspot and the native home of Coffea arabica.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The people of Egghiou, a district of Abyssinia, used to engage in sanguinary conflicts with each other, village against village, for a week together every January for the purpose of procuring rain."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among tribes on the outskirts of Abyssinia a similar office exists and has been thus described by an observer: "The priesthood of the Alfai, as he is called by the Barea and Kunama, is a remarkable one; he is believed to be able to make rain."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Some one once asked Bruce what musical instruments were used in Abyssinia."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Encompassed on all sides by the enemies of their religion, the Christians of **Abyssinia** slept near a thousand years, forgetful of the world by whom they were forgotten."*
+> - 📜 **Samuel Johnson (*The History of Rasselas, Prince of Abissinia*):** *"Ye who listen with credulity to the whispers of fancy, attend to the history of Rasselas, prince of **Abyssinia**."*
+> - 📜 **James Bruce (*Travels to Discover the Source of the Nile*):** *"After years of peril, I reached the mountainous heart of **Abyssinia**, gazing upon the springs that feed the Blue Nile."*

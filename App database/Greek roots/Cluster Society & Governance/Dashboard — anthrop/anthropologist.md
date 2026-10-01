@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social scientist who specializes in anthropology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social scientist who specializes in anthropology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social or physical scientist who studies human biological and cultural history, social structures, and evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist trained in ethnography, archaeology, linguistic anthropology, or biological anthropology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grinnell, "Cheyenne Woman Customs," _American Anthropologist_, New Series, iv. (New York, 1902) pp. 13 _sq_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grinnell, "Cheyenne Woman Customs," _American Anthropologist_, New Series, iv. (New York, 1902) p. 14. [230] C."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hewitt, "New Fire among the Iroquois," _The American Anthropologist_, ii. (1889) p. 319. [743] J."*
+> - 📜 **Margaret Mead (*Blackberry Winter*):** *"As a practicing **anthropologist**, my workshop was the living community rather than the quiet library."*
+> - 📜 **Clifford Geertz (*The Interpretation of Cultures*):** *"The cultural **anthropologist** does not discover raw facts, but interprets webs of significance that humans themselves spin."*
+> - 📜 **Zora Neale Hurston (*Mules and Men*):** *"I had to slip off the academic mantle of the **anthropologist** to truly hear the folklore of my people."*

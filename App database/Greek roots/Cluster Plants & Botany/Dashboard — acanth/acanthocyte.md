@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal red blood cell (erythrocyte) exhibiting thorny, irregular, spike-like cytoplasmic projections over its surface; a spur cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, a poikilocyte whose deformed morphology results from lipid imbalances in the cell membrane, particularly seen in abetalipoproteinemia and liver disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthocyte designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **Ernest Beutler (*Williams Hematology*):** *"Under the optical microscope, each **acanthocyte** displays irregularly spaced spicules of varying length, unlike the uniform crenations of echinocytes."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"The formation of the **acanthocyte** reflects altered membrane cholesterol-to-phospholipid ratios that impair red cell deformability."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Peripheral blood smear examination revealed the classic **acanthocyte** profile pathognomonic of Bassen-Kornzweig syndrome."*

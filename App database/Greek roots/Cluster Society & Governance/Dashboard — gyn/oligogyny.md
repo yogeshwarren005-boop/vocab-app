@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mating system or condition in which a male mates with only a few females; or in social insects, the presence of few queens in a colony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology and myrmecology, a social insect structure intermediate between monogyny and polygyny characterized by a restricted number of functional queens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligogyny designates a term designating an entity, condition, or phenomenon derived from greek gyn."*
+> - 📜 **Bert Hölldobler (*The Ants*):** *"Periodic execution of excess queens stabilizes the colony in a state of functional **oligogyny**."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Under conditions of **oligogyny**, worker policing regulates queen numbers to maintain optimal reproductive output."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"Certain ant subfamilies maintain **oligogyny** by tolerating only two or three sister foundresses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bruchidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bruchidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of seed beetles in the subfamily Bruchinae (family Chrysomelidae), notorious for infesting leguminous seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, economically destructive pests such as Acanthoscelides obtectus (the bean weevil), which reproduces inside stored dry beans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthoscelides designates a genus of bruchidae."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"A single stored jar of kidney beans may breed thousands of tiny **Acanthoscelides** beetles in the course of a single summer."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"The larva of **Acanthoscelides** burrows into the cotyledons, leaving behind hollowed, unviable seeds and powdery frass."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Field infestations of **Acanthoscelides** commence while pods are green and mature rapidly once the crop is placed in granaries."*

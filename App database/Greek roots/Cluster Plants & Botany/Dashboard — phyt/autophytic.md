@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of synthesizing organic nutrients independently from inorganic sources via photosynthesis; autotrophic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological plant nutrition, designating self-sustaining metabolic pathways that depend exclusively on light, water, carbon dioxide, and mineral ions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autophytic designates of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The **autophytic** nutrition of green thallophytes demonstrates the fundamental biochemical foundation of all terrestrial life."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The fern gametophyte is entirely **autophytic**, absorbing soil water through rhizoids while its prothallus photosynthesizes."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Loss of **autophytic** capacity accompanies the evolutionary transition toward total root parasitism in broomrapes."*

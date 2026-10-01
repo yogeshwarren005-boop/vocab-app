@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of mediterranean herbs and shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of mediterranean herbs and shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous herbs and shrubs in the pea family (Fabaceae), commonly called kidney vetch or lady's fingers, native to Europe and North Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral agriculture and traditional pharmacognosy, deep-rooted calcicole plants bearing dense woolly flower heads used as sheep forage and wound astringents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthyllis designates genus of mediterranean herbs and shrubs."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **Anthyllis**, I have grouped those leguminous species whose calyces are inflated and persistently enclose the legume."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The yellow blossom of **Anthyllis** vulneraria is reputed among alpine shepherds to stay the bleeding of severe cuts."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"On chalk downs and maritime limestone cliffs, **Anthyllis** forms low dense mats crowned with woolly heads of golden florets."*

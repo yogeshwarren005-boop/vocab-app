@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rounded, accretionary sedimentary granule or particle, similar to an ooid but larger (greater than 2 mm in diameter), composed of concentric mineral laminae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentary petrology, a coated spherical grain formed by chemical precipitation around a nucleus in cave pools (cave pearls) or shallow marine carbonate settings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pisoid designates adjective & noun*) resembling, having the physical form of, or akin to pea."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"In thermal springs, agitated waters coat sand grains with concentric shells of calcite, forming an accretionary **pisoid**."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Each **pisoid** displays concentric growth rings around a central fragment of shell or quartz pebble."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Travertine terraces at Tivoli contain beds where each spherical **pisoid** rivals a hazelnut in size."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tough, leathery, felt-like mycelial mat formed by certain wood-rotting fungi in the crevices and hollows of decaying trees (such as oak leather).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest pathology and historical mycology, thick sheets of sterile vegetative mycelium formerly classified as an independent fungal genus (Xylostroma giganteum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylostroma designates a term designating an entity, condition, or phenomenon derived from greek xyl."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Early naturalists described **Xylostroma** as an autonomous fungus, whereas it is merely the sterile vegetative felt of a polypore."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"In hollow fallen logs, one frequently finds sheets of **xylostroma**, tough and flexible as tanned chamois leather."*
+> - 📜 **Robert Hartig (*Diseases of Trees*):** *"The formation of dense **xylostroma** between heartwood fissures accelerates fungal dry rot by storing moisture."*

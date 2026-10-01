@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world (mainly african) perennial herbs; sometimes placed in family asphodelaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world (mainly african) perennial herbs; sometimes placed in family asphodelaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of rhizomatous perennial flowering plants in the family Asparagaceae, known as St. Bernard's lilies, bearing starry white flowers on unbranched scapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European and African floristics, herbaceous perennials with grass-like leaves and racemose blossoms native to subalpine meadows and dry grasslands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthericum designates genus of old world (mainly african) perennial herbs; sometimes placed in family asphodelaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Anthericum** is characterized by a six-petaled spreading perianth and filiform stamens crowned with erect anthers."*
+> - 📜 **William Curtis (*The Botanical Magazine*):** *"In June, the graceful scapes of **Anthericum** liliago rise above the foliage, displaying pure white star-like blossoms."*
+> - 📜 **Philip Miller (*The Gardeners Dictionary*):** *"Alpine gardeners value **Anthericum** for its hardiness and the luminous purity of its floral racemes."*

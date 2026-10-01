@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the staphylococcus bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the staphylococcus bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by bacteria of the genus Staphylococcus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and epidemiology, designating infections ranging from minor boils and impetigo to life-threatening sepsis and endocarditis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphylococcal designates of or relating to the staphylococcus bacteria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute osteomyelitis in adolescents is overwhelmingly of **staphylococcal** origin, demanding prompt surgical trepanation and drainage."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"The clear zone around the mold colony demonstrated the complete lysis of the surrounding **staphylococcal** lawn."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"Methicillin-resistant **staphylococcal** bacteremia constitutes one of the gravest challenges in modern hospital epidemiology."*

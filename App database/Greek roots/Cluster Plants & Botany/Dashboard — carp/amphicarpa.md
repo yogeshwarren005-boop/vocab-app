@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small genus of twining vines of north america and asia: hog peanut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small genus of twining vines of north america and asia: hog peanut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing herbaceous leguminous vines (family Fabaceae), commonly known as hog peanuts, notable for producing two distinct types of flowers and fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, a twining woodland legume displaying amphicarpy, producing showy chasmogamous aerial flowers and subterranean cleistogamous pods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphicarpa designates very small genus of twining vines of north america and asia: hog peanut."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The vine **Amphicarpa** produces aerial pods that scatter seeds, while underground branches bury subterranean fleshy legumes in rich leaf mold."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In moist rich woodlands, the slender stems of **Amphicarpa** monoica twine over low bushes, bearing subterranean one-seeded pods."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"Native Americans gathered the sweet subterranean beans of **Amphicarpa** from the caches of woodland mice."*

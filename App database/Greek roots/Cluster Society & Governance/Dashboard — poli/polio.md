@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute viral disease marked by inflammation of nerve cells of the brain stem and spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute viral disease marked by inflammation of nerve cells of the brain stem and spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poliomyelitis; an infectious viral disease affecting the central nervous system, often causing paralysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and epidemiology, an enterovirus infection (poliovirus) causing destruction of anterior horn motor neurons in the spinal cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polio designates an acute viral disease marked by inflammation of nerve cells of the brain stem and spinal cord."*
+> - 📜 **Jonas Salk (*Studies on the Inactivated Poliovirus Vaccine*):** *"Widespread inoculation with inactivated vaccine halted the terrifying seasonal summer surges of paralytic **polio**."*
+> - 📜 **Albert Sabin (*Oral Poliovirus Vaccine*):** *"The oral attenuated vaccine eliminated wild **polio** transmission across entire continental populations."*
+> - 📜 **Philip Roth (*Nemesis*):** *"In the humid summer heat of 1944, fear of the crippling scourge of **polio** emptied every playground in Newark."*

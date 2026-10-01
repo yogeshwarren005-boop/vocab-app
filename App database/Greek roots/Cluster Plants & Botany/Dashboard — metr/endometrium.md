@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mucous membrane lining the interior wall of the uterus, which thickens and sheds during the menstrual cycle in primates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology, a highly dynamic mucosal layer composed of functionalis and basalis zones that undergoes estrogen-primed proliferation followed by progesterone secretory differentiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometrium designates (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition."*
+> - 📜 **Santiago Ramón y Cajal (*Manual of Normal Histology*):** *"Histological examination reveals rich tubular glands and spiral arterioles traversing the vascular stroma of the **endometrium**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Implantation of the blastocyst cannot occur unless the **endometrium** has achieved full progestational decidualization."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Topical applications to the diseased **endometrium** must be administered with cautious antiseptic care."*

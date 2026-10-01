@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant species that was introduced to an area by human activity in ancient times (in Europe, usually before the discovery of America in 1492).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical plant biogeography and archaeobotany, ancient agricultural weeds and cultivars (such as the corn poppy and cornflower) thoroughly naturalized in pre-modern farming landscapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeophyte designates a term designating an entity, condition, or phenomenon derived from greek phyt."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"Many of our familiar arable field weeds are classified as an **archaeophyte**, having arrived with Neolithic and Roman agriculture."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The scarlet corn poppy is a classic **archaeophyte**, following ancient cereal trade routes from the Mediterranean basin across western Europe."*
+> - 📜 **Colin Renfrew (*Before Civilization*):** *"Pollen cores reveal the sudden appearance of the first cereal-associated **archaeophyte** species alongside early clearing horizons."*

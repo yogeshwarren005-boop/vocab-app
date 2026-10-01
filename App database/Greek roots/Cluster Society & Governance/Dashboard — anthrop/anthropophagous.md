@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to eaters of human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to eaters of human flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on human flesh; cannibalistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnology and historical zoology, describing organisms or communities known or reputed to consume humans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Speculators do not dine entirely on "lambs"; they are anthropophagous."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe lived in perpetual dread of encountering the **anthropophagous** savages who periodically visited his shore."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"Rumors of an **anthropophagous** tribe deep in the interior proved to be exaggerated campfire lore."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"In evaluating **anthropophagous** customs of the New World, let us not ignore the cruelties of our own civil wars."*

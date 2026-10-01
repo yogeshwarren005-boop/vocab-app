@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Potter bees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Potter bees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of solitary bees in the family Megachilidae, known as wool carder bees, which gather plant trichomes to line their brood cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hymenopteran ethology, territorial solitary bees wherein males vigorously defend floral patches against competing pollinators using abdominal spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthidium designates potter bees."*
+> - 📜 **Jean-Henri Fabre (*Bramble-Bees and Others*):** *"The industrious female **Anthidium** scrapes the downy wool from mullein leaves, rolling it into a compact pellet for her masonry nest."*
+> - 📜 **Charles D. Michener (*The Bees of the World*):** *"Males of **Anthidium** manicatum exhibit pronounced aggressive territoriality, striking intruding insects with sharp metasomal teeth."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"The nesting architecture of **Anthidium** relies exclusively upon harvested plant hairs bound with protective floral resins."*

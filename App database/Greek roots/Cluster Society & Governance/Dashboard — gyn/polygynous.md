@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one wife at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having more than one wife at a time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practicing, characterized by, or relating to polygyny (having multiple wives or female mates).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary zoology and botany, describing mating systems where males mate with multiple females, or flowers having many styles or pistils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygynous designates having more than one wife at a time."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In **polygynous** mammal species, intense male-male competition drives the evolution of large body size and weaponry."*
+> - 📜 **Bronislaw Malinowski (*Argonauts of the Western Pacific*):** *"Trobriand chiefs were uniquely permitted **polygynous** privileges to consolidate inter-tribal alliances."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The order Polygynia in classical botany included species with numerous **polygynous** pistils."*

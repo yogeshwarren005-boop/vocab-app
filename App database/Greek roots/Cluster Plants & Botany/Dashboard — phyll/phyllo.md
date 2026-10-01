@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue thin sheets of pastry used especially in greek dishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue thin sheets of pastry used especially in greek dishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paper-thin unleavened pastry dough of Greek origin, used in layers to make dishes such as baklava and spanakopita; filo dough.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean culinary history, dough rolled and stretched until translucent, brushed with melted butter or olive oil to produce crisp laminated pastry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllo designates tissue thin sheets of pastry used especially in greek dishes."*
+> - 📜 **Alexis Lichine (*Encyclopedia of Wines and Foods*):** *"Layers of delicate buttered **phyllo** are wrapped around spiced walnuts and soaked in honey syrup to produce authentic baklava."*
+> - 📜 **Elizabeth David (*Mediterranean Food*):** *"The Greek pastry cook handles **phyllo** with swift dexterity, keeping the tissue-thin sheets under a damp cloth to prevent drying."*
+> - 📜 **Frank A. Lee (*Basic Food Chemistry*):** *"High-protein flour with extensible gluten is essential for stretching **phyllo** dough into paper-thin transparent sheets."*

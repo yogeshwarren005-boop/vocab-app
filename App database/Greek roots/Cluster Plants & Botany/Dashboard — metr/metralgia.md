@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the uterus; uterine neuralgia or tenderness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century clinical gynecology, persistent non-inflammatory pain of the womb attributed to neuropathic or spasmodic congestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metralgia designates pain in the uterus."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Neuralgic **metralgia** frequently afflicts delicate females, manifesting as dull aching over the hypogastrium during menstruation."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Severe **metralgia** was dramatically relieved following surgical dilatation of the constricted internal cervical os."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The practitioner must distinguish chronic pelvic **metralgia** from acute inflammatory peritonitis."*

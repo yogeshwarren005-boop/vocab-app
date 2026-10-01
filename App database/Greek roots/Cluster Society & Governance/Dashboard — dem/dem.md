@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Demonstrative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demonstrative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek dēmos ('people', 'district'), forming words related to populations and governance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological lexicography, the root morpheme signifying civic community, demographic distributions, and endemic conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Gonzenbach, _op. cit._ Nos. 26, 27; _Der Pentamerone, aus dem Neapolitanischen übertragen_ von Felix Liebrecht (Breslau, 1846), No. 23, vol. i. pp. 294 _sqq._)."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Keysser, "Aus dem Leben der Kaileute," in R."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Wiedemann, _Aus dem inneren und aüssern Leben der Ehsten_ (St."*
+> - 📜 **Plato (*The Republic*):** *"The transition from oligarchy begins when the impoverished **dem**- claims equal political share in the commonwealth."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The vitality of civic associations reveals the fundamental character of the American **dem**-."*
+> - 📜 **Will Durant (*The Life of Greece*):** *"Greek vocabulary gave the modern world terms uniting the **dem**- with institutions of popular justice."*

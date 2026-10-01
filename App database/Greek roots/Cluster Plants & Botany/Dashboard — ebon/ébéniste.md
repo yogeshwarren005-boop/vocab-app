@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ebon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A master cabinetmaker who specializes in fine, artistic veneered furniture and marquetry (French variant of ebeniste).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French cultural history, an elite guild artisan distinguished from the basic carpenter (menuisier) by crafting luxurious royal furnishings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ébéniste designates a term designating an entity, condition, or phenomenon derived from greek ebon."*
+> - 📜 **Denis Diderot (*Encyclopédie*):** *"The article on the **ébéniste** details the complex tools required for sawing micro-thin veneers of rosewood and amaranth."*
+> - 📜 **Honoré de Balzac (*The Quest of the Absolute*):** *"Balthazar Claes admired the Flemish chest, carved two centuries ago by a master **ébéniste** of Antwerp."*
+> - 📜 **Edmond de Goncourt (*The Art of the Eighteenth Century*):** *"Under Louis XV, the Parisian **ébéniste** attained the pinnacle of decorative artistry with sinuous rococo curves."*

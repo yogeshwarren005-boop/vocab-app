@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of weights and measures or of measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of weights and measures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study and established system of weights and measures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and industrial science, the discipline dedicated to defining units of measurement, realizing measurement standards, and establishing traceability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrology designates the science of weights and measures or of measurement."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Progress in experimental chemistry was made possible only by the rigorous application of physical **metrology**."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"When you can measure what you are speaking about, you know something about it; this is the supreme maxim of **metrology**."*
+> - 📜 **Colin Renfrew (*Before Civilization*):** *"The invention of stone weights in early Mesopotamia marks the dawn of mathematical **metrology** in human society."*

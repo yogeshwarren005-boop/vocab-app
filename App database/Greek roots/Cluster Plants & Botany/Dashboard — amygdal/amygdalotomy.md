@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision, cutting, or removal of a tonsil; tonsillectomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century surgery, the historical operation of amputating enlarged palatine tonsils using a specialized tonsillotome or snare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdalotomy designates psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence)."*
+> - 📜 **Morell Mackenzie (*Diseases of the Pharynx, Larynx, and Trachea*):** *"When hypertrophied tonsils impede respiration and cause chronic dysphagia, bilateral **amygdalotomy** offers prompt relief."*
+> - 📜 **George M. Lefferts (*Pharmacopoeia of the Throat Hospital*):** *"The guillotine instrument perfected for **amygdalotomy** permits swift, clean amputation of the hypertrophied gland."*
+> - 📜 **Frank Hamilton (*The Principles and Practice of Surgery*):** *"Postoperative hemorrhage following **amygdalotomy** is best checked by topical astringents or digital pressure against the carotid."*

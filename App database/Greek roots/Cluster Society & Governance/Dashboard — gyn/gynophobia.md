@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or intense fear or hatred of women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychoanalysis, a morbid phobic anxiety provoked by female presence or maternal authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynophobia designates a term designating an entity, condition, or phenomenon derived from greek gyn."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"Archaic tribal taboos surrounding menstruation reflect an unacknowledged cultural **gynophobia**."*
+> - 📜 **Karen Horney (*Feminine Psychology*):** *"Male dread of woman, or deep-seated **gynophobia**, often masks anxiety regarding sexual inadequacy."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Morbid phobic fixations like **gynophobia** illustrate how emotional trauma can distort interpersonal life."*

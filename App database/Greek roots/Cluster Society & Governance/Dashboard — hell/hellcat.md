@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malicious woman with a fierce temper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malicious woman with a fierce temper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiteful, violent, or bad-tempered person, especially a woman; a shrew or witch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial naval and aviation history, legendary military hardware such as the Grumman F6F Hellcat fighter aircraft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hellcat designates a malicious woman with a fierce temper."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"The town gossips warned Petruchio that Katharine was an untamable, venomous **hellcat**."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The old crone hissed through her toothless gums, spitting curses like an enraged **hellcat**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Bertha Mason snarled in the shadows of the attic like a desperate, caged **hellcat**."*

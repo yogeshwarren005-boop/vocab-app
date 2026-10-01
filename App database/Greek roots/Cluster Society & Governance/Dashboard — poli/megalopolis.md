@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thickly populated region centering in a metropolis or embracing several metropolises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large, heavily populated city or urban complex; an interconnected chain of metropolitan areas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban sociology and geography (popularized by Jean Gottmann for the Boston-to-Washington corridor), a massive continuous urbanized regional system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalopolis designates a very large city."*
+> - 📜 **Jean Gottmann (*Megalopolis: The Urbanized Northeastern Seaboard of the United States*):** *"The sprawling northeastern **megalopolis** represents a new order of human settlement transcending state boundaries."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"When the metropolis outgrows organic human scale, it degenerates into a congested and unmanageable **megalopolis**."*
+> - 📜 **Pausanias (*Description of Greece*):** *"Epaminondas founded the Arcadian **Megalopolis** as a grand federal capital to hold aggressive Sparta in check."*

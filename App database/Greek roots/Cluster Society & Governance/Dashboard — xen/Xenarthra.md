@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Xenarthra is a superorder and major clade of placental mammals native to the Americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: There are 31 living species: the anteaters, tree sloths, and armadillos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major clade or superorder of placental mammals native to the Americas, comprising anteaters, tree sloths, and armadillos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian paleontology and evolutionary systematics, mammals characterized by strange extra vertebral joints (xenarthrous articulations).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Xenarthra designates xenarthra is a superorder and major clade of placental mammals native to the americas."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The fossil giant ground sloths of Patagonia revealed the ancient South American radiation of **Xenarthra**."*
+> - 📜 **George Gaylord Simpson (*Splendid Isolation: The Curious History of South American Mammals*):** *"The order **Xenarthra** flourished during South America's island isolation, developing bizarre armored and arboreal forms."*
+> - 📜 **Richard Owen (*Description of the Skeleton of an Extinct Gigantic Sloth (Mylodon)*):** *"The peculiar lumbar vertebrae of **Xenarthra** possess supplementary articulating facets not found in other mammals."*

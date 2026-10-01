@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anthropometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to anthropometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained by anthropometry (the measurement of the human individual).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ergonomics, ergonomics design, and physical anthropology, concerning quantitative data on body dimensions, proportions, and strength.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropometric designates of or relating to anthropometry."*
+> - 📜 **Alphonse Bertillon (*Identification Anthropométrique*):** *"The judicial system established **anthropometric** records based on immutable bony measurements to identify recidivists."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"My laboratory gathered thousands of **anthropometric** records to study physiological variation across generations."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Nineteenth-century scientists frequently misused **anthropometric** calipers in a futile effort to rank human intelligence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by an antheridium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by an antheridium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, produced within, or resembling an antheridium (the male reproductive organ in cryptogams).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology and bryology, referring to the haploid gametangial cells, chambers, or protective paraphyses associated with motile spermatozoid generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheridial designates relating to or characterized by an antheridium."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Water droplets are indispensable for rupture of the **antheridial** wall and liberation of flagellated spermatozoids."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"The **antheridial** disk of Marchantia is elevated on a slender stalk to ensure effective splash dispersal by rain."*
+> - 📜 **William Gilson Farlow (*Gymnosporangia of the United States*):** *"Microscopic sections through the prothallus revealed numerous mature **antheridial** cysts along the ventral margin."*

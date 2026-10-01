@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having acanthosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or having acanthosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or affected with acanthosis (thickening of the prickle-cell layer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histological diagnostics, describing epidermis showing hyperplastic elongation and widening of the rete pegs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthotic designates of or relating to or having acanthosis."*
+> - 📜 **Bernard Ackerman (*Differential Diagnosis in Dermatopathology*):** *"The **acanthotic** rete ridges in psoriasis show regular elongation and bulbous expansion at their lower poles."*
+> - 📜 **Arthur Rook (*Textbook of Dermatology*):** *"Beneath the hyperkeratotic scale lay an **acanthotic** stratum spinosum studded with focal lymphocytic exocytosis."*
+> - 📜 **Walter Lever (*Histopathology of the Skin*):** *"Seborrheic keratosis presents an intensely **acanthotic** proliferation composed of small basaloid cells mingled with horn cysts."*

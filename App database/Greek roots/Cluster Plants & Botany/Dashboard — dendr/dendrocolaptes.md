@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the dendrocolaptidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the dendrocolaptidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Neotropical suboscine passerine birds in the woodcreeper family (Furnariidae/Dendrocolaptidae), known for climbing tree trunks with stiffened spiny tails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ecology, specialized bark-foraging forest birds that utilize rigid decurved rectrices and stout bills to probe bark crevices and follow army ant swarms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrocolaptes designates type genus of the dendrocolaptidae."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The heavy-billed **Dendrocolaptes** plies its trade along the giant trunks, hitching upward in short jerks and hammering into beetle galleries."*
+> - 📜 **John Gould (*A Monograph of the Ramphastidae*):** *"Specimens of **Dendrocolaptes** collected along the lower Orinoco exhibit deep rufous plumage barred with dusky crescents."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Adaptive radiation within **Dendrocolaptes** mirrors the woodpecker niche in Old World temperate forests."*

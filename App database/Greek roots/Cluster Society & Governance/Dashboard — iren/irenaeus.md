@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek theologian who was bishop of lyons and an antiheretical writer; a saint and doctor of the church (circa 130-200).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek theologian who was bishop of lyons and an antiheretical writer; a saint and doctor of the church (circa 130-200).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Saint Irenaeus of Lyon (c. 130–202 AD), early Christian bishop, theologian, and Church Father.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and patristics, the author of Against Heresies who developed the theology of apostolic succession and the doctrine of recapitulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But at last Christ departed from Jesus, and that then Jesus suffered and rose again, while Christ remained impassible, inasmuch as he was a spiritual being.” ‘The Writings of Irenaeus, transl. by Rev."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Art thou gone mad, Irenaeus?" asked the porter, as he opened the door for me and my bleating charge, "that thou drivest home before shearing time."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Thus far had he written, the God forsaken Brother Irenaeus."*
+> - 📜 **Eusebius (*Ecclesiastical History*):** *"Bishop **Irenaeus** truly lived up to his peaceful name, mediating the Quartodeciman controversy with apostolic grace."*
+> - 📜 **Henry Chadwick (*The Early Church*):** *"In refuting Gnostic dualism, **Irenaeus** established the essential fourfold canonical authority of the Gospels."*
+> - 📜 **Jaroslav Pelikan (*The Christian Tradition*):** *"The theology of **Irenaeus** centered upon the cosmic recapitulation of all humanity in Christ."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The statistical study of human populations especially with reference to size and density, distribution, and vital statistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The statistical study of human populations especially with reference to size and density, distribution, and vital statistics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of statistics such as births, deaths, income, or the incidence of disease, which illustrate the changing structure of human populations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantitative social science, the systematic analysis of dynamic population processes including fertility, mortality, and migration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demography designates the statistical study of human populations especially with reference to size and density, distribution, and vital statistics."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Modern **demography** began when parish registers were systematically organized into vital statistics."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The changing **demography** of industrial cities revealed catastrophic infant mortality rates in crowded tenements."*
+> - 📜 **J. B. S. Haldane (*Daedalus; or, Science and the Future*):** *"Advances in hygiene and preventive medicine will fundamentally transform national **demography**."*

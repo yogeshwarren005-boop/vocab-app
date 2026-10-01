@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek amygdal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, rounded or almond-shaped vesicle in volcanic rock that has been filled with secondary minerals such as chalcedony, zeolite, or calcite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, an epigenetic mineral nodule formed by precipitation from hydrothermal fluids inside fossil gas bubbles of cooled volcanic lava.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdule designates a term designating an entity, condition, or phenomenon derived from greek amygdal."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"When the basalt weathers away, the harder siliceous **amygdule** drops out as an unbroken agate pebble."*
+> - 📜 **Ferdinand Zirkel (*Microscopical Petrography*):** *"Polarizing microscopy reveals that each **amygdule** possesses concentric rims of fibrous quartz enclosing a core of radiating stilbite."*
+> - 📜 **Frank Rutley (*The Study of Rocks*):** *"The presence of an **amygdule** in an igneous specimen indicates that the rock was originally a vesicular surface flow."*

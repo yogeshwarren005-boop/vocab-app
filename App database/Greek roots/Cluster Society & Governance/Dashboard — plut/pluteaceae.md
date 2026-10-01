@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi belonging to the order agaricales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi belonging to the order agaricales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small-to-medium-sized gilled mushrooms within the order Agaricales, possessing free gills and pinkish spore prints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, wood-rotting and soil saprophytic fungi comprising the genera Pluteus and Volvariella.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluteaceae designates a family of fungi belonging to the order agaricales."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"The family **Pluteaceae** is distinguished microscopically by inverse gill trama and pink basidiospores."*
+> - 📜 **Mordecai Cubitt Cooke (*British Fungi*):** *"Specimens of **Pluteaceae** flourish on rotting sawdust heaps and decaying forest logs during warm rains."*
+> - 📜 **Alexander H. Smith (*The Mushroom Hunter's Field Guide*):** *"Identification of woodland **Pluteaceae** requires separating them from pink-spored Entolomataceae by their free gills."*

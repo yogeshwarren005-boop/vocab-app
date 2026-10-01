@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of vitamin k.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of vitamin k.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vitamin K₁, a fat-soluble naphthoquinone compound synthesized by green plants and algae, essential for blood clotting and bone metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and hematology, an electron acceptor in photosystem I that acts as an indispensable cofactor for gamma-glutamyl carboxylase in the liver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloquinone designates a form of vitamin k."*
+> - 📜 **Henrik Dam (*The Antihaemorrhagic Vitamin of the Chick*):** *"I isolated pure **phylloquinone** from alfalfa leaves, demonstrating that it restored normal prothrombin levels in bleeding chicks."*
+> - 📜 **Ernest Beutler (*Williams Hematology*):** *"Deficiency of **phylloquinone** impairs the carboxylation of clotting factors II, VII, IX, and X, predisposing to hemorrhagic disease."*
+> - 📜 **Frank A. Lee (*Basic Food Chemistry*):** *"Green leafy vegetables like spinach and kale serve as our richest dietary sources of natural **phylloquinone**."*

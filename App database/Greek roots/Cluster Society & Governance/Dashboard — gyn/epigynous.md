@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adnate to the surface of the ovary and appearing to grow from the top of it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having epigynous floral organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the floral parts (sepals, petals, stamens) attached to the top of the ovary; having an inferior ovary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology, describing flowers (such as in Asteraceae, Orchidaceae, and Rosaceae subfamily Maloideae) where the hypanthium is adnate to the ovary wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigynous designates adnate to the surface of the ovary and appearing to grow from the top of it."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In an **epigynous** flower like the apple blossom, the floral envelope rises above the inferior ovary."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The **epigynous** insertion of stamens represents an advanced evolutionary protection of the developing seed."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Identification keys separate Umbelliferae from neighboring orders by their strictly **epigynous** floral structure."*

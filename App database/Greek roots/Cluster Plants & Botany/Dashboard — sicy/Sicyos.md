@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sicy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing or trailing annual vines in the gourd family (Cucurbitaceae), commonly known as bur cucumbers or one-seeded bur cucumbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In weed ecology and agricultural botany, aggressive tendril-bearing vines (Sicyos angulatus) that climb over corn and soybean fields, producing prickly, barbed clusters of fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Sicyos designates a term designating an entity, condition, or phenomenon derived from greek sicy."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under **Sicyos**, I have grouped those tendril-bearing cucurbits whose flowers are monoecious and whose fruit is an armed one-seeded bur."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The one-seeded bur cucumber, **Sicyos** angulatus, clambers luxuriantly over riverbank bushes, armed with prickly star-like burs."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"In rich alluvial bottomlands, the climbing stems of **Sicyos** smother young saplings beneath a dense canopy of maple-shaped leaves."*

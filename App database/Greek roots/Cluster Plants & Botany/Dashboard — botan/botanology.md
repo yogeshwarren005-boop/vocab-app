@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek botan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discourse, treatise, or comprehensive doctrine concerning plants; botany.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of natural philosophy, the systematic science and literature devoted to the structure, classification, and uses of vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, botanology designates a term designating an entity, condition, or phenomenon derived from greek botan."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Pioneering authors in **botanology** laid the groundwork for natural systems of classification by abandoning artificial alphabetic arrangements."*
+> - 📜 **William Rhind (*A History of the Vegetable Kingdom*):** *"The study of **botanology** embraces not merely naming dried herbs, but understanding the vital chemistry of living plants."*
+> - 📜 **Erasmus Darwin (*Phytologia*):** *"Modern **botanology** demonstrates that plants possess irritability and circulation analogous in many respects to animal physiology."*

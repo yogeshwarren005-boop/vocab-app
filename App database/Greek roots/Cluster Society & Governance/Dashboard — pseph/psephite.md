@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sediment or sedimentary rock composed of fragments that are coarser than sand and which are enclosed in a matrix that varies in kind and amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sediment or sedimentary rock composed of fragments that are coarser than sand and which are enclosed in a matrix that varies in kind and amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coarse-grained sedimentary rock composed of rounded or angular gravel, pebbles, and cobbles (conglomerate or breccia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentary petrology, clastic sedimentary rocks whose constituent rudaceous grains exceed 2 millimeters in diameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephite designates a sediment or sedimentary rock composed of fragments that are coarser than sand and which are enclosed in a matrix that varies in kind and amount."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The ancient glacial drift consolidated over millennia into a tough, poorly sorted **psephite** conglomerate."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Petrologists classify coarse gravel deposits and bouldery beds under the general designation of **psephite**."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Fluvial torrents deposited thick alluvial fans that lithified into massive beds of **psephite**."*

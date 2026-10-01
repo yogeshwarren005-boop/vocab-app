@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in the same area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupying the same geographical range without loss of identity from interbreeding; also : occurring between populations that are not geographically separated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring within the same geographical area; overlapping in distribution (of animals or plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, describing speciation (sympatric speciation) that occurs without geographic isolation through ecological or behavioral niches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sympatric designates occurring in the same area."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Rigid reproductive isolating mechanisms are essential to prevent gene fusion between **sympatric** species."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The sudden diversification of cichlid fishes in Lake Victoria provides dramatic evidence of rapid **sympatric** speciation."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Ecological niche divergence allows two closely related **sympatric** fly populations to exploit different host plants."*

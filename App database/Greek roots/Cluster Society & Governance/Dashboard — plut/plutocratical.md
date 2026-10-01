@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of a plutocrat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a plutocrat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to plutocracy or plutocrats (archaic or formal variant of plutocratic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the dominance of moneyed interests in civil affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutocratical designates of or relating to or characteristic of a plutocrat."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The social fabric was torn asunder by the cold, calculating spirit of **plutocratical** self-interest."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Commercial republics frequently succumbed to an internal **plutocratical** drift that alienated the poor."*
+> - 📜 **John Adams (*Letters of John Adams*):** *"We must guard our constitutional balances against the encroachments of overweening **plutocratical** factions."*

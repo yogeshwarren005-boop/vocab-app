@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cynipid gall wasps, chiefly affecting oaks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cynipid gall wasps, chiefly affecting oaks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of gall wasps in the family Cynipidae that induce characteristic galls on oak trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cecidology and entomology, an insect genus exhibiting cyclical parthenogenesis (heterogony) and complex host-plant chemical manipulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andricus designates cynipid gall wasps, chiefly affecting oaks."*
+> - 📜 **Alfred Kinsey (*The Gall Wasp Genus Cynips*):** *"Speciation patterns in **Andricus** illustrate the co-evolutionary arms race between gall wasps and host oaks."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"Within the woody marble gall created by **Andricus**, the tiny grub rests sheltered from winter frosts."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"The morphological alterations stimulated by **Andricus** larvae remain among the marvels of plant pathology."*

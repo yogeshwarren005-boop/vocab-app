@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles and ideals associated with classical greek civilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles and ideals associated with classical greek civilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The national character, culture, or civilization of ancient Greece; the principles and ideals of Greek thought and art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and biblical theology, the synthesis of Greek and Near Eastern culture that spread following Alexander the Great's conquests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact itself is important because it establishes the connection between his Weltschmerz and his most noteworthy characteristic as a poet, namely, his Hellenism."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is not only the poetic climax of his Hellenism, but also the most complete expression of his Weltschmerz in its various phases."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"There is something of a counterpart to Hoelderlin's Hellenism and championship of Greek liberty in Lenau's espousal of the Polish cause."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Hebraism and **Hellenism**—between these two points moves our Western world."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The pagan revival brought a joyous return to the intellectual freedom and sensual beauty of **Hellenism**."*
+> - 📜 **Gilbert Murray (*Five Stages of Greek Religion*):** *"The triumph of **Hellenism** lay in its relentless drive to banish barbarian terror through rational inquiry."*

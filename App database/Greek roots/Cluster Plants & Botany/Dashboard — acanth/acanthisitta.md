@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of xenicidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of xenicidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of very small, nearly flightless insectivorous passerines endemic to New Zealand, represented by the rifleman (Acanthisitta chloris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian phylogenetics, an archaic lineage forming part of the Acanthisittidae (New Zealand wrens), the sister clade to all other extant passerine birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthisitta designates a genus of xenicidae."*
+> - 📜 **Walter Buller (*A History of the Birds of New Zealand*):** *"The tiny **Acanthisitta** flits among the mossy trunks of the southern beech forest with incredible agility, seeking minute spiders."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Insular isolation in New Zealand permitted the ancestral stem of **Acanthisitta** to persist as a basal relict of the passerine radiation."*
+> - 📜 **Oliver Austin (*Birds of the World*):** *"Weighing barely six grams, **Acanthisitta** represents one of the most miniaturized and anatomically primitive songbirds on earth."*

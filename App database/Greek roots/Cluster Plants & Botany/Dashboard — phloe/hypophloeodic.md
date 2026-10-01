@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tree bark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tree bark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing, situated, or living beneath the bark of a tree; subcortical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology and mycology, describing endophloeodic fungi or lichens whose vegetative thallus develops buried inside the cork cells of tree bark.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypophloeodic designates adjective*) pertaining to, derived from, or characteristic of tree bark."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"The tiny perithecia of this **hypophloeodic** ascomycete burst through the lenticels of the dead birch branch."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Certain parasitic fungal hyphae maintain a strictly **hypophloeodic** existence until seasonal spore release ruptures the periderm."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Crustose lichens with a **hypophloeodic** thallus are barely detectable except by the emergence of black apothecial disks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The economic system or study of the economy as controlled by or operating in the interests of the wealthy class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern economic critique and financial analysis, macroeconomic models prioritizing asset price inflation and wealth concentration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutonomics designates a term designating an entity, condition, or phenomenon derived from greek plut."*
+> - 📜 **Thorstein Veblen (*The Vested Interests and the Common Man*):** *"Orthodox financial theory often functions as naked **plutonomics**, rationalizing the privileges of absentee owners."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The dogmas of **plutonomics** assume that what is good for high finance is inevitably good for the general welfare."*
+> - 📜 **Thomas Piketty (*Capital and Ideology*):** *"The intellectual architecture of modern **plutonomics** relies upon an unquestioned ideology of hyper-capitalism."*

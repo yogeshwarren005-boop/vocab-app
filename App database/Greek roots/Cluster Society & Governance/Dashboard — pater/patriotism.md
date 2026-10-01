@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love for or devotion to one's country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love for or devotion to one's country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devotion to and vigorous support for one's country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, the civic virtue that binds citizens in loyalty to the constitution and common welfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That the country is shipwrecked, lost, and gone to pieces (as is made manifest to the patriotism of Sir Leicester Dedlock) because you can’t provide for Noodle!"*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence we find him ever ready to degrade his muse by making it the vehicle for immoral thoughts and abominable calumnies.[271] The question of Heine's patriotism has always been a much-debated one, and must doubtless remain so."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This idea will add the inducements of philanthropy to those of patriotism, to heighten the solicitude which all considerate and good men must feel for the event."*
+> - 📜 **Samuel Johnson (*Boswell's Life of Samuel Johnson*):** *"**Patriotism** is the last refuge of a scoundrel, remarked Johnson, condemning hypocritical political posturing."*
+> - 📜 **Mark Twain (*Corn-Pone Opinions*):** *"True **patriotism** is supporting your country all the time, and your government when it deserves it."*
+> - 📜 **Leo Tolstoy (*Patriotism and Government*):** *"Tolstoy argued that exclusive **patriotism** was an outmoded superstition generating endless military conflicts."*

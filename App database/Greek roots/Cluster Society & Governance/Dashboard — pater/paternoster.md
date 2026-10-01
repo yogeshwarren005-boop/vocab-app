@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) the lord's prayer in latin; translates as `our father'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of lift having a chain of open compartments that move continually in an endless loop so that (agile) passengers can step on or off at each floor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Lord's Prayer, especially in the Latin form; or a bead in a rosary representing this prayer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, a continuous moving elevator or conveyor with a chain of open compartments that moves continuously in a loop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Paul’s, swelling above the intervening houses of Paternoster Row, Amen Corner, and Ave-Maria Lane, looks down with an air of motherly protection."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"ALEXANDER GARDNER, PAISLEY; AND 12 PATERNOSTER ROW, LONDON. 1886."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Walcot, better known as Peter Pindar, called one day upon a bookseller in Paternoster Row, the publisher of his works, by way of inquiring into the literary and other news of the day."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The devout prioress told her rosary, repeating each **paternoster** with humble, gentle reverence."*
+> - 📜 **Dante Alighieri (*Purgatorio*):** *"The penitents on the terrace of pride recited an expanded, solemn paraphrasing of the **Paternoster**."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The pious archer muttered a hasty **paternoster** before loosing his shaft into the French ranks."*

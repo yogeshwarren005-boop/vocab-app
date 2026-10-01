@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pseph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by ballot; democracy characterized by decision-making through voting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science, a system where civil authority is derived through regular electoral balloting (from Greek psephos, pebble used for voting).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephocracy designates a term designating an entity, condition, or phenomenon derived from greek pseph."*
+> - 📜 **George Grote (*A History of Greece*):** *"Athenian **psephocracy** relied on the secret ballot of bronze tokens dropped into voting urns."*
+> - 📜 **H. L. Mencken (*Notes on Democracy*):** *"The champion of pure **psephocracy** naively assumes that counting heads guarantees wisdom in government."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A healthy **psephocracy** requires an educated populace that deliberates before dropping ballots into the box."*

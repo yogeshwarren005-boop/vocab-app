@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Political organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific form of political organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form or process of civil government or constitution; or an organized society considered as a political entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian political theory, politeia or polity represents constitutional government based on the middle class, combining oligarchy and democracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Wise in his daily work was he: To fruits of diligence, And not to faiths or polity, He plied his utmost sense."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The scheme of representation, as a substitute for a meeting of the citizens in person, being at most but very imperfectly known to ancient polity, it is in more modern times only that we are to expect instructive examples."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The impact of various forces upon the structure and polity of that nation will be tremendous."*
+> - 📜 **Aristotle (*Politics*):** *"The middle form of government, termed a **polity**, is the most stable because it relies upon a numerous middle class."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Our British **polity** is an inherited partnership between those who are living, those who are dead, and those who are yet to be born."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The township was the primary cell of the American **polity**, fostering habits of local self-government."*

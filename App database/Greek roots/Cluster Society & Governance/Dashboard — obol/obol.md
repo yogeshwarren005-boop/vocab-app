@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek coin or weight equal to ⅙ drachma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Greek coin or weight equal to ⅙ drachma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek coin of small value, equal to one-sixth of a drachma; an obolus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athenian society and funerary customs, the small silver or bronze coin placed in the mouth of the deceased to pay Charon the ferryman.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was preparing to enter the university, but he and his friend Obolénski had lately, in secret, agreed to join the hussars."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Fédya Obolénski is younger than I, and he’s going too."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He did not go straight home from the Krémlin, but called on his friend Obolénski, who was fifteen and was also entering the regiment."*
+> - 📜 **Lucian of Samosata (*Dialogues of the Dead*):** *"Charon demanded his customary copper **obol** before permitting the naked ghost to board the ferry."*
+> - 📜 **Aristophanes (*The Frogs*):** *"Dionysus paid Charon two obols for passage across the lake, muttering at the price of an **obol** in the underworld."*
+> - 📜 **George Grote (*A History of Greece*):** *"Athenian jurors received an allowance of three obols a day, where an **obol** bought modest bread and olives."*

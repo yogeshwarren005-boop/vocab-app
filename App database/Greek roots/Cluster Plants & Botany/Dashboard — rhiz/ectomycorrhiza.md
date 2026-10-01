@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhiz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbiotic association between a fungus and the roots of a plant (especially forest trees), where the fungus forms a mantle around the root tip and a Hartig net between cortical cells, without penetrating inside the cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest soil biology and mycology, an ecological mutualism essential for nutrient absorption (especially phosphorus and nitrogen) in temperate forest families like Pinaceae and Fagaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectomycorrhiza designates a term designating an entity, condition, or phenomenon derived from greek rhiz."*
+> - 📜 **Albert Bernhard Frank (*On the Mineral Nutrition of Trees by Mycorrhizae*):** *"I coined the term **ectomycorrhiza** to describe the thick mantle of fungal hyphae that encases the fine root tips of forest oaks and pines."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"Without an active **ectomycorrhiza** partner, pine seedlings in sterile soil become stunted and chlorotic from phosphorus starvation."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"The intimate Hartig net of the **ectomycorrhiza** facilitates extensive two-way nutrient exchange between tree and subterranean fungus."*

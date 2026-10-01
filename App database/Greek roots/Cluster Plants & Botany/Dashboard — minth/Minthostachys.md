@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek minth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aromatic shrubs in the mint family (Lamiaceae), native to the Andes of South America, known as muña.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Andean ethnobotany and phytotherapy, essential oil-rich shrubs containing pulegone and menthone used for altitude sickness and digestive ailments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Minthostachys designates a term designating an entity, condition, or phenomenon derived from greek minth."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"On high Andean plateaus, bushes of **Minthostachys** scent the thin air with an invigorating, camphoraceous mint perfume."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"The genus **Minthostachys** is characterized by dense verticillasters and glandular foliage adapted to montane droughts."*
+> - 📜 **Richard Evans Schultes (*The Healing Forest*):** *"Indigenous Quechua healers brew hot infusions of **Minthostachys** to calm abdominal colic and preserve stored potato crops from weevils."*

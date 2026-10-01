@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of bromic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt of bromic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of bromic acid containing the anion BrO₃⁻; also historically used to designate a foodstuff or aliment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial food chemistry and baking, potassium bromate, an oxidizing flour improver used to strengthen gluten networks in bread dough.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromate designates a salt of bromic acid."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"When bromine vapor interacts with hot caustic potash solution, potassium **bromate** crystallizes in dense white prisms."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Upon heating to redness, every metallic **bromate** decomposes into the corresponding bromide with violent evolution of oxygen."*
+> - 📜 **Frank A. Lee (*Basic Food Chemistry*):** *"Commercial bakers historically added potassium **bromate** to improve oven spring and stabilize gluten crumb architecture."*

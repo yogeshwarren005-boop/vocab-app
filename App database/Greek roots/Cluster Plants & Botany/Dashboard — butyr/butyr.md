@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: butyric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: butyric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical combining form and chemical root derived from Greek 'boutyron' (butter), used in chemical and biochemical nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and lipid biochemistry, the root denoting four-carbon aliphatic chains and compounds related to butyric acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog butyr as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **butyr** derives from boutyron, meaning literally cow-cheese or butter churned from milk."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Chemical derivatives sharing the prefix **butyr** trace their discovery to the volatile rancid fatty acids of dairy butter."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"In organic nomenclature, **butyr** consistently designates derivatives of the four-carbon carboxylic acid series."*

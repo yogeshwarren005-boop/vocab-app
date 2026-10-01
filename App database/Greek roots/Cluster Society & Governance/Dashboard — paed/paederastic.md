@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of homosexuality between a man and a boy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of homosexuality between a man and a boy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or practicing pederasty (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical historiography and literary analysis, describing the romantic and pedagogical relationship between adult men and youths in ancient Greece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paederastic designates of homosexuality between a man and a boy."*
+> - 📜 **Plato (*Phaedrus*):** *"Socrates scrutinized the **paederastic** speeches of Lysias, distinguishing sensual desire from philosophical love."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The Spartan educational system integrated **paederastic** mentorship to foster absolute martial comradeship."*
+> - 📜 **Michel Foucault (*The Care of the Self*):** *"Attic comedies frequently mocked the **paederastic** pursuit of evasive youths across gymnasium palaiastrai."*

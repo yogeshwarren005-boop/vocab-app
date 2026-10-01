@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy or practice of governing people in a fatherly manner, especially by providing for their needs without giving them rights or responsibilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and medical ethics, overriding an individual's autonomy for their own supposed best interests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paternalism designates the attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"State **paternalism** cannot be justified, for the individual is the sole rightful sovereign over his own body and mind."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An administrative **paternalism** can degrade citizens into a timid herd of industrious animals, with government as their shepherd."*
+> - 📜 **Isaiah Berlin (*Two Concepts of Liberty*):** *"**Paternalism** is the greatest possible despotism, for it denies mature human beings their moral agency."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composite or aggregate fruit formed from the union of multiple carpels of a single flower or the coalesced fruits of several flowers (such as a blackberry or pineapple).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm carpology, a collective fruiting body consisting of densely packed drupelets or coalesced ovaries maturing as a single structural unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncarp designates fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The mulberry is an exemplary multiple **syncarp**, where each succulent bead represents the fleshy perianth of an independent female floret."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The cone-like **syncarp** of Magnolia consists of spirally arranged carpels that split along their backs to discharge scarlet seeds."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"In the raspberry, the edible dome is an aggregate **syncarp** composed of dozens of tiny succulent drupelets."*

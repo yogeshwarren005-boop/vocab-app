@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a leaf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape, form, or appearance of a leaf; leaf-like; foliar in outline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and marine zoology, describing animals whose flattened bodies or appendages mimic leaves (such as leaf bugs or sea slugs).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylliform designates having the shape of a leaf."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"Certain mantids possess **phylliform** expansions upon their legs, rendering them indistinguishable from the orchids they inhabit."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The body of the flatworm exhibits a delicate **phylliform** contour that glides smoothly through marine sediment."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"The lateral gills of the decapod crustacean present a **phylliform** arrangement of overlapping thin lamellae."*

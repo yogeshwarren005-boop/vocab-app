@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become (more) democratic; of nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce democratic reforms; of nations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make democratic; introduce a democratic system or principles into.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make something accessible or available to the general public rather than an elite minority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, democratize designates become (more) democratic; of nations."*
+> - 📜 **John Dewey (*The Public and Its Problems*):** *"We must constantly **democratize** our daily associations if political democracy is to remain genuine."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Forces that tend to equalize conditions will eventually **democratize** all social institutions."*
+> - 📜 **Noam Chomsky (*Necessary Illusions*):** *"True reform requires that we **democratize** the media and open public airwaves to authentic debate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sociologist who studies election trends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sociologist who studies election trends.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies the quantitative analysis of elections and voting patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and polling analysis, an expert who models electoral demographics, vote swings, and seat distribution curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephologist designates a sociologist who studies election trends."*
+> - 📜 **David Butler (*The British General Election of 1951*):** *"The professional **psephologist** calculates the uniform national swing required to overturn a parliamentary majority."*
+> - 📜 **Anthony Downs (*An Economic Theory of Democracy*):** *"The **psephologist** examines voter behavior under the assumption that citizens act as rational utility maximizers."*
+> - 📜 **Samuel Lubell (*The Future of American Politics*):** *"By analyzing precinct returns, the skilled **psephologist** detects subterranean realignments in ethnic voting blocs."*

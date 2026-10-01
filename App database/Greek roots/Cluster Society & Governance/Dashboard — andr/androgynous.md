@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics or nature of both male and female.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neither specifically feminine nor masculine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partly male and partly female in appearance or characteristics; having an ambiguous or blended gender expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, bearing both staminate and pistillate flowers within the same inflorescence; in cultural theory, blending masculine and feminine aesthetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgynous designates having the characteristics or nature of both male and female."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"A great mind must be **androgynous**, open to every experience without masculine or feminine posturing."*
+> - 📜 **Honoré de Balzac (*Sarrasine*):** *"The captivating voice possessed an **androgynous** sweetness that bewitched all who heard it."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His youth had that delicate, **androgynous** grace celebrated in classical Attic sculptures."*

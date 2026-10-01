@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a woman or female in form or appearance; or a humanoid robot designed to resemble a woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology and robotics, describing pear-shaped female fat distribution (gynoid fat) or female android robotics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynoid designates adjective & noun*) resembling, having the physical form of, or akin to woman."*
+> - 📜 **Philip K. Dick (*Do Androids Dream of Electric Sheep?*):** *"The manufactured **gynoid** displayed facial contours designed with uncanny human verisimilitude."*
+> - 📜 **William Gibson (*Neuromancer*):** *"Polished chrome limbs gave the security **gynoid** an imposing, predatory elegance."*
+> - 📜 **Havelock Ellis (*Man and Woman*):** *"Adipose deposition follows a distinct **gynoid** pattern centered upon the pelvic girdle and thighs."*

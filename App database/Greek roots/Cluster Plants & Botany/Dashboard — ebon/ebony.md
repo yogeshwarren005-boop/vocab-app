@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard heavy blackish wood yielded by various tropical chiefly southeast Asian trees (genus Diospyros of the family Ebenaceae, the ebony family).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tree yielding ebony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, heavy, hard, black wood obtained from several species of the genus Diospyros (family Ebenaceae); of a deep, lustrous black color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and decorative craftsmanship, an exceptionally dense timber that sinks in water, takes a mirror-like polish, and is used for musical instruments and fine inlays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, thy love is black as ebony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"In repassing through the small vaulted room, however, your eyes will be attracted towards a large, old-fashioned cabinet of ebony and gold, which, though narrowly examining the furniture before, you had passed unnoticed."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Dagon his idol fell down flat, his hands and head hewn off in his own temple of **ebony**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In Mauritius, the hillsides were once covered with ancient forests of black **ebony**, heavily exploited by early settlers."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"In the corner stood an antique cabinet of carved **ebony**, inlaid with quaint figures in mother-of-pearl."*

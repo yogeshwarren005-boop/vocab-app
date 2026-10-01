@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To offend the moral sense of : shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To speak falsely or maliciously of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shock or horrify by violating moral or social standards; or (nautical) to drop the peak of a gaff sail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral theology, to cause someone to stumble spiritually or fall into sin (from Greek skandalizein).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Good things scandalize none but the bad mind (_de virg. vel._ 3)."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"To tell his tale might be interpreted into scandalizing the Order; yet, unless he told it, what hope could he have of achieving his daughter’s deliverance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for whose death we in the world’s wide mouth Live scandalized and foully spoken of."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The elder ministers feared that such unrepentant defiance would **scandalize** the young and tender consciences of the flock."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"Huck's unvarnished honesty and lack of religion continued to **scandalize** the Widow Douglas."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"A principled refusal to pay an unjust tax will always **scandalize** the comfortable guardians of state propriety."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek andr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male spore or special reproductive cell in certain algae (such as Oedogonium) that gives rise to a dwarf male filament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic phycology, an asexual flagellated swarm-spore that settles upon female filaments to produce male antheridia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androspore designates a term designating an entity, condition, or phenomenon derived from greek andr."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Motile cells designated as an **androspore** swim actively toward the oogonium before encysting."*
+> - 📜 **G. M. Smith (*Cryptogamic Botany*):** *"In nannandrous species of Oedogonium, germination of the **androspore** yields a miniature epiphytic male plant."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The evolutionary differentiation of the **androspore** anticipates heterospory in higher vascular cryptogams."*

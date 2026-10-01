@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek amygdal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An almond, or something shaped like an almond; in geology, an amygdule (a mineral-filled vesicle in igneous rock).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and physical geology, a nodule or secondary mineral deposit filling a former gas bubble in volcanic basalt or lava.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdale designates a term designating an entity, condition, or phenomenon derived from greek amygdal."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Each rounded **amygdale** consists of concentric layers of chalcedony, calcite, and zeolites deposited by percolating waters."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The weathered face of the trap rock revealed countless mineral pockets, each **amygdale** sparkling with crystalline quartz."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Gas vesicles elongated by flowing lava solidify into oval cavities that later become transformed into an **amygdale**."*

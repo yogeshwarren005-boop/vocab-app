@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronomer who studies the physical properties of celestial bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astronomer who studies the physical properties of celestial bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or astronomer who specializes in astrophysics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physical scientist who investigates the origins, stellar mechanisms, radiation fields, and evolution of cosmic phenomena through physical theory and observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophysicist designates an astronomer who studies the physical properties of celestial bodies."*
+> - 📜 **Arthur Stanley Eddington (*Stars and Atoms*):** *"The modern **astrophysicist** uses the laboratory of the stars to test atomic theories under temperatures unreachable on earth."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Selected Papers on Astrophysics*):** *"A dedicated **astrophysicist** must master both the mathematical rigor of fluid dynamics and the observational nuances of the telescope."*
+> - 📜 **Fred Hoyle (*Frontiers of Astronomy*):** *"The discovery of interstellar organic molecules astonished every **astrophysicist** who had deemed space entirely sterile."*

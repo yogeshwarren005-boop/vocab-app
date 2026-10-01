@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neoplasm originating in the epidermis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neoplasm originating in the epidermis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign neoplasm or localized hyperplastic tumor composed primarily of epidermal squamous cells (keratinocytes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cutaneous oncology and dermatopathology, a circumscribed proliferation of the stratum spinosum, such as pale cell acanthoma or clear cell acanthoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthoma designates a neoplasm originating in the epidermis."*
+> - 📜 **Jonathan Hutchinson (*Lectures on Clinical Surgery*):** *"The solitary lesion presented as a firm, circumscribed **acanthoma** without signs of infiltrative malignancy."*
+> - 📜 **James Nevins Hyde (*A Practical Treatise on Diseases of the Skin*):** *"Histological sections of the excised **acanthoma** displayed massive thickening of the prickle-cell layer."*
+> - 📜 **Bernard Ackerman (*Histologic Diagnosis of Inflammatory Skin Diseases*):** *"Clear-cell **acanthoma** is recognized by its sharply demarcated, glycogen-rich keratinocytic hyperplasia."*

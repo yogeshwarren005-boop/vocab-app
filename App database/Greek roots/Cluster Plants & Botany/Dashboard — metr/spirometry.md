@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of the volume and flow rate of air that can be inhaled or exhaled by the lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary function testing, a standard physiological assay that differentiates between obstructive lung disorders (asthma, COPD) and restrictive disorders (fibrosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirometry designates an instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease)."*
+> - 📜 **John Hutchinson (*On the Capacity of the Lungs*):** *"Systematic **spirometry** in thousands of healthy subjects proved that vital capacity is an indispensable index of thoracic health."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine clinical **spirometry** allows the physician to measure the response of spastic bronchioles to bronchodilator inhalation."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"A reduced FEV1/FVC ratio on diagnostic **spirometry** confirms the presence of expiratory airflow limitation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Male human being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Male human being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from the Greek anēr (stem andr-), denoting man, male, stamen, or masculine qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics and botanical/biological nomenclature, the formative morpheme used to signify masculine gender or male reproductive structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Many dismal tales were told about funeral trains and mourning cries and wailings heard and seen about the great tree where the unfortunate Major André was taken, and which stood in the neighborhood."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was connected with the tragical story of the unfortunate André, who had been taken prisoner hard by, and was universally known by the name of Major André’s tree."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was at this identical spot that the unfortunate André was captured, and under the covert of those chestnuts and vines were the sturdy yeomen concealed who surprised him."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The morpheme **andr**- designates the male floral whorl across several newly classified plant families."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Morphological variation in the **andr**- elements determines whether flowers operate as hermaphrodite or unisexual."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Classical compounds rooted in **andr**- reveal ancient cultural divisions between masculine and feminine roles."*

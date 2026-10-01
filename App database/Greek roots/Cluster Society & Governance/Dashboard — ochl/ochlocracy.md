@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the mob : mob rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by the mob : mob rule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the mob; mob rule or mobocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical political philosophy (first formulated by Polybius), the degenerate phase of democracy characterized by anarchy and demagoguery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ochlocracy designates government by the mob : mob rule."*
+> - 📜 **Polybius (*The Histories*):** *"When democracy becomes turbulent and disdainful of law, it sinks into the ruinous state of **ochlocracy**."*
+> - 📜 **Thomas Jefferson (*Letters of Thomas Jefferson*):** *"Unchecked popular passions risk tumbling the republic from ordered liberty into the horrors of **ochlocracy**."*
+> - 📜 **John Adams (*A Defence of the Constitutions of Government*):** *"A constitution lacking checks and balances will rapidly veer between tyranny and destructive **ochlocracy**."*

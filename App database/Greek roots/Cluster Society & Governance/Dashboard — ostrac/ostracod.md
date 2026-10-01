@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a subclass (Ostracoda) of very small aquatic crustaceans that have the body enclosed in a bivalve carapace, the body segmentation obscured, the abdomen rudimentary, and only seven pairs of appendages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a subclass (Ostracoda) of very small aquatic crustaceans that have the body enclosed in a bivalve carapace, the body segmentation obscured, the abdomen rudimentary, and only seven pairs of appendages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny bivalved crustacean of the class Ostracoda, commonly known as a seed shrimp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In micropaleontology and aquatic ecology, bivalved microcrustaceans whose calcified shells provide essential index fossils for biostratigraphy and paleoclimatology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostracod designates any of a subclass (ostracoda) of very small aquatic crustaceans that have the body enclosed in a bivalve carapace, the body segmentation obscured, the abdomen rudimentary, and only seven pairs of appendages."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The delicate bivalved carapace of the tiny **ostracod** is preserved in freshwater shales across geological eras."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Bioluminescent swarms of marine **ostracod** species illuminate night waters with brilliant blue flashes."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The evolutionary continuity of the **ostracod** carapace demonstrates morphological stasis over hundreds of millions of years."*

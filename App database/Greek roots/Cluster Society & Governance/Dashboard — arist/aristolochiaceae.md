@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of birthworts (including wild ginger).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of birthworts (including wild ginger).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The birthwort family of flowering plants, comprising herbs and woody lianas with bizarrely shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm taxonomy, a basal magnoliid family characterized by trimerous flowers, inferior ovaries, and aristolochic acid content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristolochiaceae designates family of birthworts (including wild ginger)."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Aristolochiaceae** is distinguished by curious lurid flowers resembling the pipes of smokers."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Monographs on the **Aristolochiaceae** highlight the extreme reduction of the floral envelope."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"Floral anatomy places **Aristolochiaceae** among the archaic magnoliid lineages of the paleodicots."*

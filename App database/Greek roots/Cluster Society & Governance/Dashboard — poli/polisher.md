@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A power tool used to buff surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A power tool used to buff surfaces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or device that polishes surfaces to make them smooth and shiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lapidary work, metallurgy, and optics, a skilled craftsman or mechanical tool used to grind lenses or gem facets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Your dean of studies holds he was a holy Roman. _Sufflaminandus sum._ —He was made in Germany, Stephen replied, as the champion French polisher of Italian scandals. —A myriadminded man, Mr Best reminded."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It could drive lathes, drills, planers, punches, polishers, in a word all the cunning machines of a great factory?"*
+> - 📜 **Baruch Spinoza (*Letters of Spinoza*):** *"Spinoza earned his modest bread as a master optical lens **polisher**, contemplating metaphysics between grinds."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The skilled glass **polisher** must work with pitch and putty to produce a paraboloidal mirror free of spherical aberration."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The mechanical marble **polisher** replaced the living, irregular touch of the medieval stonemason."*

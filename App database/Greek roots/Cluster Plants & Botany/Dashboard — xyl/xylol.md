@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: xylene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: xylene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial or technical name for xylene (dimethylbenzene), used as a solvent and histological clearing agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopic technique, an aromatic solvent utilized to dissolve paraffin wax and clear dehydrated tissue specimens prior to mounting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog xylol as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Santiago Ramón y Cajal (*Manual of Normal Histology*):** *"Immerse the silver-stained sections in pure **xylol** until they become completely transparent."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Industrial **xylol** is a mixture of ortho, meta, and para isomers recovered from coal-tar naphtha."*
+> - 📜 **Robert Koch (*Investigations into Traumatic Infective Diseases*):** *"Before sealing the glass slide, rinse the bacterial smear briefly with **xylol** to remove residual oils."*

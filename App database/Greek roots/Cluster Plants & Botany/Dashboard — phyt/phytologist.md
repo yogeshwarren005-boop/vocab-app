@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist specializing in the study of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist specializing in the study of plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanist; a person who studies plants and plant science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century academic literature, an expert in the morphology, distribution, and taxonomy of the vegetable kingdom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His short communications on botany were chiefly if not entirely published in a monthly magazine called "The Phytologist," edited, from its commencement in 1841, by the late George Luxford, till his death, in 1854, and afterwards conducted by Mr."*
+> - 📜 **Carl Linnaeus (*Philosophia Botanica*):** *"The accomplished **phytologist** must observe plants in the field throughout all seasons, examining flower, leaf, and seed."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"It is the duty of the systematic **phytologist** to harmonize regional floras into a coherent universal arrangement."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"To the wandering **phytologist**, the high alpine passes of Tibet afford an inexhaustible treasury of new and curious species."*

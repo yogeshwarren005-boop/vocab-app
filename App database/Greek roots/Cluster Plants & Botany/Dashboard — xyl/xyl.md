@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: xylene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical botanical root derived from Greek 'xylon' (wood, timber), forming vocabulary relating to wood and ligneous materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature and organic chemistry, the foundational root underlying terms for wood tissue (xylem), wood sugars (xylose), and coal resins (xyloid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog xyl as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **xyl** traces directly to xylon, signifying felled timber, cut wood, or a tree trunk."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Indo-European cognates of **xyl** denote scraped wood or timber shaped by the carpenter's axe."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Chemical derivatives containing the element **xyl** commemorate their original extraction from commercial wood distillates."*

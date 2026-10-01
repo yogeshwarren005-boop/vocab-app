@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ostrac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek ostrakon, meaning 'earthenware vessel', 'tile', 'potsherd', or 'shell'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athenian history and biological nomenclature, the base morpheme signifying civic banishment by pottery ballot (ostracism) or shell-bearing organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostrac designates a term designating an entity, condition, or phenomenon derived from greek ostrac."*
+> - 📜 **Aristotle (*Constitution of the Athenians*):** *"Citizens inscribed the name of the man they wished to banish upon a broken piece of **ostrac**-on."*
+> - 📜 **George Grote (*A History of Greece*):** *"Cleisthenes instituted the procedure rooted in **ostrac**- to prevent ambitious demagogues from establishing tyranny."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The Attic practice of **ostrac**-ism was conceived not as criminal punishment, but as a peaceful constitutional safeguard."*

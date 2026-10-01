@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of melt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of melt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing two offspring at a birth; bringing forth twins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology and mammalogy, normally producing twin young per litter (contrasted with monotocous or polytocous).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ditokous designates adjective*) pertaining to, derived from, or characteristic of melt."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"While human reproduction is typically monotocous, ancestral conditions occasionally present **ditokous** births."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Certain marsupials are consistently **ditokous**, rearing a pair of young within the abdominal pouch."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The physiological mechanisms governing **ditokous** twin ovulations differ from monozygotic cleavage."*

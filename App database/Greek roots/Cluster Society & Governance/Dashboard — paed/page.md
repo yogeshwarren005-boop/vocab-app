@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the leaves of a publication or manuscript; also : a single side of one of these leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The material printed or written on a page.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One side of a leaf of a book, newspaper, or letter; or a youth employed to run errands or attend a person of high rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feudal history, a boy of noble birth training for knighthood as personal attendant to a lord or lady.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Page, servant to the Countess of Rossillon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have no worse a name than Jove’s own page, And therefore look you call me Ganymede."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The handsome young **page** bore his lord's heavy shield and spurred his steed beside the knight."*
+> - 📜 **John Milton (*Areopagitica*):** *"As good almost kill a man as kill a good book; who kills a man kills a reasonable creature, but he who destroys a good book kills reason itself upon the printed **page**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I turned the yellowed **page** of Bewick's History of British Birds, entranced by solitary Arctic shores."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or forming or containing carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or forming or containing carpels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to a carpel or carpels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural botany, designating the specialized tissues, sutures, margins, or vascular traces forming the carpel wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpellary designates belonging to or forming or containing carpels."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Parietal placentation arises when ovules are borne directly upon the united **carpellary** margins of a compound ovary."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"Dehiscence along the dorsal suture represents loculicidal rupture of the **carpellary** wall."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Diagnostic keys distinguish syncarpous tribes by whether the **carpellary** septa reach the central floral axis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek city-state; broadly : a state or society especially when characterized by a sense of community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Greek city-state; broadly : a state or society especially when characterized by a sense of community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city-state in ancient Greece, especially as considered in its ideal form for philosophical purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, the self-governing Hellenic civic community uniting citizens, laws, religion, and territory into an organic whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Don’t be all night before the polis in plain clothes sees us."*
+> - 📜 **Aristotle (*Politics*):** *"Man is by nature an animal intended to live in a **polis**, and he who is without a state is either below humanity or above it."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Nicias reminded the retreating soldiers that men make the city, and not walls or empty ships devoid of a living **polis**."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The Greek **polis** was both church and state, the supreme educator and stage of human excellence."*

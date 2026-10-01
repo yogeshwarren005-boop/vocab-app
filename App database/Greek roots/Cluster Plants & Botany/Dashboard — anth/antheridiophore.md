@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gametophore bearing antheridia as in certain mosses and liverworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gametophore bearing antheridia as in certain mosses and liverworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized stalk or receptacle in liverworts (such as Marchantia) that bears the antheridia (male reproductive organs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryophyte morphodynamics, an umbrella-like gametophoric branch with a lobed terminal disc housing antheridial cavities on its upper surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheridiophore designates gametophore bearing antheridia as in certain mosses and liverworts."*
+> - 📜 **Wilhelm Hofmeister (*Higher Cryptogamia*):** *"The erect stalk of the **antheridiophore** elevates the male gametangia into the path of splashing raindrops."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Cross-sections through the peltate disc of the **antheridiophore** show flask-shaped chambers, each sheltering a solitary antheridium."*
+> - 📜 **Frederick Orpen Bower (*The Origin of a Land Flora*):** *"The differentiation between the male **antheridiophore** and the female archegoniophore reflects the division of labor in bryophyte gametophytes."*

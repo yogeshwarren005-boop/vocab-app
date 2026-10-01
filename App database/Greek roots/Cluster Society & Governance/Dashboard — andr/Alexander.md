@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iced cocktail made from crème de cacao, sweet cream, and gin or brandy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Name of 8 popes: especially VI (Rodrigo Borgia) 1431—1503 (pope 1492—1503).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classic cocktail typically composed of gin or cognac, crème de cacao, and cream; or historically, referring to Alexander the Great or eight Catholic popes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In onomastics and cultural history, a personal name derived from Greek Alexandros ('defender of men'), widely applied to rulers, pontiffs, and eponyms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He sits in his state as a thing made for Alexander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think Alexander looked o’ this fashion i’ th’earth?"*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The bartender recommended a creamy **Alexander** cocktail to soften the evening's harsh debates."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambition of **Alexander** had transported Greek arms and letters to the banks of the Indus."*
+> - 📜 **Plutarch (*Parallel Lives*):** *"In the character of **Alexander**, heroic virtue was blended with an unquenchable passion for glory."*

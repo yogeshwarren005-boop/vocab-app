@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on or in wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on or in wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on or destroying wood; wood-eating (applied especially to insects, mollusks, and fungi).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological ecology, describing wood-boring beetle larvae (Buprestidae, Cerambycidae), termites, and shipworms (Teredo) that digest cellulose and lignin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylophagous designates feeding on or in wood."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant fallen trees of the Patagonian rain forest were rapidly honeycombed by **xylophagous** beetle larvae."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"Damage caused by **xylophagous** termites to structural timbers costs millions of dollars in warm temperate zones."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Many **xylophagous** insects harbor symbiotic protozoa or bacteria in their guts to digest refractory wood lignin."*

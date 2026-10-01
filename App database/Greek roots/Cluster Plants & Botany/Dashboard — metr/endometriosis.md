@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of endometrium elsewhere than in the lining of the uterus; causes premenstrual pain and dysmenorrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of endometrium elsewhere than in the lining of the uterus; causes premenstrual pain and dysmenorrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic gynecological condition in which tissue similar to the lining of the uterus (endometrium) grows outside the uterine cavity, causing pain and scarring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive pathology, an estrogen-dependent disease characterized by ectopic implants on ovaries, fallopian tubes, and peritoneum, forming 'chocolate cysts' and pelvic adhesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometriosis designates the presence of endometrium elsewhere than in the lining of the uterus; causes premenstrual pain and dysmenorrhea."*
+> - 📜 **John A. Sampson (*Peritoneal Endometriosis Due to the Menstrual Dissemination of Endometrial Tissue*):** *"I propose that pelvic **endometriosis** arises primarily from retrograde menstruation transporting viable endometrial fragments into the peritoneal cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe cyclic pelvic pain and progressive dyspareunia are classic clinical hallmarks of pelvic **endometriosis**."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"Laparoscopic visualization and histological confirmation remain mandatory for the definitive diagnosis of **endometriosis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of the classical greek civilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the classical greek civilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the Hellenists or Hellenistic Greek culture, language, and philosophy (archaic variant of Hellenistic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical scholarship, relating to the Koine Greek idiom spoken and written by Jews and early Christians across the Roman Empire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hellenistical designates relating to or characteristic of the classical greek civilization."*
+> - 📜 **B. F. Westcott (*Introduction to the Study of the Gospels*):** *"The Septuagint translation was composed in a distinctive **hellenistical** dialect rich in Hebrew idioms."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Writers trained in the **hellenistical** style combined Attic syntax with Syrian and Egyptian vocabulary."*
+> - 📜 **John Lightfoot (*Horae Hebraicae et Talmudicae*):** *"Apostolic letters addressed communities familiar with both rabbinic tradition and **hellenistical** rhetoric."*

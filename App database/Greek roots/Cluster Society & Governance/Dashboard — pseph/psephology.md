@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of elections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of elections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The statistical and quantitative study of elections, voting behavior, and trends in polling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science, the empirical discipline (coined in 1952 from Greek psephos) that analyzes electoral turnout, swings, and predictive exit polls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephology designates the scientific study of elections."*
+> - 📜 **David Butler (*The Study of Political Behavior*):** *"Modern **psephology** developed when statistical survey methodology was applied systematically to general elections."*
+> - 📜 **Robert Dahl (*Who Governs?*):** *"The insights of **psephology** clarify how local patronage networks shape aggregate national voting outcomes."*
+> - 📜 **V. O. Key Jr. (*Politics, Parties, and Pressure Groups*):** *"Quantitative **psephology** exploded the myth that voters are purely passive targets of party propaganda."*

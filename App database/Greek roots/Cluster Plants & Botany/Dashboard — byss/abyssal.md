@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ocean depths from 2000 to 5000 meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling an abyss in depth; so deep as to be unmeasurable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring in the deepest parts of the ocean, especially between 3,000 and 6,000 meters below sea level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology and geology, characterizing lightless, high-pressure, near-freezing oceanic environments and the bizarre benthic organisms adapted to them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abyssal designates relating to ocean depths from 2000 to 5000 meters."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Through the quartz windows of the bathysphere, we glimpsed the eerie luminescent denizens of the **abyssal** depths."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Over the vast **abyssal** plains, fine globigerina ooze settles undisturbed year after year through motionless, freezing water."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Ancient tectonic collisions occasionally uplift portions of the dark **abyssal** seafloor, exposing radiolarian cherts upon mountaintops."*

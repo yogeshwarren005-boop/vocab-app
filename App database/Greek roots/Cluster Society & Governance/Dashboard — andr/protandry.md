@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek andr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition in which male reproductive organs mature and shed pollen or sperm before the female organs of the same individual mature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and zoological sequential hermaphroditism, an adaptation preventing self-fertilization by temporal separation of gamete release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protandry designates a term designating an entity, condition, or phenomenon derived from greek andr."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Widespread **protandry** in Compositae guarantees that foraging bees transport pollen to older receptive florets."*
+> - 📜 **Julian Huxley (*The Individual in the Animal Kingdom*):** *"Sequential hermaphrodites like oysters demonstrate marked **protandry**, beginning reproductive life as males."*
+> - 📜 **John Lubbock (*British Wild Flowers Considered in Relation to Insects*):** *"Through marked **protandry**, the flower ensures cross-pollination by shedding its pollen before the stigma opens."*

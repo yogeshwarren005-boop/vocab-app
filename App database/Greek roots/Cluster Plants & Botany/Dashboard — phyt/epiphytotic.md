@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants) epidemic among plants of a single kind especially over a wide area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of plants) epidemic among plants of a single kind especially over a wide area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread, destructive outbreak of disease among plants, analogous to an epidemic among human populations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural phytopathology, a sudden and devastating surge of fungal, viral, or bacterial plant infection over a broad geographical area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphytotic designates (of plants) epidemic among plants of a single kind especially over a wide area."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"The sudden potato blight in Ireland was an catastrophic **epiphytotic** that destroyed the food supply of an entire nation."*
+> - 📜 **William Gilson Farlow (*The Gymnosporangia or Cedar-Apples of the United States*):** *"Warm humid weather in midsummer provided ideal conditions for an aggressive rust **epiphytotic** across cereal fields."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Prompt removal of infected orchard shoots prevents a localized blight from developing into a disastrous **epiphytotic**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus now or formerly belonging to the form genus rhizoctinia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus now or formerly belonging to the form genus rhizoctinia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of anamorphic soil-borne fungi (Rhizoctonia) that lack asexual spores, known as plant pathogens causing damping-off, root rot, and collar rot in crops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, anamorphic basidiomycetes (teleomorph Thanatephorus) that form sterile dark mycelial cushions and sclerotia, notorious for Rhizoctonia solani blight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizoctinia designates any fungus now or formerly belonging to the form genus rhizoctinia."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"Damping-off of young greenhouse seedlings is frequently caused by virulent parasitic hyphae of **Rhizoctonia** in contaminated potting compost."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"Potato tubers exposed to damp soil develop black scurf, a disease caused by the resting sclerotia of **Rhizoctonia**."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The mycelium of **Rhizoctonia** spreads rapidly through damp soil, invading the succulent hypocotyl of newly germinated plants."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonelective government officials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonelective government officials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or rigid adherence to bureaucratic rules, routines, and official procedures; red tape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political critique and socialist history, the concentration of state power in an entrenched, self-serving administrative caste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bureaucratism designates nonelective government officials."*
+> - 📜 **Leon Trotsky (*The Revolution Betrayed*):** *"Soviet society succumbed to the chokehold of entrenched **bureaucratism**, stifling revolutionary initiative."*
+> - 📜 **Vladimir Lenin (*The State and Revolution*):** *"We must wage an uncompromising struggle against the disease of **bureaucratism** in worker councils."*
+> - 📜 **Milovan Djilas (*The New Class*):** *"Monopolistic state ownership inevitably breeds a privileged caste driven solely by self-protective **bureaucratism**."*

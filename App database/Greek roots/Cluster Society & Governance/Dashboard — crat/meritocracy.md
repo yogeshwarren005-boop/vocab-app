@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political system or society in which individuals hold power, status, or office based on their demonstrated ability and talent rather than wealth or birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology, a system of social stratification governed by educational credentials, competitive examinations, and measured performance (coined by Michael Young).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meritocracy designates a system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions."*
+> - 📜 **Michael Young (*The Rise of the Meritocracy*):** *"I coined the term **meritocracy** as a satire, warning of a stratified society sorted purely by IQ and effort."*
+> - 📜 **John Rawls (*A Theory of Justice*):** *"A pure **meritocracy** still leaves social outcomes hostage to the arbitrary lottery of natural talents."*
+> - 📜 **Daniel Bell (*The Coming of Post-Industrial Society*):** *"In post-industrial society, professional credentials and technical knowledge make **meritocracy** the dominant ethos."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: bush poppy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: bush poppy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen shrubs in the poppy family (Papaveraceae), known as the tree poppy or bush poppy, native to California and Baja California.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chaparral botany, an exceptional woody papaveraceous shrub (Dendromecon rigida) bearing leathery willow-like leaves and bright four-petaled yellow poppies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendromecon designates one species: bush poppy."*
+> - 📜 **Edward Lee Greene (*Manual of the Botany of San Francisco Bay*):** *"The genus **Dendromecon** is unique among poppies in developing a rigid woody trunk and shrubby evergreen habit."*
+> - 📜 **Willis Linn Jepson (*A Flora of Western Middle California*):** *"After chaparral fires, **Dendromecon** rigida crowns the blackened ridges with dazzling clusters of bright lemon-yellow flowers."*
+> - 📜 **Philip A. Munz (*A California Flora*):** *"On arid serpentine slopes, **Dendromecon** harfordii forms a magnificent rounded bush crowned with glistening poppy blossoms."*

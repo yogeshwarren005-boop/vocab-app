@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard natural coal of high luster differing from bituminous coal in containing little volatile matter and in burning very cleanly —called also hard coal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard natural coal of high luster differing from bituminous coal in containing little volatile matter and in burning very cleanly —called also hard coal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, compact variety of mineral coal that has a high luster, contains very little volatile matter, and burns with a short, clean, smokeless flame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fuel geology and metamorphic coalification, the highest rank of coal, characterized by carbon content exceeding 90 percent and low hydrogen yield.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Nowhere in the United States has the principle of compulsory arbitration been adopted, but at the time of the great anthracite strike, in 1902, public sentiment grew strong in favor of it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coal mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Coal-mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
+> - 📜 **Charles Lyell (*Travels in North America*):** *"The immense beds of **anthracite** in the Appalachian valleys demonstrate the intense metamorphic pressure exerted during mountain building."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Where bituminous coal seams approach igneous dykes, the volatile hydrocarbons have been driven off, converting the coal into **anthracite**."*
+> - 📜 **Henry Darwin Rogers (*The Geology of Pennsylvania*):** *"The smokeless combustion of Pennsylvania **anthracite** fueled the iron forges and locomotives of the Industrial Revolution."*

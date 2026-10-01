@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the helotiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the helotiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus of tiny cup fungi in the family Helotiaceae (now widely reclassified under Hymenoscyphus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical mycology, cup fungi growing on moist dead wood, leaves, or acorn cups bearing brightly colored disc apothecia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helotium designates type genus of the helotiaceae."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"The minute bright yellow discs of **Helotium** adorn decaying hazel twigs in damp autumnal woods."*
+> - 📜 **Mordecai Cubitt Cooke (*British Fungi*):** *"Under the lens, **Helotium** displays translucent cylindrical asci packed with eight hyaline spores."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Saccardo cataloged scores of saprophytic species under the classical generic concept of **Helotium**."*

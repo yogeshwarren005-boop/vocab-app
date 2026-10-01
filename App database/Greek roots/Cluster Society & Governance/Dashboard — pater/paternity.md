@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a father.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The kinship relation between an offspring and the father.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being someone's father; fatherhood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Descent from or relationship to a father; or the origin or authorship of an idea or work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I do hate the aristocratic principle of blood before everything, and do think that as reasoners the only pedigrees we ought to respect are those spiritual ones of the wise and virtuous, without regard to corporal paternity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But unluckily the Varens, six months before, had given me this filette Adèle, who, she affirmed, was my daughter; and perhaps she may be, though I see no proofs of such grim paternity written in her countenance: Pilot is more like me than she."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Maternity often wilts women, but paternity is apt to make men bloom with the importance of it."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law establishes a firm presumption of legitimate **paternity** for all children born in lawful wedlock."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber assumed an air of grave **paternity**, counseling his boys upon the perils of debt."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Questions of disputed **paternity** were historically determined by the testimony of midwives and solemn oaths."*

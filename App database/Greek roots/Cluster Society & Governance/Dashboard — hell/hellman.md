@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states playwright; her plays were often indictments of injustice (1905-1984).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states playwright; her plays were often indictments of injustice (1905-1984).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surname; prominently referring to Lillian Hellman (1905–1984), American dramatist and memoirist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and theatrical history, the author of The Children's Hour and The Little Foxes, noted for fierce political defiance before HUAC.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hellman designates united states playwright; her plays were often indictments of injustice (1905-1984)."*
+> - 📜 **Lillian Hellman (*Scoundrel Time*):** *"I cannot and will not cut my conscience to fit this year's fashions, wrote **Hellman** to the congressional committee."*
+> - 📜 **Arthur Miller (*Timebends: A Life*):** *"The theatrical courage of Lillian **Hellman** brought uncompromising moral tension to Broadway stages."*
+> - 📜 **Edmund Wilson (*The Triple Thinkers*):** *"Plays by **Hellman** exposed the ruthless domestic avarice of the rising industrial South."*

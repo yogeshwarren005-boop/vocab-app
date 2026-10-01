@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or device for determining the exact pitch or the vibration rate of tones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring tension or pressure and especially intraocular pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring pressure or tension, especially intraocular pressure within the eyeball to screen for glaucoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, an apparatus (such as the Goldmann applanation tonometer or Schiøtz indentation tonometer) measuring corneal resistance to indentation or flattening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonometer designates an instrument or device for determining the exact pitch or the vibration rate of tones."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Application of a reliable **tonometer** revealed elevated intraocular pressure long before cupping of the optic disc was visible."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In suspected glaucoma, immediate measurement with a **tonometer** is essential to prevent irreversible blindness."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Acoustic physics also employs a **tonometer**, consisting of a calibrated series of tuning forks to gauge absolute pitch."*

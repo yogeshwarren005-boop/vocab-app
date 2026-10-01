@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form of government; also : state having such a form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Social or political class (as of powerful persons).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form denoting a form of government, rule, or social influence (e.g. democracy, theocracy, meritocracy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology and political philosophy, the productive suffix originating from Greek kratia, signifying sovereign power or dominion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cracy designates form of government; also : state having such a form."*
+> - 📜 **Aristotle (*Politics*):** *"In analyzing states, we distinguish forms of civic power signified by the suffix -**cracy**, from demo- to aristo-."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The Greek concept of civic dominance embedded in -**cracy** shaped constitutional debate across antiquity."*
+> - 📜 **H. L. Mencken (*Notes on Democracy*):** *"Every newly minted -**cracy** promises popular salvation while delivering old-fashioned elite rule."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seed shrimps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seed shrimps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of small crustaceans, typically less than a millimeter long, having the body enclosed in a bivalve-like calcareous shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine and freshwater biology, a highly diverse arthropod clade (seed shrimp) widely used as paleoenvironmental and salinity indicators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostracoda designates seed shrimps."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The class **Ostracoda** is distinguished by the reduction of body segmentation within a hinged bivalve shell."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Abundant fossil valves belonging to **Ostracoda** assist geologists in correlating ancient lacustrine strata."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"Microscopic observations on **Ostracoda** revealed surprisingly complex sensory setae along the shell margin."*

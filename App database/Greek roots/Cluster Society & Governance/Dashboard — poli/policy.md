@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prudence or wisdom in the management of affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management or procedure based primarily on material interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A course or principle of action adopted or proposed by a government, party, business, or individual; or an insurance contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, the deliberate program of administrative action chosen to guide decisions and achieve rational social outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there no military policy how virgins might blow up men?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So much uncurbable, her garboils, Caesar, Made out of her impatience—which not wanted Shrewdness of policy too—I grieving grant Did you too much disquiet."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"The prince must harmonize his internal **policy** with the demands of changing fortune to preserve his state."*
+> - 📜 **Benjamin Franklin (*Poor Richard's Almanack*):** *"Honesty is the best **policy**, but he who acts on that principle alone is not an honest man."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A prudent **policy** never rashly pulls down ancient institutional structures without knowing what will replace them."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or resembling an almond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or resembling an almond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or obtained from almonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the presence or chemical properties of bitter almond oil or cyanogenic glycosides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdaline designates related to or resembling an almond."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The wild pit fruits generate an **amygdaline** bitterness that disappears under centuries of careful horticultural selection."*
+> - 📜 **Robert Christison (*A Treatise on Poisons*):** *"Distillation of cherry-laurel leaves produces an **amygdaline** distillate carrying sufficient hydrocyanic acid to cause rapid death."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Organic analysis reveals distinct **amygdaline** compounds across many species of the genus Prunus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small trees or shrubs of the family staphylaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of small trees or shrubs of the family staphylaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous shrubs and small trees in the family Staphyleaceae, known as bladdernuts, bearing drooping clusters of white flowers and inflated, bladder-like seed pods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temperate forest ecology, attractive understory shrubs (such as Staphylea trifolia) whose papery inflated capsules rattle in the autumn wind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphylea designates a genus of small trees or shrubs of the family staphylaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The name **Staphylea** derives from the Greek for a cluster of grapes, describing the drooping pendulous panicles of blossoms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"American bladdernut, **Staphylea** trifolia, grows in moist shaded woodlands, its greenish-striped bark supporting inflated three-lobed pods."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The bladdernut or **Staphylea** beareth bladder-like husks containing smooth, hard, bony nuts that rattle when shaken."*

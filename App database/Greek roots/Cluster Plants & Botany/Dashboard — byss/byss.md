@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek byss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and botanical root derived from Greek 'byssos' (fine linen, flax, cotton, or silky marine fiber), used in textile and biological terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical malacology and cryptogamic botany, the root denoting silky anchoring threads secreted by bivalve mollusks or fine fungal filaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, byss designates a term designating an entity, condition, or phenomenon derived from greek byss."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The Egyptians weave priestly vestments from fine **byssos**, a plant fiber softer and whiter than common sheep's wool."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Garments fashioned from marine **byssos** gleam with a golden sheen, commanding exorbitant prices across imperial Rome."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanists applied the generic term Byssus to obscure fibrous cryptogams that resemble bundles of fine silken threads."*

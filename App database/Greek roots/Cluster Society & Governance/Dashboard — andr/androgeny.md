@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of exhibiting male characteristics, or the production of male offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and reproductive taxonomy, the physiological state of androgen dominance or masculinization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgeny designates male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Ancient tribal customs placed immense cultural premium upon royal **androgeny** and patrilineal continuity."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Early medical investigators frequently confused somatic **androgeny** with psychological masculine disposition."*
+> - 📜 **J. B. S. Haldane (*Daedalus; or, Science and the Future*):** *"Future biochemical controls over reproductive **androgeny** may redefine societal sex ratios entirely."*

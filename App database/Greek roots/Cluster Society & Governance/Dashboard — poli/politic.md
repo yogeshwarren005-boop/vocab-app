@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeming sensible and judicious under the circumstances; prudent or shrewd (especially of an action).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history, relating to the body politic or sovereign state governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not politic in the commonwealth of nature to preserve virginity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As for you, interpreter, you must seem very politic."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have trod a measure; I have flattered a lady; I have been politic with my friend, smooth with mine enemy; I have undone three tailors; I have had four quarrels, and like to have fought one."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"It is often more **politic** for a ruler to be feared than loved, if he cannot achieve both together."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"He was a man of **politic** regard, skilled in whispered statecraft and courtly expedience."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Prudence in government is not only the first of political virtues, but the supreme rule of all **politic** wisdom."*

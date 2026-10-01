@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek iren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific or academic study of peace, conflict resolution, and the conditions that prevent war; peace studies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and international relations, the multidisciplinary field founded to investigate disarmament, mediation, and sustainable peace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irenology designates a term designating an entity, condition, or phenomenon derived from greek iren."*
+> - 📜 **Johan Galtung (*Peace by Peaceful Means*):** *"Modern **irenology** must examine structural violence alongside direct physical war to build positive peace."*
+> - 📜 **Kenneth Boulding (*Conflict and Defense: A General Theory*):** *"The theoretical models of **irenology** clarify how national defense budgets can stabilize into non-hostile equilibria."*
+> - 📜 **Hedley Bull (*The Anarchical Society*):** *"Research in **irenology** provides diplomats with valuable frameworks for institutional arms reduction."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in the same area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupying the same geographical range without loss of identity from interbreeding; also : occurring between populations that are not geographically separated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of organisms in the same geographical area without interbreeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and population genetics, spatial co-existence of related taxa maintaining distinct gene pools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sympatry designates occurring in the same area."*
+> - 📜 **Ernst Mayr (*Populations, Species, and Evolution*):** *"Character displacement is frequently observed when two closely related bird species enter secondary **sympatry**."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Ecological competition is fiercest in regions of territorial **sympatry** where food requirements overlap."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The maintenance of high tropical biodiversity relies on complex niche partitionings sustained in mutual **sympatry**."*

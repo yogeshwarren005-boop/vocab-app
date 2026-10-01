@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person active in party politics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person active in party politics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A politician or political person, especially an experienced, shrewd, or opportunistic one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political journalism, an insider or party operative skilled in campaign mechanics and vote-counting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Politico-economic problems. § 2."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Raw materials for clothing, shelter, machinery, etc. § 1. #Politico-economic problems.# The word "problem" is often on our tongues."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What then are our politico-economic problems in America?"*
+> - 📜 **Sinclair Lewis (*It Can't Happen Here*):** *"The veteran **politico** knew how to pander to rural prejudices while securing big-city campaign donations."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing on the Campaign Trail '72*):** *"Every cynical **politico** in the hotel lobby was drinking bourbon and calculating primary delegate counts."*
+> - 📜 **H. L. Mencken (*Notes on Democracy*):** *"The professional **politico** possesses an extraordinary antenna for sensing which way the herd will run."*

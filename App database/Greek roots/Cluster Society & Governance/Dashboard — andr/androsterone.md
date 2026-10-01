@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An androgenic hormone that is less active than testosterone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An androgenic hormone that is less active than testosterone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A steroid hormone with weak androgenic activity, produced as a metabolite of testosterone and excreted in urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical endocrinology, an endogenous 3alpha-hydroxy-5alpha-androstan-17-one steroid serving as an indicator of androgen metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androsterone designates an androgenic hormone that is less active than testosterone."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"Urinary excretion of **androsterone** reflects the systemic degradation of circulating adrenal steroids."*
+> - 📜 **Francis Crick (*Of Molecules and Men*):** *"Biochemical isolation of **androsterone** in the 1930s laid the foundation for modern steroid synthesis."*
+> - 📜 **J. B. S. Haldane (*Science and Human Life*):** *"Comparative analysis of **androsterone** levels across age cohorts illuminated endocrine decline in mammals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek andr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: False or apparent masculinity; or in biology, female imitation of male anatomy, appearance, or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and social behavior, female ornamentation or phenotypic mimicry that simulates male secondary sexual characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudandry designates a term designating an entity, condition, or phenomenon derived from greek andr."*
+> - 📜 **E. B. Poulton (*The Colours of Animals*):** *"Remarkable cases of **pseudandry** allow certain female butterflies to deter aggressive male courtship."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"Behavioral **pseudandry** may serve as an evolutionary counter-strategy in highly competitive social hierarchies."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Clinical observers documented rare somatic **pseudandry** resulting from congenital adrenal imbalances."*

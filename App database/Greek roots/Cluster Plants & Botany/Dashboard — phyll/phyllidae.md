@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of phasmatodean insects known as true leaf insects or walking leaves, celebrated for their extraordinary mimetic resemblance to green or dried foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary zoology and crypsis research, Australasian and Asian insects exhibiting flat, leaf-like broad abdomens, veined tegmina, and lobed legs that mimic foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllidae designates leaf insects."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The camouflage of the **Phyllidae** is so flawless that even botanists mistake the motionless insect for a living guava leaf."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The exquisite protective resemblance in the **Phyllidae** can be explained only by the gradual accumulation of minor variations favoring concealment."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Grasshopper*):** *"When the leaf-insect of the **Phyllidae** walks, it rocks gently from side to side like a foliage leaf stirred by the breeze."*

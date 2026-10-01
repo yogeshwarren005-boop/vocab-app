@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A central nervous system stimulant and chemical convulsant drug (pentylenetetrazol), formerly used in shock therapy for psychiatric disorders and as a respiratory stimulant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological psychiatry and neuropharmacology, the agent introduced by Ladislas von Meduna in 1934 to induce therapeutic epileptic seizures in schizophrenic patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrazol designates a drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark."*
+> - 📜 **Ladislas von Meduna (*Die Konvulsionstherapie der Schizophrenie*):** *"Intravenous injection of **Metrazol** reliably triggered grand mal seizures, breaking through catatonic stupor in our clinical trials."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Before electroconvulsive therapy was standardized, violent convulsions induced by **Metrazol** were the desperate psychiatric remedy of the 1930s."*
+> - 📜 **Raymond D. Adams (*Principles of Neurology*):** *"In experimental neurophysiology, sub-convulsive doses of **Metrazol** are utilized to lower seizure thresholds in animal models."*

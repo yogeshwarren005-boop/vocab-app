@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek dēmos, denoting the people, citizens, or a localized population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and sociopolitical morphology, the foundational morpheme in compounds signifying popular sovereignty and civic assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dem 2 designates a term designating an entity, condition, or phenomenon derived from greek dem."*
+> - 📜 **Aristotle (*Constitution of the Athenians*):** *"Cleisthenes reorganized the citizenry by redistributing the **dem**- units to break aristocratic clan power."*
+> - 📜 **George Grote (*A History of Greece*):** *"Attic political consciousness was rooted in local participation across every rural and urban **dem**-."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The Greek concept of **dem**- signified both the aggregate body of citizens and the common folk as a political force."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In accord with physical laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accord with physical laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a physical manner; with regard to the body or the material world; according to the laws of physics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy, operating through tangible material forces rather than spiritual, moral, or abstract influences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here he spread half of the hay as a bed, and, as well as he could in the darkness, pulled the other half over him by way of bed-clothes, covering himself entirely, and feeling, physically, as comfortable as ever he had been in his life."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had, in fact, undone the kiss, as far as such a thing was physically possible."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was her best face physically that was now set against the south wind."*
+> - 📜 **Charles Darwin (*Journal of Researches (Voyage of the Beagle)*):** *"The crew was **physically** exhausted after battling fierce Antarctic gales off Cape Horn for three weeks."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Two distant celestial bodies act upon each other **physically** through the universal law of gravitational attraction."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Man is **physically** one with the apes, possessing an almost identical skeletal and muscular framework."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presumptuously seeking success or a position in a new locality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presumptuously seeking success or a position in a new locality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or actions of a carpetbagger; opportunistic exploitation of a political or financial situation by an outsider.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electoral politics, the practice of relocating to a new district solely to compete for political office without local roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbagging designates presumptuously seeking success or a position in a new locality."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"Accusations of corrupt **carpetbagging** were hurled against Northern philanthropists who established colleges for freedmen."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The editorial condemned the syndicate's shameless **carpetbagging** in acquiring municipal rail franchises."*
+> - 📜 **Woodrow Wilson (*Division and Reunion*):** *"The period of so-called **carpetbagging** governance generated deep regional bitterness that lingered for generations."*

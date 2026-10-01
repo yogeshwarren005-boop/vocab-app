@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or consisting of carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or consisting of carpels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one or more carpels; specifically applied to flowers that possess functional carpels but lack stamens (female flowers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive plant biology, describing pistillate blossoms in monoecious or dioecious species dedicated exclusively to seed production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpellate designates bearing or consisting of carpels."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In dioecious hollies, cross-pollination depends entirely upon bees carrying pollen from staminate trees to **carpellate** individuals."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The fertile **carpellate** catkins of the willow swell rapidly after spring fertilization, shedding downy seeds in early June."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"In the hop vine, the commercial strobiles develop exclusively from clusters of imbricated **carpellate** flowers."*

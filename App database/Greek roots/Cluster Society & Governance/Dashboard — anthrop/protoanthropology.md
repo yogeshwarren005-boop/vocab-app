@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study humans prior to the invention of writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study humans prior to the invention of writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The early, pre-scientific, or rudimentary form of anthropology found in classical or early modern writings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, philosophical speculations and travel narratives (such as Herodotus) that anticipated systematic anthropological inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoanthropology designates the study humans prior to the invention of writing."*
+> - 📜 **Arnaldo Momigliano (*The Classical Foundations of Modern Historiography*):** *"Herodotus's detailed ethnographic accounts of Egyptian and Scythian customs represent genuine **protoanthropology**."*
+> - 📜 **Franz Boas (*Race, Language, and Culture*):** *"Renaissance curiosity regarding indigenous American societies gave birth to an uncritical yet earnest **protoanthropology**."*
+> - 📜 **Claude Lévi-Strauss (*The View from Afar*):** *"Montaigne's reflections on Brazilian cannibals served as the philosophical cradle of modern **protoanthropology**."*

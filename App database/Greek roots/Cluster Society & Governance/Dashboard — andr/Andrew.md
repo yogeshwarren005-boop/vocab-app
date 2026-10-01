@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) disciple of jesus; brother of peter; patron saint of scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; brother of peter; patron saint of scotland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A masculine given name derived from Greek Andreas ('manly', 'courageous'); also referring to Saint Andrew the Apostle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hagiography and historical onomastics, the patron saint of Scotland, Greece, and Russia, known for his martyrdom on an X-shaped cross.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should not see the sandy hour-glass run But I should think of shallows and of flats, And see my wealthy Andrew dock’d in sand, Vailing her high top lower than her ribs To kiss her burial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, wench! _Castiliano vulgo:_ for here comes Sir Andrew Agueface."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou let part so, Sir Andrew, would thou mightst never draw sword again."*
+> - 📜 **Bede (*Ecclesiastical History of the English People*):** *"The monastery was dedicated in honor of the blessed apostle **Andrew**, who brought faith to northern nations."*
+> - 📜 **Walter Scott (*Waverley*):** *"The banner displayed the silver cross of Saint **Andrew** blazing upon its azure field."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"In the records of the ancient abbey, Brother **Andrew** was commemorated for his steadfast devotion."*

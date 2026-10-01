@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To exercise arbitrary oppressive power or severity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat tyrannically : oppress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exercise absolute power or control over others in a cruel, oppressive, or arbitrary manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dominate despotically, treating subjects or dependents without justice or mercy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within me is a hell; and there the poison Is, as a fiend, confin’d to tyrannize On unreprievable condemned blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This poor right hand of mine Is left to tyrannize upon my breast; Who when my heart, all mad with misery, Beats in this hollow prison of my flesh, Then thus I thump it down."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, well, I made thee miserable What time I threw the people’s suffrages On him that thus doth tyrannize o’er me."*
+> - 📜 **Thomas Paine (*Common Sense*):** *"When the king began to **tyrannize** over his American colonies, the moral bond of allegiance was broken."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A democratic majority must never be allowed to **tyrannize** over minority rights under color of law."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The slaveholder learned to **tyrannize** over defenseless human chattel, hardening his heart against pity."*

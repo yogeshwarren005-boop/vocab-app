@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of greeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of greeting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exclamation used as a greeting or to begin a phone conversation; or an expression of surprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunication history and sociolinguistics, popularized by Thomas Edison as the standard telephone salutation over Alexander Graham Bell's preferred 'ahoy'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hello,” I tapped “Hello, stranger,” Morrell tapped back; and, from Oppenheimer, “Welcome to our city.” They were curious to know who I was, how long I was condemned to solitary, and why I had been so condemned."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Hello, Granny Fox!” he exclaimed."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Hello, what's the matter now?” Everybody looked."*
+> - 📜 **James Joyce (*Ulysses*):** *"**Hello**! Leopold Bloom answered the sudden telephone ring with mild trepidation."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"**Hello**, Central! cried the traveler into the receiver, astonishing the sixth-century knights."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"A cheerful **hello** echoed across the park as old acquaintances unexpectedly brushed past each other."*

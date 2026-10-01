@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Celery pine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celery pine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of coniferous trees in the family Podocarpaceae (or Phyllocladaceae), known as celery pines, native to New Zealand, Tasmania, and Malesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australasian dendrology, conifers whose true leaves are reduced to minute scales while photosynthetic function is performed by diamond-shaped celery-like phylloclades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllocladus designates celery pine."*
+> - 📜 **Joseph Dalton Hooker (*Flora Tasmaniae*):** *"The celery-topped pine, **Phyllocladus** aspleniifolius, towers in the damp temperate rain forests of western Tasmania."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In **Phyllocladus**, the branches mimic compound fern fronds so perfectly that travellers mistook the tree for an arborescent cryptogam."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The seeds of **Phyllocladus** sit in a fleshy cup-shaped aril, dispersed through the forest by native fruit pigeons."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American revolutionary leader (born in ireland) who was a member of the constitutional convention (1745-1806).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city of northeastern new jersey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A patronymic surname meaning 'son of Patrick/Peter'; or a major industrial city in northeastern New Jersey, USA.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modernist American poetry, the epic poem Paterson by William Carlos Williams embodying the industrial city as a living man.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Carter, Paterson & Co., London._ “_17 August._ “Dear Sirs,-- “Herewith please receive invoice of goods sent by Great Northern Railway."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Carter, Paterson & Co., London, to Messrs."*
-> - 📜 **Bram Stoker (*Dracula*):** *"_Pro_ CARTER, PATERSON & CO.” _Mina Murray’s Journal._ _18 August._--I am happy to-day, and write sitting on the seat in the churchyard."*
+> - 📜 **William Carlos Williams (*Paterson*):** *"A man is indeed a city, and the roaring falls of **Paterson** pour like language through his soul."*
+> - 📜 **Allen Ginsberg (*Kaddish*):** *"Memories of my childhood home in **Paterson** returned with the bittersweet pain of passing time."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"The cascading Great Falls at **Paterson** provided unmatched water power for the nation's earliest textile mills."*

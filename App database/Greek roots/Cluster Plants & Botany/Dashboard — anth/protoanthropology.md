@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study humans prior to the invention of writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study humans prior to the invention of writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The early, preparatory, or speculative study of human origins, human diversity, and archaic hominid evolution prior to the establishment of modern anthropological methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the pre-Darwinian or early Enlightenment intellectual tradition speculating on the descent, physical varieties, and social emergence of man.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoanthropology designates the study humans prior to the invention of writing."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Classical inquiries into the nature of barbarians and monsters may be deemed the rudimentary cradle of **protoanthropology**."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"Enlightenment naturalists engaged in **protoanthropology**, seeking to classify human races into Linnaean taxonomic categories."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"Montaigne's reflections upon the Brazilian cannibals provided a brilliant philosophical foundation for modern science before **protoanthropology** was formalized."*

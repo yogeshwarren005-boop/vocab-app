@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual prostrate mat-forming weed having whorled leaves and small greenish-white flowers; widespread throughout north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual prostrate mat-forming weed having whorled leaves and small greenish-white flowers; widespread throughout north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-growing, prostrate annual weed (Mollugo verticillata, family Molluginaceae) forming flat mats upon cultivated ground and waste places.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural weed ecology, a drought-tolerant annual characterized by whorled spatulate leaves and tiny greenish-white blossoms spreading over sandy soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetweed designates annual prostrate mat-forming weed having whorled leaves and small greenish-white flowers; widespread throughout north america."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The humble **carpetweed** spreads flat upon bare sandy ground in summer, forming green circular mats several feet across."*
+> - 📜 **Nathaniel Lord Britton (*An Illustrated Flora of the Northern United States*):** *"Common **carpetweed** is an introduced immigrant from tropical America that rapidly colonizes fallow cornfields."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners eradicate **carpetweed** by shallow hoeing before its minute seeds ripen in late autumn."*

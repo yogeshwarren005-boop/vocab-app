@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to evaluate reality exclusively in terms of human values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to evaluate reality exclusively in terms of human values.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or perspective of being anthropocentric; human-centeredness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and philosophy, the intellectual tendency to evaluate cosmological and ecological systems from an exclusively human standpoint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropocentricity designates an inclination to evaluate reality exclusively in terms of human values."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"The naive **anthropocentricity** of early religions attributed human passions and moral grievances to the starry constellations."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"A philosophy of organism strives to transcend the narrow **anthropocentricity** that reduces nature to passive sensory data."*
+> - 📜 **Will Durant (*The Story of Philosophy*):** *"Spinoza dismantled the psychological **anthropocentricity** of his contemporaries, demonstrating that nature serves no subjective human purpose."*

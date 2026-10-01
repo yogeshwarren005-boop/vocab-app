@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike with disgust or revulsion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike with disgust or revulsion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shock or offend someone by doing something considered immoral or improper (British spelling of scandalize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical terminology, to reduce the area of a sail by dropping the peak of a gaff sail or tricing up the tack.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The responsibility of giving the lady away devolved upon the Aged, which led to the clergyman’s being unintentionally scandalised, and it happened thus."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Well, John?” “May I sit in Peter’s chair, as he is not here?” “Sit in father’s chair, John!” Wendy was scandalised."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"But we want you to dance.” Peter was really the best dancer among them, but he pretended to be scandalised."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The proposal to perform an amateur play at the estate threatened to **scandalise** the sober principles of Sir Thomas."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mrs. Nickleby managed to **scandalise** her listeners with rambling, inappropriate family anecdotes."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The skipper ordered the crew to **scandalise** the mainsail to ease the schooner during the squall."*

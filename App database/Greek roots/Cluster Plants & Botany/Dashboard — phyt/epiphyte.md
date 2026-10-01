@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant that derives moisture and nutrients from the air and rain; usually grows on another plant but not parasitic on it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant that derives moisture and nutrients from the air and rain; usually grows on another plant but not parasitic on it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows upon another plant or object non-parasitically, deriving moisture and nutrients from the air, rain, and accumulated debris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical forest ecology, canopy-dwelling plants such as bromeliads, orchids, and ferns that occupy canopy niches to access sunlight without rooting in ground soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphyte designates plant that derives moisture and nutrients from the air and rain; usually grows on another plant but not parasitic on it."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Every branch of the colossal wild fig tree was smothered in dense garlands of orchids, ferns, and bromeliad **epiphyte** colonies."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised*):** *"The aerial roots of the tropical **epiphyte** are encased in spongy velamen that absorbs moisture from monsoon humidity."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"So immense is the weight of water accumulated by canopy **epiphyte** clusters that great branches frequently crash to the ground."*

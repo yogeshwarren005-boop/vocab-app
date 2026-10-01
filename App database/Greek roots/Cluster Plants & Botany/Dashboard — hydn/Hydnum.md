@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of hydnaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of hydnaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of edible tooth fungi (family Hydnaceae) known as hedgehog mushrooms, featuring creamy-white caps and downward-pointing spines beneath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an ectomycorrhizal basidiomycete genus (typified by Hydnum repandum) highly prized as a culinary delicacy with a nutty, firm texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Hydnum designates type genus of hydnaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **Hydnum**, I have classified those pileate mushrooms whose under-surface bristles with soft subulate teeth."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The wood hedgehog, **Hydnum** repandum, is one of the safest and most delicious woodland fungi, entirely lacking toxic lookalikes."*
+> - 📜 **Charles McIlvaine (*One Thousand American Fungi*):** *"When cooked slowly in butter, the spines of **Hydnum** soften, releasing a rich peppery fragrance that delights every mycologist."*

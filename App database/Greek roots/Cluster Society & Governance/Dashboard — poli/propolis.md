@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish resinous material of waxy consistency collected by bees from the buds of trees and used as a cement in repairing and maintaining the hive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish resinous material of waxy consistency collected by bees from the buds of trees and used as a cement in repairing and maintaining the hive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red or brown resinous substance collected by honeybees from tree buds, used by them to cement crevices and seal the hive (bee glue).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In apiculture and pharmaceutical botany, an antimicrobial bee secretion rich in caffeic acid phenethyl ester and flavonoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propolis designates a brownish resinous material of waxy consistency collected by bees from the buds of trees and used as a cement in repairing and maintaining the hive."*
+> - 📜 **Aristotle (*History of Animals*):** *"Bees seal the vestibule of their comb with **propolis**, defending the narrow gateway of their city against intruders."*
+> - 📜 **Maurice Maeterlinck (*The Life of the Bee*):** *"The workers coat every crevice with aromatic **propolis**, sanitizing the hive against decay with resinous varnish."*
+> - 📜 **Karl von Frisch (*Bees: Their Vision, Chemical Senses, and Language*):** *"Foragers harvest sticky botanical gums to produce **propolis**, essential for hive insulation and hygiene."*

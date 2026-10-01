@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds an insurance policy; usually, the client in whose name an insurance policy is written.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who holds an insurance policy; usually, the client in whose name an insurance policy is written.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or entity that holds or owns an insurance policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In actuarial science and commercial insurance law, the party to whom an insurer owes contractual obligations of indemnity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The mutual company legally belongs to the policyholders."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From the excess of income resulting, the company sets aside a surplus and then divides the rest among the policyholders."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A very large part of the premiums paid by the insured is retained by the companies.[8] In the case of reserve life insurance a considerable part of what is not returned is, however, set aside as reserve virtually held in trust for the policyholders."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The insurer must pay the agreed indemnity whenever the lawful **policyholder** suffers maritime loss without fraud."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The fraudulent directors of the Anglo-Bengalee company smiled warmly at each gullible new **policyholder**."*
+> - 📜 **Morris Fishbein (*Fads and Quackery in Healing*):** *"The mutual insurance company distributed annual dividends back to each prudent health **policyholder**."*

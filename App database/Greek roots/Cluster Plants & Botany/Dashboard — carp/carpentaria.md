@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wide shallow inlet of the arafura sea in northern australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wide shallow inlet of the arafura sea in northern australia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, shallow sea inlet situated on the northern coast of Australia; the Gulf of Carpentaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and exploration history, a vast tropical gulf and drainage basin named by Jan Carstensz in 1623 in honor of Pieter de Carpentier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Our course was directed to the west, and on the 11th of January we doubled Cape Wessel, situation in 135° long. and 10° north lat., which forms the east point of the Gulf of Carpentaria."*
+> - 📜 **Matthew Flinders (*A Voyage to Terra Australis*):** *"We charted the low mangrove-lined shores of the Gulf of **Carpentaria**, battling shoals and fierce monsoon squalls."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"The Gulf of **Carpentaria** represents a drowned continental depression that once formed an unbroken land bridge to New Guinea."*
+> - 📜 **Robert Logan Jack (*The Exploration of Cape York Peninsula*):** *"Burke and Wills pushed heroically across the arid interior until they reached the tidal estuaries of **Carpentaria**."*

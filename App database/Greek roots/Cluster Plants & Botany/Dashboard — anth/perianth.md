@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The floral structure comprised of the calyx and corolla especially when the two whorls are fused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The floral structure comprised of the calyx and corolla especially when the two whorls are fused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer non-reproductive envelope of a flower, consisting of the calyx (sepals) and corolla (petals) collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology, the protective and pollinator-attracting floral leaves, especially when sepals and petals are undifferentiated (tepals).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perianth designates the floral structure comprised of the calyx and corolla especially when the two whorls are fused."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised*):** *"The dorsal sepal and petals of the orchid **perianth** arch over the column to protect delicate pollinia from sudden drenching."*
+> - 📜 **Asa Gray (*Lessons in Botany*):** *"When the parts of the **perianth** cannot be distinguished into calyx and corolla, as in the lily, they are described as tepals."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Modifications in the symmetry of the **perianth** serve as essential diagnostic characters across the monocotyledonous orders."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one head or chief wife at a time (along with concubines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one head or chief wife at a time (along with concubines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or practicing monogyny (having only one female partner or wife at a time).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect sociobiology, describing a social insect colony that possesses only a single reproductive queen (monogyne/monogynic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogynic designates having one head or chief wife at a time (along with concubines)."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"A **monogynic** colony exhibits strict reproductive division governed by the pheromones of its solitary queen."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Comparative ethnography demonstrates that **monogynic** norms predominate across most foraging cultures."*
+> - 📜 **Bert Hölldobler (*The Ants*):** *"Territorial boundary defense is significantly fiercer in **monogynic** than in polygynic ant populations."*

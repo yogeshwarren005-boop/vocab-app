@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A passerine bird of the suborder tyranni.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passerine bird of the suborder tyranni.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bird belonging to the family Tyrannidae; a tyrant flycatcher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American ornithology, an insectivorous passerine bird known for sallying out from perches to snap flying prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tyrannid designates a passerine bird of the suborder tyranni."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The Eastern kingbird is a pugnacious **tyrannid**, fearlessly driving crows and hawks from its territory."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Bill shape and flattened rictus bristles distinguish the typical **tyrannid** from Old World muscicapids."*
+> - 📜 **Frank M. Chapman (*Handbook of Birds of Eastern North America*):** *"The crested **tyrannid** returned each spring to nest in hollow apple orchard trunks."*

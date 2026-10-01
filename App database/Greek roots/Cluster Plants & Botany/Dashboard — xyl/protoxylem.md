@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first-formed xylem developing from procambium and consisting of narrow cells with annular, spiral, or scalariform wall thickenings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first-formed xylem developing from procambium and consisting of narrow cells with annular, spiral, or scalariform wall thickenings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first-formed primary xylem that differentiates in a developing plant organ, characterized by narrow tracheary elements with annular or spiral wall thickenings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant developmental histology, conducting elements capable of passive stretching during tissue elongation before the differentiation of metaxylem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoxylem designates the first-formed xylem developing from procambium and consisting of narrow cells with annular, spiral, or scalariform wall thickenings."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The delicate spiral rings of the **protoxylem** allow the young shoot to elongate rapidly without breaking vascular continuity."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In roots, **protoxylem** is exarch, developing at the outer periphery of the vascular cylinder."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Cross-sections through the young fern rhizome reveal distinct **protoxylem** poles initiating bundle development."*

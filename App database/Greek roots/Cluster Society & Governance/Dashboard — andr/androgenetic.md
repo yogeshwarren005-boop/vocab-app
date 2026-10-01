@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to androgenesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to androgenesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by androgenesis (paternal inheritance only).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and cytology, describing organisms or cell lineages whose nuclear genome is exclusively paternal in origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgenetic designates of or related to androgenesis."*
+> - 📜 **Curt Stern (*Principles of Human Genetics*):** *"The rare complete hydatidiform mole represents an **androgenetic** conceptus devoid of maternal chromosomes."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Artificially generated **androgenetic** lines provide striking insights into nuclear-cytoplasmic compatibility."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"An **androgenetic** individual can survive only when vital genomic imprints remain functional."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of human fossils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of human fossils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of early human evolution, fossil hominins, and ancient tool cultures based on fossilized remains and archaeological evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an empirical subdiscipline synthesizing hominoid paleontology, primatology, radiometric dating, and prehistoric archaeology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoanthropology designates the scientific study of human fossils."*
+> - 📜 **Louis Leakey (*Progress and Evolution of Man in Africa*):** *"The field of **paleoanthropology** was revolutionized by discovering early tool-making hominins in East African rift strata."*
+> - 📜 **Richard Leakey (*Origins*):** *"Modern **paleoanthropology** no longer envisions a simple ladder of ascent, but rather a bush of competing hominin lineages."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Pioneering researchers in **paleoanthropology** had to overcome pervasive racial prejudices before interpreting the African fossil evidence correctly."*

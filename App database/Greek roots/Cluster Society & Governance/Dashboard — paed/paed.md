@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Child : childhood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Child : childhood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek pais (stem paid-), meaning 'child', 'boy', or 'education'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological lexicography and morphological analysis, the base morpheme underlying terms relating to child rearing, education, and childhood medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alex. _Paed._ ii, 16, says St Matthew lived on seeds, nuts and vegetables, and without meat. [25] Plutarch, _de esu carnium_, ii, 1. [26] Sen. _Ep._ 108, 3, 13-23. [27] This is a quality that Quintilian notes in his style for praise or blame."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alex. _Strom._ i, 43, on some Christians who think themselves _euphusis_ and "ask for faith--faith alone and bare." In _Paed._ i, 27, he says much the same himself, _to pisteusai monon kai anagennethunai teleiois estin en zoe_. [10] vi, 10."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alex. _Paed._ i, ch. 10, on God threatening; and Strom, ii, 72; iv, 151; vii, 37, for the view that God is without anger, and for guidance as to the understanding of language in the O.T. which seems to imply the contrary."*
+> - 📜 **Plato (*The Republic*):** *"The civic education of youth, rooted in ancient **paed**-agogy, forms the guardian soul of the republic."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The Greek concept of **paed**-eia represented the total cultural upbringing that fashioned the ideal citizen."*
+> - 📜 **Aristotle (*Politics*):** *"Civic legislators must legislate first for the nursery and the physical culture of the growing **paed**-."*

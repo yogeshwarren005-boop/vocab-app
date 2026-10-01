@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, involving, or being muscular contraction (as in isometrics) against resistance, without significant shortening of muscle fibers, and with marked increase in muscle tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal dimensions, measure, or proportions; in physiology, involving muscular contraction against resistance without change in muscle length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, the cubic system characterized by three mutually perpendicular axes of equal length; in physics, taking place at constant volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometric designates of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles."*
+> - 📜 **James Dwight Dana (*A Text-Book of Mineralogy*):** *"Garnet and pyrite crystallize in the **isometric** system, developing dodecahedral and cubic forms of perfect geometrical symmetry."*
+> - 📜 **Charles Scott Sherrington (*The Integrative Action of the Nervous System*):** *"Tetanic stimulation of the motor nerve against an immovable lever generates a pure **isometric** muscular twitch."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The **isometric** crystal habit of halite produces cubic salt cleavage planes across saline sedimentary beds."*

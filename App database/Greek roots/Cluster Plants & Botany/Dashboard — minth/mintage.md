@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coins collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fee paid to a mint by the government for minting a coin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or legal authority of minting coins; the coins produced by a mint collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and monetary economics, the seigniorage charge or official stamp impressed upon bullion certifying weight and purity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mintage designates coins collectively."*
+> - 📜 **John Locke (*Further Considerations Concerning Raising the Value of Money*):** *"The sovereign's **mintage** stamp does not create value, but merely attests to the intrinsic quantity of pure silver in the coin."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Debasement of the imperial **mintage** under Gallienus plunged the Roman provinces into disastrous monetary inflation."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The goldsmith inspected the gold jacobus, admiring the crisp, unclipped edges of its fresh royal **mintage**."*

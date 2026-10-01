@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to orthopedics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to orthopedics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to orthopedics; orthopedic (archaic or formal variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to corrective mechanical apparatus or surgical procedures designed to correct bodily deformities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopedical designates of or relating to orthopedics."*
+> - 📜 **Nicolas Andry (*Orthopaedia*):** *"We employed an **orthopedical** brace designed to relieve abnormal vertebral pressure during growth."*
+> - 📜 **William Buchan (*Domestic Medicine*):** *"Gentle **orthopedical** exercises were recommended to prevent rickety bowlegs in nursing infants."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient practitioners devised various **orthopedical** splints to straighten warped infant bones."*

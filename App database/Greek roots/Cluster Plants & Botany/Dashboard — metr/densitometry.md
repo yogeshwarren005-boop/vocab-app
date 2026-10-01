@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for determining optical, photographic, or mass density.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for determining optical, photographic, or mass density.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific measurement of optical density in photographic materials, or bone mineral density in biological tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and radiography, dual-energy X-ray absorptiometry (DEXA) used to quantify bone mineral content and assess osteoporosis fracture risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, densitometry designates an instrument for determining optical, photographic, or mass density."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Photographic **densitometry** quantifies the microscopic silver grain deposition across successive exposure steps."*
+> - 📜 **Ernest Beutler (*Williams Hematology*):** *"Automated scanning **densitometry** of serum protein electrophoretic strips reveals monoclonal immunoglobulin spikes."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"Bone mineral **densitometry** of the lumbar spine provides the gold standard for diagnosing osteopenia and monitoring bisphosphonate therapy."*

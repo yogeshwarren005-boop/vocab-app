@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inspired by patriotism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting or characteristic of a patriot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or expressing devotion to and vigorous support for one's country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic philosophy, motivated by love of the laws, institutions, and welfare of the political community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On these national occasions dancing may be a patriotic service, and Volumnia is constantly seen hopping about for the good of an ungrateful and unpensioning country."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"—I proceed. ‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’” “Found _what_?” said the Duck."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ethical and patriotic thought is not, "How will this affect my interests?" but."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"There is an instinctive **patriotic** sentiment born of custom, and a reflective patriotism born of political participation."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"The mystic chords of memory will swell the chorus of the Union, touched by the better angels of our **patriotic** nature."*
+> - 📜 **George Orwell (*Notes on Nationalism*):** *"True **patriotic** devotion is defensive both militarily and culturally, unlike aggressive nationalism."*

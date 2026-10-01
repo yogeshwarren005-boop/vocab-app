@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to exist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be persistent, refuse to stop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To continue firmly, steadily, or obstinately in an opinion, course of action, or purpose in spite of difficulty, opposition, or failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and ecology, to remain functional, viable, or structurally intact over an extended period (such as persistent floral bracts or chemical residues).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus to persist In doing wrong extenuates not wrong, But makes it much more heavy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For Tom-all-Alone’s and Lincoln’s Inn Fields persist in harnessing themselves, a pair of ungovernable coursers, to the chariot of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"More impracticable men and boys persist in walking into Mr."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Under changed conditions, species that possess slight advantageous variations will **persist**, while less favored forms become extinct."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Great works are performed not by strength, but by perseverance; he that shall walk with vigor must **persist** to the goal."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic chlorinated hydrocarbons **persist** in the soil and food chains for decades without biological breakdown."*

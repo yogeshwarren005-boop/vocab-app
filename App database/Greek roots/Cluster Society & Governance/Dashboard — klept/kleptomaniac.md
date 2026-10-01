@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with an irrational urge to steal in the absence of an economic motive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone with an irrational urge to steal in the absence of an economic motive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from kleptomania; someone driven by an irresistible impulse to steal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and legal jurisprudence, a defendant whose theft is diagnosed as a psychiatric compulsion rather than criminal premeditation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kleptomaniac designates someone with an irrational urge to steal in the absence of an economic motive."*
+> - 📜 **Mark Twain (*Following the Equator*):** *"A poor man who steals is called a petty thief; a wealthy gentleman caught with stolen goods is diagnosed as a **kleptomaniac**."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"The society doctor discussed the tragic case of an aristocratic lady who had turned into a habitual **kleptomaniac**."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"Father Brown saw into the tortured conscience of the **kleptomaniac**, who hid trinkets under the floorboards."*

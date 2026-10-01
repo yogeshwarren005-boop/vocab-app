@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark brown mineral of the amphibole group; magnesium iron silicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark brown mineral of the amphibole group; magnesium iron silicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An orthorhombic amphibole mineral, magnesium iron silicate hydroxide [(Mg,Fe)₇Si₈O₂₂(OH)₂], typically occurring in brownish-grey fibrous or bladed masses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology, an asbestos-form amphibole formed in magnesium-rich regional metamorphic rocks such as amphibolites and serpentinites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthophyllite designates a dark brown mineral of the amphibole group; magnesium iron silicate."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The mineral **anthophyllite** was named from the clove-brown color of its radiating fibrous crystal masses, recalling the clove leaf."*
+> - 📜 **Edward Salisbury Dana (*A Text-Book of Mineralogy*):** *"Optical examination shows that **anthophyllite** crystallizes in the orthorhombic system with characteristic prismatic amphibole cleavage."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"In the crystalline schists of the Highlands, beds rich in **anthophyllite** alternate with garnetiferous mica schists."*

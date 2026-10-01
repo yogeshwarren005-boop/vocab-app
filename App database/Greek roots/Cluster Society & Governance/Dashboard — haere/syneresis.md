@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: synizesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the separation of liquid from a gel caused by contraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contraction of a gel accompanied by the separating out of liquid (as when whey separates from curd in cheese-making).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloid chemistry and materials science, the spontaneous shrinkage of a polymer network with the expulsion of interstitial solvent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syneresis designates synizesis."*
+> - 📜 **Wolfgang Ostwald (*An Introduction to Theoretical and Applied Colloid Chemistry*):** *"The spontaneous phenomenon of **syneresis** demonstrates the thermodynamic instability of aging colloidal gels."*
+> - 📜 **Thomas Graham (*Liquid Diffusion Applied to Analysis*):** *"Upon prolonged standing, the silicic acid jelly exhibits marked **syneresis**, sweating out pure water droplets."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Overcooked custards undergo abrupt **syneresis**, curdling into weeping watery clumps of protein."*

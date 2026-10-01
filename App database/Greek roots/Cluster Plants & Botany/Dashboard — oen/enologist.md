@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in wine making.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in wine making.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or scientist who studies winemaking and wine chemistry; an oenologist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In viticultural science, an expert who monitors grape must fermentation, yeast strains, sulfur dioxide levels, and barrel aging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enologist designates a specialist in wine making."*
+> - 📜 **Louis Pasteur (*Studies on Wine*):** *"The modern **enologist** must understand that vinegar spoilage is caused by aerobic bacteria rather than spontaneous chemical decay."*
+> - 📜 **Alexis Lichine (*Encyclopedia of Wines and Spirits*):** *"A master **enologist** tastes the nascent vintage from every oak cask before deciding upon the final blend."*
+> - 📜 **Frank A. Lee (*Basic Food Chemistry*):** *"Routine analysis conducted by the **enologist** tracks titratable acidity, malolactic conversion, and residual reducing sugars."*

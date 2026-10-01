@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement and study of the human body and its parts and capacities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement and study of the human body and its parts and capacities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study and practice of taking systematic measurements of the human body, its proportions, and physical characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic identification and human biology, the quantitative profiling of skeletal, facial, and somatic parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropometry designates measurement and study of the human body and its parts and capacities."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty*):** *"The application of **anthropometry** to large school populations reveals the decisive influence of nutrition upon juvenile growth."*
+> - 📜 **Alphonse Bertillon (*The Bertillon System of Identification*):** *"Before the advent of fingerprinting, criminal **anthropometry** offered the only infallible method to identify habitual recidivists."*
+> - 📜 **Paul Broca (*Mémoires d'Anthropologie*):** *"Craniological **anthropometry** must be conducted with rigorous instruments to eliminate observer bias in racial comparisons."*

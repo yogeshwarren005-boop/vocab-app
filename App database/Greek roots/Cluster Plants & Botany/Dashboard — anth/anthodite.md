@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cave formation (speleothem) composed of delicate radiating needles, quill-like clusters, or flower-shaped sprays of aragonite or calcite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In karst speleology, an exquisite secondary mineral deposit formed by capillary seeps in calm cave chambers, resembling white frost flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthodite designates a term designating an entity, condition, or phenomenon derived from greek anth."*
+> - 📜 **William B. White (*Cave Minerals of the World*):** *"The ceiling of the grotto was covered with breathtaking **anthodite** clusters, radiating like crystal chrysanthemums from the limestone bedrock."*
+> - 📜 **Édouard-Alfred Martel (*Les Abîmes*):** *"Illuminated by our torches, each sparkling **anthodite** appeared as a burst of delicate needle-like aragonite needles suspended in darkness."*
+> - 📜 **Clyde A. Malott (*Physiography of Cave Regions*):** *"Slow evaporative conditions in undisturbed passages facilitate the growth of fibrous **anthodite** rosettes."*

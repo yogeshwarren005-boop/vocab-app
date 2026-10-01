@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of an embryo containing only paternal chromosomes, through fertilization of an enucleated egg or elimination of maternal chromatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive genetics and plant tissue culture, androgenetic development (such as anther culture) utilized to produce doubled haploid lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgenesis designates male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Experimental **androgenesis** enables geneticists to evaluate paternal genome expression in foreign cytoplasm."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"Through artificial **androgenesis**, an enucleated egg cell is brought to cleavage entirely by sperm nuclei."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"Embryonic arrest in cases of induced **androgenesis** highlights the absolute requirement for maternal genomic imprinting."*

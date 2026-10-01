@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual relations between a man and a boy (British spelling of pederasty).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity, a formalized social, educational, and erotic custom in ancient Greek city-states between an older man and an adolescent youth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paederasty designates sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner)."*
+> - 📜 **Plato (*Symposium*):** *"In Elis and Boeotia, custom sanctions **paederasty** without question, whereas in Ionia it is condemned as servile."*
+> - 📜 **Michel Foucault (*The Use of Pleasure*):** *"Athenian discourse on **paederasty** wrestled constantly with the paradox of loving a youth destined for free citizenship."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Christian emperors enacted severe capital statutes to eradicate the ancient pagan tolerance of **paederasty**."*

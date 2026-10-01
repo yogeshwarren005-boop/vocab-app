@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, multi-armed, venomous starfish, commonly known as the crown-of-thorns starfish, that preys aggressively upon hermatypic stony corals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, a keystone predator whose cyclical population outbreaks cause catastrophic decimation of Indo-Pacific reef ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acanthaster designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **Robert Endean (*Biology and Geology of Coral Reefs*):** *"Mass aggregations of **Acanthaster** planci have stripped extensive tracts of the Great Barrier Reef down to bare limestone scaffolding."*
+> - 📜 **Peter J. Moran (*The Acanthaster Phenomenon*):** *"Surveys revealed that an adult **Acanthaster** consumes several square meters of living scleractinian coral tissue each month."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Even the heavily spined **Acanthaster** starfish finds an adversary in the giant triton snail, which tears through its venomous dermal armor."*

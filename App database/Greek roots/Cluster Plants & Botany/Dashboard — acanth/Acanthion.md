@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the anterior extremity of the intermaxillary suture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the anterior extremity of the intermaxillary suture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoological subgenus or genus of Old World porcupines (family Hystricidae) distinguished by their dense quills and cranial morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian systematics, an Asiatic porcupine taxon characterized by short crest spines and specific osteological features of the nasal cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acanthion designates the craniometric point at the anterior extremity of the intermaxillary suture."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The Asiatic porcupines referred to **Acanthion** inhabit subterranean burrows, emerging at twilight to forage for tubers and roots."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals*):** *"Cranial measurements place **Acanthion** close to typical Hystrix, though marked by distinct proportions in the zygomatic arch."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Our native guides caught a specimen of **Acanthion**, whose formidable quills rattles softly as it maneuvers through bamboo thickets."*

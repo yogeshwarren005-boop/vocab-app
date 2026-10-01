@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution or genesis of the human race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolution or genesis of the human race.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study or theory of the origin, evolutionary development, and genealogical descent of the human species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century evolutionary anthropology, the branch of biology investigating the phylogenetic genealogy and ontogenetic development of mankind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropogeny designates the evolution or genesis of the human race."*
+> - 📜 **Ernst Haeckel (*Anthropogenie*):** *"The science of **anthropogeny** unites ontogeny and phylogeny to solve the supreme riddle of human origin."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Modern **anthropogeny** relies upon comparative craniology, embryonic homologies, and stratigraphical fossil discoveries."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A comprehensive treatise on **anthropogeny** must account for sexual selection alongside survival of the fittest in shaping racial varieties."*

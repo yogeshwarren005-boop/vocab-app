@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hybr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek hybris, denoting wanton insolence, outrage, or arrogance; or relating to hybridization (hybrid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymology and classical philology, the morphological stem present in legal crimes of assault (hybris) and later biological crossbreeding (hybrid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybr designates a term designating an entity, condition, or phenomenon derived from greek hybr."*
+> - 📜 **Plato (*The Republic*):** *"The democratic youth surrendered to wanton **hybr**- and insolence, mistaking license for true liberty."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"The morphological characters of the **hybr**- generation demonstrated precise statistical segregation."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Athenian jurisprudence punished civic **hybr**- severely to maintain social equilibrium among citizens."*

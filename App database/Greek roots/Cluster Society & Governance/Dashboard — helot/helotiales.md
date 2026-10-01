@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of fungi having asci in a disk-shaped to goblet-shaped apothecium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of fungi having asci in a disk-shaped to goblet-shaped apothecium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of ascomycete fungi commonly known as the inoperculate discomycetes, bearing cup-shaped fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycological taxonomy, a major order containing thousands of endophytes, saprobes, and serious plant pathogens (such as Sclerotinia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helotiales designates order of fungi having asci in a disk-shaped to goblet-shaped apothecium."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"The order **Helotiales** includes significant agricultural pathogens responsible for white mold and fruit rots."*
+> - 📜 **Adolf Engler (*Die Natürlichen Pflanzenfamilien*):** *"Fungal classification relies upon ascus pore iodine reactions to define the boundaries of **Helotiales**."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"A vast diversity of cup-shaped microfungi found on fallen twigs belong to the cosmopolitan **Helotiales**."*

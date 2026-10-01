@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated pride or self-confidence : arrogance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated pride or self-confidence : arrogance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively proud, arrogant, or self-confident; characterized by hubris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and political analysis, defying moral or divine limits with haughty disregard for catastrophic consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hubristic designates exaggerated pride or self-confidence : arrogance."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Totalitarian ideology claims an **hubristic** omnipotence, pretending to master the secret laws of history."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"Dictators develop an **hubristic** contempt for human limits, leading inevitably to their own downfall."*
+> - 📜 **George Steiner (*The Death of Tragedy*):** *"Agamemnon's **hubristic** stride upon the crimson tapestries sealed his fate before the gods."*

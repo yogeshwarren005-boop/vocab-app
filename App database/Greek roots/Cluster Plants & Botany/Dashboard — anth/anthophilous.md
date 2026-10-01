@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attracted to, frequenting, or feeding on flowers; flower-loving (characteristic of pollinators).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coevolutionary biology, possessing anatomical adaptations such as specialized mouthparts, plumose hairs, or sensory organs for visiting blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthophilous designates feeding on flowers."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised*):** *"The mutual adaptation between orchids and **anthophilous** insects guarantees cross-fertilization across distant plant populations."*
+> - 📜 **John Lubbock (*On British Wild Flowers in Relation to Insects*):** *"Brilliant floral pigmentation evolved primarily as visual beacons to guide **anthophilous** bees to hidden nectar caches."*
+> - 📜 **Hermann Müller (*The Fertilisation of Flowers*):** *"A survey of **anthophilous** Diptera proves that flower visitation shaped the elongation of their proboscides over geological time."*

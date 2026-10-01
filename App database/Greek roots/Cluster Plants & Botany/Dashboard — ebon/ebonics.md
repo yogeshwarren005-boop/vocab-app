@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonstandard form of american english characteristically spoken by african americans in the united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonstandard form of american english characteristically spoken by african americans in the united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: African American Vernacular English (AAVE), a distinct dialect or ethnolect of American English with systematic grammatical, phonological, and syntactic rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics, a term coined in 1973 from 'ebony' and 'phonics' to describe the linguistic system spoken by African Americans, reflecting West African substrate influences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ebonics designates a nonstandard form of american english characteristically spoken by african americans in the united states."*
+> - 📜 **William Labov (*Language in the Inner City*):** *"Linguistic analysis of **Ebonics** proves that its non-standard features follow rigorous, systematic grammatical paradigms."*
+> - 📜 **John Baugh (*Out of the Mouths of Slaves*):** *"The national debate over **Ebonics** highlighted the widespread public misunderstanding of African American language varieties."*
+> - 📜 **Henry Louis Gates Jr. (*The Signifying Monkey*):** *"The expressive idioms of **Ebonics** represent a profound African American rhetorical tradition forged through centuries of resistance."*

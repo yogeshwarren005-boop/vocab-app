@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek carp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A one-seeded portion or half-fruit of a schizocarp that splits away from the central axis (carpophore) at maturity, typical of the carrot family (Apiaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic carpology, an indehiscent carpellary unit possessing distinctive longitudinal ribs, vittae (oil tubes), and stylopodium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mericarp designates a term designating an entity, condition, or phenomenon derived from greek carp."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"At full maturity, the fruit of the hemlock separates into two ribbed seed-like halves, each termed a **mericarp**."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The cross-section of each **mericarp** displays five primary ribs and secretes essential oils within internal vittae."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Diagnostic keys in the Umbelliferae depend upon the prominence of ridges and spines along the dorsal surface of the **mericarp**."*

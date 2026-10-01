@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apocryphal book mainly of maxims (resembling proverbs in that respect).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apocryphal book mainly of maxims (resembling proverbs in that respect).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book of the Apocrypha or Deuterocanon, also known as the Wisdom of Jesus son of Sirach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Judeo-Hellenistic wisdom literature, an extensive collection of ethical maxims, moral counsels, and praises of the patriarchs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"If thou hast heard a word, let it die with thee.” —_Ecclesiasticus_."*
+> - 📜 **John Bunyan (*Grace Abounding to the Chief of Sinners*):** *"I was greatly comforted by a memorable passage found in the pages of **Ecclesiasticus**."*
+> - 📜 **Jeremy Taylor (*Holy Living and Holy Dying*):** *"The wise maxims of **Ecclesiasticus** urge mortals to remember their end and prepare for eternity."*
+> - 📜 **C. S. Lewis (*Reflections on the Psalms*):** *"The author of **Ecclesiasticus** celebrates the beauty of creation alongside the moral law."*

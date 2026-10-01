@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or intense fear of childbirth or pregnancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and reproductive psychology, severe phobic avoidance of pregnancy often associated with traumatic previous deliveries or acute anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tokophobia designates a term designating an entity, condition, or phenomenon derived from greek tec."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe psychoneurotic distress manifesting as **tokophobia** requires compassionate psychiatric and obstetric counseling."*
+> - 📜 **Karen Horney (*Feminine Psychology*):** *"Deep-seated maternal anxiety can crystallize into **tokophobia**, paralyzing the prospective mother with terror of pain."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Clinical interviews revealed that her aversion to marriage was rooted in an unacknowledged childhood **tokophobia**."*

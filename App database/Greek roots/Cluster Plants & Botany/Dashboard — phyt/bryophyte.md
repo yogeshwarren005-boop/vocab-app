@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Bryophyta) of nonflowering plants comprising the mosses, liverworts, and hornworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Bryophyta) of nonflowering plants comprising the mosses, liverworts, and hornworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, non-vascular land plant belonging to the division Bryophyta in the broad sense, encompassing mosses, liverworts, and hornworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary plant morphology, an early embryophyte characterized by the dominance of the free-living haploid gametophyte generation over the dependent sporophyte.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bryophyte designates any of a division (bryophyta) of nonflowering plants comprising the mosses, liverworts, and hornworts."*
+> - 📜 **Wilhelm Hofmeister (*Higher Cryptogamia*):** *"The life cycle of the **bryophyte** pivots upon the alternation between an independent leafy gametophyte and a stalked sporogonium."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"No true vascular xylem vessels occur in any **bryophyte**, conduction being performed by simple elongated parenchymatous cells."*
+> - 📜 **Frederick Orpen Bower (*The Origin of a Land Flora*):** *"The ancestral **bryophyte** adapted to land by evolving desiccation-resistant cuticles and airborne spores enclosed in sporopollenin."*

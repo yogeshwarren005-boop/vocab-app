@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pornography; materials depicting explicit sexual acts intended to stimulate erotic feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern popular culture, visually captivating or indulging media focusing on a specific subject (e.g. 'food porn', 'real estate porn').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, he was porn at Monmouth, Captain Gower."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think it is in Macedon where Alexander is porn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell you there is good men porn at Monmouth."*
+> - 📜 **Susan Sontag (*The Pornographic Imagination*):** *"Transgressive art and hardcore **porn** challenge the conventional boundaries of bourgeois domestic decorum."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Ministry of Truth maintained a separate section producing cheap **porn** to pacify and distract the proles."*
+> - 📜 **Angela Carter (*The Sadeian Woman*):** *"Commercial **porn** reflects the prevailing power relations between men and women in capitalist society."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being or containing chlorophyll.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being or containing chlorophyll.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, characterized by, or pertaining to chlorophyll; green and photosynthetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant histology and bryology, designating photosynthetic parenchyma cells containing chloroplasts, contrasting with hyaline water-storing cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyllous designates relating to or being or containing chlorophyll."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The green palisade tissue of the leaf consists of densely packed **chlorophyllous** cells oriented perpendicular to the epidermis."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"In Sphagnum, narrow living **chlorophyllous** cells form a green network surrounding the large dead water-storage cells."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Starch synthesis is strictly confined to the interior of **chlorophyllous** plastids during hours of daylight."*

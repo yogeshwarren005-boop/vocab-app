@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian elapid snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australian elapid snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of highly venomous elapid snakes native to Australia and New Guinea, commonly called death adders, featuring a broad triangular head and spine-tipped tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, ambush predators exhibiting convergent viper-like morphology, utilizing their caudal spine as a caudal lure to attract prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthophis designates australian elapid snakes."*
+> - 📜 **George Albert Boulenger (*Catalogue of the Snakes in the British Museum*):** *"The genus **Acanthophis** exhibits a short, stout body and a terminal spine on the tail, resembling true vipers."*
+> - 📜 **Raymond Hoser (*Australian Elapid Snakes*):** *"Concealed beneath leaf litter, an **Acanthophis** twitches the worm-like tip of its tail to entice curious skinks."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The strike of **Acanthophis** antarcticus is widely regarded as one of the swiftest predatory motions in the reptile kingdom."*

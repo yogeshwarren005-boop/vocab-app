@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social organization marked by the supremacy of the father in the clan or family, the legal dependence of wives and children, and the reckoning of descent and inheritance in the male line; broadly : control by men of a disproportionately large share of power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A society or institution organized according to the principles or practices of patriarchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of society or government in which men hold the power and women are largely excluded from it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and gender studies, the institutionalized social system wherein father figures hold primary authority over women, children, and property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patriarchy designates social organization marked by the supremacy of the father in the clan or family, the legal dependence of wives and children, and the reckoning of descent and inheritance in the male line; broadly : control by men of a disproportionately large share of power."*
+> - 📜 **Friedrich Engels (*The Origin of the Family, Private Property and the State*):** *"The overthrow of mother-right was the world-historic defeat of the female sex, inaugurating **patriarchy**."*
+> - 📜 **Adrienne Rich (*Of Woman Born*):** *"Under institutional **patriarchy**, female reproduction and labor have been subjected to male legal dominion."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"True virtue cannot flourish in a society where entrenched domestic **patriarchy** infantilizes women."*

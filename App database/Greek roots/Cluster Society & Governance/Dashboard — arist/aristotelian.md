@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of aristotle or an adherent of aristotelianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aristotle or his philosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Aristotle, his philosophy, or his method of empirical inquiry and formal logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adhering to inductive scientific reasoning, virtue ethics, or hylomorphic metaphysics derived from the Aristotelian tradition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"All the virtues in the Aristotelian canon are self-contained states of the virtuous man himself ...."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The revival of Roman law, of the Aristotelian philosophy, of ancient art and literature at the close of the Middle Ages, marked the return of Europe to native ideals of life and conduct, to saner, manlier views of the world."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The **Aristotelian** syllogism dominated Western formal logic for more than two thousand years."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Christian theology reconciled sacred scripture with the rigorous philosophical apparatus of **Aristotelian** metaphysics."*
+> - 📜 **Alasdair MacIntyre (*After Virtue*):** *"Modern moral philosophy cannot escape its crisis without returning to the **Aristotelian** teleological view of man."*

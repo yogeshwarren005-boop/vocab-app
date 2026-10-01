@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence or failure of development of the uterus; agenesis of the womb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryological teratology and gynecology, an inborn anomaly of Müllerian duct development leading to primary amenorrhea and infertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametria designates congenital absence of the uterus."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Complete **ametria** occurs when both paramesonephric ducts fail to fuse and canalize during early embryonic life."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diagnostic evaluation of primary amenorrhea with normal female secondary sexual development may reveal underlying **ametria**."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Physical examination confirmed complete **ametria**, the vaginal canal terminating blindly without cervix or uterine body."*

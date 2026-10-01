@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: False phloem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: False phloem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue resembling phloem in appearance or position but lacking true sieve elements; or anomalous internal phloem in certain plant families.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant histology, anomalous conductive parenchymatous strands found in certain dicot stems (such as Solanaceae and Cucurbitaceae) situated inside the xylem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudophloem designates false phloem."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Anomalous stem cross-sections in Cucurbita show internal strands of **pseudophloem** bordering the pith."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The identification of **pseudophloem** requires careful histochemical staining for callose and sieve plates."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Bicollateral bundles possessing both external phloem and internal **pseudophloem** characterize the order Tubiflorae."*

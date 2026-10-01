@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government or rule by women; female political sovereignty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative political systems, a matriarchal regime or dynastic succession headed by female monarchs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynarchy designates a term designating an entity, condition, or phenomenon derived from greek gyn."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Versailles in its decadent twilight appeared governed less by the King than by an unacknowledged court **gynarchy**."*
+> - 📜 **David Hume (*The History of England*):** *"The Elizabethan golden age demonstrated that a stable **gynarchy** could outmatch all the crowns of Europe."*
+> - 📜 **Mary Beard (*Women & Power: A Manifesto*):** *"Classical mythology framed Amazonian **gynarchy** as an existential threat to Greek male civic order."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pseph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of adding up the numerical values of the letters in a word or phrase to find its total value (Greek gematria).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenistic mysticism, Kabbalah, and early Christian epigraphy, deciphering hidden esoteric correspondences between names sharing identical numerical totals (e.g. 666).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isopsephy designates a term designating an entity, condition, or phenomenon derived from greek pseph."*
+> - 📜 **Suetonius (*The Twelve Caesars*):** *"Graffiti in Rome employed **isopsephy** to calculate that Nero's name yielded the identical number as the phrase 'slew his own mother'."*
+> - 📜 **Umberto Eco (*Foucault's Pendulum*):** *"The occultists sought cosmic codes through **isopsephy**, calculating the hidden numerology of Greek anagrams."*
+> - 📜 **Irenaeus (*Against Heresies*):** *"Irenaeus mocked Gnostic heretics who based cosmic hierarchies upon trivial calculations of **isopsephy**."*

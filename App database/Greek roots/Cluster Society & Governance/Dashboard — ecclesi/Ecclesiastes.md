@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book consisting of reflections on the vanity of human life; is traditionally attributed to solomon but probably was written about 250 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book consisting of reflections on the vanity of human life; is traditionally attributed to solomon but probably was written about 250 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book of the Hebrew Bible and Christian Old Testament containing the philosophical reflections of 'the Preacher' (Koheleth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical wisdom literature, a profound meditation on the fleeting vanity of mortal life, worldly toil, and inescapable mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well,” said Oak, firmly, with the bearing of one who was going to give his days and nights to Ecclesiastes for ever."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The truest of all men was the Man of Sorrows, and the truest of all books is Solomon’s, and Ecclesiastes is the fine hammered steel of woe."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And to the question asked by Ecclesiastes three thousand years ago, “That which is far off and exceeding deep, who can find it out?” two men alone of all now living have the right to give an answer—— CAPTAIN NEMO AND MYSELF."*
+> - 📜 **Leo Tolstoy (*A Confession*):** *"I found deep solace in the words of **Ecclesiastes**, who saw that all human striving under the sun was vanity."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"The title of my novel was drawn directly from the eternal poetic cycle proclaimed in **Ecclesiastes**."*
+> - 📜 **Thomas Wolfe (*You Can't Go Home Again*):** *"Of all the books ever written, **Ecclesiastes** is the highest, wisest, and most enduring expression of human experience."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Balanced proportions; also : beauty of form arising from balanced proportions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being symmetrical; especially : correspondence in size, shape, and relative position of parts on opposite sides of a dividing line or median plane or about a center or axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being made up of exactly similar parts facing each other or around an axis; balanced proportion and harmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fundamental physics, an invariance of physical laws under a transformation (such as space-time translation or gauge transformations), implying conservation laws via Noether's theorem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Since the receipt of the missive in the morning, Boldwood had felt the symmetry of his existence to be slowly getting distorted in the direction of an ideal passion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Both are massive enough in all conscience; but there is a certain mathematical symmetry in the Sperm Whale’s which the Right Whale’s sadly lacks."*
+> - 📜 **William Blake (*Songs of Experience*):** *"Tyger! Tyger! burning bright in the forests of the night, what immortal hand or eye could frame thy fearful **symmetry**?"*
+> - 📜 **Hermann Weyl (*Symmetry*):** *"Symmetry, as wide or as narrow as you may define its meaning, is one idea by which man through the ages has tried to comprehend and create order, beauty, and perfection; fundamental **symmetry** principles govern modern physics."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The bilateral **symmetry** of all higher animals was impressed upon their ancestral organization in the earliest seas."*

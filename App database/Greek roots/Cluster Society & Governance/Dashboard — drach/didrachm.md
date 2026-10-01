@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek drach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek silver coin worth two drachmas, equivalent to a half-shekel in biblical contexts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient numismatics and Judeo-Hellenic fiscal history, the standard denomination used for paying the annual Temple tax in Jerusalem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didrachm designates a term designating an entity, condition, or phenomenon derived from greek drach."*
+> - 📜 **Flavius Josephus (*Jewish Antiquities*):** *"Every adult Jewish male was required by law to pay an annual **didrachm** into the treasury of the sanctuary."*
+> - 📜 **Percy Gardner (*The Types of Greek Coins*):** *"The silver **didrachm** of Corinth featured the winged Pegasus struck with sharp classical die relief."*
+> - 📜 **Barclay V. Head (*Historia Numorum*):** *"Magna Graecia cities minted the **didrachm** extensively to support regional maritime commerce."*

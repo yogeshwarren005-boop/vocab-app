@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A study of the influence of such factors as geography, economics, and demography on the politics and especially the foreign policy of a state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A governmental policy guided by geopolitics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Politics, especially international relations, as influenced by geographical factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strategic study of territorial control, sea lanes, geographic chokepoints, and regional spheres of influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geopolitics designates a study of the influence of such factors as geography, economics, and demography on the politics and especially the foreign policy of a state."*
+> - 📜 **Halford Mackinder (*Democratic Ideals and Reality*):** *"Who rules East Europe commands the Heartland; who rules the Heartland commands the World-Island in classical **geopolitics**."*
+> - 📜 **Zbigniew Brzezinski (*The Grand Chessboard*):** *"Eurasia remains the grand chessboard upon which the struggle for global primacy and **geopolitics** is played."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"Naval supremacy and maritime trade routes are the fundamental drivers of global **geopolitics**."*

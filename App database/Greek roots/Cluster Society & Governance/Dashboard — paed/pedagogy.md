@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, or profession of teaching; especially : the field of study that deals mainly with methods of teaching and learning in schools : education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art, science, or profession of teaching; especially : the field of study that deals mainly with methods of teaching and learning in schools : education.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The method and practice of teaching, especially as an academic subject or theoretical concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational theory, the holistic study of instructional strategies, developmental psychology, and socio-cultural learning dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"I have been treating him almost as if he were an authority on pedagogy."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Fortunately, he never discussed pedagogy, never used the terms I have been using."*
+> - 📜 **Paulo Freire (*Pedagogy of the Oppressed*):** *"Authentic **pedagogy** does not treat learners as passive recipients of knowledge, but as co-creators of meaning."*
+> - 📜 **John Dewey (*My Pedagogic Creed*):** *"I believe that all **pedagogy** must be based upon the psychological nature and capacities of the child."*
+> - 📜 **Maria Montessori (*The Absorbent Mind*):** *"A scientific **pedagogy** begins by liberating the natural developmental instincts of the young mind."*

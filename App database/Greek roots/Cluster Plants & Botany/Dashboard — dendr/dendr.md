@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree : resembling a tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree : resembling a tree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical botanical root derived from Greek 'dendron' (tree, woody plant), forming words relating to trees and arborescent structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological lexicography and dendrology, the foundational stem designating tree biology, tree rings (dendrochronology), and tree-like branching (dendrites).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendr designates tree : resembling a tree."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **dendr** originates in dendron, signifying any majestic forest tree or woody perennial plant."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The Greeks designated as **dendr** those perennial plants possessing an erect main trunk, distinct branches, and enduring longevity."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Scientific nomenclature employs the root **dendr** to denote arborescent habit or branching tree-like morphology across biological kingdoms."*

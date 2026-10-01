@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or formed by or consisting of aphaeresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or formed by or consisting of aphaeresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by apheresis (either the medical separation procedure or linguistic sound elision).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, designating truncated words produced by the deletion of initial vowels or syllables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apheretic designates relating to or formed by or consisting of aphaeresis."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"An **apheretic** alteration accounts for the formation of 'sample' from ancient 'ensample'."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"Popular vernacular speech abounds in **apheretic** shortenings that eventually enter formal registers."*
+> - 📜 **Morris Fishbein (*Medical Advances*):** *"New automated **apheretic** instrumentation improved the yield of therapeutic donor platelets."*

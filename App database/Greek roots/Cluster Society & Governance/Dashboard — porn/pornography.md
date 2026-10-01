@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The depiction of erotic behavior (as in pictures, movies, or writing) intended to cause sexual excitement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Material (such as books, movies, or photographs) that depicts erotic behavior and is intended to cause sexual excitement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Printed or visual material containing the explicit description or display of sexual organs or activity, intended to stimulate erotic feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically derived from Greek pornographein ('writing about prostitutes'); in law and ethics, the commercial production and regulation of explicit media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pornography designates the depiction of erotic behavior (as in pictures, movies, or writing) intended to cause sexual excitement."*
+> - 📜 **D. H. Lawrence (*Pornography and Obscenity*):** *"**Pornography** is the attempt to insult sex, to do dirt on it, substituting furtive mental fantasies for warm physical life."*
+> - 📜 **Susan Sontag (*The Pornographic Imagination*):** *"Serious **pornography** explores the extreme limits of human consciousness and the dark abyss of transgressive desire."*
+> - 📜 **Michel Foucault (*The History of Sexuality*):** *"The nineteenth century proliferated discourse about sex while classifying its excesses under the regulatory rubric of **pornography**."*

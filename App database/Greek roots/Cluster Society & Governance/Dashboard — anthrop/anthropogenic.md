@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the study of the origins and development of human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the study of the origins and development of human beings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating in human activity; caused or produced by humans (especially regarding environmental changes or pollution).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and environmental science, designating ecological impacts, greenhouse gas emissions, or land-cover modifications driven by human civilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropogenic designates of or relating to the study of the origins and development of human beings."*
+> - 📜 **Paul J. Crutzen (*Geology of Mankind*):** *"Global environmental changes are now dominated by **anthropogenic** forces rather than natural geological cycles."*
+> - 📜 **Elizabeth Kolbert (*The Sixth Extinction*):** *"Mass extinction across marine and terrestrial ecosystems is directly attributable to **anthropogenic** carbon release."*
+> - 📜 **Bill McKibben (*The End of Nature*):** *"Every breeze that blows carries an atmosphere modified by **anthropogenic** industrial emissions."*

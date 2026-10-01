@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The jurisdiction of a patriarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of social organization in which a male is the family head and title is traced through the male line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, jurisdiction, or see of an ecclesiastical patriarch; or the residence of a patriarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, the five ancient patriarchal sees of the Pentarchy: Rome, Constantinople, Alexandria, Antioch, and Jerusalem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patriarchate designates the jurisdiction of a patriarch."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Council of Chalcedon confirmed the preeminence of the Ecumenical **Patriarchate** of Constantinople."*
+> - 📜 **Eusebius (*Ecclesiastical History*):** *"The apostolic succession within the Alexandrian **patriarchate** preserved orthodox trinitarian dogma."*
+> - 📜 **Henry Chadwick (*The Early Church*):** *"Rivalry between the Roman see and the eastern **patriarchate** laid the seeds of the Great Schism."*

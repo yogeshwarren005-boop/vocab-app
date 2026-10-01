@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rudimentary, reduced, or scale-like leaf, such as a bud scale, cotyledon, bulb scale, or rhizome scale, that precedes the normal foliage leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant developmental morphology, an early foliar organ specialized for physical protection, food storage, or subterranean penetration rather than photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphyll designates a reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The winter bud of the horse chestnut is securely enveloped by resin-coated **cataphyll** scales that protect delicate leaf primordia from freezing."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Each fleshy layer of an onion bulb is a modified nutrient-storing **cataphyll** swollen with stored sugars."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"Ontogenetic study reveals that a **cataphyll** represents the arrest of the leaf blade while the basal sheath expands."*

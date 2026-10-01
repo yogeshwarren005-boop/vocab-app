@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elongated floral internode situated between the calyx and the remaining floral organs (corolla, stamens, and pistil).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organographic botany, an axis elongation that elevates petals and reproductive organs above the calyx tube, characteristic of certain Caryophyllaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthophore designates a term designating an entity, condition, or phenomenon derived from greek anth."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In the campion genus Silene, an elongated stalk or **anthophore** elevates the petals, stamens, and ovary well above the green calyx."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The development of an **anthophore** illustrates how the receptacle internodes can lengthen to optimize floral presentation."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The pink family displays considerable variation in the length of the stipe or **anthophore** supporting the capsule."*

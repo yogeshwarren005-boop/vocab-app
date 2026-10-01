@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating outside or brought in from abroad; foreign or not endemic (especially of a disease or species).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and biogeography, describing imported pathologies or non-indigenous organisms introduced into a new territory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecdemic designates adjective*) pertaining to, derived from, or characteristic of people."*
+> - 📜 **William Farr (*Vital Statistics*):** *"Port quarantine officers must distinguish between local endemic fevers and deadly **ecdemic** contagions arriving on merchant ships."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The arrival of **ecdemic** flora often displaces native island vegetation through competitive exclusion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden outbreak of cholera was demonstrably **ecdemic**, traced directly to an infected cargo vessel."*

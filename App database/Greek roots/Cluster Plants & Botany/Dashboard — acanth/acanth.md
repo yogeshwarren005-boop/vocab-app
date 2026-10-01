@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and botanical root derived from Greek 'akantha' (thorn, spine, prickle), denoting thorny, spiny, or prickly structures in biological organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic nomenclature and anatomical terminology, an element designating sharp, spine-like skeletal, epidermal, or foliar projections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanth designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The wild acacia bears sharp thorns along its branches, known to the Greeks as **acanth** formations protecting the tender foliage from browsing goats."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The maritime flora displays defensive spines and **acanth** ridges developed to withstand arid winds and grazing herbivores."*
+> - 📜 **Aristotle (*History of Animals*):** *"In fishes possessing spiny rays, the **acanth** armature serves both as a defensive mechanism and an aid in hydrodynamic steering."*

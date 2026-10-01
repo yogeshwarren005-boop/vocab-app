@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to all the greeks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to all the greeks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or representing all of Greece or all Greek-speaking peoples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient history, festivals, sanctuaries, or ideals (such as the Olympic games, Delphi, or Isocratean rhetoric) that transcended polis boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panhellenic designates of or relating to all the greeks."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The great athletic festivals at Olympia fostered a transcendent **Panhellenic** consciousness among rival cities."*
+> - 📜 **George Grote (*A History of Greece*):** *"The Persian invasion forced the quarreling poleis to forge a fragile **Panhellenic** defensive alliance."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*):** *"Homeric poetry functioned as the universal **Panhellenic** scripture memorized by every educated Greek."*

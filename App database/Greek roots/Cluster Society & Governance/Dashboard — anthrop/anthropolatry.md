@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of human beings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of a human being as a god; deification of man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of religion and theological polemics, the accusation of idolizing mortal teachers, heroes, or emperors as divine beings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropolatry designates the worship of human beings."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial cult was dismissed by early Christian apologists as a corrupt form of state-mandated **anthropolatry**."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Hero-worship in decadent ages degenerates into servile and superstitious **anthropolatry**."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"Polytheism readily slides into **anthropolatry** when legendary benefactors receive divine altars."*

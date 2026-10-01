@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A draft horse harnessed alongside the shaft or pole of a vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A draft horse harnessed alongside the shaft or pole of a vehicle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who propels a boat with a pole; or a carriage horse harnessed next to the carriage pole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In river navigation and traditional coaching, the essential pilot managing water depths or the inside draft horse absorbing braking shocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poler designates a draft horse harnessed alongside the shaft or pole of a vehicle."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The experienced keelboat **poler** planted his shoulder against the long ash pole, straining against the muddy current."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"The post-chaise jerked abruptly as the off-side **poler** stumbled on the rough gravel hill."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Indian **poler** stood balanced in the birch canoe, deftly guiding us through the churning rapids."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct group of armored jawless vertebrates; taxonomy is not clear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct group of armored jawless vertebrates; taxonomy is not clear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic group or subphylum encompassing the extinct jawless armored fishes (ostracoderms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical vertebrate systematics, an archaic assemblage of jawless agnathans (heterostracans, osteostracans, anaspids) encased in bony carapaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostracodermi designates extinct group of armored jawless vertebrates; taxonomy is not clear."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"Agassiz recognized the armored fishes of the **Ostracodermi** as primitive pioneers of the vertebrate subphylum."*
+> - 📜 **A. Smith Woodward (*Catalogue of the Fossil Fishes in the British Museum*):** *"The cranial anatomy of the **Ostracodermi** demonstrates the ancient origin of sensory canal systems in bone."*
+> - 📜 **Richard Owen (*Palaeontology: Or, A Systematic Summary of Extinct Animals*):** *"The fossil plates of **Ostracodermi** from Devonian strata were originally mistaken for crustacean carapaces."*

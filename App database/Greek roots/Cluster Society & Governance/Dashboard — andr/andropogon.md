@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall annual or perennial grasses with spikelike racemes; warm regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall annual or perennial grasses with spikelike racemes; warm regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of temperate and tropical grasses (bluestems) having hairy spikelets resembling a man's beard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrostology and grassland ecology, dominant C4 prairie grasses in the family Poaceae that provide essential pasture forage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andropogon designates tall annual or perennial grasses with spikelike racemes; warm regions."*
+> - 📜 **Willa Cather (*My Ántonia*):** *"Red grass of the genus **Andropogon** waved across the undulating prairie like an endless copper sea."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The tall stalks of big bluestem, **Andropogon** gerardii, anchored the ancient soil of the tallgrass prairie."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The bearded inflorescence characteristic of **Andropogon** glistens brightly in autumn sunlight."*

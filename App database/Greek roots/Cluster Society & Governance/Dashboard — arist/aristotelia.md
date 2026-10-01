@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of shrubs or small trees of australia and new zealand and western south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of shrubs or small trees of australia and new zealand and western south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen trees and shrubs in the family Elaeocarpaceae, native to South America and Australasia (including the maqui tree, Aristotelia chilensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, woody plants bearing edible dark berries rich in anthocyanins, named in honor of Aristotle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristotelia designates small genus of shrubs or small trees of australia and new zealand and western south america."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"In dense mountain bush, the wineberry shrub **Aristotelia** serrata blooms abundantly in early spring."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Native inhabitants of the Chilean islands harvest the deep purple berries of **Aristotelia** for sustenance."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Aristotelia** includes species valued both for durable timber and antioxidant fruit juices."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek metr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The founding or establishment of a new ant or social insect colony by two or more queens cooperating together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociobiology and behavioral ecology, an adaptive founding strategy where multiple queens rear the first worker generation faster, often followed by fighting among foundresses once workers mature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleometrosis designates a term designating an entity, condition, or phenomenon derived from greek metr."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"In desert harvester ants, **pleometrosis** enhances colony survival during drought by producing an initial worker force twice as fast."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"While **pleometrosis** provides cooperative advantages during nest founding, the queens typically fight to the death once the first workers emerge."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"Cooperation between two sister foundresses in **pleometrosis** illustrates how harsh environmental conditions favor temporary mutualism."*

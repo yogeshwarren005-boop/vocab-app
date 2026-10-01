@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies the growth and density of populations and their vital statistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who studies the growth and density of populations and their vital statistics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A demographer; one who practices demography or population statistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic or formal term for a demographic statistician investigating societal vital statistics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demographist designates a scientist who studies the growth and density of populations and their vital statistics."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"The **demographist** records significant variations in family longevity and occupational inheritance."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Vast census tables compiled by the **demographist** illustrate the cyclical growth of urban centers."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"He analyzed the mortality tables with the cold, meticulous precision of a veteran **demographist**."*

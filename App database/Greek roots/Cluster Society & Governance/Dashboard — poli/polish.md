@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being smooth and shiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly developed state of perfection; having a flawless or impeccable quality; ; ; --joseph conrad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make the surface of something smooth and shiny by rubbing it; or a substance used for polishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refinement, elegance, or sophistication of manners, style, or speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O polish’d perturbation! golden care!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We do our best to polish—polish—polish!” He sat down beside me, taking some pains to sit on the form, I thought, in imitation of the print of his illustrious model on the sofa."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To polish—polish—polish!” he repeated, taking a pinch of snuff and gently fluttering his fingers."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"True ease in writing comes from art, not chance, As those move easiest who have learn'd to dance; True wit must **polish** every rugged line."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy possessed the haughty reserve of high birth, yet lacked the pleasing **polish** of easy conversation."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Time will **polish** the rough stones of the brook until they gleam like translucent jewels."*

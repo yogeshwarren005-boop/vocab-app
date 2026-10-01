@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mambas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mambas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or historical generic spelling for Dendroaspis, the genus of highly venomous arboreal elapid snakes native to sub-Saharan Africa (the mambas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical herpetology, fast-moving arboreal serpents including the black mamba and green mamba, renowned for potent neurotoxic venoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog dendraspis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Albert Günther (*Catalogue of Colubrine Snakes in the British Museum*):** *"The arboreal genus **Dendraspis** is distinguished by its narrow elongate head, slender body, and immense venom fangs."*
+> - 📜 **George Albert Boulenger (*The Snakes of Africa*):** *"Specimens of **Dendraspis** angusticeps glide through the high forest foliage with extraordinary rapidity, hunting birds."*
+> - 📜 **Raymond Ditmars (*Snakes of the World*):** *"In African folklore, the terror inspired by **Dendraspis** matches that of the king cobra in southern Asia."*

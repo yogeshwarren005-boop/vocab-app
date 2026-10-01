@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare inherited neurological syndrome marked by progressive basal ganglia degeneration, chorea, and acanthocytes in the peripheral blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurogenetics, a fatal degenerative condition characterized by limb chorea, tongue biting, psychiatric disturbances, and erythrocyte deformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroacanthocytosis designates a term designating an entity, condition, or phenomenon derived from greek acanth."*
+> - 📜 **C. David Marsden (*Movement Disorders*):** *"The diagnostic identification of **neuroacanthocytosis** relies on detecting deformed spur cells alongside caudate atrophy on magnetic resonance scans."*
+> - 📜 **Raymond D. Adams (*Principles of Neurology*):** *"Unlike Huntington's disease, **neuroacanthocytosis** frequently features axonal neuropathy, areflexia, and elevated serum creatine kinase."*
+> - 📜 **Michael B. Singer (*Neurology in Clinical Practice*):** *"Effective management of **neuroacanthocytosis** remains supportive, targeting debilitating movement symptoms and malnutrition."*

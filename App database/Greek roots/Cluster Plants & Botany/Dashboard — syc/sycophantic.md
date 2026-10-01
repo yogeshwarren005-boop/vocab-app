@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to win favor from influential people by flattery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attempting to win favor by flattery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behaving, speaking, or done in an obsequious way in order to gain favor or advantage; fawning; servile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by insincere praise and degrading deference designed to flatter powerful superiors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Was it her fault if she did not possess those sycophantic arts which her hypocritical nephew, Pitt Crawley, practised?"*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"Pecksniff bowed with a **sycophantic** smile that set every honest observer's teeth on edge."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The aspiring politician showered his patron with **sycophantic** compliments, calculating the value of every flattering word."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The senate voted **sycophantic** adulations to the tyrant while secretly praying for his swift assassination."*

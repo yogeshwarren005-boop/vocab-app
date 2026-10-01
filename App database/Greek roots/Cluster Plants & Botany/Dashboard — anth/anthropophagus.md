@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who eats human flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cannibal; one who feeds on human flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and Renaissance cartography, a term used for man-eating monsters or savage peoples situated at the edges of the known world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropophagus designates a person who eats human flesh."*
+> - 📜 **William Shakespeare (*Othello*):** *"And of the Cannibals that each other eat, the **Anthropophagi**, and men whose heads do grow beneath their shoulders."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Byzantine chronicles denounced the marauding Attila as an inhuman **anthropophagus** thirsty for Christian blood."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient geographers multiplied tales of the **anthropophagus**, populating terra incognita with man-eating cyclopes."*

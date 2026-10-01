@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek staphyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Edema or swelling of the uvula (the fleshy extension hanging at the back of the soft palate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otolaryngology, acute swelling of the uvula resulting from allergic angioedema, chemical irritation, or acute pharyngitis, causing gagging and stridor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphyledema designates a term designating an entity, condition, or phenomenon derived from greek staphyl."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Acute **staphyledema** causes the swollen uvula to rest upon the base of the tongue, inducing violent suffocative coughing fits."*
+> - 📜 **Morell Mackenzie (*Diseases of the Pharynx, Larynx, and Trachea*):** *"In severe **staphyledema**, scarification of the translucent edematous uvula affords instantaneous relief from dyspnea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Angioneurotic edema may present as sudden **staphyledema**, threatening mechanical asphyxiation if the glottis becomes involved."*

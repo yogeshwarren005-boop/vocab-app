@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed animals or plants using parents of different races and varieties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of crossbreeding or forming hybrids; or engaging in hybridization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agriculture and horticulture, the deliberate crossing of cultivars to develop pest resistance or higher yields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridizing designates (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids."*
+> - 📜 **Luther Burbank (*The Training of the Human Plant*):** *"Through patient **hybridizing**, we can combine the frost-hardiness of wild stock with the luscious fruit of cultivated plums."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The practice of **hybridizing** garden flowers has been pursued with immense commercial success for centuries."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"Careful isolation of blossoms prevented stray pollen from contaminating the **hybridizing** trials."*

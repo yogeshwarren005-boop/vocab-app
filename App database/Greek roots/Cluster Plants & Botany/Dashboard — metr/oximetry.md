@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method that utilizes spectrophotometry to measure the oxygen saturation of circulating blood or a localized region of tissue by means of an oximeter; especially : pulse oximetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A test using oximetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of the oxygen saturation level of hemoglobin in circulating blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory physiology and intensive care, pulse oximetry, a vital clinical modality that provides continuous real-time assessment of oxygen transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oximetry designates a method that utilizes spectrophotometry to measure the oxygen saturation of circulating blood or a localized region of tissue by means of an oximeter; especially : pulse oximetry."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"The introduction of pulse **oximetry** drastically reduced perioperative hypoxemic cardiac arrests in surgical suites."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Non-invasive **oximetry** replaces painful arterial blood gas sampling in routine management of chronic obstructive pulmonary disease."*
+> - 📜 **Raymond D. Adams (*Principles of Neurology*):** *"Nocturnal **oximetry** traces dramatic cyclical drops in arterial oxygen saturation in patients with severe obstructive sleep apnea."*

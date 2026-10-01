@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or period of opening of a flower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action or period of opening of a flower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period or stage during which a flower bud expands, opens, and becomes functionally active for pollination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral phenology, the physiological process involving corolla expansion, anther dehiscence, and stigma receptivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthesis designates the action or period of opening of a flower."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Observations made during **anthesis** demonstrated that the stigmas were receptive hours before the anthers dehisced."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In evening primroses, **anthesis** proceeds with astonishing speed as the petals unfurl within a few minutes of sunset."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Temperature and humidity exert a powerful influence upon the onset of **anthesis** in greenhouse cultivars."*

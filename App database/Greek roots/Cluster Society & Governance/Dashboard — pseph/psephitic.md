@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of pebble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of pebble.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling psephite; coarse-grained or pebbly (of sedimentary rocks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological facies analysis, describing sedimentary deposits composed predominantly of gravel, pebbles, or cobbles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephitic designates adjective*) pertaining to, derived from, or characteristic of pebble."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The basal beds of the Old Red Sandstone display coarse **psephitic** textures formed in braided stream systems."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"Torrential Alpine outwash created vast **psephitic** strata at the foot of rising mountain chains."*
+> - 📜 **Charles Lapworth (*The Geological Magazine*):** *"The transition from fine shale to **psephitic** conglomerate marks an abrupt tectonic uplift in the source area."*

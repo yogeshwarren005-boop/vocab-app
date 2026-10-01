@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhetin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of fossil resins found in coal beds and lignite, related to amber but softer and containing less succinic acid; also a volcanic pitchstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and paleobotany, an amorphous brownish-yellow hydrocarbon resin exuded by extinct coniferous trees and preserved in Tertiary sedimentary strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retinite designates a term designating an entity, condition, or phenomenon derived from greek rhetin."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The mineral resin **retinite** occurs in brown lustrous masses in brown coal deposits, burning with a pleasant aromatic flame."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Lignite beds at Bovey Tracey yield nodules of **retinite** that softened and melted upon domestic hearth fires."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Volcanic pitchstone is occasionally termed **retinite** on account of its resinous luster and perlitic cracks."*

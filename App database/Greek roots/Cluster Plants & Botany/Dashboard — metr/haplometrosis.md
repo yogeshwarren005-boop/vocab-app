@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek metr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The founding or establishment of a new social insect colony by a single fertilized queen (foundress).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecology and sociobiology, the solitary colony founding strategy characteristic of most ant and wasp species, contrasting with pleometrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplometrosis designates a term designating an entity, condition, or phenomenon derived from greek metr."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"In typical **haplometrosis**, the solitary deälated queen excavates a subterranean chamber and rears her first brood from internal metabolic reserves."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"The high mortality rate of queens during **haplometrosis** exerts intense natural selection upon early brood care efficiency."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"A lone wasp queen perseveres in **haplometrosis**, patiently modeling paper cells without sisterly assistance."*

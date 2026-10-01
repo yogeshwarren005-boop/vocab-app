@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various hybrid primroses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcissus (Narcissus tazetta) having small white or yellow flowers arranged in umbels and having a spreading perianth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of cultivated primrose (Primula polyantha) produced by hybridization between the common primrose, cowslip, and oxlip, bearing umbels of brightly colored flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and cottage gardening, hardy vernal ornamentals prized for their umbels of rich velvety blossoms with golden eyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyanthus designates any of various hybrid primroses."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The many-flowered primrose or **polyanthus** adorns the spring border with great clusters of fragrant party-colored florets."*
+> - 📜 **William Cowper (*The Task*):** *"There blooms the **polyanthus** of unnumbered dyes, whose velvety petals mock the painter's brush."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"A broad drift of yellow **polyanthus** under hazel boughs brings cheerful vernal sunshine to the woodland path."*

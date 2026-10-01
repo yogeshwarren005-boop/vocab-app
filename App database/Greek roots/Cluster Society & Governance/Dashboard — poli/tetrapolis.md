@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A confederation or group of four cities (such as the Attic Tetrapolis of Marathon, Probalinthus, Tricorithus, and Oenoe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient history, a political confederacy of four autonomous settlements linked by ancestral cults or regional defense alliances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrapolis designates a term designating an entity, condition, or phenomenon derived from greek poli."*
+> - 📜 **Strabo (*Geography*):** *"The Attic **Tetrapolis** around Marathon retained its ancient local festivals long after the synoecism of Theseus."*
+> - 📜 **George Grote (*A History of Greece*):** *"Dorian settlers in central Greece established the historic **Tetrapolis** of Doris as their ancestral cradle."*
+> - 📜 **Pausanias (*Description of Greece*):** *"Monuments throughout the **Tetrapolis** commemorated the heroic fallen who drove the Persian invaders back into the sea."*

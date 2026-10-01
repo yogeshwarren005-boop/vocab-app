@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tecn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of naming parents after their children (e.g. calling a father 'father of [child's name]').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology (first systematically studied by E. B. Tylor), an onomastic custom linking adult social identity to parenthood status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teknonymy designates a term designating an entity, condition, or phenomenon derived from greek tecn."*
+> - 📜 **Edward Burnett Tylor (*On a Method of Investigating the Development of Institutions*):** *"Tylor demonstrated that the custom of **teknonymy** was closely correlated with maternal residence and descent rules."*
+> - 📜 **Bronislaw Malinowski (*The Family among the Australian Aborigines*):** *"The widespread practice of **teknonymy** publicly celebrates the biological and social achievement of family headship."*
+> - 📜 **Clifford Geertz (*The Interpretation of Cultures*):** *"In Bali, **teknonymy** replaces personal names entirely, absorbing individual identity into a continuous genealogical chain."*

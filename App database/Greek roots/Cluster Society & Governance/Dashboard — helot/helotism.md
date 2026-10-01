@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek helot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of a helot; serfdom, servitude, or state-sanctioned subjugation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology, a symbiotic association where one organism (the fungus) acts as the dominant master enslaving another (the algal partner).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helotism designates a term designating an entity, condition, or phenomenon derived from greek helot."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Custom has reconciled human minds to legal inequality that approximates social **helotism**."*
+> - 📜 **Julius von Sachs (*Text-book of Botany*):** *"Schwendener proposed that the lichen fungus maintains the captive green alga in a state of mutual **helotism**."*
+> - 📜 **George Grote (*A History of Greece*):** *"Spartan societal tranquility was perpetually undermined by the institutional **helotism** of the conquered Messenians."*

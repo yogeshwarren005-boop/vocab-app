@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new convert : proselyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new convert : proselyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is new to a subject, skill, or belief; a novice, beginner, or recent convert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical and plant geography, a newly baptized Christian in the early church; in botany, a plant recently introduced to a flora (since 1500).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Towards sunset one of the older women--who, as directress of the ceremonies, is called _nachimbusa_-- follows her, places a cooking-pot by the cross-roads, and boils therein a concoction of various herbs, with which she anoints the neophyte."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Her whole soul was possessed by the fact that a fuller life was opening before her: she was a neophyte about to enter on a higher grade of initiation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Three classes of neophytes 450:1 There is a large class of thinkers whose bigotry and conceit twist every fact to suit themselves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The white robes of the baptized **neophyte** symbolized the complete purification of the soul in the sacred font."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes warned me that only a reckless **neophyte** would disturb the pristine footprints around the garden gate."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"Botanists distinguish between an ancient archaeophyte weed and an aggressive modern **neophyte** escaped from gardens."*

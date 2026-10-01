@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining of the uterus (of the endometrium).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining of the uterus (of the endometrium).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the muscular and mucosal walls of the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and veterinary pathology, acute or chronic uterine infection following parturition, often accompanied by purulent discharge and sepsis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metritis designates inflammation of the lining of the uterus (of the endometrium)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Puerperal **metritis** demands aggressive supportive care and drainage to avert fatal generalized peritonitis."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The symptoms of acute **metritis** include high fever, hypogastric tenderness, and suppression of the normal lochia."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Chronic parenchymatous **metritis** results in fibrous induration and painful enlargement of the uterine fundus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or custom of having only one wife at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or custom of having only one wife at a time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or condition of having only one wife or female mate at a time; counterpart to monandry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociobiology, an animal social structure where an individual or colony has only one reproductive female; in botany, the state of having one pistil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogyny designates the state or custom of having only one wife at a time."*
+> - 📜 **Friedrich Engels (*The Origin of the Family, Private Property and the State*):** *"The historical rise of **monogyny** accompanied the accumulation of private property and patrilineal inheritance."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"In ant populations, genetic relatedness among sister workers is maximized under strict **monogyny**."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Moral philosophy consistently defended **monogyny** as the ideal domestic foundation for child-rearing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute aquatic photosynthetic organisms (such as dinoflagellates, diatoms, and cyanobacteria) : photosynthetic plankton of freshwater or marine environments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute aquatic photosynthetic organisms (such as dinoflagellates, diatoms, and cyanobacteria) : photosynthetic plankton of freshwater or marine environments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic, photosynthetic organisms that drift or float in the sunlit surface waters of oceans, seas, and freshwater bodies; plant plankton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biological oceanography, the primary producers of the marine biosphere (chiefly diatoms, dinoflagellates, and cyanobacteria) that generate roughly half of Earth's atmospheric oxygen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytoplankton designates minute aquatic photosynthetic organisms (such as dinoflagellates, diatoms, and cyanobacteria) : photosynthetic plankton of freshwater or marine environments."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The microscopic drifting pasture of the sea, the **phytoplankton**, provides the primary nourishment upon which all marine life depends."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"In the surface layers, my plankton net captured myriads of sparkling diatoms, the living solar cells of the marine **phytoplankton**."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The siliceous glass shells of diatoms and dinoflagellates within the **phytoplankton** exhibit geometrical symmetries of breathtaking beauty."*

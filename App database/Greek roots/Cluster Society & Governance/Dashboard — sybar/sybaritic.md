@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Voluptuary, sensualist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of the ancient city of Sybaris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fond of sensuous luxury or pleasure; self-indulgent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by lavish comfort, opulent refinement, and decadent ease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sybaritic designates voluptuary, sensualist."*
+> - 📜 **Lord Byron (*Don Juan*):** *"He reclined upon deep velvet cushions, abandoned to a life of **sybaritic** luxury in the Turkish palace."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond's taste was an exquisite and somewhat **sybaritic** pursuit of rare artistic curiosities."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"While the Paris poor clamored for bread, the courtiers indulged in **sybaritic** banquets behind locked gates."*

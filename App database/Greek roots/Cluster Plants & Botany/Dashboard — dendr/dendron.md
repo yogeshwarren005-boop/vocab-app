@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dendr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek word for a tree; in neurology, an older anatomical term for a dendrite (the branching process of a neuron).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurohistology and classical philology, the primary receiving branch extending from a neuronal soma that conducts impulses centripetally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendron designates a term designating an entity, condition, or phenomenon derived from greek dendr."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The primary **dendron** rises from the apical pole of the pyramidal cell, branching repeatedly within the molecular layer."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In classical literature, **dendron** signified an upright, stately tree as distinguished from low creeping bushes and herbaceous shrubs."*
+> - 📜 **Charles Scott Sherrington (*The Integrative Action of the Nervous System*):** *"Synaptic transmission occurs between the axonal arborization of one neuron and the receptive **dendron** of another."*

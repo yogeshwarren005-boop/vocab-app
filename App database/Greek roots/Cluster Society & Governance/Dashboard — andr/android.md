@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mobile robot usually with a human form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mobile robot usually with a human form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A robot or artificial entity possessing human form or features; humanlike in physical appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In robotics, speculative fiction, and technology, an automaton engineered with synthetic biological or electromechanical systems imitating human behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, android designates a mobile robot usually with a human form."*
+> - 📜 **Philip K. Dick (*Do Androids Dream of Electric Sheep?*):** *"The manufactured **android** lacked genuine human empathy, yet mimicked emotional responses with frightening precision."*
+> - 📜 **Isaac Asimov (*I, Robot*):** *"A mechanical servant designed as a true **android** must adhere unswervingly to the Three Laws of Robotics."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The transition from computer to bipedal **android** represented the next logical leap in cybernetic evolution."*

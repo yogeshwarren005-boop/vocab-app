@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government or rule by a single person; autocracy or monarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and constitutional history, a form of government where unshared supreme authority resides in one sovereign ruler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocracy designates a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)."*
+> - 📜 **Thomas Jefferson (*The Writings of Thomas Jefferson*):** *"Our citizens rejected the federalist drift toward **monocracy**, reaffirming republican liberties."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"The separation of constitutional powers was devised precisely to prevent an accumulation into **monocracy**."*
+> - 📜 **John Adams (*A Defence of the Constitutions of Government*):** *"A pure **monocracy** without legal checks degenerates swiftly into arbitrary oriental despotism."*

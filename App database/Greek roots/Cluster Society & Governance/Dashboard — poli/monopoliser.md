@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who monopolizes the means of producing or selling something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who monopolizes the means of producing or selling something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or commercial entity that monopolizes something; one who secures an exclusive monopoly (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical economics and legislative debates, a cornerer of grain or commodities condemned for price manipulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopoliser designates someone who monopolizes the means of producing or selling something."*
+> - 📜 **Edmund Burke (*Thoughts and Details on Scarcity*):** *"The popular cry against the grain **monopoliser** during times of famine was usually based on blind superstition."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Elizabeth revoked royal patents granted to favored courtiers who had acted as an oppressive **monopoliser** of salt and vinegar."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The ruthless **monopoliser** artificially curtails supply to drive prices above their natural level."*

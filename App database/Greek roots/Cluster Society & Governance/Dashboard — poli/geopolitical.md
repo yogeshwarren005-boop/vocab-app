@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to geopolitics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to geopolitics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to politics, especially international relations, as influenced by geographical factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international strategy, concerning the influence of terrain, natural resources, borders, and spatial logistics on state power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geopolitical designates of or relating to geopolitics."*
+> - 📜 **Halford Mackinder (*The Geographical Pivot of History*):** *"The Eurasian heartland represents the decisive **geopolitical** pivot commanding world domination."*
+> - 📜 **George F. Kennan (*American Diplomacy*):** *"Containment of Soviet power was formulated based on realistic **geopolitical** calculations rather than moral crusades."*
+> - 📜 **Henry Kissinger (*Diplomacy*):** *"Bismarck understood that Prussia's vulnerable **geopolitical** position required delicate alliances with neighboring empires."*

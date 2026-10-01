@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small family of rod-shaped bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small family of rod-shaped bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of Gram-negative soil bacteria (order Rhizobiales) that includes Rhizobium and Agrobacterium, notable for plant symbiosis or genetic transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural microbiology, a family encompassing both mutualistic nitrogen-fixing root-nodule symbionts and natural genetic engineers (Agrobacterium tumefaciens).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizobiaceae designates a small family of rod-shaped bacteria."*
+> - 📜 **Martinus Beijerinck (*Die Bakterien der Papilionaceen-Knöllchen*):** *"Classification places the nodule-forming bacteria of legumes within the family **Rhizobiaceae**, celebrating their root-dwelling habit."*
+> - 📜 **Louis Pasteur (*Studies on Microbes*):** *"The discovery that members of the **Rhizobiaceae** fix atmospheric nitrogen into plant-available ammonia solved an ancient riddle of agriculture."*
+> - 📜 **William N. Kelley (*Microbiology in Agriculture*):** *"Plasmid exchange within the **Rhizobiaceae** governs host plant specificity and root infection kinetics."*

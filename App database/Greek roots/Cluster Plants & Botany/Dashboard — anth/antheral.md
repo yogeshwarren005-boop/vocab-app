@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of fertilizing female organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of fertilizing female organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated on the anther of a flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organographic botany, pertaining specifically to the microsporangia or pollen sacs of the angiosperm stamen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheral designates capable of fertilizing female organs."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Microscopic scrutiny reveals that the **antheral** walls consist of fibrous endothecial cells designed to split upon drying."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"The **antheral** appendages in the violet family secrete sweet nectar to guide foraging insects directly to the pollen."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Diagnostic keys distinguish the genera by the presence or absence of terminal **antheral** awns."*

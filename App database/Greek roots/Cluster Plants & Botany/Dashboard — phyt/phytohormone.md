@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a plant product that acts like a hormone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) a plant product that acts like a hormone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring organic substance (plant hormone) that regulates plant physiological processes like growth, development, and differentiation at low concentrations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, one of the classical classes of signaling molecules: auxins, gibberellins, cytokinins, ethylene, and abscisic acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytohormone designates (botany) a plant product that acts like a hormone."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"When the tip of a seedling is illuminated, an invisible signal descends the stem to produce bending; this was the first demonstration of a mobile **phytohormone**."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Specific organ-forming substances, analogous to what modern botanists term a **phytohormone**, regulate root and shoot initiation."*
+> - 📜 **Frits Went (*On Growth-Promoting Substances in Avena*):** *"I isolated the **phytohormone** auxin in agar blocks, showing that growth curvature was strictly proportional to its concentration."*

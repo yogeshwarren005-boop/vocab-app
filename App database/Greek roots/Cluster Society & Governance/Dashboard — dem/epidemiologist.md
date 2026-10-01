@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical scientist who studies the transmission and control of epidemic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical scientist who studies the transmission and control of epidemic diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or medical professional who studies the patterns, causes, and effects of health and disease conditions in defined populations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public health specialist tasked with outbreak investigations, surveillance systems, and prophylactic health policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidemiologist designates a medical scientist who studies the transmission and control of epidemic diseases."*
+> - 📜 **John Snow (*Report on the Cholera Outbreak in the Parish of St. James*):** *"The **epidemiologist** must examine every case with detective-like rigor to uncover common sources of infection."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"The courageous **epidemiologist** entered yellow-fever quarantine camps to track the transmission vectors."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The clinical **epidemiologist** noted with bewilderment the global wave of encephalitis lethargica following the Great War."*

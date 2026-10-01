@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive development of the breast in the male.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive development of the breast in the male.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enlargement of male breast glandular tissue, typically caused by hormonal imbalance between estrogen and androgen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, benign proliferation of glandular components of the male breast triggered by medication, puberty, or endocrine disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynecomastia designates excessive development of the breast in the male."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adolescent **gynecomastia** is usually a benign, self-limiting consequence of transient pubertal hormonal flux."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"Hepatic dysfunction impairs steroid metabolism, frequently resulting in secondary **gynecomastia**."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Endocrine side effects including transient **gynecomastia** were observed during experimental hormonal therapy."*

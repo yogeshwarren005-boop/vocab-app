@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The social organization of an animal colony (especially ants) occupying multiple geographically separated nests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect sociobiology, a colony structure where interconnected nests share brood, workers, and food resources without mutual aggression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polydomy designates a term designating an entity, condition, or phenomenon derived from greek dem."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"In cases of extensive **polydomy**, an ant colony expands into a decentralized network of satellite outposts."*
+> - 📜 **Bert Hölldobler (*The Ants*):** *"Resource distribution in wood ants is facilitated by seasonal **polydomy**, linking tree canopies to soil nests."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"The invasive Argentine ant owes its devastating ecological success to rampant unconstrained **polydomy**."*

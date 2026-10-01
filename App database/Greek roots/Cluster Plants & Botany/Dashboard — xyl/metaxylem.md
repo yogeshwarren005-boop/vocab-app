@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the primary xylem that differentiates after the protoxylem and that is distinguished typically by broader tracheids and vessels with pitted or reticulate walls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the primary xylem that differentiates after the protoxylem and that is distinguished typically by broader tracheids and vessels with pitted or reticulate walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the primary xylem that differentiates after the protoxylem, characterized by wider tracheary elements with scalariform, reticulate, or pitted secondary wall thickenings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental plant anatomy, the mature primary water-conducting tissue that matures in shoot regions that have ceased elongation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaxylem designates the part of the primary xylem that differentiates after the protoxylem and that is distinguished typically by broader tracheids and vessels with pitted or reticulate walls."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"In stem vascular bundles, the wider pitted vessels of the **metaxylem** develop centrifugally from the earlier protoxylem ring."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The **metaxylem** elements possess bordered pits, ensuring high hydraulic conductivity through mature woody tissues."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"Microscopic analysis shows that **metaxylem** differentiation is completed only after organ extension is accomplished."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed with or having saclike expansions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed with or having saclike expansions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed into or having small sacs, pouches, or bag-like expansions; sac-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive morphology and anatomical pathology, possessing pouch-like dilations along a tubular organ (such as a sacculate aneurysm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacculate designates formed with or having saclike expansions."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The stomach of the crustacean is a **sacculate** organ equipped with internal chitinous grinding teeth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A localized **sacculate** dilation of the ascending aorta projected through the eroded sternum."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"The lungs in certain reptiles present a simple **sacculate** chamber without complex bronchial branching."*

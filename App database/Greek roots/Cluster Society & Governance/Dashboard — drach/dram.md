@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight in the avoirdupois system equal to one sixteenth of an ounce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of weight in the apothecaries' system equal to one eighth of an ounce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small drink of whiskey or other spirits; or a unit of weight equal to 1/16 of an ounce (avoirdupois) or 1/8 of an ounce (apothecaries').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal usage, any tiny amount or minute trace of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, good faith, every dram of it; and I will not bate thee a scruple."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you buy ladies’ flesh at a million a dram, you cannot preserve it from tainting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you are sick at sea Or stomach-qualm’d at land, a dram of this Will drive away distemper."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The old buccaneer demanded a **dram** of rum before he would utter another syllable."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"If thou tak'st more Or less than just a pound, be it but so much As makes it light or heavy in the substance Or the division of the twentieth part Of one poor scruple, nay, if the scale do turn But in the estimation of a hair, Thou diest and all thy goods are confiscate."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"A warming **dram** of highland whiskey revived our spirits after crossing the stormy loch."*

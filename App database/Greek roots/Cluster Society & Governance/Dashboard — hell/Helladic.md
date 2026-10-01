@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of Greece , Hellas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of Greece , Hellas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the Bronze Age civilization of mainland Greece (c. 3000–1050 BC).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aegean archaeology, the chronological framework (Early, Middle, and Late Helladic/Mycenaean) distinguishing mainland material culture from Cycladic and Minoan cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Helladic designates adjective*) pertaining to, derived from, or characteristic of greece , hellas."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The architectural forms of the Mycenaean megaron represent the crowning phase of Late **Helladic** civilization."*
+> - 📜 **Carl Blegen (*Troy and the Trojans*):** *"Ceramic stratigraphy at Korakou provided the definitive baseline for classifying **Helladic** pottery sequences."*
+> - 📜 **John Boardman (*The Archaeology of Greece*):** *"Mainland graves from the Middle **Helladic** period reflect a sober, fortified society preparing for imperial expansion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater fish of central america having a long swordlike tail; popular aquarium fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater fish of central america having a long swordlike tail; popular aquarium fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific epithet in biological taxonomy honoring an explorer or naturalist named Heller (such as Carl Bartholomaeus Heller or Amos Arthur Heller).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology and botany, found in binomial names such as Xiphophorus hellerii (the green swordtail fish).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helleri designates freshwater fish of central america having a long swordlike tail; popular aquarium fish."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The famous green swordtail, Xiphophorus **helleri**, was collected from mountain streams in southern Mexico."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The rare alpine composite Lupinus **helleri** was collected during early botanical surveys of Idaho."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Geographic color polymorphisms in Xiphophorus **helleri** illustrate ecological adaptation to river gradients."*

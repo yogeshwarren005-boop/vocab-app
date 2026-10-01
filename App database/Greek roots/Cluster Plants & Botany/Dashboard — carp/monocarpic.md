@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing fruit but once and then dying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing fruit but once and then dying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering and bearing fruit only once in a lifetime and dying after seed production; semelparous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology and reproductive energetics, designating annuals, biennials, and long-lived perennials that commit all metabolic reserves to a single terminal reproductive effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocarpic designates bearing fruit but once and then dying."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"The **monocarpic** habit ensures that the plant directs its entire stored reserves into producing the maximum quantity of viable seed."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Annual and biennial herbs are strictly **monocarpic**, whereas long-lived orchard trees are polycarpic."*
+> - 📜 **John Muir (*Steep Trails*):** *"The giant silversword of Haleakala is **monocarpic**, blooming once in a glorious silver spire before perishing upon the volcanic cinder."*

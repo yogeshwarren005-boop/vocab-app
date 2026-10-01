@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One that is androgynous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is androgynous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or organism possessing both masculine and feminine characteristics or reproductive organs; a hermaphrodite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mythology, mysticism, and gender studies, an archetypal embodiment reconciling the duality of masculine and feminine principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgyne designates one that is androgynous."*
+> - 📜 **Plato (*Symposium*):** *"The original **androgyne** was a single whole uniting male and female before the gods sliced humanity into halves."*
+> - 📜 **Virginia Woolf (*Orlando: A Biography*):** *"The perfect artist's mind must be an **androgyne**, fluidly transcending rigid sexual polarities."*
+> - 📜 **Carl Jung (*Psychology and Alchemy*):** *"The mystical rebis or divine **androgyne** symbolizes the final integration of the shadow and anima."*

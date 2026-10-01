@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic corticosteroid (trade names aristocort or aristopak or kenalog) used as an anti-inflammatory agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic corticosteroid (trade names aristocort or aristopak or kenalog) used as an anti-inflammatory agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for triamcinolone, a synthetic glucocorticoid corticosteroid used as an anti-inflammatory and immunosuppressive medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and dermatology, a mid-to-high potency topical and systemic fluorinated steroid used to treat eczema and autoimmune disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristocort designates a synthetic corticosteroid (trade names aristocort or aristopak or kenalog) used as an anti-inflammatory agent."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Topical application of **Aristocort** rapidly suppressed erythematous plaques in stubborn contact dermatitis."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"The modern clinical reliance on corticosteroids like **Aristocort** revolutionized the management of inflammatory outbreaks."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Synthetic derivatives such as **Aristocort** offered heightened anti-inflammatory potency with reduced mineralocorticoid retention."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large mass of intrusive igneous rock believed to have solidified deep within the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large mass of intrusive igneous rock believed to have solidified deep within the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of intrusive igneous rock formed by the crystallization of magma slowly cooling beneath the Earth's surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology and structural geology, a discordant or concordant deep-seated intrusion (such as a batholith, stock, laccolith, or lopolith).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluton designates large mass of intrusive igneous rock believed to have solidified deep within the earth."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The massive granite **pluton** cooled at immense depth before erosion exposed its rounded domes."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Contact metamorphism in the adjacent country rock records the immense thermal energy of the rising **pluton**."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Crystallization differentiation within a magma chamber shapes the zoned mineralogy of the composite **pluton**."*

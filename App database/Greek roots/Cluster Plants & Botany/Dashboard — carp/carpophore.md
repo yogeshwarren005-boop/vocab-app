@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek carp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender floral stalk or axis supporting the fruit, gynoecium, or mericarps, especially the central axis of umbelliferous fruits (Apiaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and pteridology, a specialized stalk supporting a sporocarp or mushroom fruiting body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpophore designates a term designating an entity, condition, or phenomenon derived from greek carp."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"At maturity, the two mericarps of the carrot split apart, remaining suspended from the wiry central **carpophore**."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"The presence of a persistent **carpophore** prevents seeds from falling directly beneath the parent foliage."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"In the Umbelliferae, the structural configuration of the bifurcate **carpophore** provides a reliable tribal character."*

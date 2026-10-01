@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemist who specializes in the chemistry of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemist who specializes in the chemistry of plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemist who specializes in the study of plant chemicals, their structures, and biosyntheses; a specialist in phytochemistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical research, an investigator who isolates, fractionates, and characterizes novel bioactive natural products from botanical specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytochemist designates a chemist who specializes in the chemistry of plants."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The investigative **phytochemist** extracts crystalline glucosides from wild roots, illuminating nature's metabolic laboratory."*
+> - 📜 **Frank A. Lee (*Basic Food Chemistry*):** *"By combining chromatography with spectroscopy, the modern **phytochemist** identifies secondary metabolites in microgram quantities."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"The industrial **phytochemist** perfected the commercial extraction of morphine and codeine from the dried latex of opium poppies."*

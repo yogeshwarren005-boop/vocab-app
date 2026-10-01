@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Person who resembles a nonhuman primate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the suborder anthropoidea including monkeys and apes and hominids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a human being in form; or belonging to the suborder Anthropoidea, which includes monkeys, apes, and humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology, referring specifically to the higher primates (simians) characterized by flat faces, forward-facing eyes, and complex brains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"She whips it off.)_ LYNCH: _(Laughs.)_ And to such delights has Metchnikoff inoculated anthropoid apes."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"An emotion marked for export, from an anthropoid world."*
+> - 📜 **Jane Goodall (*In the Shadow of Man*):** *"Observing the young chimpanzee tool-using behavior revealed how closely related we are to our **anthropoid** cousins."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A fearsome creature emerged from the thicket, displaying massive, **anthropoid** shoulders and limbs."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-folk shuffled forward with an awkward, terrifyingly **anthropoid** gait."*

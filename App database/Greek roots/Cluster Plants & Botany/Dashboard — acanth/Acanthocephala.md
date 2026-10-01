@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of parasitic worm-like invertebrates known as spiny-headed or thorny-headed worms, possessing an eversible proboscis armed with recurved hooks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, endohelminths lacking a digestive tract that infect arthropods or crustaceans as intermediate hosts and vertebrates as definitive hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acanthocephala designates phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms."*
+> - 📜 **Karl Asmund Rudolphi (*Entozoorum Synopsis*):** *"The formidable hooked proboscis of the **Acanthocephala** secures the worm firmly within the mucosal lining of the host intestine."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"In morphology, the **Acanthocephala** demonstrate complete reduction of the alimentary canal, absorbing nutrients directly through the syncytial tegument."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Phylogenetic analysis relates the **Acanthocephala** closely to rotifers, uniting them within the clade Syndermata."*

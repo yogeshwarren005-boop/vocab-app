@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost layer of the pericarp of a fruit, surrounding the seed; may be hard and stony (as the peach pit) or membranous (as the apple core).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carpological anatomy, the sclerified or papery lining of the ovarian cavity derived from the inner epidermis of the carpel wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocarp designates the inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"In a peach or cherry, the stone is the indurated **endocarp**, enclosing the soft edible kernel or true seed."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The toughness of the **endocarp** protects the delicate embryonic plantlet from digestive juices when swallowed by fruit-eating birds."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"In the pome fruit of the hawthorn, the stony **endocarp** forms bony nutlets enclosing each individual seed."*

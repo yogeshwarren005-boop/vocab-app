@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an almond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like an almond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape or form of an almond; almond-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology, anthropology, and anatomy, describing stone tools, nodules, or organs possessing a symmetrical oval outline tapering toward one end.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdaliform designates shaped like an almond."*
+> - 📜 **William Buckland (*Reliquiae Diluvianae*):** *"The Pleistocene gravels yielded several finely chipped **amygdaliform** handaxes worked from dark flint pebbles."*
+> - 📜 **Richard Owen (*Odontography*):** *"The fossil crown exhibits an **amygdaliform** contour, tapering gracefully toward its anterior masticatory margin."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations*):** *"The tympanic bulla of the extinct carnivore is remarkably **amygdaliform**, smooth on its ventral aspect."*

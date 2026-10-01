@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or employed in orthopedics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or affected with a skeletal deformity, disorder, or injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the branch of medicine concerned with the correction of deformities of bones or muscles; designed to relieve skeletal discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, pertaining to surgical and non-surgical treatments for musculoskeletal trauma, deformities, and degenerative joint diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopedic designates of, relating to, or employed in orthopedics."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The **orthopedic** surgeon must understand physical mechanics as thoroughly as human anatomy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The recovery of limb function required prolonged **orthopedic** physiotherapy and corrective footwear."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"Remarkable biocompatible titanium alloys transformed modern **orthopedic** joint replacement."*

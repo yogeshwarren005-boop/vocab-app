@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek carp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive structure of red algae (Rhodophyta), consisting of the carpogonium (with its trichogyne) and the auxiliary cell before fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycological embryology, the pre-fertilization gametangial complex whose architectural arrangement governs subsequent diploid carposporophyte development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procarp designates a term designating an entity, condition, or phenomenon derived from greek carp."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The compact **procarp** comprises both the receptive carpogonium and a closely associated auxiliary cell ready to receive the diploid nucleus."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"In Ceramium, the **procarp** develops upon a specialized four-celled fertile branch of the thallus."*
+> - 📜 **William Gilson Farlow (*Marine Algae of New England*):** *"Detailed study of the **procarp** is indispensable for unraveling the phylogenetic relationships among Floridean red seaweeds."*

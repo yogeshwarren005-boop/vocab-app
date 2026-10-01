@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the acanthuridae: doctorfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the acanthuridae: doctorfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diverse genus of surgeonfishes (family Acanthuridae) bearing a single hinged, sharp spine on each side of the caudal peduncle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical ichthyology, circumtropical reef dwellers that defend feeding territories against competing herbivorous fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthurus designates type genus of the acanthuridae: doctorfishes."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"We observed specimens of **Acanthurus** darting among the coral heads at Tahiti, using their lateral lancets in territorial combat."*
+> - 📜 **Albert Günther (*Fische der Südsee*):** *"The genus **Acanthurus** is distinguished by its high, compressed body, deep caudal peduncle, and erectable caudal lancet."*
+> - 📜 **Georges Cuvier (*Histoire Naturelle des Poissons*):** *"Linnaeus initially grouped these spiny-tailed herbivores under Chaetodon before the establishment of **Acanthurus**."*

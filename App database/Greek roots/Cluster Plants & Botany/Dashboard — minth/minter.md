@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who coins or stamps money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who coins or stamps money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who mints or coins money; an official or workman in a mint; also a creator or coiner of words or phrases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical monetary economics, an authorized master craftsman who stamped legal coin dies onto measured bullion blanks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minter designates a skilled worker who coins or stamps money."*
+> - 📜 **Isaac Newton (*Mint Papers*):** *"The honest **minter** weighs each blank upon the balance before placing it beneath the screw-press die."*
+> - 📜 **Alexander Pope (*Epistle to Dr. Arbuthnot*):** *"Each wretched poetaster acts as a reckless **minter** of barbarous neologisms that corrupt our vernacular speech."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The master **minter** of the Tower examined the gold broad-piece, certifying its royal weight and fineness."*

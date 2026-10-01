@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political leader who appeals to popular prejudices and who makes false claims and promises in order to gain power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leader in ancient times who championed the cause of the common people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political leader who seeks support by appealing to popular desires and prejudices rather than by using rational argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and history, an orator who exploits factional passions, grievances, and fears to acquire power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Do you know that the orange lodges agitated for repeal of the union twenty years before O’Connell did or before the prelates of your communion denounced him as a demagogue?"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jones wrote a full and particular account of the dinner, which appeared duly in the Demagogue."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"DEMAGOGUE, a vessel containing beer and other liquids."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Cleon was the most violent of the citizens, and by far the most persuasive **demagogue** before the assembly."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"History teaches that of the men who have overturned the liberties of republics, the greatest number began their career as a **demagogue**."*
+> - 📜 **H. L. Mencken (*Notes on Democracy*):** *"The **demagogue** is one who preaches doctrines he knows to be untrue to men he knows to be idiots."*

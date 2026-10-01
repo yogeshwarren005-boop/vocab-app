@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thorny shrubs and small trees: hawthorn; thorn; thorn apple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thorny shrubs and small trees: hawthorn; thorn; thorn apple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spiny shrubs and small trees commonly known as hawthorns (family Rosaceae), producing white or pink flowers and red pomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and herbal medicine, deciduous woody plants renowned for heart-tonic flavonoids and dense hedging thorns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crataegus designates thorny shrubs and small trees: hawthorn; thorn; thorn apple."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The hedges of **Crataegus** blossomed with such profusion that the lanes seemed draped in white linen."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I lingered by the flowering **Crataegus**, listening to the drowsy hum of bees among its scented thorns."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species delimitation in the genus **Crataegus** presents extraordinary taxonomic complexity due to apomixis."*

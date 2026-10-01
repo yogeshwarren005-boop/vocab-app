@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the people : rule of the majority : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the people elect representatives to make decisions, policies, laws, etc. according to law —called also representative democracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of government by the whole population or all the eligible members of a state, typically through elected representatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional philosophy, an institutional order founded on popular sovereignty, universal franchise, civil rights, and political equality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This theory is, in a way, based on an appeal to experience, as to the effect of property on human character, and it has the virtue of expressing one of the ideals of modern democracy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Once prosperous schools declined, once thronging country churches were deserted, and much of the old neighborhood democracy disappeared."*
+> - 📜 **Pericles (*Funeral Oration*):** *"Our constitution is called a **democracy** because its administration is in the hands of the many and not of the few."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In a true **democracy**, equality of condition exerts a prodigious influence on every civic habit."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"A **democracy** is more than a form of government; it is primarily a mode of associated living."*

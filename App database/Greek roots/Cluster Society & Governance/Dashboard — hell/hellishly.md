@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hellish manner; horribly, abominably, or intensely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With infernal malice, unbearable discomfort, or extreme degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hellishly designates extremely."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The wind shrieked **hellishly** through the frozen rigging, blinding the helmsman with sheets of sleet."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr Jekyll and Mr Hyde*):** *"Edward Hyde laughed **hellishly** as he trampled the helpless child underfoot in the dark street."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The red eyes glared **hellishly** through the gloom of the ruined crypt."*

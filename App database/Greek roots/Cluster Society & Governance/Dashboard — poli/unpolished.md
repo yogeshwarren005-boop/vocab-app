@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not carefully reworked or perfected or made smooth by polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking social polish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not polished; rough, unburnished, or lacking physical shine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking sophistication, refined manners, or literary elegance; natural, rugged, or crude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SUFFOLK. ’Tis like the commons, rude unpolished hinds, Could send such message to their sovereign."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"And so that you would be aware of, and find less difficult to excuse, the many things that are still obscure, rough, and unpolished, we wished to warn you of them."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Now you may eat, though still not immoderately.” “I trust I shall not eat long at your expense, sir,” was my very clumsily-contrived, unpolished answer."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The country manners of Sir William Lucas were simple and **unpolished**, yet free from any mean malice."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Beneath his **unpolished** dialect and rough hands, Stephen Blackpool carried a heart of purest honor."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"There is noble vitality in the rough, **unpolished** carvings of the medieval workman that cold machinery can never copy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of serranidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of serranidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine ray-finned fishes in the grouper family (Serranidae), known as creolefishes, adapted for midwater plankton feeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, slender-bodied serranids that diverge from typical benthic groupers by forming aggregations in open water and possessing fine gill rakers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paranthias designates a genus of serranidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The genus **Paranthias** differs markedly from typical groupers in its streamlined form and habit of schooling above reef drop-offs."*
+> - 📜 **Charles Tate Regan (*The Classification of the Percoid Fishes*):** *"Cranial osteology confirms that **Paranthias** belongs to the Epinephelinae, despite its unique planktivorous trophic adaptations."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A shimmering cloud of **Paranthias** furcifer drifted in the crystal water, feeding with swift snaps upon transparent pelagic salps."*

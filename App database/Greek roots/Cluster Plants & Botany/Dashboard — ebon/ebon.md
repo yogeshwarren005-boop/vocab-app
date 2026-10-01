@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ebony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ebony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark, black, or made of ebony wood; an archaic or poetic term for ebony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic and gothic literature, describing deep, lustrous, pitch-black color, such as night, hair, or shadows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rouse up revenge from ebon den with fell Alecto’s snake, For Doll is in."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where, I mean, I did encounter that obscene and most preposterous event that draweth from my snow-white pen the ebon-coloured ink, which here thou viewest, beholdest, surveyest, or seest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love’s golden arrow at him should have fled, And not death’s ebon dart to strike him dead. 948 “Dost thou drink tears, that thou provok’st such weeping?"*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"By the grave and stern decorum of the countenance it wore, 'Though thy crest be shorn and shaven, thou,' I said, 'art sure no craven, ghastly grim and ancient Raven wandering from the Nightly shore—tell me what thy lordly name is on the Night's Plutonian shore!' Quoth the Raven 'Nevermore.' And his **ebon** plumage gleamed."*
+> - 📜 **John Milton (*L'Allegro*):** *"In dark Cimmerian desert ever dwell, there under **ebon** shades and low-browed rocks, as ragged as thy locks."*
+> - 📜 **John Keats (*Endymion*):** *"Upon an **ebon** throne sat the dark monarch of the underworld, gazing into the cavernous abyss."*

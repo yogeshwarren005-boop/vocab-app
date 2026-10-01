@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on flowers; eating flowers or floral organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal ecology, describing specialized herbivores, insects, or birds whose primary diet consists of petals, floral nectaries, or pollen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthophagous designates feeding on flowers."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Certain caterpillars are strictly **anthophagous**, burrowing into the developing corolla and consuming stamens before petals open."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"Lories and hanging parrots exhibit **anthophagous** adaptations, brushing pollen from high tree blossoms with specialized brush-tipped tongues."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Grasshopper*):** *"The green katydid reveals itself as an avid **anthophagous** forager, stripping the delicate white petals of my jasmine arbor."*

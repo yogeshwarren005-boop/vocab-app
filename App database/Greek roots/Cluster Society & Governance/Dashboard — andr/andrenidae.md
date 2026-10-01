@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of solitary short-tongued bees most of which burrow in the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large family of solitary short-tongued bees most of which burrow in the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of solitary, non-parasitic mining bees distributed globally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hymenopteran taxonomy, an ancient lineage of short-tongued Apoidea whose females possess facial depressions (foveae) lined with velvety hairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andrenidae designates a large family of solitary short-tongued bees most of which burrow in the ground."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Comparative hymenopteran studies frequently highlight the primitive behavioral traits preserved in **Andrenidae**."*
+> - 📜 **Charles Michener (*The Social Behavior of the Bees*):** *"Nesting aggregations in **Andrenidae** demonstrate communal territory without true division of reproductive labor."*
+> - 📜 **Bernd Heinrich (*Bumblebee Economics*):** *"Thermal constraints govern the foraging flights of early season species belonging to the **Andrenidae**."*

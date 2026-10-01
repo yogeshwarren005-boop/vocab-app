@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a stamen that produces and contains pollen and is usually borne on a stalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a stamen that produces and contains pollen and is usually borne on a stalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The terminal, pollen-bearing portion of a plant stamen, usually borne atop a slender filament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral anatomy, a bilobed microsporangial structure comprising four locules that dehisce longitudinally or poricidally to release pollen grains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Flowers of Bladder-campion with anther smut (_Ustilago antherarum_). 〃 103."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Anther distorted by smut (_Ustilago antherarum_). 〃 104."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Spores of Anther smut (_Ustilago antherarum_) × 460. 〃 105."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised*):** *"When the visiting bee depresses the labellum, the ripe **anther** deposits its paired pollinia neatly upon the insect's thorax."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Each stamen consists of the slender thread-like filament and the hollow box or **anther** containing pollen dust."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Dehiscence of the **anther** occurs at the precise moment when the stigma becomes receptive to fertilizing grains."*

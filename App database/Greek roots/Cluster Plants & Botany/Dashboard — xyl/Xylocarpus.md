@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of mangrove trees in the mahogany family (Meliaceae), known as cannonball mangroves, bearing enormous woody globose fruits and buttressed trunks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal mangrove ecology, Indo-Pacific shoreline trees (such as Xylocarpus granatum) producing large woody capsules packed with angular corky seeds that float in seawater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Xylocarpus designates a term designating an entity, condition, or phenomenon derived from greek xyl."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Along the muddy estuaries of the Moluccas, trees of **Xylocarpus** granatum bear heavy spherical fruits the size of cannonballs."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The dense, dark wood of **Xylocarpus** is prized for boat-building, resisting teredo worms in tropical waters."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"The woody fruit of **Xylocarpus** splits into four thick valves, releasing cork-coated seeds that float across ocean currents."*

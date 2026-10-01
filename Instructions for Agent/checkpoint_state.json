@@ -62,7 +62,9 @@
     "Greek roots: Cluster Motion & Direction",
     "Greek roots: Cluster Time & Chronology",
     "Greek roots: Cluster Life & Vitality",
-    "Greek roots: Cluster Feeling & Sensation"
+    "Greek roots: Cluster Feeling & Sensation",
+    "Greek roots: Cluster Society & Governance",
+    "Greek roots: Cluster Plants & Botany"
   ],
   "stats": {
     "totalWordFiles": 47447,
@@ -71,8 +73,8 @@
     "englishVocabMasterClusters": 30,
     "englishVocabMasterWords": 514,
     "englishVocabMasterIssuesRemaining": 0,
-    "greekRootsClustersCompleted": 21,
-    "greekRootsWordsCurated": 5871,
+    "greekRootsClustersCompleted": 23,
+    "greekRootsWordsCurated": 6967,
     "greekRootsClusterPowerStrengthDominionIssues": 0,
     "greekRootsClusterScienceInquiryIssues": 0,
     "greekRootsClusterSelfIdentityIssues": 0,
@@ -93,6 +95,8 @@
     "greekRootsClusterMotionDirectionIssues": 0,
     "greekRootsClusterTimeChronologyIssues": 0,
     "greekRootsClusterLifeVitalityIssues": 0,
-    "greekRootsClusterFeelingSensationIssues": 0
+    "greekRootsClusterFeelingSensationIssues": 0,
+    "greekRootsClusterSocietyGovernanceIssues": 0,
+    "greekRootsClusterPlantsBotanyIssues": 0
   }
 }

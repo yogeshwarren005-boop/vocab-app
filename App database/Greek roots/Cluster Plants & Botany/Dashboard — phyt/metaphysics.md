@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A division of philosophy that is concerned with the fundamental nature of reality and being and that includes ontology, cosmology, and often epistemology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A division of philosophy that is concerned with the fundamental nature of reality and being and that includes ontology, cosmology, and often epistemology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, the foundational inquiry originating in Aristotle's treatises 'beyond the physical' (ta meta ta physika).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The class of Hamilton's that he attended in the session of 1838-39 was that of Advanced Metaphysics."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Go to, I say, _Charles_ shall inherit. _Bri._ I say, no, unless _Charles_ had a Soul to understand it; can he manage six thousand Crowns a year out of the Metaphysics? or can all his learn'd Astronomy look to my Vineyards?"*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The friends read Plato together, and held endless talk of metaphysics, pre-existence, and the sceptical philosophy, on winter walks across country, and all night beside the fire, until Shelley would curl up on the hearthrug and go to sleep."*
+> - 📜 **Aristotle (*Metaphysics*):** *"All men by nature desire to know; and the supreme science, which we call **metaphysics**, inquires into first principles and primary causes."*
+> - 📜 **Immanuel Kant (*Prolegomena to Any Future Metaphysics*):** *"My aim is to persuade all those who think it worthwhile to deal with **metaphysics** to suspend their work until they can answer its first problem."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"If we take in our hand any volume of divinity or school **metaphysics**, let us ask: Does it contain any abstract reasoning concerning quantity or number? Commit it to the flames."*

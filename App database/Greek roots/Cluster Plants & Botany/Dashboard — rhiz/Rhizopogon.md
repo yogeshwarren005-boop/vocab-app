@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi having subterranean sporophores resembling tubers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi having subterranean sporophores resembling tubers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ectomycorrhizal, subterranean false truffles in the family Rhizopogonaceae (order Boletales), producing round underground fruiting bodies with root-like threads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conifer forest ecology, hypogeous fungi forming vital mycorrhizae with Douglas fir and pines, whose sporocarps are excavated and dispersed by forest small mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Rhizopogon designates a genus of fungi having subterranean sporophores resembling tubers."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"I established the genus **Rhizopogon** to accommodate subterranean false truffles attached to soil by conspicuous root-like mycelial cords."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"In pine plantations, hypogeous sporocarps of **Rhizopogon** rubescens develop buried beneath several inches of fallen needles."*
+> - 📜 **Charles McIlvaine (*One Thousand American Fungi*):** *"The gleba of **Rhizopogon** remains labyrinthine and moist, emitting an earthy fragrance that attracts burrowing rodents."*

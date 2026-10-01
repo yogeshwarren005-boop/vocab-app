@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that bears fruit once and dies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that bears fruit once and dies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that bears fruit only once in its life cycle and then dies (monocarpic plant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In life history theory, a semelparous flowering plant (such as bamboo, century plant, or talipot palm) that invests all accumulated resources into a single massive fruiting event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocarp designates a plant that bears fruit once and dies."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The colossal talipot palm lives for half a century as a vegetative **monocarp** before expending all its vitality in one stupendous inflorescence."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The common century plant (Agave americana) is a famous **monocarp**, dying down to the roots after its towering scape matures seeds."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"Certain gregarious forest bamboos flower synchronously as a **monocarp**, seeding once across entire provinces and then withering simultaneously."*

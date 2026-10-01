@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of root.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of root.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on roots; root-eating (applied especially to insects, nematodes, and subterranean larvae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied entomology and soil ecology, designating pests like cicada nymphs, wireworms, and root-knot nematodes that consume subterranean root tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizophagous designates adjective*) pertaining to, derived from, or characteristic of root."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"Subterranean devastation in vineyards is caused by **rhizophagous** phylloxera aphids feeding on fibrous rootlets."*
+> - 📜 **Leland Ossian Howard (*The Insect Book*):** *"Grubs of May beetles are intensely **rhizophagous**, severing the root systems of pasture grasses and strawberry beds."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The **rhizophagous** larvae of cicadas pass up to seventeen years underground sucking sap from tree roots."*

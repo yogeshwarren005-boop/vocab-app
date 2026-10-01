@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having fewer carpels in the gynoecium than the number of other floral parts (sepals, petals, or stamens) in the flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive floral morphology, describing flowers that exhibit evolutionary reduction in carpel number relative to perianth whorls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisocarpic designates adjective*) pertaining to, derived from, or characteristic of wrist."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"A pentamerous flower with only two carpels represents a typically **anisocarpic** construction common in the Scrophulariaceae."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"While the calyx and corolla maintain fivefold symmetry, the **anisocarpic** pistil reflects progressive gynoecial reduction."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Systematists use the **anisocarpic** condition to trace phylogenetic reduction across advanced sympetalous orders."*

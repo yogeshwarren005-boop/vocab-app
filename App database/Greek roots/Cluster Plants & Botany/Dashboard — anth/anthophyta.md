@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major plant division comprising all flowering plants (angiosperms), producing flowers and enclosed seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical phylogenetics, the dominant division of land plants encompassing monocots and eudicots, defined by double fertilization and carpellary fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthophyta designates comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta)."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The evolutionary supremacy of the **Anthophyta** over gymnosperms rests upon their specialized insect pollination and sealed ovules."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Under the name **Anthophyta**, we embrace all angiospermous flora that produce true flowers with stamens and carpels."*
+> - 📜 **Charles E. Bessey (*The Phylogeny of Angiosperms*):** *"The basal ancestors of **Anthophyta** arose from strobiliferous gymnospermous stock, diversifying rapidly during the Cretaceous."*

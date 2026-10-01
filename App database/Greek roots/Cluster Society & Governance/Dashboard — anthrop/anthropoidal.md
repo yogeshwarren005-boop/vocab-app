@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling apes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling apes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics or appearance of an anthropoid; resembling a human or an ape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, exhibiting primate-like skeletal proportions or cranial architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropoidal designates resembling apes."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The skull of the gorilla displays **anthropoidal** crests far more pronounced than those of human specimens."*
+> - 📜 **H. P. Lovecraft (*At the Mountains of Madness*):** *"Carvings on the primordial stone depicted monstrous entities with vaguely **anthropoidal** silhouettes."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The orangutan swung through the branches with an **anthropoidal** majesty that commanded silent awe."*

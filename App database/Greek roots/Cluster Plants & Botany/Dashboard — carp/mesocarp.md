@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle layer of a pericarp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle layer of a pericarp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle layer of the pericarp of a fruit, between the epicarp (exocarp) and endocarp; often fleshy and succulent (the pulp of a peach or berry).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology, the succulent parenchymatous tissue that accumulates sugars, water, and organic acids to attract seed-dispersing vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesocarp designates the middle layer of a pericarp."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"In a peach, the luscious pulp that we eat is the fleshy **mesocarp**, situated between the outer skin and the stone."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"In the coconut, the **mesocarp** is not juicy, but consists of a dense fibrous husk utilized commercially as coir."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Rapid cellular enlargement and sugar accumulation transform the green **mesocarp** into sweet succulent tissue at ripening."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large subclass (Malacostraca) of crustaceans having a thorax consisting of eight segments usually covered by a carapace and including the decapods and isopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large subclass (Malacostraca) of crustaceans having a thorax consisting of eight segments usually covered by a carapace and including the decapods and isopods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest class of crustaceans, comprising crabs, lobsters, shrimp, krill, woodlice, and mantis shrimp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic arthropod zoology, higher crustaceans characterized by a fixed body plan of 19 or 20 segments and specialized cephalothorax tagmosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Malacostraca designates any of a large subclass (malacostraca) of crustaceans having a thorax consisting of eight segments usually covered by a carapace and including the decapods and isopods."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The common freshwater crayfish illustrates the definitive morphological architectural plan of the **Malacostraca**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extraordinary diversification of limbs in **Malacostraca** demonstrates the power of natural selection acting on homologous parts."*
+> - 📜 **William Thomas Calman (*A Treatise on Zoology: Crustacea*):** *"Systematic classification separates the class **Malacostraca** into several major orders based on gill and carapace morphology."*

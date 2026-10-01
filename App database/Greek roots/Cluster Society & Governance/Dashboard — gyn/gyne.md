@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Female reproductive organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Female reproductive organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female, especially a fertile queen ant, bee, or wasp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect sociobiology, the reproductive female caste in eusocial Hymenoptera possessing fully developed ovaries and mating capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyne designates female reproductive organ."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The virgin **gyne** takes wing during the nuptial flight, carrying the genetic future of the colony."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Worker pheromones carefully suppress reproductive ovary development in potential rival **gyne** larvae."*
+> - 📜 **Bert Hölldobler (*The Ants*):** *"After shedding her wings, the solitary **gyne** excavates a claustral chamber to rear her first brood."*

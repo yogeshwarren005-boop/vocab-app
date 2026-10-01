@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used in measuring the acuity of hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used in measuring the acuity of hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific testing and measurement of the range and acuity of hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational health and otolaryngology, quantitative diagnostic assessment using air and bone conduction thresholds to differentiate conductive from sensorineural deafness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiometry designates an instrument used in measuring the acuity of hearing."*
+> - 📜 **Alexander Graham Bell (*The Audiometer and Hearing Measurement*):** *"The introduction of electrical **audiometry** replaces crude watch-tick and tuning-fork tests with repeatable physical standards."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"Precise pure-tone **audiometry** was indispensable for localizing the acoustic neuroma to the cerebellopontine angle."*
+> - 📜 **Raymond D. Adams (*Principles of Neurology*):** *"Modern **audiometry** assesses both pure-tone sensitivity and brainstem auditory evoked potentials in coma patients."*

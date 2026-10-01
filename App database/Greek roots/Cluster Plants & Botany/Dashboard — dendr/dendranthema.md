@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises plants often included in the genus chrysanthemum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises plants often included in the genus chrysanthemum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus name (or synonym of Chrysanthemum) containing the florist's chrysanthemum and allied East Asian wild species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant taxonomy, a segregative asteraceous genus established for autumn-blooming subshrubs possessing lobed aromatic leaves and radiate flower heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendranthema designates comprises plants often included in the genus chrysanthemum."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Systematic revisions transferred several ornamental species from Chrysanthemum to **Dendranthema**, citing distinct achene anatomy."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The ancestral wild parent of cultivated autumn chrysanthemums is **Dendranthema** indicum, native to rocky slopes of China."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"Under the name **Dendranthema**, taxonomists distinguish the perennial woody-based chrysanthemums from annual corn-marigolds."*

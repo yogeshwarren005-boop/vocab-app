@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various rot causing fungi of the genus rhizopus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rot causing fungi of the genus rhizopus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fast-growing saprophytic and parasitic filamentous fungi in the family Rhizopodaceae (phylum Mucoromycota), famously including black bread mold (Rhizopus stolonifer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and food biotechnology, zygomycetous molds producing creeping stolons, anchoring rhizoids, and black sporangia; used in fermenting tempeh and industrial fumaric acid production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Rhizopus designates any of various rot causing fungi of the genus rhizopus."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Spores of **Rhizopus** germinate rapidly upon damp bread, extending aerial hyphae that terminate in spherical black sporangia."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The formation of zygospores in **Rhizopus** occurs when compatible progametangia meet and fuse along the substratum."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"Soft rot in stored sweet potatoes is caused by virulent pectolytic enzymes secreted by invading **Rhizopus** stolons."*

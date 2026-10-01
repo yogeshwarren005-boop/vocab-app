@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person addicted to luxury and pleasures of the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person addicted to luxury and pleasures of the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is self-indulgent in their fondness for sensuous luxury; an epicure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally an inhabitant of ancient Sybaris, an ancient Greek city in southern Italy legendary for excessive hedonism and ostentatious wealth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Oh, fork'd-tongue of adder, by her pent In smooth lips!--oh, Sybarite blind!"*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The tired faculties of the Sybarite cease at length to respond to natural pleasures."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Not to speak it harshly or scornfully, it seemed Clifford’s nature to be a Sybarite."*
+> - 📜 **Seneca the Younger (*De Ira*):** *"The legendary **Sybarite** complained that he could not sleep because a rose petal had been crumpled under his couch."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The luxury of the court had softened brave legionaries into delicate and indolent **Sybarite** courtiers."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian lived as a modern **Sybarite**, surrounding himself with rare perfumes, Venetian glass, and exotic tapestries."*

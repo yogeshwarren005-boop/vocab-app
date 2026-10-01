@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of vitamin k.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of vitamin k.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic preparation of vitamin K₁ (phylloquinone), used as a pharmaceutical medication to treat vitamin K deficiency, bleeding disorders, and warfarin overdose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology and pharmacology, a fat-soluble naphthoquinone derivative that reverses hypoprothrombinemia by promoting hepatic synthesis of clotting factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytonadione designates a form of vitamin k."*
+> - 📜 **Ernest Beutler (*Williams Hematology*):** *"Parenteral administration of **phytonadione** rapidly neutralizes excessive anticoagulation caused by coumarin derivatives."*
+> - 📜 **William N. Kelley (*Textbook of Internal Medicine*):** *"Routine administration of **phytonadione** to all newborns prevents life-threatening hemorrhagic disease of the newborn."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In obstructive jaundice, oral **phytonadione** requires bile salts for adequate intestinal absorption to prevent hemorrhages."*

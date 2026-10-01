@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in political activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in political activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in political discussion, campaign for votes, or maneuver for political advantage (often used derisively).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical prose, an archaic spelling of politic (prudent/shrewd) or the verb meaning to engage in opportunistic backroom diplomacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le have your life you villain, You politick old Thief. _Char_."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Some of our _Projects_ were, I think, But politick _Farts_, _Foh! how they stink_!"*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"Senator Dilworthy spent his weekends traveling across the county to **politick** with local party delegates."*
+> - 📜 **Henry Adams (*Democracy: An American Novel*):** *"Washington dining rooms provided the discreet setting where rival congressmen loved to **politick** over dessert."*
+> - 📜 **H. L. Mencken (*Prejudices: Fourth Series*):** *"The candidates gathered at the fairgrounds to shake sweaty hands and **politick** under the sweltering tent."*

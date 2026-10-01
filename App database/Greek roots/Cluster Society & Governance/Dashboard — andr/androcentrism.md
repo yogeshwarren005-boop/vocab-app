@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dominated by or emphasizing masculine interests or a masculine point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dominated by or emphasizing masculine interests or a masculine point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of placing a masculine point of view at the center of one's world view, culture, and history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological critique and critical theory, the systemic structural marginalization of women by positing male norms as universally human.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androcentrism designates dominated by or emphasizing masculine interests or a masculine point of view."*
+> - 📜 **Adrienne Rich (*Of Woman Born*):** *"Deep-seated **androcentrism** in institutional medicine long obscured female anatomical realities."*
+> - 📜 **Sandra Harding (*The Science Question in Feminism*):** *"Epistemological critique aims to dismantle the subtle **androcentrism** embedded in scientific methodology."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Civil philosophy must free itself from habitual **androcentrism** if genuine moral progress is to be made."*

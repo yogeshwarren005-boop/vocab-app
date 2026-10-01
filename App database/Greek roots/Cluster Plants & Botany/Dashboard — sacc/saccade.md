@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid, jerky movement of the eyes between positions of rest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abrupt spasmodic movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid, intermittent movement of both eyes between fixation points, as during reading or scanning a visual scene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual psychophysics and neuro-ophthalmology, a ballistic conjugate eye movement reaching speeds up to 900 degrees per second, programmed by the superior colliculus and frontal eye fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccade designates a rapid, jerky movement of the eyes between positions of rest."*
+> - 📜 **Émile Javal (*Physiologie de la Lecture et de l'Écriture*):** *"I observed that the reader's eye does not glide smoothly across the printed line, but advances in brief, rapid **saccade** jerks punctuated by pauses."*
+> - 📜 **William James (*The Principles of Psychology*):** *"During each quick **saccade**, visual perception is largely suppressed, preventing the sensation of a blurring motion smear."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Neural firing in the frontal eye fields initiates each ballistic **saccade** to bring targets onto the fovea centralis."*

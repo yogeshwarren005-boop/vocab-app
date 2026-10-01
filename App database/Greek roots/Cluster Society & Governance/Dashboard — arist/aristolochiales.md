@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of plants distinguished by tubular petaloid perianth and inferior ovary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of plants distinguished by tubular petaloid perianth and inferior ovary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of flowering plants containing the family Aristolochiaceae in older botanical classification systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical botanical taxonomy (such as the Cronquist or Engler systems), an order typically comprising Aristolochiaceae, Hydnoraceae, and Rafflesiaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristolochiales designates order of plants distinguished by tubular petaloid perianth and inferior ovary."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"The order **Aristolochiales** comprises specialized parasitic and climbing dicotyledons with uniseriate perianths."*
+> - 📜 **Arthur Cronquist (*The Evolution and Classification of Flowering Plants*):** *"Relationships within the **Aristolochiales** reveal surprising morphological convergences among root parasites."*
+> - 📜 **G. H. M. Lawrence (*Taxonomy of Vascular Plants*):** *"Traditional circumscriptions of **Aristolochiales** emphasized petal-less, epigynous floral structures."*

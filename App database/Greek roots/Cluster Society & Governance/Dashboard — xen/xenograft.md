@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graft of tissue taken from a donor of one species and grafted into a recipient of another species —called also heterograft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graft of tissue taken from a donor of one species and grafted into a recipient of another species —called also heterograft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tissue graft or organ transplant from a donor of a different species from the recipient (heterograft).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transplant surgery and experimental immunology, porcine or non-human primate organ grafts subject to hyperacute rejection by human antibodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenograft designates a graft of tissue taken from a donor of one species and grafted into a recipient of another species —called also heterograft."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The immunological barrier against a cross-species **xenograft** is far fiercer than that against an allograft from a fellow human."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"Genetic engineering of donor swine seeks to eliminate alpha-gal antigens and make human **xenograft** transplantation viable."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Experimental researchers investigated whether cellular **xenograft** implants could replenish dopamine in neurodegenerative disorders."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two long or stressed syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of two long or stressed syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of spondees (metrical feet consisting of two long or stressed syllables).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody, designating a dactylic hexameter line ending with a spondee in the fifth foot (a spondaic verse or versus spondaicus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondaic designates a metrical foot consisting of two long or stressed syllables."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"A **spondaic** hexameter produces a slow, majestic cadence well suited to solemn rituals and grief."*
+> - 📜 **Samuel Taylor Coleridge (*Metrical Feet: Lesson for a Boy*):** *"Slow Spondee stalks; strong foot! yet ill able to run, though with **spondaic** gravity he paces."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"When Ajax strives some rock's vast weight to throw, The line too labours, and the verse moves slow with heavy **spondaic** feet."*

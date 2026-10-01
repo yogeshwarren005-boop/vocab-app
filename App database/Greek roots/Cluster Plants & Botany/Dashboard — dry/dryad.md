@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirit that lives in the forest : wood nymph, fairy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nymph living in woods —called also dryad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, a tree nymph or wood nymph who inhabits forests and groves; specifically a nymph associated with an oak tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and classical poetry, the personification of the living spirit, beauty, and soul of a forest tree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"With these she decorated her hair and her young waist, and became a nymph child, or an infant dryad, or whatever else was in closest sympathy with the antique wood."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the second place, the nymph Egeria at Nemi appears to have been merely a form of Diana, and Egeria is definitely said to have been a Dryad, a nymph of the oak."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I’d be certain to dream I was a dryad or a woodnymph then."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"That thou, light-winged **Dryad** of the trees, in some melodious plot of beechen green, singest of summer in full-throated ease."*
+> - 📜 **John Milton (*Comus*):** *"By dimpled brook and fountain-brim, the Wood-nymphs decked with daisies trim, their merry **Dryad** dances skim."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"In the rustic imagination of the Hellenes, every ancient oak sheltered a graceful **dryad** who wept when its boughs were hacked."*

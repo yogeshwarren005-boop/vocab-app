@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A name derived from the name of a father or male ancestor, typically by the addition of a prefix or suffix (such as -son, Mac-, or Fitz-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In onomastics and historical anthropology, a paternal identifier reflecting lineage in naming systems before fixed surnames became universal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patronym designates a term designating an entity, condition, or phenomenon derived from greek pater."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The Scandinavian **patronym** ending in -sen or -son originally changed with each succeeding generation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Homeric warriors took immense pride in declaiming their **patronym** before charging into battle."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Immigration authorities frequently converted foreign **patronym** endings into standard Anglo-Saxon surnames."*

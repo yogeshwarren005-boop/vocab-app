@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Boxfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boxfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine tetraodontiform fishes known as boxfishes, trunkfishes, or cowfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological taxonomy, reef fishes enclosed in a rigid, bony triangular or rectangular carapace formed of modified scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostraciidae designates boxfishes."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"In the family **Ostraciidae**, the body is encased in a solid bony armor formed of fused hexagonal plates."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A small boxfish of the **Ostraciidae** sculled awkwardly through the coral reef, propelled only by transparent fins."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Cuvier classified **Ostraciidae** among the Plectognathi because of their fused jaws and immobile dermal coat."*

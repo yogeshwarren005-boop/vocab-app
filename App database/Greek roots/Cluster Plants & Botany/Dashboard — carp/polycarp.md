@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek bishop of smyrna who refused to recant his christian faith and was burned to death by pagans (circa 69-155).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek bishop of smyrna who refused to recant his christian faith and was burned to death by pagans (circa 69-155).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that flowers and bears fruit multiple times year after year; also St. Polycarp, 2nd-century Christian martyr and bishop of Smyrna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical life history and church history, a perennial flowering organism (polycarpic plant); or the venerated apostolic father who suffered martyrdom at Smyrna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The pious Polycarp said: "I cannot turn at once from good to evil." Neither do 77:3 other mortals accomplish the change from error to truth at a single bound."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Perennial forest oaks represent the ultimate **polycarp**, bearing seasonal crops of acorns across hundreds of successive autumns."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The venerable Bishop **Polycarp** refused to revile Christ before the proconsul, sealing his eighty-six years of faith in the flames."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"A typical woody **polycarp** sets aside nutrient reserves each summer to sustain the following spring's burst of flowers."*

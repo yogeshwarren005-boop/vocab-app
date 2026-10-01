@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or characteristic of politics or parties or politicians; - daniel goleman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to your views about social relationships involving authority or power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the government or the public affairs of a country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and modern philosophy, concerning the distribution of civic power, institutional authority, and social justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s policy and mastery to have no political opinions; indeed, NO opinions."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now I dare say her marrying another child, and having two more, was all wrong in point of political economy, but it was very agreeable."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why had he not known the difference between the political value and the imaginative value of these things?"*
+> - 📜 **Aristotle (*Politics*):** *"The state is the highest form of community, and the **political** good is justice, which means the common interest."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"War is not merely an act of policy, but a true **political** instrument, a continuation of political commerce."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"**Political** power is that power which every man, having in the state of nature, has given up into the hands of society."*

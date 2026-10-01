@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to heresy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposed to heresy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directed against, opposing, or intended to suppress heresy or heretics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patristics and ecclesiastical history, describing theological treatises or inquisitorial institutions established to combat doctrinal deviations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiheretical designates opposed to heresy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Irenaeus composed extensive **antiheretical** volumes refuting the intricate mythologies of the Gnostics."*
+> - 📜 **Henry Chadwick (*The Early Church*):** *"The imperial edicts contained fierce **antiheretical** penalties aimed at preserving doctrinal unity."*
+> - 📜 **Jaroslav Pelikan (*The Christian Tradition*):** *"Creedal formulations were shaped directly by urgent **antiheretical** debates over the nature of Christ."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman policeman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman policeman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female member of a police force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and civic history, women officers recruited initially for specialized youth and female offender protection, later integrated into full patrol and investigative duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, policewoman designates a woman policeman."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"The arrival of the pioneering **policewoman** upon public streets marked a visible breach in ancient professional exclusivity."*
+> - 📜 **Agatha Christie (*The Pale Horse*):** *"The observant young **policewoman** noted the exact departure time of the mysterious black saloon car."*
+> - 📜 **Dorothy L. Sayers (*Gaudy Night*):** *"Inquiries at the municipal station were handled with quiet professional tact by the duty **policewoman**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hornworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hornworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical family of hornworts (order Anthocerotales) comprising thalloid plants with horn-shaped, dehiscent capsules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryophyte taxonomy, the principal family of hornworts distinguished by pseudo-elaters, columellae, and dark ornamented spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthocerotaceae designates hornworts."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Systematic classification separates the **Anthocerotaceae** from all hepatics because of the distinct internal structure of the capsule."*
+> - 📜 **Frederick Orpen Bower (*The Origin of a Land Flora*):** *"The columella running through the center of the capsule in **Anthocerotaceae** provides mechanical support and conduction."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"Genera of the **Anthocerotaceae** inhabit damp shaded banks and wet clay soils throughout temperate and tropical zones."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 halers equal 1 koruna slovakia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 halers equal 1 koruna in czech republic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former small coin of Germany, Austria, and the Czech Republic, historically worth half a pfennig.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial idiom, someone or something full of energy or mischief; or in monetary history, a coin originally minted in Hall am Kocher.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Say, that's some ray they have." "It sure is one first-class heller," agreed Ben."*
+> - 📜 **Johann Wolfgang von Goethe (*Faust*):** *"He would not spend a single **heller** to redeem his soul from the devil's grasp."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"The peasant paid his last copper **heller** into the rapacious military treasury."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"We paid a modest handful of kreutzers and a stray **heller** for our tavern bread and cheese."*

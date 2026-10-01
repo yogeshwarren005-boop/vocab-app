@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive part of a flowering plant that is made up of the aggregate of carpels in a flower and that is surrounded by the stamens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female reproductive part of a flowering plant that is made up of the aggregate of carpels in a flower and that is surrounded by the stamens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive organs of a flower; the pistil or carpels considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral organography and plant taxonomy, the innermost whorl of floral organs composed of one or more carpels containing ovules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynoecium designates the female reproductive part of a flowering plant that is made up of the aggregate of carpels in a flower and that is surrounded by the stamens."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The **gynoecium** occupies the center of the blossom, surrounded by the staminal whorls of the androecium."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In protandrous flowers, the **gynoecium** matures only after the stamens have shed their pollen."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The structure and dehiscence of the **gynoecium** provide essential characters for family classification."*

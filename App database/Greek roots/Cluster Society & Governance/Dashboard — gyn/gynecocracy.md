@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Political supremacy of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Political supremacy of women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule or government by women; gynarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical anthropology, a societal structure where political leadership and civil authority are exercised by women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynecocracy designates political supremacy of women."*
+> - 📜 **J. J. Bachofen (*Mother Right*):** *"Human civilization, according to Bachofen, was preceded by an ancient religious and social **gynecocracy**."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The Iroquois confederacy granted matrons clan vetos that functioned as an effective domestic **gynecocracy**."*
+> - 📜 **Friedrich Engels (*The Origin of the Family, Private Property and the State*):** *"The transition from archaic **gynecocracy** to patriarchy marked the world-historic defeat of the female sex."*

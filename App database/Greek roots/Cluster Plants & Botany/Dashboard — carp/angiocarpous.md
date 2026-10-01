@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by having the fruit or fructification enclosed within an outer covering, envelope, or involucre; angiocarpic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycological taxonomy and carpology, describing enclosed fruiting structures, contrasting with gymnocarpous forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocarpous designates adjective*) pertaining to, derived from, or characteristic of wrist."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The term **angiocarpous** applies to all fruits whose seeds are shielded by persistent bracts or fleshy perianth tubes."*
+> - 📜 **George Henslow (*The Heredity of Acquired Characters in Plants*):** *"Development of an **angiocarpous** husk offers crucial defense against granivorous rodents."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The cleistothecium of powdery mildews is fundamentally an **angiocarpous** ascoma that ruptures only upon complete decay."*

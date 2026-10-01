@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek andr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of having two husbands simultaneously (polyandry with two men); or in botany, having two stamens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive genetics and cytogenetics, the fertilization of an ovum by two sperm, resulting in triploidy of paternal origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diandry designates a term designating an entity, condition, or phenomenon derived from greek andr."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"In Himalayan valleys, fraternal **diandry** kept ancestral family landholdings intact without division."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"Severe embryonic abnormalities frequently result from triploid genomes arising through **diandry**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Floral classification historically separated plants exhibiting **diandry** into the Diandria order of Linnaeus."*

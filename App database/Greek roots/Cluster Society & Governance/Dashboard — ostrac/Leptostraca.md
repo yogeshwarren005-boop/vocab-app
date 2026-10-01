@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ostrac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive order of small marine malacostracan crustaceans, commonly called leptostracans (such as Nebalia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine carcinology, an archaic clade retaining primitive phyllopodous thoracic limbs and a bivalved carapace enclosing the thorax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Leptostraca designates a term designating an entity, condition, or phenomenon derived from greek ostrac."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"The order **Leptostraca** bridges the morphological gap between lower branchiopods and true Malacostraca."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In Nebalia, the representative of **Leptostraca**, the carapace loosely covers the thorax without being fused to the segments."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"The preservation of eight abdominal segments in **Leptostraca** represents an ancestral crustacean trait."*

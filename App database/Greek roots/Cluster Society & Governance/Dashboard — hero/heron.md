@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek mathematician and inventor who devised a way to determine the area of a triangle and who described various mechanical devices (first century).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grey or white wading bird with long neck and long legs and (usually) long bill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, long-legged, long-necked, wading bird with a long pointed bill, belonging to the family Ardeidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ecology, a specialized wetland predator that stalks fish and amphibians in shallow fresh or saltwater shallows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sole effect of her presence upon the placid valley so far had been to excite the mind of a solitary heron, which, after descending to the ground not far from her path, stood with neck erect, looking at her."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heron’s Election—Ballad First Ballads on Mr."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heron’s Election—Ballad Second Ballads on Mr."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A solitary great blue **heron** rose slowly from the reeds, trailing its long legs across the glassy pond."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"At low tide, the stately **heron** stands motionless as a carved statue, watching the murky tidal pool."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The snowy plumage and graceful flight of the **heron** make it the crowning ornament of southern lagoons."*

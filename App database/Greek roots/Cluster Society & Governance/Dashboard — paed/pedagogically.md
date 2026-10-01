@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a didactic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a didactic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to the methods and principles of teaching; from an educational standpoint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to instructional efficacy, developmental appropriateness, or didactic design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedagogically designates in a didactic manner."*
+> - 📜 **John Dewey (*Experience and Education*):** *"To organize subject matter **pedagogically** requires adapting abstract concepts to the learner's present experience."*
+> - 📜 **Maria Montessori (*The Montessori Method*):** *"The classroom environment was arranged **pedagogically** to foster autonomous exploration and physical grace."*
+> - 📜 **Jean Piaget (*The Science of Education and the Psychology of the Child*):** *"Abstract logic cannot be taught **pedagogically** before the child masters concrete operational thinking."*

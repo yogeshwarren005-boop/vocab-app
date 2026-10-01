@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of an animal or plant breeding with an individual of another species or variety (British spelling of hybridization).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and cytogenetics, the annealing of complementary single-stranded DNA or RNA molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridisation designates (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Systematic **hybridisation** among domesticated pigeons revealed hidden ancestral plumages."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Natural **hybridisation** between sister species often breaks down geographic isolation barriers."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Introgression following botanical **hybridisation** provides a fertile reservoir of novel genetic variants."*

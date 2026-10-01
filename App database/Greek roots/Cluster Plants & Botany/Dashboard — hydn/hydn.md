@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hydn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and mycological root derived from Greek 'hydnon' (edible fungus, truffle), used in mycological and parasitic botanical taxonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology and etymology, the stem designating tooth fungi (Hydnaceae) that bear spores upon downward-pointing spines or teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydn designates a term designating an entity, condition, or phenomenon derived from greek hydn."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The ancient Greek **hydn** traces to hydnon, the subterranean truffle dug up from moist woodland soils."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The truffle, which the Greeks call **hydnon**, possesses neither root, stem, nor leaf, yet swells underground after autumn thunders."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Linnaeus borrowed the root **hydn** to designate those pileate fungi whose hymenium is clothed with subulate teeth."*

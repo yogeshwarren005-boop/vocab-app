@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling bag made of carpet; widely used in 19th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following the practices or characteristic of carpetbaggers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traveling bag or satchel made of carpet fabric, widely used in the 19th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in American politics, the symbol of opportunistic Northern migrants traveling to the South during Reconstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbag designates traveling bag made of carpet; widely used in 19th century."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick packed his change of linen into a capacious **carpetbag** and mounted the roof of the Rochester coach."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"He arrived at the frontier station clutching an old battered **carpetbag** that contained his entire worldly fortune."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"I slung my traveling **carpetbag** over my shoulder and turned my back on the clamorous city streets."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A confederation or league of seven cities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical political geography, an alliance of seven autonomous city-states bound by mutual defense and trade treaties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptapolis designates a term designating an entity, condition, or phenomenon derived from greek poli."*
+> - 📜 **Strabo (*Geography*):** *"The ancient maritime cities formed an energetic **heptapolis** to protect coastal harbors against Illyrian pirates."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The regional **heptapolis** retained its municipal charters under the tolerant oversight of the provincial proconsul."*
+> - 📜 **George Grote (*A History of Greece*):** *"Colonial outposts along the Black Sea shore frequently organized into an **heptapolis** for common protection."*

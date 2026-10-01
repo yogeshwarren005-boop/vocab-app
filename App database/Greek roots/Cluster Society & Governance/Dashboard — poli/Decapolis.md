@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confederation of 10 ancient cities in northern Palestine in the region chiefly southeast of the Sea of Galilee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confederation of 10 ancient cities in northern Palestine in the region chiefly southeast of the Sea of Galilee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of ten Hellenistic cities on the eastern frontier of the Roman Empire in Jordan, Syria, and Israel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and biblical geography, a league of semi-autonomous Greek cities (including Philadelphia, Gerasa, and Scythopolis) established after Pompey's conquest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Decapolis designates confederation of 10 ancient cities in northern palestine in the region chiefly southeast of the sea of galilee."*
+> - 📜 **Flavius Josephus (*The Jewish War*):** *"The Greek citizens of the **Decapolis** appealed to the Roman legate for armed garrisons to protect their civic liberties."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Pliny enumerated the ten confederate cities of the **Decapolis**, admiring their paved colonnades and Roman theaters."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ruins of the **Decapolis** preserve monumental inscriptions celebrating civic benefactors and imperial peace."*

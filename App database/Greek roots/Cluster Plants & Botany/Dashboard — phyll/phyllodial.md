@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a phyllode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a phyllode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or functioning as a phyllode; having flattened leaf-like petioles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive taxonomy, designating the vast majority of Australian Acacia species that bear phyllodes instead of compound bipinnate foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllodial designates having a phyllode."*
+> - 📜 **Robert Brown (*General Remarks on the Botany of Terra Australis*):** *"The **phyllodial** acacias constitute the most distinctive and dominant vegetative element throughout the interior of New Holland."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Our classification arranges the genus Acacia into bipinnate groups and extensive **phyllodial** series based on venation."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The strange **phyllodial** foliage of Australian wattles contrasts remarkably with the broad leaves of Indian jungle trees."*

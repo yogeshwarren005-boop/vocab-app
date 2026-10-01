@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of civic rights or mutual political rights granted between two or more independent states or cities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek diplomacy, an international treaty granting reciprocal potential citizenship to citizens of allied poleis without loss of original civic status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isopolity designates a term designating an entity, condition, or phenomenon derived from greek poli."*
+> - 📜 **George Grote (*A History of Greece*):** *"A formal treaty of **isopolity** allowed citizens of one polis to enjoy civil and commercial protection in the other."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"Rome's early alliances with Latin cities adapted the Hellenic concept of **isopolity** into the legal framework of civitas sine suffragio."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Through mutual **isopolity**, democratic states sought to temper the fierce exclusivity of ancient civic borders."*

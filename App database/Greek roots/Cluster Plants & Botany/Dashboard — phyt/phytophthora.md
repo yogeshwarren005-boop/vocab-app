@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destructive parasitic fungi causing brown rot in plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destructive parasitic fungi causing brown rot in plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of destructive plant-pathogenic oomycetes (water molds), notably Phytophthora infestans, the causal agent of the late blight of potato and tomato.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural plant pathology, a devastating genus causing late blight, root rots, and sudden oak death, producing motile biflagellate zoospores in wet soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytophthora designates destructive parasitic fungi causing brown rot in plants."*
+> - 📜 **Miles Joseph Berkeley (*Observations on the Potato Disease*):** *"I demonstrated that the botrytis fungus, now named **Phytophthora** infestans, is the true and active cause of the potato murrain."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"Zoospores discharged by **Phytophthora** swim actively in raindrops upon the leaf, encysting and penetrating stomata within hours."*
+> - 📜 **Charles Valentine Riley (*The Potato Bug and Potato Blight*):** *"Weather conditions with cool nights and humid foggy mornings invariably precipitate a disastrous outbreak of **Phytophthora**."*

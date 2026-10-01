@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dominated by or emphasizing masculine interests or a masculine point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dominated by or emphasizing masculine interests or a masculine point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Centered on or emphasizing masculine interests, perspectives, or dominant male figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology, feminist theory, and cultural anthropology, denoting cognitive paradigms that take male experience as the universal norm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androcentric designates dominated by or emphasizing masculine interests or a masculine point of view."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Humanity is male, and man defines woman not in herself but as relative to him in an **androcentric** world."*
+> - 📜 **Charlotte Perkins Gilman (*The Man-Made World: Or, Our Androcentric Culture*):** *"Our entire culture has suffered from being overwhelmingly **androcentric**, viewing all life through masculine biases."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The history books on the shelves were written from an unapologetically **androcentric** viewpoint."*

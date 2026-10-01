@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tooth fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tooth fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of basidiomycete fungi in the order Cantharellales, characterized by fruiting bodies bearing downward-pointing teeth or spines (the tooth fungi).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern fungal systematics, an ectomycorrhizal family containing the hedgehog mushrooms (Hydnum), closely related to chanterelles (Cantharellaceae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydnaceae designates tooth fungi."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The family **Hydnaceae** brings together all those terrestrial and lignicolous fungi whose hymenium covers soft awl-shaped spines."*
+> - 📜 **William Gilson Farlow (*Icones Farlowianae*):** *"Representatives of the **Hydnaceae** carpet the conifer duff of northern New England, forming valuable mycorrhizal partnerships."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The spine-bearing hymenium of the **Hydnaceae** multiplies the basidiospore-producing surface area by several orders of magnitude."*

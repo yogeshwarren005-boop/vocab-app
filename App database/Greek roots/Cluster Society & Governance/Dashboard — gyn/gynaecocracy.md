@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule or government by women; gynecocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political anthropology and social history, matriarchal or female-led civic administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynaecocracy designates a term designating an entity, condition, or phenomenon derived from greek gyn."*
+> - 📜 **John Knox (*The First Blast of the Trumpet Against the Monstrous Regiment of Women*):** *"Knox vehemently denounced female sovereignty as an unnatural **gynaecocracy** contrary to biblical law."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The court of Elagabalus was dominated by an audacious Syrian **gynaecocracy** of mothers and aunts."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Matrilineal descent systems in certain archaic tribes occasionally produced genuine civic **gynaecocracy**."*

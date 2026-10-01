@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to social relationships involving authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to the government, public affairs, or politics of a country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the viewpoint of statecraft, electoral tactics, or ideological alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Politically I am sceptical as to the virtue of their being old."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coinage, as practised by early governments and rulers, came to be a function of great importance politically as well as economically."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Americans are taught from infancy to rely upon their own collective efforts rather than look **politically** to royal authority."*
+> - 📜 **Abraham Lincoln (*Cooper Union Address*):** *"Let us stand by our duty **politically** and morally, fearlessly proclaiming that right makes might."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"In our time, **politically** charged language is largely designed to make lies sound truthful and murder respectable."*

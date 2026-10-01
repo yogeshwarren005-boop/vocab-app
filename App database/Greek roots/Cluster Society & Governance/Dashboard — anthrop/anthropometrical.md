@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anthropometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to anthropometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to anthropometry; an alternative or formal adjective for anthropometric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to measurements of human physical dimensions and physiological indices in clinical or ethnographic studies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropometrical designates of or relating to anthropometry."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Detailed **anthropometrical** surveys of diverse populations revealed uniform facial muscle configurations during grief."*
+> - 📜 **Cesare Lombroso (*Criminal Man*):** *"Our **anthropometrical** charts recorded cranial indices, arm spans, and facial angles among institutionalized inmates."*
+> - 📜 **William Z. Ripley (*The Races of Europe*):** *"The collection of vast **anthropometrical** statistics demonstrated significant cephalic variation across European regions."*

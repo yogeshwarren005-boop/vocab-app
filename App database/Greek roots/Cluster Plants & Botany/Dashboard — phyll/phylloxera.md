@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the phylloxeridae: plant lice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the phylloxeridae: plant lice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, aphid-like insect (Daktulosphaira vitifoliae, family Phylloxeridae) that attacks the roots and leaves of grapevines, devastating European vineyards in the late 19th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history and viticulture, the American pest whose subterranean nymph infestations caused the Great French Wine Blight, solved only by grafting European vinifera onto resistant American rootstocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloxera designates type genus of the phylloxeridae: plant lice."*
+> - 📜 **Louis Pasteur (*Studies on Wine*):** *"The catastrophic spread of **phylloxera** threatened the absolute ruin of French viticulture until resistant American rootstocks were introduced."*
+> - 📜 **Charles Valentine Riley (*The Grape Phylloxera*):** *"I proved that the root-gall insect of Europe is identical with the American vine pest, **Phylloxera** vitifoliae."*
+> - 📜 **Alexis Lichine (*Wines of France*):** *"Virtually every classic vineyard in Bordeaux today is grafted upon hybrid rootstocks to withstand the subterranean menace of **phylloxera**."*

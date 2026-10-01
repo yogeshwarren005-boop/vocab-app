@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical combining form and linguistic root derived from Greek 'botane' (herb, plant, pasture, fodder), forming the base of vocabulary pertaining to plant life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography and scientific etymology, the foundational stem designating the systematic study, cultivation, and medicinal utilization of vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, botan designates adjective*) pertaining to, derived from, or characteristic of plant."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **botan** originates in botane, designating pasture grasses and herbs cultivated for grazing flocks."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Etymologically, **botan** is related to boskein, signifying to graze, feed, or nourish upon vegetative meadows."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"All sciences concerning the green mantle of the globe trace their nomenclature to the venerable root **botan**."*

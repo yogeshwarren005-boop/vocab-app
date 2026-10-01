@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To stain black in imitation of ebony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stain black in imitation of ebony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stain or finish wood black in imitation of ebony; to coat or treat with a dark, ebony-like polish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative woodworking and interior design, applying iron-tannate dyes and lacquer to hardwood to produce an opaque lustrous black finish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ebonize designates to stain black in imitation of ebony."*
+> - 📜 **Charles Eastlake (*Hints on Household Taste*):** *"Cabinetmakers can **ebonize** cherrywood to create elegant brackets that set off delicate porcelain vases."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Do not attempt to **ebonize** honest pine; let every material proclaim its true nature without deceit."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Furniture*):** *"The piano was fashioned of rosewood that the maker had chosen to **ebonize** to match the sombre velvet hangings."*

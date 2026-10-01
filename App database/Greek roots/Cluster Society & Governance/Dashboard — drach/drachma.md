@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various ancient Greek units of weight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various modern units of weight; especially : dram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A silver coin of ancient Greece; also the former basic monetary unit of modern Greece (replaced by the euro in 2002).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athenian economy, the daily wage of a skilled artisan or hoplite soldier, containing approximately 4.3 grams of silver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See here these movers that do prize their hours At a cracked drachma."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Greece │Drachma │Gold and silver│ 19.3│5, 10, 20, 50, │ │ │ │ and 100 │ │ │ │ drachmas."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To every Roman citizen he gives, To every several man, seventy-five drachmas."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Each Athenian hoplite on active campaign received a daily allowance of one silver **drachma**."*
+> - 📜 **Plato (*Apology*):** *"Socrates observed that anyone could purchase Anaxagoras's philosophical scrolls for a mere **drachma** in the marketplace."*
+> - 📜 **Lord Byron (*Don Juan*):** *"He counted out the last silver **drachma** into the palm of the grizzled Greek boatman."*

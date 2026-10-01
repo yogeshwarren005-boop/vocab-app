@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with plant life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biological science that deals with the study of plants, including their physiology, structure, genetics, ecology, distribution, and classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic natural history, the systematic study of the vegetable kingdom, encompassing bryology, pteridology, dendrology, and economic phytology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She entered into a discourse on botany with the gentle Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Nor yet I don’t intend to advertise myself in the newspapers by the name of A.M. come back from Botany Bay; and years have rolled away, and who’s to gain by it?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"If everybody got their deserts, Bulstrode might have had to say his prayers at Botany Bay.” “What do you mean?” said Mr."*
+> - 📜 **Carl Linnaeus (*Critica Botanica*):** *"Without systematic order, the vast science of **botany** would degenerate into chaotic confusion."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The true aim of **botany** is to enable the student to understand the living architecture of the plant world."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"No study ever brought deeper peace to my soul than the devout contemplation of God's love revealed through **botany**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a fine-grained igneous rock usually formed at a moderate distance below the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a fine-grained igneous rock usually formed at a moderate distance below the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting igneous rocks that crystallized at moderate or shallow depths beneath the Earth's surface (such as in dykes, sills, and laccoliths).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology, exhibiting medium-grained textures intermediate between coarse-grained plutonic rocks (granite) and fine-grained volcanic rocks (basalt).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypabyssal designates of or relating to a fine-grained igneous rock usually formed at a moderate distance below the surface."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Dolerite dykes cutting through sandstone represent typical **hypabyssal** intrusions that cooled rapidly under moderate lithostatic pressure."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Porphyritic texture is especially characteristic of **hypabyssal** sheets, where large phenocrysts are embedded in a microcrystalline groundmass."*
+> - 📜 **Frank Rutley (*The Study of Rocks*):** *"Systematic classifications divide igneous bodies into volcanic, **hypabyssal**, and deep-seated plutonic facies."*

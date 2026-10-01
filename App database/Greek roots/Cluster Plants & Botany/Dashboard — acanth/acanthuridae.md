@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgeonfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgeonfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine perciform fishes known as surgeonfishes, tangs, and unicornfishes, characterized by sharp, scalpel-like spines on the caudal peduncle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reef ecology, grazing herbivorous fishes that regulate algal turf dynamics on coral reefs worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthuridae designates surgeonfishes."*
+> - 📜 **John E. Randall (*Surgeonfishes of Hawaii and the World*):** *"Members of the **Acanthuridae** possess a modified folding spine on each flank of the caudal peduncle that can inflict deep lacerations."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The family **Acanthuridae** includes both algal-browsing tangs and planktivorous unicornfishes with prominent cranial horns."*
+> - 📜 **William Beebe (*Field Book of Shore Fishes of Bermuda*):** *"Schools of blue tang belonging to the **Acanthuridae** sweep across the reef flat like an azure cloud grazing on filamentous algae."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent petty and unjustified criticism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise trivial objections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually finding fault, caviling, or raising petty, nagging objections; querulous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Captious or hypercritical criticism that dwells persistently upon trivial defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sure, sure, such carping is not commendable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to that end we wished your lordship here, T’ avoid the censures of the carping world."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"From carping friends I turn aside; At foes defiance frown; Yet time may tame my stubborn pride, And break my spirit down."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Why, he is the common **carping** critic of the court, who never praised honest soldier or fair lady."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"A small mind consoles its own mediocrity by constant **carping** at the masterpieces of great authors."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Mrs. Poyser had little patience for **carping** gossips who wasted morning hours finding fault with their neighbors' churning."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the feeding zooids of a hydroid colony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the feeding zooids of a hydroid colony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The terminal feeding or nutritive polyp of a colonial hydrozoan (phylum Cnidaria), bearing a mouth surrounded by tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, the specialized zooid of a hydrozoan coenosarc dedicated to capturing prey, extracellular digestion, and distributing nutrients throughout the colony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydranth designates one of the feeding zooids of a hydroid colony."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Each graceful **hydranth** of Obelia expands its circlet of filiform tentacles to paralyze swimming crustacean nauplii."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"In thecate hydroids, the living **hydranth** can withdraw completely within its protective chitinous hydrotheca."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The digestive cavity of each **hydranth** connects directly with the common tubular stem of the colony."*

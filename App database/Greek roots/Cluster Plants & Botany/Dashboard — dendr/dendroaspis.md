@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mambas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mambas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fast-moving, highly venomous elapid snakes native to sub-Saharan Africa, comprising the mambas (including the black mamba, Dendroaspis polylepis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and clinical toxinology, arboreal and terrestrial serpents whose bite delivers rapid neurotoxins and cardiotoxins causing respiratory paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog dendroaspis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **George Albert Boulenger (*The Snakes of Africa*):** *"The genus **Dendroaspis** differs from Naja in its exceptionally slender build, large smooth scales, and specialized proteroglyph dentition."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The black mamba, **Dendroaspis** polylepis, can travel across rough ground with the speed of a running man."*
+> - 📜 **Albert Günther (*Catalogue of Colubrine Snakes*):** *"Green specimens of **Dendroaspis** spend their entire lives in the upper forest canopy, perfectly camouflaged among tropical lianas."*

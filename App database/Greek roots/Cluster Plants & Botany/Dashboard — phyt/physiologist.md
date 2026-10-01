@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist specializing in physiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist specializing in physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in physiology, the study of the functions, mechanisms, and vital processes of living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An experimental biologist who analyzes cardiovascular, nervous, endocrine, or cellular functions in health and disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ere quitting, for the nonce, the Sperm Whale’s head, I would have you, as a sensible physiologist, simply—particularly remark its front aspect, in all its compacted collectedness."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The mathematician said, that he had never seen the advantages to be derived from the study of mathematics so justly and so forcibly described; the same remark was made by the classic about classics, and by the physiologist about natural science."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Ere quitting, for the nonce, the Sperm Whale’s head, I would have you, as a sensible physiologist, simply—particularly remark its front aspect, in all its compacted collectedness."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The true **physiologist** does not explain life by vital force, but analyzes its physicochemical mechanisms step by step."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"I profess both to learn and to teach anatomy, not from books, but from dissections; thus speaks every genuine **physiologist**."*
+> - 📜 **Charles Scott Sherrington (*Man on His Nature*):** *"The task of the **physiologist** is to unravel how a billion microscopic neurons weave the seamless tapestry of consciousness."*

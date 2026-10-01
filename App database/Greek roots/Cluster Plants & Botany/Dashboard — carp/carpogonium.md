@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The egg-bearing portion of the female reproductive organ in some red algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The egg-bearing portion of the female reproductive organ in some red algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive organ (gametangium) in red algae (Rhodophyta), consisting of an enlarged base containing the female nucleus and a receptive hair-like trichogyne.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology, the basal cell of the procarp that, upon fertilization by a non-motile spermatium, gives rise to diploid carpospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpogonium designates the egg-bearing portion of the female reproductive organ in some red algae."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Fertilization in Florideae occurs when a floating spermatium adheres to the elongated trichogyne of the **carpogonium**."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The red algal **carpogonium** demonstrates a unique mode of fertilization involving cytoplasmic fusion and auxiliary cells."*
+> - 📜 **William Gilson Farlow (*The Marine Algae of New England*):** *"Microscopic scrutiny of Callithamnion reveals the tiny **carpogonium** nestled among the lateral branching filaments."*

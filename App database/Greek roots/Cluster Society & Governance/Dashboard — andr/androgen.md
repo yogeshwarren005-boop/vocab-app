@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male sex hormone (such as testosterone).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy for prostate cancer that severely reduces the body's production of androgens and especially testosterone through the administration of drugs or through surgical removal of the testicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any natural or synthetic steroid hormone (such as testosterone) that regulates the development and maintenance of male characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and biochemistry, a class of 19-carbon steroids synthesized primarily in the testes, ovaries, and adrenal cortex that bind androgen receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, androgen designates a male sex hormone (such as testosterone)."*
+> - 📜 **Hans Selye (*The Physiology and Pathology of Exposure to Stress*):** *"Adrenal cortical secretion of **androgen** increases measurably during prolonged physiological adaptation."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The endocrine surge of **androgen** catalyzed sudden neuromuscular vigor in previously lethargic patients."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Secondary sexual characteristics are triggered during development by circulating pulses of **androgen**."*

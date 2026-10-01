@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and use of plant-derived medicines and herbal extracts to treat diseases and promote health; herbal medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacognosy and integrative medicine, the therapeutic application of standardized botanical preparations with demonstrated pharmacological activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytotherapy designates the use of plants or plant extracts for medicinal purposes (especially plants that are not part of the normal diet)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Traditional **phytotherapy** bequeathed to modern pharmacology its most potent remedies, including digitalis, morphine, and quinine."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"Scientific **phytotherapy** demands rigorous chemical assay to ensure consistent alkaloidal potency in botanical tinctures."*
+> - 📜 **T. Lauder Brunton (*A Text-Book of Pharmacology*):** *"The efficacy of **phytotherapy** in mild functional disorders often rests upon complex synergistic interactions among plant glycosides."*

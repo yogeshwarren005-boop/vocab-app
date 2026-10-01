@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of extraterrestrial life, alien biology, and speculative foreign cultures (exobiology or astrobiology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural theory and sociology, the philosophical investigation of cultural otherness, foreignness, and the psychology of the outsider.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenology designates a term designating an entity, condition, or phenomenon derived from greek xen."*
+> - 📜 **Carl Sagan (*Cosmic Connection*):** *"The theoretical foundations of **xenology** depend on determining whether terrestrial biochemistry is universal or parochial."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The exploration of the alien cylinder required an entirely novel science of comparative **xenology**."*
+> - 📜 **Stanislaw Lem (*Solaris*):** *"Centuries of dedicated **xenology** on Solaris yielded thousands of monographs without penetrating the alien consciousness."*

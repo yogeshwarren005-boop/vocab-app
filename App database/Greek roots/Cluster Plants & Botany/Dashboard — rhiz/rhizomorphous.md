@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of root.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of root.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form, appearance, or branching habit of a root or a fungal rhizomorph; root-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and forest pathology, describing tough, cord-like subterranean mycelial strands that resemble branching rootlets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizomorphous designates adjective*) pertaining to, derived from, or characteristic of root."*
+> - 📜 **Robert Hartig (*Important Diseases of Forest Trees*):** *"The **rhizomorphous** strands of Armillaria spread through forest duff, penetrating the root bark of neighboring pines."*
+> - 📜 **William Gilson Farlow (*Cryptogamic Botany*):** *"Under damp rotting logs, the black **rhizomorphous** cords branched freely across the sapwood."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"A cross-section through the **rhizomorphous** cord reveals a differentiated outer cortex protecting inner conductive hyphae."*

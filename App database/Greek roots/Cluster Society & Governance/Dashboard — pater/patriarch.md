@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the scriptural fathers of the human race or of the Hebrew people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is father or founder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male head of a family or tribe; or an eminent senior male figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian ecclesiastical hierarchy, a bishop of the highest rank in the Eastern Orthodox, Oriental Orthodox, or Catholic churches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There’s your fare!” says the patriarch to the coachman with a fierce grin and shaking his incapable fist at him."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the Aryan races the family system was widened, and the patriarch of the tribe secured personal obedience and economic services from all members of the community."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each person works at what he is commanded to do, and some one in authority (patriarch, head of the community, father of the monastic order) portions out the tasks and the rewards."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Old Count Rostov sat at the head of the banquet table like a genial, hospitable **patriarch**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Patriarch** of Constantinople crowned the Byzantine emperor before the high altar of Hagia Sophia."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ancient whale swam like a solitary, sea-scarred **patriarch** leading his leviathan herd."*

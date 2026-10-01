@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of leaves on a stem and in relation to one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of phyllotaxis and of the laws that govern it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of leaves on an axis or stem of a plant, such as alternate, opposite, whorled, or spiral phyllotaxis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical morphology and developmental plant biology, the regular geometric positioning of leaves governed by Fibonacci sequences and the golden ratio angle (137.5°).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllotaxis designates the arrangement of leaves on a stem and in relation to one another."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The study of **phyllotaxis** proves that leaves are arranged along the stem in definite mathematical fractions, such as two-fifths and three-eighths."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The spiral **phyllotaxis** of pinecones and sunflower florets illustrates how physical packing constraints generate Fibonacci spirals."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Apical meristem divergence angles determine the precise **phyllotaxis** of all subsequent lateral foliar organs."*

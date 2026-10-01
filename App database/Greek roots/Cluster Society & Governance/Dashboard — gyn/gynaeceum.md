@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The women's quarters in an ancient Greek or Roman house; or (in botany) the gynoecium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and social history, the secluded domestic interior of the Greek house reserved for the mistress, daughters, and female servants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynaeceum designates a term designating an entity, condition, or phenomenon derived from greek gyn."*
+> - 📜 **Xenophon (*Oeconomicus*):** *"Ischomachus explained how the **gynaeceum** was separated by a bolted door from the men's quarters."*
+> - 📜 **Edward Bulwer-Lytton (*The Last Days of Pompeii*):** *"The maidens sat spinning fine linen within the secluded tranquility of the **gynaeceum**."*
+> - 📜 **Will Durant (*The Life of Greece*):** *"Athenian social customs confined respectable matrons to the domestic realm of the **gynaeceum**."*

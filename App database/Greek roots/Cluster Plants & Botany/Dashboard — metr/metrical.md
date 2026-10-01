@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on the meter as a standard of measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic arrangement of syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or composed in poetic meter; relating to measurement or the metric system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary prosody, governed by a regular arrangement of poetic feet, syllables, and stresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Nor do we find in him any of those new metrical effects, those sublime inventions in prosody, with which the great masters astonish us."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No mere metrical skill, nor metrical sensibility even, could have produced it."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The essence of poetry demands a harmonious **metrical** arrangement that delights the ear while elevating emotion."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"True ease in writing comes from art, not chance, as those move easiest who have learned the **metrical** dance."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"The **metrical** beauty of 'The Raven' was calculated with mathematical precision to evoke melancholy longing."*

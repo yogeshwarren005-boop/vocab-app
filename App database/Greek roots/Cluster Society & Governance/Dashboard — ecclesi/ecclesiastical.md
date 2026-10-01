@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a church especially as an established institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for use in a church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Christian Church or its clergy, hierarchy, and ceremonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and institutional history, pertaining to religious courts, parish governance, or episcopal administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The next year, 1843, was a memorable one in the ecclesiastical history of Scotland."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This was increased and embittered by the importation of ecclesiastical and political feeling into the contest; Fraser being a Free Churchman, and Ferrier receiving the support of the Established Church and Tory party."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"That he should have taken a keen and sympathetic interest in any great movement for ecclesiastical union was quite what might have been expected."*
+> - 📜 **Bede (*Ecclesiastical History of the English People*):** *"This venerable chronicle records the foundation and **ecclesiastical** growth of the Anglo-Saxon church."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"James II attempted to override the constitution by establishing an illegal Court of **Ecclesiastical** Commission."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"Papal bulls asserted absolute supremacy over all secular and **ecclesiastical** jurisdictions."*

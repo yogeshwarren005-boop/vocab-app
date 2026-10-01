@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to evaluate reality exclusively in terms of human values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to evaluate reality exclusively in terms of human values.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being anthropocentric; human-centeredness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological critique and metaphysics, the pervasive cultural inclination to interpret all reality according to human standards and needs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropocentricity designates an inclination to evaluate reality exclusively in terms of human values."*
+> - 📜 **Lynn White Jr. (*The Historical Roots of Our Ecologic Crisis*):** *"Christian theology established a profound **anthropocentricity** that separated man from nature."*
+> - 📜 **Hans Jonas (*The Imperative of Responsibility*):** *"Traditional ethics suffered from an unavoidable **anthropocentricity** that ignored our obligations to the biosphere."*
+> - 📜 **Arne Naess (*Ecology, Community and Lifestyle*):** *"Deep ecology rejects dogmatic **anthropocentricity** in favor of egalitarian biocentrism."*

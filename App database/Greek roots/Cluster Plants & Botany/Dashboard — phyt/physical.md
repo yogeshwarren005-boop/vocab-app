@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to natural science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to physics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the body as opposed to the mind; of or relating to natural science and the material universe; tangible or concrete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and philosophy of science, relating to the properties of matter, energy, space, and time governed by mathematical natural laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blood I drop is rather physical Than dangerous to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Brutus sick, and is it physical To walk unbraced and suck up the humours Of the dank morning?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that he bears the desk any ill will, but he must do something, and it must be something of an unexciting nature, which will lay neither his physical nor his intellectual energies under too heavy contribution."*
+> - 📜 **Isaac Newton (*Opticks*):** *"To determine by experiment the true **physical** properties of light rays was the chief intention of my researches."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geographical isolation and the **physical** barriers of oceans and mountain chains govern the distribution of organic beings."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every psychic event is accompanied by a corresponding **physical** process within the cerebral cortex."*

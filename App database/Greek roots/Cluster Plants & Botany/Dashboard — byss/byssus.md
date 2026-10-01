@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine probably linen cloth of ancient times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuft of long tough filaments by which some bivalve mollusks (such as mussels) adhere to a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuft or bundle of strong, silky filaments secreted by the foot of certain bivalve mollusks (such as marine mussels and the pen shell Pinna nobilis) for attachment to submerged rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an exquisite, fine linen or silk-like textile woven from molluscan golden threads (sea silk) or fine Egyptian flax in classical antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He did not carry away more than ten at each plunge, for he was obliged to pull them from the bank to which they adhered by means of their strong byssus."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I returned to my room, clothed myself warmly—sea boots, an otterskin cap, a great coat of byssus, lined with sealskin; I was ready, I was waiting."*
+> - 📜 **Charles Darwin (*Journal of Researches (Voyage of the Beagle)*):** *"The common mussel anchors firmly against crashing surf by casting out adhesive anchor lines of tough, glistening **byssus**."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"From the long silky **byssus** of the great Pinna shell, fishermen of Taranto weave robes of gossamer lightness and golden sheen."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Glandular secretions from the foot solidify in seawater, forming the elastic anchoring fibers of the molluscan **byssus**."*

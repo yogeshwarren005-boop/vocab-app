@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek iren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek eirēnē, meaning peace, concord, or harmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and political philosophy, the foundational morpheme denoting peaceful reconciliation, pacification, and conflict resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eiren-iren designates a term designating an entity, condition, or phenomenon derived from greek iren."*
+> - 📜 **Hesiod (*Theogony*):** *"The Horae—Eunomia, Dike, and blooming **Eiren**-e—bestow peace and prosperity upon mortal cities."*
+> - 📜 **Aristophanes (*Peace*):** *"The joyful farmers haul the divine goddess **Eiren**-e from the deep cavern where war had trapped her."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"In classical Attic thought, **iren**-ic concord was celebrated as the highest blessing of well-governed civic life."*

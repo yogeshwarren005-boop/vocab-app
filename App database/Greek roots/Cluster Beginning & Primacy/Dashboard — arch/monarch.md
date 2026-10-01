@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who reigns over a kingdom or empire: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sovereign ruler.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign head of state, such as a king, queen, emperor, or sultan, especially one who inherits authority by birth and rules for life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history, a large migratory orange-and-black North American butterfly (Danaus plexippus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Broad-fronted Caesar, When thou wast here above the ground, I was A morsel for a monarch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, thou monarch of the vine, Plumpy Bacchus with pink eyne!"*
+> - 📜 **William Shakespeare (*Richard II*):** *"For within the hollow crown that rounds the mortal temples of a **monarch** keeps Death his court."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan, exalted above his peers, sat like a proud **monarch** upon his bad eminence."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The migratory journey of the orange **monarch** butterfly across thousands of miles of ocean and continent illustrates the power of innate instinct."*

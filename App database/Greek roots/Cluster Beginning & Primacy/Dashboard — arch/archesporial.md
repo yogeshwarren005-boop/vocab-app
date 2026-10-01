@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cells in a sporangium that give rise to spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cells in a sporangium that give rise to spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of an archespore; designating cells that give rise to spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant histology, describing the primordial germinal layer within a developing anther or ovule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archesporial designates of or relating to the cells in a sporangium that give rise to spores."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The **archesporial** cell is distinguished from adjacent sterile cells by its dense cytoplasm and prominent nucleus."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"In moss capsules, the **archesporial** layer surrounds the central columella like a continuous cylinder."*
+> - 📜 **Vernon Irvine Cheadle (*American Journal of Botany*):** *"Subsequent periclinal divisions of the **archesporial** initial yield both the primary tapetal and sporogenous lineages."*

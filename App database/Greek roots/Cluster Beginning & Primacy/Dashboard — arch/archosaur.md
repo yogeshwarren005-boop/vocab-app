@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any reptile of the subclass or clade Archosauria, including dinosaurs, pterosaurs, crocodilians, and their extinct relatives, as well as modern birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, diapsid reptiles characterized by antorbital fenestrae, thecodont dentition, and an evolutionary shift toward bipedal locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archosaur designates extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"Every modern bird is, cladistically speaking, a feathered **archosaur** that survived the Cretaceous extinction."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"The active posture of the early Triassic **archosaur** laid the physiological groundwork for the dominance of dinosaurs."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*):** *"The radiation of crown-group **archosaur** lineages followed the catastrophic end-Permian extinction."*

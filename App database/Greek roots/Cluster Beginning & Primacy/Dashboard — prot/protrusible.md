@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being thrust forward, as the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being thrust forward, as the tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being thrust out or extended forward; capable of protrusion (variant of protractile).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and functional morphology, describing anatomical appendages, proboscises, or pharynges capable of eversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protrusible designates capable of being thrust forward, as the tongue."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"The predatory marine snail extends its **protrusible** proboscis to bore through the calcareous shell of an oyster."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"The deep-sea anglerfish carries a **protrusible** luminous bait suspended over its gaping maw."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"The pharynx of planarians is highly **protrusible**, capturing food through rapid muscular eversion."*

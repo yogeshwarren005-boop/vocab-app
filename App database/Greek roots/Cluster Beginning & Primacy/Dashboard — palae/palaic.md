@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatolian language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatolian language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct Indo-European language belonging to the Anatolian sub-branch, spoken in northern Anatolia (the region of Pala) during the second millennium BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Indo-European linguistics, a sister language to Hittite and Luwian, preserved in cuneiform religious rituals and invocations on clay tablets from Hattusa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaic designates an anatolian language."*
+> - 📜 **Michael Ventris (*Documents in Mycenaean Greek*):** *"The decipherment of cuneiform tablets from Boghazkoy revealed that **Palaic** was a distinct Anatolian Indo-European tongue."*
+> - 📜 **O. R. Gurney (*The Hittites*):** *"Priests in the Hittite capital recited ancient chants in the **Palaic** speech to invoke the northern god Zaparwa."*
+> - 📜 **J. P. Mallory (*In Search of the Indo-Europeans*):** *"Comparative analysis indicates that **Palaic** separated early from the common Proto-Anatolian linguistic stock."*

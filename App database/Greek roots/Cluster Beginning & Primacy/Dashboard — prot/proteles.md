@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aardwolf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aardwolf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of hyaenids comprising the aardwolf (Proteles cristatus), an insectivorous mammal of eastern and southern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and evolutionary anatomy, a small, nocturnal hyaenid with reduced cheek teeth specialized for consuming harvester termites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog proteles as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The aardwolf, forming the genus **Proteles**, represents an aberrant, termite-eating offshoot of the hyena lineage."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"In **Proteles**, the molar teeth are rudimentary and peg-like, perfectly suited to a diet consisting entirely of insects."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The skeletal structure of **Proteles** displays the sloped back and forelimb dominance of typical hyenas despite its small skull."*

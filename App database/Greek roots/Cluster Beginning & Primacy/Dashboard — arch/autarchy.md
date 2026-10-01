@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: autarky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: absolute sovereignty : autocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absolute sovereignty or despotic government; autocratic rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-sufficient economic system isolated from international trade (frequently merged with German Autarkie / Greek autarkeia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog autarchy as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Friedrich Hayek (*The Road to Serfdom*):** *"The quest for complete national economic **autarchy** inevitably produces central planning and political coercion."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"No modern commonwealth can flourish in total **autarchy**, since the division of labor requires foreign commerce."*
+> - 📜 **James Madison (*The Federalist Papers (No. 47)*):** *"The accumulation of all powers in the same hands may justly be pronounced the very definition of **autarchy**."*

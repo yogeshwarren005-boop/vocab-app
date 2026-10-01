@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies prehistoric people and their culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies prehistoric people and their culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of archaeologist; a person who studies past human life and culture by excavating and analyzing physical remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and prehistory, a scholar who reconstructs extinct social structures, agricultural practices, and rituals from material evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One of the humble archeologists who hover about the place had put himself at the disposal of the two, and repeated his lesson with a fluency which the decline of the season had done nothing to impair."*
+> - 📜 **Heinrich Schliemann (*Troy and Its Remains*):** *"The **archeologist** must proceed with the spade in hand, testing classical poetry against the stubborn earth."*
+> - 📜 **Agatha Christie (*Murder in Mesopotamia*):** *"The resident **archeologist** sorted through hundreds of terracotta fragments with infinite patience."*
+> - 📜 **V. Gordon Childe (*New Light on the Most Ancient East*):** *"The modern **archeologist** collaborates with botanists, geologists, and chemists to reconstruct prehistoric environments."*

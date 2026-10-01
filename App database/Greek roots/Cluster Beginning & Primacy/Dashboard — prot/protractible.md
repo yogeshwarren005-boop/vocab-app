@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be extended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be extended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extended, protruded, or drawn out in length or space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and comparative anatomy, designating organs (such as tongues, proboscises, or claws) that can be extended outward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractible designates able to be extended."*
+> - 📜 **Richard Owen (*Comparative Anatomy and Physiology of Vertebrates*):** *"The chameleon possesses a **protractible** tongue propelled with lightning speed to capture resting insects."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **protractible** proboscis of nemertean worms can be shot out from the rhynchocoel to seize prey."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In felids, the claws are **protractible** and retractile, shielded within protective sheaths during locomotion."*

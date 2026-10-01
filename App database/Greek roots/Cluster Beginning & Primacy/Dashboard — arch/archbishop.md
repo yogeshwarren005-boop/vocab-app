@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop of highest rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bishop of highest rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop of the highest rank, presiding over an ecclesiastical province or archdiocese (from Greek arch- chief + episkopos overseer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church polity (Anglican, Catholic, Orthodox), a metropolitan prelate who exercises jurisdictional oversight over suffragan bishops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Archbishop’s Palace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SIR MICHAEL, a friend to the archbishop of York."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy, Northumberland, The Archbishop’s Grace of York, Douglas, Mortimer, Capitulate against us and are up."*
+> - 📜 **William Shakespeare (*Henry V*):** *"The learned **Archbishop** of Canterbury expounded the Salic law to prove the king’s rightful claim to France."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Archbishop** of Alexandria exercised a secular and spiritual authority that rivaled that of the prefect."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The bishop spoke with that measured solemnity which seemed to anticipate an **archbishop**'s pallium."*

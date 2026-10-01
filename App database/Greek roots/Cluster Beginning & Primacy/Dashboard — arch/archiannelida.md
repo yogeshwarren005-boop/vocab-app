@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of annelida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of annelida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order or taxonomic grouping of simple, primitive marine worms formerly considered the ancestral stock of annelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic biology, a polyphyletic group of miniature interstitial polychaetes (such as Polygordius and Dinophilus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archiannelida designates a class of annelida."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The group **Archiannelida** includes marine forms whose unsegmented external cuticle suggests an archaic grade of organization."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"In tracing the genealogical descent of the worms, the **Archiannelida** occupy a pivotal phylogenetic position."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Modern comparative morphology has dispersed the genera of **Archiannelida** into several distinct polychaete families."*

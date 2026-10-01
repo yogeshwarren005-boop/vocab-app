@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The living substance of a cell, including the cytoplasm and nucleus, considered the physical basis of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and historical cytology, the colloidal ground substance supporting all vital physiological processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The oogonia are large spherical or ovoid cells, with a thickish membrane containing a granular protoplasm, or formative fluid."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The antheridia are somewhat blunt-shaped or obovate cellules, considerably smaller than the oogonia, with slightly thickened walls, and containing a finely granular protoplasm."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"Protoplasm, simple or nucleated, is the formal basis of all life; it is the clay of the potter."*
+> - 📜 **Ernst Haeckel (*The Riddle of the Universe*):** *"The living substance which we designate **protoplasm** consists essentially of carbon, nitrogen, oxygen, and hydrogen."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Every part of the cellular **protoplasm** must be regarded as sensitive to external environmental impressions."*

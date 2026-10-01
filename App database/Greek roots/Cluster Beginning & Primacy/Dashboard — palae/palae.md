@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek palae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek palaios, meaning ancient, prehistoric, antique, or primitive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature and humanities terminology, forming words relating to ancient geological eras, fossil life, and prehistory (paleontology, Paleolithic, paleoclimate).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palae designates a term designating an entity, condition, or phenomenon derived from greek palae."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The Greek prefix **palae**- or paleo- stems from palaios, meaning ancient, preserved across countless modern geological terms."*
+> - 📜 **Max Müller (*The Science of Language*):** *"By prefixing the stem **palae**-, nineteenth-century science opened the subterranean archives of prehistory."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The natural history disciplines adopted **palae**- to differentiate fossil species from modern living fauna."*

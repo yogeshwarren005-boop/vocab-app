@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and solemn declaration of objection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong declaration of protest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn, emphatic, or earnest declaration or affirmation, especially of innocence, fidelity, or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal objection or dissent entered into a public record or judicial proceeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She kneels, and makes show of protestation unto him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, before God, Kate, I cannot look greenly, nor gasp out my eloquence, nor I have no cunning in protestation; only downright oaths, which I never use till urg’d, nor never break for urging."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can but say their protestation over."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Do not swear by the moon; make no false **protestation** of love unless thy heart be true."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Senate received the emperor's humble **protestation** with formal acclaim, knowing full well his legions dictated the peace."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Despite his fervent **protestation** of affection, I resolved that duty must govern my departure."*

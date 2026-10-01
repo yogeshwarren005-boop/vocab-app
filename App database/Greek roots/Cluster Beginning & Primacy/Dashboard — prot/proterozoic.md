@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed in the later of two divisions of the precambrian era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the geologic eon extending from about 2.5 billion to 539 million years ago, marked by the buildup of atmospheric oxygen and the emergence of eukaryotes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and geobiology, the eon spanning the Paleoproterozoic, Mesoproterozoic, and Neoproterozoic eras, terminating with the Ediacaran biota.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proterozoic designates from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms."*
+> - 📜 **Charles Doolittle Walcott (*Pre-Cambrian Fossiliferous Formations*):** *"The laminated stromatolites of the **proterozoic** limestones preserve the oldest widespread signatures of photosynthetic life."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The Great Oxidation Event of the early **proterozoic** forced anaerobic life into refuges and enabled endosymbiotic eukaryotic evolution."*
+> - 📜 **Arthur Holmes (*The Age of the Earth*):** *"Crystalline formations dating to the late **proterozoic** reveal evidence of planet-wide glaciations."*

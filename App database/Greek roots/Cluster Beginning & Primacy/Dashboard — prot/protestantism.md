@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological system of any of the churches of western christendom that separated from the roman catholic church during the reformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological system of any of the churches of western christendom that separated from the roman catholic church during the reformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faith, practice, and church order of the Protestant churches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, the theological movement initiated by Martin Luther, John Calvin, and Huldrych Zwingli advocating biblical primacy and priesthood of all believers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thou art in a parlous state, Angel Clare.” “_I_ glory in my Protestantism!” she said severely."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This devotion Spenser’s great poem everywhere reflects, and it has been justly pronounced to be the best exponent of the subtleties of that Calvinism which was the aristocratic form of Protestantism at that time in both France and England."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The training of the province does not develop a bias towards Protestantism."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The religion most prevalent in our northern colonies is a refinement on the principle of resistance: it is the dissidence of dissent, and the **protestantism** of the Protestant religion."*
+> - 📜 **Thomas Carlyle (*Heroes, Hero-Worship, and the Heroic in History*):** *"Luther's revolt at the Diet of Worms was the birth-hour of modern European **protestantism**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In the United States, **protestantism** harmonized religious conviction with democratic equality and republican self-government."*

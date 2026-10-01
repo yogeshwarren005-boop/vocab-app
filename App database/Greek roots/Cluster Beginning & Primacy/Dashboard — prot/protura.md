@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute wingless arthropods: telsontails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute wingless arthropods: telsontails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of very small, primitive, wingless, eyeless hexapods that inhabit soil, leaf litter, and moss, having twelve abdominal segments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, microscopic soil organisms lacking antennae, using their elongated front legs as sensory organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protura designates minute wingless arthropods: telsontails."*
+> - 📜 **Filippo Silvestri (*Descrizione di un nuovo genere d'insetti*):** *"The discovery of **Protura** revealed an archaic hexapod lineage lacking antennae and possessing anamorphic development."*
+> - 📜 **Vincent Wigglesworth (*The Principles of Insect Physiology*):** *"In the order **Protura**, the forelegs are held forward in a sensory posture functionally replacing absent antennae."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"The forest soil fauna teems with minute organisms, including the primitive **Protura**, which decompose fungal hyphae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In most modern classifications, replacement for the protista; includes: protozoa; euglenophyta; chlorophyta; cryptophyta; heterokontophyta; rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In most modern classifications, replacement for the protista; includes: protozoa; euglenophyta; chlorophyta; cryptophyta; heterokontophyta; rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic kingdom (proposed by John Hogg in 1860 and popularized by Lynn Margulis) comprising unicellular and simple multicellular eukaryotic organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In five-kingdom taxonomy, the grouping encompassing protozoa, red, brown, and green algae, slime molds, and oomycetes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoctista designates in most modern classifications, replacement for the protista; includes: protozoa; euglenophyta; chlorophyta; cryptophyta; heterokontophyta; rhodophyta; unicellular protists and their descendant multicellular organisms: regarded as distinct from plants and animals."*
+> - 📜 **John Hogg (*On the Distinctions of a Plant and an Animal*):** *"I proposed the kingdom **Protoctista** to include all primordial beings that partake of both animal and vegetable natures."*
+> - 📜 **Lynn Margulis (*Five Kingdoms: An Illustrated Guide to the Phyla of Life on Earth*):** *"Within the kingdom **Protoctista**, we recognize nearly forty distinct phyla displaying astonishing cellular diversity."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Molecular sequencing has shown that **Protoctista** is a paraphyletic assemblage rather than a single evolutionary branch."*

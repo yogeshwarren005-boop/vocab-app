@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of human fossils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of human fossils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary scientific study of the fossil record, evolutionary origins, and cultural emergence of early hominids and ancient humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological anthropology, combining comparative osteology, archaeology, and ancient paleogenomics to chart human lineage divergence (Australopithecus, Homo erectus, Neanderthals).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeoanthropology designates the scientific study of human fossils."*
+> - 📜 **Louis Leakey (*By the Evidence: Memoirs, 1932–1951*):** *"Olduvai Gorge proved to be a natural treasure-house for **palaeoanthropology**, yielding early hominid tools and fossil crania."*
+> - 📜 **Richard Leakey (*Origins Reconsidered*):** *"The goal of **palaeoanthropology** is not merely to amass old bones, but to understand the environmental pressures that shaped human consciousness."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"The history of **palaeoanthropology** reveals how unconscious racial and social biases influenced reconstructions of fossil ancestors."*

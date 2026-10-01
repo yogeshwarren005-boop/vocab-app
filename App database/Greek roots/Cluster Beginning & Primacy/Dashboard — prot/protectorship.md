@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of protector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of protector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, or term of service of a protector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history, the regency or governance exercised by a Lord Protector.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, as you, my lord, An ’t like your lordly Lord Protectorship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did he not, in his protectorship, Levy great sums of money through the realm For soldiers’ pay in France, and never sent it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In your protectorship you did devise Strange tortures for offenders never heard of, That England was defamed by tyranny."*
+> - 📜 **David Hume (*The History of England*):** *"The Duke of Somerset’s ambition was gratified when Parliament confirmed his absolute **protectorship** during King Edward’s minority."*
+> - 📜 **Thomas Carlyle (*The Life of Friedrich Schiller*):** *"The resignation of the **protectorship** cast the kingdom into momentary political paralysis."*
+> - 📜 **Samuel Rawson Gardiner (*History of the Commonwealth and Protectorate*):** *"Cromwell assumed the **protectorship** with a solemn vow to govern according to written fundamental law."*

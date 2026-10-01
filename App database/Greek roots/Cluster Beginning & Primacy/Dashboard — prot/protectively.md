@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a protective manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a protective manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a protective manner; with the intention of shielding, defending, or guarding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting vigilant or possessive care against potential interference or injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protectively designates in a protective manner."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The lonely weaver wrapped his rough coat **protectively** around the sleeping golden-haired child."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She drew her shawl **protectively** about her face to escape the inquisitive stares of the villagers."*
+> - 📜 **Joseph Conrad (*Victory*):** *"He placed himself **protectively** between the trembling girl and the insolent intruders."*

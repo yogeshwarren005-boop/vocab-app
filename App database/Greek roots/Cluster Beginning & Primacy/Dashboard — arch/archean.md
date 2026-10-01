@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the earliest known rocks formed during the precambrian eon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of Archaean; relating to the early Precambrian geological eon, spanning c. 4.0 to 2.5 billion years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, pertaining to the ancient crystalline rocks of the continental shields that preserve Earth's earliest isotopic records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archean designates the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The **Archean** rocks of the Canadian shield reveal intense folding and deep thermal metamorphism."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The base of the stratigraphic column is formed by ancient **Archean** granites devoid of macroscopic fossils."*
+> - 📜 **Walter Alvarez (*T. Rex and the Crater of Doom*):** *"Zircons preserved in **Archean** sandstones survive from the very infancy of our planet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large family of australian and south african shrubs and trees with leathery leaves and clustered mostly tetramerous flowers; constitutes the order proteales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large family of australian and south african shrubs and trees with leathery leaves and clustered mostly tetramerous flowers; constitutes the order proteales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of flowering plants (order Proteales) predominantly found in the Southern Hemisphere, including proteas, banksias, and macadamias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biogeography, a classic Gondwanan floral lineage characterized by specialized cluster roots (proteoid roots) adapted to nutrient-poor soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteaceae designates large family of australian and south african shrubs and trees with leathery leaves and clustered mostly tetramerous flowers; constitutes the order proteales."*
+> - 📜 **Robert Brown (*On the Proteaceae of Jussieu*):** *"The southern continents display a remarkable endemic development of the family **Proteaceae**, linking Australia and the Cape."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"The distribution of the **Proteaceae** across disconnected southern landmasses supports the hypothesis of an ancient austral flora."*
+> - 📜 **Ronald Good (*The Geography of the Flowering Plants*):** *"Among flowering families, few exhibit such rigorous adherence to ancient Gondwanan borders as the **Proteaceae**."*

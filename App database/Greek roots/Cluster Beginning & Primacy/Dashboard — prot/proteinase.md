@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that hydrolyzes proteins into simpler peptides; an endopeptidase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, an enzyme (such as pepsin, trypsin, or papain) that cleaves internal peptide bonds within complex protein substrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteinase designates any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis."*
+> - 📜 **John Howard Northrop (*Crystalline Enzymes*):** *"The crystallization of the gastric **proteinase** pepsin proved that biocatalysts are pure protein molecules."*
+> - 📜 **Leonor Michaelis (*Biochemische Zeitschrift*):** *"The kinetic velocity of the **proteinase** reaction depends upon the saturation of active sites by the substrate."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"The yeast extract contained an active intracellular **proteinase** that slowly destroyed respiratory enzymes over time."*

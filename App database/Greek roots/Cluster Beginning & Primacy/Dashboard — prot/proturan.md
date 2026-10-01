@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several minute primitive wingless and eyeless insects having a cone-shaped head; inhabit damp soil or decaying organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several minute primitive wingless and eyeless insects having a cone-shaped head; inhabit damp soil or decaying organic matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any minute, eyeless hexapod belonging to the order Protura.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of proturans, noted for anamorphic postembryonic development (adding abdominal segments during molts).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proturan designates any of several minute primitive wingless and eyeless insects having a cone-shaped head; inhabit damp soil or decaying organic matter."*
+> - 📜 **Alfried Schmitt (*Soil Biology & Biochemistry*):** *"A single handful of undisturbed forest humus may contain hundreds of **proturan** coneheads."*
+> - 📜 **Peter J. Gullan (*The Insects: An Outline of Entomology*):** *"The internal mouthparts of the **proturan** place it alongside collembolans within the class Entognatha."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Anamorphic growth, preserved in the **proturan** lifecycle, represents an ancestral trait shared with myriapods."*

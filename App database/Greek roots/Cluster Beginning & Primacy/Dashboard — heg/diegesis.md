@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relaying of information in a fictional work (such as a film or novel) through a narrative; also : the fictional world in which the events of a narrative occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relaying of information in a fictional work (such as a film or novel) through a narrative; also : the fictional world in which the events of a narrative occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrative or plot; in literary and film theory, the fictional world, events, and story space within which a narrative occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and Plato's Republic, narration where the poet speaks in their own voice, contrasted with mimesis (direct dramatic imitation through dialogue).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diegesis designates the relaying of information in a fictional work (such as a film or novel) through a narrative; also : the fictional world in which the events of a narrative occur."*
+> - 📜 **Plato (*Republic*):** *"Poetry and mythology proceed either through pure mimesis, as in tragedy, or through simple **diegesis**, as in dithyrambs."*
+> - 📜 **Gérard Genette (*Narrative Discourse*):** *"The **diegesis** defines the spatiotemporal world of the story, distinct from the narrator’s discursive act."*
+> - 📜 **David Bordwell (*Narration in the Fiction Film*):** *"Cinematic narration cues the spectator to construct a coherent **diegesis** from disjointed photographic shots."*

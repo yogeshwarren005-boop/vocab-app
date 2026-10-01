@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who studies protozoans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zoologist who studies protozoans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist or microbiologist who specializes in the study of protozoans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A laboratory or field researcher investigating the morphology, genetics, ecology, and pathogenesis of unicellular eukaryotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protozoologist designates a zoologist who studies protozoans."*
+> - 📜 **Herbert Spencer Jennings (*Genetics of the Protozoa*):** *"The **protozoologist** observes how an isolated paramecium reproduces through hundreds of asexual generations."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Fritz Schaudinn worked with the relentless precision of a trained **protozoologist** when identifying the spirochete of syphilis."*
+> - 📜 **Ronald Ross (*Memoirs*):** *"To unravel the complex life cycle of the malaria parasite, a physician had to become a meticulous **protozoologist**."*

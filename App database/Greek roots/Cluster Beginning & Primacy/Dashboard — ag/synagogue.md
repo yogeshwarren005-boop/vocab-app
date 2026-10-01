@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Jewish congregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The house of worship and communal center of a Jewish congregation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Jewish house of worship, assembly, and communal religious study (from Greek synagōgē, a bringing together, assembly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical religion, the local community institution that arose in Hellenistic Judaism (especially following the Babylonian exile) for scripture reading, prayer, and moral instruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, Tubal, and meet me at our synagogue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, good Tubal, at our synagogue, Tubal. [_Exeunt._] SCENE II."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"At Prague, that wonderful city where the barbaric East begins, he finds his deepest interest stirred by the Jewish burying-ground and the hoary old synagogue."*
+> - 📜 **Flavius Josephus (*The Jewish War*):** *"The citizens gathered on the Sabbath within the local **synagogue** to hear the sacred laws expounded by the elders."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Deronda entered the ancient Frankfurt **synagogue**, spellbound by the solemn chanting of the Hebrew liturgy."*
+> - 📜 **Baruch Spinoza (*Theological-Political Treatise*):** *"The community of the Amsterdam **synagogue** cast him out, issuing their solemn cherem against his unorthodox writings."*

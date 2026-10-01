@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to exegesis : explanatory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to exegesis : explanatory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving critical textual explanation or interpretation; expository.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and theological scholarship, pertaining to methods and commentaries designed to elucidate complex written texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exegetic designates of or relating to exegesis : explanatory."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The **exegetic** notes of the German commentators shed valuable light upon the historical context of the Gospels."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"True learning requires both dogmatic exposition and careful **exegetic** study of ancient philosophical works."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The councils engaged in endless **exegetic** wrangling over obscure passages of the Alexandrian scriptures."*

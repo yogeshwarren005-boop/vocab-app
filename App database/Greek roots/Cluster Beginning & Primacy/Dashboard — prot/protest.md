@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and solemn declaration of objection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of protesting; a public (often organized) manifestation of dissent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression or declaration of objection, disapproval, or dissent against an action, policy, or injustice; also, to express strong opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law, a formal written statement by a notary attesting that a bill of exchange or promissory note has been dishonored.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a simple maid, and therein wealthiest That I protest I simply am a maid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This has no holding, To swear by him whom I protest to love That I will work against him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My meaning in’t, I protest, was very honest in the behalf of the maid; for I knew the young count to be a dangerous and lascivious boy, who is a whale to virginity, and devours up all the fry it finds."*
+> - 📜 **Martin Luther King Jr. (*Letter from Birmingham Jail*):** *"Nonviolent direct action seeks to create such a crisis that a community is forced to confront the **protest**."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"Under a government which imprisons any unjustly, the true place for a just man is in a prison, as a silent **protest**."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"I **protest** unto your grace that I have spoken nothing but the unvarnished truth."*

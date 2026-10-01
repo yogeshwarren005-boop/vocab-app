@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling archangels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling archangels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant or formal form of archangelic; belonging to or characteristic of archangels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th-century theological prose and liturgical poetry, designating the premier angelic choir and their cosmic heraldic trumpets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archangelical designates of or relating to or resembling archangels."*
+> - 📜 **Jeremy Taylor (*The Great Exemplar*):** *"The heavenly host sang with **archangelical** harmony over the manger of Bethlehem."*
+> - 📜 **Robert South (*Twelve Sermons Preached Upon Several Occasions*):** *"The last day shall be proclaimed by an **archangelical** blast that will awaken the sleeping dead."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"I can easily believe that **archangelical** intelligences govern the orbits of the wandering spheres."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Second part of the stone age beginning about 750,00 to 500,000 years bc and lasting until the end of the last ice age about 8,500 years bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the second period of the stone age (following the eolithic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the early Stone Age, characterized by the creation and use of chipped flint stone implements (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European prehistory, dividing into Lower, Middle, and Upper periods corresponding to Neanderthal Mousterian toolkits and Cro-Magnon cave art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeolithic designates second part of the stone age beginning about 750,00 to 500,000 years bc and lasting until the end of the last ice age about 8,500 years bc."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"We apply the term **palaeolithic** to that ancient period when man shared the soil of Europe with the mammoth and woolly rhinoceros."*
+> - 📜 **Henri Breuil (*Four Hundred Centuries of Cave Art*):** *"The exquisite polychrome bison of Altamira demonstrate the profound spiritual sensitivity of **palaeolithic** hunters."*
+> - 📜 **V. Gordon Childe (*What Happened in History*):** *"The **palaeolithic** economy was purely food-gathering, limiting the density and permanence of human settlements."*

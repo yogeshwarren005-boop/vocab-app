@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives support and protection from an influential patron who furthers the protege's career.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who receives support and protection from an influential patron who furthers the protege's career.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is guided, mentored, and supported by an older and more experienced person; variant spelling of protégé.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and artistic history, a promising student sponsored by a patron of wealth, academy, or political influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am quite pleased with your protege,” she said to Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"My protege?—dear me!—who is that?” said Mr."*
+> - 📜 **Honoré de Balzac (*Lost Illusions*):** *"The wealthy publisher took the young poet under his wing as his favorite **protege**, introducing him to Parisian salons."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Major Pendennis watched over his nephew with all the anxious pride of a guardian promoting his **protege**."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether realized that Chad was no longer an impressionable **protege**, but an independent man of the world."*

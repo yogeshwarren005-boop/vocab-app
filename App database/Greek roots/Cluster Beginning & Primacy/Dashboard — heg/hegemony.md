@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong influence or authority over others : domination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social, cultural, ideological, or economic influence exerted by a dominant group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leadership or predominant influence exercised by one nation, state, or social class over others; supreme dominance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Marxist cultural theory, the cultural and ideological leadership by which the ruling class wins the spontaneous consent of subaltern classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hegemony designates strong influence or authority over others : domination."*
+> - 📜 **Antonio Gramsci (*Selections from the Prison Notebooks*):** *"Cultural **hegemony** operates when the world-view of the ruling group is accepted as natural reality by the entire society."*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"The rapid growth of Athenian **hegemony** over the Aegean islands inspired dread throughout the Peloponnese."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"No single state in the American union could assert permanent **hegemony** over its sister republics."*

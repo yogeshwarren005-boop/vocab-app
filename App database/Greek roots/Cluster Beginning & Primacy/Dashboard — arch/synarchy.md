@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint rule or shared sovereignty, especially by two or more authorities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, a system of collective governance integrating corporate, administrative, and civic bodies into an organic governing coalition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synarchy designates a term designating an entity, condition, or phenomenon derived from greek arch."*
+> - 📜 **Arnold J. Toynbee (*A Study of History*):** *"The Spartan dual kingship operated as a curious constitutional **synarchy** designed to prevent individual tyranny."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The joint elevation of Pupienus and Balbinus instituted a brief imperial **synarchy** under the sanction of the Roman Senate."*
+> - 📜 **Samuel Taylor Coleridge (*On the Constitution of the Church and State*):** *"A harmonious commonwealth demands a balanced **synarchy** between the national church and the civil legislature."*

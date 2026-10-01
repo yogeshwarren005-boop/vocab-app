@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of fossil animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of fossil animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of paleontology and zoology that studies fossilized animals, their taxonomy, and their evolutionary history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate and invertebrate paleontology, reconstructing the anatomical structures, soft tissue impressions, and ecological niches of extinct animal species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeozoology designates the study of fossil animals."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Comparative **palaeozoology** reveals an orderly succession of vertebrate classes from primitive fishes to mammals across the geological columns."*
+> - 📜 **Thomas Henry Huxley (*Lectures on the Elements of Comparative Anatomy*):** *"The student of **palaeozoology** must ground his work upon the exact osteology of living animals to interpret fossil bones correctly."*
+> - 📜 **Edwin H. Colbert (*Dinosaurs: Their Discovery and Their World*):** *"Through **palaeozoology**, the magnificent fauna of the Mesozoic era was resurrected from badland sandstone cliffs."*

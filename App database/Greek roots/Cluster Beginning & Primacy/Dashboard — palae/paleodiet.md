@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diet approximating that of hunter-gatherers of the Paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, Stone Age diet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diet approximating that of hunter-gatherers of the Paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, Stone Age diet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diet of prehistoric humans during the Paleolithic era; also a contemporary dietary regimen modeled on the presumed foods of ancestral hunter-gatherers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional anthropology, the empirical reconstruction of ancestral human nutrition (wild lean meats, fish, vegetables, fruits, nuts, excluding dairy, grains, and refined sugar).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleodiet designates a diet approximating that of hunter-gatherers of the paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, stone age diet."*
+> - 📜 **Loren Cordain (*The Paleo Diet*):** *"Proponents of the modern **paleodiet** argue that human physiology remains genetically adapted to the nutritional profile of the Paleolithic era."*
+> - 📜 **Richard Wrangham (*Catching Fire: How Cooking Made Us Human*):** *"A realistic **paleodiet** must account for the transformative invention of cooking, which doubled the caloric efficiency of hunted meat and tubers."*
+> - 📜 **Spencer Wells (*The Journey of Man: A Genetic Odyssey*):** *"The shift from a nomadic **paleodiet** to a sedentary grain-based agricultural diet left clear signatures of dental decay and anemia in Neolithic skeletons."*

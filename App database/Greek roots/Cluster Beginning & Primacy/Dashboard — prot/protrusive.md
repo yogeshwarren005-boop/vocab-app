@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrusting outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrusting outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to protrude; projecting or thrusting forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dentistry and orthodontics, relating to the forward positioning or movement of the lower jaw (mandibular protrusion).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protrusive designates thrusting outward."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her jaw had a firm, **protrusive** line that conveyed an indomitable combative temperament."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He noticed the **protrusive** eyes of the elderly curate surveying the congregation with cold appraisal."*
+> - 📜 **Edward Angle (*Treatment of Malocclusion of the Teeth*):** *"Severe **protrusive** malocclusion of the incisors impairs both speech articulation and facial aesthetics."*

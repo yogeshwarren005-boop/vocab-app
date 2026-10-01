@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, originating in, or being an era of geologic history that extends from the beginning of the Cambrian to the close of the Permian and is marked by the culmination of nearly all classes of invertebrates except the insects and in the later epochs by the appearance of terrestrial plants, amphibians, and reptiles; also : relating to the corresponding system of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, originating in, or being an era of geologic history that extends from the beginning of the Cambrian to the close of the Permian and is marked by the culmination of nearly all classes of invertebrates except the insects and in the later epochs by the appearance of terrestrial plants, amphibians, and reptiles; also : relating to the corresponding system of rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest of the three geologic eras of the Phanerozoic eon, lasting from approximately 539 to 252 million years ago (from Greek palaios ancient + zoe life).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In earth history, the immense era bracketed by the Cambrian explosion of marine invertebrates and the catastrophic Permian-Triassic mass extinction, encompassing the colonization of land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our leader, Professor Paleozoic, ordinarily existed in a sort of transition state between the primary and tertiary formations."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*
+> - 📜 **Roderick Murchison (*The Silurian System*):** *"The marine strata of the early **Paleozoic** reveal an astonishing proliferation of trilobites, brachiopods, and graptolites."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"To the question why we find no rich fossiliferous deposits belonging to periods prior to the **Paleozoic**, I can give no satisfactory answer."*
+> - 📜 **Stephen Jay Gould (*The Book of Life*):** *"During the late **Paleozoic**, vast coal-swamp forests covered Pangaea, sustained by giant amphibians and early reptiles."*

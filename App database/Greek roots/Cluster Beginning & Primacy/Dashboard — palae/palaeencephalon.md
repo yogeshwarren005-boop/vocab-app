@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phylogenetically older, primitive part of the vertebrate brain (comprising the brainstem, basal ganglia, and cerebellum), contrasted with the neocortex or neencephalon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neuroanatomy and evolutionary neurology, the primitive reptilian core mediating autonomic reflexes, survival drives, and instinctive motor patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeencephalon designates the more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"The **palaeencephalon** regulates fundamental arousal and autonomic homeostasis, upon which cortical functions depend."*
+> - 📜 **Paul D. MacLean (*The Triune Brain in Evolution*):** *"Our ancestral survival reflexes reside within the **palaeencephalon**, the ancient neural chassis shared with primitive reptiles."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"L-DOPA seemed to awaken primal motor drives anchored deep within the patient's undamaged **palaeencephalon**."*

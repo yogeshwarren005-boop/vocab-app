@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to agonize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer agony or anguish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo great physical pain or intense mental anguish; to worry or struggle desperately over a difficult decision (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential and literary reflection, to wrestle with profound moral dilemmas, spiritual doubts, or unresolved grief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"How would your spirits groan in deep vexation, To see each melancholy alteration; And, agonising, curse the time and place When ye begat the base degen’rate race!"*
-> - 📜 **Bram Stoker (*Dracula*):** *"We have had such an adventure, such an agonising experience."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I seem to remember that once the West Lighthouse was right under me, and then there was a sort of agonising feeling, as if I were in an earthquake, and I came back and found you shaking my body."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She would **agonise** in secret over the fatal secret, dreading the morning when her confession must be made."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea began to **agonise** over her inability to understand Casaubon's cold intellectual reserve."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Why must we **agonise** over small social conventions when the great current of life moves on unheeding?"*

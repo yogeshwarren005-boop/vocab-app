@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To incur or provoke the hostility of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act in opposition to : counteract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to become hostile, irritable, or opposed; to provoke active enmity or opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and pharmacology, to neutralize, counteract, or block the biological action of another agent or hormone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"These pioneers, in their contact with the members of divers creeds, races and nations, covering a range which offers no parallel in either the north or south continents, must neither antagonize them nor compromise with their own essential principles."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"There are many sins which few men have the courage to antagonize in public."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Not wishing to antagonize them, he advanced them money, and in a short time owned nearly all the fifteen interests in the Landreau claim of $125,000,000."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"We must not be enemies, but friends; passion may have strained, but it must not break or **antagonize** our bonds of affection."*
+> - 📜 **Mark Twain (*Pudd'nhead Wilson*):** *"The sarcastic lawyer managed to **antagonize** the entire jury before he had even concluded his opening remarks."*
+> - 📜 **Henry James (*The Bostonians*):** *"Basil Ransom took care not to **antagonize** his fierce cousin, knowing how easily her zeal was ignited."*

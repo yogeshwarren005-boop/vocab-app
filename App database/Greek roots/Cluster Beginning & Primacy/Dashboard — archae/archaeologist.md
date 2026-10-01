@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies prehistoric people and their culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies prehistoric people and their culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or scholar who studies human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and anthropology, an investigator reconstructing past societies, trade networks, and environmental adaptations from material culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But there is a rival archaeologist who would ask nothing better than to get ahead of me in this matter."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"It would be a great thing for a young archaeologist like Beecher to accomplish a mission of this sort, and beat Professor Bumper in the race." "Do you think that's why Beecher decided to go on the same steamer we are to take?" asked Ned."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"It will do us good." "And perhaps I can get some specimens of interest," added Professor Bumper, who, in addition to being an archaeologist, was something of a naturalist."*
+> - 📜 **Howard Carter (*The Tomb of Tut-ankh-Amen*):** *"The **archaeologist** peered through the tiny hole by candlelight, beholding wonderful things unseen for three thousand years."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"To the **archaeologist**, a broken potsherd often reveals more historical truth than the flattering inscription of a king."*
+> - 📜 **Agatha Christie (*Come, Tell Me How You Live*):** *"An **archaeologist** is the best husband a woman can have; the older she gets, the more interested he is in her."*

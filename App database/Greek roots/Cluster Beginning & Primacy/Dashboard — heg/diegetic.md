@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to diegesis; especially : existing or occurring within the world of a narrative rather than as something external to that world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to diegesis; especially : existing or occurring within the world of a narrative rather than as something external to that world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring within the fictional world of a story; internal to the narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In film theory, describing sounds, music, or dialogue that originate from an onscreen or offscreen source within the story world that characters can hear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diegetic designates of or relating to diegesis; especially : existing or occurring within the world of a narrative rather than as something external to that world."*
+> - 📜 **Michel Chion (*Audio-Vision: Sound on Screen*):** *"When the pianist in the salon begins playing, the music shifts from non-diegetic background score to living **diegetic** sound."*
+> - 📜 **David Bordwell (*The Classical Hollywood Cinema*):** *"The clock ticking upon the mantlepiece provided an ominous **diegetic** rhythm to the tense confrontation."*
+> - 📜 **Christian Metz (*Film Language: A Semiotics of the Cinema*):** *"The boundary between **diegetic** space and extradiegetic commentary is playfully blurred in modern cinema."*

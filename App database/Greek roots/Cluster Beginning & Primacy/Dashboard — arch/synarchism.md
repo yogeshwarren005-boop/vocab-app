@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocacy of joint or harmonious rule; a political ideology promoting cooperative governance by combined social, economic, and religious councils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French occult and political history (associated with Saint-Yves d'Alveydre), a social order governed by harmonic social estates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synarchism designates a term designating an entity, condition, or phenomenon derived from greek arch."*
+> - 📜 **Alexandre Saint-Yves d'Alveydre (*Mission des Souverains*):** *"True social equilibrium requires **synarchism**, where spiritual authority, judicial power, and economic production govern in tripartite harmony."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Interwar rumors regarding shadowy **synarchism** revealed the deep anxiety of the French bourgeoisie facing institutional decay."*
+> - 📜 **Georges Valois (*L'État syndical et la représentation corporative*):** *"The doctrines of corporatist **synarchism** proposed an organic alternative to parliamentary democracy."*

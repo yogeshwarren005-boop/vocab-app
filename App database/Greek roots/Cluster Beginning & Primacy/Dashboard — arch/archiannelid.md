@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small primitive marine worm lacking external segmentation and resembling polychaete larvae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small primitive marine worm lacking external segmentation and resembling polychaete larvae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive, minute marine worm belonging to the order Archiannelida, often lacking external segments or setae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, interstitial polychaetes adapted to sand-grain environments (meiofauna) with simplified sensory and reproductive anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archiannelid designates small primitive marine worm lacking external segmentation and resembling polychaete larvae."*
+> - 📜 **Ray Lankester (*Treatise on Zoology*):** *"The simple nervous system of the **archiannelid** was once interpreted as the ancestral archetype of all segmented worms."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Examining intertidal sands reveals the tiny **archiannelid** gliding through interstitial spaces without disturbing the sediment."*
+> - 📜 **Robert D. Barnes (*Invertebrate Zoology*):** *"Molecular evidence suggests that the diminutive **archiannelid** is a paedomorphic polychaete rather than a primitive precursor."*

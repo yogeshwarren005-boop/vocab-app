@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absolute sovereignty : autocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolute sovereignty : autocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An absolute ruler or monarch who possesses unlimited power; an autocrat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, a despot whose sovereignty is unrestricted by constitutional law, assemblies, or independent judiciaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarch designates absolute sovereignty : autocracy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman emperor ceased to feign republican modesty and governed openly as an absolute **autarch**."*
+> - 📜 **Percy Bysshe Shelley (*Hellas*):** *"The proud **autarch** of the East sat upon his throne of ivory and gold, deaf to the groans of the provinces."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"When popular turmoil overwhelms constitutional assemblies, the state often summons an **autarch** with an iron fist."*

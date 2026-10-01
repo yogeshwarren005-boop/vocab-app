@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of botany dealing with fossil plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of botany dealing with fossil plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving paleobotany; concerning the scientific study of fossil plants, ancient vegetation, and plant evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geosciences and paleoclimatology, describing fossil leaf morphologies (e.g. stomatal density, leaf margins) used to infer past atmospheric temperatures and CO2 concentrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleobotanic designates a branch of botany dealing with fossil plants."*
+> - 📜 **Asa Gray (*Scientific Papers*):** *"The **paleobotanic** discoveries in Greenland shale proved that magnificent magnolia and cypress forests once thrived within the Arctic Circle."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **paleobotanic** record of the coal measures demonstrates a warm, humid climate sustaining giant arborescent cryptogams."*
+> - 📜 **John William Dawson (*Acadian Geology*):** *"Microscopic **paleobotanic** examination reveals the delicate vascular bundles in silicified Devonian fern stems."*

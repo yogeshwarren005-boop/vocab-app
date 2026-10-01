@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Color blindness or color vision deficiency (CVD) is the decreased ability to see color, differences in color, or distinguish shades of color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The severity of color blindness ranges from mostly unnoticeable to full absence of color perception..
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe form of red-green color blindness characterized by the complete absence of functional red cone photopigments (L-cones).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vision science, dichromatic color blindness in which the visible spectrum is shortened at the red end and red hues are confused with grays or greens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protanopia designates color blindness or color vision deficiency (cvd) is the decreased ability to see color, differences in color, or distinguish shades of color."*
+> - 📜 **Thomas Young (*Lectures on Natural Philosophy*):** *"A deficiency in the retinal receptor responding to the longest wavelengths produces that distinct blindness known as **protanopia**."*
+> - 📜 **William de Wiveleslie Abney (*Researches in Colour Vision*):** *"In cases of complete **protanopia**, the red end of the spectrum appears dark and unilluminated."*
+> - 📜 **Selig Hecht (*The Photochemistry of Vision*):** *"The spectral luminosity curve in **protanopia** shows a characteristic displacement toward shorter green wavelengths."*

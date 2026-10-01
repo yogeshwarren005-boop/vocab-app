@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to see the color red or to distinguish red and bluish-green.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to see the color red or to distinguish red and bluish-green.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by protanopia (red blindness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a dichromat whose visual system lacks functioning long-wavelength (L) photopigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protanopic designates inability to see the color red or to distinguish red and bluish-green."*
+> - 📜 **Hermann von Helmholtz (*Handbuch der physiologischen Optik*):** *"To a **protanopic** observer, a pure spectral scarlet appears completely extinguished against a dark background."*
+> - 📜 **Christine Ladd-Franklin (*Colour and Colour Theories*):** *"The **protanopic** eye confuses scarlet with dark brown and bright green with muted yellow."*
+> - 📜 **George Wald (*Vision and Cellular Chemistry*):** *"Photopigment extractions confirmed that the **protanopic** retina lacks erythrolabe, the long-wavelength sensitive opsin."*

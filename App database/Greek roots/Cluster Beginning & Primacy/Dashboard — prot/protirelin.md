@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone released by the hypothalamus that controls the release of thyroid-stimulating hormone from the anterior pituitary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone released by the hypothalamus that controls the release of thyroid-stimulating hormone from the anterior pituitary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic tripeptide identical to endogenous thyrotropin-releasing hormone (TRH), used as a diagnostic agent to assess thyroid and pituitary function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroendocrinology, pyroglutamyl-histidyl-prolinamide, which stimulates pituitary secretion of thyroid-stimulating hormone (TSH) and prolactin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protirelin designates hormone released by the hypothalamus that controls the release of thyroid-stimulating hormone from the anterior pituitary."*
+> - 📜 **Roger Guillemin (*Science*):** *"Isolation and synthesis of the hypothalamic tripeptide **protirelin** proved that the brain directly controls pituitary hormone secretion."*
+> - 📜 **Andrew V. Schally (*Nobel Lecture*):** *"The synthetic preparation of **protirelin** opened the era of peptide neuroendocrinology and dynamic endocrine testing."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Intravenous injection of **protirelin** evokes an immediate surge of thyrotropin from normal anterior pituitary basophils."*

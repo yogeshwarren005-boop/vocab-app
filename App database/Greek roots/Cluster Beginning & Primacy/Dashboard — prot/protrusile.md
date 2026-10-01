@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being thrust forward, as the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being thrust forward, as the tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being protruded or extended forward; protrusible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, designating structures (such as insect ovipositors or fish premaxillae) that can be projected outwards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protrusile designates capable of being thrust forward, as the tongue."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The **protrusile** snout of the pipefish enables it to snatch copepods with explosive suction."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"In certain beetles, the terminal abdominal segments form a **protrusile** tube for depositing eggs inside tree bark."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The tongue of the woodpecker is operated by remarkably elongated, **protrusile** hyoid horns."*

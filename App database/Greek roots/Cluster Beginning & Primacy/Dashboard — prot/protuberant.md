@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curving outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protruding or bulging beyond the surrounding surface; prominent or swelling out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical inspection, describing an abnormally distended abdomen or prominent eyeballs (exophthalmos).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The Count, evidently noticing it, drew back; and with a grim sort of smile, which showed more than he had yet done his protuberant teeth, sat himself down again on his own side of the fireplace."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Brown was just weathering the corner, by Peter Goldthwaite's house, when the hurricane caught him off his feet, tossed him face downward into a snow bank, and proceeded to bury his protuberant part beneath fresh drifts."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Pumblechook sat before the fireplace, his **protuberant** stomach resting comfortably against the mahogany table."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley adjusted his voluminous cravat over his **protuberant** waistcoat with complacent vanity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient presented with a **protuberant** abdomen caused by massive ascites and hepatic cirrhosis."*

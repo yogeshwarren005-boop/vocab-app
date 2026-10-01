@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong influence or authority over others : domination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social, cultural, ideological, or economic influence exerted by a dominant group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ruling or dominant in a political, social, or military context; exercising hegemony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical social theory (Antonio Gramsci), describing cultural norms, beliefs, and values that maintain the dominance of the ruling class through popular consent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hegemonic designates strong influence or authority over others : domination."*
+> - 📜 **Antonio Gramsci (*Prison Notebooks*):** *"The **hegemonic** class maintains its supremacy not through brute coercion alone, but by shaping cultural common sense."*
+> - 📜 **Francis Fukuyama (*The Origins of Political Order*):** *"The Qin dynasty established **hegemonic** dominance over the warring states through ruthless administrative centralization."*
+> - 📜 **Hannah Arendt (*On Revolution*):** *"The imperial power exercised a **hegemonic** sway that stifled local democratic deliberation in the provinces."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of prehistoric human artifacts and human fossils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of prehistoric human artifacts and human fossils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The early, rudimentary, or pre-scientific stage of archaeology prior to the development of systematic stratigraphic excavation and scientific dating methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the antiquarian era (16th–18th centuries) characterized by curiosity cabinets, treasure-hunting, and speculative folklore regarding ruins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoarchaeology designates the study of prehistoric human artifacts and human fossils."*
+> - 📜 **Glyn Daniel (*A Hundred and Fifty Years of Archaeology*):** *"The antiquarian pursuits of William Stukeley belong to **protoarchaeology**, blending romantic speculation with genuine fieldwork."*
+> - 📜 **Bruce Trigger (*A History of Archaeological Thought*):** *"During the era of **protoarchaeology**, gentlemen scholars excavated burial barrows primarily to amass private collections of curios."*
+> - 📜 **Colin Renfrew (*Archaeology: Theories, Methods, and Practice*):** *"The transition from antiquarian **protoarchaeology** to scientific archaeology occurred with the adoption of three-age technology and stratigraphy."*

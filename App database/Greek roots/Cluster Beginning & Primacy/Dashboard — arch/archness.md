@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate playfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate playfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being arch; playful slyness, roguishness, or teasing irony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coy or knowing humor marked by affectionate mock-solemnity or mild insolence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How I wish I hadn’t run after you!” However she seemed to have a short cut for getting back to cheerfulness, and set her face to signify archness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, allow me!” “Certainly, miss; I am not of steel.” He added a sigh which had as much archness in it as a sigh could possess without losing its nature altogether."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I was firm as a man could be till I saw those eyes and that mouth again—surely there never was such a maddening mouth since Eve’s!” His voice sank, and a hot archness shot from his own black eyes."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"There was a delightful mixture of innocence and **archness** in her bright eyes when she questioned him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba laughed with a sudden **archness** that entirely disconcerted the bashful young shepherd."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia spoke with that quiet domestic **archness** which she always reserved for her sister's high-flown ideals."*

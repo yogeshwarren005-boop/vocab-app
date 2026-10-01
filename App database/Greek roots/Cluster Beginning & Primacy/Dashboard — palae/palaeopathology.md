@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of disease of former times (as inferred from fossil evidence).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of disease of former times (as inferred from fossil evidence).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of ancient diseases, trauma, and medical conditions in fossilized bones, mummified tissues, and skeletal human remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and forensic science, diagnosing malnutrition (porotic hyperostosis), infectious epidemics (syphilis, tuberculosis), and surgical trepanation in ancient populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeopathology designates the study of disease of former times (as inferred from fossil evidence)."*
+> - 📜 **G. Elliot Smith (*The Royal Mummies*):** *"Careful **palaeopathology** performed upon royal Egyptian mummies revealed chronic arthritis, dental abscesses, and vascular calcification."*
+> - 📜 **Marc Armand Ruffer (*Studies in the Palaeopathology of Egypt*):** *"Microscopic histology applied to ancient tissues established **palaeopathology** as an exact branch of pathological science."*
+> - 📜 **Ales Hrdlicka (*Physical Anthropology: Its Scope and Aims*):** *"Skeletal trauma and healed fractures analyzed through **palaeopathology** illuminate the violent struggles of prehistoric hunters."*

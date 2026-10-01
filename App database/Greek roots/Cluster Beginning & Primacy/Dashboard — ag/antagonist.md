@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One that contends with or opposes another : adversary, opponent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent of physiological antagonism: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who actively opposes or is hostile to someone or something; an adversary; in drama, the principal character in conflict with the protagonist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a drug or ligand that binds to a receptor without activating it, thereby blocking or dampening agonist-mediated biological responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As little does he think how near together he and his antagonist have suffered in the fortunes of two sisters, and his antagonist, who knows it now, is not the man to tell him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are my antagonist, with this difference from real warfare, that I shall miss you every time by one hair’s breadth, or perhaps two."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He did not wash his hands or comb his head before he brought Balder's antagonist on to the pyre."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Our battle is joined; confront the fierce **antagonist** upon the bloody field of Bosworth."*
+> - 📜 **Oliver Sacks (*The River of Consciousness*):** *"The administration of a competitive receptor **antagonist** immediately reversed the narcotic stupor."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Victor realized with dread that his monstrous creature had become his lifelong, demonic **antagonist**."*

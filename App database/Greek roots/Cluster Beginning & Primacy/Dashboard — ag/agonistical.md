@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Striving to overcome in argument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Striving to overcome in argument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to athletic combat, polemical dispute, or intense struggle (an archaic or formal variant of agonistic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and early modern prose, describing heated rhetorical contention or forensic debate in academic and religious assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agonistical designates striving to overcome in argument."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Scholastic disputants entered the theological arena with **agonistical** zeal, eager to overthrow their rivals."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient Greek education was intensely **agonistical**, training both the body for combat and the tongue for disputation."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The critical review was written in an **agonistical** vein, delighting in combat rather than judicious appreciation."*

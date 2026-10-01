@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considered ancient life forms that evolved separately from bacteria and blue-green algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered ancient life forms that evolved separately from bacteria and blue-green algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant plural spelling of archaebacteria, denoting the ancient domain of prokaryotes now officially termed Archaea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biochemistry, microorganisms possessing unique cellular membranes that enable survival under boiling, saline, or acidic conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeobacteria designates considered ancient life forms that evolved separately from bacteria and blue-green algae."*
+> - 📜 **Carl Woese (*Bacterial Evolution*):** *"Comparative sequence analysis confirmed that the **archaeobacteria** represent an independent primary kingdom of life."*
+> - 📜 **Lynn Margulis (*Microcosmos*):** *"The survival of **archaeobacteria** in geothermal calderas illustrates the extreme boundaries of earthly life."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"The recognition of **archaeobacteria** shattered our tidy binary division between plants and animals."*

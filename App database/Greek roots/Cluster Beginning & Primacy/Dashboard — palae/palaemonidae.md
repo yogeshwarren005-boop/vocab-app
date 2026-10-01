@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prawns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prawns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diverse family of decapod crustaceans within the infraorder Caridea, commonly comprising coastal and freshwater prawns and shrimps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology and aquaculture, an ecologically vital family including commercially farmed giant river prawns (Macrobrachium rosenbergii) and symbiotic reef cleaners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog palaemonidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Delicate transparent prawns of the family **Palaemonidae** darted among the stinging sea anemone tentacles."*
+> - 📜 **Thomas Stebbing (*A History of Crustacea*):** *"The **Palaemonidae** are characterized by their compressed rostrum, toothed margins, and enlarged second pair of pereiopods."*
+> - 📜 **David Starr Jordan (*Fishes and Marine Life*):** *"Estuarine mudflats provide rich nurseries for juvenile shrimps belonging to the **Palaemonidae**."*

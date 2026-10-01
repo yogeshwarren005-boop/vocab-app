@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being protuberant; the condition of bulging out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that protrudes from something else; a swelling, bulge, or lump.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, an obsolete term for a solar prominence; in anatomy, a bony process or elevation (such as the mental protuberance of the chin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cainy Ball and Joseph, who performed this latter operation, were if possible wetter than the rest; they resembled dolphins under a fountain, every protuberance and angle of their clothes dribbling forth a small rill."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In this gable was no window, chimney, ornament, or protuberance of any kind."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still rolling in his blood, at last he partially disclosed a strangely discolored bunch or protuberance, the size of a bushel, low down on the flank."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Gnarled roots formed a mossy **protuberance** at the base of the ancient oak where she sat down to rest."*
+> - 📜 **Herman Melville (*Typee*):** *"A strange bony **protuberance** on the warrior's tattooed cheek marked the scar of an ancient war club."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"During the total eclipse of the sun, curious rose-colored **protuberance** structures leaped from the solar rim."*

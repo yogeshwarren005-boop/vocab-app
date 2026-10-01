@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an eparchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an eparchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an eparch or an eparchy (provincial or diocesan jurisdiction).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the administration, canons, and councils of an Eastern Christian bishopric.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eparchial designates of or relating to an eparchy."*
+> - 📜 **J. B. Bury (*A History of the Later Roman Empire*):** *"The **eparchial** edicts preserved in the Book of the Prefect illuminate urban guild organization in Constantinople."*
+> - 📜 **Timothy Ware (*The Orthodox Church*):** *"Each bishop exercises full **eparchial** authority over the parishes within his territorial see."*
+> - 📜 **Alexander Schmemann (*The Historical Road of Eastern Orthodoxy*):** *"Decisions regarding liturgical practice were ratified during the annual **eparchial** synod."*

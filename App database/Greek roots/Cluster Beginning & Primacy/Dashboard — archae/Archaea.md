@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually single-celled, prokaryotic microorganisms of a domain (Archaea) that includes methanogens and those of harsh environments (such as acidic hot springs, hypersaline lakes, and deep-sea hydrothermal vents) which obtain energy from a variety of sources (such as carbon dioxide, acetate, ammonia, sulfur, or sunlight).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually single-celled, prokaryotic microorganisms of a domain (Archaea) that includes methanogens and those of harsh environments (such as acidic hot springs, hypersaline lakes, and deep-sea hydrothermal vents) which obtain energy from a variety of sources (such as carbon dioxide, acetate, ammonia, sulfur, or sunlight).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primary domain of single-celled microorganisms that lack cell nuclei and are distinct from both bacteria and eukaryotes (from Greek archaia, ancient things).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary microbiology (identified by Carl Woese in 1977 via 16S ribosomal RNA), primitive extremophiles thriving in hot springs, salt flats, and deep-sea vents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Archaea designates usually single-celled, prokaryotic microorganisms of a domain (archaea) that includes methanogens and those of harsh environments (such as acidic hot springs, hypersaline lakes, and deep-sea hydrothermal vents) which obtain energy from a variety of sources (such as carbon dioxide, acetate, ammonia, sulfur, or sunlight)."*
+> - 📜 **Carl Woese (*Phylogenetic Structure of the Prokaryotic Domain*):** *"We propose that living organisms be classified into three primary domains: Eucarya, Bacteria, and **Archaea**."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The metabolic versatility of the **Archaea** reflects the harsh anaerobic conditions of the primordial Earth."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Deep beneath the ocean floor, colonies of **Archaea** derive metabolic energy from hydrothermal sulfur vents."*

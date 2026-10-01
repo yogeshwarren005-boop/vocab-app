@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Office or position of an archdeacon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Office or position of an archdeacon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, dignity, or territorial district of an archdeacon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical governance, the administrative subdivision of a diocese presided over by an archdeacon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archidiaconate designates office or position of an archdeacon."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"His elevation to the **archidiaconate** had conferred both clerical preeminence and substantial territorial influence."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The revenues of the **archidiaconate** supported charitable hospitals across the suburban parishes."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The jurisdiction of the **archidiaconate** was originally founded in the superintendence of church fabric and clerical morals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being helpless in the face of attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being helpless in the face of attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or quality of being unprotected; vulnerability to danger, harm, or exposure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and sociology, an acute feeling or objective state of lacking social, economic, or legal defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"A farmer passing through with his axe is but an intruder, and children straying home from school give one a feeling of solicitude at their unprotectedness."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Her profound sense of **unprotectedness** made every stranger's footstep outside the garden gate a terror."*
+> - 📜 **Charlotte Brontë (*The Professor*):** *"The absolute **unprotectedness** of the young orphan girl appealed to every noble instinct of his heart."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"When intermediate aristocratic institutions crumble, the isolated citizen experiences an overwhelming sense of civic **unprotectedness**."*

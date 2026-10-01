@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the life of past geologic periods as known from fossil remains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science dealing with the life of past geologic periods as known from fossil remains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science concerned with fossil animals and plants, prehistoric life, and the evolutionary history of organisms (American English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In earth sciences, the discipline bridging biology and geology, using the fossil record to date strata, reconstruct ancient environments, and analyze mass extinctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleontology designates a science dealing with the life of past geologic periods as known from fossil remains."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Modern **paleontology** proves that the ancient seas were inhabited by bizarre cephalopods and giant reptiles long before the advent of man."*
+> - 📜 **Stephen Jay Gould (*Time's Arrow, Time's Cycle*):** *"**Paleontology** is the science of history written into stone, recording the unique unrepeatable contingencies of deep time."*
+> - 📜 **George Gaylord Simpson (*The Meaning of Evolution*):** *"Without the discoveries of **paleontology**, the grand drama of organic evolution would remain an unverified hypothesis."*

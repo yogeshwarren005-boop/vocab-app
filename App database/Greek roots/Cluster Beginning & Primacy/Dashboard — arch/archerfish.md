@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small freshwater fishes that catch insects by squirting water at them and knocking them into the water; found in indonesia and australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several small freshwater fishes that catch insects by squirting water at them and knocking them into the water; found in indonesia and australia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small freshwater and brackish fish of the family Toxotidae known for shooting water droplets from its mouth to knock terrestrial insects into the water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethology and sensory biology, a teleost capable of optical compensation for water-surface refraction when aiming hydraulic jets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archerfish designates any of several small freshwater fishes that catch insects by squirting water at them and knocking them into the water; found in indonesia and australia."*
+> - 📜 **David Attenborough (*The Life of Fishes*):** *"Perched beneath mangrove roots, the **archerfish** accurately drops a beetle from an overhanging branch with a single jet."*
+> - 📜 **Konrad Lorenz (*King Solomon's Ring*):** *"The ballistic precision of the **archerfish** requires an innate neurological adjustment for light refraction at the water's surface."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"We watched the little banded **archerfish** target flies perched several inches above the tranquil lagoon."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in paleontology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in paleontology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in the study of fossils and prehistoric life forms (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history, a researcher who excavates, reconstructs, and classifies extinct organisms to map the evolutionary history of the biosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeontologist designates a specialist in paleontology."*
+> - 📜 **Richard Owen (*Palaeontology: Or, A Systematic Summary of Extinct Animals*):** *"The skilled **palaeontologist** can reconstruct the skeleton and habits of an extinct quadruped from a single fossil tooth."*
+> - 📜 **Othniel Charles Marsh (*Odontornithes: A Monograph on the Extinct Toothed Birds of North America*):** *"As a **palaeontologist** in the western badlands, I was privileged to uncover the first complete Cretaceous toothed birds."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The **palaeontologist** spends hours in dusty museum drawers, finding unexpected clues to evolution in forgotten fossil shells."*

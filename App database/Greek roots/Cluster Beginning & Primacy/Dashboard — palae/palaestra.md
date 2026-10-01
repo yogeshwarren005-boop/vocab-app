@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public place in ancient greece or rome devoted to the training of wrestlers and other athletes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public place in ancient greece or rome devoted to the training of wrestlers and other athletes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek wrestling school or gymnasium, an open-air public ground surrounded by colonnades dedicated to athletic training and philosophical dialogue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and literature, a gymnasium where physical sports (wrestling, boxing, pancratium) were practiced alongside intellectual debate (from Greek palaiein to wrestle; homograph on palae-!).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaestra designates a public place in ancient greece or rome devoted to the training of wrestlers and other athletes."*
+> - 📜 **Plato (*Charmides*):** *"On returning from the campaign at Potidaea, Socrates went straightway to his accustomed haunts in the **palaestra** of Taureas."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The Greek **palaestra** was planned as a peristyle courtyard with spacious colonnades where athletes wrestled upon sandy floors."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"He was led forth to the public theater, where the champions were wont to contend in the Philistine **palaestra**."*

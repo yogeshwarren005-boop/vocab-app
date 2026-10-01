@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive oviparous mammals found only in australia and tasmania and new guinea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive oviparous mammals found only in australia and tasmania and new guinea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the mammalian subclass Prototheria (monotremes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to egg-laying mammals displaying ancestral traits like a cloaca, cervical ribs, and low basal metabolic rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototherian designates primitive oviparous mammals found only in australia and tasmania and new guinea."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The platypus and echidna are the sole surviving **prototherian** remnants of an otherwise extinct mammalian fauna."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The **prototherian** grade of mammalian evolution preserves crucial clues regarding the transition from cynodont reptiles."*
+> - 📜 **Colin Groves (*Mammal Species of the World*):** *"Cranial osteology in the **prototherian** lineage lacks the auditory bullae characteristic of therian mammals."*

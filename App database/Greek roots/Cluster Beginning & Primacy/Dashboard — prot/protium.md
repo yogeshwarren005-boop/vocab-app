@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of chiefly tropical american trees having fragrant wood and yielding gum elemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of chiefly tropical american trees having fragrant wood and yielding gum elemi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common and lightest isotope of hydrogen, having an atomic mass of approximately 1 and a nucleus consisting of a single proton with no neutrons (symbol 1H).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics and physical chemistry, the stable hydrogen isotope constituting over 99.98% of natural terrestrial hydrogen, contrasting with deuterium and tritium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protium designates genus of chiefly tropical american trees having fragrant wood and yielding gum elemi."*
+> - 📜 **Harold Urey (*Physical Review*):** *"Upon concentrating heavy hydrogen, the ordinary light isotope was designated **protium** to distinguish it from deuterium."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The vibrational energy levels of molecules containing **protium** differ measurably from those containing deuterium due to the isotope effect."*
+> - 📜 **Glenn T. Seaborg (*Man-Made Transuranium Elements*):** *"Thermonuclear fusion reactions between deuterium and tritium proceed at lower activation energies than reactions involving pure **protium**."*

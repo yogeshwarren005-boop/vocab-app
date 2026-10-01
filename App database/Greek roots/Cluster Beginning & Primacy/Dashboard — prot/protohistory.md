@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study humans prior to the invention of writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study humans prior to the invention of writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of human history immediately following prehistory and preceding recorded history, during which a culture has not yet developed writing but is mentioned in the written records of other contemporary literate societies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeological theory, the transitional epoch marked by burgeoning urbanism, oral epics, and external epigraphic documentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protohistory designates the study humans prior to the invention of writing."*
+> - 📜 **V. Gordon Childe (*The Dawn of European Civilization*):** *"During the European Bronze Age, communities entered **protohistory** as Mediterranean merchants recorded their trade voyages."*
+> - 📜 **Fernand Braudel (*The Mediterranean and the Mediterranean World*):** *"The shadowy centuries of Mediterranean **protohistory** laid down enduring agricultural techniques and maritime routes."*
+> - 📜 **Colin Renfrew (*Archaeology and Language*):** *"In **protohistory**, the archaeologist must carefully weigh material assemblages against the mythic traditions of neighboring civilizations."*

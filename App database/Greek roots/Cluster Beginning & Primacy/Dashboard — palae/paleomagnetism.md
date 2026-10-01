@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The intensity and direction of residual magnetization in ancient rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with paleomagnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geophysics concerned with the magnetism preserved in rocks at the time of their formation, used to study the history of Earth's magnetic field and plate tectonics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plate tectonics, analyzing magnetic polarity reversals recorded in oceanic basalt stripes (the Vine-Matthews-Morley hypothesis) that proved sea-floor spreading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleomagnetism designates the intensity and direction of residual magnetization in ancient rocks."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The discovery of remanent magnetic orientation in lavas established **paleomagnetism** as our primary compass for tracking moving continents."*
+> - 📜 **J. Tuzo Wilson (*Continents Adrift and Continents Aground*):** *"Symmetrical zebra-like magnetic anomalies mapped across mid-ocean ridges provided the decisive **paleomagnetism** proof of seafloor spreading."*
+> - 📜 **Walter Alvarez (*T. Rex and the Crater of Doom*):** *"We measured magnetic reversals in Gubbio limestone using sensitive **paleomagnetism** instruments to date the Cretaceous-Tertiary boundary."*

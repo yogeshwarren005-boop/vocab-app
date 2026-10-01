@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic kingdom comprising all protists; single-celled or colonial eukaryotic organisms lacking specialized tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological classification (first proposed by Ernst Haeckel in 1866), a foundational kingdom encompassing protozoans, algae, and slime molds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protista designates eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"I establish the kingdom **Protista** to embrace all those primordial living forms that cannot be classified strictly as animals or plants."*
+> - 📜 **Robert Whittaker (*Science*):** *"In the five-kingdom system of classification, the kingdom **Protista** occupies the crucial central grade bridging prokaryotes and multicellular kingdoms."*
+> - 📜 **Thomas Cavalier-Smith (*Biological Reviews*):** *"Modern ultrastructural and molecular phylogenetics have dismantled the traditional boundaries of **Protista** into distinct eukaryotic supergroups."*

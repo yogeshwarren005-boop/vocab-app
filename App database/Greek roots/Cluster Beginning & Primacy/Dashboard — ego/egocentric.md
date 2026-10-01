@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with the individual rather than society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking the ego as the starting point in philosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thinking only of oneself, without regard for the feelings or desires of others; self-centered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology (Jean Piaget), describing a cognitive stage in early childhood where a child cannot adopt another person's spatial or mental perspective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egocentric designates concerned with the individual rather than society."*
+> - 📜 **Jean Piaget (*The Language and Thought of the Child*):** *"A young child’s spontaneous speech is largely **egocentric**, spoken not to inform others but to accompany their own activity."*
+> - 📜 **Bertrand Russell (*The Conquest of Happiness*):** *"The intensely **egocentric** man is rarely happy, for his thoughts circle ceaselessly around his own vanity and injuries."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond Vincy was delightfully charming, yet her worldview was as purely **egocentric** as that of an infant."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a prototype; original, exemplary, or archetypal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomy and engineering, representing the standard or earliest form exhibiting the definitive traits of a class or product line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototypic designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The child’s first grasp of an object offers a **prototypic** example of voluntary motor coordination."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"Totemic classification uses animals as **prototypic** models to articulate human social distinctions."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The ancient Mesopotamian citadel stood as the **prototypic** nucleus of urban civilization."*

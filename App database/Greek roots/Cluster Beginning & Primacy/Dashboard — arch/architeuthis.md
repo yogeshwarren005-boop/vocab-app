@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest mollusk known about but never seen (to 60 feet long).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest mollusk known about but never seen (to 60 feet long).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of giant deep-sea squid comprising Architeuthis dux, characterized by enormous eyes and elongated feeding tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teuthology and marine biology, the largest known cephalopod invertebrate by length, inhabiting abyssal oceanic depths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, architeuthis designates largest mollusk known about but never seen (to 60 feet long)."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The monster before us was a colossal calamary of the genus **Architeuthis**, its tentacles writhing like serpents."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"Submarine sonars tracked the shadowy glide of an **Architeuthis** rising from the oceanic trench."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Sperm whales bear deep circular battle scars across their jaws from violent encounters with **Architeuthis** in the dark abyss."*

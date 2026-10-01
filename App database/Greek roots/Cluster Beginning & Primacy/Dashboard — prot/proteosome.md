@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of vaccine that can be administered by an inhaler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of vaccine that can be administered by an inhaler.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, multi-subunit protein complex inside eukaryotic cells that degrades unneeded or damaged proteins by proteolysis (variant of proteasome).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular physiology, the 26S cylinder-shaped holoenzyme that digests ubiquitin-tagged proteins, maintaining cellular proteostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteosome designates a form of vaccine that can be administered by an inhaler."*
+> - 📜 **Avram Hershko (*The Ubiquitin System for Protein Degradation*):** *"Polyubiquitinated substrates are recognized and threaded into the central chamber of the **proteosome** for catalytic destruction."*
+> - 📜 **Aaron Ciechanover (*Cell*):** *"Malfunction of the **proteosome** leads to toxic aggregates characteristic of neurodegenerative disorders."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"The hollow core of the **proteosome** isolates active proteolytic sites from the general cytoplasmic environment."*

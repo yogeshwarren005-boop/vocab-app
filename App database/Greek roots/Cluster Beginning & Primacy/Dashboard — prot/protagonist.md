@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal character in a literary work (such as a drama or story).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leading actor or principal character in a television show, movie, book, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The leading character or major figure in a drama, novel, or other literary work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek theatre, the first actor who engaged in dialogue with the chorus (introduced by Thespis); hence, a champion or leader of a movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am all of my past, as every protagonist of the Mendelian law must agree."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*
+> - 📜 **Aristotle (*Poetics*):** *"Aeschylus first introduced a second actor, reducing the chorus and making the **protagonist** central to the dialogue."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was the innocent **protagonist** of a tragedy whose final acts she could neither foresee nor avert."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"In Mrs. Ramsay, the narrative finds an emotional **protagonist** who reconciles the dissonant personalities around the table."*

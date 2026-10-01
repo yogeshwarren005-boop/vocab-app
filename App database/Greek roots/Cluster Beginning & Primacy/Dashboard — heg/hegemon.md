@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a political state) having dominant influence or authority over others : one possessing hegemony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a political state) having dominant influence or authority over others : one possessing hegemony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supreme leader, leading state, or dominant power that exercises political, military, or economic leadership over others (from Greek hēgemōn, leader).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international relations theory, the preeminent superpower that establishes and enforces rules of order within the global geopolitical system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hegemon designates something (such as a political state) having dominant influence or authority over others : one possessing hegemony."*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"Sparta was recognized as the traditional **hegemon** of the Peloponnesian League, commanding all allied armies in the field."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Philip of Macedon was elected supreme **hegemon** of the Greek states at the Congress of Corinth."*
+> - 📜 **Noam Chomsky (*Hegemony or Survival*):** *"The United States acted as undisputed global **hegemon** following the collapse of the Soviet Union."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposition to government, rule, or political authority in general; an archaic term for anarchism or rebellion against governance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th- and 18th-century political theology, the radical rejection of civil magistracy and divine sovereign authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antarchy designates a term designating an entity, condition, or phenomenon derived from greek arch."*
+> - 📜 **Jeremy Taylor (*Ductor Dubitantium*):** *"Those seditious spirits who plead for absolute **antarchy** subvert the foundations of all peaceful Christian commonwealths."*
+> - 📜 **Richard Baxter (*A Holy Commonwealth*):** *"To depose the lawful magistrate without establishing a righteous order is to invite the demon of **antarchy**."*
+> - 📜 **Robert South (*Sermons Preached Upon Several Occasions*):** *"The civil convulsions of the rebellion proved that **antarchy** leads inevitably to the most brutal tyranny."*

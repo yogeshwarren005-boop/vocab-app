@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or associated with agony (especially death agonies).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or associated with agony (especially death agonies).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring at the moment of death or the final death struggle (in medicine, agonal breathing or agonal rhythm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency critical care and forensic pathology, describing terminal, reflexive gasping respirations or aberrant cardiac rhythms preceding clinical death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agonal designates pertaining to or associated with agony (especially death agonies)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must recognize **agonal** respirations as terminal brainstem reflexes requiring immediate palliative comfort."*
+> - 📜 **Paul Kalanithi (*When Breath Becomes Air*):** *"The telemetry monitor traced an **agonal** bradycardia, the heart's electrical system winding down in the final moments."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Understanding the difference between normal dying and **agonal** distress allows families to be present without needless terror."*

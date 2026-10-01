@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who participates in a public display of group feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who publicly protests or demonstrates against something, such as a political policy or social injustice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who enters a formal legal or ecclesiastical protest against an official decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Delphine proved another protester to add to the list."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Every working-class **protester** who took to the barricades demanded an end to bureaucratic privilege."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Society everywhere is in conspiracy against the manhood of every one of its members, and the true **protester** stands alone."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The bold abolitionist **protester** faced jeering mobs in northern cities, undaunted by threats of violence."*

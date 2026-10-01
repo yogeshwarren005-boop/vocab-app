@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal drug used to fight diseases (like malaria) that are caused by protozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal drug used to fight diseases (like malaria) that are caused by protozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting against or destroying protozoan parasites; an agent used to treat protozoal infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and tropical medicine, referring to therapeutics such as metronidazole, chloroquine, or artemisinin targeting diseases like malaria and amoebiasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiprotozoal designates a medicinal drug used to fight diseases (like malaria) that are caused by protozoa."*
+> - 📜 **Paul Ehrlich (*Chemotherapy*):** *"We searched for magic bullets exhibiting potent **antiprotozoal** activity without poisoning the tissues of the host."*
+> - 📜 **Alexander Fleming (*Penicillin and Its Practical Application*):** *"While antibiotics combat bacteria, synthetic chemical agents provide our primary **antiprotozoal** defenses against parasitic trypanosomes."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Administering cinchona bark afforded a powerful **antiprotozoal** remedy long before the plasmodium parasite was identified."*

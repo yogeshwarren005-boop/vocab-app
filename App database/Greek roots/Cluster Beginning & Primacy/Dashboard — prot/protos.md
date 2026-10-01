@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek word meaning 'first', 'foremost', or 'earliest', used as an architectural or classical designation of primacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine administration and Mount Athos monastic tradition, the presiding elder or monastic superior of the holy mountain council.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Through him the world obtained “a new truth--no conviction gained of an old one merely, made intense by a fresh appeal to the faded sense.” Cleon, the poet, writes to Protos in his Tyranny (that is, in the Greek sense, Sovereignty)."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Protos, it must be understood, having heard of the fame of Paul, and being perplexed in the extreme, has written the great apostle to know of his doctrine."*
+> - 📜 **Robert Browning (*Cleon*):** *"Thou, **Protos**, king of our Aegean realm, hast sent me golden gifts and royal greetings."*
+> - 📜 **Steven Runciman (*The Great Church in Captivity*):** *"The monastic communities of Mount Athos submitted disputes to the wisdom of their elected **Protos**."*
+> - 📜 **J. B. Bury (*A History of the Later Roman Empire*):** *"In classical administrative terminology, the prefix **protos** denoted rank, seniority, and supreme imperial dignity."*

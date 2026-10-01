@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affording protection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affording protection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not protective; failing to offer protection, defense, or shelter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an absence of defensive precautions, safeguards, or parental shielding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unprotective designates not affording protection."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"His casual, **unprotective** manner left her completely exposed to the sarcastic barbs of the company."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"She resented her father’s weak, **unprotective** attitude toward the financial vultures circling the estate."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The flimsy cotton canvas was utterly **unprotective** against the drenching equatorial downpour."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to proteolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to proteolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or causing the breakdown of proteins and peptides; protein-cleaving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzymology and microbiology, describing digestive enzymes or bacterial toxins capable of dissolving extracellular matrices and tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteolytic designates of or relating to proteolysis."*
+> - 📜 **John Howard Northrop (*Crystalline Enzymes*):** *"The **proteolytic** activity of crystalline trypsin remains remarkably specific to lysine and arginine peptide bonds."*
+> - 📜 **Alexander Fleming (*Penicillin and Its Practical Application*):** *"Pathogenic streptococci produce **proteolytic** factors that liquefy fibrin clots and facilitate invasive spread."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"To prevent unwanted cleavage during enzyme isolation, we added synthetic inhibitors against endogenous **proteolytic** enzymes."*

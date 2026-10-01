@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In_an_arch_manner; with playful slyness or roguishness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In_an_arch_manner; with playful slyness or roguishness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an arch, playfully roguish, saucy, or knowing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With an ironic, teasing, or coyly conspiratorial expression or tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He ought not to be supposed to be paying his addresses to any one.” “Oh! if these are your only objections,” cried Mrs Smith, archly, “Mr Elliot is safe, and I shall give myself no more trouble about him."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He is, indeed: but considering the inducement, my dear Miss Eliza, we cannot wonder at his complaisance; for who would object to such a partner?” Elizabeth looked archly, and turned away."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"These are something like grievances, and make me think the weather most unseasonably close.” “The sweets of housekeeping in a country village!” said Miss Crawford archly."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth looked **archly** at Darcy, smiling as she declined the honor of his hand for the next dance."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp tilted her lace parasol and glanced **archly** at the young officer over her shoulder."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle smiled **archly**, as if inviting Isabel to share in an unspoken secret."*

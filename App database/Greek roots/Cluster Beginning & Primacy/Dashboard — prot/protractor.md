@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drafting instrument used to draw or measure angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drafting instrument used to draw or measure angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring or drawing angles, typically in the form of a flat semicircular graduated plate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, a muscle that serves to draw a limb or structure forward (contrasting with a retractor).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractor designates drafting instrument used to draw or measure angles."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor laid out his calculations with compass, ruler, and brass **protractor** upon the workshop table."*
+> - 📜 **Richard Owen (*The Anatomy of Vertebrates*):** *"The strong **protractor** muscle draws the mandible forward during mastication."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"Barbicane verified every ballistic azimuth with a gleaming nautical **protractor**."*

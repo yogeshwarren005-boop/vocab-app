@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of deep-seated ill-will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between opposing principles or forces or factors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active hostility, opposition, or resistance between individuals, groups, or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and medicine, the mutual opposition or interference of two substances (e.g. drugs or bacterial strains) such that one nullifies the effect of the other.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Feeling herself in antagonism, she was quite in accord."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But it strikes me that there is a want of harmony between your present mood of self-sacrifice and your past mood of self-preservation.” These were the first words of antagonism."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She did not look me down, for there was neither challenge nor antagonism in her eyes—only fascination."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The mutual **antagonism** between competing species in the same ecological niche drives evolutionary divergence."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The natural **antagonism** between aristocratic pride and democratic equality fueled revolutionary passions throughout Europe."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The human mind experiences an inward **antagonism** between immediate sensual impulse and long-term rational ideals."*

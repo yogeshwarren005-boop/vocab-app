@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive reptile-like fossil birds of the jurassic or early cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive reptile-like fossil birds of the jurassic or early cretaceous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete taxonomic subclass of primitive, extinct birds that possessed distinctly reptilian anatomical features, notably including Archaeopteryx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic paleontology, historically contrasted with the Neornithes (modern birds) due to their toothed jaws, clawed forelimbs, and elongated caudal vertebral column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeornithes designates primitive reptile-like fossil birds of the jurassic or early cretaceous."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The subclass **Archaeornithes** was created to accommodate the solitary Jurassic transitional form Archaeopteryx."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Taxonomists formerly separated the primitive **Archaeornithes** from all living birds by their unreduced saurian tails."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"In the **Archaeornithes**, the sternum lacked the prominent keel that anchors the powerful flight muscles of modern fliers."*

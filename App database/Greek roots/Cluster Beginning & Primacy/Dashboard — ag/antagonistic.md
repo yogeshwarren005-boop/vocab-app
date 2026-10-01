@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating opposition or resistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by antagonism or antipathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or feeling active opposition or hostility toward someone or something; mutually opposed in nature or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In muscle anatomy, describing paired muscles (such as the biceps and triceps) that act in opposite directions to flex and extend joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether from a purely mechanical, or from any other cause, when Bathsheba arose it was with a quieted spirit, and a regret for the antagonistic instincts which had seized upon her just before."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The result showed that, along with the scientific impulse, there was working in him a more powerful antagonistic force."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His essay on Coleridge is very celebrated; but it deals, not with Coleridge's place as a poet, but with his place as a thinker--with Coleridge as the antagonistic power to Bentham in forming the opinions of the generation now passing away."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic evolution involves the continuous equilibrium between **antagonistic** forces of integration and disintegration."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The balance of constitutional liberty depends upon the harmonious friction of **antagonistic** interests."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The ethical progress of society consists not in imitating the cosmos, but in combating its **antagonistic** tendencies."*

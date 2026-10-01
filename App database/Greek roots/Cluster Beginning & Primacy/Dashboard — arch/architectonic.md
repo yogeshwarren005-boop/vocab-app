@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to construction or architecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to construction or architecture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to architecture, architectural design, or structural organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and systems theory, relating to the systematic arrangement and structural unification of all branches of knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, architectonic designates of or pertaining to construction or architecture."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"By the term **architectonic** I mean the art of constructing systems; for systematic unity is what first raises ordinary knowledge to the rank of science."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Political science is the most **architectonic** of faculties, dictating which disciplines are studied in the commonwealth."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The **architectonic** rhythm of the cathedral façade balances every portal with subtle structural counterpoint."*

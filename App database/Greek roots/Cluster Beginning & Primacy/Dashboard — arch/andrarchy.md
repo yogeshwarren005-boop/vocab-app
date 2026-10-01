@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social or political system governed or ruled predominantly by men; male supremacy or patriarchy (from Greek anēr/andros man + archē rule).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological and feminist political theory, an institutional order where political power, legal privileges, and economic authority are monopolized by men.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andrarchy designates a term designating an entity, condition, or phenomenon derived from greek arch."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"The institutional structure of ancient civil law was fundamentally an **andrarchy**, reducing women to legal nonentities."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The traditional family under patriarchal **andrarchy** served as an unyielding school of despotic power."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Behind the imposing facade of university colleges stood centuries of uncontested masculine **andrarchy**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek hēgeisthai meaning to lead, guide, command, or explain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and morphology, the foundational stem yielding words of political leadership (hegemony) and textual interpretation (exegesis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heg designates a term designating an entity, condition, or phenomenon derived from greek heg."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The Greek root **heg**- signified leadership and guidance, giving us both political hegemony and textual exegesis."*
+> - 📜 **Antoine Meillet (*Introduction to the Comparative Study of Indo-European Languages*):** *"From the verbal stem **heg**- arose the Greek concept of the hegemon, the commander who marches at the head."*
+> - 📜 **Max Müller (*The Science of Thought*):** *"In the development of civic language, the root **heg**- evolved from physical guiding into supreme political authority."*

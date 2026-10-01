@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek palae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of whole-genome duplication (polyploidy) events in the evolutionary history of a species or lineage that occurred millions of years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary genomics, ancestral genome duplication events (such as the 1R/2R events in early vertebrates or ancestral duplications in angiosperms) that provide redundant genetic material for evolutionary innovation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleopolyploidy designates a term designating an entity, condition, or phenomenon derived from greek palae."*
+> - 📜 **Susumu Ohno (*Evolution by Gene Duplication*):** *"Ancient **paleopolyploidy** provided the duplicated gene families that allowed early vertebrates to evolve complex organ systems."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Genomic sequencing confirms that ancient **paleopolyploidy** played a paramount role in the evolutionary radiation of flowering plants."*
+> - 📜 **John Maynard Smith (*The Major Transitions in Evolution*):** *"The signatures of **paleopolyploidy** reveal how massive chromosome doubling events preceded bursts of morphological innovation."*

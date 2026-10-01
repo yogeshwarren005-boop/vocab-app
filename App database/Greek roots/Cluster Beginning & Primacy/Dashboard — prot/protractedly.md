@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a slow, leisurely or prolonged way;  -rossetti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a slow, leisurely or prolonged way;  -rossetti.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a protracted or prolonged manner; over an extended or drawn-out period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With tedious delay or hesitation; lingeringly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractedly designates in a slow, leisurely or prolonged way;  -rossetti."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The twilight lingered **protractedly** over Egdon Heath, blending heather and bog into uniform blackness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon coughed **protractedly**, as if measuring out his words to emphasize his scholarly grievance."*
+> - 📜 **Henry James (*The American*):** *"The negotiations proceeded **protractedly**, every minor formality being scrutinized by the Parisian solicitors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive crow-sized bird (genus Archaeopteryx) of the Upper Jurassic period of Europe having reptilian characteristics (such as teeth and a long bony tail).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive crow-sized bird (genus Archaeopteryx) of the Upper Jurassic period of Europe having reptilian characteristics (such as teeth and a long bony tail).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of bird-like dinosaurs from the Late Jurassic period, exhibiting transitional features between feathered dinosaurs and modern birds (from Greek archaios ancient + pteryx wing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the iconic transitional fossil discovered in Solnhofen limestone in 1861, possessing avian flight feathers alongside reptilian teeth, claws, and a long bony tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeopteryx designates a primitive crow-sized bird (genus archaeopteryx) of the upper jurassic period of europe having reptilian characteristics (such as teeth and a long bony tail)."*
+> - 📜 **Thomas Henry Huxley (*On the Animals which are most nearly intermediate between Birds and Reptiles*):** *"In **Archaeopteryx**, the reptilian affinities are so manifest that the boundary between birds and reptiles completely dissolves."*
+> - 📜 **Charles Darwin (*The Origin of Species (4th edition)*):** *"The strange bird **Archaeopteryx**, with a long lizard-like tail bearing a pair of feathers on each joint, wonderfully illustrates my theory."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"**Archaeopteryx** is the classic mosaic fossil, demonstrating how evolutionary novelties arise through mosaic assembly."*

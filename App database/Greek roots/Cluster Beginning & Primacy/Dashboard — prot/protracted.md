@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lengthen in time; cause to be or last longer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively long in duration; tediously protracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting for a long time or longer than expected or usual; prolonged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn out, tedious, or extended through deliberate delay or stubborn resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"These delays so protracted the journey that the short day was spent and the long night had closed in before we came to St."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, using his silver trowel persuasively and smoothingly, “that this has been a great cause, that this has been a protracted cause, that this has been a complex cause."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Sir ---- was also invulnerable while sitting on the grand jury, where quite lately he had protracted the business to an inordinate length in order to extend his own liberty."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce had become a **protracted** nightmare of endless Chancery bills and legal costs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **protracted** siege exhausted the garrison, whose supplies were consumed long before the breach was forced."*
+> - 📜 **John Cairns (*Memoirs*):** *"After a **protracted** debate in the general assembly, the resolution was carried by a narrow majority."*

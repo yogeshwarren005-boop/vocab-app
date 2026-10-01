@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek palae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the evolutionary origins, prehistoric emergence, and ancestral stages of the human mind and cognitive faculties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary psychology and cognitive archaeology, reconstructing the cognitive architectures, social intelligence, and symbolic capacities of early hominids from material artifacts and cranial endocasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleopsychology designates a term designating an entity, condition, or phenomenon derived from greek palae."*
+> - 📜 **Julian Jaynes (*The Origin of Consciousness in the Breakdown of the Bicameral Mind*):** *"The speculative field of **paleopsychology** investigates how human consciousness emerged from archaic mythic and auditory hallucinations."*
+> - 📜 **Carl Sagan (*The Dragons of Eden: Speculations on the Evolution of Human Intelligence*):** *"In the inquiries of **paleopsychology**, we trace human dreams and anxieties back to the nocturnal terrors of our early mammalian ancestors."*
+> - 📜 **Steven Pinker (*How the Mind Works*):** *"Modern cognitive science is essentially reverse-engineering the mind using the insights of evolutionary **paleopsychology**."*

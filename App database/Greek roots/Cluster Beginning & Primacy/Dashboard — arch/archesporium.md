@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek speir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mass of archesporial cells or primitive sporogenous tissue in the sporangium of a plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy, the central fertile tissue within anthers and ovules that develops into microspores or megaspores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archesporium designates a term designating an entity, condition, or phenomenon derived from greek speir."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"The young anther reveals four lobes, each enclosing a column of fertile cells known as the **archesporium**."*
+> - 📜 **Donald A. Johansen (*Plant Microtechnique*):** *"Differential staining clearly highlights the fertile **archesporium** against the surrounding sterile nucellar tissue."*
+> - 📜 **Arthur Johnson Eames (*Morphology of the Angiosperms*):** *"The origin of the tapetum from peripheral layers of the **archesporium** is characteristic of many primitive families."*

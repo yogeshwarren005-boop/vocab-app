@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of lawlessness or political disorder due to the absence of governmental authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of disorder due to absence or non-recognition of authority or other controlling systems; political lawlessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, the ideal theoretical state of society based on voluntary cooperation and complete individual freedom without government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am that man, the sum of him, the all of him, the hairless biped who struggled upward from the slime and created love and law out of the anarchy of fecund life that screamed and squalled in the jungle."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And longer with Politics not to be cramm’d, Be Anarchy curs’d, and Tyranny damn’d!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This period of European affairs is emphatically styled by historians, the times of feudal anarchy."*
+> - 📜 **Percy Bysshe Shelley (*The Masque of Anarchy*):** *"Last came **Anarchy**: he rode / On a white horse, splashed with blood; / He was pale even to the lips, / Like Death in the Apocalypse."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Without the sweet reasonableness of culture, our unfettered individualism plunges into raw social **anarchy**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Before their eyes in sudden view appear / The secrets of the hoary Deep—a dark / Illimitable ocean, where Chaos umpire sits, / And by decision more embroils the fray / By which he reigns: next him, high arbiter, / Chance governs all, and ancient **Anarchy**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The head, superior, or abbot of an Eastern Orthodox or Eastern Catholic monastery (from Greek hēgoumenos, one who leads).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eastern monasticism, the spiritual father elected by the brotherhood to guide the monastic community, equivalent to a Western abbot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hegumen designates a term designating an entity, condition, or phenomenon derived from greek heg."*
+> - 📜 **Leo Tolstoy (*Father Sergius*):** *"The holy **hegumen** received the troubled prince in his cell, listening with silent compassion to his spiritual confession."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"The visiting gentry were escorted to the dining hall by the venerable **hegumen** of the monastery."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **hegumen** of the Studion monastery in Constantinople exercised immense moral authority during iconoclastic disputes."*

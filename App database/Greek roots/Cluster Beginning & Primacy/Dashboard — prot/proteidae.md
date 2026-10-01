@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mud puppies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mud puppies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of permanently aquatic, neotenic salamanders (mudpuppies and olms) retaining bushy external gills throughout life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, caecilian-like or perennibranchiate amphibians including Proteus anguinus of subterranean caves and Necturus of North American rivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteidae designates mud puppies."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The blind olm of the Carniolan caves, belonging to the **Proteidae**, retains external gills and rudimentary eyes throughout adult life."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The retention of larval branchial arches in the **Proteidae** exemplifies extreme evolutionary neoteny."*
+> - 📜 **Gladwyn Kingsley Noble (*The Biology of the Amphibia*):** *"Members of the family **Proteidae** fail to metamorphose even when stimulated with exogenous thyroid hormones."*

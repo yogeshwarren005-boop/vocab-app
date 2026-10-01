@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient : primitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient : primitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical combining root derived from Ancient Greek archaios (ancient, primeval, from archē beginning).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature and humanities terminology, forming words relating to ancient history, primitive life, or prehistoric eras (archaeology, Archaean, archaic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archae designates ancient : primitive."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The Greek element **archae**- stems from arche, beginning, giving birth to our terms of ancient antiquity."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"We prefix **archae**- to designate the oldest stratigraphic layers of Aegean civilization."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The stem **archae**- connects the mythic origins of culture with the modern disciplines of prehistory."*

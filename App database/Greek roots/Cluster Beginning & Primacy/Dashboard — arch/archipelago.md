@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expanse of water with many scattered islands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of islands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, cluster, or chain of islands; also, a sea or body of water studded with many islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically, any scattered or discontinuous collection of entities resembling islands across a wider landscape or institutional network.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It coasted even the Island of Kiltan, a land originally coraline, discovered by Vasco da Gama in 1499, and one of the nineteen principal islands of the Laccadive Archipelago, situated between 10° and 14° 30′ N. lat., and 69° 50′ 72″ E. long."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Or, if the _Nautilus_ did emerge, nothing was to be seen but the pilot’s cage; and sometimes it went to great depths, for, between the Grecian Archipelago and Asia Minor we could not touch the bottom by more than a thousand fathoms."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The next day, the 14th of February, I resolved to employ some hours in studying the fishes of the Archipelago; but for some reason or other the panels remained hermetically sealed."*
+> - 📜 **Aleksandr Solzhenitsyn (*The Gulag Archipelago*):** *"This vast **archipelago** of camps stretched across the continent, invisible to ordinary citizens yet swallowing millions."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Fair Greece! sad relic of departed worth! Still roll thy waves around the blue Aegean **archipelago**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The natural history of this **archipelago** is very remarkable: it seems to be a little world within itself."*

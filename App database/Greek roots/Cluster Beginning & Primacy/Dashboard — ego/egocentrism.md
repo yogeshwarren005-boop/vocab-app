@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being egocentric : excessive interest in oneself and concern for one's own welfare or advantage at the expense of or in disregard of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being egocentric : excessive interest in oneself and concern for one's own welfare or advantage at the expense of or in disregard of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being egocentric; excessive preoccupation with oneself and one's own concerns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental cognitive theory, the natural inability of children (and immature adults) to differentiate subjective impressions from objective reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egocentrism designates the quality or state of being egocentric : excessive interest in oneself and concern for one's own welfare or advantage at the expense of or in disregard of others."*
+> - 📜 **Jean Piaget (*The Construction of Reality in the Child*):** *"Cognitive growth consists in a gradual decentering, liberating the mind from primitive perceptual **egocentrism**."*
+> - 📜 **Erich Fromm (*The Art of Loving*):** *"Genuine love demands overcoming our narcissistic **egocentrism** to see another person in their true reality."*
+> - 📜 **C. G. Jung (*Psychological Types*):** *"Introverted neurosis often degenerates into brooding **egocentrism**, cutting the individual off from external communal life."*

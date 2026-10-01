@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The full complement of proteins produced by a particular genome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The full complement of proteins produced by a particular genome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The entire complement of proteins expressed by a cell, tissue, or organism at a given time or under specific conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional genomics and systems biology, the dynamic protein repertoire reflecting transcriptional regulation, alternative splicing, and post-translational modifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteome designates the full complement of proteins produced by a particular genome."*
+> - 📜 **Marc Wilkins (*Proteome Research: New Frontiers in Functional Genomics*):** *"We proposed the term **proteome** to signify the complete protein complement encoded by an organism's genome."*
+> - 📜 **Sydney Brenner (*Loose Ends*):** *"While the genome is largely static in each cell, the cellular **proteome** fluctuates constantly in response to physiological cues."*
+> - 📜 **J. Craig Venter (*A Life Decoded*):** *"Deciphering the human genome was merely the prelude to characterizing the vast complexities of the human **proteome**."*

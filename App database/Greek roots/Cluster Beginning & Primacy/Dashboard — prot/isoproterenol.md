@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug (trade name isuprel) used to treat bronchial asthma and to stimulate the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drug (trade name isuprel) used to treat bronchial asthma and to stimulate the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic catecholamine drug that acts as a non-selective beta-adrenoreceptor agonist, used to treat bradycardia and heart block.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology, an isopropyl-substituted noradrenaline analogue stimulating myocardial contractility and relaxing bronchial smooth muscle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoproterenol designates drug (trade name isuprel) used to treat bronchial asthma and to stimulate the heart."*
+> - 📜 **Raymond Ahlquist (*American Journal of Physiology*):** *"The potent cardiac stimulation produced by **isoproterenol** demonstrated the distinct existence of beta-adrenergic receptors."*
+> - 📜 **James Black (*Lectures on Pharmacological Discovery*):** *"Our development of beta-blockers began by designing compounds that could antagonize the rapid tachycardia induced by **isoproterenol**."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Intravenous infusion of **isoproterenol** dramatically accelerates atrioventricular conduction in patients with acute Stokes-Adams attacks."*

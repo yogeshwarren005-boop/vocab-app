@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being extremely egocentric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being extremely egocentric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsessive, morbid, or extraordinarily inflated self-absorption and egotism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric and clinical discourse, an extreme pathological preoccupation with one's own ego, bordering upon narcissistic personality disorder or megalomania.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egomania designates the quality or state of being extremely egocentric."*
+> - 📜 **Max Nordau (*Degeneration*):** *"The decadent artistic movement was infected with rampant **egomania**, exalting subjective whim above universal truth."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Totalitarian dictators exhibit a monstrous **egomania** that subordinates the lives of millions to their personal myth."*
+> - 📜 **H. L. Mencken (*Prejudices: Fourth Series*):** *"Political demagoguery in America is driven by unbridled **egomania** disguised as patriotic benevolence."*

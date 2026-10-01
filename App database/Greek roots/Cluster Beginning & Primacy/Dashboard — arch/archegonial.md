@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an archegonium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an archegonium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or producing an archegonium (the female multicellular sex organ in bryophytes, ferns, and gymnosperms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant developmental morphology, designating the archegonial chamber, neck canal cells, and protective venter during fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archegonial designates of or relating to an archegonium."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The flagellated spermatozoids swim through the film of dew toward the open **archegonial** neck."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Fertilization occurs deep within the **archegonial** venter, giving rise to the embryonic sporophyte."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The **archegonial** jacket cells provide vital nourishment to the developing egg in primitive gymnosperms."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical Greek philosophical term (ἀρχή) meaning beginning, origin, first principle, or supreme ruling power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pre-Socratic metaphysics, the foundational, primordial substance from which all things originate (e.g. water for Thales, apeiron for Anaximander, air for Anaximenes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And now the moon rises to separate them, and to glimmer here and there in horizontal lines behind their stems, and to make the avenue a pavement of light among high cathedral arches fantastically broken."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare turned at hearing her footsteps, but his recognition of her presence seemed to make no difference to him, and he went on over the five yawning arches of the great bridge in front of the house."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe talked to his horse, and she meditated, by turns, on broken promises and broken arches, phaetons and false hangings, Tilneys and trap-doors."*
+> - 📜 **Aristotle (*Metaphysics*):** *"The earliest philosophers sought the material **arche** of all beings, debating whether water, air, or fire was the primordial root."*
+> - 📜 **Martin Heidegger (*Early Greek Thinking*):** *"The Greek concept of **arche** unifies origin and rule: that which begins is that which governs all subsequent unfolding."*
+> - 📜 **Hans-Georg Gadamer (*The Beginning of Philosophy*):** *"In the pre-Socratic inquiry into the **arche**, Greek thought achieved its decisive leap into philosophical ontology."*

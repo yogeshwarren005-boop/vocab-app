@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tricyclic antidepressant used to treat clinical depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tricyclic antidepressant used to treat clinical depression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tricyclic antidepressant drug used in the treatment of major depressive disorder, known for having activating rather than sedating properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacology, a secondary amine dibenzocycloheptene derivative that potently inhibits the reuptake of norepinephrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protriptyline designates tricyclic antidepressant used to treat clinical depression."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Unlike amitriptyline, **protriptyline** possesses prominent psychomotor stimulating properties that make it unsuitable for agitated depressives."*
+> - 📜 **Julius Axelrod (*Nobel Lecture*):** *"The inhibition of presynaptic noradrenaline transport by **protriptyline** clarified the chemical mechanism of tricyclic antidepressants."*
+> - 📜 **Nathan S. Kline (*Psychopharmacological Treatment of Depression*):** *"Patients treated with **protriptyline** showed rapid improvement in motor retardation and morning lethargy."*

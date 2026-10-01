@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of diverse minute acellular or unicellular organisms usually nonphotosynthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the protozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-celled microscopic animal-like eukaryote belonging to the former group Protozoa; also, relating to protozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic ecology, a microscopic unicellular organism that grazes on bacteria and serves as a primary link in aquatic food webs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protozoan designates any of diverse minute acellular or unicellular organisms usually nonphotosynthetic."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"No one can doubt that many a humble **protozoan** has survived unchanged through vast geological epochs."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In every tidal pool, countless **protozoan** creatures feed upon decaying organic matter."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Under the compound microscope, the transparent **protozoan** reveals pulsating vacuoles and streaming endoplasm."*

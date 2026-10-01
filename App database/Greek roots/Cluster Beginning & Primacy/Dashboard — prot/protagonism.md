@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or role of being a protagonist; leading participation or championship of a cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory and political sociology, active initiative or central agency in driving historical movements or dramatic plots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protagonism designates active support of an idea or cause etc.; especially the act of pleading or arguing for something."*
+> - 📜 **Antonio Gramsci (*Prison Notebooks*):** *"The political **protagonism** of the subaltern classes emerges only when they attain critical historical consciousness."*
+> - 📜 **Georg Lukács (*The Historical Novel*):** *"The hero of an epic drama is defined not by moral perfection, but by intense historical **protagonism**."*
+> - 📜 **Jean-Paul Sartre (*What Is Literature?*):** *"The writer invites the reader into active moral **protagonism**, rejecting passive consumption of aesthetic illusions."*

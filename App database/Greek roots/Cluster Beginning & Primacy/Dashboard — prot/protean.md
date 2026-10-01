@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking on different forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking on different forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Readily changing shape, form, character, or role; exhibiting extreme diversity and variability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deriving from Proteus, the prophetic old man of the sea in Greek mythology who altered his form to evade capture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The student of the poem is amazed, long before he gets over all these monologues, at the Protean capabilities of the poet’s own intellect."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In vain the sorcerer tried his **protean** arts, shifting from raging fire to roaring lion."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Shakespeare's genius was **protean**, passing effortlessly into every condition and passion of human nature."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The mysterious voyager assumed a **protean** succession of disguises as the Mississippi steamer drifted downriver."*

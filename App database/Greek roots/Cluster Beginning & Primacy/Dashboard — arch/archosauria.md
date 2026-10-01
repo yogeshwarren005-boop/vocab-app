@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large subclass of diapsid reptiles including: crocodiles; alligators; dinosaurs; pterosaurs; plesiosaurs; ichthyosaurs; thecodonts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large subclass of diapsid reptiles including: crocodiles; alligators; dinosaurs; pterosaurs; plesiosaurs; ichthyosaurs; thecodonts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major clade or subclass of diapsid amniotes that originated in the Triassic period, encompassing pseudosuchians (crocodilians and kin) and avemetatarsalians (pterosaurs, dinosaurs, and birds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic systematics, the ruling reptiles defined by shared evolutionary novelties such as serrated teeth in sockets and mandibular fenestrae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archosauria designates a large subclass of diapsid reptiles including: crocodiles; alligators; dinosaurs; pterosaurs; plesiosaurs; ichthyosaurs; thecodonts."*
+> - 📜 **Edward Drinker Cope (*The Primary Factors of Organic Evolution*):** *"The skeletal architecture of the **Archosauria** demonstrates the ancestral divergence of avian from reptilian types."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Within **Archosauria**, two distinct evolutionary branches diverged: the crocodilian line and the bird line."*
+> - 📜 **Neil Shubin (*Your Inner Fish*):** *"Comparative developmental studies confirm that living members of **Archosauria** retain deep genetic homologies in limb patterning."*

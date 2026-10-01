@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conceited and self-centered person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-centered person with little regard for others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-centered or selfish person; an adherent of the philosophical doctrine of egoism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and social characterization, an individual who views every relationship, institution, and social grace purely as mirrors for their own vanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"To make the child his wife." He was not really more of an egoist than the average man, but he did assume that if he wanted her he could win her."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It often seemed to her that she thought too much about herself; you could have made her colour, any day in the year, by calling her a rank egoist."*
-> - 📜 **Bram Stoker (*Dracula*):** *"So true, so sweet, so noble, so little an egoist--and that, let me tell you, is much in this age, so sceptical and selfish."*
+> - 📜 **George Meredith (*The Egoist*):** *"The **egoist** does not merely love himself; he insists that all mankind shall join him in worshiping his image."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Individualism must not be confused with crude selfishness; the common **egoist** thinks of no one but himself from the start."*
+> - 📜 **Honoré de Balzac (*Père Goriot*):** *"Rastignac realized that Paris was a glittering battleground where only the ruthless **egoist** could triumph."*

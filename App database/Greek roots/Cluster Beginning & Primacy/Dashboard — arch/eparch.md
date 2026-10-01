@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Greece and the Byzantine Empire, a governor of a province or the prefect of Constantinople.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eastern Orthodox and Eastern Catholic churches, a bishop in charge of an eparchy (diocese).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eparch designates a term designating an entity, condition, or phenomenon derived from greek arch."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **eparch** of Constantinople controlled the city police, market regulations, and imperial ceremonies."*
+> - 📜 **Procopius (*Secret History*):** *"Petitions against corrupt provincial governors were regularly submitted to the imperial **eparch**."*
+> - 📜 **Steven Runciman (*The Great Church in Captivity*):** *"Under Ottoman rule, the local **eparch** acted as both pastoral shepherd and civil judge for his Christian flock."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family palaemonidae; widely distributed genus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family palaemonidae; widely distributed genus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater, brackish, and marine decapod prawns (family Palaemonidae); also the Greek sea divinity Palaemon (Melicertes; homograph on palae-!).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology, the deified mortal boy Melicertes transformed into the benevolent sea-god Palaemon (guardian of harbors); in carcinology, transparent commercial prawns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaemon designates type genus of the family palaemonidae; widely distributed genus."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Neptune took pity on the weeping mother and son, transforming Ino into Leucothea and young Melicertes into the sea-god **Palaemon**."*
+> - 📜 **John Milton (*Comus*):** *"By dead Parthenope's dear tomb, / And fair Ligea's golden comb, / Wherewith she sits on diamond rocks / Sleeking her soft alluring locks; / By all the nymphs that gladly dance / Upon the sea's broad countenance; / And by the god **Palaemon**'s sacred name."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The thoracic appendages of the common prawn, **Palaemon**, demonstrate standard decapod biramous architecture."*

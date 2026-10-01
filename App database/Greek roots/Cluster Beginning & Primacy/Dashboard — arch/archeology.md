@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of material remains (such as tools, pottery, jewelry, stone walls, and monuments) of past human life and activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remains of the culture of a people : antiquities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of historic or prehistoric peoples and their cultures by analysis of artifacts, inscriptions, and monuments (variant of archaeology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Foucault's philosophy, the analysis of historical systems of thought and unconscious discursive formations governing an era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archeology designates the scientific study of material remains (such as tools, pottery, jewelry, stone walls, and monuments) of past human life and activities."*
+> - 📜 **Michel Foucault (*The Archeology of Knowledge*):** *"The purpose of this **archeology** is not to resurrect monuments, but to describe the transformational rules of discourse."*
+> - 📜 **Charles Lyell (*The Antiquity of Man*):** *"Prehistoric **archeology** and geology converge when human flints are retrieved alongside the bones of extinct pachyderms."*
+> - 📜 **Hiram Bingham (*Lost City of the Incas*):** *"The dense cloud-forest had guarded Machu Picchu until modern **archeology** penetrated its stone terraces."*

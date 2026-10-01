@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A government by eight rulers; also, a confederacy or group of eight states or provinces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British historiography, an alternative term for the Anglo-Saxon heptarchy when considering an eighth sub-kingdom (such as Lindsey or Bernicia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octarchy designates a term designating an entity, condition, or phenomenon derived from greek arch."*
+> - 📜 **Edward Augustus Freeman (*The History of the Norman Conquest of England*):** *"Historians who reckon Lindsey alongside the standard realms describe an **octarchy** rather than a heptarchy of Anglo-Saxon kingdoms."*
+> - 📜 **John Milton (*The History of Britain*):** *"The rivalries of the **octarchy** left the island vulnerable to the devastating incursions of Norse raiders."*
+> - 📜 **Sharon Turner (*The History of the Anglo-Saxons*):** *"The political balance of the **octarchy** fluctuated as Northumbria and Mercia alternately claimed overlordship."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of true, original.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of true, original.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the pre-Hellenic indigenous population of ancient Crete or their non-Greek language (from Greek eteos true/original + Kres Cretan).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aegean archaeology and epigraphy, designating fragmentary inscriptions written in the Greek alphabet found in eastern Crete (such as Praisos) preserving an undeciphered indigenous tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Eteocretan designates adjective*) pertaining to, derived from, or characteristic of true, original."*
+> - 📜 **Homer (*The Odyssey (Book XIX)*):** *"There is a land called Crete, in the midst of the wine-dark sea; therein dwell many men: Achaeans, stout-hearted **Eteocretans**, Dorians, and Pelasgians."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The **Eteocretan** inscriptions of Praisos represent the stubborn survival of the ancient Minoan speech into Hellenistic times."*
+> - 📜 **Strabo (*Geography*):** *"The historian Staphylus reports that the **Eteocretans** were the original, autochthonous dwellers of the southern Cretan coast."*

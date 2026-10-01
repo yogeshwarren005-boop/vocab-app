@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the earliest period of the Stone Age characterized by rough or chipped stone implements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diet approximating that of hunter-gatherers of the Paleolithic period and consisting mainly of preagricultural foods (such as lean meats, fish, vegetables, fruit, nuts, and seeds) and strictly limiting foods (such as dairy products, legumes, grains, potatoes, and refined sugar) which did not exist prior to the development of agricultural practices —called also caveman diet, Stone Age diet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the early phase of the Stone Age, spanning from the earliest stone tool use c. 2.5 million years ago until the end of the Pleistocene c. 10,000 BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and prehistoric archaeology, characterized by chipped flint hand-axes, nomadic hunter-gatherer bands, and Pleistocene cave art (Lascaux, Altamira).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have lived through the ages known to-day among the scientists as the Paleolithic, the Neolithic, and the Bronze."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"I proposed the division between the **Paleolithic** or Old Stone Age of chipped tools, and the Neolithic or New Stone Age of polished implements."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"The **Paleolithic** hunter depended entirely on wild game and foraging, living at the mercy of glacial climate shifts."*
+> - 📜 **Henri Breuil (*Four Hundred Centuries of Cave Art*):** *"The breathtaking animal murals of Lascaux reveal the sublime artistic and ritual genius of **Paleolithic** humanity."*

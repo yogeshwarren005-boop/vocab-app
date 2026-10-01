@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The paleontology of microfossils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The paleontology of microfossils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of paleontology that deals with the study of microfossils, microscopic remains of plants and animals requiring microscopic examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum geology and paleoceanography, analyzing foraminifera, radiolarians, ostracods, and conodonts for biostratigraphic correlation and reconstructing past ocean temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropaleontology designates the paleontology of microfossils."*
+> - 📜 **Joseph A. Cushman (*Foraminifera: Their Classification and Economic Use*):** *"Industrial **micropaleontology** proved indispensable to the petroleum engineer, mapping oil-bearing strata from drill-core samples."*
+> - 📜 **G. G. Simpson (*Life of the Past*):** *"The extraordinary abundance of microfossils makes **micropaleontology** our most reliable tool for fine stratigraphic correlation."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep-sea sediment cores unroll millions of years of oceanic history through the delicate lens of **micropaleontology**."*

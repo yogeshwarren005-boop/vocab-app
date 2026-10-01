@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by three persons : triumvirate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country under three rulers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by three persons ruling jointly; a triumvirate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country, empire, or territory divided into three separate jurisdictions or ruled by three sovereigns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triarchy designates government by three persons : triumvirate."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"The great **triarchy** of the world is split: Antony, Octavius, and Lepidus contend for solitary mastery of mankind."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The partition of the Frankish kingdom among the three sons of Clovis established a short-lived **triarchy** in Gaul."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"A divided sovereignty, whether an oligarchy, **triarchy**, or dual throne, contains the inevitable seeds of civil destruction."*

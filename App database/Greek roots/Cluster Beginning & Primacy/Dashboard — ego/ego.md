@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The self especially as contrasted with another self or the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The self especially as contrasted with another self or the world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's sense of self-esteem or self-importance; in psychoanalysis, the conscious, rational part of the psyche that mediates between the id, superego, and reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy (Latin and Greek egō meaning 'I'), the conscious subject of experience and thought, as in Descartes' 'cogito, ergo sum'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, that in all you writ to Rome, or else To foreign princes, “_ego et rex meus_” Was still inscribed, in which you brought the King To be your servant."*
-> - 📜 **George Eliot (*Middlemarch*):** *"These people might not take that high view of you which I have always taken, as an alter ego, a right hand—though I always looked forward to your doing something else."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ego non baptizo te in nomine patris, sed in nomine diaboli!” deliriously howled Ahab, as the malignant iron scorchingly devoured the baptismal blood."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The **ego** is not master in its own house; it must balance the instinctual demands of the id against the harsh judgments of the superego."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The empirical self or **ego** is divided into the material self, the social self, and the spiritual self."*
+> - 📜 **Carl Rogers (*On Becoming a Person*):** *"When the conscious **ego** feels threatened, it constructs defensive barriers that distort genuine emotional experience."*

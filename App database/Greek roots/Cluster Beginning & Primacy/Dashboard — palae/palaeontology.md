@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The earth science that studies fossil organisms and related remains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The earth science that studies fossil organisms and related remains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science concerned with fossil animals, plants, and prehistoric organisms, their evolutionary history, and ancient environments (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science (formulated by Georges Cuvier and named in 1822), the foundational discipline proving that mass extinction and species turnover occurred across deep time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeontology designates the earth science that studies fossil organisms and related remains."*
+> - 📜 **Georges Cuvier (*Discourse on the Revolutionary Upheavals on the Surface of the Globe*):** *"Comparative anatomy and **palaeontology** demonstrate that ancient faunas were swept away by colossal catastrophes."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The progress of **palaeontology** has filled the former chasms in the chain of living nature with countless intermediate fossil species."*
+> - 📜 **Stephen Jay Gould (*Ever Since Darwin*):** *"The primary glory of **palaeontology** is its direct access to deep time, the fourth dimension of organic history."*

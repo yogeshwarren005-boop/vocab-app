@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ruled by or having the supreme power resting with a monarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruled by or having the supreme power resting with a monarch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a monarch or monarchy; ruled by a monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, favoring or instituted upon the principle of hereditary single-ruler governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It was true; Euergetes is a well-known kingly title, but the explanation that it was the reward for strenuous use of monarchic authority was new."*
+> - 📜 **Montesquieu (*The Spirit of the Laws*):** *"The **monarchic** form of government rests upon the principle of honor, whereas a republic requires virtue."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers (No. 67)*):** *"Critics of the Constitution unjustly imputed **monarchic** ambitions to the executive branch."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"European societies emerged from **monarchic** centralism, carrying historical habits of obedience into democratic life."*

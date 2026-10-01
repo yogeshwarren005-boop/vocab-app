@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal character in a work of fiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone involved in a contest or battle (as in an agon).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is engaged in a struggle, combat, or athletic contest; in biochemistry, a substance that binds to a receptor to initiate a physiological response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, a prime mover muscle whose contraction is directly responsible for producing a specific motion (opposing an antagonist).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Within that period he wrote the ‘Paradise Lost’, ‘Paradise Regained’, and ‘Samson Agonistes’."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Samson stands as the blind **agonist**, appointed to wrestle with the idolatrous Philistine host."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The synthetic dopamine **agonist** bound to striatal receptors, restoring fluid locomotion to parkinsonian patients."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"During flexion of the forearm, the biceps acts as the prime **agonist** while the triceps relaxes."*

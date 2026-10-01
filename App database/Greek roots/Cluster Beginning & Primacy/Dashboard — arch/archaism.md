@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of archaic diction or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of archaic usage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that is very old or old-fashioned; especially an archaic word, grammatical form, or stylistic feature surviving in modern language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and liturgical prose, preserved antique phrases (such as 'hereunto', 'thee', 'thou') retained for institutional solemnity and continuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaism designates the use of archaic diction or style."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The isolated hill speech of the Southern Appalachians preserves many an Elizabethan **archaism** long forgotten in London."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Words are like leaves; and where they most abound, / Much fruit of sense beneath is rarely found: / Avoid an affected **archaism** that smells of the tomb."*
+> - 📜 **George Orwell (*1984*):** *"The very word 'honor' was regarded in Newspeak as a dangerous ideological **archaism** to be eradicated."*

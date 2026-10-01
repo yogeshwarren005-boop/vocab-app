@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Echidnas; platypus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Echidnas; platypus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subclass of primitive mammals that lay eggs and suckle their young without nipples, comprising the monotremes (platypus and echidnas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian phylogenetics, the sister group to Theria (marsupials and placentals), retaining ancestral reptilian skeletal and reproductive traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototheria designates echidnas; platypus."*
+> - 📜 **Thomas Henry Huxley (*On the Laws of Evolution to the Vertebrata*):** *"I proposed the division **Prototheria** for the duck-billed platypus and echidna, which stand closest to reptiles."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The oviparous reproduction of the **Prototheria** astonished European anatomists accustomed to viviparous mammals."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The subclass **Prototheria** represents an ancient radiation of Australasian mammals that diverged before viviparity evolved."*

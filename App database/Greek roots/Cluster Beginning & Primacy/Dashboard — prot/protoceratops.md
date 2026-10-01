@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small horned dinosaur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small horned dinosaur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, herbivorous, sheep-sized ceratopsian dinosaurs from the Late Cretaceous of the Gobi Desert, lacking developed facial horns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dinosaur paleontology, an abundant neoceratopsian known from numerous well-preserved skeletons, nests, and fossilized eggs discovered by the Central Asiatic Expeditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoceratops designates small horned dinosaur."*
+> - 📜 **Roy Chapman Andrews (*On the Trail of Ancient Man*):** *"In the Flaming Cliffs of the Gobi, we discovered nests of fossilized dinosaur eggs belonging to **Protoceratops**."*
+> - 📜 **Henry Fairfield Osborn (*American Museum Novitates*):** *"The skull of **Protoceratops** exhibits an expanded neck frill but lacks the prominent nasal and orbital horns of later ceratopsians."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Ontogenetic series of **Protoceratops** skulls show how the protective frill grew with striking positive allometry as the animal matured."*

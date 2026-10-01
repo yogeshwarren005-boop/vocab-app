@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the unicellular protists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the unicellular protists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organism belonging to the kingdom Protoctista, including eukaryotic microorganisms and their immediate multicellular descendants that are not plants, animals, or fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Lynn Margulis's taxonomy, any nucleated organism (such as algae, protozoans, and slime molds) excluded from the plant, animal, and fungal kingdoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoctist designates any of the unicellular protists."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Every **protoctist** organism reveals the chimeric legacy of ancient endosymbiotic bacterial partnerships."*
+> - 📜 **John Maynard Smith (*The Major Transitions in Evolution*):** *"The diversification of the **protoctist** grade of organization was the critical bridge to complex multicellularity."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The sea floor during the Ediacaran was inhabited by bizarre **protoctist** creatures that defy simple placement into modern phyla."*

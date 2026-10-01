@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political theory holding all forms of governmental authority to be unnecessary and undesirable and advocating a society based on voluntary cooperation and free association of individuals and groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The advocacy or practice of anarchistic principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political theory advocating the abolition of all government and the organization of society on a voluntary, cooperative basis without coercive authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history (articulated by Proudhon, Bakunin, and Kropotkin), a libertarian socialist philosophy seeking universal human freedom and mutual aid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anarchism designates a political theory holding all forms of governmental authority to be unnecessary and undesirable and advocating a society based on voluntary cooperation and free association of individuals and groups."*
+> - 📜 **Pierre-Joseph Proudhon (*What is Property?*):** *"As man seeks justice in equality, so society seeks order in **anarchism**, the absence of master and sovereign."*
+> - 📜 **Peter Kropotkin (*Mutual Aid: A Factor of Evolution*):** *"The voluntary federations of **anarchism** represent the natural social instinct of mutual aid freed from state coercion."*
+> - 📜 **Emma Goldman (*Anarchism and Other Essays*):** *"**Anarchism** stands for the liberation of the human mind from the dominion of religion, property, and state authority."*

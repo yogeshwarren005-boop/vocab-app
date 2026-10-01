@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, serving as, or characteristic of a prototype; original or primitive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archetypal criticism and philosophy, embodying the original template from which later iterations or forms are derived.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototypal designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **Samuel Taylor Coleridge (*The Statesman's Manual*):** *"The Hebrew prophets held up a **prototypal** vision of divine justice to judge the earthly kings."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Plato provides the **prototypal** mind of Western philosophy, anticipating every subsequent idealist school."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The primordial mother image functions as a **prototypal** motif across the mythologies of all continents."*

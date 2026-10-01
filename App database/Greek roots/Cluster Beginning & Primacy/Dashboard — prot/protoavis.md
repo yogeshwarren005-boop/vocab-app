@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most primitive avian type known; extinct bird of the triassic having bird-like jaw and hollow limbs and breastbone with dinosaur-like tail and hind limbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most primitive avian type known; extinct bird of the triassic having bird-like jaw and hollow limbs and breastbone with dinosaur-like tail and hind limbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alleged primitive archosaur genus from the Late Triassic of Texas described by Sankar Chatterjee as a bird older than Archaeopteryx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a controversial fossil taxon whose avian status and chimeric nature remain subjects of heated scientific debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoavis designates most primitive avian type known; extinct bird of the triassic having bird-like jaw and hollow limbs and breastbone with dinosaur-like tail and hind limbs."*
+> - 📜 **Sankar Chatterjee (*The Rise of Birds*):** *"The skull structure of **Protoavis** displays remarkable avian cranial kinesis tens of millions of years before Archaeopteryx."*
+> - 📜 **Stephen Jay Gould (*Dinosaur in a Haystack*):** *"The claim that **Protoavis** represents a true Triassic bird has met with fierce skepticism from cladists and anatomists."*
+> - 📜 **Alan Feduccia (*The Origin and Evolution of Birds*):** *"Many paleontologists suspect that **Protoavis** is a taphonomic chimera composed of mixed coelurosaurian and archosaurian bones."*

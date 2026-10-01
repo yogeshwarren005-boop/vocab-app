@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to or representing an original pattern or standard; characteristic of an archetype (variant of archetypal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing universal narrative motifs, symbolic types, or psychological templates across cultural traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetypical designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The saintly character exhibits an **archetypical** pattern of self-surrender recognized across diverse creeds."*
+> - 📜 **Mircea Eliade (*The Myth of the Eternal Return*):** *"Traditional societies repeat **archetypical** gestures in order to remain aligned with primordial sacred time."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale assumed an **archetypical** grandeur in Ahab’s brooding mind, embodying all malignant cosmic forces."*

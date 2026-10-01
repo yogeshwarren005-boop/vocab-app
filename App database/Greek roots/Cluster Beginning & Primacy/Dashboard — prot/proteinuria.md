@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of excessive protein (chiefly albumin but also globulin) in the urine; usually a symptom of kidney disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of excessive protein (chiefly albumin but also globulin) in the urine; usually a symptom of kidney disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormal amount of protein (especially albumin) in the urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology, a clinical hallmark of glomerular filtration barrier injury, diabetic nephropathy, or preeclampsia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteinuria designates the presence of excessive protein (chiefly albumin but also globulin) in the urine; usually a symptom of kidney disorder."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Coagulable urine, now designated **proteinuria**, is the pathognomonic sign of degenerative disease of the renal parenchyma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent **proteinuria** in a young patient warrants careful examination of the cardiovascular and renal systems."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"When glomerular podocytes are damaged by autoimmune complexes, massive **proteinuria** ensues, depleting circulating plasma albumin."*

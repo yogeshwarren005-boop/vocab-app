@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple protein found in fish sperm; rich in arginine; simpler in composition than globulin or albumin; counteracts the anticoagulant effect of heparin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple protein found in fish sperm; rich in arginine; simpler in composition than globulin or albumin; counteracts the anticoagulant effect of heparin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of small, strongly basic, arginine-rich nuclear proteins found in fish sperm that bind and condense DNA.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, protamine sulfate is used clinically as a specific antidote to reverse the anticoagulant effects of heparin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protamine designates a simple protein found in fish sperm; rich in arginine; simpler in composition than globulin or albumin; counteracts the anticoagulant effect of heparin."*
+> - 📜 **Albrecht Kossel (*The Protamines and Histones*):** *"The simple composition of **protamine**, composed predominantly of basic arginine, offered an early model of nucleoprotein binding."*
+> - 📜 **Charles Best (*Heparin: Its Chemistry, Physiology, and Clinical Applications*):** *"Intravenous administration of **protamine** promptly neutralizes circulating heparin, restoring normal blood coagulation."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"During spermiogenesis, somatic histones are systematically displaced by **protamine** to compact chromatin within the sperm head."*

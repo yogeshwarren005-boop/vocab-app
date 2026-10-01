@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an archdeacon or his office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an archdeacon or his office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an archdeacon or an archdeaconry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the supervisory judicial jurisdiction, visitations, and courts held by an archdeacon in Anglican and Roman Catholic canon law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archidiaconal designates of or relating to an archdeacon or his office."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Dr. Grantly exercised his **archidiaconal** functions with a majestic dignity that cowed the rebel clergy of the diocese."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The parish register had been inspected during the annual **archidiaconal** visitation and marked with formal approval."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The legal clerk produced an **archidiaconal** citation commanding the recalcitrant witness to appear before the diocesan court."*

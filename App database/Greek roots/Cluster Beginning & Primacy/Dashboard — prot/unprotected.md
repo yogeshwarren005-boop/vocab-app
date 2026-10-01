@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking protection or defense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking protection or defense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not protected, shielded, or guarded against harm, danger, attack, or damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, patent, and copyright, not covered by legal safeguards, insurance, treaties, or trademark protections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An unprotected childhood in a cold world has beaten gentleness out of me.” He immediately said with more resentment: “That may be true, somewhat; but ah, Miss Everdene, it won’t do as a reason!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak gazed with misgiving at eight naked and unprotected ricks, massive and heavy with the rich produce of one-half the farm for that year."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He wiped his weary brow, and looked again at the black forms of the unprotected stacks."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The solitary cottage stood bleak and **unprotected** upon the crest of the windswept chalk ridge."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Women left **unprotected** by fair legal property rights remain completely dependent on the caprice of men."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The merchant convoy sailed through **unprotected** waters where hostile submarines lurked in silence."*

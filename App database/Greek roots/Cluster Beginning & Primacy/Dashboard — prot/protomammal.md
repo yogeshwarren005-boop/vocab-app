@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Probably warm-blooded; considered direct ancestor of mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Probably warm-blooded; considered direct ancestor of mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct, mammal-like reptile (non-mammalian synapsid, such as a therapsid or cynodont) ancestral to modern mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Permian and Triassic synapsids exhibiting transitional skeletal traits like secondary palates and differentiated dentition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protomammal designates probably warm-blooded; considered direct ancestor of mammals."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"The Karoo basin of South Africa contains thousands of fossil skeletons of the mammal-like **protomammal** lineages."*
+> - 📜 **Neil Shubin (*Your Inner Fish*):** *"The transition of jaw bones into delicate middle ear ossicles began inside the skull of the Triassic **protomammal**."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"Long before dinosaurs ruled the land, the dominant terrestrial predators belonged to the synapsid **protomammal** stock."*

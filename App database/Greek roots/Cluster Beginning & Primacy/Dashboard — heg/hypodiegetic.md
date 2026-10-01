@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of lead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of lead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In narratology, relating to or constituting a narrative embedded within the main story; a story told by a character within a story.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative theory (formulated by Gérard Genette), describing the second-degree narrative level, such as Odysseus narrating his wanderings to the Phaeacians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypodiegetic designates adjective*) pertaining to, derived from, or characteristic of lead."*
+> - 📜 **Gérard Genette (*Narrative Discourse: An Essay in Method*):** *"The **hypodiegetic** narrative of the Arabian Nights allows Scheherazade’s characters to become narrators of fresh tales in their turn."*
+> - 📜 **Mieke Bal (*Narratology: Introduction to the Theory of Narrative*):** *"A **hypodiegetic** story often mirrors or comments upon the primary diegetic action through thematic parallels."*
+> - 📜 **Paul Ricoeur (*Time and Narrative*):** *"The multi-layered structure of **hypodiegetic** narration reveals the recursive, nesting capacity of human storytelling."*

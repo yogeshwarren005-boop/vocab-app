@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monarchical government or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monarchical government or principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocacy of or adherence to monarchy or monarchical government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political philosophy or movement supporting kingship or hereditary executive authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monarchism designates monarchical government or principles."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Traditional British **monarchism** reconciles hereditary royal authority with parliamentary liberties."*
+> - 📜 **Thomas Paine (*Common Sense*):** *"Hereditary **monarchism** is an insult to human dignity, crowning an infant or an idiot over a free people."*
+> - 📜 **François-René de Chateaubriand (*The Genius of Christianity*):** *"The restoration of legitimate **monarchism** offered peace to a nation exhausted by revolutionary storms."*

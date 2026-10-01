@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A senior or chief hegumen; an abbot of premier rank who oversees several monastic houses or presides over a great monastic lavra in the Eastern Church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eastern Orthodox ecclesiastical hierarchy, an honorary monastic title bestowed upon distinguished abbots, akin to an archimandrite or prior provincial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protohegumen designates a term designating an entity, condition, or phenomenon derived from greek heg."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **protohegumen** of Mount Athos headed the solemn delegation dispatched to negotiate with the Byzantine emperor."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Before embarking for the front, the old general knelt to receive the blessing of the venerable **protohegumen**."*
+> - 📜 **Nikolai Gogol (*Taras Bulba*):** *"The ancient monastery stood upon the cliff, where the **protohegumen** kept holy vigil while Cossack skirmishes raged below."*

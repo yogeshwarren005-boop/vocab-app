@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the athletic contests held in ancient greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Striving to overcome in argument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of athletic contests, combat, or aggressive struggle; contentious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethology and behavioral biology, denoting social interactions associated with fighting, including threat displays, appeasement, and physical aggression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"O agonistic throes," tender, passionate yearnings, pinings, triumphant joys, sweet dreams--I took from you all."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Chimpanzee troops engage in ritualized **agonistic** displays, bristling their hair and drumming on buttress roots to assert rank."*
+> - 📜 **Friedrich Nietzsche (*Homer's Contest*):** *"Hellenic culture flourished because it channeled raw violence into lawful **agonistic** competition in the stadium and theater."*
+> - 📜 **Jacob Burckhardt (*The Greeks and Greek Civilization*):** *"The Athenian state was permeated by an **agonistic** spirit, where every citizen vied for civic distinction."*

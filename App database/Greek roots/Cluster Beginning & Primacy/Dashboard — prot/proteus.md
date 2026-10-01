@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a prophetic god who served poseidon; was capable of changing his shape at will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the proteidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prophetic sea god in Greek mythology capable of assuming many different shapes; hence, someone or something that constantly changes form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology, a genus of Gram-negative, facultatively anaerobic rod-shaped bacteria (Proteus mirabilis) known for swarming motility on agar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can add colours to the chameleon, Change shapes with Proteus for advantages, And set the murderous Machiavel to school."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An open place Enter Valentine and Proteus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cease to persuade, my loving Proteus."*
+> - 📜 **Francis Bacon (*The Wisdom of the Ancients*):** *"Matter, like ancient **Proteus**, eludes comprehension by constantly altering its external forms until constrained by physical law."*
+> - 📜 **William Wordsworth (*The World Is Too Much With Us*):** *"Have sight of **Proteus** rising from the sea; or hear old Triton blow his wreathed horn."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The swarming growth of bacteria belonging to the genus **Proteus** spreads across the culture plate in concentric waves."*

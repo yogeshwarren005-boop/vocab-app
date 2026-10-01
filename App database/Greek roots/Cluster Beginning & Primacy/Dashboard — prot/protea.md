@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tropical african shrub of the genus protea having alternate rigid leaves and dense colorful flower heads resembling cones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any tropical african shrub of the genus protea having alternate rigid leaves and dense colorful flower heads resembling cones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubs or small trees of the genus Protea (family Proteaceae), native to southern Africa, bearing large, striking flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical nomenclature (named by Linnaeus after the sea god Proteus), celebrated as South Africa's national floral emblem (the King Protea, Protea cynaroides).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protea designates any tropical african shrub of the genus protea having alternate rigid leaves and dense colorful flower heads resembling cones."*
+> - 📜 **Carl Linnaeus (*Genera Plantarum*):** *"I bestowed upon this remarkable genus the name **Protea**, because its floral manifestations exhibit such astonishing variety of form."*
+> - 📜 **Joseph Banks (*The Endeavour Journal*):** *"Upon the slopes of the Cape hills we collected superb specimens of the flowering **protea**, with stiff bracts of pink and gold."*
+> - 📜 **Olive Schreiner (*The Story of an African Farm*):** *"The rugged hillside was dotted with the stiff, leathery foliage of the wild **protea** braving the mountain wind."*

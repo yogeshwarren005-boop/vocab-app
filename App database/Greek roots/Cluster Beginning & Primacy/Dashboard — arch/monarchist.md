@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monarchical government or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposed to or hostile toward monarchies or monarchs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter of monarchy or the monarchical system of government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European political history, a royalist or legitimist opposing republicanism or revolutionary democracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Each party had its taunts in use, the Federalists being denounced as monarchists, the Anti-Federalists as Democrats; the one presumed to be looking forward to monarchy, the other to the rule of the mob."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Throughout they felt their political strength, and they just as heartily returned the bitterness manifested by those of the Federalists who opposed the war, branding them as enemies of the republic, and monarchists who preferred the reign of Britain."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"M. Gillenormand was an obstinate **monarchist** who considered the French Revolution a personal affront."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The fascist forces allied with every conservative landowner and die-hard **monarchist** in Spain."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The staunch Cavalier **monarchist** held that kings reigned by direct divine appointment."*

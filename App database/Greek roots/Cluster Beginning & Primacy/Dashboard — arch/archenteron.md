@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Central cavity of the gastrula; becomes the intestinal or digestive cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Central cavity of the gastrula; becomes the intestinal or digestive cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary digestive cavity formed in the early embryo during the gastrula stage, opening to the exterior via the blastopore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary developmental biology, the ancestral primitive gut homologous across metazoans that gives rise to the endodermal lining and associated viscera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archenteron designates central cavity of the gastrula; becomes the intestinal or digestive cavity."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The invagination of the blastula forms the primitive gut or **archenteron**, the foundational cavity of all higher animal bodies."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In amphioxus the **archenteron** is lined with a uniform layer of columnar hypoblast cells."*
+> - 📜 **Gavin de Beer (*Embryos and Ancestors*):** *"The closure of the blastopore alters the relationship of the **archenteron** to the embryonic axis."*

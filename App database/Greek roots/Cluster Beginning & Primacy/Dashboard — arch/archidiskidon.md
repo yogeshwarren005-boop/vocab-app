@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of elephantidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of elephantidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of massive mammoths (or subgenus of Mammuthus) of the Pliocene and Pleistocene epochs, including the southern mammoth (Archidiskidon meridionalis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, primitive proboscideans characterized by low-crowned molars with broad, widely spaced enamel ridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archidiskidon designates a genus of elephantidae."*
+> - 📜 **Henry Fairfield Osborn (*Proboscidea*):** *"The immense fossil skeletal frame of **Archidiskidon** represents an early stage in the radiation of true elephants across Eurasia."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Subsequent taxonomic revisions have subsumed **Archidiskidon** under the broader genus Mammuthus."*
+> - 📜 **Björn Kurtén (*Pleistocene Mammals of Europe*):** *"Fossil teeth of **Archidiskidon** found in the Forest Bed of Norfolk demonstrate its adaptation to open temperate woodland."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sparidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of sparidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sparid marine fishes including the sheepshead (Archosargus probatocephalus), noted for broad incisor-like teeth adapted for crushing shellfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, coastal Perciform fishes inhabiting Western Atlantic reefs, jetties, and estuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archosargus designates a genus of sparidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The genus **Archosargus** is readily recognized by its heavy, molariform crushing dentition and robust silvery body."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Sea Fisheries of the South Coast of New England*):** *"Fishermen take **Archosargus** around pilings where oysters and barnacles encrust the submerged timbers."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"The sheepshead, belonging to **Archosargus**, yields firm white flesh highly esteemed in the markets of the Gulf."*

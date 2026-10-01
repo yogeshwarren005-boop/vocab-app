@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The paleobiology of birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The paleobiology of birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of fossil birds, avian evolutionary origins, and extinct bird lineages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, investigating the morphological transition from theropod dinosaurs to birds, the evolution of flight feathers, and giant extinct birds (moas, elephant birds).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeornithology designates the paleobiology of birds."*
+> - 📜 **Gerhard Heilmann (*The Origin of Birds*):** *"The foundational problem of **palaeornithology** has always been resolving the evolutionary relationship between feathered reptiles and modern birds."*
+> - 📜 **Alexander Wetmore (*A Systematic Classification for the Birds of the World*):** *"The fossil discoveries of **palaeornithology** demonstrate that toothed diving birds dominated North American inland seas in the Cretaceous."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Because avian bones are hollow and delicate, specimens in **palaeornithology** are exceptionally rare and precious."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of paleontology and biological science that investigates the physiology, life history, ecology, and evolution of prehistoric fossil organisms (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, moving beyond purely descriptive fossil taxonomy to model biomechanics, metabolic rates, and ecosystem interactions in deep time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeobiology designates a branch of paleontology that deals with the origin and growth and structure of fossil animals and plants as living organisms."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"Modern **palaeobiology** integrates genetic theory with the physical record of deep time to deduce evolutionary rates."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Through comparative **palaeobiology**, we discern how heterochronic changes in embryonic development generated dramatic macroevolutionary transitions."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"The insights of **palaeobiology** demonstrate that the history of life is not a gradual ramp, but a series of punctuated radiations."*

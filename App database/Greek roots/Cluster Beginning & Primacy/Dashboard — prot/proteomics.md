@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of genetics that studies the full set of proteins encoded by a genome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of genetics that studies the full set of proteins encoded by a genome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large-scale systematic study of the structures, functions, and interactions of proteins in a biological system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bioinformatics and biotechnology, high-throughput technologies (such as mass spectrometry and protein microarrays) used for biomarker discovery and drug target identification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteomics designates the branch of genetics that studies the full set of proteins encoded by a genome."*
+> - 📜 **Leroy Hood (*Systems Biology*):** *"High-throughput **proteomics** enables us to map cellular signaling networks in health and disease with unprecedented resolution."*
+> - 📜 **Francis Collins (*The Language of Life*):** *"Advances in clinical **proteomics** allow oncologists to detect minute protein signatures shed by early-stage tumors."*
+> - 📜 **Eric Lander (*Nature*):** *"The transition from genomics to quantitative **proteomics** bridges genetic code with physiological phenotype."*

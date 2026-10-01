@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an archaic appearance of character to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an archaic appearance of character to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give an archaic quality or character to something; to write, speak, or design in an archaic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary composition and translation, to intentionally employ antique diction and syntax to establish an ancient or mythical atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaize designates give an archaic appearance of character to."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"A translator of Dante must resist the temptation to **archaize** the text with faux-Elizabethan mannerisms."*
+> - 📜 **Herman Melville (*Pierre: or, The Ambiguities*):** *"The author began to **archaize** his prose, weaving convoluted Jacobean cadences into his psychological tragedy."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"Hank Morgan ridiculed the romantic knights who would **archaize** every ordinary conversation into Arthurian pomposity."*

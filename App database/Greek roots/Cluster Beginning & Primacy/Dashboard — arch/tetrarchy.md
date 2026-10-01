@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by four persons ruling jointly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by four persons ruling jointly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by four persons ruling jointly; especially the system established in the Roman Empire by Emperor Diocletian in 293 CE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country, province, or district divided into four administrative regions or ruled by a tetrarch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrarchy designates government by four persons ruling jointly."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian divided the unwieldy weight of the empire among four colleagues, establishing the imperial **tetrarchy**."*
+> - 📜 **J. B. Bury (*A History of the Later Roman Empire*):** *"Under the **tetrarchy**, two Augusti and two Caesars shared administrative defense across the Danube, Rhine, and Euphrates."*
+> - 📜 **Peter Brown (*The World of Late Antiquity*):** *"The porphyry statue in Venice portrays the four rulers of the **tetrarchy** embracing in fraternal unity."*

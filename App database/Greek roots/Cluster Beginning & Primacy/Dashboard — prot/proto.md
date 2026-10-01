@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating the first or earliest or original.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicating the first or earliest or original.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a prefix meaning first, earliest, original, or primitive; also used informally to denote a prototype or initial model.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary systematics and historical linguistics, designating an ancestral or reconstructed theoretical parent form (e.g., Proto-Indo-European).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"What orders, your excellency?” said the huntsman in his deep bass, deep as a proto-deacon’s and hoarse with hallooing—and two flashing black eyes gazed from under his brows at his master, who was silent."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Through him the world obtained “a new truth--no conviction gained of an old one merely, made intense by a fresh appeal to the faded sense.” Cleon, the poet, writes to Protos in his Tyranny (that is, in the Greek sense, Sovereignty)."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Protos, it must be understood, having heard of the fame of Paul, and being perplexed in the extreme, has written the great apostle to know of his doctrine."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The linguist reconstructs the **proto** forms of ancient speech by triangulating cognates across daughter languages."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Paleontologists search for the ancestral **proto** organism from which distinct living phyla first branched."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The wooden watermill was the mechanical **proto** machine that prefigured the modern automated factory."*

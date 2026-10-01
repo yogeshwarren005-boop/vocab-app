@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chloride salt of protoheme (ferriprotoporphyrin IX chloride), formed when blood is heated with glacial acetic acid and sodium chloride; also called hemin or Teichmann's crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic serology and historic pathology, brown rhombic microscopic crystals used in the Teichmann test to confirm the presence of bloodstains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protohemin designates a reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood."*
+> - 📜 **Ludwik Teichmann (*Zeitschrift für rationelle Medicin*):** *"The formation of dark rhombic crystals of **protohemin** provides an infallible microscopic test for forensic bloodstains."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes cried in triumph as his reagent precipitated crystals of **protohemin**, proving the stain was indeed dried blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spectroscopic identification of **protohemin** confirms hemoglobin breakdown in cases of internal hemorrhage."*

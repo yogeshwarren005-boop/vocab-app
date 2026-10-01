@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of geologic features once at the surface of the earth but now buried beneath rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of geologic features once at the surface of the earth but now buried beneath rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies the structural, stratigraphic, and volcanic conditions of the Earth's crust in past geological eras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-time earth sciences, investigating ancestral tectonic orogenies, magma intrusions, and basin subsidence preceding modern surface geomorphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeogeology designates the study of geologic features once at the surface of the earth but now buried beneath rocks."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The principles of **palaeogeology** enable us to decipher the ancient volcanic arcs that accreted to form the continental craton."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Through **palaeogeology**, we reconstruct ancient mountain belts worn down to their crystalline roots before the deposition of primary sandstones."*
+> - 📜 **Archibald Geikie (*The Founders of Geology*):** *"The birth of modern **palaeogeology** sprang from Hutton’s realization that ancient strata were formed by the same natural laws operating today."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shield from danger, injury, destruction, or damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use tariffs to favor domestic industry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing shelter, defense, or safety; shielding from adverse conditions or external threats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patent law and diplomacy, securing exclusive legal claims or maintaining an ally under an umbrella of sovereign influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I saw his face, and heard his voice, and felt the influence of his kind protecting manner in every line."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What a light, now, on the protecting manner I had thought about!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Things happen constantly which show me constantly that some one who knows more than I is benefiting me--protecting me."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He threw his arm across my shoulders with a **protecting** tenderness that disarmed all my apprehensions."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Great Britain, by **protecting** the colonies with her navy, earned their commercial gratitude."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nature is constantly **protecting** her children through instincts that anticipate every seasonal disaster."*

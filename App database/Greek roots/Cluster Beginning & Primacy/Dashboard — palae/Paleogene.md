@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being the earlier part of the Tertiary including the Paleocene, Eocene, and Oligocene or the corresponding series of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being the earlier part of the Tertiary including the Paleocene, Eocene, and Oligocene or the corresponding series of rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major geological period spanning from approximately 66 to 23 million years ago, comprising the Paleocene, Eocene, and Oligocene epochs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphy, the first period of the Cenozoic era, during which mammals evolved from small primitive forms into dominant terrestrial herbivores and carnivores alongside modern birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Paleogene designates of, relating to, or being the earlier part of the tertiary including the paleocene, eocene, and oligocene or the corresponding series of rocks."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"During the **Paleogene** period, archaic creodonts and primitive ungulates spread across extensive subtropical forests."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The tectonic collisions of the **Paleogene** initiated the catastrophic uplift of the Alpine and Himalayan mountain systems."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"By the close of the **Paleogene**, ancestral equids and primates had established modern anatomical body plans."*

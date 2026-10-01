@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex red organic pigment containing iron and other atoms to which oxygen binds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex red organic pigment containing iron and other atoms to which oxygen binds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron-porphyrin complex (ferroprotoporphyrin IX) that serves as the prosthetic group in hemoglobin, myoglobin, and many cytochromes; also called protohaem or heme b.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, the coordination complex consisting of an iron ion held within a protoporphyrin ring responsible for reversible oxygen binding and electron transfer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoheme designates a complex red organic pigment containing iron and other atoms to which oxygen binds."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"The planar **protoheme** group sits in a hydrophobic pocket of the globin, perfectly oriented to bind molecular oxygen."*
+> - 📜 **Christian Anfinsen (*The Molecular Basis of Evolution*):** *"The spectral absorption bands of **protoheme** shift dramatically when the iron atom switches from the ferrous to the ferric state."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Magnetic susceptibility measurements confirmed that the iron atom in oxygenated **protoheme** undergoes low-spin covalent bonding."*

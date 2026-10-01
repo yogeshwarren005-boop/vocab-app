@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to agriculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to agriculture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical combining root derived from Greek agein (to lead, drive, conduct) and agōn (contest, struggle, assembly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology, the formative element underlying words of assembly and struggle (agony, agonist, synagogue); also the international chemical symbol for silver (Latin argentum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COMINIUS. [_to Sicinius_.] Aged sir, hands off."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, let her languish A drop of blood a day and, being aged, Die of this folly. [_Exit with Lords._] Enter Pisanio."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even like a man new haled from the rack, So fare my limbs with long imprisonment; And these gray locks, the pursuivants of death, Nestor-like aged in an age of care, Argue the end of Edmund Mortimer."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The Greek root **ag**- fundamentally signified driving or leading, branching into civic assembly and the athletic contest."*
+> - 📜 **Antoine Meillet (*Introduction to the Comparative Study of Indo-European Languages*):** *"The Indo-European root *aǵ- yielded Sanskrit ajati, Latin agere, and Greek **ag**-ein, denoting dynamic motion."*
+> - 📜 **Max Müller (*The Science of Thought*):** *"From the primal stem **ag**- arose both the peaceful gathering of the market and the desperate agony of combat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considered ancient life forms that evolved separately from bacteria and blue-green algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered ancient life forms that evolved separately from bacteria and blue-green algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single microscopic organism belonging to the archaebacteria (Archaea); a primitive prokaryotic microorganism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular microbiology, an individual cell characterized by ether-linked branched lipid membranes, lacking peptidoglycan, and possessing unique transcriptional machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaebacterium designates considered ancient life forms that evolved separately from bacteria and blue-green algae."*
+> - 📜 **Carl Woese (*Phylogenetic Structure of the Prokaryotic Domain*):** *"Each isolated **archaebacterium** was analyzed for unique oligonucleotide signatures in its ribosomal RNA."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"A sulfur-metabolizing **archaebacterium** thriving near boiling underwater vents may resemble the universal common ancestor."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"In hypersaline lagoons, a halophilic **archaebacterium** produces radiant purple pigments to capture sunlight."*

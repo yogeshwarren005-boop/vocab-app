@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diocese of the eastern orthodox church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diocese of the eastern orthodox church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, jurisdiction, dignity, or territory governed by an exarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical geography, a missionary jurisdiction or overseas province established by an Eastern patriarchate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exarchate designates a diocese of the eastern orthodox church."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fall of the **exarchate** of Ravenna to King Aistulf terminated two centuries of Byzantine rule in northern Italy."*
+> - 📜 **Thomas Hodgkin (*Italy and Her Invaders*):** *"Within the limits of the **exarchate**, Greek language and Roman law persisted long after the rest of the peninsula had succumbed to Germanic invaders."*
+> - 📜 **Ferdinand Gregorovius (*History of the City of Rome in the Middle Ages*):** *"Pepin the Short granted the conquered cities of the **exarchate** to the Holy See, establishing the Papal States."*

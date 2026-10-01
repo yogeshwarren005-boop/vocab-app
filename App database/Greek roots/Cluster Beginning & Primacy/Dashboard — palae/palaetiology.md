@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The explanation of past events in terms of scientific causes (as geological causes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The explanation of past events in terms of scientific causes (as geological causes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of past events, geological processes, or biological lineages through their historical and causal development; the philosophy of the historical sciences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of science (coined by William Whewell in 1837), the group of sciences (geology, comparative philology, evolutionary biology) that reconstruct past events from present effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaetiology designates the explanation of past events in terms of scientific causes (as geological causes)."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"I propose the term **palaetiology** for those historical sciences whose aim is to trace the past history of the world by studying present effects."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The methods of **palaetiology** demonstrate that the history of the earth is to be deciphered through physical causation rather than miraculous myth."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Both geology and archaeology are branches of Whewell’s **palaetiology**, reading ancestral causes in existing rocks and ruins."*

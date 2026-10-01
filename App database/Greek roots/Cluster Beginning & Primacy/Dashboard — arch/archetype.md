@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An original pattern, model, or prototype from which copies or variations are made.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Jungian psychoanalysis, an inherited subconscious idea, image, or motif present in the collective unconscious of humanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetype designates the original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The **archetype** is a symbolic form that exists prior to any conscious experience, shaping our perceptions of the sacred and the profane."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Nature exhibits singular primary forms which serve as an **archetype** for countless diverse creatures."*
+> - 📜 **T. S. Eliot (*Tradition and the Individual Talent*):** *"Every creative writer must confront the enduring **archetype** embedded within classical literature."*

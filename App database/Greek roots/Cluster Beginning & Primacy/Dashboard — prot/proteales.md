@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family proteaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family proteaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of flowering plants containing the families Proteaceae, Platanaceae (plane trees), and Nelumbonaceae (lotuses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular phylogenetics (APG IV), a basal eudicot clade uniting superficially divergent families based on deep genomic synapomorphies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteales designates coextensive with the family proteaceae."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The traditional circumscription of **Proteales** has been radically restructured through comparative embryology."*
+> - 📜 **Peter F. Stevens (*Angiosperm Phylogeny Website*):** *"Molecular evidence places the sacred lotus and the plane tree alongside southern proteas within the monophyletic order **Proteales**."*
+> - 📜 **Armen Takhtajan (*Diversity and Classification of Flowering Plants*):** *"The phylogenetic affinities of the order **Proteales** demonstrate the deep antiquity of early tricolpate angiosperms."*

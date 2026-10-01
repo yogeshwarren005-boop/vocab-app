@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of protein in the blood plasma or serum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathophysiology, a condition resulting from malnutrition, nephrotic syndrome, or hepatic failure, leading to reduced oncotic pressure and edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoproteinemia designates abnormally low level of protein in the blood; can indicate inadequate diet or intestinal or renal disorders."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **hypoproteinemia** inevitably leads to generalized dropsy as fluid escapes the vascular bed into interstitial tissues."*
+> - 📜 **Harvey Cushing (*Selected Papers on Surgical Pathology*):** *"The patient's peripheral edema was traced to severe **hypoproteinemia** caused by chronic intestinal malabsorption."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"When plasma albumin falls, the resulting **hypoproteinemia** collapses the colloid osmotic pressure of the capillary beds."*

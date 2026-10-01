@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eteo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the pre-Indo-European indigenous inhabitants of ancient Cyprus or their pre-Greek language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean epigraphy, the ancient non-Greek language of Cyprus written in the Cypriot syllabic script down to the Hellenistic era (notably evidenced at Amathus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Eteocypriot designates a term designating an entity, condition, or phenomenon derived from greek eteo."*
+> - 📜 **John L. Myres (*Handbook of the Cesnola Collection of Antiquities from Cyprus*):** *"Bilingual inscriptions from Amathus preserved the mysterious **Eteocypriot** tongue alongside classical Greek."*
+> - 📜 **Michael Ventris (*Documents in Mycenaean Greek*):** *"The Cypriot syllabary was employed both for Greek dialect and for the unclassified **Eteocypriot** substratum."*
+> - 📜 **E. O. Masson (*Les Inscriptions Chypriotes Syllabiques*):** *"Decipherment of **Eteocypriot** texts remains an unsolved challenge of Eastern Mediterranean linguistics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by autarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by autarchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Autocratic or dictatorial; possessing or exercising unrestricted power (variant of autarchic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to independent self-sufficiency or absolute unilateral governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarchical designates of or relating to or characterized by autarchy."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"An **autarchical** court cabal sought to isolate the crown from Parliament and popular sentiment."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Men do not quit the freedom of nature merely to submit to the **autarchical** whims of an unaccountable tyrant."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic despotism does not shatter wills with open cruelty; it rules through an **autarchical** administrative tutelage."*

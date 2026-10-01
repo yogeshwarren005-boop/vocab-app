@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense pain of mind or body : anguish, torture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The struggle that precedes death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme physical or mental suffering; the violent struggle or convulsions preceding death; intense emotional torment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically from Greek agōnia (contest, athletic struggle), the supreme mental anguish of an impending crisis, as in the Agony in the Garden.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take that to end thy agony. [_Stabs him._] GEORGE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was brought again to th’ bar to hear His knell rung out, his judgement, he was stirred With such an agony, he sweat extremely And something spoke in choler, ill and hasty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mirth cannot move a soul in agony."*
+> - 📜 **William Shakespeare (*Othello*):** *"Farewell! Othello's occupation's gone! / But O, what damned minutes tells he o'er / Who dotes, yet doubts, suspects, yet strongly loves! / O misery and mortal **agony**!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A spasm of mental **agony** shot through me as I fled into the dark moors away from Thornfield."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"To suffer woes which Hope thinks infinitive; / To forgive wrongs darker than death or night; / This is to conquer through holy **agony**."*

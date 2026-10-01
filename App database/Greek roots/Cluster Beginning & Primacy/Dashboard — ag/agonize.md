@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to agonize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer agony or anguish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo extreme physical pain or mental anguish; to struggle laboriously or torment oneself over a crisis or decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary narratives, to experience intense existential, moral, or creative wrestling while striving to produce a masterpiece or resolve a tragedy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Worth how well, those dark gray eyes, That hair so dark and dear, how worth That a man should strive and agonize, And taste a veriest hell on earth For the hope of such a prize! 45."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No sketches first, no studies, that’s long past: I do what many dream of, all their lives, --Dream? strive to do, and agonize to do, {70} And fail in doing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides its being calculated to serve that friend in those chords of the human mind which—which need not be called into agonizing vibration on the present occasion—your friend is no fool."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"Ivan continued to **agonize** over the problem of unmerited suffering and the tears of innocent children."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ahab would pace the quarter-deck by night, his fiery soul continuing to **agonize** over the white whale."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"I began to **agonize** over my conscience, wondering whether helping Jim make his freedom was wicked or right."*

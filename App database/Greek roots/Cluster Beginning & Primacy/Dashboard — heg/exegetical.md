@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to exegesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to exegesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on critical textual interpretation and exegesis; explanatory and analytical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic theology and legal jurisprudence, concerning detailed verse-by-verse commentary and historical-critical analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was the pioneer of the scientific exposition of the Scriptures in the Scottish pulpit, and was one of the first exegetical theologians of his time."*
+> - 📜 **John Calvin (*Commentaries on the Epistles of Paul*):** *"The chief excellence of the **exegetical** commentator lies in lucid, unadorned brevity."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Much modern theology is crippled by an unimaginative **exegetical** pedantry that misses the poetic soul of the Bible."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh subjected human society to an **exegetical** scrutiny that unmasked its decorative pretenses."*

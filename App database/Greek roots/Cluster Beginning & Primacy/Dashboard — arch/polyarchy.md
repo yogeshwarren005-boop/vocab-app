@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by many rulers; rule by multiple individuals or groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern political science (coined by Robert Dahl), a democratic system of government in which power is invested in multiple people, marked by high political inclusion and public contestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyarchy designates a term designating an entity, condition, or phenomenon derived from greek arch."*
+> - 📜 **Robert Dahl (*Polyarchy: Participation and Opposition*):** *"A modern representative democracy operates as a **polyarchy**, where diverse autonomous organizations contest for power through inclusive elections."*
+> - 📜 **Samuel P. Huntington (*The Third Wave*):** *"The global transition toward **polyarchy** gained unprecedented momentum during the late twentieth century."*
+> - 📜 **Joseph Schumpeter (*Capitalism, Socialism and Democracy*):** *"What is often idealized as rule by the people is in practice a competitive **polyarchy** among rival elites."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without law or control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without law or control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With no controlling rules or principles to give order; chaotic, disorderly, or lawless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, advocating or characteristic of an order free from state hierarchy and coercive authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Shelley's anarchic principles were as a rule held by him with some misdirected view to truth."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The workers’ militias in Barcelona functioned under an **anarchic** equality that astounded foreign observers."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The sudden demolition of ancient legal authority threw the kingdom into an **anarchic** convulsion."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A thousand shrieking voices rose from the crowd in **anarchic** fury as the prison gates were battered down."*

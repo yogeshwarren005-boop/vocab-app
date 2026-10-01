@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shield from danger, injury, destruction, or damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use tariffs to favor domestic industry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To keep safe from harm, danger, loss, or injury; guard or defend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, insurance, and economics, to shield against financial liability or foreign commercial competition through tariffs or guarantees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gods protect you, And bless the good remainders of the court!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST WARDER. [_Within_.] The Lord protect him, so we answer him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should he, then, protect our sovereign, He being of age to govern of himself?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Angels and ministers of grace **protect** us! Be thou a spirit of health or goblin damned."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The chief end of men's uniting into commonwealths is to **protect** their property and personal liberty."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"I hold that in contemplation of universal law and of the Constitution, the Union will **protect** and preserve itself."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke the hostility of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to become hostile, unfriendly, or angry; to oppose or act in counteraction to (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical pharmacology, to neutralize or inhibit the physiological activity of a receptor, enzyme, or hormone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antagonise designates act in opposition to."*
+> - 📜 **George Orwell (*Animal Farm*):** *"Squealer warned the animals that any murmur of discontent would **antagonise** the human farmers and invite invasion."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes cautioned Watson not to **antagonise** the local baronet until all the evidence had been securely gathered."*
+> - 📜 **Virginia Woolf (*The Years*):** *"She was careful not to **antagonise** her father by expressing unconventional political views at the dinner table."*

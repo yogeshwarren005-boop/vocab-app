@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by autarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by autarchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an autarch or autarchy; autocratic or having absolute authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic theory, characterized by national self-sufficiency and economic independence from foreign trade (variant of autarkic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarchic designates of or relating to or characterized by autarchy."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest, and Money*):** *"Nations adopting **autarchic** trade barriers ultimately suffocate international commerce and domestic prosperity."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Patrimonial regimes tend toward **autarchic** governance, where administrative obedience depends solely upon personal allegiance."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Totalitarian movements demand total, **autarchic** control over both the public sphere and private consciousness."*

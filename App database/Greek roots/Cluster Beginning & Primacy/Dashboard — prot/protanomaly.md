@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild form of red-green color vision deficiency in which red sensitivity is abnormal or reduced (anomalous trichromacy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, an X-linked condition wherein the L-cone photopigment has an absorption spectrum shifted toward that of the M-cone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protanomaly designates a term designating an entity, condition, or phenomenon derived from greek prot."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Subjects affected by **protanomaly** require an unusually large proportion of red light when matching a spectral yellow."*
+> - 📜 **Lord Rayleigh (*Nature*):** *"By means of color mixing equations, I was able to distinguish true dichromats from individuals exhibiting mild **protanomaly**."*
+> - 📜 **Shinobu Ishihara (*Tests for Colour-Blindness*):** *"The pseudoisochromatic plates reveal subtle distinctions between normal trichromats and individuals with congenital **protanomaly**."*

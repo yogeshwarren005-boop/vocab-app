@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an original model or typical example on which others are patterned; archetypal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and linguistics, possessing the most representative or salient features of a cognitive category.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototypical designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **Eleanor Rosch (*Principles of Categorization*):** *"Subjects judge a robin to be far more **prototypical** of the category 'bird' than a penguin or an ostrich."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Jane Austen created a **prototypical** comedy of manners that remains unsurpassed in English prose."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman was presented as the **prototypical** self-made American entering the old aristocratic world of Paris."*

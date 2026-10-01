@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in egoism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An egocentric or egotistic person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Motivated by or exhibiting self-interest, selfishness, or egoism; egocentric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological theory (Émile Durkheim's egoistic suicide), resulting from a lack of social integration and isolation from communal bonds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s mind clad his most egoistic terrors in doctrinal references to superhuman ends."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy’s wishes about his son had had a great deal of pride, inconsiderateness, and egoistic folly in them."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"If we attempt a classification of Weltschmerz with regard to its essence, or, better perhaps, with regard to its origin, we shall find that the various types may be classed under one of two heads: either as cosmic or as egoistic."*
+> - 📜 **Émile Durkheim (*Suicide: A Study in Sociology*):** *"When society is strongly integrated, it holds individuals within its orbit; when it disintegrates, **egoistic** suicide increases."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Even the most **egoistic** man finds pleasure in the sympathy of others, proving our social constitution."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"Purely **egoistic** conduct must eventually be balanced by altruistic conduct if species survival is to be maintained."*

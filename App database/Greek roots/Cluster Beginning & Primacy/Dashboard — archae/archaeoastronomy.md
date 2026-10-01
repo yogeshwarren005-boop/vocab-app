@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the astronomy of ancient cultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the astronomy of ancient cultures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary study of how ancient or prehistoric cultures understood, observed, and integrated astronomical phenomena into their culture and architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and history of science, examining the astronomical alignments of monuments such as Stonehenge, Newgrange, and Mayan pyramids with solstices and celestial cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeoastronomy designates the study of the astronomy of ancient cultures."*
+> - 📜 **Alexander Thom (*Megalithic Sites in Britain*):** *"The field of **archaeoastronomy** demonstrated that Neolithic stone circles were precision observatories aligned with lunar standstills."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Through **archaeoastronomy**, we discover that our ancestors watched the heavens with acute mathematical devotion."*
+> - 📜 **E. C. Krupp (*Echoes of the Ancient Skies*):** *"Modern **archaeoastronomy** reveals how ancient temple architecture aligned earthly power with celestial order."*

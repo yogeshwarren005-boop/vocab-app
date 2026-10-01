@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to paleontology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to paleontology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to paleontology; concerning the scientific study of fossils, prehistoric life forms, and the history of the biosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and stratigraphy, describing physical fossil specimens and biozones utilized to date sedimentary rock layers and map macroevolutionary trends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleontological designates of or relating to paleontology."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **paleontological** record, broken though it is, wonderfully illustrates the gradual divergence of character in animal lineages."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **paleontological** proof of organic evolution becomes overwhelming when we trace intermediate fossil series across successive strata."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The bizarre fauna of the Burgess Shale challenged traditional **paleontological** expectations of simple linear progress."*

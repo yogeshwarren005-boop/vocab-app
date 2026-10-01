@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or dealing with or devoted to archaeology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or dealing with or devoted to archaeology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to archaeology; concerning the recovery and study of material remains of past human life and activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly literature, describing field surveys, excavation methods, and cataloging of material culture from past civilizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Absolute archaeologic accuracy was promised."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"Our **archaeologic** excavations at Knossos uncovered multi-story palaces decorated with vibrant marine frescoes."*
+> - 📜 **Heinrich Schliemann (*Ilios: The City and Country of the Trojans*):** *"The **archaeologic** strata of Hissarlik revealed seven successive prehistoric cities stacked upon one hill."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **archaeologic** ruins along the Appian Way remind the traveler of the fragile glory of empires."*

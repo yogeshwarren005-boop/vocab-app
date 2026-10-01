@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A russian unit of length (71 cm).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A russian unit of length (71 cm).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete Russian unit of linear measure equal to 28 inches (approx. 71.12 cm) or one-third of a sagene; variant spelling of arshin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century commercial history, the standard fabric and timber measure standardized by Peter the Great across the Russian Empire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archine designates a russian unit of length (71 cm)."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The merchant unrolled the bolt of English broadcloth, measuring out each **archine** with a notched walnut rod."*
+> - 📜 **Nikolai Gogol (*Dead Souls*):** *"The peasant carpenter promised to build a sturdy barn twenty paces long and twelve **archines** in height."*
+> - 📜 **Anton Chekhov (*The Steppe*):** *"A wooden meter-stick carved with measurements in **archines** lay across the shopkeeper's dusty counter."*

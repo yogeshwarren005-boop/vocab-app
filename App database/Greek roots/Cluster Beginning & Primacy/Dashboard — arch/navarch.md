@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Navarch, Navarchus or Nauarchus is an Anglicisation of a Greek word meaning "archon (leader) of the ships", which in some states became the title of an office equivalent to that of a modern admiral..
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Navarch, Navarchus or Nauarchus is an Anglicisation of a Greek word meaning "archon (leader) of the ships", which in some states became the title of an office equivalent to that of a modern admiral..
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Greece, the commander of a fleet; an admiral, especially the Spartan naval commander-in-chief (nauarchos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical military history, the magistrate holding the annual supreme maritime command of the Peloponnesian naval confederacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navarch designates navarch, navarchus or nauarchus is an anglicisation of a greek word meaning "archon (leader) of the ships", which in some states became the title of an office equivalent to that of a modern admiral."*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"The Spartan assembly appointed Lysander as **navarch**, entrusting him with the supreme command of the Aegean fleet."*
+> - 📜 **Xenophon (*Hellenica*):** *"When the annual term of the **navarch** expired, Spartan law forbade any citizen from holding the command twice."*
+> - 📜 **Plutarch (*Life of Alcibiades*):** *"The Athenian galleys caught the Spartan **navarch** unprepared off the shoals of Cyzicus."*

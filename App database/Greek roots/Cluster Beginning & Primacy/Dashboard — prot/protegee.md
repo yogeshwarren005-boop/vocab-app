@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman protege.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman protege.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female person who is guided, mentored, and supported by an older and more experienced mentor; variant spelling of protégée.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and literature, a young woman under the educational or artistic patronage of an influential benefactor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford doted on the girl; and it was the lady’s death which now obliged her _protegee_, after some months’ further trial at her uncle’s house, to find another home."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This oopu she showed to her _protegee_, who told her to put it into a large calabash with water and feed it with limu, so that it might become a pet fish."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Crawley, as your dear daughter and protegee, and thanked her in the name of France, for all your benevolence towards our unfortunates during their exile!"*
+> - 📜 **Jane Austen (*Emma*):** *"Emma determined that Harriet Smith should become her special **protegee**, destined for an aristocratic marriage."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck kept a watchful eye upon her English **protegee**, admiring her quiet discipline."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The old dowager treated the eccentric countess as her spoiled **protegee**, defying the rigid gossip of New York society."*

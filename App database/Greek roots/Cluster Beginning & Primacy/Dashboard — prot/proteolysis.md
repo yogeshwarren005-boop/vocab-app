@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hydrolysis of proteins or peptides with formation of simpler and soluble products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hydrolysis of proteins or peptides with formation of simpler and soluble products.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breakdown of proteins or peptides into simpler polypeptides or amino acids by the action of enzymes or acid hydrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, targeted protein degradation (via the ubiquitin-proteasome pathway) regulating signal transduction, cell cycle progression, and apoptosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteolysis designates the hydrolysis of proteins or peptides with formation of simpler and soluble products."*
+> - 📜 **Christian Anfinsen (*The Molecular Basis of Evolution*):** *"Controlled **proteolysis** of the nascent polypeptide chain liberates the active conformation of the enzyme."*
+> - 📜 **Aaron Ciechanover (*Ubiquitin-Mediated Proteolysis*):** *"Selective **proteolysis** within eukaryotic cells ensures the rapid disposal of misfolded or regulatory proteins."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Pancreatic secretion initiates extensive **proteolysis**, converting dietary albumin into assimilable peptides."*

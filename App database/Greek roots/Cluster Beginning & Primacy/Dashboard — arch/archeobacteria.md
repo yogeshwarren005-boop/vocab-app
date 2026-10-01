@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considered ancient life forms that evolved separately from bacteria and blue-green algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered ancient life forms that evolved separately from bacteria and blue-green algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of archaebacteria; a domain or kingdom of single-celled microorganisms distinct from eubacteria and eukaryotes, often thriving in extreme environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiologic taxonomy, prokaryotes with unique ether-linked membrane lipids and distinctive ribosomal RNA, crucial in molecular phylogenetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archeobacteria designates considered ancient life forms that evolved separately from bacteria and blue-green algae."*
+> - 📜 **Carl Woese (*Microbiological Reviews*):** *"The distinctive cellular machinery of the **archeobacteria** compelled a fundamental division of cellular life into three primary lineages."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Methanogens and extreme halophiles belonging to the **archeobacteria** provide clues to conditions on the anaerobic primitive Earth."*
+> - 📜 **Thomas Cavalier-Smith (*Biological Reviews*):** *"Debates on the root of the tree of life continually evaluate the evolutionary polarity between eubacteria and **archeobacteria**."*

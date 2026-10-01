@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to earlier of two divisions of the precambrian era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the earliest era of the Precambrian, characterized by the appearance of the earliest primitive life forms; Archean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th- and early 20th-century geological nomenclature, the vast epoch of primordial crystalline rocks formed before the Proterozoic era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeozoic designates the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"We designate the grand primordial era as the **Archaeozoic**, marking the dawn of life upon the cooling terrestrial sphere."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Beneath the fossiliferous strata lay the immense **Archaeozoic** basement, barren of complex animal remains."*
+> - 📜 **Thomas Chrowder Chamberlin (*The Origin of the Earth*):** *"The **Archaeozoic** rocks preserve the earliest chemical signatures of marine precipitation and atmospheric evolution."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of the earliest phase of geometric art especially in greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the earliest phase of geometric art especially in greece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a style of ancient Greek pottery and decoration that flourished circa 1050–900 BCE, bridging Mycenaean and Geometric art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology, marked by fast-wheel production, lustrous black slip, and precise concentric circles or compass-drawn semicircles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protogeometric designates characteristic of the earliest phase of geometric art especially in greece."*
+> - 📜 **John Nicolas Coldstream (*Greek Geometric Pottery*):** *"The introduction of the compass and multiple brush gave **Protogeometric** vases their distinctive concentric circles and refined balance."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"In post-Minoan Crete, the transition to **Protogeometric** styles reflected cultural renewal after the bronze age collapse."*
+> - 📜 **Martin P. Nilsson (*The Minoan-Mycenaean Religion*):** *"Iron swords and **Protogeometric** amphorae in Athenian graves testify to the dawn of a new classical world."*

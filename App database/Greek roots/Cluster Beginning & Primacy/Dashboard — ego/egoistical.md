@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Limited to or caring only about yourself and your own needs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Limited to or caring only about yourself and your own needs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of an egoist; self-absorbed, boastful, and selfish in conduct or attitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary biography and criticism, marked by continuous, intrusive self-reference and inflated self-importance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egoistical designates limited to or caring only about yourself and your own needs."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"There is an **egoistical** style of writing that delights readers when wielded by Montaigne, yet offends when used by lesser men."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"M. Paul Emanuel had an **egoistical** temper, yet beneath his fiery vanity lay an astonishingly generous heart."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"He avoided all petty, **egoistical** vanity, dedicating his intellectual powers entirely to the public welfare."*

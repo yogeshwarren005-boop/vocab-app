@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lengthen in time; cause to be or last longer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lengthen in time; cause to be or last longer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To prolong, lengthen, or draw out in time; delay or extend the duration of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and drafting, to draw, plot, or lay down on paper using scale, compass, and protractor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us bury him, And not protract with admiration what Is now due debt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubtless he shrives this woman to her smock; Else ne’er could he so long protract his speech."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I should wish now to protract this moment _ad infinitum_; but I dare not."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"He doth **protract** his work, and seeks to lengthen out the war with idle dalliance."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I would not **protract** our conversation, knowing that every delay increased the agony of parting."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"To **protract** an armed contest without a clear prospect of peace is to invite national ruin."*

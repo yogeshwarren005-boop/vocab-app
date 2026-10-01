@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be extended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be extended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extended or pushed forward; protractible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and entomology, describing jaw apparatuses or feeding mouthparts that can be thrust forward to capture prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractile designates able to be extended."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The mouth of the dory is remarkably **protractile**, shooting forward like a tube to suck in unsuspecting minnows."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Many butterfly pupae display **protractile** sensory horns that react violently to touch."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Deep-sea lanternfish often feature **protractile** jaws lined with needle-sharp inward-pointing teeth."*

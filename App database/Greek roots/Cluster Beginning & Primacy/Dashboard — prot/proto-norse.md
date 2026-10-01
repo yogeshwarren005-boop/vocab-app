@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The germanic language of scandinavia up until about 700.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The germanic language of scandinavia up until about 700.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The early Germanic language (c. 200–800 CE) spoken in Scandinavia from which Old Norse and modern North Germanic languages developed; also known as Primitive Norse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, the dialect attested in Elder Futhark runic inscriptions on bracteates, stones, and weapon fittings across Scandinavia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proto-norse designates the germanic language of scandinavia up until about 700."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The archaic runic inscriptions carved in **Proto-Norse** preserve vowel endings that were completely lost in later classical Old Icelandic."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Comparative Germanic grammar relies heavily on early **Proto-Norse** inscriptions like the Gallehus golden horns."*
+> - 📜 **Peter Foote (*The Viking Achievement*):** *"The transition from **Proto-Norse** to Old Norse coincided with radical syncope of unaccented vowels during the Vendel period."*

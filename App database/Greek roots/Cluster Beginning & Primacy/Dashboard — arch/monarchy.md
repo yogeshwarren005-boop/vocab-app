@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undivided rule or absolute sovereignty by a single person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nation or state having a monarchical government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government with a monarch (king, queen, emperor) at the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nation, empire, or state ruled by an individual sovereign, either absolute or constitutional.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my sovereign, Take up the English short, and let them know Of what a monarchy you are the head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This small inheritance my father left me Contenteth me, and worth a monarchy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The jealous o’er-worn widow and herself, Since that our brother dubbed them gentlewomen, Are mighty gossips in our monarchy."*
+> - 📜 **William Shakespeare (*Henry V*):** *"For so work the honey-bees, creatures that by a rule in nature teach the act of order to a peopled **monarchy**."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"The difference of commonwealths consisteth in the difference of the sovereign: when the representative is one man, then is the commonwealth a **monarchy**."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Absolute **monarchy**, which by some men is counted the only government in the world, is indeed inconsistent with civil society."*

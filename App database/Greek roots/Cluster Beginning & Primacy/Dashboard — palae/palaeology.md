@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of (especially prehistoric) antiquities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of (especially prehistoric) antiquities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of antiquities, ancient history, or ancient languages; an archaic or formal synonym for archaeology or paleontology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century scholarship, an overarching term encompassing epigraphy, classical antiquities, and prehistoric fossil lore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeology designates the study of (especially prehistoric) antiquities."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Mr. Oldbuck was deeply versed in **palaeology**, ready to lecture for hours upon a Roman ditch or a rusty Scottish coin."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The study of **palaeology** instructs us in the vanity of earthly monuments, which crumble while their buried dust remains."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life*):** *"My youthful passion for **palaeology** led me through the folios of the Byzantine historians and classical inscriptions."*

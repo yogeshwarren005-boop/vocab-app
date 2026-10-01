@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an archegonium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an archegonium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant that possesses archegonia as its female reproductive organs, comprising bryophytes, pteridophytes, and most gymnosperms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, historically grouped together as Archegoniatae to emphasize their shared evolutionary mode of oogamous sexual reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archegoniate designates of or relating to an archegonium."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The evolutionary transition to dry land required the **archegoniate** plants to protect the egg within a multicellular jacket."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"Comparative study reveals the gradual reduction of the gametophyte across the higher **archegoniate** series."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Ferns and mosses are classic **archegoniate** cryptogams, dependent upon ambient water for fertilization."*

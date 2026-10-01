@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of an archaic expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of an archaic expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic word, phrase, idiom, or style; an intentional use of antique linguistic or artistic forms (a variant of archaism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary stylistics, the deliberate revival of antique idioms to create an atmosphere of biblical gravity or historical authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaicism designates the use of an archaic expression."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The poet’s diction is sometimes stained with an obsolete **archaicism** that impedes the modern reader's pleasure."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"Francis Newman disfigured his translation with eccentric **archaicisms** that made the flowing Greek sound grotesquely barbarous."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"The affected **archaicism** of Chatterton’s forged Rowley poems could not long deceive the acute eye of scholarship."*

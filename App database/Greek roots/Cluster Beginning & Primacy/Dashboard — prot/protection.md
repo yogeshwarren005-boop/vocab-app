@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of protecting someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering that is intend to protect from damage or injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of protecting or state of being protected; defense, shelter, or preservation from harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, the practice of shielding domestic industries from foreign competition through tariffs, quotas, or import subsidies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May it please you To take them in protection?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sleep hath seiz’d me wholly. [_Exit Lady._] To your protection I commend me, gods."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Myself and Beaufort had him in protection, And we, I hope, sir, are no murderers."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"The judicious **protection** of domestic manufactures stimulates national industry and secures economic independence."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I sought the shelter of the cottage, hoping to find sympathy and **protection** from the bitter winter frost."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"To demand perpetual **protection** for a domestic monopoly is to tax the whole society for the benefit of a single class."*

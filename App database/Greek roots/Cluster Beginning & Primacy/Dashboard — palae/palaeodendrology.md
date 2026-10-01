@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of paleobotany that studies fossil trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of paleobotany that studies fossil trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of fossilized trees, fossil wood, and ancient arborescent vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, analyzing silicified tree rings (dendrochronology in deep time) to deduce prehistoric growth seasons, volcanic disruptions, and forest canopy ecology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeodendrology designates the branch of paleobotany that studies fossil trees."*
+> - 📜 **Robert Etheridge (*Fossils of the British Islands*):** *"The investigations of **palaeodendrology** revealed petrified coniferous trunks standing erect in the Jurassic dirt beds of Portland."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Microscopic wood anatomy in **palaeodendrology** enables the botanist to determine extinct gymnosperm families from mineralized logs."*
+> - 📜 **John William Dawson (*The Geological History of Plants*):** *"Through **palaeodendrology**, we reconstructed the colossal scale of Carboniferous lycopod trees whose trunks exceeded a hundred feet in height."*

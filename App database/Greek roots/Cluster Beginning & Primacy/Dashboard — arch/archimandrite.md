@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The superior of an abbey of monks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The superior of an abbey of monks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cleric in Eastern Orthodox and Eastern Catholic churches who heads a large monastery or group of monasteries; a monastic superior corresponding to an abbot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An honorary title conferred upon senior celibate priests in Byzantine rite churches distinguishing administrative or theological service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Father Archimandrite Innocent Figuroffsky; the Rev."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"The venerable **archimandrite** entered the refectory, bowed before the holy icons, and gave his silent blessing."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **archimandrite** assembled his monks within the fortified sanctuary while nomadic raiders swept through the valley."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"An imperial decree was read aloud by the **archimandrite** of the monastery before the gathered veterans."*

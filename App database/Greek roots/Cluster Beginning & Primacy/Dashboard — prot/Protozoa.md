@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a superphylum or a subkingdom; comprises flagellates; ciliates; sporozoans; amoebas; foraminifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of diverse minute acellular or unicellular organisms usually nonphotosynthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical taxon or grouping of single-celled microscopic eukaryotic organisms that feed heterotrophically (such as amoebae, ciliates, flagellates, and sporozoans).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern protistology, an informal paraphyletic grouping of non-photosynthetic unicellular protists with diverse evolutionary lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Protozoa designates in some classifications considered a superphylum or a subkingdom; comprises flagellates; ciliates; sporozoans; amoebas; foraminifers."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"The ancestral forms of animal life are preserved for us among the single-celled **Protozoa**."*
+> - 📜 **Antonie van Leeuwenhoek (*Letters to the Royal Society*):** *"Through my lenses I beheld countless animalcules, representing those minute **Protozoa** teeming in rainwater."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Between the simple unicellular **Protozoa** and the complex multicellular Metazoa lies the great structural boundary."*

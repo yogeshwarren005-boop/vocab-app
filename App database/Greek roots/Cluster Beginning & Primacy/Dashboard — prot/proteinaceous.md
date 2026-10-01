@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of protein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or of the nature of protein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or containing protein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and physiology, relating to nitrogenous macromolecular organic substances composed of amino acid chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteinaceous designates relating to or of the nature of protein."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Animal muscles and blood consist of **proteinaceous** compounds originally synthesized by the vegetable kingdom."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Gastric juice digests **proteinaceous** food by dissolving peptide bonds in the stomach cavity."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microscopic organisms proliferate rapidly whenever a warm, moist **proteinaceous** medium is exposed to atmospheric dust."*

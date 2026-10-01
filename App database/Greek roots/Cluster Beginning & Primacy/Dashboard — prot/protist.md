@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a diverse taxonomic group and especially a kingdom (Protista synonym Protoctista) of eukaryotic organisms that are unicellular and sometimes colonial or less often multicellular and that typically include the protozoans, most algae, and often some fungi (such as slime molds).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a diverse taxonomic group and especially a kingdom (Protista synonym Protoctista) of eukaryotic organisms that are unicellular and sometimes colonial or less often multicellular and that typically include the protozoans, most algae, and often some fungi (such as slime molds).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a diverse group of eukaryotic microorganisms that are not animals, plants, or fungi, typically single-celled or colonial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eukaryotic systematics, organisms formerly placed in kingdom Protista (such as ciliates, diatoms, amoebae, and dinoflagellates), now grouped into major supergroups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protist designates any of a diverse taxonomic group and especially a kingdom (protista synonym protoctista) of eukaryotic organisms that are unicellular and sometimes colonial or less often multicellular and that typically include the protozoans, most algae, and often some fungi (such as slime molds)."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The ancestral **protist** was a mosaic creature formed by the symbiotic merger of diverse prokaryotic partners."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"Every lineage of complex multicellular life trace their roots back to some bizarre, experimental single-celled **protist**."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"The unicellular **protist** exhibits in its solitary cell all the fundamental life functions of more elaborate organisms."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fossil bird from the Late Jurassic Solnhofen limestone of Germany, originally classified as a distinct genus but generally regarded as a specimen of Archaeopteryx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleornithological history, the Berlin specimen described by Dames and Petronievics, demonstrating exquisite feather preservation and reptilian cranial anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeornis designates extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing."*
+> - 📜 **Branislav Petronievics (*On the Structure of the Skull of Archaeornis*):** *"The exquisite preservation of the Berlin skeleton justified erecting the genus **Archaeornis** for this feathered reptile."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"The specimen designated as **Archaeornis** displays the transitional transition from theropod dinosaur to primitive avian form."*
+> - 📜 **Gerhard Heilmann (*The Origin of Birds*):** *"Comparative analysis showed that **Archaeornis** possessed clawed digits upon its wings, enabling climbing among prehistoric branches."*

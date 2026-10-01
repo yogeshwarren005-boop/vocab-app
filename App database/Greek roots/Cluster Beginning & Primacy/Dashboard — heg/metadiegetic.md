@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of lead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of lead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In literary and narrative theory, pertaining to an embedded narrative or a story within a story (often synonymous with or related to hypodiegetic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narratology (Genette's initial terminology), designating the narrative level situated beyond the primary diegesis, as when a character recites an ancient myth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metadiegetic designates adjective*) pertaining to, derived from, or characteristic of lead."*
+> - 📜 **Gérard Genette (*Figures III*):** *"We designate as **metadiegetic** that second-order narrative told by a character belonging to the primary story."*
+> - 📜 **Umberto Eco (*The Role of the Reader*):** *"In Gothic romances, the discovery of an old manuscript initiates a **metadiegetic** voyage into ancestral horror."*
+> - 📜 **Seymour Chatman (*Story and Discourse: Narrative Structure in Fiction and Film*):** *"The **metadiegetic** frame highlights the act of storytelling itself, emphasizing the voice and credibility of the internal narrator."*

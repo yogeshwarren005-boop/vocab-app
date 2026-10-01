@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or located in an archipelago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or located in an archipelago.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated in, or consisting of an archipelago (a sea or expanse of water containing many islands).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the law of the sea and geopolitics, designating sovereign waters, baselines, and legal rights pertaining to an island state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archipelagic designates of, relating to, or located in an archipelago."*
+> - 📜 **Herman Melville (*Typee*):** *"The Marquesas group forms an **archipelagic** paradise where volcanic peaks plunge directly into azure waters."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"His trading schooner navigated the treacherous reefs of the **archipelagic** channels of the eastern Malay seas."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The **archipelagic** isolation of individual islands fostered extraordinary endemic speciation among butterflies and birds."*

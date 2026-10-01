@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A normal gene that has the potential to become an oncogene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A normal gene that has the potential to become an oncogene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A normal cellular gene that has the potential to become an oncogene through mutation or overexpression, thereby promoting malignant tumor formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular oncology, essential cellular genes encoding growth factors, receptor kinases, or transcription factors (e.g., RAS, MYC, SRC) that regulate normal cell division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proto-oncogene designates a normal gene that has the potential to become an oncogene."*
+> - 📜 **J. Michael Bishop (*Nobel Lecture*):** *"The viral oncogene was not a foreign invader, but a stolen and mutated copy of a normal cellular **proto-oncogene**."*
+> - 📜 **Harold E. Varmus (*Science*):** *"When a point mutation locks a **proto-oncogene** into a constitutively active state, normal cellular proliferation turns malignant."*
+> - 📜 **Robert Weinberg (*The Biology of Cancer*):** *"The normal function of a **proto-oncogene** is to transmit growth-stimulatory signals during embryonic development and tissue repair."*

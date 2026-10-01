@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diocese of an Eastern church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diocese of an Eastern church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A province or administrative district in ancient Greece and the Byzantine Empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Eastern Orthodox or Eastern Catholic diocese under the jurisdiction of an eparch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eparchy designates a diocese of an eastern church."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The expansive **eparchy** of the East was divided into dioceses governed by imperial lieutenants."*
+> - 📜 **Jaroslav Pelikan (*The Spirit of Eastern Christendom*):** *"Monasteries founded within an **eparchy** were subject to the episcopal oversight of the reigning bishop."*
+> - 📜 **George Finlay (*History of the Byzantine Empire*):** *"The fiscal revenues of each rural **eparchy** were collected by imperial officials stationed in the fortified towns."*

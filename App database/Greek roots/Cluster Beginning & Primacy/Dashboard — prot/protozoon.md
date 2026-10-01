@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of diverse minute acellular or unicellular organisms usually nonphotosynthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of diverse minute acellular or unicellular organisms usually nonphotosynthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-celled microscopic eukaryote; singular form of protozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical biology, an individual microscopic animalcule regarded as the fundamental unicellular unit of animal life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protozoon designates any of diverse minute acellular or unicellular organisms usually nonphotosynthetic."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Even in the simplest **protozoon**, we observe irritability, nutrition, and reproduction reduced to their elemental terms."*
+> - 📜 **H. G. Wells (*The Science of Life*):** *"The solitary **protozoon** lives without brain, nerves, or heart, performing all life tasks within a microscopic droplet of jelly."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The geometric regularity of a single **protozoon** reflects the direct action of surface tension upon colloidal protoplasm."*

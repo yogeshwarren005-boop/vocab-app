@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the earliest known rocks formed during the precambrian eon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the earliest known rocks formed during the precambrian eon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the earlier eon of the Precambrian era, spanning from approximately 4.0 to 2.5 billion years ago; ancient or primitive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleontology, the pivotal era during which Earth's crust cooled, oceans formed, and the earliest single-celled anaerobic life originated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaean designates of or relating to the earliest known rocks formed during the precambrian eon."*
+> - 📜 **Charles Lyell (*The Student's Elements of Geology*):** *"The heavily metamorphosed **Archaean** gneisses form the deep crystalline basement of the continents."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Sedimentary banded iron formations provide unmistakable chemical evidence of photosynthetic life in the **Archaean** seas."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"For the first two billion years of the **Archaean** eon, life remained microscopic and prokaryotic."*

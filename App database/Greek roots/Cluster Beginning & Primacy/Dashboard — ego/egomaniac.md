@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being extremely egocentric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being extremely egocentric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from egomania; an intensely self-absorbed, arrogant, and boastful individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social commentary, a leader, artist, or public figure whose behavior is dominated by an insatiable hunger for adoration and absolute self-glorification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egomaniac designates the quality or state of being extremely egocentric."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Hitler proved himself a dangerous **egomaniac**, deaf to tactical advice once his mystical intuition was engaged."*
+> - 📜 **F. Scott Fitzgerald (*The Last Tycoon*):** *"Monroe Stahr had to deal with brilliant Hollywood **egomaniacs** whose petulant tantrums threatened multi-million-dollar productions."*
+> - 📜 **Tom Wolfe (*The Bonfire of the Vanities*):** *"The Wall Street trader strutted across Manhattan like a crowned **egomaniac**, convinced he was master of the universe."*

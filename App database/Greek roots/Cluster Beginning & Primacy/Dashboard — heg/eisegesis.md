@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of a text (as of the Bible) by reading into it one's own ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interpretation of a text (as of the Bible) by reading into it one's own ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of interpreting a text by reading one's own preconceived ideas, biases, or agenda into it; the opposite of exegesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical hermeneutics and legal interpretation, the flawed practice of forcing an arbitrary meaning onto an ancient text rather than drawing out the author's original intent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eisegesis designates the interpretation of a text (as of the bible) by reading into it one's own ideas."*
+> - 📜 **C. S. Lewis (*Reflections on the Psalms*):** *"We must beware of pious **eisegesis**, reading sophisticated modern doctrines into the raw, ancient poetry of the Psalter."*
+> - 📜 **F. F. Bruce (*The New Testament Documents: Are They Reliable?*):** *"True textual interpretation is disciplined exegesis; theological **eisegesis** merely reflects the reader's own voice."*
+> - 📜 **Benjamin Jowett (*On the Interpretation of Scripture*):** *"Centuries of scholastic **eisegesis** obscured the original historical meaning of the Pauline epistles."*

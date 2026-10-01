@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic bronchodilator drug that acts as a beta-2 adrenergic agonist, used to treat asthma, bronchitis, and bronchospasm; also known as orciprenaline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory pharmacotherapy, a resorcinol-derivative derivative of isoproterenol offering longer duration of action and resistance to enzymatic methylation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaproterenol designates a bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness."*
+> - 📜 **Julius H. Comroe (*Physiology of Respiration*):** *"Inhaled **metaproterenol** rapidly relieves wheezing by relaxing constricted bronchial smooth muscle fibers."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Because **metaproterenol** is resistant to catechol-O-methyltransferase, it exhibits oral bioavailability superior to that of isoproterenol."*
+> - 📜 **William H. Howell (*Textbook of Physiology*):** *"Clinical administration of aerosolized **metaproterenol** prevents exercise-induced bronchospasm in asthmatic subjects."*

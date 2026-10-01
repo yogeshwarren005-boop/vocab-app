@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eteo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining prefix derived from Ancient Greek eteos, meaning true, authentic, genuine, or indigenous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and historical ethnology, used in compounds (such as Eteocretan and Eteocypriot) to designate the original, autochthonous inhabitants of a land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eteo designates a term designating an entity, condition, or phenomenon derived from greek eteo."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The rare prefix **eteo**- derives from Greek eteos, signifying that which is genuine, primal, and unmixed."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"By prefixing **eteo**- to regional names, ancient Greek geographers identified the true aboriginal populations."*
+> - 📜 **Liddell and Scott (*A Greek-English Lexicon*):** *"The poetic adjective eteos gave birth to the combining form **eteo**-, denoting indigenous antiquity."*

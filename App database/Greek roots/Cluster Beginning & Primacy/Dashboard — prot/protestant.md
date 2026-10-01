@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of protestantism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protestant churches and denominations collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member or follower of any of the Western Christian churches that are separate from the Roman Catholic Church following the 16th-century Reformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adhering to the principles of the Reformation, particularly justification by faith alone (sola fide) and the supreme authority of scripture (sola scriptura).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But our schools being decidedly Protestant, and I preaching regularly, the opposition from Romanists was very strong; this, together with the extreme poverty of the people, made our income very small."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One day, a young painter who was working there, and proved to be one of the Christians whose light shines for all in the house, spoke to her, and invited her to a prayer-meeting in a Protestant chapel."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"By Trelawny's care the ashes were buried in the Protestant cemetery at Rome."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The ascetic discipline of the **Protestant** sects contributed decisively to the rational spirit of modern enterprise."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The nation rejoiced when the crown was settled upon a confirmed **Protestant** sovereign."*
+> - 📜 **John Milton (*Areopagitica*):** *"A man may be a heretic in the truth; and if he believe things only because his pastor says so, his belief is a mere **Protestant** superstition."*

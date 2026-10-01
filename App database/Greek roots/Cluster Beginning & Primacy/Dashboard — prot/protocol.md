@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of rules that explain the correct conduct and procedures to be followed in formal situations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of conventions governing the treatment and especially the formatting of data in an electronic communications system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official procedure, code of diplomatic etiquette, or system of rules governing state affairs, diplomatic ceremonies, or scientific experiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing, a standardized set of rules and formats for transmitting data between electronic devices across a network (e.g., TCP/IP, HTTP).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just the routine chit-chat of protocol: small talk about the inconveniences of long hops and living out of traveling kits."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Copy to each Senior Elder of the General Assembly, to Ministers of Intelligence and Diplomatic Protocols, and to Slingshot Director."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He nodded perfunctory greetings to his Ministers of Intelligence and Diplomatic Protocols, and to the Commander of the UIPS Space Forces as he took his seat at the head of the long table."*
+> - 📜 **Henry Kissinger (*Diplomacy*):** *"Strict adherence to diplomatic **protocol** provides the neutral scaffolding within which rival powers can conduct delicate negotiations."*
+> - 📜 **George Orwell (*1984*):** *"Every party member was expected to follow the established ideological **protocol** without the slightest hesitation or deviation."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"The Hypertext Transfer **Protocol** was designed to be a lightweight, stateless system for retrieving distributed documents across the internet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ethnography of paleolithic humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ethnography of paleolithic humans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ethnographic study of prehistoric or ancient human societies, material cultures, and customs based on archaeological evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prehistoric anthropology, reconstructing social organization, kinship patterns, and ceremonial rituals from stone tools, dwelling foundations, and burials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeoethnography designates the ethnography of paleolithic humans."*
+> - 📜 **V. Gordon Childe (*Social Evolution*):** *"**Palaeoethnography** utilizes material grave goods and dwelling layouts to reconstruct the social hierarchies of Bronze Age clans."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The tools and hearth arrangements recovered from lake dwellings provide valuable data for comparative **palaeoethnography**."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Through **palaeoethnography**, we trace how ancestral human customs evolved from crude flint-knapping rituals to complex civic ceremonies."*

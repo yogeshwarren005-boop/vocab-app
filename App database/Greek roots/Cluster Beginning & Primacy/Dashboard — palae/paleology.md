@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek palae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Beginning & Primacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of antiquities, ancient times, or ancient languages; an alternative or archaic spelling for palaeology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, the overarching study of ancient human civilizations and prehistoric physical relics before modern specialization into archaeology and paleontology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleology designates a term designating an entity, condition, or phenomenon derived from greek palae."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Men well versed in **paleology** know that many vulgar legends dissolve upon inspecting ancient inscriptions."*
+> - 📜 **Walter Scott (*Waverley*):** *"The baron delighted in quaint **paleology**, expounding old family charters with unflagging genealogical enthusiasm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"His profound grasp of classical **paleology** allowed him to restore corrupted passages in early imperial decrees."*

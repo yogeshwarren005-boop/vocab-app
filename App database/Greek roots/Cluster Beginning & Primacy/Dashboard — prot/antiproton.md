@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of the proton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of the proton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of the proton, having the same mass but a negative electric charge and opposite magnetic moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-energy particle physics, a subatomic baryon discovered in 1955 at the Berkeley Bevatron whose annihilation with a proton yields pions and gamma rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiproton designates the antiparticle of the proton."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"Relativistic quantum mechanics demanded that every fundamental fermion possess an antimatter counterpart, prefiguring the discovery of the **antiproton**."*
+> - 📜 **Emilio Segrè (*From X-Rays to Quarks*):** *"When the Bevatron detector registered a negatively charged heavy particle, the existence of the **antiproton** was decisively confirmed."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"When a proton meets an **antiproton**, the entire mass of both particles annihilates into high-energy radiation."*

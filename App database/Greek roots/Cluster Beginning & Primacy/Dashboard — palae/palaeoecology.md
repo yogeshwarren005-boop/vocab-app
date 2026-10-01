@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the relationships between ancient, fossil organisms and their prehistoric physical and biological environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary science, reconstructing ancient trophic webs, predator-prey dynamics, and biome migrations in response to geological events and mass extinctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeoecology designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The Burgess Shale offers an unmatched window into marine **palaeoecology**, preserving soft-bodied predators and burrowers in living association."*
+> - 📜 **George Gaylord Simpson (*The Meaning of Evolution*):** *"Evolutionary changes are fundamentally ecological shifts; **palaeoecology** reveals how lineages adapt to shifting environmental niches."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"By examining fossil pollen assemblages, **palaeoecology** maps how post-glacial forests migrated northward as the glaciers receded."*

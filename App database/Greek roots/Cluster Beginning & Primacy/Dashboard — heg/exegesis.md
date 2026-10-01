@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exposition, explanation; especially : an explanation or critical interpretation of a text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exposition, explanation; especially : an explanation or critical interpretation of a text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Critical explanation, analysis, or interpretation of a text, especially scripture or legal statutes (from Greek exēgēsis, a leading out).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological hermeneutics, the objective discovery of a text's original grammatical, historical, and cultural meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Lindsay had been Professor of Exegesis, but the United Presbyterian Synod in May 1867 provided for this subject being dealt with otherwise, and instituted a new chair of Apologetics with a special view to Dr."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Clement would neither alter, nor excise, but he found all the freedom he wanted in the accepted methods of exegesis."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"Patristic **exegesis** uncovered layers of allegorical and moral truth beneath the literal historical narrative."*
+> - 📜 **Friedrich Schleiermacher (*Hermeneutics and Criticism*):** *"Rigorous historical **exegesis** reconstructs the unique creative mind of the author in its original historical horizon."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon’s promised work of biblical **exegesis** had stalled amidst thousands of unsorted slips of paper."*

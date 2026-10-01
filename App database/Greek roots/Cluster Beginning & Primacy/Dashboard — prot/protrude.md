@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend out or project in space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulge outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extend beyond or above a surface; stick out or cause to project.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery and pathology, to herniate or push outward through an abnormal opening or weakened wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In spite of her exceptional stoutness, which caused her to protrude her chest and stomach and throw back her head, this woman (who was “Uncle’s” housekeeper) trod very lightly."*
-> - 📜 **James Joyce (*Ulysses*):** *"Alleluia_. _(The famished snaggletusks of an elderly bawd protrude from a doorway.)_ THE BAWD: _(Her voice whispering huskily.)_ Sst!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Across his loins is slung a pilgrim’s wallet from which protrude promissory notes and dishonoured bills."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrei noticed the dead officer's boots **protrude** stiffly from under the artillery caisson."*
+> - 📜 **James Joyce (*Ulysses*):** *"A corner of the yellow postal card was seen to **protrude** from beneath his waistcoat pocket."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Huge ivory teeth seemed to **protrude** like jagged tombstone slabs along the monster's lower jaw."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of projecting out from something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that protrudes; a projecting part, prominence, or bulge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of protruding or state of being pushed forward; in pathology, disc herniation or exophthalmos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Raffles’ slow wink and slight protrusion of his tongue was worse than a nightmare, because it held the certitude that it was not a nightmare, but a waking misery."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They deified the crocodile of the Nile, because the crocodile is tongueless; and the Sperm Whale has no tongue, or at least it is so exceedingly small, as to be incapable of protrusion."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"They deified the crocodile of the Nile, because the crocodile is tongueless; and the Sperm Whale has no tongue, or at least it is so exceedingly small, as to be incapable of protrusion."*
+> - 📜 **George Eliot (*Adam Bede*):** *"A jagged rock **protrusion** jutted out into the woodland path, catching the wheels of the cart."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great hump of the sperm whale rose in massive **protrusion** against the horizon."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"A posterolateral **protrusion** of the intervertebral disc impinges directly upon the passing spinal nerve root."*

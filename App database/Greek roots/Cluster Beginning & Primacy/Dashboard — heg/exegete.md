@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices exegesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices exegesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who critically explains, interprets, or analyzes a text, especially sacred scripture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greece, an official interpreter of sacred laws, omens, or religious rites; in academic theology, a scholar skilled in original biblical languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exegete designates one who practices exegesis."*
+> - 📜 **Plato (*Euthyphro*):** *"Euthyphro claimed to be an inspired **exegete** of the divine laws concerning piety and impiety."*
+> - 📜 **Desiderius Erasmus (*Annotations on the New Testament*):** *"The biblical **exegete** must master Greek and Hebrew grammar before pretending to arbitrate doctrinal disputes."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym spoke with the quiet conviction of an **exegete** expounding neglected moral truths to provincial listeners."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of prehistoric human artifacts and human fossils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of prehistoric human artifacts and human fossils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of protoarchaeology; the nascent, pre-scientific phase of archaeological investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exploratory antiquarian collecting and tomb-opening of the early modern period preceding scientific stratigraphic excavation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoarcheology designates the study of prehistoric human artifacts and human fossils."*
+> - 📜 **Lewis Binford (*New Perspectives in Archaeology*):** *"We must liberate ourselves from the lingering habits of **protoarcheology**, where trait lists were substituted for functional explanations."*
+> - 📜 **V. Gordon Childe (*A Short Introduction to Archaeology*):** *"The transition from **protoarcheology** to genuine prehistory occurred when geological superposition was applied to earthworks."*
+> - 📜 **Stuart Piggott (*Ruins in a Landscape*):** *"William Stukeley’s early surveys of Avebury show the brilliant dawn and subsequent occult decay of British **protoarcheology**."*

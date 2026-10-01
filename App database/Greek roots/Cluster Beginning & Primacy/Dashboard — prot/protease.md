@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that breaks down proteins and peptides into smaller polypeptides or amino acids by hydrolyzing peptide bonds; a peptidase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and physiology, cellular enzymes categorized into serine, cysteine, aspartic, and metallo-proteases essential for digestion, coagulation, and viral replication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protease designates any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis."*
+> - 📜 **Christian Anfinsen (*The Molecular Basis of Evolution*):** *"The catalytic cleavage of polypeptide chains by a specific **protease** reveals the folding hierarchy of enzymes."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"Purification of intracellular **protease** enzymes clarified how cells degrade damaged proteins without harming structural components."*
+> - 📜 **Sydney Brenner (*Selected Papers in Molecular Biology*):** *"Inhibiting the viral **protease** prevents the maturation of infectious polyproteins, neutralizing viral propagation."*

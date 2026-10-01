@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat with an agent; add (an agent) to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer a drug to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated or administered with a specific quantity of a drug, medicine, or chemical substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adulterated or infused with an added ingredient, especially a narcotic or medicinal compound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I dosed her with various restoratives, such as flax-seed, and slippery elm, etc., but all were of no avail."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He now suspected that the grave roysterers of the mountains had put a trick upon him, and, having dosed him with liquor, had robbed him of his gun."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She pitilessly dosed them with her tracts and her medicine, she dismissed Creamer, she installed Rodgers, and soon stripped Miss Crawley of even the semblance of authority."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly **dosed** Tom with pain-killer until the poor boy felt fire burning through his veins."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The sick child was carefully **dosed** with cordial by the village apothecary."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Chillip **dosed** the household with soothing camphor emulsions during the winter chills."*

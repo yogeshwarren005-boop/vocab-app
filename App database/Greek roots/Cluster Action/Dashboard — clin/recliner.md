@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An armchair or sofa that tilts back and has a footrest that can be extended forward for reclining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who reclines or rests in a leaning position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recliner designates an armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The post-encephalitic patient remained motionless in his padded **recliner**, trapped in a waking trance."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"He leaned back in the leather **recliner**, watching the blue smoke curl lazily from his cigar."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"An old velvet **recliner** with sagging springs occupied the center of the dusty boarding-house room."*

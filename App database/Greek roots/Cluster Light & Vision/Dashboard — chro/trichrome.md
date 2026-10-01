@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving three colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving three colors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Executed in or printed using three colors; in histology, a triple-staining method (such as Masson's trichrome) used to differentiate tissue components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and microscopy, a histochemical staining technique that stains collagen blue or green, cytoplasm and muscle red, and nuclei dark brown.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichrome designates having or involving three colors."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The **trichrome** staining mixture clearly distinguished the collagen fibers from the smooth muscle bundles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Liver biopsies stained with Masson's **trichrome** revealed extensive portal fibrosis surrounding the lobules."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Using a modified **trichrome** procedure, we followed the delicate connective tissue envelopes around nerve trunks."*

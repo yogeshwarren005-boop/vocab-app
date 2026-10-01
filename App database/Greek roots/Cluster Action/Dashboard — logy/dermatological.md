@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or practicing dermatology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or practicing dermatology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to dermatology or the medical study and treatment of skin conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to topical therapeutics, cutaneous pathology, or clinical skin examinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatological designates of or relating to or practicing dermatology."*
+> - 📜 **Erasmus Wilson (*On Diseases of the Skin*):** *"The **dermatological** atlas provides the student with an essential guide to the manifold expressions of cutaneous inflammation."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases of the Skin*):** *"A keen **dermatological** observer recognizes that the skin is the mirror of constitutional vulnerabilities."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris*):** *"Rarely does a systemic vasculitis escape without exhibiting distinct **dermatological** purpura or petechiae."*

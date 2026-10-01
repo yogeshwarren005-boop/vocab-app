@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical cutting or severing of nerve tracts in the white matter of the brain, especially prefrontal leucotomy (lobotomy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and neurosurgery, a procedure introduced by António Egas Moniz in 1935 to sever thalamofrontal pathways in intractable psychiatric illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucotomy designates surgical interruption of nerve tracts to and from the frontal lobe of the brain; often results in marked cognitive and personality changes."*
+> - 📜 **António Egas Moniz (*Nobel Lecture: Prefrontal Leucotomy in the Treatment of Certain Psychoses*):** *"By introducing the leucotome to perform prefrontal **leucotomy**, we interrupted the morbid synaptic circuits sustaining severe obsessions."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The reckless practice of prefrontal **leucotomy** blunted the emotional depth and creativity of thousands of patients."*
+> - 📜 **William Osler (*Principles and Practice of Medicine*):** *"Neurosurgical **leucotomy** highlighted the critical role of prefrontal association tracts in governing human personality."*

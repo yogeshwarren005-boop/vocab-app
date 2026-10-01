@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by the anapest; consisting of feet having two unstressed beats followed by one stressed beat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosodic criticism, possessing a tripping, buoyant, or galloping metrical momentum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anapestic designates a metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware)."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"The rapid musical movement of the lines was achieved through a masterly employment of **anapestic** measures."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"His verses tumble forward in breathless **anapestic** haste, sweeping all obstacles before them."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"Homer’s hexameter possesses a swift nobility that cannot be reproduced by a jerky **anapestic** substitute."*

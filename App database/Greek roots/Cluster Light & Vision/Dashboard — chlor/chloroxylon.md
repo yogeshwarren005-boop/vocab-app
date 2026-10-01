@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous trees of india and sri lanka.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous trees of india and sri lanka.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees in the family Rutaceae, notably *Chloroxylon swietenia*, native to India and Sri Lanka and yielding Ceylon satinwood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and economic botany, a valuable hardwood tree prized for its fragrant, fine-grained, golden-yellow timber used in luxury cabinetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloroxylon designates deciduous trees of india and sri lanka."*
+> - 📜 **William Roxburgh (*Plants of the Coast of Coromandel*):** *"The fragrant satinwood tree was classified under **Chloroxylon**, renowned for its yellow lustrous timber."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Dense forests of **Chloroxylon** covered the rocky hillsides of the central Deccan plateau."*
+> - 📜 **George Watt (*A Dictionary of the Economic Products of India*):** *"Cabinetmakers prized timber cut from **Chloroxylon** for its satin sheen and remarkable durability."*

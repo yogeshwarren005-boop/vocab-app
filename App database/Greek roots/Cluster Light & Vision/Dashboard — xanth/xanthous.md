@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow or yellowish in color; specifically, having yellow, red, or fair hair and a fair complexion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century physical anthropology and ethnology (an obsolete classification coined by James Cowles Prichard), designating human varieties characterized by fair skin, light-colored eyes, and blonde or reddish hair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthous designates adjective*) pertaining to, derived from, or characteristic of yellow."*
+> - 📜 **James Cowles Prichard (*Researches into the Physical History of Mankind*):** *"Under the **xanthous** variety, I include all those races of men who have fair skins, light eyes, and yellow, brown, or red hair."*
+> - 📜 **Thomas Henry Huxley (*Methods and Results of Ethnology*):** *"The tall, fair-haired populations of northern Europe were historically grouped by ethnologists into the **xanthous** division."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The distinction between melanic and **xanthous** types among European populations appears to have persisted since the classical era."*

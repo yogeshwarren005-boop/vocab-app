@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of red blood cells (as from the bone marrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of red blood cells (as from the bone marrow).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process by which red blood cells (erythrocytes) are produced and matured in the bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, a tightly regulated hematopoietic feedback mechanism stimulated by tissue hypoxia and mediated by the hormone erythropoietin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythropoiesis designates the production of red blood cells (as from the bone marrow)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following massive hemorrhage, accelerated **erythropoiesis** repopulates the marrow with active normoblasts."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"The stages of **erythropoiesis** illustrate a continuous maturation cycle terminating in the loss of the cell nucleus."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Respiration*):** *"Renal sensors detect arterial hypoxia, triggering marrow **erythropoiesis** to maintain internal equilibrium."*

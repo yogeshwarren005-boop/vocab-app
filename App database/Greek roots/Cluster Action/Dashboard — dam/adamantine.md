@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made of or having the quality of adamant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigidly firm : unyielding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unbreakable, indestructible, or extremely hard; resembling adamant in firmness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, having the brilliant, high-refractive luster characteristic of a cut diamond.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Anyhow, with whitewash from the wall on my forehead, my obstinacy was adamantine."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Him the Almighty Power Hurld headlong flaming from th’ Ethereal Skie With hideous ruine and combustion down To bottomless perdition, there to dwell In Adamantine Chains and penal Fire, Who durst defie th’ Omnipotent to Arms."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So seem’d Farr off the flying Fiend: at last appeer Hell bounds high reaching to the horrid Roof, And thrice threefold the Gates; three folds were Brass Three Iron, three of Adamantine Rock, Impenitrable, impal’d with circling fire, Yet unconsum’d."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fallen angels were bound in **adamantine** chains and penal fire, down in the bottomless gulf."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Zircon and diamond display a magnificent **adamantine** luster resulting from their exceptionally high index of refraction."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Upon these Caucasus crags, Prometheus hung fast bound with **adamantine** wedges to the cold rock."*

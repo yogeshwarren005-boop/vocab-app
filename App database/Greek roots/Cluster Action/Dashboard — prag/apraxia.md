@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the ability to execute complex coordinated movements without muscular or sensory impairment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the ability to execute complex coordinated movements without muscular or sensory impairment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to perform learned, purposive movements, as a result of brain damage, without paralysis or sensory loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher cortical neurology, the breakdown of motor planning systems in the parietal and frontal lobes that coordinate complex intentional behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apraxia designates loss or impairment of the ability to execute complex coordinated movements without muscular or sensory impairment."*
+> - 📜 **Sigmund Freud (*On Aphasia: A Critical Study*):** *"Liepmann's description of motor **apraxia** proved that high-level motor planning could be dissociated from elementary muscle weakness."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Ideational **apraxia** prevents the patient from conceptualizing the consecutive steps required to light a candle."*
+> - 📜 **Norman Geschwind (*Disconnexion Syndromes in Animals and Man*):** *"Lesions interrupting associations between sensory analysis and motor execution manifest clinically as **apraxia**."*

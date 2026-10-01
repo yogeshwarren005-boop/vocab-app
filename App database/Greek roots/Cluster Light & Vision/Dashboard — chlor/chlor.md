@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: green.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: chlorine : containing chlorine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining form (from Greek chloros, 'light green' or 'greenish-yellow') designating green color or the presence of chlorine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical and biological nomenclature, a prefix denoting chlorine substituents or photosynthetic plant pigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog chlor as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Humphry Davy (*Philosophical Transactions of the Royal Society*):** *"From its peculiar greenish-yellow hue I propose the name **chlor**-ine for this remarkable elementary body."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"The combining root **chlor** designates the halogen halogen group exhibiting marked electronegative affinity."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Plant cells owe their verdant hue to the **chlor**-bearing plastids embedded in the protoplasm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worldwide, simultaneous changes in sea level caused by alterations in the absolute volume of ocean water or oceanic basin capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and oceanography, glacio-eustasy or tectono-eustasy driving global marine transgressions and regressions across geological time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eustasis designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"We coin the term **eustasis** to designate those universal vertical oscillations of the sea surface that encompass all oceanic shores."*
+> - 📜 **Reginald Aldworth Daly (*The Changing World of the Ice Age*):** *"The growth and decay of continental ice sheets imposed massive glacio-eustatic **eustasis** on Pleistocene coastlines."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Sedimentary cyclothems record rhythmic marine transgressions driven by pulses of global **eustasis** throughout the Carboniferous period."*

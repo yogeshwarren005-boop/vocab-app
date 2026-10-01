@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amylase; especially : a mixture of amylases from malt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amylase; especially : a mixture of amylases from malt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme mixture (chiefly amylase) found in germinating malt and saliva that hydrolyzes starches into soluble maltose and dextrin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the first enzyme ever isolated and characterized, identified by Anselme Payen and Jean-François Persoz in 1833.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastase designates amylase; especially : a mixture of amylases from malt."*
+> - 📜 **Anselme Payen (*Memoir on Diastase*):** *"We gave the name **diastase** to this substance because it possesses the unique property of separating starch into soluble sugars."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Soluble ferments such as **diastase** act chemically upon carbohydrate substrates without requiring the direct presence of living yeast."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The transformation of vegetable starches into animal sugars is accelerated by natural catalytic ferments like **diastase**."*

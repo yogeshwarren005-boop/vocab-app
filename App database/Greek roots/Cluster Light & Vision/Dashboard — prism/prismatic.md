@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or constituting a prism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed by a prism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or shaped like a prism; brilliant, vibrant, and multicolored like the spectral colors formed by a prism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and optics, characterizing crystals with elongated prism faces, or dispersion halos displaying rainbow hues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The huge pool of blood in front of her was already assuming the iridescence of coagulation; and when the sun rose a hundred prismatic hues were reflected from it."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The leaf, in one particular stage, when nearly all the prismatic colours are blended on its surface, is often converted by the natives into a superb and striking head-dress."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This phenomenon consists in the production of cylindrical tubes, more or less elongated, from the upper extremity (rarely from the base) of the prismatic spores."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The spray of the foaming waterfall blazed with **prismatic** glory under the midday sun."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Staurolite crystallizes in stout **prismatic** forms often twinned into the shape of a cross."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A marvelous **prismatic** spray rose from the whale's spout as he breached into the sunset."*

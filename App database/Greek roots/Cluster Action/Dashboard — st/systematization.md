@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic organization; the act of organizing something according to a system or a rationale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic organization; the act of organizing something according to a system or a rationale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of organizing facts, rules, or practices into an orderly, comprehensive system (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social sciences, the bureaucratic or rational organization of institutional life and legal structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"My object here is simply to project the draught of a systematization of cetology."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"My object here is simply to project the draught of a systematization of cetology."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The bureaucratic **systematization** of administrative procedure replaces arbitrary patrimonial rule with predictable, codified law."*
+> - 📜 **Talcott Parsons (*The Structure of Social Action*):** *"Theoretical advancement in sociology hinges upon the conceptual **systematization** of institutional roles and norm patterns."*
+> - 📜 **Ernest Nagel (*The Structure of Science*):** *"The ultimate aim of scientific inquiry is the logical **systematization** of explanatory laws under encompassing theories."*

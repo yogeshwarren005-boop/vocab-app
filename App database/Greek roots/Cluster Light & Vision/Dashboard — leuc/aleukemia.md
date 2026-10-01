@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leuc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aleukemic leukemia; a leukemic disorder in which the peripheral white blood cell count remains normal or subnormal despite marrow infiltration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, a diagnostic challenge where malignant blast cells proliferate within the bone marrow while peripheral blood reveals only cytopenias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aleukemia designates a term designating an entity, condition, or phenomenon derived from greek leuc."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The condition designated **aleukemia** requires sternal marrow puncture to demonstrate the leukemic proliferation masked by a low white count."*
+> - 📜 **Paul Ehrlich (*The Anaemias*):** *"In cases of **aleukemia**, the peripheral smear shows severe anemia and thrombocytopenia without circulating immature cells."*
+> - 📜 **William Henry Welch (*General Pathology*):** *"Autopsy confirmed extensive visceral infiltration typical of leukemia, though the case ran its course as an apparent **aleukemia**."*

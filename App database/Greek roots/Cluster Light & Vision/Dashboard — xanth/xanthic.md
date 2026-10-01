@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or tending toward a yellow color; or relating to xanthine or xanthic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy and floral pigmentation, designating plant taxa or flower varieties whose pigmentation falls in the yellow to orange color series (contrasted with cyanic or blue-violet series).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthic designates adjective*) pertaining to, derived from, or characteristic of yellow."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"De Candolle divided floral pigments into two great series: the cyanic, tending toward blue, and the **xanthic**, tending toward pure yellow."*
+> - 📜 **William Henry Perkin (*Journal of the Chemical Society*):** *"Upon oxidation, the colorless base yielded a bright **xanthic** dye that imparted a golden tint to treated wool fibers."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Petals of the **xanthic** group derive their brilliant coloration from plastid carotenes rather than soluble anthocyanin saps."*

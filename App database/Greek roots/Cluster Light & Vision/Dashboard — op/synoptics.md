@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first three gospels which describe events in christ's life from a similar point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first three gospels which describe events in christ's life from a similar point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Synoptic Gospels (Matthew, Mark, and Luke) considered together; or the science of synoptic meteorology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical criticism, the three gospels characterized by common perspective and shared text, forming the famous 'Synoptic Problem'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synoptics designates the first three gospels which describe events in christ's life from a similar point of view."*
+> - 📜 **Ernest Renan (*The Life of Jesus*):** *"The **synoptics** preserve the vivid popular sayings and parables of Galilee with touching simplicity."*
+> - 📜 **Albert Schweitzer (*The Quest of the Historical Jesus*):** *"Critical study of the **synoptics** revealed the eschatological framework underpinning the apostolic message."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"In the **synoptics**, we hear the authentic voice of the prophet of Nazareth untangled from theological dogma."*

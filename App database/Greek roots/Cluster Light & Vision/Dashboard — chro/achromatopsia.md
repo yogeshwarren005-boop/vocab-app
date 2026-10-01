@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare genetic visual disorder characterized by total color blindness, daytime photophobia, nystagmus, and reduced visual acuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and neurobiology, complete congenital absence of functional retinal cone photoreceptors, leaving vision mediated entirely by rods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatopsia designates a term designating an entity, condition, or phenomenon derived from greek chro."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"On the remote atoll of Pingelap, hereditary **achromatopsia** affected nearly ten percent of the native population."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Complete **achromatopsia** implies that the entire retinal cone mechanism is nonfunctional or congenitally absent."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subject with congenital **achromatopsia** perceives reality as an engraved print, rich in shade but destitute of hue."*

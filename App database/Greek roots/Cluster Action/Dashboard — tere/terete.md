@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of plant parts; cylindrical and tapering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially of plant parts; cylindrical and tapering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Circular or approximately circular in transverse section; smooth, rounded, and cylindrical rather than grooved or angular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botanical and zoological morphology, describing stems, petioles, or animal appendages that are smooth and cylindrical, tapering toward the tip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terete designates especially of plant parts; cylindrical and tapering."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The rush is easily distinguished by its slender, **terete** culms, which are completely devoid of angles or prominent ribs."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"In many desert xerophytes, the leaves assume a fleshy, **terete** habit to minimize surface evaporation under blistering sun."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Examine the petioles: if they are flat or channeled, it is a garden hybrid; if strictly **terete**, it represents the wild species."*

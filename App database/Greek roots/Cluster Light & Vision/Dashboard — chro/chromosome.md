@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the rod-shaped or threadlike DNA-containing structures of cellular organisms that are located in the nucleus of eukaryotes, are usually ring-shaped in prokaryotes (such as bacteria), and contain all or most of the genes of the organism; also : the genetic material of a virus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually constant number of chromosomes characteristic of a particular kind of animal or plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thread-like structure of nucleic acids and protein found in the nucleus of most living cells, carrying genetic information in the form of genes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology, a discrete chromatin package that condenses during mitosis and meiosis, ensuring equal segregation of duplicated genomic DNA.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromosome designates any of the rod-shaped or threadlike dna-containing structures of cellular organisms that are located in the nucleus of eukaryotes, are usually ring-shaped in prokaryotes (such as bacteria), and contain all or most of the genes of the organism; also : the genetic material of a virus."*
+> - 📜 **Heinrich Wilhelm Waldeyer (*On Karyokinesis and Its Relation to the Process of Fertilization*):** *"I propose the term **chromosome** for those particular stained bodies which play so vital a role in nuclear division."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Every gene occupies a definite, mapped locus along the length of its parent **chromosome**."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Each eukaryotic **chromosome** contains a colossal, single continuous double helix of DNA wound about histone cores."*

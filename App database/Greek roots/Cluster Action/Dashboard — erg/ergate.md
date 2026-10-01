@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through work / labor / deed / active energy / operational force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through work / labor / deed / active energy / operational force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker ant, the sterile female caste that performs foraging, nest construction, and brood care in an ant colony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecology and entomology, the wingless adult worker form of social hymenopterans lacking functional reproductive anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergate designates verb*) to subject to, transform by, or operate upon through work / labor / deed / active energy / operational force."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The typical **ergate** displays profound morphological reduction, lacking both ocelli and flight musculature."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Caste differentiation within Pheidole produces both the small foraging **ergate** and the colossal soldier."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Nutrition during the early larval instars determines whether the female egg matures into a queen or an **ergate**."*

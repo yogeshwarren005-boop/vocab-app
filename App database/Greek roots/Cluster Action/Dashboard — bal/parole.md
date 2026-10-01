@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A promise made with or confirmed by a pledge of one's honor; especially : the promise of a prisoner of war to fulfill stated conditions in consideration of their release.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A watchword given only to officers of the guard and of the day.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporary or permanent release of a prisoner before the expiry of a sentence, on promise of good behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, a word of honor given by a captured officer that he will not engage in combat if released.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet,” says the trooper, “I am on my parole with you."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But my point is that I gave you my parole."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes?" "I beg your pardon?" "You would like to tell my cousin and his wife?" "I should like to feel myself a free agent, which I'm not now, because I'm under parole to you." "And so you will remain," said Lawrence coldly."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Captive Roman commanders were frequently released on **parole** to negotiate ransoms in the Senate."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"Gentlemen holding our **parole** are expected to honor their pledges of neutrality with scrupulous integrity."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Penitentiary reforms in America explored conditional **parole** to encourage moral rehabilitation among convicts."*

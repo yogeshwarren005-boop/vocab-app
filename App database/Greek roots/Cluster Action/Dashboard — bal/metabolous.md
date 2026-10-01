@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergoing metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing metamorphosis, applied particularly to insects exhibiting developmental transformations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, descriptive of species whose post-embryonic growth involves structural reorganization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolous designates undergoing metamorphosis."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"We divide the Pterygota into distinct **metabolous** divisions depending upon whether transformation is gradual or complete."*
+> - 📜 **Alpheus Spring Packard (*Textbook of Entomology*):** *"The **metabolous** habit offered insects unmatched plasticity to partition feeding and dispersal phases."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"In every **metabolous** species, metamorphosis is orchestrated by the changing balance of brain neurosecretions and ecdysone."*

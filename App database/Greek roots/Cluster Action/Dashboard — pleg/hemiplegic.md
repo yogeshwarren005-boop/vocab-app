@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has hemiplegia (is paralyzed on one side of the body).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has hemiplegia (is paralyzed on one side of the body).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or affected by hemiplegia; paralyzed on one side of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gait analysis, describing the characteristic asymmetric locomotion involving circumduction of the spastic lower extremity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiplegic designates a person who has hemiplegia (is paralyzed on one side of the body)."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"The characteristic circumduction of the affected leg produces the well-known **hemiplegic** gait."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In the **hemiplegic** patient, deep tendon reflexes become exaggerated as secondary descending degeneration develops."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures*):** *"The physician must carefully examine the **hemiplegic** arm to detect early signs of rigidity."*

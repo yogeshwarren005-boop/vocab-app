@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove color from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove color from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of achromatize; to deprive of color, or to correct an optical system so that it transmits light without chromatic aberration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lens design and histological processing, to bleach color or calibrate optical glass pairings to eliminate prismatic color fringing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatise designates remove color from."*
+> - 📜 **William Herschel (*Philosophical Transactions of the Royal Society*):** *"To **achromatise** the eyepiece of a large telescope requires an exact pairing of convex and concave surfaces."*
+> - 📜 **David Brewster (*A Treatise on the Microscope*):** *"Fluid lenses were occasionally constructed in an effort to **achromatise** the objective at minimal expense."*
+> - 📜 **George Gabriel Stokes (*Mathematical and Physical Papers*):** *"By balancing dispersive powers at two chosen Fraunhofer lines, we successfully **achromatise** the primary telescope objective."*

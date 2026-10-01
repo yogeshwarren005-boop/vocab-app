@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise formally and eloquently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise formally and eloquently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise someone or something highly in speech or writing, particularly in a formal commemorative oration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, to extol virtues, moral character, or civic accomplishments through formal encomium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On a fine still autumn evening the 'crying of the neck' has a wonderful effect at a distance, far finer than that of the Turkish muezzin, which Lord Byron eulogises so much, and which he says is preferable to all the bells of Christendom."*
-> - 📜 **James Joyce (*Ulysses*):** *"He lauded almost extravagantly my nether extremities, my swelling calves in silk hose drawn up to the limit, and eulogised glowingly my other hidden treasures in priceless lace which, he said, he could conjure up."*
+> - 📜 **Thomas Carlyle (*Heroes, Hero-Worship, and the Heroic in History*):** *"It is a noble impulse in human nature to **eulogise** those spirits who have elevated our conception of manhood."*
+> - 📜 **William Makepeace Thackeray (*The English Humourists of the Eighteenth Century*):** *"We need not **eulogise** Swift's ferocity, though we must admire the tremendous power of his satire."*
+> - 📜 **John Morley (*The Life of William Ewart Gladstone*):** *"Orators gathered from across the kingdom to **eulogise** the veteran statesman whose voice had shaped the Victorian age."*

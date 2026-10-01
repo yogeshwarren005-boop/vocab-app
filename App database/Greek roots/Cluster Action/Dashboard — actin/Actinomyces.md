@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soil-inhabiting saprophytes and disease-producing plant and animal parasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soil-inhabiting saprophytes and disease-producing plant and animal parasites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Gram-positive, rod-shaped, facultatively anaerobic bacteria that form branching filamentous colonies resembling fungal mycelia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, opportunistic pathogens inhabiting mucosal membranes that can trigger chronic suppurative and granulomatous actinomycosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Actinomyces designates soil-inhabiting saprophytes and disease-producing plant and animal parasites."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Microscopic sections from the cattle lesions revealed characteristic branching rosettes of **Actinomyces**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sulfur granules discharged from cervicofacial sinuses confirm the presence of pathogenic **Actinomyces**."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Penicillin proved remarkably potent against deep-seated infections caused by **Actinomyces**."*

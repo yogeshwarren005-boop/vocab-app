@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the southern hemisphere near sagittarius and capricornus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near sagittarius and capricornus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, faint constellation in the southern celestial hemisphere, introduced in the 18th century by Nicolas-Louis de Lacaille.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and history of science, a southern constellation named in honor of the compound microscope, located between Capricornus and Grus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microscopium designates a faint constellation in the southern hemisphere near sagittarius and capricornus."*
+> - 📜 **Nicolas-Louis de Lacaille (*Coelum Australe Stelliferum*):** *"To commemorate the instrument of Leeuwenhoek and Hooke, I gave the name **Microscopium** to these southern stars."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The faint stars of **Microscopium** occupy an inconspicuous quadrant of the southern sky, south of Capricorn."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Lacaille populated the southern celestial sphere with monuments of modern science, dedicating **Microscopium** to the explorers of the infinitely small."*

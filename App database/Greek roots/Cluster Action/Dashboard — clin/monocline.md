@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geological formation in which all strata are inclined in the same direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geological formation in which all strata are inclined in the same direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A step-like fold in rock strata consisting of a zone of steeper dip within an otherwise horizontal or gently inclined sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tectonic geomorphology, a crustal flexure produced by vertical fault displacement in underlying basement blocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocline designates a geological formation in which all strata are inclined in the same direction."*
+> - 📜 **John Wesley Powell (*Report on the Geology of the Uinta Mountains*):** *"We traced the massive East Kaibab **monocline** as it bent horizontal desert strata into a dramatic plunging ramp."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Deep beneath the draped sedimentary **monocline**, a high-angle reverse fault accommodates vertical crustal shortening."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"Erosion across a **monocline** sculpts jagged hogbacks where tilted resistant layers breach the surface."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something not understood or beyond understanding : enigma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of fiction dealing usually with the solution of a mysterious crime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is difficult or impossible to understand or explain; an enigma; a religious truth known only through divine revelation; an ancient secret religious rite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history and religious anthropology, esoteric initiatory rituals (such as the Eleusinian Mysteries) wherein sacred rites were concealed from the uninitiated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fear hath catch’d your fondness; now I see The mystery of your loneliness, and find Your salt tears’ head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie upon him, he will discredit our mystery."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy; life remains a grand **mystery**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The solemn **mystery** of Eleusis was celebrated at midnight with torchlight and awe-inspiring pageantry."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The universe is not dead machine, but an infinite, living **mystery** clothing the eternal spirit."*

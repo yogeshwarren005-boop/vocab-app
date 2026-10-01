@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic and historical variant spelling of leukemia, a malignant neoplasm of the blood-forming tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century medical history, the term coined by Rudolf Virchow (Weisses Blut / Leukaemie) to describe white blood laden with colorless cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucaemia designates malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"I proposed the name **leucaemia** for that disease wherein the blood becomes pale and choked with colorless corpuscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under the designation of **leucaemia**, nineteenth-century clinicians grouped both spleno-medullary and lymphatic forms of the malady."*
+> - 📜 **Thomas Henry Huxley (*Elementary Physiology*):** *"In advanced **leucaemia**, the white corpuscles may equal or outnumber the red in the patient's veins."*

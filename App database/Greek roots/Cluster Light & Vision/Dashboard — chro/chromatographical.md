@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to chromatography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to chromatography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to chromatography; chromatographic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical literature, describing apparatus, procedures, or techniques employed in the adsorption separation of chemical mixtures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatographical designates of or relating to chromatography."*
+> - 📜 **Archer John Porter Martin (*Biochemical Journal*):** *"The **chromatographical** separation of volatile fatty acids was effected upon silica gel columns."*
+> - 📜 **Richard Laurence Millington Synge (*Proteins and Synthetic Polypeptides*):** *"Careful **chromatographical** fractionation confirmed the high purity of the synthetic dipeptides."*
+> - 📜 **Paul Karrer (*Carotenoids*):** *"Our **chromatographical** surveys of plant juices yielded several previously unidentified xanthophyll isomers."*

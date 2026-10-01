@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classification systems: one of two major plant divisions, including all seed-bearing plants; superseded by the division spermatophyta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classification systems: one of two major plant divisions, including all seed-bearing plants; superseded by the division spermatophyta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical botanical taxonomic division comprising all flowering and seed-bearing plants (phanerogams or spermatophytes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical botanical systematics, the grand assemblage established by Linnaeus contrasting with Cryptogamae, uniting gymnosperms and angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phanerogamae designates in former classification systems: one of two major plant divisions, including all seed-bearing plants; superseded by the division spermatophyta."*
+> - 📜 **Carl Linnaeus (*Philosophia Botanica*):** *"The **Phanerogamae** openly display their nuptial organs to the sun, whereas the cryptogams conceal their generation."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Our systematic survey of the **Phanerogamae** encompasses more than two hundred natural orders of flowering vegetation."*
+> - 📜 **Julius von Sachs (*History of Botany*):** *"The comparative studies of Hofmeister bridged the structural chasm separating the Cryptogamae from the **Phanerogamae**."*

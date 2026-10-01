@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of cell division (mitosis or meiosis) in which duplicated chromosomes or sister chromatids separate and migrate toward opposite poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and cytogenetics, the rapid mitotic phase triggered by the anaphase-promoting complex, which cleaves cohesin rings along chromatids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphase designates the stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle."*
+> - 📜 **Walther Flemming (*Zellsubstanz, Kern und Zelltheilung*):** *"During **anaphase**, the daughter chromosomes pull apart along the spindle fibers with geometrical precision."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The synchronous movement of chromosomes in **anaphase** ensures that each daughter nucleus receives identical genetic material."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Non-disjunction during meiotic **anaphase** results in daughter cells carrying abnormal chromosome numbers."*

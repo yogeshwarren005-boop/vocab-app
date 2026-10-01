@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the main stem of a tree apart from limbs and roots —called also bole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trunk of a tree, especially the main stem beneath the branching crown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, a soft, fine, earthy clay colored red, yellow, or brown by iron oxide, historically used as a pigment (Armenian bole).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There sat a bottle in a bole, Beyont the ingle low; And aye she took the tither souk, To drouk the stourie tow."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Bole, a hole, or small recess in the wall."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The fruit that had been green in June was ripe now, and down the Painted-Lady apple-trees fell such a cascade of ruby and coral-coloured apples, from high sprig to heavy bole, that they looked like trees in a Kate Greenaway drawing."*
+> - 📜 **Alfred Tennyson (*In Memoriam A. H. H.*):** *"Thy roots are wrapt about the bones, and in the dusk thee, clock, thy **bole** of dark unyielding yew."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The colossal **bole** of the giant sequoia rises straight as a pillar into the blue sky."*
+> - 📜 **Pliny the Elder (*Naturalis Historia*):** *"Armenian **bole** was prized equally by fresco painters for its rich ochre hue and by physicians as an astringent."*

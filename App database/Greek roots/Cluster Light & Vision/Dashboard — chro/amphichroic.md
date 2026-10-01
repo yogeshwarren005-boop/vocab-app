@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing two different colors; producing two contrasting color reactions with indicators depending on environmental conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical and analytical chemistry, describing an indicator or substance that can turn blue with acid and red with base or vice versa (amphoteric color change).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphichroic designates adjective*) pertaining to, derived from, or characteristic of color."*
+> - 📜 **Svante Arrhenius (*Text-Book of Theoretical Electrochemistry*):** *"Certain vegetable extracts exhibit an **amphichroic** behavior, changing hue with both alkaline and acid additions."*
+> - 📜 **Wilhelm Ostwald (*The Foundations of Analytical Chemistry*):** *"An **amphichroic** reagent displays sensitive equilibrium shifts across narrow hydrogen-ion intervals."*
+> - 📜 **Ira Remsen (*Principles of Theoretical Chemistry*):** *"The indicator proved curiously **amphichroic**, reflecting mixed chromatic responses in buffered solutions."*

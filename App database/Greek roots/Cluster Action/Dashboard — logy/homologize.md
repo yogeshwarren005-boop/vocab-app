@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be homologous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make homologous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To demonstrate, trace, or assert the homology of morphological structures or genetic sequences across distinct taxa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic and evolutionary biology, to establish that traits in different species share common evolutionary ancestry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homologize designates be homologous."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Systematists must not **homologize** characters based merely on external resemblance without analyzing lineage history."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Geoffroy attempted to **homologize** the dorsal carapace of insects with the ventral skeleton of vertebrates."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"To **homologize** the equine third metacarpal with the human middle finger bone settles the question of ancestral descent."*

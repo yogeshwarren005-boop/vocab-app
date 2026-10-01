@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of three colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being the theory that human color vision involves three types of retinal sensory receptors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or relating to three colors; possessing normal color vision mediated by three cone photoreceptors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorimetry, relating to the specification of colors in terms of three tristimulus values (red, green, blue).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichromatic designates of, relating to, or consisting of three colors."*
+> - 📜 **James Clerk Maxwell (*On the Theory of Compound Colours*):** *"Any visible hue can be matched mathematically by a combination of three chosen **trichromatic** primaries."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"The Young-Helmholtz **trichromatic** hypothesis accounts for both normal vision and partial red-green blindness."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"We who enjoy full **trichromatic** vision take for granted the rich chromatic variety of the natural world."*

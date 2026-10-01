@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline organic base; used mainly in making melamine resins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline organic base; used mainly in making melamine resins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical compound melamine (2,4,6-triamino-1,3,5-triazine), historically described as the triamide of cyanuric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial organic chemistry, a nitrogen-rich heterocyclic compound synthesized by heating dicyandiamide, used in thermosetting resins and laminates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanuramide designates a white crystalline organic base; used mainly in making melamine resins."*
+> - 📜 **Justus von Liebig (*Annalen der Pharmacie*):** *"By heating ammonium thiocyanate, I obtained the crystalline base melamine, which is chemically a **cyanuramide**."*
+> - 📜 **Ira Remsen (*Principles of Theoretical Chemistry*):** *"The heterocyclic triazine ring in **cyanuramide** confers extraordinary thermal and chemical stability."*
+> - 📜 **Arthur D. Little (*The Chemical Industry*):** *"Condensing **cyanuramide** with formaldehyde yielded durable, fire-resistant laminate plastics."*

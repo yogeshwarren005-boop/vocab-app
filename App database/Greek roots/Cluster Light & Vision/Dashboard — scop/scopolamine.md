@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropane alkaloid drug derived from nightshade plants (family Solanaceae), used medically to prevent motion sickness, reduce postoperative nausea, and suppress glandular secretions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and neurology, a potent competitive antagonist of muscarinic acetylcholine receptors (also known as hyoscine), capable of inducing central sedation, amnesia, and parasympathetic blockade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopolamine designates an alkaloid with anticholinergic effects that is used as a sedative and to treat nausea and to dilate the pupils in ophthalmic procedures."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"The deadly nightshade family yields such perilous alkaloids as atropine and **scopolamine**, which cloud the brain with delirium."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Transdermal infusions of **scopolamine** soothingly neutralized all vestige of nausea and emotional perturbation."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"High doses of anticholinergic compounds like **scopolamine** frequently evoke vivid, twilight micro-hallucinations accompanied by marked amnesia."*

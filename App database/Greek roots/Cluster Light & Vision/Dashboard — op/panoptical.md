@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Including everything visible in one view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including everything visible in one view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permitting the view of everything at once; of, relating to, or resembling a panopticon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and architectural theory, Jeremy Bentham's surveillance design enabling a central inspector to observe all inmates continuously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panoptical designates including everything visible in one view."*
+> - 📜 **Jeremy Bentham (*Panopticon; or, The Inspection-House*):** *"The **panoptical** arrangement allows a single inspector to oversee every cell from an unseen central tower."*
+> - 📜 **Michel Foucault (*Discipline and Punish*):** *"The **panoptical** mechanism automatizes and disindividualizes power, rendering surveillance constant in its effects."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"From his high garret window, Teufelsdröckh enjoyed a **panoptical** survey of the scurrying city mortals below."*

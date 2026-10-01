@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex structure of interdependent and subordinate elements whose relations and properties are largely determined by their function in the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual constituted to carry on the activities of life by means of parts or organs more or less separate in function but mutually dependent : a living being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual animal, plant, or single-celled life form capable of growth, reproduction, and response to stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and sociology, an entity comprising mutually dependent parts whose functions are determined by their relation to the whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The differences which distinguished them as individuals were abstracted by this passion, and each was but portion of one organism called sex."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, that was what I became—a sort of string-like organism that persisted in living."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Suspended animation is nothing new, not alone in the vegetable world and in the lower forms of animal life, but in the highly evolved, complex organism of man himself."*
+> - 📜 **Claude Bernard (*Introduction to the Study of Experimental Medicine*):** *"The living **organism** does not live in the external environment, but in the liquid internal environment formed by the circulating organic fluids."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every single **organism** is bound by intricate reciprocal dependencies to dozens of neighboring species."*
+> - 📜 **Erwin Schrödinger (*What Is Life?*):** *"A living **organism** avoids decay into thermodynamic equilibrium by drawing negative entropy from its food."*

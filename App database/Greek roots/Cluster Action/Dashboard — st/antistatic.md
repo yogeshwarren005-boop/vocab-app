@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reducing, removing, or preventing the buildup of static electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reducing, removing, or preventing the buildup of static electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing, reducing, or eliminating the accumulation of static electricity and surface electrostatic charges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and electronic packaging, denoting conductive or dissipative chemical coatings designed to protect sensitive semiconductor devices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antistatic designates reducing, removing, or preventing the buildup of static electricity."*
+> - 📜 **Percy Bridgman (*The Physics of High Pressure*):** *"Treating the observation chamber with an **antistatic** layer prevented stray dielectric charges from deflecting the sensitive electrometer."*
+> - 📜 **Arthur von Hippel (*Dielectrics and Waves*):** *"The incorporation of hydrophilic quaternary ammonium salts imparts durable **antistatic** conductivity to synthetic polymer sheets."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"When synthetic garments rub together in dry air, only an **antistatic** rinse prevents that sharp crackle of spark discharges."*

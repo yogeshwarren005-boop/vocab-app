@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally dark skin caused by increased deposits of melatonin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally dark skin caused by increased deposits of melatonin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal darkening or hyperpigmentation of the skin caused by excessive deposition of melanin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, generalized or patchy cutaneous hypermelanosis resulting from Addison's disease, chronic arsenic poisoning, or sun damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanoderma designates abnormally dark skin caused by increased deposits of melatonin."*
+> - 📜 **Thomas Addison (*On the Constitutional and Local Effects of Disease of the Supra-Renal Capsules*):** *"A pervasive **melanoderma**, giving the skin a peculiar bronze tint, heralds the destruction of the adrenal glands."*
+> - 📜 **Erasmus Wilson (*Diseases of the Skin*):** *"Severe friction combined with heat induced a localized **melanoderma** across the laborer's neck."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic intake of medicinal arsenic occasionally provokes a diffuse, rain-drop **melanoderma** over the trunk."*

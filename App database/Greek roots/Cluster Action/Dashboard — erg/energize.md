@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be alert and energetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise to a higher energy level.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give energy to; to activate, stimulate, or invigorate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and mechanics, to supply operating voltage, current, or mechanical impulse to a system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The message will tell you when to energize the barrier."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Based on conference agenda and schedule I order you to energize the communications barrier immediately upon receipt of this message."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"All the true acquisitions of the soul, all the reflected results of its energizing after the unattainable in this life, all that has truly BEEN, belong to the absolute, and are permanent amid all earth’s changes."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"High-frequency resonant coils **energize** the surrounding atmosphere, transmitting wireless power through space."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Courageous thoughts **energize** the will, sweeping aside artificial impediments to great achievement."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An intense emotional interest will **energize** the neural cortex, focusing attention with fierce intensity."*

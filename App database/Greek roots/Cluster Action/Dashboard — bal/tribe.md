@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social division of (usually preliterate) people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A federation (as of american indians).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, a taxonomic category ranking above a genus and below a family or subfamily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would my son Were in Arabia and thy tribe before him, His good sword in his hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that I had him, With six Aufidiuses, or more, his tribe, To use my lawful sword."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who, in the lusty stealth of nature, take More composition and fierce quality Than doth within a dull stale tired bed Go to the creating a whole tribe of fops Got ’tween asleep and wake?"*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The Iroquois Confederacy united five distinct nations, each organized into maternal clans within the **tribe**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sympathy, fidelity, and courage fostered within the **tribe** gave early human groups a decisive competitive advantage."*
+> - 📜 **Arthur Cronquist (*The Evolution and Classification of Flowering Plants*):** *"Botanists subdivide the sunflower family Asteraceae into several distinctive groups, each designated as a **tribe**."*

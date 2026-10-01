@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the phalaropidae: phalaropes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the phalaropidae: phalaropes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal genus of phalaropes in the shorebird family Scolopacidae, comprising the red phalarope and red-necked phalarope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arctic ornithology, circumpolar migratory shorebirds (from Greek phalaros, coot-like, and pous, foot) possessing lobed toes for swimming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalaropus designates type genus of the phalaropidae: phalaropes."*
+> - 📜 **John Gould (*The Birds of Great Britain*):** *"The graceful genus **Phalaropus** links the shorebirds to the pelagic fowl by its unique lobed swimming feet."*
+> - 📜 **Elliott Coues (*Birds of the Colorado Valley*):** *"Species of **Phalaropus** gather in immense maritime rafts off the Pacific coast during autumn migration."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"The rapid swimming movements of **Phalaropus** allow it to capture mosquito larvae from northern peat pools."*

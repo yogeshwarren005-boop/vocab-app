@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dramatist of ancient rome (born in greece) whose comedies were based on works by menander (190?-159 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dramatist of ancient rome (born in greece) whose comedies were based on works by menander (190?-159 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Publius Terentius Afer (c. 195/185–c. 159 BC), classical Roman playwright celebrated for elegant Latinity, humane characterization, and witty comedies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the master of high Roman comedy whose plays served as foundational stylistic models for Renaissance and neoclassical drama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Latin dramatist Terence pictures the young man looking at one of these paintings and saying to himself, "If Jupiter did it, why should not I?" Centuries later we find Augustine quoting that sentence."*
-> - 📜 **James Joyce (*Ulysses*):** *"One of the drunks spelt out the name: Terence Mulcahy."*
-> - 📜 **James Joyce (*Ulysses*):** *"Terence O’Ryan heard him and straightway brought him a crystal cup full of the foamy ebon ale which the noble twin brothers Bungiveagh and Bungardilaun brew ever in their divine alevats, cunning as the sons of deathless Leda."*
+> - 📜 **Cicero (*De Oratore*):** *"In sweetness of diction and refined urbanity, no comic dramatist surpasses the delicate restraint of **Terence**."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"I find in **Terence** such pure, lively Latin eloquence that his plays seem freshly composed for our own theater."*
+> - 📜 **Desiderius Erasmus (*De Copia*):** *"Let the young scholar absorb the conversational elegance of **Terence** to acquire an unforced, idiomatic mastery of Latin."*

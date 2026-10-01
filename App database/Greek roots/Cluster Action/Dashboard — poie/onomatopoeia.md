@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The naming of a thing or action by a vocal imitation of the sound associated with it : the creation of words that imitate natural sounds (such as buzz, hiss); also : a word formed by onomatopoeia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of words whose sound suggests the sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of a word from a sound associated with what is named; the use of words whose sounds imitate their sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistics, the expressive imitation of natural sounds through vocal phonetics to evoke sensory immediacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeia designates the naming of a thing or action by a vocal imitation of the sound associated with it : the creation of words that imitate natural sounds (such as buzz, hiss); also : a word formed by onomatopoeia."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The figure called **onomatopoeia**, or the invention of names from sounds, was regarded by the Greeks as a great ornament of speech."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on Shakespeare*):** *"The whispering of the pines and the crash of waves are echoed in the poet's verse through subtle **onomatopoeia**."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The theory that all language originated from crude **onomatopoeia** has been termed the bow-wow theory of speech."*

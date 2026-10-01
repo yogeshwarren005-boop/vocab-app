@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete or gradual metamorphosis in insects, passing through egg, nymph, and adult stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect developmental physiology, the developmental mode where aquatic or terrestrial nymphs resemble miniature wingless adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetabolism designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **Arthur D. Imms (*Recent Advances in Entomology*):** *"Through **hemimetabolism**, young insects inhabit ecological niches often very similar to those of their parents."*
+> - 📜 **Alpheus Spring Packard (*Textbook of Entomology*):** *"The evolution of **hemimetabolism** bridged the gap between primitive ametabolous apterygotes and holometabolous endopterygotes."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Cockroaches and true bugs illustrate classic **hemimetabolism**, molting steadily toward reproductive maturity without pupation."*

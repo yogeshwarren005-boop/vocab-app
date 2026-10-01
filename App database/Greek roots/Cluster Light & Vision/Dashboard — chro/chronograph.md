@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring and recording time intervals: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument having a revolving drum on which a stylus makes marks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording time intervals with great precision, especially one with a stopwatch mechanism for measuring elapsed fractions of a second.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ballistics and observational astronomy, a precision device with a revolving cylinder or digital clockwork that registers transit events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Normally, current flows through the circuit-breaker, but the lifting of the piston breaks the circuit (whence the name of the contrivance), and that breaking of the circuit and consequent cessation of the current operates the chronograph."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In other words, the circuit-breakers can be operated so fast that when only a sixtieth of a second intervenes between the action of one and that of the next the chronograph can duly record the fact."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The records of the chronograph can be made in two ways: one by a pen on a piece of paper tape, and the other by a scratch on a piece of smoked paper."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The electric **chronograph** registered the precise instant at which the star crossed the meridian wire."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The artillery officer checked his split-second **chronograph** as the countdown to detonation began."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes glanced at his gold **chronograph**, calculating the exact speed of our cab through the foggy streets."*

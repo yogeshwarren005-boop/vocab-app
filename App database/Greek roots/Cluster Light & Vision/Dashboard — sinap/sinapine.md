@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mustard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mustard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid and choline ester of sinapic acid found in mustard seeds and other cruciferous plants, responsible for a bitter taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytochemistry and agricultural biochemistry, a phenolic choline conjugate occurring predominantly in seeds of the family Brassicaceae (such as rapeseed and black mustard), acting as an antinutritional factor in animal feeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinapine designates adjective*) pertaining to, derived from, or characteristic of mustard."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The seeds of the black and white mustard owe their pungent properties and crystalline **sinapine** to organic sulfur and choline compounds."*
+> - 📜 **Thomas Anderson (*Elements of Agricultural Chemistry*):** *"The bitter taste of unextracted rapeseed cake is largely due to the presence of **sinapine**, which limits its value as livestock fodder."*
+> - 📜 **Ernst Schulze (*Journal of Physiological Chemistry*):** *"Upon alkaline hydrolysis, the crystalline salt **sinapine** splits quantitatively into sinapic acid and choline."*

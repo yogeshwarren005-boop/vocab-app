@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, relating to, or utilizing any of various electrical effects due to the interaction of radiation (such as light) with matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic device whose electrical properties are modified by the action of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to electrical effects produced by light; especially the emission of electrons from a material when illuminated by electromagnetic radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern physics, the quantum phenomenon whose theoretical explanation by Albert Einstein in 1905 established the photon particle nature of light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoelectric designates involving, relating to, or utilizing any of various electrical effects due to the interaction of radiation (such as light) with matter."*
+> - 📜 **Albert Einstein (*Concerning an Heuristic Point of View Toward the Emission and Transformation of Light*):** *"The **photoelectric** effect can be understood only if we assume that light energy is distributed discontinuously in discrete quanta."*
+> - 📜 **Heinrich Hertz (*Electric Waves*):** *"Illuminating the spark gap with ultraviolet light produced an unexpected **photoelectric** discharge across the terminals."*
+> - 📜 **Robert A. Millikan (*A Direct Photoelectric Determination of Planck's 'h'*):** *"Precise **photoelectric** measurements across clean sodium surfaces verified Einstein's linear energy equation with absolute fidelity."*

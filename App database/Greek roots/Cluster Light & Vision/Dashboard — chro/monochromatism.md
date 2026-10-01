@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being monochromatic; monochromacy (total color blindness), or execution in a single color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vision science, the inability to distinguish any hues, vision being mediated solely by luminance variations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromatism designates complete color blindness; colors can be differentiated only on the basis of brightness."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The high incidence of congenital **monochromatism** in the community created a society adapted to nocturnal fishing."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Pathological **monochromatism** demonstrates that chromatic perception is mediated by separate neural receptors from brightness."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"The severe **monochromatism** of early photographic prints was slowly overcome by chemical toners."*

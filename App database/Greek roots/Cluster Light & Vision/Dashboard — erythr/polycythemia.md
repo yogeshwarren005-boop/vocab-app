@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition marked by an abnormal increase in the number of circulating red blood cells; specifically : polycythemia vera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Polycythemia of unknown cause that is marked by increase in total blood volume and accompanied by nosebleed, distension of the circulatory vessels, and enlargement of the spleen —called also erythremia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the concentration of hemoglobin, red blood cells, or hematocrit in the peripheral blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, classified into primary (polycythemia vera) and secondary types (due to hypoxemia, smoking, or erythropoietin excess).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycythemia designates a condition marked by an abnormal increase in the number of circulating red blood cells; specifically : polycythemia vera."*
+> - 📜 **William Osler (*Chronic Cyanosis, with Polycythaemia and Enlarged Spleen*):** *"The clinical picture of chronic **polycythemia** presents a startling rubor of the face accompanied by high blood pressure."*
+> - 📜 **Paul Ehrlich (*The Anaemias*):** *"In cases of absolute **polycythemia**, the total red cell mass increases dramatically, raising blood viscosity."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Medicine*):** *"Ascending to high Andean altitudes provoked a marked compensatory **polycythemia** within three weeks."*

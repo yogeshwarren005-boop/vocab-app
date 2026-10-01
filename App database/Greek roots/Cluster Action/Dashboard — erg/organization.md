@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people who work together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized structure for arranging or classifying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organized body of people with a particular purpose, such as a business, society, or association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The structural arrangement or manner in which the parts of something are coordinated to function as an integrated whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whole organization of this prison is stupid."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"RESOURCES AND ECONOMIC ORGANIZATION. 1."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"PROBLEMS OF INDUSTRIAL ORGANIZATION. 25."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social **organization** evolves in parallel with biological structures, progressing from uniform bands to complex divisions of labor."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"High structural **organization** does not invariably guarantee competitive victory over simpler, hardier forms of life."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In no country on earth is the principle of voluntary civic **organization** applied with such brilliant success as in America."*

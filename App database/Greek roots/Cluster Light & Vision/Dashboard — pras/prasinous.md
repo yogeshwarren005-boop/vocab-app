@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of leek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of leek.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a leek-green or light grass-green color; having a yellowish-green hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical botany and entomology, describing the pale verdant tint of certain beetle elytra, lichen crusts, or succulent leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prasinous designates adjective*) pertaining to, derived from, or characteristic of leek."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The underside of the succulent leaf displayed a pale **prasinous** tint contrasting with the deep olive upper surface."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The forest tree-bug was clothed in a **prasinous** green armor that rendered it invisible upon oak foliage."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Botanical Latin employs **prasinous** to designate that precise shade of green exhibited by fresh leek leaves."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large open car seating four with folding top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large open car seating four with folding top.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, four-wheeled open horse-drawn carriage; in early motoring, an open-topped touring automobile with two rows of seats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century transport history, a fast, fashionable, and somewhat hazardous sporting carriage driven by wealthy gentlemen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a waggoner As Phaeton would whip you to the west And bring in cloudy night immediately."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But his father—and his uncle—were the most profligate coachmen that ever sat upon a box.” While he said this in tones of the greatest indignation, he handed us into the little phaeton with the utmost gentleness and was all smiles and pleasure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As we sat there, silently, we saw a little pony phaeton coming towards us at a merry pace."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss de Bourgh drove past the parsonage daily in her low **phaeton** and ponies."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Joseph Sedley was proud of his dashing **phaeton**, driving it through the park to attract admiring glances."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"A light **phaeton** rattled down the turnpike road at breakneck speed, scattering geese and chickens."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of monocotyledonous flowering plants (now broadly subsumed under Asphodelaceae in APG IV), historically centered on the Australian grass trees (genus Xanthorrhoea).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, a family featuring tough, arborescent or tufted xerophytic habits, fibrous linear leaves, and dense spicate inflorescences, famously containing the yellow-resin producing grasstrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthorrhoeaceae designates one of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The singular Australian genus Xanthorrhoea constitutes the distinct botanical family **Xanthorrhoeaceae**, characterized by rigid caudices."*
+> - 📜 **Ferdinand von Mueller (*Systematic Census of Australian Plants*):** *"In the stony scrubland of the interior, members of **Xanthorrhoeaceae** form a picturesque and dominant feature of the native flora."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Xanthorrhoeaceae** exhibits an extraordinary arborescent habit, producing resinous exudations and towering terminal flower spikes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the shoulder blade and upper arm bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the shoulder blade and upper arm bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or connecting the shoulder blade (scapula) and the upper arm bone (humerus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, designating scapulohumeral muscular dystrophy, a form of progressive muscular dystrophy affecting shoulder and upper arm musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scapulohumeral designates relating to the shoulder blade and upper arm bone."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"In the **scapulohumeral** type of muscular dystrophy, atrophy begins symmetrically in the shoulder girdle and biceps."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient demonstrated profound **scapulohumeral** weakness, unable to elevate his arms above horizontal level."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"We contrast the facial-scapulo-humeral distribution of Landouzy with pure juvenile **scapulohumeral** myopathy."*

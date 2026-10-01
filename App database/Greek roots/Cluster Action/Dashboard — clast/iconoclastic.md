@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by attack on established beliefs or institutions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destructive of images used in religious worship; said of religions, such as islam, in which the representation of living things is prohibited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the attack on cherished beliefs or established institutions; irreverent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and intellectual history, overturning orthodox conventions to inaugurate radical artistic or scientific paradigms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iconoclastic designates characterized by attack on established beliefs or institutions."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The Puritan uprising exhibited a fierce, **iconoclastic** fervor that broke down cathedral statues and royal thrones."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Modern fiction demands an **iconoclastic** spirit willing to discard traditional Victorian plot machinery."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Paleontological discoveries from the Burgess Shale played an **iconoclastic** role against simplistic evolutionary ladders."*

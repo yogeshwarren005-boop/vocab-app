@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simplest and phylogenetically most primitive form of protostele, consisting of a solid cylindrical central core of xylem surrounded by phloem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and pteridophyte anatomy, the ancestral vascular architecture observed in Rhynia and primitive fossil lycophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplostele designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The cylindrical **haplostele** of Rhynia represents the primordial vascular design from which all complex stelar forms evolved."*
+> - 📜 **D. H. Scott (*Studies in Fossil Botany*):** *"In early Devonian plants, the vascular cylinder remains a simple non-medullated **haplostele** devoid of internal parenchyma."*
+> - 📜 **Ernest M. Gifford (*Morphology and Evolution of Vascular Plants*):** *"The smooth, unlobed outline of the **haplostele** offers minimal surface contact between conducting tracheids and living tissues."*

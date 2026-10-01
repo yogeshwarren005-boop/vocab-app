@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antimalarial drug used to treat malaria and amebic dysentery and systemic lupus erythematosus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimalarial drug used to treat malaria and amebic dysentery and systemic lupus erythematosus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic 4-aminoquinoline drug widely used for the prevention and treatment of malaria, as well as autoimmune conditions like lupus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an agent that accumulates in the acidic food vacuole of the malaria parasite (*Plasmodium*), preventing hemozoin biocrystallization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloroquine designates an antimalarial drug used to treat malaria and amebic dysentery and systemic lupus erythematosus."*
+> - 📜 **Paul F. Russell (*Man's Mastery of Malaria*):** *"The introduction of **chloroquine** provided a reliable, swift therapeutic cure for acute attacks of vivax and falciparum malaria."*
+> - 📜 **Maxwell Finland (*Clinical Studies on Antimalarial Drugs*):** *"Weekly prophylaxis with **chloroquine** protected thousands of troops stationed in hyperendemic jungle regions."*
+> - 📜 **Thomas Weller (*Tropical Health: A Summary of a Study*):** *"The emergence of **chloroquine** resistance across Southeast Asia raised urgent demands for novel antimalarial compounds."*

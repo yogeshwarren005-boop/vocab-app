@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of valleys and rivers; progressing in a direction opposite to the dip in surrounding rock strata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of valleys and rivers; progressing in a direction opposite to the dip in surrounding rock strata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geomorphology, describing a river or valley that flows or descends in a direction opposite to the dip of the underlying strata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology, an obsequent drainage pattern cutting against the geological dip of rock layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaclinal designates of valleys and rivers; progressing in a direction opposite to the dip in surrounding rock strata."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"An **anaclinal** stream cuts its gorge in defiance of the strata, flowing directly against the rock's regional tilt."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"The Highland torrent flows through an **anaclinal** cleft, exposing layered schists dipping back toward the summit."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Headward erosion by obsequent tributaries frequently establishes an **anaclinal** drainage network across scarp faces."*

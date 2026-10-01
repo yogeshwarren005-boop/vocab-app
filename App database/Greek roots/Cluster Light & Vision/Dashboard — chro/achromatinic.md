@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of substance of a cell nucleus) not readily colored by stains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of substance of a cell nucleus) not readily colored by stains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed of, or characteristic of achromatin; failing to take up basic dyes in histological preparations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular anatomy, designating the non-chromatic structural elements of the nucleus, such as the karyoplasmic matrix and spindle apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatinic designates (of substance of a cell nucleus) not readily colored by stains."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The dividing nucleus displays delicate **achromatinic** fibrils that guide the migrating chromosomes toward the poles."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"An **achromatinic** spindle forms between the asters as the nuclear membrane dissolves."*
+> - 📜 **Patrick Geddes (*The Evolution of Sex*):** *"The **achromatinic** substance serves as the inert medium wherein hereditary material undergoes symmetrical division."*

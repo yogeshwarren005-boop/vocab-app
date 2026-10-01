@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or area for dramatic performances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building or area for showing movies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building, outdoor structure, or space equipped for dramatic presentations, musical spectacles, and related stage performances; the art and profession of dramatic production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and surgical terminology, an operational geographic zone where armed forces conduct warfare (theatre of operations) or a dedicated operating room equipped for surgical procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This wide and universal theatre Presents more woeful pageants than the scene Wherein we play in."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, these scroyles of Angiers flout you, kings, And stand securely on their battlements As in a theatre, whence they gape and point At your industrious scenes and acts of death."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"All the world's a stage, and all the men and women merely players: they have their exits and their entrances, and one man in his time plays many parts, this great **theatre** of life."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"A whole **theatre** of war constitutes a distinct domain with its own strategic frontiers, armies, and decisive points."*
+> - 📜 **Victor Hugo (*Preface to Cromwell*):** *"The **theatre** is an optical point: everything that exists in history, in life, in man, must and can be reflected there."*

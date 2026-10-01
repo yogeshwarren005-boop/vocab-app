@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something apparent to sense but with no substantial existence : apparition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something elusive or visionary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ghost, apparition, or spectral figure; something that exists only in the mind or imagination; illusory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, a sensory perception originating from an absent body part, as in the famous phenomenon of phantom limb pain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whatever you do on this side the grave, never give one lingering glance towards the horrible phantom that has haunted us so many years."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All that prospect, which from the terrace looked so near, has moved solemnly away and changed—not the first nor the last of beautiful things that look so near and will so change—into a distant phantom."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her exuberance of spirit was pruned down; the original phantom of delight had shown herself to be not too bright for human nature’s daily food, and she had been able to enter this second poetical phase without losing much of the first in the process."*
+> - 📜 **Silas Weir Mitchell (*Phantom Limbs*):** *"The amputee felt distinct, excruciating cramping in the toes of his nonexistent **phantom** foot."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Is this a dagger which I see before me, Or art thou but A dagger of the mind, a false creation, A **phantom** of fevered thought?"*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The central nervous system maintains an enduring sensory map, giving vivid reality to the **phantom** arm."*

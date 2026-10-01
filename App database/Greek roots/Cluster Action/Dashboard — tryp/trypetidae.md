@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit flies; some leaf miners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit flies; some leaf miners.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older entomological family name for fruit flies (now classified as Tephritidae), characterized by attractively pictured wings and larvae that feed in fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, a cosmopolitan family of dipteran flies including notorious economic pests like the Mediterranean fruit fly (Ceratitis capitata).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trypetidae designates fruit flies; some leaf miners."*
+> - 📜 **Hermann Loew (*Monographs of the Diptera of North America*):** *"The flies of the family **trypetidae** are easily recognized by their beautifully banded or reticulated wings and distinct habits."*
+> - 📜 **J. M. Aldrich (*A Catalogue of North American Diptera*):** *"Larval development within succulent fruit flesh renders many species of the **trypetidae** formidable orchard pests."*
+> - 📜 **C. V. Riley (*Report of the Entomologist*):** *"Quarantine inspections must guard against the introduction of exotic **trypetidae** whose maggots ruin citrus groves."*

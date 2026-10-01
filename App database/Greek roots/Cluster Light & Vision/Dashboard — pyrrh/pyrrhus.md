@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of epirus; defeated the romans in two battles in spite of staggering losses (319-272 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of epirus; defeated the romans in two battles in spite of staggering losses (319-272 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King of Epirus (c. 319–272 BCE), renowned Hellenistic general whose costly tactical victories against the Romans gave rise to the term 'Pyrrhic victory'; also an epithet of Neoptolemus, son of Achilles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical historiography and military biography, a tactical genius and master of phalanx warfare whose campaigns in Italy and Sicily exemplified daring audacity ruined by strategic exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Roasted in wrath and fire, And thus o’ersized with coagulate gore, With eyes like carbuncles, the hellish Pyrrhus Old grandsire Priam seeks._ So, proceed you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unequal match’d, Pyrrhus at Priam drives, in rage strikes wide; But with the whiff and wind of his fell sword Th’unnerved father falls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then senseless Ilium, Seeming to feel this blow, with flaming top Stoops to his base, and with a hideous crash Takes prisoner Pyrrhus’ ear."*
+> - 📜 **Plutarch (*Parallel Lives: Life of Pyrrhus*):** *"When congratulated on his victory, **Pyrrhus** famously replied, 'If we are victorious in one more battle with the Romans, we are utterly undone.'"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The disciplined legions of Rome first learned the terrors of the Macedonian phalanx under the guidance of **Pyrrhus**."*
+> - 📜 **Niccolò Machiavelli (*The Discourses on Livy*):** *"The great talent of **Pyrrhus** lay in commanding armies in the field, yet he lacked the patience to consolidate his territorial conquests."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek clast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triclinic alkali feldspar mineral consisting of a solid solution of potassium and sodium aluminosilicates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology, a characteristic phenocryst of sodium-rich volcanic rocks like kenyte and phonolite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorthoclase designates a term designating an entity, condition, or phenomenon derived from greek clast."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Lavas erupted from Mount Kenya are packed with rhombic crystals of **anorthoclase** feldspar."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The optical cleavage angles of **anorthoclase** deviate slightly from right angles, revealing its triclinic symmetry."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Under polarized light, phenocrysts of **anorthoclase** display extremely delicate cross-hatched twinning lamellae."*

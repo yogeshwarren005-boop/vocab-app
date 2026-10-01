@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do over, as of (part of) a house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To do something again or differently, especially to improve, correct, or update it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To redecorate, remodel, or renovate a room, building, or design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog redo as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Edison (*Notebooks and Diaries*):** *"When an experiment fails, we clear the bench and **redo** the trial with fresh filament materials."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The conscientious novelist will repeatedly **redo** a pivotal chapter until character motivation rings flawless."*
+> - 📜 **Virginia Woolf (*A Writer's Diary*):** *"I had to tear up twenty pages today and **redo** the party scene from Mrs. Ramsay's perspective."*

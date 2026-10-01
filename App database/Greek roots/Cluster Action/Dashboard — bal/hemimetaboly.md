@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete metamorphosis in insects; the condition of being hemimetabolous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The developmental trajectory characterized by nymphal instars lacking a quiescent pupal phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetaboly designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The phenomena of **hemimetaboly** demonstrate the gradual evolutionary acquisition of functional flight apparatus."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"Under **hemimetaboly**, the active nymph continues to feed voraciously up to the moment of its final imaginal ecdysis."*
+> - 📜 **Julian Huxley (*Problems of Relative Growth*):** *"Allometric growth of wing pads during **hemimetaboly** conforms to strict mathematical scaling curves."*

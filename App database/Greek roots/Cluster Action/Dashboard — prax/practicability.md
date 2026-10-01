@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being usable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being usable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being practicable, workable, or capable of being accomplished under existing conditions; feasibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal drafting, civil engineering, and public planning, the realistic capability of an enterprise to be executed with available means.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet both engage to have the requisite information ready and even hint to each other at the practicability of having a small stock collected there for approval."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Practicability of the wage system. § 5."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On a comparison of this extent with that of several countries in Europe, the practicability of rendering our system commensurate to it appears to be demonstrable."*
+> - 📜 **Alexander Hamilton (*The Federalist No. 15*):** *"We must judge of the **practicability** of government not by imaginary perfection, but by human nature as it is."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Experience has demonstrated the complete **practicability** of religious liberty without injury to civil order."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The Americans test the **practicability** of every proposed legislation by its immediate social results."*

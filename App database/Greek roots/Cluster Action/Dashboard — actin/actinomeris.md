@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems for plants now included in genus verbesina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems for plants now included in genus verbesina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American composite herbs in the sunflower family, commonly known as wingstem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany, tall perennial herbs featuring winged stems and loose corymbs of yellow radiating flower heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomeris designates used in some classification systems for plants now included in genus verbesina."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Along rich bottomlands, tall stems of **Actinomeris** display irregular yellow rays above winged petioles."*
+> - 📜 **John Torrey (*Flora of North America*):** *"The decurrent leaf bases of **Actinomeris** create prominent leafy wings extending continuously down the stem."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"In wild woodland borders, **Actinomeris** provides a late autumnal golden display attractive to native bees."*

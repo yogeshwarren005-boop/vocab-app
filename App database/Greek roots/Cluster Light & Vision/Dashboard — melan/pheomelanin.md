@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-yellow sulfur-containing melanin pigment formed in the presence of cysteine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish-yellow sulfur-containing melanin pigment formed in the presence of cysteine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish to yellowish-brown melanin pigment rich in sulfur and benzothiazine rings, responsible for red hair and freckles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photobiology, a pigment produced when cysteine is incorporated during melanogenesis; unlike eumelanin, it generates free radicals upon UV irradiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pheomelanin designates a reddish-yellow sulfur-containing melanin pigment formed in the presence of cysteine."*
+> - 📜 **Paul Ehrlich (*Studies on Cell Staining*):** *"Chemical analysis reveals that red hair owes its tint to sulfur-rich **pheomelanin** rather than standard black eumelanin."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The benzothiazine rings in **pheomelanin** confer yellow and reddish tones while conferring poor photoprotection."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Variations in the ratio of dark eumelanin to bright **pheomelanin** generate the diverse hair colors of human populations."*

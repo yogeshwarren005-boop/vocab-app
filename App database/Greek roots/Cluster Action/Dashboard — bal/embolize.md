@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through throw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through throw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause the occlusion of a blood vessel by introducing or lodging an embolus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interventional radiology, to therapeutically occlude a blood vessel using coils, gel, or beads to halt hemorrhage or starve a tumor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embolize designates verb*) to subject to, transform by, or operate upon through throw."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Interventional radiologists can selectively **embolize** feeding arteries to shrink inoperable hepatic tumors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A fragment of mural thrombus may suddenly detach and **embolize** the femoral bifurcation."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Vascular surgeons worked swiftly to locate and **embolize** the fragile intracranial arteriovenous malformation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharply demarcated, yellowish deposit of cholesterol and lipid-laden histiocytes occurring subcutaneously on or around the eyelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and internal medicine, the most frequent clinical form of xanthoma (xanthelasma palpebrarum), frequently associated with hypercholesterolemia, familial dyslipidemia, and increased risk of cardiovascular disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthelasma designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The symmetrical yellow patches of **xanthelasma** on the inner canthi of the eyelids consist of lipid-infiltrated cutaneous tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients presenting with extensive **xanthelasma** should invariably undergo serum lipid profiling to detect occult atherogenic tendencies."*
+> - 📜 **Thomas Addison (*On a Certain Affection of the Skin: Vitiligoidea*):** *"In several cases of chronic hepatic jaundice, yellow plaques of **xanthelasma** appeared around the eyes and along the palms."*

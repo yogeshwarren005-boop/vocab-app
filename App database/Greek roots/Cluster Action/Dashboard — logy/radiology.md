@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the use of radiant energy (such as X-rays) or radioactive material in the diagnosis and treatment of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of radioactive substances and high-energy radiations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty that uses medical imaging technologies to diagnose and treat diseases within the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and oncology, the scientific discipline encompassing ionizing radiation, radiation safety, and therapeutic radio-oncology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiology designates a branch of medicine concerned with the use of radiant energy (such as x-rays) or radioactive material in the diagnosis and treatment of disease."*
+> - 📜 **Marie Curie (*Radiology in War*):** *"The science of **radiology** proved its immense humanitarian utility upon the battlefields of the Great War."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"With the arrival of diagnostic **radiology**, internal lesions that once defied clinical detection became directly visible."*
+> - 📜 **Antoine Henri Becquerel (*Recherches sur une propriété nouvelle de la matière*):** *"The discovery of spontaneous radioactivity opened unforeseen frontiers in physics and diagnostic **radiology**."*

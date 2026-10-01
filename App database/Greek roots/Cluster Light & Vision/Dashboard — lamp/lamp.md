@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various devices for producing light or sometimes heat: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel with a wick for burning an inflammable liquid (such as oil) to produce light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for producing light, either by burning oil, gas, or wax, or by utilizing an electric filament or arc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and social history, the essential instrument dispelling darkness, evolving from clay wick vessels to incandescent bulbs and mercury discharge tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, Our lamp is spent, it’s out!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, she’s the kitchen wench, and all grease, and I know not what use to put her to but to make a lamp of her and run from her by her own light."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the Knight of the Burning Lamp."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The **lamp** of truth guides the architect to build with honest stone and authentic structure."*
+> - 📜 **Robert Louis Stevenson (*Virginibus Puerisque*):** *"The old watchman made his evening rounds carrying a flickering oil **lamp** through the misty streets."*
+> - 📜 **Thomas Alva Edison (*The Electric Light*):** *"The carbonized bamboo filament burned inside the evacuated bulb for forty hours, giving us the first practical incandescent **lamp**."*

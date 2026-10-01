@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: chromium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a chromium pigment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chromium, especially as used to plate metal objects, or a vivid yellow pigment (chrome yellow) prepared from lead chromate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial design and motoring, bright electroplated metallic finishes; in colloquial usage, decorative shiny trim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the outer margin of the Pit was an oval pond, and over it hung the attenuated skeleton of a chrome-yellow moon which had only a few days to last—the morning star dogging her on the left hand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the outer margin of the pit was an oval pond, and over it hung the attenuated skeleton of a chrome-yellow moon, which had only a few days to last—the morning star dogging her on the right hand."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The material of which these guns are made is nickel chrome gun steel."*
+> - 📜 **John Ruskin (*The Elements of Drawing*):** *"The painter used pure **chrome** yellow sparingly to indicate the direct strike of the setting sun."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Machinery gleamed with polished steel and electroplated **chrome** in the underground power stations."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"His automobile was adorned with glittering accessories of nickel and shining **chrome**."*

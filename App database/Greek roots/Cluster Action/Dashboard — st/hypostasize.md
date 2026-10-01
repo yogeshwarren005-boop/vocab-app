@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through cause to stand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through cause to stand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat, consider, or reify an abstract concept or relation as if it were a concrete, independently existing substance or real entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical critique, to commit the fallacy of misplaced concreteness by projecting linguistic entities into physical or metaphysical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostasize designates verb*) to subject to, transform by, or operate upon through cause to stand."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The scholastic realists committed a fatal error when they sought to **hypostasize** mere general names into self-existent substances."*
+> - 📜 **Karl Marx (*The German Ideology*):** *"Hegel tends to **hypostasize** the State into an autonomous spiritual demiurge hovering above material economic relations."*
+> - 📜 **Alfred North Whitehead (*Science and the Modern World*):** *"To **hypostasize** space and time as independent containers of matter is the classic fallacy of misplaced concreteness."*

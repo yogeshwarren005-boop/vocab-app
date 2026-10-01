@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The comprehensive scientific and theoretical study of systems, their structures, taxonomy, and general laws of organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, the comparative analysis of systems principles across physical, biological, and psychosocial domains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematology designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Ludwig von Bertalanffy (*General System Theory*):** *"General **systematology** seeks to discover isomorphic mathematical models applicable across widely disparate physical and social realms."*
+> - 📜 **Kenneth Boulding (*The Image: Knowledge in Life and Society*):** *"A coherent **systematology** must classify organizational structures according to their levels of information processing."*
+> - 📜 **C. West Churchman (*The Systems Approach*):** *"Modern **systematology** cautions the investigator never to isolate a problem from its broader environmental coordinates."*

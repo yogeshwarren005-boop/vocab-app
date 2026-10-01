@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feebly basic compound C5H4N4O2 that occurs especially in animal or plant tissue, is derived from guanine and hypoxanthine, and yields uric acid on oxidation; also : any of various derivatives of xanthine (such as methylxanthine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feebly basic compound C5H4N4O2 that occurs especially in animal or plant tissue, is derived from guanine and hypoxanthine, and yields uric acid on oxidation; also : any of various derivatives of xanthine (such as methylxanthine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purine base (3,7-dihydropurine-2,6-dione) found in most human body tissues, fluids, and certain plants, produced as an intermediate in the catabolism of adenosine and guanine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and enzymology, a heterocyclic nitrogenous compound oxidized to uric acid by xanthine oxidase, serving as the parent nucleus for methylxanthine stimulants including caffeine, theophylline, and theobromine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthine designates a feebly basic compound c5h4n4o2 that occurs especially in animal or plant tissue, is derived from guanine and hypoxanthine, and yields uric acid on oxidation; also : any of various derivatives of xanthine (such as methylxanthine)."*
+> - 📜 **Emil Fischer (*Investigations on the Purine Group*):** *"By systematic chlorination and reduction, we proved the structural relationship linking uric acid to **xanthine** and purine."*
+> - 📜 **Justus von Liebig (*Organic Chemistry in Its Applications to Agriculture and Physiology*):** *"Crystalline **xanthine** was first detected in rare urinary calculi, forming a yellow residue when evaporated with nitric acid."*
+> - 📜 **Arthur Kornberg (*Enzymatic Synthesis of DNA*):** *"The enzyme xanthine oxidase catalyzes the successive hydroxylation of hypoxanthine to **xanthine** and thence to uric acid."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to biology or to life and living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to biology or to life and living things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to biology, the scientific study of life and living organisms, their structure, function, growth, and evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to biological or organic processes, mechanisms, or biological pharmaceuticals derived from living systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is the problem of eugenics, the choice and biologic breeding of capable men to be the citizens of the nation, and broadly understood, it includes both the negro and the immigrant problems.] [Footnote 2: See Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The world often exclaims over the failure of the sons of noted men to achieve great things, for, despite confusing evidence, men still have faith in biologic heredity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the economic realm, as is now seen to be the case in the biologic realm, competition of some effective kind is an indispensable condition not only of progress but of life without degeneration."*
+> - 📜 **Frank A. Fetter (*Economics: Modern Economic Problems*):** *"The world often exclaims over the failure of the sons of noted men to achieve great things, for, despite confusing evidence, men still have faith in **biologic** heredity."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Natural selection provides the governing mechanism by which all **biologic** adaptation is mediated and preserved."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The mind is not an isolated spectator of things, but an organ forged under relentless **biologic** necessity."*

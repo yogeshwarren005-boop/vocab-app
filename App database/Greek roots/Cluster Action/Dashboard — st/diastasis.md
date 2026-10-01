@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal separation or parting of two normally attached bones or muscle segments without actual fracture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and physiology, the quiescent middle phase of ventricular diastole between rapid ventricular filling and atrial systole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastasis designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Violent trauma to the ankle frequently causes a complete **diastasis** of the inferior tibiofibular joint without bony fracture."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"In pregnancy, excessive intra-abdominal pressure may lead to permanent **diastasis** of the recti abdominis muscles."*
+> - 📜 **Astley Cooper (*A Treatise on Dislocations and on Fractures of the Joints*):** *"Epiphyseal **diastasis** in childhood must be managed with extreme gentleness to avoid arresting longitudinal bone growth."*

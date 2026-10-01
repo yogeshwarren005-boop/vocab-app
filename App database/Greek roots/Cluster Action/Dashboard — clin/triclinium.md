@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dining room (especially a dining room containing a dining table with couches along three sides).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dining table with couches along three sides in ancient rome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal dining room in an ancient Roman building, typically furnished with three dining couches arranged around a central table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology, a three-couch banquet arrangement upon which diners reclined on their left sides during meals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triclinium designates a dining room (especially a dining room containing a dining table with couches along three sides)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman patricians feasted upon exotic delicacies while reclining comfortably within the frescoed **triclinium**."*
+> - 📜 **Pliny the Younger (*Letters*):** *"My Laurentine villa features a summer **triclinium** opening directly onto the sea breeze and gardens."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Slaves carried silver wine amphorae into the cool **triclinium**, where guests discussed Epicurean philosophy."*

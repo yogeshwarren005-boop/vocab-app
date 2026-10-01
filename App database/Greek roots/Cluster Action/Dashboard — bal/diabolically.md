@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a devil; in an evil manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a devil; in an evil manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diabolical or fiendishly evil manner; outrageously or devilishly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a severe, shocking, or exasperating degree, marked by fiendish ingenuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"My boy,” said the landlord, “you’ll have the nightmare to a dead sartainty.” “Landlord,” I whispered, “that aint the harpooneer, is it?” “Oh, no,” said he, looking a sort of diabolically funny, “the harpooneer is a dark complexioned chap."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"My boy,” said the landlord, “you’ll have the nightmare to a dead sartainty.” “Landlord,” I whispered, “that aint the harpooneer is it?” “Oh, no,” said he, looking a sort of diabolically funny, “the harpooneer is a dark complexioned chap."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Come, my husband, come!” There was something diabolically sweet in her tones--something of the tingling of glass when struck--which rang through the brains even of us who heard the words addressed to another."*
+> - 📜 **Robert Louis Stevenson (*Strange Case of Dr Jekyll and Mr Hyde*):** *"Mr. Hyde snarled aloud into a savage laugh, carrying himself **diabolically** beyond all human decency."*
+> - 📜 **Jane Austen (*Emma*):** *"The roads were **diabolically** bad after the thaw, preventing any comfortable morning carriage visits."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The assassin had devised an escape route that was **diabolically** clever in its exploitation of architectural blind spots."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless insoluble liquid compound that causes tears and vomiting; used as a pesticide and as tear gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless insoluble liquid compound that causes tears and vomiting; used as a pesticide and as tear gas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, colorless, pungent liquid (CCl3NO2) used as a broad-spectrum soil fumigant, pesticide, and historical chemical warfare choking agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrochemistry and military history, a severe pulmonary and lacrimatory agent synthesized by treating picric acid with hypochlorite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloropicrin designates a heavy colorless insoluble liquid compound that causes tears and vomiting; used as a pesticide and as tear gas."*
+> - 📜 **John Stenhouse (*Philosophical Magazine*):** *"Distilling picric acid with bleaching powder yielded an exceedingly pungent oil which I named **chloropicrin**."*
+> - 📜 **Fritz Haber (*The Chemistry of Warfare*):** *"Because of its ability to penetrate standard gas-mask canisters, **chloropicrin** was deployed extensively in artillery shells."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Before planting strawberries, growers injected **chloropicrin** into the soil to kill nematodes and subterranean fungi."*

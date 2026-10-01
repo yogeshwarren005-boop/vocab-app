@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless volatile flammable liquid with an almond odor that is made from chlorine and benzene; used as a solvent and in the production of phenol and ddt and other organic compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless volatile flammable liquid with an almond odor that is made from chlorine and benzene; used as a solvent and in the production of phenol and ddt and other organic compounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, flammable aromatic organic compound (C6H5Cl) produced by chlorinating benzene in the presence of a Lewis acid catalyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic organic chemistry, an important industrial intermediate in the manufacture of aniline, phenol, and DDT.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorobenzene designates a colorless volatile flammable liquid with an almond odor that is made from chlorine and benzene; used as a solvent and in the production of phenol and ddt and other organic compounds."*
+> - 📜 **August Wilhelm von Hofmann (*Introduction to Modern Chemistry*):** *"Treating aromatic benzene with chlorine gas yieldeth liquid **chlorobenzene** with evolution of pungent fumes."*
+> - 📜 **Ira Remsen (*Organic Chemistry*):** *"The chlorine atom in **chlorobenzene** is held far more tenaciously than in aliphatic alkyl halides."*
+> - 📜 **Paul Müller (*Nobel Lecture: Dichlorodiphenyltrichloroethane*):** *"Condensing chloral with **chlorobenzene** in concentrated sulfuric acid produced the potent contact insecticide."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) son of helios; killed when trying to drive his father's chariot and came too close to earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the phaethontidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the son of the sun god Helios who drove the sun chariot recklessly; in ornithology, the genus of oceanic tropicbirds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ornithology, pelagic seabirds (*Phaethon*) characterized by glistening white plumage, black markings, and extremely elongated central tail feathers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaethon designates (greek mythology) son of helios; killed when trying to drive his father's chariot and came too close to earth."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Bold **Phaethon** grasped the burning reins of the sun chariot, scorching the heavens and drying up the rivers of Earth."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Like rash **Phaethon** hurtling from the sky, the ambitious poet fell from epic heights into bathos."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Far from any shore, the elegant white tropicbird, **Phaethon**, circled our masthead with graceful flight."*

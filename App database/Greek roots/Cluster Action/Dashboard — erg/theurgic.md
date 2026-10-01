@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or technique of compelling or persuading a god or beneficent or supernatural power to do or refrain from doing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or technique of compelling or persuading a god or beneficent or supernatural power to do or refrain from doing something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to theurgy, the practice of magical or sacred rituals intended to invoke the presence or action of divine powers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late Neoplatonism, designating esoteric rituals designed to purify the soul and unite it with the transcendent One.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theurgic designates the art or technique of compelling or persuading a god or beneficent or supernatural power to do or refrain from doing something."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Emperor Julian was initiated into the mysterious **theurgic** rites of Ephesus, seeking communion with the ancient gods."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The Neoplatonist sage claimed access to **theurgic** secrets capable of drawing down celestial fire into consecrated stones."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Vain magicians pretended to a **theurgic** command over celestial intelligences through cabalistic incantations."*

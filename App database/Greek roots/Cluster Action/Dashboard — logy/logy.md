@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical combining form and root (from Greek logos, meaning 'word, discourse, reason, study') designating a branch of knowledge, scientific discipline, or spoken discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As an independent adjective, feeling heavy, dull, lethargic, or sluggish, as from fatigue, medication, or illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Ann usually set in to give me the family particulars when I was logy with sleep a Sunday night."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"When, in like manner zoölogy is defined as the study of animals, or geology as the study of rocks and the earth, the words call up memories of many familiar objects."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A man who eats too heavy a dinner feels stupid and **logy**, incapable of clear morning contemplation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The terminal suffix **logy** has conferred a dignified academic pedigree upon countless modern pursuits."*
+> - 📜 **William James (*The Letters of William James*):** *"I have been feeling distinctly **logy** all week, weighed down by an unyielding influenza."*

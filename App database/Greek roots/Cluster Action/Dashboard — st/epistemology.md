@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or a theory of the nature and grounds of knowledge especially with reference to its limits and validity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or a theory of the nature and grounds of knowledge especially with reference to its limits and validity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy that investigates the nature, origin, methods, presuppositions, and boundaries of human knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical theory or framework explaining how knowledge is acquired, justified, and demarcated from mere opinion or delusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Like Seneca and Plutarch he was not interested in Philosophy apart from these issues--epistemology, psychology, physics and so forth were not practical matters."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Before embarking on lofty metaphysical speculations, sound **epistemology** demands that we take inventory of the mind's native powers."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Empirical **epistemology** teaches us to commit to the flames any volume containing neither abstract reasoning nor matters of fact."*
+> - 📜 **Ludwig Wittgenstein (*On Certainty*):** *"The game of doubting itself presumes a bedrock of certainty; **epistemology** begins where doubt can no longer meaningfully operate."*

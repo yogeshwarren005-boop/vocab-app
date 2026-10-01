@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drama or theatre that self-consciously refers to its own theatrical nature, conventions, or artificiality, drawing audience attention to the performance as an illusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern dramatic theory and literary criticism (a term coined by Lionel Abel in 1963), plays where life itself is conceived as dramatic performance and characters demonstrate awareness of being in a play.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metatheatre designates a term designating an entity, condition, or phenomenon derived from greek thea."*
+> - 📜 **Lionel Abel (*Metatheatre: A New View of Dramatic Form*):** *"In **metatheatre**, the dramatist does not attempt to create an illusion of reality, but explores how theatrical illusion constitutes reality itself."*
+> - 📜 **Tom Stoppard (*Rosencrantz and Guildenstern Are Dead*):** *"The Player embodies the purest spirit of **metatheatre**, aware that we are actors on a stage with no exits except offstage."*
+> - 📜 **Northrop Frye (*Anatomy of Criticism*):** *"The play-within-a-play in Hamlet serves as the classical exemplar of **metatheatre**, mirroring the prince's moral entrapment."*

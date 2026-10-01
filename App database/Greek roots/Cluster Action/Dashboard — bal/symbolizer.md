@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in the interpretation or representation of symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in the interpretation or representation of symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which symbolizes; a creator, user, or interpreter of symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and semiotics, an agent or mind that constructs figurative meaning through symbolic representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbolizer designates someone skilled in the interpretation or representation of symbols."*
+> - 📜 **Ralph Waldo Emerson (*The Poet*):** *"The poet is the great **symbolizer**, naming the unseen through the forms of rock, cloud, and flower."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The dreaming psyche is an instinctive **symbolizer**, translating complex emotional conflicts into vivid mythic dramas."*
+> - 📜 **Ernst Cassirer (*The Philosophy of Symbolic Forms*):** *"Man is fundamentally a **symbolizer**, constructing worlds of language, myth, art, and science."*

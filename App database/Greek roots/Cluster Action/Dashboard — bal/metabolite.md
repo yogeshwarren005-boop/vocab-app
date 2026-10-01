@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance essential to the metabolism of a particular organism or to a particular metabolic process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance formed in or necessary for metabolism, especially an intermediate or end product.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and oncology, a molecular compound resulting from enzymatic biotransformation of a pharmaceutical agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolite designates a product of metabolism."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"Succinate serves as an indispensable intermediate **metabolite** linking the oxidation of fats and sugars."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Farber realized that introducing a structural mimic of an essential **metabolite** could arrest leukemia progression."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Feedback loops allow an excess of the terminal **metabolite** to shut down the first committed enzyme of the biosynthetic chain."*

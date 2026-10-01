@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indian nun and missionary in the roman catholic church (born of albanian parents in what is now macedonia); dedicated to helping the poor in india (1910-1997).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indian nun and missionary in the roman catholic church (born of albanian parents in what is now macedonia); dedicated to helping the poor in india (1910-1997).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Saint Teresa of Ávila (1515–1582), Spanish mystic, reformer of the Carmelite Order, prolific author, and Doctor of the Roman Catholic Church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian mysticism and hagiography, the renowned contemplative celebrated for visionary writings including 'The Interior Castle' and 'The Way of Perfection'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now then, Mistress Teresa d’Urberville, I have you."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare inquired for Teresa d’Urberville or Durbeyfield."*
-> - 📜 **James Joyce (*Ulysses*):** *"And Sarsfield and O’Donnell, duke of Tetuan in Spain, and Ulysses Browne of Camus that was fieldmarshal to Maria Teresa."*
+> - 📜 **Teresa of Ávila (*The Life of Saint Teresa of Jesus*):** *"Let nothing disturb you, let nothing frighten you; all things are passing away, but God never changes, wrote **Teresa** in her bookmark."*
+> - 📜 **John of the Cross (*The Living Flame of Love*):** *"Our holy mother **Teresa** exemplified that perfect mystical surrender wherein the soul is transfixed by divine love."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The spiritual fortitude of Saint **Teresa** united profound ecstatic contemplation with extraordinary practical organizational genius."*

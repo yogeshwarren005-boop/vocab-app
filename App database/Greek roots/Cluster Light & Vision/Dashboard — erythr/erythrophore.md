@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erythr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pigment-containing cell (chromatophore) found in cold-blooded animals that produces red coloration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and physiological zoology, a dermal chromatophore packed with carotenoids or pteridines that disperses pigment to redden skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrophore designates a term designating an entity, condition, or phenomenon derived from greek erythr."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The vivid scarlet patches upon the male lizard's flank expand when nervous impulses excite every **erythrophore**."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Under the microscope, each individual **erythrophore** was seen to radiate branching cytoplasmic processes filled with ruby granules."*
+> - 📜 **E. Ray Lankester (*Comparative Physiology*):** *"Hormones from the pituitary gland control pigment dispersion within both the melanophore and the **erythrophore**."*

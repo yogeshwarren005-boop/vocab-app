@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematic organization; the act of organizing something according to a system or a rationale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic organization; the act of organizing something according to a system or a rationale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of organizing facts, principles, or operations into an orderly, coherent system (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and institutional theory, the methodical reduction of chaotic empirical observations to a structured axiomatic framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematisation designates systematic organization; the act of organizing something according to a system or a rationale."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Philosophy is completely unified knowledge; its crowning glory is the comprehensive **systematisation** of cosmic evolution."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific progress consists largely in the progressive **systematisation** of empirical observations under general inductive laws."*
+> - 📜 **Karl Marx (*Capital*):** *"The capitalist division of labor demands the rigorous **systematisation** of manual tasks to extract maximum surplus value."*

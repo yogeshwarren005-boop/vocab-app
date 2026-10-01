@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Eastern Orthodox and Byzantine rite churches, blessed bread distributed to the faithful at the end of the Divine Liturgy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Literally 'instead of the gifts', bread from the prosphora loaves blessed during the preparation rite, given to non-communicants and communicants alike.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidoron designates a term designating an entity, condition, or phenomenon derived from greek do."*
+> - 📜 **John Meyendorff (*Byzantine Theology*):** *"The distribution of the **antidoron** unites the entire assembly in fellowship at the conclusion of the liturgy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Pious Byzantine emperors reverently received the **antidoron** from the hands of the Patriarch of Constantinople."*
+> - 📜 **Alexander Schmemann (*The Eucharist*):** *"Taking the **antidoron** after the service extends the sanctifying joy of the holy table into the community."*

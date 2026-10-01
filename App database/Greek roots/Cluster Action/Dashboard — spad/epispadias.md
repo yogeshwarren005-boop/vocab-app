@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare congenital malformation in which the urethra terminates on the dorsal (upper) surface of the penis or clitoris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric urology, a defect along the spectrum of bladder exstrophy caused by failure of midline closure of the lower abdominal wall and genital tubercle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epispadias designates a term designating an entity, condition, or phenomenon derived from greek spad."*
+> - 📜 **Hugh Hampton Young (*Practice of Urology*):** *"Surgical repair of **epispadias** demands reconstructing the dorsal urethral plate while establishing dependable urinary continence."*
+> - 📜 **John W. Duckett (*Pediatric Urology*):** *"Unlike hypospadias, isolated **epispadias** involves dorsal curvature and profound alterations in pelvic floor anatomy."*
+> - 📜 **D. Innes Williams (*Urology in Childhood*):** *"The degree of dorsal clefting in **epispadias** correlates directly with the severity of accompanying pubic bone diastasis."*

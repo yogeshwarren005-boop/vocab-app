@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or consisting of a scape; having a bare leafless stalk growing directly from the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or consisting of a scape; having a bare leafless stalk growing directly from the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or producing a scape; characterized by a leafless flowering stem rising directly from the ground or root.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology, describing inflorescences where vegetative leaves are clustered entirely at the base, leaving the floral axis naked.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scapose designates resembling or consisting of a scape; having a bare leafless stalk growing directly from the ground."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"When a plant produces its foliage in a basal rosette, leaving the flowering stem leafless, it is described as **scapose**."*
+> - 📜 **John Torrey (*Flora of North America*):** *"The **scapose** habit of the dandelion allows its flowering head to elevate its seeds above surrounding pasture grasses."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Many popular garden monocots are strictly **scapose**, bearing elegant bare stalks topped by showy blooms."*

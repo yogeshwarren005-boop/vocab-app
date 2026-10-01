@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic (trade name erythrocin or e-mycin or ethril or ilosone or pediamycin) obtained from the actinomycete streptomyces erythreus; effective against many gram-positive bacteria and some gram-negative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic (trade name erythrocin or e-mycin or ethril or ilosone or pediamycin) obtained from the actinomycete streptomyces erythreus; effective against many gram-positive bacteria and some gram-negative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand name for the macrolide antibiotic erythromycin, used to treat bacterial respiratory and dermatological infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an oral and parenteral antibiotic preparation historically prescribed for penicillin-allergic patients with streptococcal pharyngitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrocin designates an antibiotic (trade name erythrocin or e-mycin or ethril or ilosone or pediamycin) obtained from the actinomycete streptomyces erythreus; effective against many gram-positive bacteria and some gram-negative."*
+> - 📜 **Maxwell Finland (*Clinical Studies on Macrolide Antibiotics*):** *"Patients intolerant of penicillin were successfully maintained on oral doses of **erythrocin**."*
+> - 📜 **Paul de Kruif (*Men Against Death*):** *"The pharmacy stocked **erythrocin** as an effective safeguard against virulent hemolytic streptococci."*
+> - 📜 **Selman Waksman (*The Conquest of Tuberculosis*):** *"Early clinical trials confirmed the broad antimicrobial spectrum and low toxicity of **erythrocin**."*

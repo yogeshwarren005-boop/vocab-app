@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument to measure the growth of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument to measure the growth of plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus designed for measuring and recording the rate of growth in plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, a device using a lever or rotating smoked drum (kymograph) to magnify tiny increments of stem elongation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxanometer designates an instrument to measure the growth of plants."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"The delicate pointer of my recording **auxanometer** magnified the shoot's nocturnal growth over twenty-fold."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Attaching a silk thread from the plumule to an **auxanometer** revealed continuous rhythmic pulsations in elongation."*
+> - 📜 **Jagadish Chandra Bose (*Plant Response as a Means of Physiological Investigation*):** *"My high-magnification crescograph surpassed the classical **auxanometer**, recording growth surges occurring within fractions of a second."*

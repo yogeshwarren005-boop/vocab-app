@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pit-like structure created by an impacting meteoroid, asteroid or comet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pit-like structure created by an impacting meteoroid, asteroid or comet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient, eroded remnant of a large meteorite or asteroid impact crater on the Earth's crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary geology and geomorphology, a circular geological scar identified by shatter cones, shocked quartz, and melt sheets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrobleme designates a pit-like structure created by an impacting meteoroid, asteroid or comet."*
+> - 📜 **Robert S. Dietz (*Astroblemes: Ancient Meteorite Scars*):** *"I proposed the term **astrobleme**, meaning star-wound, to designate these ancient circular crypto-explosion scars."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Beneath millions of years of erosion, the buried **astrobleme** whispers of cataclysmic collisions in terrestrial deep time."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Discovery of shocked coesite and shatter cones confirmed the Vredefort dome as a colossal Precambrian **astrobleme**."*

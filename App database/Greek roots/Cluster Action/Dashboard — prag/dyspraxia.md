@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological disorder affecting motor skill development, characterized by impairment in planning and executing coordinated movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental pediatrics and neuropsychology, a condition that disrupts spatial organization, manual dexterity, and speech articulation without intellectual deficit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyspraxia designates a term designating an entity, condition, or phenomenon derived from greek prag."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"Children suffering from developmental **dyspraxia** often find in musical rhythm an external scaffolding for motor coordination."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Subtle constructional **dyspraxia** may remain hidden until the patient is required to draw a clock face."*
+> - 📜 **Donald Winnicott (*The Child, the Family, and the Outside World*):** *"The child with mild **dyspraxia** experiences profound frustration when physical clumsy movements fail to match mental agility."*

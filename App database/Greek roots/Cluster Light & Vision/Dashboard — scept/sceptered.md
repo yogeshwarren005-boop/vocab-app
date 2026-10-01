@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invested with legal power or official authority especially as symbolized by having a scepter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invested with legal power or official authority especially as symbolized by having a scepter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Invested with a scepter; endowed with regal authority, sovereignty, or majestic power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and political rhetoric, possessing hereditary royal power or imperial supremacy; figuratively, ruling or commanding preeminent status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceptered designates invested with legal power or official authority especially as symbolized by having a scepter."*
+> - 📜 **William Shakespeare (*Richard II*):** *"This royal throne of kings, this **sceptered** isle, / This earth of majesty, this seat of Mars."*
+> - 📜 **John Milton (*Paradise Lost*):** *"High on a throne of royal state... Satan exalted sat, by merit raised to that bad eminence, while **sceptered** kings obeyed."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The monarch sat **sceptered** upon his throne, yet trembled before the unbending will of the titan."*

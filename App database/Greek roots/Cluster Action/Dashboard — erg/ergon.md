@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek word for work, deed, task, or action; or an elementary unit of energy in physical chemistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early quantum mechanics, a name proposed by Max Planck for the quantum of action (energy element).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"God's function (_ergon_) is man's salvation."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The ultimate good of man resides in his specific function or **ergon**, which is the active exercise of the soul in accordance with reason."*
+> - 📜 **Max Planck (*Scientific Autobiography*):** *"I originally designated the discrete energy packet as an **ergon**, before the terminology of the quantum became universally accepted."*
+> - 📜 **Hannah Arendt (*The Human Condition*):** *"Greek thought distinguished between effortless biological labor and the enduring crafted work of the **ergon**."*

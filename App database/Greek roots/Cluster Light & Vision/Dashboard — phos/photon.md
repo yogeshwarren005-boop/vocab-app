@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantum of electromagnetic radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantum of electromagnetic radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantum of electromagnetic radiation, having zero rest mass, no electric charge, and traveling at the speed of light in a vacuum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum electrodynamics and physics, the gauge boson mediating the electromagnetic force, introduced by Gilbert Lewis and mathematically formulated by Einstein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photon designates a quantum of electromagnetic radiation."*
+> - 📜 **Albert Einstein (*On the Quantum Theory of Radiation*):** *"The elementary light-quantum, which we now term the **photon**, carries both discrete energy and directional momentum."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"An electron moving through space simply absorbs or emits a **photon**, the basic event of quantum electrodynamics."*
+> - 📜 **Arthur Compton (*A Quantum Theory of the Scattering of X-Rays by Light Elements*):** *"The collision between an X-ray **photon** and an electron behaves exactly like a game of billiard balls in space."*

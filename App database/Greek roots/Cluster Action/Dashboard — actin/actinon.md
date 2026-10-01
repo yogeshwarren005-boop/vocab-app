@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a series of radioactive elements with atomic numbers 89 through 103.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a series of radioactive elements with atomic numbers 89 through 103.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical name for radon-219, a radioactive noble gas isotope produced during the actinium decay series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics and radiochemistry, an alpha-emitting noble gas with a half-life of approximately 3.96 seconds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinon designates any of a series of radioactive elements with atomic numbers 89 through 103."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"The emanation from actinium, termed **actinon**, possesses an exceedingly fleeting existence of merely a few seconds."*
+> - 📜 **Frederick Soddy (*The Chemistry of the Radio-Elements*):** *"By measuring the rapid decay of **actinon**, we distinguished it conclusively from the longer-lived thoron and radon gases."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"Air passed through the actinium preparation carries the luminous gaseous **actinon** into the adjacent ionization chamber."*

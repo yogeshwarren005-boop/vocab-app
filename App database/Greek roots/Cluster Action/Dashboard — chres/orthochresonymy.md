@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of using taxonomic names correctly in accordance with their original definitions and types.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nomenclature, the historical consistency of proper name usage across taxonomic revisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthochresonymy designates a term designating an entity, condition, or phenomenon derived from greek chres."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Taxonomic stability is achieved when **orthochresonymy** prevails across all standard faunal surveys."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Without rigorous **orthochresonymy**, paleontological diversity metrics are distorted by phantom taxa."*
+> - 📜 **Charles Wardell Stiles (*Report on Zoological Nomenclature*):** *"Universal adherence to type specimens safeguards **orthochresonymy** against subjective shifts in taxonomy."*

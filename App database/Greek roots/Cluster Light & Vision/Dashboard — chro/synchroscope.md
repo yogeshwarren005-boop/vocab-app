@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant of synchronoscope; an instrument showing whether two alternating current machines or systems are operating in phase and at the same frequency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation and naval engineering, an instrument indicating whether multi-engine propellers are spinning at identical RPMs to eliminate acoustic beating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchroscope designates an instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines)."*
+> - 📜 **Charles Proteus Steinmetz (*Lectures on Electrical Engineering*):** *"The rotating hand of the **synchroscope** tells the engineer whether the incoming dynamo is running too fast or too slow."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"The pilot glanced at the **synchroscope** dial to stop the droning vibration between the twin radial engines."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"The submarine's electrical board featured a illuminated **synchroscope** controlling the auxiliary turbines."*

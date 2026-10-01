@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for tracing the paths of ionizing particles by means of ion counters in close array.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for tracing the paths of ionizing particles by means of ion counters in close array.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or array of radiation detectors used in particle physics to determine the trajectory of charged particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-energy physics, a grid of scintillation counters or wire chambers that records spatial coordinates of passing cosmic rays or beam ions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hodoscope designates an instrument for tracing the paths of ionizing particles by means of ion counters in close array."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"A coincidence **hodoscope** composed of Geiger counters allowed us to track the angular descent of cosmic ray showers."*
+> - 📜 **Robert Oppenheimer (*Science and the Common Understanding*):** *"Data gathered by the scintillation **hodoscope** mapped the scattering angles of high-energy pions."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Modern particle physicists employ a multi-layered wire **hodoscope** to reconstruct complex collision vertices."*

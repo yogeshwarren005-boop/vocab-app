@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out, apply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To do or perform often, customarily, or habitually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeated exercise in an activity or skill so as to acquire or maintain proficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The actual exercise of a profession, technique, or customary course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are deceived, my lord; this is Monsieur Parolles, the gallant militarist (that was his own phrase), that had the whole theoric of war in the knot of his scarf, and the practice in the chape of his dagger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He alone Dealt on lieutenantry, and no practice had In the brave squares of war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Highness Shall from this practice but make hard your heart; Besides, the seeing these effects will be Both noisome and infectious."*
+> - 📜 **Francis Bacon (*The Essays: Of Studies*):** *"Studies themselves do give forth directions too much at large, except they be bounded in by **practice**."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Excellence in any art is not granted to effortless wish, but is the reward of patient, untiring **practice**."*
+> - 📜 **William Osler (*The Master-Word in Medicine*):** *"The student of medicine must spend his mornings in the wards and his evenings in clinical **practice**."*

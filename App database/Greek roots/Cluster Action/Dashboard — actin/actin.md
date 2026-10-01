@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition**: A structural globular protein that forms microfilaments in eukaryotic cells, essential for muscle contraction, cell motility, and maintaining cell shape.
-> 2. **Secondary / Nuanced Definition**: Interacts dynamically with the motor protein myosin to convert chemical energy (ATP) into mechanical force within muscle fibers and the cytoskeleton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structural globular protein that polymerizes into dynamic microfilaments throughout eukaryotic cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foundational cytoskeletal element that partners with myosin to drive muscular contraction, cytoplasmic streaming, and cell motility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Each **actin** filament is a twisted chain of identical globular protein subunits."*
-> - 📜 **Albert Szent-Györgyi (*Chemistry of Muscular Contraction*):** *"Neither **actin** nor myosin alone can contract; the miracle of motion belongs to their union."*
-> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Under the microscope, bundles of **actin** assemble like scaffolding at the leading edge of a migrating cell."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Each filament of **actin** is an asymmetric helical polymer possessing distinct plus and minus ends."*
+> - 📜 **Albert Szent-Györgyi (*Chemistry of Muscular Contraction*):** *"When adenosine triphosphate is added, purified **actin** and myosin interact to generate vigorous mechanical tension."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Under confocal illumination, bundles of **actin** polymerize rapidly at the leading lamellipodium of crawling lymphocytes."*

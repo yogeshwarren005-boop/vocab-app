@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem or body of poems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poem or body of poems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or craft of composing poetry; poetic works or verse considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and Renaissance criticism, the divinely inspired creative faculty of poetic invention; imaginative vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our poesy is as a gum which oozes From whence ’tis nourished."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"Not charioted by Bacchus and his pards, but on the viewless wings of **Poesy**, though the dull brain perplexes and retards."*
+> - 📜 **Philip Sidney (*An Apology for Poetry*):** *"Nature never set forth the earth in so rich tapestry as divers poets have done; her world is brazen, the world of **poesy** only delivereth a golden."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"A thing slipp’d idly from me. Our **poesy** is as a gum, which oozes from whence ’tis nourish’d."*

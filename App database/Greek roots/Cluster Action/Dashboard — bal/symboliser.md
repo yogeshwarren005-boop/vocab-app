@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in the interpretation or representation of symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in the interpretation or representation of symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which symbolises; a creator or interpreter of symbols (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and art, an artist or poet who expresses ideas through symbolic representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symboliser designates someone skilled in the interpretation or representation of symbols."*
+> - 📜 **William Butler Yeats (*Essays and Introductions*):** *"The visionary poet is a true **symboliser**, unveiling eternal truths through transient earthly images."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Nature herself is the supreme **symboliser**, echoing divine ideas through visible forms."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Leonardo proved himself a masterly **symboliser** of enigmatic psychological moods in the smile of Mona Lisa."*

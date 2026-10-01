@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: stroke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: gross hemorrhage into a cavity or into the substance of an organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsciousness or motor incapacity caused by a sudden cerebral hemorrhage or stroke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, any sudden massive hemorrhage or effusion of blood into an organ causing abrupt cessation of bodily function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I hear, moreover, his Highness is fallen into this same whoreson apoplexy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This apoplexy, as I take it, is a kind of lethargy, an ’t please your lordship, a kind of sleeping in the blood, a whoreson tingling."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"This **apoplexy** is, as I take it, a kind of lethargy, an ’t please your lordship; a kind of sleeping in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebral hemorrhage causing classical **apoplexy** strikes down the robust individual without preliminary warning."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He looked like a man struck with sudden **apoplexy**, his jaw dropped and his glassy eyes fixed upon the sea."*

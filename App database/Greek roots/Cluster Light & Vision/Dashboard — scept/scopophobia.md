@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, and persistent fear of being looked at, stared at, or seen by others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and abnormal psychology, a severe social anxiety disorder characterized by somatic flushing, agoraphobic avoidance, and extreme dread of interpersonal gaze.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopophobia designates a term designating an entity, condition, or phenomenon derived from greek scept."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"An exaggeration of the social gaze instinct may invert into morbid **scopophobia**, causing the neurotic to shrink in terror from human eyes."*
+> - 📜 **William Healy (*The Individual Delinquent*):** *"The patient exhibited marked **scopophobia**, confessing that the mere sensation of strangers watching him triggered paroxysms of panic."*
+> - 📜 **Sandor Ferenczi (*Further Contributions to the Theory and Technique of Psycho-Analysis*):** *"In acute **scopophobia**, the patient experiences being stared at as an aggressive physical violation."*

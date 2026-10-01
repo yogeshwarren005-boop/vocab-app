@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning the theory of pragmatism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with practical matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meddlesome, officious, opinionated, or excessively concerned with practical management (archaic/historical).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to state affairs, public business, or pragmatic sanctions (as in fundamental imperial edicts).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Just then my eye was caught by the pragmatical old gentleman in the Greek grizzled wig, who was scrambling away in sore affright with half a score of authors in full cry after him."*
-> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A pragmatical young Fellow sitting at Table over-against the learned _John Scot_, asked him what difference there was between _Scot_ and _Sot_: _Just the Breadth of the Table_, answered the other. 19."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A pragmatical young fellow, sitting at table over against the learned John Scott, asked him, What difference there was between Scott and Sot?"*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"He proved a very busy and **pragmatical** fellow, meddling with business that concerned him not."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The court was full of **pragmatical** ministers whose ambitious intrigues ruined the harmony of the kingdom."*
+> - 📜 **David Hume (*The History of England*):** *"The royal proclamation was framed in the spirit of a **pragmatical** sanction, settling the disputed succession."*

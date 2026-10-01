@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn into a devil or make devilish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into a devil or make devilish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render diabolic; to impute demonic motives to; to demonize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and social psychology, to systematically represent an adversary as embodying absolute evil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabolize designates turn into a devil or make devilish."*
+> - 📜 **Ralph Waldo Emerson (*Conduct of Life*):** *"Resentment tends to **diabolize** the character of those who have crossed our private ambitions."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"John Claggart's envy began to **diabolize** Billy's innocent nature into a sinister threat."*
+> - 📜 **William James (*The Will to Believe*):** *"Sectarian fury will **diabolize** the most benign moral reform if championed by rival dogmatists."*

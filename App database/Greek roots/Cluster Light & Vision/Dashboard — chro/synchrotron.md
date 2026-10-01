@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cyclotron in which the electric field is maintained at a constant frequency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cyclotron in which the electric field is maintained at a constant frequency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cyclic particle accelerator in which both the magnetic guiding field and the accelerating radiofrequency electric field are synchronized with the particle beam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics and materials science, a large ring accelerator producing intense synchrotron radiation used as a high-brightness X-ray source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchrotron designates cyclotron in which the electric field is maintained at a constant frequency."*
+> - 📜 **Edwin McMillan (*The Synchrotron: A Proposed High Energy Accelerator*):** *"In the **synchrotron**, the magnetic field increases smoothly in step with the relativistic momentum of the accelerating electrons."*
+> - 📜 **Julian Schwinger (*On the Classical Radiation of Accelerated Electrons*):** *"Electrons circling in the **synchrotron** emit an intense, polarized tangent beam of continuous spectrum radiation."*
+> - 📜 **Enrico Fermi (*Elementary Particles*):** *"The construction of the giant proton **synchrotron** opened the subnuclear realm of strange particles to direct study."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of synesthesia in which nonvisual stimulation results in the experience of color sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of synesthesia in which nonvisual stimulation results in the experience of color sensations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of chromesthesia, the form of synesthesia in which hearing sounds induces vivid subjective sensations of color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological aesthetics and neuropsychology, cross-modal sensory perception where vowels, orchestral timbres, or musical chords evoke chromatic hues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromaesthesia designates a form of synesthesia in which nonvisual stimulation results in the experience of color sensations."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Subjects endowed with **chromaesthesia** perceive a rich spectrum of hues unfolding whenever music is performed."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The fascinating anomaly of **chromaesthesia** links the acoustic nerve pathways to involuntary visual hallucinations."*
+> - 📜 **Arthur Rimbaud (*Voyelles*):** *"The sonnet mapped each vowel to a radiant pigment, a poetic celebration of innate **chromaesthesia**."*

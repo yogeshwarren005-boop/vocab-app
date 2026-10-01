@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow pterin pigment (2-amino-4,6-dihydroxypteridine) found originally in the wings of brimstone and pierid butterflies and the cuticle of wasps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bio-organic chemistry and comparative biochemistry, a heterocyclic pigment isolated by Frederick Gowland Hopkins and Heinrich Wieland, functioning as an intermediary metabolite in folic acid and biopterin synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthopterin designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **Frederick Gowland Hopkins (*Philosophical Transactions of the Royal Society*):** *"From the brilliant yellow wings of the brimstone butterfly, I extracted the crystalline pigment which we named **xanthopterin**."*
+> - 📜 **Heinrich Wieland (*Untersuchungen über die Pterine*):** *"Chemical analysis proved that **xanthopterin** contains a bicyclic pteridine ring system related to uric acid and riboflavin."*
+> - 📜 **Vincent Wigglesworth (*The Principles of Insect Physiology*):** *"The bright yellow abdominal bands of the hornet derive their warning coloration from dense granules of **xanthopterin**."*

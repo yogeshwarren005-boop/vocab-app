@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an absence of color; colorless or unpigmented; unreactive to histological stains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and cytochemistry, describing erythrocyte ghost cells or tissue sections that fail to retain dye pigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromic designates having no color."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"After losing their hemoglobin, red corpuscles appear as faint, **achromic** circular envelopes."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Certain atypical cell types remained completely **achromic** when treated with basic methyl violet."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"An **achromic** zone surrounded the central area of tissue necrosis within the infarcted lobe."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, delicate Old World babbler-like warblers in the family Cettiidae, found in the forests of South and Southeast Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, insectivorous bush warblers (such as the black-faced warbler) characterized by distinct facial markings, slender rictal bristles, and agile foraging habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Abroscopus designates a term designating an entity, condition, or phenomenon derived from greek scept."*
+> - 📜 **Eugene William Oates (*The Fauna of British India: Birds*):** *"The genus **Abroscopus** comprises diminutive warblers with bright rufous crowns and distinctive facial patterns."*
+> - 📜 **Frank Finn (*The Birds of Calcutta*):** *"In the dense bamboo undergrowth, an active **Abroscopus** flitted between shoots, gleaning tiny caterpillars from the leaves."*
+> - 📜 **Stuart Baker (*The Fauna of British India: Birds, Vol. 2*):** *"Nests of **Abroscopus** are delicately woven cups of moss tucked neatly into crevices of mossy tree trunks."*

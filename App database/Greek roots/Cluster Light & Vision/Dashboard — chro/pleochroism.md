@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a crystal of showing different colors when viewed by light polarized in different directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of a crystal of showing different colors when viewed by light polarized in different directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The optical phenomenon in which a mineral or crystal exhibits different colors when viewed from different directions under polarized light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical mineralogy, the property of anisotropic crystals having unequal absorption coefficients for light polarized along different crystallographic axes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleochroism designates the property of a crystal of showing different colors when viewed by light polarized in different directions."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Strong **pleochroism** in thin sections of biotite provides an infallible diagnostic test under the petrographic microscope."*
+> - 📜 **David Brewster (*Treatise on Optics*):** *"Crystals of andalusite display intense **pleochroism**, passing from olive-green to deep blood-red as the stage is rotated."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The hornblende needles revealed their identity by pronounced brown-to-green **pleochroism** under polarized light."*

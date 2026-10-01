@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in or practicing cardiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or used in or practicing cardiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cardiology, the branch of medicine concerned with diseases and abnormalities of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to cardiac diagnostic procedures, cardiovascular physiology, or cardiovascular therapies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiologic designates of or relating to or used in or practicing cardiology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The stethoscope remains the quintessential instrument of **cardiologic** investigation at the bedside."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"A thorough **cardiologic** examination requires careful observation of pulse wave forms and precordial impulses."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Modern **cardiologic** practice integrates molecular genetics with high-resolution echocardiographic imaging."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of european perennial herbs yielding medicinal alkaloids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of european perennial herbs yielding medicinal alkaloids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbaceous plants in the nightshade family (Solanaceae), native to Europe and East Asia, known for producing medically active tropane alkaloids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and botanical medicine, notably Scopolia carniolica (named after Italian naturalist Giovanni Antonio Scopoli), traditionally harvested as a rich source of hyoscyamine and scopolamine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopolia designates genus of european perennial herbs yielding medicinal alkaloids."*
+> - 📜 **Giovanni Antonio Scopoli (*Flora Carniolica*):** *"In shaded subalpine ravines grows the curious nightshade that botanists later designated as the genus **Scopolia**."*
+> - 📜 **William Withering (*Miscellaneous Tracts*):** *"The roots of **Scopolia** possess narcotic virtues closely akin to those of the deadly belladonna and henbane."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Cousin to the henbane and stramonium, **Scopolia** bears solitary nodding flowers followed by globose, circumscissile capsules."*

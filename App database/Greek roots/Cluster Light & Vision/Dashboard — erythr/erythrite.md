@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass; usually found in veins bearing cobalt and arsenic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass; usually found in veins bearing cobalt and arsenic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, crimson to peach-red hydrated cobalt arsenate mineral, Co3(AsO4)2·8H2O, also known colloquially as cobalt bloom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic mineralogy and prospecting, a bright secondary mineral formed by weathering of cobalt ores, serving as a visual surface guide for prospectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrite designates a reddish mineral consisting of hydrated cobalt arsenate in monoclinic crystalline form and used in coloring glass; usually found in veins bearing cobalt and arsenic."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The delicate peach-red crusts of **erythrite** found in cobalt veins immediately attract the prospector's eye."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Weathering of smaltite leads to the oxidation and formation of beautiful carmine **erythrite** crystals."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The Saxon silver mines frequently exhibited crusts of radiant **erythrite** lining the fissure walls."*

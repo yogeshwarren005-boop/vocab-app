@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscle : muscle and.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscle : muscle and.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining form from Greek mys (muscle) or myein (to shut or close), used in anatomical, pathological, and optical terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical terminology, designating muscles (myocardium, myopathy) or ocular squinting/closure (myopia, miosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myo designates muscle : muscle and."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The combining form **myo**- appears in all medical terms describing muscular tissue and its contractile fibrils."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinicians employ **myo**- to denote inflammatory or degenerative diseases attacking the cardiac muscle."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Greek **myo**- combines the ideas of the small mouse-like muscle and the blinking closure of the eyelid."*

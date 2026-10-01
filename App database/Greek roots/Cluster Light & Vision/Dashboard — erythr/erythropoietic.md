@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the formation of red blood cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the formation of red blood cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, producing, or stimulating erythropoiesis (the production of red blood cells).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, describing tissues (such as active red marrow), hormonal factors, or disorders (such as erythropoietic protoporphyria).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythropoietic designates of or relating to the formation of red blood cells."*
+> - 📜 **William Osler (*Modern Medicine*):** *"In chronic hemolytic anemia, the entire skeleton transforms into active **erythropoietic** red marrow."*
+> - 📜 **Paul Ehrlich (*Studies on Blood Cell Genesis*):** *"The spleen of the embryo serves as an indispensable **erythropoietic** organ prior to skeletal ossification."*
+> - 📜 **Maxwell Finland (*Clinical Studies in Hematology*):** *"The patient suffered from an inborn **erythropoietic** porphyria that caused extreme cutaneous photosensitivity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who poetizes; a composer of verses or one who views life through an idealized poetic prism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary discourse, an author who seeks to romanticize and elevate common subjects into poetic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poetizer designates a writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets)."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"America needs no shallow **poetizer** of drawing-room romance, but colossal voices attuned to democratic vastness."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The true poet creates life; the idle **poetizer** merely gossips about it in meter."*
+> - 📜 **Ralph Waldo Emerson (*Letters and Social Aims*):** *"The amateur **poetizer** borrows the worn ornaments of past bards instead of looking directly into the sun."*

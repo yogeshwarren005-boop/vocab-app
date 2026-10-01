@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something many people believe that is false.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fiction with a large amount of imagination in it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older, literary spelling of fantasy; unrestrained imagination, visionary reverie, or a fantastic mental creation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romantic poetics and early psychology, the intuitive creative power that combines memory images into original artistic visions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Nor a spot More fit to stir the poet's phantasy; Grey Old Man of the Mountain, awfully There, from thy wreath of clouds thou dost uprear Those features grand,--the same eternally!"*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This phantasy was probably suggested by the near proximity of the Governor’s red roses, as Pearl stood outside of the window, together with her recollection of the prison rose-bush, which she had passed in coming hither."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Yet must I think less wildly: I HAVE thought Too long and darkly, till my brain became, In its own eddy boiling and o'erwrought, A whirling gulf of phantasy and flame: And thus, untaught in youth my heart to tame, My springs of life were poisoned."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"I separated Fancy from the higher creative Imagination, relegating the former to the play of **phantasy**."*
+> - 📜 **John Keats (*Endymion*):** *"A thousand dreams of radiant **phantasy** hovered around his slumbering head."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Man's body itself is but a garment woven by **phantasy** upon the loom of time."*

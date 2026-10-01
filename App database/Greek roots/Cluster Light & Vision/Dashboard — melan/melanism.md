@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increased amount of black or nearly black pigmentation (as of skin, feathers, or hair) of an individual or kind of organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense human pigmentation of the skin, eyes, and hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unusual darkening of body tissues caused by excessive development of melanin pigment, resulting in dark or black animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, adaptive darkening (such as industrial melanism in *Biston betularia*) demonstrating natural selection in changing environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanism designates an increased amount of black or nearly black pigmentation (as of skin, feathers, or hair) of an individual or kind of organism."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Black panthers are well-known examples of **melanism** occurring within the ordinary spotted leopard species."*
+> - 📜 **E. B. Ford (*Ecological Genetics*):** *"The spread of industrial **melanism** in moths provided the first quantitative demonstration of rapid natural selection in the wild."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"Complete **melanism** often confers concealment in dense, shaded forests where light scarcely penetrates."*

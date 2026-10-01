@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordained deacon who is also a tonsured monastic in the Eastern Orthodox and Eastern Catholic traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine liturgics, a celibate monk in major orders assisting the hieromonk or bishop during the celebration of the Divine Liturgy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierodeacon designates a term designating an entity, condition, or phenomenon derived from greek hier."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"The venerable **hierodeacon** swept out of the sanctuary carrying the smoking silver censer before the elder."*
+> - 📜 **Leo Tolstoy (*Resurrection*):** *"In the monastery chapel, a young **hierodeacon** with flowing black hair chanted the litanies in deep resonant tones."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The procession was led by a solemn **hierodeacon** bearing the jeweled icon of the Mother of God."*

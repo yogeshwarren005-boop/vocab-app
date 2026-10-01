@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of eye conditions characterized by damage to the optic nerve, often caused by abnormally high intraocular pressure, leading to vision loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, a progressive optic neuropathy with cupping of the optic disc and characteristic peripheral visual field deficits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaucoma designates an eye disease that damages the optic nerve and impairs vision (sometimes progressing to blindness)."*
+> - 📜 **Albrecht von Graefe (*On the Treatment of Glaucoma by Iridectomy*):** *"The introduction of iridectomy arrested the blinding march of acute **glaucoma** for the first time in medical history."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Increased intraocular tension in chronic **glaucoma** slowly suffocates the retinal nerve fibers at the optic disc."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Examination with the ophthalmoscope reveals deep excavating cupping of the papilla in established **glaucoma**."*

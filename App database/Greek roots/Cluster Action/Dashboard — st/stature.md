@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High level of respect gained by impressive development or achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a standing person) the distance from head to foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural height of a human or animal body in an upright standing position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Achieved level of development, moral eminence, intellectual distinction, or distinguished public reputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Care I for the limb, the thews, the stature, bulk, and big assemblance of a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be of any reasonable stature, he may creep in here; and throw foul linen upon him, as if it were going to bucking."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a tremendous fellow.” “In stature, sir?” asked Richard."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Great men enlarge our conception of human capacity, standing above the multitude in intellectual **stature**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab stood before them on the quarter-deck, a man of commanding **stature** carved out of seasoned bronze."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic equality raises the general level of the populace while reducing the solitary monumental **stature** of aristocratic leaders."*

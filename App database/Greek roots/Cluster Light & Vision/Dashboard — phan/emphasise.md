@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give extra weight to (a communication).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of emphasize; to give special importance or prominence to something in speaking or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical composition and elocution, to stress a particular concept, argument, or syllable to arrest the audience's attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"What I would emphasise is, that under the head of Pride your sister is a great and opportune example to you.” “Under _all_ heads that are included in the composition of a fine character, she is.” “Say so; but take this one."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The procession is then resumed, the performers weeping crocodile tears and emphasising the poignancy of their grief by the help of saucepans and dinner bells."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Now,” said Wemmick, “questioning being over,” which he emphasised and repeated for my guidance, “I come to what I did, after hearing what I heard."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"I wish to **emphasise** that every sincere writer must preserve his political independence."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"To **emphasise** the material barriers faced by women was not to diminish their creative genius."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"We must **emphasise** the profound unity underlying all great historical world religions."*

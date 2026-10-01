@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing something with a symbol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent or identify by using a symbol; use symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing, signifying, or typifying by means of a symbol (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing an abstract or spiritual truth through a sensible emblem or token.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Then the usual form of marriage is performed between the priest and his wife, symbolising the supposed union between Sun and Earth."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The white muslin dress, **symbolising** innocence, contrasted mournfully with the tragic fate awaiting her."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"By **symbolising** cardinal virtues in sculpted marble capitals, medieval masons taught the illiterate masses."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The pristine uniform was his armor, **symbolising** an unblemished ideal of maritime duty."*

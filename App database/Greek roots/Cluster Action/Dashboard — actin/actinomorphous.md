@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of division into symmetrical halves by any longitudinal plane passing through the axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of division into symmetrical halves by any longitudinal plane passing through the axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radially symmetrical in form; capable of bisection into symmetrical halves along more than one longitudinal plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological systematics, possessing a radially disposed, regular anatomical plan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomorphous designates capable of division into symmetrical halves by any longitudinal plane passing through the axis."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Coelenterate bodies are typically **actinomorphous**, organized circularly around the central digestive axis."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The five petals form an **actinomorphous** whorl whose uniform segments expand evenly toward the sun."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Radiolarian skeletons showcase breathtaking **actinomorphous** geometry sculpted in pure biogenic opal."*

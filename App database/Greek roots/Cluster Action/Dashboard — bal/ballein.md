@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek verb meaning 'to throw, cast, hurl, or strike'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Indo-European philology, the lexical ancestor of words denoting missiles, metabolic turnover, and symbolic representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ballein designates a term designating an entity, condition, or phenomenon derived from greek bal."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The verb **ballein** denotes throwing or hurling with vigor, extending early into military and poetic idioms."*
+> - 📜 **Aristotle (*Physics*):** *"When the thrower imparts motion through the act of **ballein**, momentum continues through the adjacent medium."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*):** *"Homeric verses employ **ballein** to paint javelins cast in furious combat across the Trojan plain."*

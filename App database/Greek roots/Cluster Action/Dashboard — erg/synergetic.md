@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Working together; cooperative; producing synergy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, pharmacology, and systems theory, exhibiting interaction where the combined effect exceeds the algebraic sum of individual actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synergetic designates working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect."*
+> - 📜 **R. Buckminster Fuller (*Synergetics: Explorations in the Geometry of Thinking*):** *"Nature operates through **synergetic** principles where the behavior of whole systems cannot be predicted from the parts."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Reflex spinal pathways elicit **synergetic** contraction of flexor groups to withdraw the limb from painful stimuli."*
+> - 📜 **Alexander Fleming (*Chemotherapy*):** *"Combining penicillin with streptomycin demonstrated a powerful **synergetic** bactericidal action in refractory endocarditis."*

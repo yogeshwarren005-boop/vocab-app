@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lamp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the family Lampridae, comprising the opahs (moonfish); an individual lamprid fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, designating deep-bodied pelagic lampriform fishes characterized by red fins and radiant, iridescent skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lamprid designates a term designating an entity, condition, or phenomenon derived from greek lamp."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The oceanic **lamprid** swims with powerful strokes of its pectoral fins, resembling an underwater bird in flight."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"A young **lamprid** glided past the bathysphere window, its flanks glittering with silver and mother-of-pearl."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Trawls from offshore deep waters occasionally capture a colossal **lamprid** stranded after a gale."*

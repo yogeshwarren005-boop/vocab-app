@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exhibiting two colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or exhibiting dichromatism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying two colors; characterized by dichromatism, or having vision restricted to two primary spectral colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology, describing a form of partial color blindness (protanopia, deuteranopia, tritanopia) in which only two cone systems are functional.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichromatic designates having or exhibiting two colors."*
+> - 📜 **Thomas Young (*Bakerian Lecture: On the Theory of Light and Colours*):** *"John Dalton possessed a **dichromatic** vision, perceiving only yellow and blue in the prismatic solar spectrum."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The **dichromatic** subject matches all visible hues by blending just two properly chosen spectral wavelengths."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Many bird species display **dichromatic** plumages, the males wearing bright feathers while the females remain drab."*

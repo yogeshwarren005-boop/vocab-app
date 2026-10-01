@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ergonomics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ergonomics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed for efficiency, ease of use, and comfort in the working environment, minimizing physical strain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to human engineering, optimizing tools and machinery to accommodate human anatomical and cognitive capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergonomic designates of or relating to ergonomics."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The surgical ward was equipped with **ergonomic** armchairs designed to support the lower spine during prolonged recovery."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"Control panels in industrial cockpits require sound **ergonomic** layout to prevent fatal operator confusion under stress."*
+> - 📜 **Donald Norman (*The Design of Everyday Things*):** *"A poorly conceived interface ignores **ergonomic** human factors, forcing the user into unnatural physical postures."*

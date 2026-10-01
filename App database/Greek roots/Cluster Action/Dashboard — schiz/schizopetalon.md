@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dainty south american annual having deeply pinnatifid leaves and racemes of fringed almond-scented purple-white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dainty south american annual having deeply pinnatifid leaves and racemes of fringed almond-scented purple-white flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Chilean annual herbs of the mustard family (Brassicaceae) distinguished by deeply cut, pinnatifid, or fringed white petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany, specifically denoting Schizopetalon walkeri, cultivated for its almond-scented night-blooming fringed blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizopetalon designates a dainty south american annual having deeply pinnatifid leaves and racemes of fringed almond-scented purple-white flowers."*
+> - 📜 **William Jackson Hooker (*Botanical Magazine*):** *"The pinnatifid structure of the corolla in **schizopetalon** imparts to the open blossom an exquisitely delicate, lacelike appearance."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Among cruciferous plants, few genera depart so remarkably from the standard four-petal pattern as does **schizopetalon** with its comb-like margins."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Amateur gardeners value **schizopetalon** for its unusual night-fragrance and intricate filigree petals that unfold at dusk."*

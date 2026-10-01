@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek melan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited pigmentation deficiency characterized by the specific absence of pheomelanin (reddish-yellow melanin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian and mammalian coat color genetics, a condition where animals retain normal black eumelanin but lack buff, rufous, or chestnut hues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeomelanism designates a term designating an entity, condition, or phenomenon derived from greek melan."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The aberrant sparrow specimen exhibited **aphaeomelanism**, its plumage displaying cold slate and black without warm buff."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Geographic races occasionally undergo **aphaeomelanism**, resulting in localized gray color phases across arid basins."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Mutations causing **aphaeomelanism** alter the biochemical sulfhydryl incorporation pathway in follicular melanocytes."*

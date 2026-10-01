@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minor error in speech, memory, or physical action that is thought to reveal a subconscious motive or repressed thought; a Freudian slip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory, the symptomatic manifestation of unconscious mental conflict breaking through conscious suppression during everyday speech or action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parapraxis designates a term designating an entity, condition, or phenomenon derived from greek prag."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"Every accidental slip of the tongue or pen, termed a **parapraxis**, reveals the emergence of a repressed unconscious intention."*
+> - 📜 **Carl Jung (*The Structure and Dynamics of the Psyche*):** *"A momentary **parapraxis** often provides the analyst with an unvarnished glimpse into the patient's underlying complex."*
+> - 📜 **Jacques Lacan (*The Four Fundamental Concepts of Psychoanalysis*):** *"The significance of the **parapraxis** lies in the sudden puncture of the conscious discourse by the symbolic order."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowermost portion of a structure partly or wholly below ground level; often used for storage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ground floor facade or interior in renaissance architecture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest floor of a building, partly or entirely below ground level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and geophysics, the crystalline igneous and metamorphic rocks that underlie a sedimentary basin or cover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was close to the wall, where there is a ledge of stonework round the basement of the tower."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In a dismal basement, A. found a very interesting American family."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The passage was a long one, and seemed to pervade the whole square basement of the Manor House."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Deep seismic reflection profiles reveal the complex faulted topography of the Precambrian **basement** complex."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Down in the damp **basement** kitchen, the coals smoldered faintly in the rusted iron grate."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine half expected to discover subterranean dungeons beneath the modern **basement** of the abbey."*

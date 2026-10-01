@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practical approach to problems and affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An American movement in philosophy founded by C. S. Peirce and William James and marked by the doctrines that the meaning of conceptions is to be sought in their practical bearings, that the function of thought is to guide action, and that truth is preeminently to be tested by the practical consequences of belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosophical movement holding that the meaning and truth of beliefs or concepts are to be evaluated by their practical outcomes and consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practical approach to problems and affairs, oriented toward realistic achievements rather than rigid ideological doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Dollop, the spirited landlady of the Tankard in Slaughter Lane, who had often to resist the shallow pragmatism of customers disposed to think that their reports from the outer world were of equal force with what had “come up” in her mind."*
+> - 📜 **William James (*Pragmatism*):** *"**Pragmatism** unstiffens all our theories, limbers them up, and sets each one at work."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"To establish the meaning of an intellectual concept, one must consider what practical consequences it involves; this doctrine is **pragmatism**."*
+> - 📜 **John Dewey (*The Quest for Certainty*):** *"**Pragmatism** redefines philosophy as an active instrument for clarifying human problems and directing social inquiry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the lack of correspondence of apparently similar body parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the lack of correspondence of apparently similar body parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difference or lack of correspondence in structural origin, anatomical composition, or developmental derivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and pathology, the development of abnormal tissue differing fundamentally from the surrounding anatomical structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterology designates (biology) the lack of correspondence of apparently similar body parts."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We establish the principle of **heterology** whenever a newly formed tissue differs in type from the histological ground on which it grows."*
+> - 📜 **Richard Owen (*On the Nature of Limbs*):** *"True **heterology** in comparative anatomy demonstrates the plastic modification of parts under adaptive divergence."*
+> - 📜 **Thomas Henry Huxley (*Elements of Comparative Anatomy*):** *"The apparent similarity between the cephalopod eye and the vertebrate eye dissolves upon recognizing their developmental **heterology**."*

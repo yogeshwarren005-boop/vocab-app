@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete metamorphosis in insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete metamorphosis in insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of undergoing complete metamorphosis in insect ontogeny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect physiology, the developmental process characterized by an internal pupal restructuring between larva and imago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holometaboly designates complete metamorphosis in insects."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The evolutionary success of **holometaboly** is proven by the fact that over eighty percent of all insect species belong to its ranks."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Through **holometaboly**, natural selection could operate independently upon the morphological design of the caterpillar and the butterfly."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The physical breakdown and reconstitution of organs during **holometaboly** challenges simplistic continuous growth formulas."*

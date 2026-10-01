@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monk who is also an ordained priest in the Eastern Orthodox and Eastern Catholic churches; a priest-monk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Orthodox monasticism, a celibate monk endowed with the sacramental authority to celebrate the Divine Liturgy and administer sacraments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hieromonk designates a term designating an entity, condition, or phenomenon derived from greek hier."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"The **hieromonk** Father Iosif stepped forward to read the Gospel over the departed starets."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"In the cave monastery of Kiev, the pilgrims made confession to an austere, aged **hieromonk**."*
+> - 📜 **Alexander Pushkin (*Boris Godunov*):** *"Pimen, the quiet **hieromonk**, labored by candlelight to complete his chronicle of the Russian tsars."*

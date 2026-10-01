@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The initial stage of mitosis and of the mitotic division of meiosis characterized by the condensation of chromosomes consisting of two chromatids, disappearance of the nucleolus and nuclear membrane, and formation of mitotic spindle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The initial stage of the first division of meiosis in which the chromosomes become visible, homologous pairs of chromosomes undergo synapsis and crossing over, chiasmata appear, chromosomes condense with homologues visible as tetrads, and the nuclear membrane and nucleolus disappear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first stage of cell division (mitosis or meiosis), during which chromatin condenses into distinct chromosomes and the nuclear envelope disintegrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology and molecular genetics, the initial mitotic phase where duplicated centrosomes separate and initiate spindle formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prophase designates the initial stage of mitosis and of the mitotic division of meiosis characterized by the condensation of chromosomes consisting of two chromatids, disappearance of the nucleolus and nuclear membrane, and formation of mitotic spindle."*
+> - 📜 **Walther Flemming (*Zellsubstanz, Kern und Zelltheilung*):** *"In early **prophase**, the diffuse nuclear network condenses into distinct, dark-staining chromatin skeins."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"During **prophase**, the nucleolus dissolves and the centrosomes migrate to establish the bipolar spindle."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Homologous chromosomes pair lengthwise during the extended meiotic **prophase**, permitting crossing over."*

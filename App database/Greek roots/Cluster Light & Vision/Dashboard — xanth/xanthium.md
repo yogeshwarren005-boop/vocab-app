@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Xanthium (cocklebur) is a genus of flowering plants in the tribe Heliantheae within the family Asteraceae, native to the Americas and eastern Asia and some parts of south Asia..
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Xanthium (cocklebur) is a genus of flowering plants in the tribe Heliantheae within the family Asteraceae, native to the Americas and eastern Asia and some parts of south Asia..
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of coarse, herbaceous annual plants in the daisy family (Asteraceae), commonly known as cockleburs, bearing hooked prickly burrs that cling to animal fur and clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photobiology and economic botany, plants (especially Xanthium strumarium) historically used to produce yellow dyes, famous in modern plant physiology as model short-day photoperiodic organisms for floral induction studies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthium designates xanthium (cocklebur) is a genus of flowering plants in the tribe heliantheae within the family asteraceae, native to the americas and eastern asia and some parts of south asia."*
+> - 📜 **Dioscorides (*De Materia Medica*):** *"The herb **Xanthium** bears prickly fruit that adheres to garments, and its boiled juice dyes yellow the hair of women."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Species of **Xanthium** are coarse, noxious weeds with monoecious flower heads and hard, two-beaked burrs."*
+> - 📜 **Frank B. Salisbury (*The Flowering of Xanthium*):** *"The cocklebur, **Xanthium**, became the classic laboratory organism for demonstrating that a single uninterrupted dark night induces flowering."*

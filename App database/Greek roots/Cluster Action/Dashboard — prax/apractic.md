@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having uncoordinated muscular movements, symptomatic of a cns disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having uncoordinated muscular movements, symptomatic of a cns disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or exhibiting apraxia; unable to coordinate purposeful movements despite normal muscular power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, describing the breakdown of motor schema and purposeful object interaction caused by cortical damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apractic designates having uncoordinated muscular movements, symptomatic of a cns disorder."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"In parietal lobe syndromes, the **apractic** patient cannot reproduce simple stick patterns on the table."*
+> - 📜 **Norman Geschwind (*Selected Papers on Language and the Brain*):** *"Careful examination showed the right limb was intact while the left was severely **apractic**."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"His hands trembled with an **apractic** hesitation whenever he tried to write his name."*

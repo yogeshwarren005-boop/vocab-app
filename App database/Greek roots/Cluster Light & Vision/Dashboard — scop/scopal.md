@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to scope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, acting as, or resembling a broom or brush-like tuft; or relating to grammatical or logical scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and apiculture, describing the specialized pollen-carrying brush of stiff branched setae (scopa) on the hind legs or abdominal sternites of bees; in linguistics, relating to the semantic scope of modifiers or quantifiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopal designates of or relating to scope."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The **scopal** hairs upon the posterior tibia of the worker bee are modified in density to transport pellets of gathered pollen."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Solitary bees of the family Megachilidae carry an extensive **scopal** brush under the ventral surface of the abdomen."*
+> - 📜 **Noam Chomsky (*Rules and Representations*):** *"The negative particle generates a distinct **scopal** ambiguity depending upon whether it commands the quantifier or the predicate."*

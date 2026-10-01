@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by priests or religious leaders; rule by an ecclesiastical caste; theocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative political science, a state whose civil laws and administrative apparatus are subordinate to clerical authority (e.g. ancient Thebes or Tibet).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierocracy designates a term designating an entity, condition, or phenomenon derived from greek hier."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"A powerful **hierocracy** seeks to monopolize the distribution of spiritual grace while subjecting civil rulers to its moral censure."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The pontiffs of ancient Rome established a mild **hierocracy** that regulated every public act by augural omens."*
+> - 📜 **Henry Adams (*Mont-Saint-Michel and Chartres*):** *"The medieval papacy under Innocent III realized the grandest **hierocracy** ever conceived in western Christendom."*

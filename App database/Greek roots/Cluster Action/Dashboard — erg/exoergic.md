@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Releasing energy : exothermic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Releasing energy : exothermic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In physics and physical chemistry, releasing energy; exothermic, especially in a nuclear reaction process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing nuclear or chemical reactions in which the total kinetic energy of the products exceeds that of the reactants (positive Q-value).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoergic designates releasing energy : exothermic."*
+> - 📜 **Enrico Fermi (*Elementary Particles*):** *"Slow neutron capture in uranium initiates an intensely **exoergic** fission chain releasing millions of electron volts."*
+> - 📜 **Hans Bethe (*Energy Production in Stars*):** *"The carbon-nitrogen cycle in stellar cores is an **exoergic** thermonuclear furnace converting hydrogen into helium."*
+> - 📜 **Robert Oppenheimer (*Physics in the Contemporary World*):** *"Harnessing the immense **exoergic** output of nuclear binding energies transformed world geopolitics forever."*

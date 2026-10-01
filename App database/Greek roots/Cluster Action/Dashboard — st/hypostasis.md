@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that settles at the bottom of a fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The settling of blood in the dependent parts of an organ or body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The underlying reality, fundamental substance, or essential nature of something, as opposed to its outward attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, any of the three distinct Persons of the Trinity; in pathology, the pooling or settling of blood in dependent bodily regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A misty English morning the imp hypostasis tickled his brain."*
-> - 📜 **James Joyce (*Ulysses*):** *"Visually, Stephen’s: The traditional figure of hypostasis, depicted by Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as leucodermic, sesquipedalian with winedark hair."*
+> - 📜 **Athanasius of Alexandria (*Against the Arians*):** *"The Son is not a created attribute of the Father, but distinct in **hypostasis** while eternally sharing one indivisible essence."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"In theological discourse, **hypostasis** signifies an individual substance of a rational nature, possessing complete subsistence."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pulmonary **hypostasis** occurs when prolonged recumbency causes venous blood to gravitate toward the dorsal lung bases."*

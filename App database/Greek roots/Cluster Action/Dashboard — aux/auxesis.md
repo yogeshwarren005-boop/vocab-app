@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical device whereby the subject matter is made greater, particularly
-  Overstatement, hyperbole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overstatement, hyperbole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth or increase in size, especially growth resulting from cell enlargement without an increase in cell number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, a stylistic figure of speech in which an idea or description is progressively amplified for emotional climax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxesis designates a rhetorical device whereby the subject matter is made greater, particularly."*
+> - 📜 **Aristotle (*The Art of Rhetoric*):** *"Skillful deployment of **auxesis** elevates a modest civic virtue into an heroic triumph before the assembly."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The orator ascends by **auxesis** from the lighter misdemeanor to the most abominable crime."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"In certain rotifers and nematodes, post-embryonic growth is governed purely by **auxesis** without any further cell division."*

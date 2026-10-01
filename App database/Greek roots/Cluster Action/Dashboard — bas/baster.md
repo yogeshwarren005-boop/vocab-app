@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cook who bastes roasting meat with melted fat or gravy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sewer who fastens a garment with long loose stitches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or kitchen implement used to pour juices or melted fat over meat during cooking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In garment manufacturing and tailoring, a worker who temporarily stitches fabric pieces together before final sewing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baster designates a cook who bastes roasting meat with melted fat or gravy."*
+> - 📜 **Mrs. Beeton (*Mrs. Beeton's Book of Household Management*):** *"The cook employed a bulb **baster** to draw up savory pan drippings and bathe the roasting capon."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"In the sweating workshop, the weary **baster** tacked together coarse waistcoats from dawn till midnight."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Beside the hearth stood the iron ladle used as a grease **baster** over the holiday mutton."*

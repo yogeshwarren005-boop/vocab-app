@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force or intensity of expression that gives impressiveness or importance to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular prominence given in reading or speaking to one or more words or syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Special importance, value, or prominence given to something; stress laid upon a word or syllable in speaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and typography, the deliberate highlighting of a statement via vocal inflection, italics, or structural positioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be choked with such another emphasis!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. [_Advancing._] What is he whose grief Bears such an emphasis? whose phrase of sorrow Conjures the wand’ring stars, and makes them stand Like wonder-wounded hearers?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius lets nobody either into the garden or into the castle," Apollonie repeated with great emphasis."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Shakspeare places his **emphasis** with such sovereign right that every phrase becomes immortal."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Too frequent **emphasis** in speech weakens authority, like a page printed entirely in capital letters."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The orator pronounced the word treason with terrible **emphasis**, causing the house to hold its breath."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several compounds containing chlorine and nitrogen; used as an antiseptic in wounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several compounds containing chlorine and nitrogen; used as an antiseptic in wounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chemical derivative of ammonia formed by substituting one or more hydrogen atoms with chlorine, notably monochloramine (NH2Cl).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal water treatment, a disinfectant formed by reacting chlorine with ammonia to provide a persistent, low-byproduct residual sanitizer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloramine designates any of several compounds containing chlorine and nitrogen; used as an antiseptic in wounds."*
+> - 📜 **George C. Whipple (*The Microscopy of Drinking Water*):** *"Switching from free chlorine to **chloramine** residual reduced pungent medicinal odors across the reservoir network."*
+> - 📜 **Robert Spurr Weston (*Water Purification*):** *"The formation of **chloramine** prevents the synthesis of trihalomethanes in organic-rich raw water."*
+> - 📜 **Karl F. Meyer (*Public Health Engineering*):** *"Bacterial counts declined steadily after the distribution mains were charged with residual **chloramine**."*

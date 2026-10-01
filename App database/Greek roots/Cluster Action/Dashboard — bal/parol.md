@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Word of mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Word of mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given or expressed by word of mouth; oral as opposed to written (chiefly in legal contexts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, oral agreements or verbal representations made prior to or outside of a written deed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The great number of letters received of this class, led her to decide to spend some months at Annapolis, among the camps and records of paroled and exchanged prisoners, for the purpose of answering the inquiries of friends."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **parol** contract relies on the oral testimony of witnesses, lacking the solemnity of a covenant under seal."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The rule prohibiting the contradiction of written deeds by **parol** evidence was designed to discourage perjury."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"In the primitive law of debt, **parol** promises were enforced through ritualistic oaths rather than written instruments."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of language use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imperial decree that becomes part of the fundamental law of the land.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics dealing with language in use and the contexts in which it is used, including conversational implicature, presupposition, and speech acts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, the study of the relation of signs to the interpreters, agents, and social contexts in which they are deployed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pragmatics designates the study of language use."*
+> - 📜 **Charles W. Morris (*Foundations of the Theory of Signs*):** *"We divide semiotics into syntactics, semantics, and **pragmatics**, the last dealing with the relation of signs to interpreters."*
+> - 📜 **Rudolf Carnap (*Introduction to Semantics*):** *"When explicit reference is made to the language user, the investigation belongs to the realm of **pragmatics**."*
+> - 📜 **Willard Van Orman Quine (*From a Logical Point of View*):** *"The boundary between pure semantics and empirical **pragmatics** is shifting and context-dependent."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing partial or incomplete metamorphosis; synonymous with hemimetabolic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological biochemistry, exhibiting varying, alternative, or anomalous metabolic pathways under environmental stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterometabolic designates (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"We classify grasshoppers and mantids as **heterometabolic** insects due to their progressive external wing development."*
+> - 📜 **Hans Krebs (*Energy Transformations in Living Matter*):** *"Facultative anaerobes adopt a **heterometabolic** lifestyle, shifting between oxidative respiration and glycolysis."*
+> - 📜 **Arthur D. Imms (*Textbook of Entomology*):** *"The **heterometabolic** nymph requires no protective cocoon, maintaining active locomotion throughout ontogeny."*

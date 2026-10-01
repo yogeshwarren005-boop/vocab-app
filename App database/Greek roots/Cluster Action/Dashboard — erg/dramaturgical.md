@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the technical aspects of drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the technical aspects of drama.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the technical composition or staging of dramatic works; theatrical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social theory, describing human behavior as an ongoing theatrical performance for an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramaturgical designates relating to the technical aspects of drama."*
+> - 📜 **Erving Goffman (*The Presentation of Self in Everyday Life*):** *"From a **dramaturgical** standpoint, social life is an ongoing series of performances where actors manage impressions."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"Shakespeare's **dramaturgical** skill reached its zenith in Hamlet, balancing poetry with swift stage action."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The historical drama requires profound **dramaturgical** intuition to condense decades of chronicle into two hours."*

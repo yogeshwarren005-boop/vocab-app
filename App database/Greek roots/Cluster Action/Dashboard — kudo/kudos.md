@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise given for achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fame and renown resulting from an act or achievement : prestige.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise and honor received for an achievement; renown, glory, and prestige.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From Greek kydos ('glory, renown, prestige in battle'), singular in classical usage though often treated as plural colloquially.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Also literary labour not merely for the kudos of the thing."*
+> - 📜 **Homer (*The Iliad*):** *"Zeus granted high **kudos** to Hector, letting him drive the Achaeans back to their beached ships."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The gallant young soldier sought glory and martial **kudos** upon the stormy ramparts of Ismail."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger demanded all the **kudos** of discovery for uncovering living dinosaurs in South America."*

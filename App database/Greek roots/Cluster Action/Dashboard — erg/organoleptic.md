@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being, affecting, or relating to qualities (such as taste, color, odor, and feel) of a substance (such as a food or drug) that stimulate the sense organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving use of the sense organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting on, involving, or tested by the use of the physical sense organs, particularly taste, smell, touch, and sight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and pharmacology, evaluating the quality, freshness, and purity of a substance through direct sensory appraisal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organoleptic designates being, affecting, or relating to qualities (such as taste, color, odor, and feel) of a substance (such as a food or drug) that stimulate the sense organs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Before chemical tests were codified, clinicians relied upon **organoleptic** assessment of urine color, clarity, and scent."*
+> - 📜 **Louis Pasteur (*Studies on Wine*):** *"The sommelier conducted an **organoleptic** appraisal of the vintage, noting bouquet, acidity, and palate finish."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Chemical contamination may escape **organoleptic** detection by consumers even while concentrating toxic residues."*

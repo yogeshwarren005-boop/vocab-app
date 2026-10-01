@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to poetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or befitting poetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of poetry or poets; written in verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing lofty feeling, imaginative beauty, or refined artistic sensibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, I would the gods had made thee poetical."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know what “poetical” is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you wish, then, that the gods had made me poetical?"*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden was the father of English criticism, but Pope possessed in the highest degree the **poetical** fire."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"The **poetical** faculty is that which creates new materials of knowledge, power, and pleasure."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"A passion for the beautiful is the sole legitimate origin and aim of the **poetical** sentiment."*

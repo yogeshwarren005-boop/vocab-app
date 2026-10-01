@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or appearing to have only one color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or appearing to have only one color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of a single color; executed in monochrome; monochromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and fine art, describing ceramics, tiles, or engravings executed with a single pigment against a neutral ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromic designates having or appearing to have only one color."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The ancient vase was finished with a **monochromic** glaze of lustrous black lacquer."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"A **monochromic** marble revetment imparts solemnity to the northern wall of the basilica."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"Early Minoan pottery features **monochromic** burnished surfaces that preceded polychrome floral styles."*

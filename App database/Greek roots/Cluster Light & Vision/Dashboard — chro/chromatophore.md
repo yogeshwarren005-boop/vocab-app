@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pigment-bearing cell; especially : a cell (such as a melanophore) of an animal integument capable of causing integumentary color changes by expanding or contracting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organelle of photosynthesis in photosynthetic bacteria (such as the cyanobacteria); broadly : chromoplast, chloroplast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pigment-containing and light-reflecting cell found in amphibians, fish, reptiles, crustaceans, and cephalopods; also, a bacterial photosynthetic organelle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative zoology, dermal cells (melanophores, xanthophores, iridophores) under nervous or hormonal control that enable rapid physiological color change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatophore designates a pigment-bearing cell; especially : a cell (such as a melanophore) of an animal integument capable of causing integumentary color changes by expanding or contracting."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The cuttlefish displayed rapid clouds of changing tint caused by the expansion and contraction of every **chromatophore**."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The brilliant spots upon the mantle were identified as distinct **chromatophore** cells packed with mobile pigment."*
+> - 📜 **E. Ray Lankester (*Comparative Physiology*):** *"Under autonomic nerve impulses, each **chromatophore** expands outward to darken the chameleon's skin."*

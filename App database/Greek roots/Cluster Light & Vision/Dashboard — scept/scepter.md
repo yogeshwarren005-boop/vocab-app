@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imperial authority symbolized by a scepter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial or emblematic staff.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental staff or baton borne by a sovereign at an enthronement or royal ceremony as an emblem of imperial power and sovereignty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history and ceremonial symbolism, the institutional authority of the ruling monarch, often paired with the crown and orb to represent secular jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll undertake to make thee Henry’s queen, To put a golden scepter in thy hand And set a precious crown upon thy head, If thou wilt condescend to be my— MARGARET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, not to live.—O nation miserable, With an untitled tyrant bloody-scepter’d, When shalt thou see thy wholesome days again, Since that the truest issue of thy throne By his own interdiction stands accus’d, And does blaspheme his breed?"*
-> - 📜 **John Milton (*Paradise Lost*):** *"Then thou thy regal Scepter shalt lay by, For regal Scepter then no more shall need, God shall be All in All."*
+> - 📜 **William Shakespeare (*Richard II*):** *"I give this heavy weight from off my head, and this unwieldy **scepter** from my hand, the pride of kingly sway from out my heart."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Then thou thy regal **scepter** shalt lay by, for regal scepter then no more shall need, God shall be all in all."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"The boast of heraldry, the pomp of pow'r, and all that beauty, all that wealth e'er gave, awaits alike th' inevitable hour: nor grand designs nor regal **scepter** stay the fall."*

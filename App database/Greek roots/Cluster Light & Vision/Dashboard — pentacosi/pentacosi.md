@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pentacosi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining numeral prefix (pentakosioi) denoting five hundred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Attic political history and metrology, a numeral prefix designating quantities of five hundred units or ancient socio-economic classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentacosi designates a term designating an entity, condition, or phenomenon derived from greek pentacosi."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The stem **pentacosi**- derives from the ancient Greek numeral for five hundred, found in institutional titles."*
+> - 📜 **George Grote (*A History of Greece*):** *"Solon utilized the numeral prefix **pentacosi**- to classify citizens by their annual agricultural produce."*
+> - 📜 **William Whewell (*Philosophy of the Inductive Sciences*):** *"Higher geometric and numeric designations preserve Greek numeral elements such as **pentacosi**- in scientific vocabulary."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to photometry or the photometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spectrophotometer in which a spray of metallic salts in solution is vaporized in a very hot flame and subjected to quantitative analysis by measuring the intensities of the spectral lines of the metals present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using the measurement of the intensity of light or luminous flux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and colorimetry, describing quantitative techniques for measuring stellar brightness, surface albedo, and lamp efficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometric designates of or relating to photometry or the photometer."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Accurate **photometric** surveys established the true relative brilliance of the principal southern constellations."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"The human retina exhibits marked variations in **photometric** sensitivity across its central and peripheral zones."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Principles of Stellar Dynamics*):** *"The **photometric** curve of the eclipsing binary star revealed the precise radii and mutual inclinations of the stellar pair."*

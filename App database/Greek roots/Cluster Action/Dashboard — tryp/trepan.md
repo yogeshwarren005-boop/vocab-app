@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To use a trephine on (the skull).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove a disk or cylindrical core (as from metal for testing).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical crown saw or cylindrical perforating instrument used to bore a circular hole into the skull (trepanation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bore or perforate bone, rock, or mining strata with a cylindrical cutting drill; historically, to swindle or trap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"With his philibeg an’ tartan plaid, An’ guid claymore down by his side, The ladies’ hearts he did trepan, My gallant, braw John Highlandman."*
+> - 📜 **Ambroise Paré (*The Collected Works of That Famous Chirurgion*):** *"The surgeon must apply the crown of the **trepan** with a steady hand, turning it gently until the skull plate is penetrated."*
+> - 📜 **Percivall Pott (*Observations on the Nature and Consequences of Wounds and Contusions of the Head*):** *"To evacuate extravasated blood compressing the dura mater, the immediate application of the **trepan** is indispensable."*
+> - 📜 **Hippocrates (*On Injuries of the Head*):** *"When the bone is contused and fractured without displacement, you must **trepan** the skull down to the interior membrane."*

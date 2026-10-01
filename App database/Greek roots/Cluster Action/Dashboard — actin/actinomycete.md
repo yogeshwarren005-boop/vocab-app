@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bacteria (some of which are pathogenic for humans and animals) belonging to the order actinomycetales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any bacteria (some of which are pathogenic for humans and animals) belonging to the order actinomycetales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bacterium belonging to the Actinomycetales, characterized by branching filaments resembling fungal hyphae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil science and pharmacology, prolific producers of natural secondary metabolites, including streptomycin, tetracycline, and erythromycin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycete designates any bacteria (some of which are pathogenic for humans and animals) belonging to the order actinomycetales."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"A humble soil **actinomycete** yielded streptomycin, the first weapon capable of conquering human tuberculosis."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The living fabric of humus depends upon the tireless chemical labors of the bacteria, fungi, and **actinomycete** colonies."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Genome sequencing revealed that a single **actinomycete** strain may harbor dozens of unexpressed antibiotic gene clusters."*

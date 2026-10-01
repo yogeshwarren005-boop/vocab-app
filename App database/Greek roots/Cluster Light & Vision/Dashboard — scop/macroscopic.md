@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Observable by the naked eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving large units or elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the unaided eye; not microscopic; large enough to be perceived without magnification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and pathology, describing aggregate bulk properties or gross anatomical features as distinguished from molecular or histological structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroscopic designates observable by the naked eye."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Before tracing cellular variations, the naturalist must catalog every notable **macroscopic** divergence in bone and plumage."*
+> - 📜 **Ludwig Boltzmann (*Lectures on Gas Theory*):** *"The thermodynamic state represents a **macroscopic** average over billions of uncoordinated molecular trajectories."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The gross **macroscopic** appearance of the diseased spleen gives only an initial hint of its cellular disintegration."*

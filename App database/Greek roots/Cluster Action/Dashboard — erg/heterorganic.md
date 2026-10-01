@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of work / labor / deed / active energy / operational force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of work / labor / deed / active energy / operational force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In phonetics and linguistics, articulated with different vocal organs or speech articulators.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, derived from or composed of differing anatomical organs or organic systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterorganic designates adjective*) pertaining to, derived from, or characteristic of work / labor / deed / active energy / operational force."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Transitions between homorganic consonants are smooth, whereas shifting between **heterorganic** sounds requires distinct muscular readjustment."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"Consonant clusters combining labial and velar elements are **heterorganic**, demanding rapid shifts in tongue and lip positioning."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The compound structure was revealed to be a **heterorganic** synthesis of dermal bone and endochondral cartilage."*

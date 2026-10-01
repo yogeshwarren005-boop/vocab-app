@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of systematic classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of systematic classification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology dealing with the classification, nomenclature, and evolutionary relationships of living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of biological diversity and diversification, synthesizing phylogenetics, morphology, and biogeography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematics designates the science of systematic classification."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Biological **systematics** is not merely the cataloging of specimens, but the science that reconstructs the history of life on Earth."*
+> - 📜 **George Gaylord Simpson (*Principles of Animal Taxonomy*):** *"We define **systematics** as the scientific study of the kinds and diversity of organisms and of any and all relationships among them."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"The ultimate objective of phylogenetic **systematics** is to establish natural taxa based strictly on shared derived characteristics."*

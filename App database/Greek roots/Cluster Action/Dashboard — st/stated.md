@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put before.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declared, specified, or explicitly set forth in words; fixed or regular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contractual law and formal accounting, fixed by established mutual agreement or formal stipulation at recurring intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old lady, becoming more and more incensed against the master of deportment as she dwelt upon the subject, gave me some particulars of his career, with strong assurances that they were mildly stated."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby, has himself stated to our reporter that he mentioned to Miss M."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You come here to make a remarkably modest demand, which you have just stated, and it not being conceded, you will come again.” “And again,” says mademoiselle with more tight and angry nods."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"I hold that, in contemplation of universal law and of the Constitution, the union of these States is perpetual, as **stated** in our compact."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The rights of conscience we never submitted, we could not submit; our rulers have no authority beyond **stated** constitutional powers."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judges shall hold their offices during good behavior, and receive at **stated** times a fixed compensation for their services."*

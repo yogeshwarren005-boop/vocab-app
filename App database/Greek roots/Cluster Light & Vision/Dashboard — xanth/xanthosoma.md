@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american tuberous perennials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american tuberous perennials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American flowering plants in the arum family (Araceae), commonly known as elephant ear or yautia, cultivated for their starchy, edible corms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical agronomy and ethnobotany, herbaceous tuberous crops (notably Xanthosoma sagittifolium) domesticated in pre-Columbian Mesoamerica and the Caribbean, representing a dietary staple rich in digestible carbohydrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthosoma designates tropical american tuberous perennials."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"The starchy tubers of **Xanthosoma**, known in the West Indies as yautia, have been cultivated since antiquity by Indigenous peoples."*
+> - 📜 **O. F. Cook (*Economic Plants of Porto Rico*):** *"Species of **Xanthosoma** produce huge sagittate leaves and nutritious underground corms that rival the Old World taro."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Grown both for food and bold subtropical foliage, **Xanthosoma** requires deep, moist, well-manured soil."*

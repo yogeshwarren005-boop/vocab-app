@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pleg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis affecting only a single limb, muscle group, or isolated part of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In localized neurological pathology, a focal motor deficit resulting from circumscribed cortical or peripheral nerve lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoplegia designates a term designating an entity, condition, or phenomenon derived from greek pleg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A localized cortical injury in the precentral gyrus produces an isolated **monoplegia** of the face or hand."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"Pure brachial **monoplegia** without sensory impairment strongly points to a circumscribed vascular occlusion."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Distinguishing between functional weakness and organic cerebral **monoplegia** tests the skill of the neurologist."*

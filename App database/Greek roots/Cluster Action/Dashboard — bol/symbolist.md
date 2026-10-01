@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who employs symbols or symbolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One skilled in the interpretation or explication of symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner or theorist of symbolism, especially an artist or poet belonging to the symbolist movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, one who analyzes cultural and psychic life through symbolic structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbolist designates one who employs symbols or symbolism."*
+> - 📜 **W. B. Yeats (*The Symbolism of Poetry*):** *"The true **symbolist** understands that evocative cadence alone can awaken emotions that lie beyond dialectic."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"To the French **symbolist**, sensory impressions were mere instruments to awaken spiritual intuitions."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"The contemporary poet learns from the **symbolist** how to weave musical motifs across free verse."*

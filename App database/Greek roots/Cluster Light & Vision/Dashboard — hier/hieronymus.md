@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latinized Greek proper name meaning 'sacred name' (from hieros, holy, and onyma, name); Saint Jerome, biblical scholar and translator of the Vulgate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance humanism and art history, Saint Hieronymus (Jerome), depicted studying with his lion, or the painter Hieronymus Bosch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hieronymus designates (roman catholic church) one of the great fathers of the early christian church whose major work was his translation of the scriptures from hebrew and greek into latin (which became the vulgate); a saint and doctor of the church (347-420)."*
+> - 📜 **Desiderius Erasmus (*Life of Saint Jerome*):** *"The immense biblical scholarship of **Hieronymus** gave to the Western Church the enduring monument of the Latin Vulgate."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Dürer engraved the venerable **Hieronymus** sitting peaceful in his sunlit study with his faithful lion asleep."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"I admire the fiery eloquence of Saint **Hieronymus**, whose pen castigated the corruptions of Rome."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not emphasized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not emphasized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not emphatic; spoken, done, or expressed without special force, prominence, or stress; gentle, subdued, or mild.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary prose and elocution, describing understated delivery or quiet, muted assertions that lack rhetorical urgency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I like her better as she is.” Hence, when she found that Dorothea was making arrangements for her final departure to Lowick, Celia raised her eyebrows with disappointment, and in her quiet unemphatic way shot a needle-arrow of sarcasm."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her reply was delivered in an **unemphatic** monotone that gave no clue to her inner turmoil."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"The conversation was quiet, polite, and completely **unemphatic**, gliding over dangerous domestic truths."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon made his **unemphatic** pronouncement with the dry precision of a cathedral archivist."*

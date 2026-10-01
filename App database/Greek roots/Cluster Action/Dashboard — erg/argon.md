@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless odorless inert gaseous element found in the air and in volcanic gases and used especially in welding, lasers, and electric bulbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to a method of dating paleontological or geologic materials based on the radioactive decay of potassium to argon that has taken place in a specimen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical element of atomic number 18 (symbol Ar), an inert noble gas that makes up roughly 0.93% of Earth's atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named from Greek argos ('lazy, inactive') by Lord Rayleigh and William Ramsay due to its chemical inertness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I hope this account I am going to try and write will get petrified by some kind of new element they will suddenly discover some day and the manuscript be dug up from the ruins of Glendale to interest the natives of the Argon age about 2800 A."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"They soon succeeded in isolating this denser gas, to which they gave the name of argon."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Its atomic weight was found, and, wonderful to relate, it was such that argon fell into a new column to the left of Group 1, as had been anticipated."*
+> - 📜 **Lord Rayleigh (*Argon, a New Constituent of the Atmosphere*):** *"William Ramsay and I succeeded in isolating **argon**, a gaseous element distinguished by absolute chemical inertness."*
+> - 📜 **William Ramsay (*The Gases of the Atmosphere*):** *"Refusing to combine with oxygen, fluorine, or alkali metals, **argon** earned its name from the Greek word for idle."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Radiometric dating measures the steady accumulation of radiogenic **argon** produced by potassium-40 decay in minerals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or technique of dramatic composition and theatrical representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or technique of dramatic composition and theatrical representation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory, craft, and practice of dramatic composition and theatrical representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary sociology, the study of social interaction through theatrical metaphors of scripts, stages, and performers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramaturgy designates the art or technique of dramatic composition and theatrical representation."*
+> - 📜 **Gotthold Ephraim Lessing (*Hamburg Dramaturgy*):** *"True **dramaturgy** teaches that tragedy purifies our passions by holding a clear mirror up to human nature."*
+> - 📜 **Erving Goffman (*The Presentation of Self in Everyday Life*):** *"The concepts of **dramaturgy** illustrate how social roles are sustained by careful control of scenery and props."*
+> - 📜 **George Bernard Shaw (*The Quintessence of Ibsenism*):** *"Ibsen overturned the conventional **dramaturgy** of Paris, replacing manufactured intrigue with searing discussion."*

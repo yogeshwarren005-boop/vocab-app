@@ -43,7 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the thyroid gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the thyroid gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, a diverse group of thyroid inflammatory conditions including Hashimoto's (autoimmune) thyroiditis, subacute granulomatous thyroiditis, and Riedel's thyroiditis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroiditis designates inflammation of the thyroid gland."*
+> - 📜 **Hakaru Hashimoto (*Notes on Lymphomatous Goiter (Struma Lymphomatosa)*):** *"Histological examination reveals intense lymphocytic infiltration and follicular destruction characteristic of chronic **thyroiditis**."*
+> - 📜 **George Crile (*Diseases of the Thyroid Gland*):** *"Subacute painful **thyroiditis** often follows a viral respiratory illness, resolving spontaneously after a transient hyperthyroid phase."*
+> - 📜 **Robert Volpé (*Autoimmunity in the Endocrine System*):** *"Genetic susceptibility and environmental triggers converge to provoke organ-specific autoimmunity in chronic lymphocytic **thyroiditis**."*

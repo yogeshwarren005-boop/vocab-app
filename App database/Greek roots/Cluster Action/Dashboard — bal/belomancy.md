@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Studying the flight of arrows, an ancient form of divination used by the Greeks and Arabs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Studying the flight of arrows, an ancient form of divination used by the Greeks and Arabs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of arrows, an ancient practice of consulting marked arrows to determine the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative folklore and anthropology, an ancient Near Eastern divinatory technique practiced by Babylonians, Scythians, and Arabs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belomancy designates studying the flight of arrows, an ancient form of divination used by the greeks and arabs."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Practitioners of **belomancy** cast marked arrows into the air, interpreting the direction of their tips as the verdict of the gods."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient kings before marching into battle resorted to **belomancy** to ascertain which province they should ravage first."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Among the diverse curiosities of heathen sorcery, **belomancy** was frequently consulted by Chaldean commanders."*

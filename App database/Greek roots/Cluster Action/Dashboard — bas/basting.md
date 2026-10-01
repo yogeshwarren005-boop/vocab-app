@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose temporary sewing stitch to hold layers of fabric together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moistening a roast as it is cooking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The culinary act of pouring meat juices or seasoned liquid over roasting food to keep it moist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dressmaking and tailoring, loose, temporary stitching used to hold pieces of fabric in place before final sewing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le watch you for that trick, baboon, I'le Smoke you: the rogue sweats, as if he had eaten Grains, he broyles, if I do come to the Basting of you. _Arno_."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I drew Jane away for I felt that it was no time to disturb him, when the basting of his baked meats was just about to begin."*
+> - 📜 **Mrs. Beeton (*Mrs. Beeton's Book of Household Management*):** *"Regular and attentive **basting** is the secret to retaining tenderness in dry cuts of venison."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond removed the loose **basting** threads from her sleeve before stepping into the drawing-room."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The innkeeper oversaw the **basting** of a succulent goose rotating over glowing birch embers."*

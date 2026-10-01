@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Saturation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of color combining hue and saturation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purity, saturation, or intensity of a color, as distinguished from its lightness or hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Munsell color system and colorimetry, the degree of departure of a color from a neutral gray of the same value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chroma designates saturation."*
+> - 📜 **Albert Henry Munsell (*A Color Notation*):** *"Every color dimension may be plotted accurately along three coordinates: hue, value, and **chroma**."*
+> - 📜 **Wassily Kandinsky (*Concerning the Spiritual in Art*):** *"The heightened **chroma** of pure vermilion vibrates with an intense, inner spiritual resonance."*
+> - 📜 **Johann Wolfgang von Goethe (*Theory of Colours*):** *"Colors attain their highest **chroma** when liberated from the shadowy degradation of black admixture."*

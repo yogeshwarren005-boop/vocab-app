@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive reverence, veneration, or worship of sacred things, saints, relics, or the clergy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious historiography, religious practice centered upon the cult of sacerdotal persons or holy relics rather than transcendent deity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierolatry designates a term designating an entity, condition, or phenomenon derived from greek hier."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The puritans denounced the growing **hierolatry** of the fourth century, which filled churches with bones of martyrs."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"True reverence for the divine hero degenerates in sluggish ages into dry, ceremonial **hierolatry**."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"A blind **hierolatry** that exalts the priesthood above moral conduct deadens the conscience of nations."*

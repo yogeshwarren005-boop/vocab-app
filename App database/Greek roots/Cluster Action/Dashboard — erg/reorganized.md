@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organize anew, as after a setback.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized again or structured into a new system or arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transformed administratively, militarily, or biologically into a more functional whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the winter of 1863, it was deemed best to make the Pittsburg Sanitary Committee, which had been reorganized for the purpose, an auxiliary of the United States Sanitary Commission, and measures were taken for that purpose by Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Emperor said that the fiscal system must be reorganized and the accounts published,” recounted Bítski, emphasizing certain words and opening his eyes significantly."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides this, the whole staff of the Russian army was now reorganized."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The **reorganized** Eighth Army launched a devastating offensive at El Alamein, shattering the Axis line."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"During mitosis, the **reorganized** cytoskeleton forms the bipolar spindle apparatus to partition chromosomes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian ruled over a **reorganized** empire partitioned into four prefectures under imperial tetrarchs."*

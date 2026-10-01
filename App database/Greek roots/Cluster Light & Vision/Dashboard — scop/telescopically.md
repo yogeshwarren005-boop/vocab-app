@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a telescopic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a telescopic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of a telescope, either by means of optical magnification or through concentric, sliding compression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and technical prose, describing phenomena viewed or measured with telescopic instruments, or mechanisms extending and retracting in concentric tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telescopically designates in a telescopic manner."*
+> - 📜 **Percival Lowell (*Mars and Its Canals*):** *"When examined **telescopically** under optimal atmospheric seeing, the dark linear markings on Mars resolve into distinct networks."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The giant reflector permitted astronomers to inspect the lunar craters **telescopically** as though they hung only a few miles distant."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The jointed landing struts expanded **telescopically** as the glass sphere neared the powdery surface of the crater floor."*

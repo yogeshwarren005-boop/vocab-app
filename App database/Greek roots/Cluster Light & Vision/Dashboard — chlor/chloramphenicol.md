@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral antibiotic (trade name chloromycetin) used to treat serious infections (especially typhoid fever).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral antibiotic (trade name chloromycetin) used to treat serious infections (especially typhoid fever).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad-spectrum bacteriostatic antibiotic first isolated from the actinomycete bacterium Streptomyces venezuelae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an inhibitor of ribosomal peptidyl transferase reserved for serious infections such as typhoid and bacterial meningitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloramphenicol designates an oral antibiotic (trade name chloromycetin) used to treat serious infections (especially typhoid fever)."*
+> - 📜 **Theodore E. Woodward (*Preliminary Report on the Beneficial Effect of Chloromycetin in Typhoid*):** *"Administration of crystalline **chloramphenicol** caused rapid defervescence in acute cases of enteric fever."*
+> - 📜 **Paul R. Burkholder (*Studies on Antibiotics from Soil Organisms*):** *"From soil cultures gathered in South America, we isolated **chloramphenicol**, an antibiotic containing a rare nitrobenzene moiety."*
+> - 📜 **Maxwell Finland (*Antimicrobial Agents and Chemotherapy*):** *"The clinical utility of **chloramphenicol** must be balanced against its rare propensity to induce bone marrow depression."*

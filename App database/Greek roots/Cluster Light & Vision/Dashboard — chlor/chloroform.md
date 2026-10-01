@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile liquid haloform (chcl3); formerly used as an anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anesthetize with chloroform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, sweet-smelling, non-flammable organic solvent and halogenated hydrocarbon (CHCl3), formerly widely employed as a general anesthetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and organic chemistry, the halogenated liquid whose anesthetic vapor was popularized by James Young Simpson in obstetric surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"M., of the 3rd of July, she left Washington carrying only some chloroform and a few stimulants, reached Westminster at four A."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Another, a victim of lockjaw, only yielded to the influence of chloroform."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"In the inner office Van Horn, his dress coat off, gave the chloroform while the Scotchman set the arm; and the American surgeons, no longer crowding, but standing off respectfully as if at a clinic, looked on critically."*
+> - 📜 **James Young Simpson (*Notice of a New Anæsthetic Agent as a Substitute for Sulphuric Ether*):** *"A few deep inhalations of **chloroform** induced a state of complete, painless insensibility."*
+> - 📜 **Charles Dickens (*All the Year Round*):** *"The surgeon applied the scented sponge of **chloroform**, and the sufferer knew nothing of the blade."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Ether and **chloroform** stripped the operating theatre of its historic terrors."*

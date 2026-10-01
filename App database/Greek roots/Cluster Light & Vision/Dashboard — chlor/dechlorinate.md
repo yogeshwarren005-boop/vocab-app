@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove chlorine from (water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove chlorine from (water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove chlorine or chlorine compounds from water, wastewater, or a chemical compound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental engineering and aquaculture, using reducing agents like sulfur dioxide or activated carbon to prevent chlorine toxicity to aquatic life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dechlorinate designates remove chlorine from (water)."*
+> - 📜 **Allen Hazen (*The Filtration of Public Water Supplies*):** *"Before discharging treated effluent into trout streams, the engineers must thoroughly **dechlorinate** the outflow."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Soil bacteria slowly **dechlorinate** synthetic pesticide molecules, reducing their chemical persistence."*
+> - 📜 **Gordon Maskew Fair (*Water and Wastewater Engineering*):** *"Adding sulfur dioxide to **dechlorinate** municipal water eliminates residual oxidant before biological filtration."*

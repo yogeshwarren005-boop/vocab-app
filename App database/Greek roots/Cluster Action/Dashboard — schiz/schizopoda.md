@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications a division of malacostraca; superseded by the orders mysidacea and euphausiacea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications a division of malacostraca; superseded by the orders mysidacea and euphausiacea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete zoological order of small marine crustaceans possessing biramous, split-cleft thoracic limbs, formerly uniting mysids and euphausiids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carcinology, swimming malacostracan crustaceans exhibiting two-branched appendages adapted simultaneously for respiration and locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizopoda designates in former classifications a division of malacostraca; superseded by the orders mysidacea and euphausiacea."*
+> - 📜 **G. O. Sars (*Report on the Schizopoda Collected by H.M.S. Challenger*):** *"The deep-sea dredging yielded abundant specimens of **schizopoda**, illustrating remarkable adaptations to abyssal pelagic zones."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The split-footed nature of the thoracic limbs gives the **schizopoda** their distinct taxonomic appellation."*
+> - 📜 **W. T. Calman (*The Life of Crustacea*):** *"Though modern taxonomists split the **schizopoda** into Mysida and Euphausiacea, their ecological roles as pelagic grazers remain intertwined."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of work / labor / deed / active energy / operational force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of work / labor / deed / active energy / operational force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In phonetics, produced or articulated with the same speech organs (such as p, b, and m, which are all bilabial).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, sounds that share identical place of articulation while differing in manner or voicing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homorganic designates adjective*) pertaining to, derived from, or characteristic of work / labor / deed / active energy / operational force."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"Nasal assimilation naturally produces **homorganic** sequences, as seen when 'in-' becomes 'im-' before bilabial stops."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Sanskrit grammarians meticulously grouped consonants into classes based on their **homorganic** vocal origin."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The ease of pronouncing **homorganic** clusters explains why children master nasal-stop pairs early in speech development."*

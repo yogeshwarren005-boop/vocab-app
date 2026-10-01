@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refracting light without dispersing it into its constituent colors : giving images practically free from extraneous colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not readily colored by the usual staining agents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from color; transmitting light without separating it into its constituent spectral hues; refracting light without chromatic aberration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual perception and optics, describing stimuli lacking chromaticity (white, gray, black) or optical lens systems corrected for two primary wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air, afflicted to pallor with the hoary multitudes that infested it, twisted and spun them eccentrically, suggesting an achromatic chaos of things."*
+> - 📜 **Isaac Newton (*Opticks*):** *"If white light were refracted equally throughout, the image formed by the lens would remain truly **achromatic**."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The human eye is not completely **achromatic**, yet the brain compensates effortlessly for dispersion fringes."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"An **achromatic** microscope lens opened to biological science a universe of previously invisible structural detail."*

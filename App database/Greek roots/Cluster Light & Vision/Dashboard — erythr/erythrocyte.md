@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Red blood cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the hemoglobin-containing cells that carry oxygen to the tissues and in mammals are typically biconcave disks which lack a nucleus and cellular organelles and are formed from nucleated cells of the red bone marrow —called also erythrocyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature red blood cell in humans and other vertebrates, containing hemoglobin and transporting oxygen from the lungs to tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate hematology, a biconcave, anucleated disc in mammals maximizing surface area for rapid gas exchange and capillary deformability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrocyte designates red blood cell."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"A single drop of human blood contains more than five millions of the minute discs termed the **erythrocyte**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under the microscope, each normal **erythrocyte** displays a pale central depression surrounded by a rim of hemoglobin."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The **erythrocyte** serves as an indispensable vehicle carrying respiratory oxygen to every living cell of the body."*

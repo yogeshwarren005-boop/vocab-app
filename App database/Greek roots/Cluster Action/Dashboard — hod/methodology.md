@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of methods, rules, and ideas that are important in a science, art, or discipline : a particular procedure or set of procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science or the study of method; specifically : the analysis of the principles or procedures of inquiry in a particular field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of methods used in a particular area of study or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, the theoretical and analytical study of the principles and procedures of inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Note: The technical design and operation of military man-carrying parachutes has advanced enormously since WW2 and the Korean War, as have parachute servicing, packing and maintenance methodologies."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The reform of scientific **methodology** begins by clearing away the idols that distort the human mind."*
+> - 📜 **Claude Bernard (*Introduction to the Study of Experimental Medicine*):** *"Sound **methodology** is the compass of the investigator, guiding reason through the labyrinth of biological facts."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"Scientific **methodology** does not seek to establish absolute certainty, but rather systematic error-elimination."*

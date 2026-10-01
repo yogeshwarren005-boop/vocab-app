@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German theologian and luther's successor as leader of the reformation in germany (1497-1560).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German theologian and luther's successor as leader of the reformation in germany (1497-1560).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Philip Melanchthon (1497–1560), German Protestant reformer, humanist scholar, and author of the Augsburg Confession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance intellectual history, the scholar whose Greek surname (translating German Schwartzerdt, 'black earth') symbolized humanist synthesis with the Reformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanchthon designates german theologian and luther's successor as leader of the reformation in germany (1497-1560)."*
+> - 📜 **Martin Luther (*Table Talk*):** *"I am rough, boisterous, and warlike, but Master **Melanchthon** proceeds gently and quietly, building and planting."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The mild and scholarly **Melanchthon** sought in vain to temper the furious religious controversies of Germany."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Beside the fiery Luther stood **Melanchthon**, whose Greek learning gave philosophical form to the Reformation."*

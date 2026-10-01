@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron with two polygonal faces lying in parallel planes and with the other faces parallelograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent body that is bounded in part by two nonparallel plane faces and is used to refract or disperse a beam of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid geometric figure whose two end faces are similar, equal, and parallel rectilinear figures; in optics, a transparent glass body that refracts and disperses light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical optics, a triangular glass device used by Isaac Newton to demonstrate that white sunlight is composed of a continuous spectrum of colors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon quite shamefully: I think you would have given up ever coming to see me if he had asked you.” “Of course I submitted to him, because it was my duty; it was my feeling for him,” said Dorothea, looking through the prism of her tears."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I had surveyed the landscape through the prism of poetry, which tinged every object with the hues of the rainbow."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When understood, it is Truth's prism and praise."*
+> - 📜 **Isaac Newton (*Opticks*):** *"In a very dark chamber, at a round hole, I placed a glass **prism**, whereby the beam of sunlight was refracted to the opposite wall."*
+> - 📜 **John Tyndall (*Lectures on Light*):** *"The unequal refrangibility of different wavelengths within the **prism** unfolds the glorious rainbow of the spectrum."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"Life, like a dome of many-colour'd glass, Stains the white radiance of Eternity, until the **prism** dissolves."*

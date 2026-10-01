@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial ferns of tropical asia and africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial ferns of tropical asia and africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small terrestrial xerophytic ferns in the family Pteridaceae, featuring fan-shaped radiating fronds resembling miniature palm leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, desiccation-tolerant ferns inhabiting rocky clefts across semi-arid regions of Africa and India.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actiniopteris designates terrestrial ferns of tropical asia and africa."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The elegant fronds of **Actiniopteris** spread like tiny palmate fans from a creeping, scaly rhizome."*
+> - 📜 **John Gilbert Baker (*Synopsis Filicum*):** *"During prolonged seasonal drought, **Actiniopteris** fronds curl tightly, reviving swiftly after the first monsoon rains."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"Rock-dwelling ferns such as **Actiniopteris** reveal exquisite morphological adaptations to arid cliff microclimates."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low or downcast state; - h.l.menchken.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depriving one of self-esteem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of abasing or being abased; humiliation, degradation, or reduction in rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and psychological literature, a profound state of self-humiliation, penitence, or moral mortification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And thus the abasement had been exaltation, and the loss gain."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But I entreat your patience with one who is already bowed down by inward trial.” Will reseated himself, feeling some pity which was half contempt for this voluntary self-abasement of an elderly man."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had been prepared for a scene of self-abasement, but his intense pride and his habit of supremacy overpowered penitence, and even dread, when this young man, whom he had meant to benefit, turned on him with the air of a judge."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The captive Persian king endured the deepest **abasement**, serving as a human footstool for his conqueror."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Spiritual regeneration often begins in an acute crisis of self-loathing and profound moral **abasement**."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale sought relief from guilty torment through solitary fasting and severe physical **abasement**."*

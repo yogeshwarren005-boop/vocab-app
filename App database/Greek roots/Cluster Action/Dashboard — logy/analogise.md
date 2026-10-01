@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make an analogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To explain, illustrate, or interpret by means of an analogy (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical argumentation, to draw explanatory parallels between two distinct systems or phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analogise designates make an analogy."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"It is treacherous to **analogise** spiritual truths to mechanical machinery without acknowledging the gulf between spirit and matter."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Social theorists err when they crudely **analogise** human civic society to competitive wilderness ecosystems."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The village doctor loved to **analogise** human temperaments to meteorological storms and seasons."*

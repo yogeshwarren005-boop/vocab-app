@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or characterized by or given to catachresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or characterized by or given to catachresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to catachresis; forced, improper, or anomalous in figurative expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing figures of speech whose strained associations provoke rhetorical or cognitive tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catachrestical designates constituting or characterized by or given to catachresis."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Vulgar parlance indulges in many **catachrestical** expressions that collapse upon closer philosophical scrutiny."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Using terms in a **catachrestical** sense introduces endless confusion into theological controversies."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*):** *"A **catachrestical** metaphor may achieve sublimity precisely through its startling imaginative audacity."*

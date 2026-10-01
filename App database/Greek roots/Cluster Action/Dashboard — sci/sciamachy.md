@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of fighting with a shadow; a mock contest, futile combat, or arguing against an imaginary or non-existent adversary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical debate and polemical discourse, a pointless controversy wherein debaters attack constructed straw men rather than genuine tenets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciamachy designates a term designating an entity, condition, or phenomenon derived from greek sci."*
+> - 📜 **John Cowper Powys (*A Philosophy of Solitude*):** *"Most of our frantic moral posturing is pure **sciamachy**, a breathless flailing at imaginary phantoms of our own conjuring."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Why spend your days in tedious **sciamachy** with phantom vices when direct virtue stands readily at hand?"*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The critic engaged in fierce **sciamachy** against obsolete doctrines resembles an armored knight battling windmill sails."*

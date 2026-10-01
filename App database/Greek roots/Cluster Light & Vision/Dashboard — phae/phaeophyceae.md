@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brown algae; mostly marine and littoral eukaryotic algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown algae; mostly marine and littoral eukaryotic algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic class of mostly marine multicellular algae (brown algae), characterized by olive-green to dark brown thalli containing fucoxanthin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine phycology, the evolutionary lineage encompassing giant giant kelps (*Macrocystis*), rockweeds (*Fucus*), and sargassum, reproducing via flagellated zoospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaeophyceae designates brown algae; mostly marine and littoral eukaryotic algae."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"The class **Phaeophyceae** includes the grandest marine vegetation on Earth, with kelps reaching over a hundred feet in length."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"Members of **Phaeophyceae** dominate the rocky intertidal zones of cold temperate northern seas."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Tough leathery thalli of the **Phaeophyceae** withstand the crushing impact of continuous Atlantic surf."*

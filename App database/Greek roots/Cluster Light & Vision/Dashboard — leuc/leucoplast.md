@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless plastid especially in the cytoplasm of interior plant tissues that is potentially capable of developing into a chloroplast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless plastid especially in the cytoplasm of interior plant tissues that is potentially capable of developing into a chloroplast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, non-pigmented plastid found in plant cells, especially in non-photosynthetic storage tissues like roots, bulbs, and seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cell biology, a plastid organelle that differentiates into an amyloplast (starch storage), elaioplast (lipid storage), or proteinoplast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucoplast designates a colorless plastid especially in the cytoplasm of interior plant tissues that is potentially capable of developing into a chloroplast."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Within potato tuber cells, every starch grain begins its growth inside a minute, clear **leucoplast**."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"When exposed to prolonged illumination, the underground **leucoplast** develops chlorophyll and transforms into a chloroplast."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The storage parenchyma of the seed endosperm is richly packed with starch-forming **leucoplast** bodies."*

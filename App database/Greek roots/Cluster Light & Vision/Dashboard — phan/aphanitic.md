@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aphanite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aphanite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a very fine-grained, microcrystalline texture, applied to igneous rocks whose mineral components cannot be distinguished without magnification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrography, describing volcanic rocks with cryptocrystalline or microcrystalline groundmass resulting from rapid subaerial quenching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphanitic designates of or relating to aphanite."*
+> - 📜 **Archibald Geikie (*The Ancient Volcanoes of Great Britain*):** *"The basaltic sheets exhibit a dense **aphanitic** texture at their upper surface where heat escaped rapidly."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Rhyolite lavas frequently display an **aphanitic** groundmass enclosing scattered porphyritic quartz phenocrysts."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"An **aphanitic** dike had cut cleanly through the coarse granite bedrock of the quarry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pleg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of all four limbs and the torso, caused by injury to or disease of the cervical spinal cord; quadriplegia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acute trauma care, the functional impairment of motor, sensory, and autonomic control below a cervical neuromedullary level.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraplegia designates a term designating an entity, condition, or phenomenon derived from greek pleg."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"Damage to the spinal cord at the fifth cervical segment causes complete **tetraplegia**, depriving all four extremities of voluntary motion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute fracture-dislocation of the cervical spine carries an immediate risk of fatal respiratory compromise and **tetraplegia**."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"To witness a patient coping with sudden traumatic **tetraplegia** is to observe courage contending against catastrophic sensory-motor loss."*

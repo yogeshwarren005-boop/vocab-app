@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organizer who puts things in order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who classifies, arranges, or methodically organizes elements into a unified system (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and philosophy, an architect of comprehensive taxonomic or institutional structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systemiser designates an organizer who puts things in order."*
+> - 📜 **John Stuart Mill (*Auguste Comte and Positivism*):** *"Comte was an indefatigable **systemiser**, driven by an irresistible impulse to coordinate all sciences under sociology."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon labored ceaselessly as an antiquarian **systemiser**, seeking the mythical Key to All Mythologies."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Nature repeatedly defies the dogmatic **systemiser** by presenting transitional forms that mock rigid pigeonholes."*

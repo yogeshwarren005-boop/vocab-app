@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Patas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Patas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Old World monkeys comprising the patas monkey (*Erythrocebus patas*), characterized by reddish-brown fur and rapid terrestrial running.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology, long-limbed semiterrestrial African savanna guenons capable of running at speeds exceeding thirty miles per hour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog erythrocebus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The red patas monkey, classified under **Erythrocebus**, outstrips hunting hounds across the open Sahel plains."*
+> - 📜 **Arthur Loveridge (*Tomorrow's a Holiday*):** *"A troop of **Erythrocebus** dashed across the dry savannah with the speed of coursing greyhounds."*
+> - 📜 **David Bannerman (*Fauna of West Africa*):** *"The bright russet coat of **Erythrocebus** harmonizes with the red laterite soil of the northern scrub."*

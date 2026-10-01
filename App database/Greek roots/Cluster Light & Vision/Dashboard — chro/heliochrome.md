@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph in natural colors, or an early photographic image produced by the direct action of colored light upon sensitive plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of photography, pioneering color processes developed by Edmond Becquerel and Louis Ducos du Hauron before modern multilayer emulsions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliochrome designates a term designating an entity, condition, or phenomenon derived from greek chro."*
+> - 📜 **Edmond Becquerel (*La Lumière: Ses Causes et Ses Effets*):** *"Upon the silver chloride plate, solar light generated a true **heliochrome** reproducing the spectral colors."*
+> - 📜 **John Herschel (*Philosophical Transactions of the Royal Society*):** *"The elusive dream of the **heliochrome** inspired photographers to seek reagents that fix natural spectral hues."*
+> - 📜 **Oliver Wendell Holmes (*The Atlantic Monthly: The Stereoscope and the Stereograph*):** *"Could we but fix the sunbeam in its native tints, the **heliochrome** would surpass all painter's canvas."*

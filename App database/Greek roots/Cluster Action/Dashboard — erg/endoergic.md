@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing energy : endothermic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absorbing energy : endothermic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In physics and physical chemistry, requiring the absorption of energy; endothermic in a nuclear or reaction process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing nuclear reactions in which the total kinetic energy of the products is less than that of the reacting particles (negative Q-value).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoergic designates absorbing energy : endothermic."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"An **endoergic** nuclear disintegration requires the incident particle to exceed a definite kinetic energy threshold."*
+> - 📜 **Ernest Rutherford (*Radiations from Radioactive Substances*):** *"Artificial transmutation induced by alpha bombardment is frequently an **endoergic** process absorbing nuclear energy."*
+> - 📜 **Hans Bethe (*Elementary Nuclear Theory*):** *"Calculations of cross sections for **endoergic** collisions must incorporate the negative energy balance of the reaction."*

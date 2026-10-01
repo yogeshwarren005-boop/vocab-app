@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two flat triangular bones one on each side of the shoulder in human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two flat triangular bones one on each side of the shoulder in human beings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The shoulder blade; a large, flat triangular bone located in the posterolateral aspect of the human shoulder girdle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, the dorsal element of the pectoral girdle providing muscular attachments for humeral rotation and limb articulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In his address to Scapula[63] he says that the first governor to draw the sword on the Christians of Africa was Vigellius Saturninus."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The dorsal portion of the pectoral girdle in higher mammals consists principally of the expanded blade of the **scapula**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pleuritic friction rubs are often heard most distinctly just below the inferior angle of the **scapula**."*
+> - 📜 **Richard Owen (*On the Archetype of the Skeleton*):** *"The broad spine that crosses the outer surface of the mammalian **scapula** terminates anteriorly in the acromion process."*

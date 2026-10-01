@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing asphalt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing asphalt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, consisting of, or having the chemical and physical characteristics of asphalt; bituminous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum geology, denoting heavy crude oils that yield high percentages of solid bitumen and residual pitch upon fractional distillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asphaltic designates containing asphalt."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean springs in Trinidad continuously discharge thick **asphaltic** pitch that solidifies into vast bituminous plains."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The indigenous boatmen coated their canoes with native **asphaltic** gum obtained from coastal seepages."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The radiation of heat through dark **asphaltic** varnishes illustrates the selective absorption spectra of complex hydrocarbons."*

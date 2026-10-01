@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who plays the organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who plays the organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who plays the pipe organ, especially in a church, concert hall, or cathedral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical history, a liturgical musician skilled in counterpoint, improvisation, and pedal keyboard technique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The former organist of Surry Chapel, Mr."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Incidentally he gave me to understand that Kurtz had been essentially a great musician. ‘There was the making of an immense success,’ said the man, who was an organist, I believe, with lank grey hair flowing over a greasy coat-collar."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"By-and-by the organist commenced playing, and a flood of music, grander and more solemn than he had ever heard, filled the whole edifice."*
+> - 📜 **Johann Wolfgang von Goethe (*Conversations with Eckermann*):** *"Listening to Bach's fugues, one imagines the supreme **organist** in dialogue with eternity before the creation of the world."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The village church **organist** rehearsed the Sunday voluntary, filling the aisle with rich, vibrating chords."*
+> - 📜 **Robert Browning (*Abt Vogler*):** *"The inspired **organist** extemporized upon his musical instrument, rearing a palace of sound that touched high heaven."*

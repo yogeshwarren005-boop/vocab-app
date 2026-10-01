@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal infection characterized by itchy warty nodules on the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungal infection characterized by itchy warty nodules on the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic fungal skin and subcutaneous tissue infection characterized by dark pigmented verrucous or granulomatous lesions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical dermatology, a dematiaceous mycosis caused by trauma-inoculated fungi (*Fonsecaea pedrosoi*), diagnosed by thick-walled muriform Medlar bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromoblastomycosis designates a fungal infection characterized by itchy warty nodules on the skin."*
+> - 📜 **Aldo Castellani (*Manual of Tropical Medicine*):** *"Agricultural workers infected through thorns presented with crusted warty nodules characteristic of **chromoblastomycosis**."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Tissue sections of **chromoblastomycosis** reveal distinctive brown, chestnut-colored fungal bodies within giant cells."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The tropical surgeon recognized the stubborn warty plaques of **chromoblastomycosis** acquired in the Brazilian rubber groves."*

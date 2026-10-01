@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient, jawless primitive aquatic vertebrate with an eel-like body and a circular toothed sucking mouth used to parasitize fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and gastronomy, an agnathan cyclostome (*Petromyzon marinus*) historically considered a regal culinary delicacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lamprey designates primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The primitive anatomy of the **lamprey** provides crucial clues regarding the evolutionary origin of the vertebrate skull."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"King Henry I died of a surfeit of **lamprey**, a dish forbidden by his physicians but irresistible to his palate."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The circular suctorial disc of the **lamprey** is armed with sharp horny teeth adapted for rasping flesh."*

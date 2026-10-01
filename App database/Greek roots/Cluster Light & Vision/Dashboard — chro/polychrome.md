@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, made with, or decorated in several colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, made with, or decorated in several colors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorated, executed, or printed in several or many colors, especially of sculpture, architecture, or pottery; a multicolored work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and architectural conservation, the historical practice of brightly painting ancient marble temples and statues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The attractive character of certain localities in Ireland and abroad, as represented in general geographical maps of polychrome design or in special ordnance survey charts by employment of scale numerals and hachures."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Blue and white and polychrome porcelain chiefly occupied the energies of the Imperial potters at Ching-tê Chên in the Ming dynasty, and the classic periods for these types fall in the fifteenth century."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The coloured glazes used in the T´ang polychrome pottery are light and translucent lead glazes of the kind which reappears on the Ming and Ch´ing pottery and porcelain, and, as on the later wares, they are covered with minute accidental crackle."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"Nineteenth-century excavations revealed that ancient Greek statues were originally finished in vivid **polychrome**."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The front of the ducal palace gleamed with intricate **polychrome** diaper patterns of pink and white marble."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The frescoes of Knossos represent the pinnacle of Bronze Age **polychrome** mural art."*

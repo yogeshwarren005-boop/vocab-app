@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metrical writing : verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The productions of a poet : poems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Literary work in which the expression of feelings and ideas is given intensity by the use of distinctive style, rhythm, and meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic philosophy, the primordial art of verbal creation through which human culture articulates its deepest truths and spiritual yearnings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, truly; for the truest poetry is the most feigning, and lovers are given to poetry, and what they swear in poetry may be said, as lovers, they do feign."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"About a hoop of gold, a paltry ring That she did give me, whose posy was For all the world like cutlers’ poetry Upon a knife, “Love me, and leave me not.” NERISSA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go in, Bianca. [_Exit Bianca._] And for I know she taketh most delight In music, instruments, and poetry, Schoolmasters will I keep within my house Fit to instruct her youth."*
+> - 📜 **William Wordsworth (*Preface to Lyrical Ballads*):** *"**Poetry** is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquillity."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"**Poetry** lifts the veil from the hidden beauty of the world, and makes familiar objects be as if they were not familiar."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"I wish our clever young poets would remember my homely definitions of prose and poetry; that is, prose,—words in their best order; **poetry**,—the best words in their best order."*

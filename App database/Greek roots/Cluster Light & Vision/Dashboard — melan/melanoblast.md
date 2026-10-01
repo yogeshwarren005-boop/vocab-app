@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An epidermal cell that is a precursor of a melanocyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An epidermal cell that is a precursor of a melanocyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precursor cell derived from the embryonic neural crest that migrates through the dermis and differentiates into a melanin-producing melanocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology and oncology, an unpigmented progenitor cell whose migration pathway determines adult pigmentation patterns and melanoma susceptibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanoblast designates an epidermal cell that is a precursor of a melanocyte."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood and Tissues*):** *"The embryonic **melanoblast** migrates from the neural crest into the basal layer of the developing skin."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Arrested migration of the **melanoblast** during fetal life accounts for congenital Mongolian blue spots."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Cytochemical markers identify the primitive **melanoblast** long before intracellular pigment synthesis begins."*

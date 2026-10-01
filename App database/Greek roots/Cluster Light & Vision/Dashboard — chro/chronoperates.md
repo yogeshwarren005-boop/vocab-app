@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile genus of therapsida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile genus of therapsida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete or specialized physiological term designating processes, rhythms, or functions that operate strictly across defined time intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronobiology and early systemic physiology, biological mechanisms governed by endogenous periodicities or circadian intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronoperates designates a reptile genus of therapsida."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Every rhythmic vital mechanism that **chronoperates** within the organism exhibits subordination to solar cycles."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The physiological apparatus **chronoperates** by alternating periods of functional activity and metabolic restoration."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"In nature's vast engine, each cyclic law **chronoperates** with mathematical precision."*

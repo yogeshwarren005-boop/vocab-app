@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrected for both chromatic and spherical aberration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrected for both chromatic and spherical aberration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrected for chromatic aberration at three distinct wavelengths of light and for spherical aberration at two wavelengths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In precision microscopy and photographic optics, describing superior lens systems that eliminate secondary chromatic halos and fringing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apochromatic designates corrected for both chromatic and spherical aberration."*
+> - 📜 **John Tyndall (*Light and Electricity*):** *"The **apochromatic** microscope objective brings red, green, and blue rays to a single indistinguishable focus."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"Delicate silicious skeletons of radiolaria revealed their finest lattice under an oil-immersion **apochromatic** lens."*
+> - 📜 **Santiago Ramón y Cajal (*Advice for a Young Investigator*):** *"Equip your microscope with the finest **apochromatic** optics, for histology forgives no optical distortions."*

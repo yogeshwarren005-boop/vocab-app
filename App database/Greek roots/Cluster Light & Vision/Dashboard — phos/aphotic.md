@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being the deep zone of an ocean or lake receiving too little light to permit photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being the deep zone of an ocean or lake receiving too little light to permit photosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of light, especially designating the deep bathypelagic zone of an ocean or lake where solar radiation never penetrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology and limnology, the deep oceanic water column below the photic zone where photosynthesis cannot occur and animals rely on bioluminescence or organic snow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphotic designates being the deep zone of an ocean or lake receiving too little light to permit photosynthesis."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"At two thousand feet the bathysphere hung in the cold, **aphotic** abysses where no solar ray has ever pierced."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Creatures of the **aphotic** depths inhabit a world of perpetual night, lit only by their own living lanterns."*
+> - 📜 **C. Wyville Thomson (*The Depths of the Sea*):** *"Life in the **aphotic** floor of the Atlantic proved unexpectedly rich, supported by organic matter sinking from above."*

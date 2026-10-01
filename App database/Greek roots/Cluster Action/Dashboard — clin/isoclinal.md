@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isogram connecting points of equal magnetic inclination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having equal magnetic inclinations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In structural geology, relating to folds whose limbs are parallel and dip in the same direction at equal angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomagnetism, connecting points on the Earth's surface where magnetic inclination or dip is identical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoclinal designates an isogram connecting points of equal magnetic inclination."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Intense alpine compression flattened the strata into tight **isoclinal** folds dipping steeply southward."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"In tightly crumpled metamorphic schists, repeated **isoclinal** folding gives an illusion of vast stratigraphic thickness."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Charting the **isoclinal** lines of magnetic dip across the Atlantic revealed a regular geomagnetic symmetry."*

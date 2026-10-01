@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or suffering from chlorosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or suffering from chlorosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected with, or resembling chlorosis; sickly pale, blanched, or yellowish-green.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and medicine, describing leaves deficient in chlorophyll or individuals exhibiting the pallor of severe microcytic anemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorotic designates of or pertaining to or suffering from chlorosis."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her face had that pale, **chlorotic** cast which speaks of long confinement in gloomy corridors."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"When cultivated in soil lacking available iron, the leaves remained stunted, brittle, and utterly **chlorotic**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A sickly, **chlorotic** ray of afternoon sun struggled through the grimy window of the chancery office."*

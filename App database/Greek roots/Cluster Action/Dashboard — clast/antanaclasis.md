@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek clast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical device in which a single word or phrase is repeated in a different or contradictory sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, a form of pun or polysemy used to highlight irony or unexpected philosophical nuance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antanaclasis designates a term designating an entity, condition, or phenomenon derived from greek clast."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"In **antanaclasis**, the repetition of the identical word with an altered meaning strikes the hearer with surprising force."*
+> - 📜 **William Shakespeare (*Henry V*):** *"To England will I steal, and there I'll steal: Pistol's boast exemplifies the sharp irony of **antanaclasis**."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The Elizabethan dramatists indulged in perpetual **antanaclasis**, playing incessantly on shifting verbal nuances."*

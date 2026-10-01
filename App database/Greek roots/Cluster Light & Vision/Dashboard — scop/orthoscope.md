@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical device or lens designed to eliminate distortion; or an ophthalmic instrument placed over the eye to neutralize corneal refraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, an eye cup filled with water invented by Ernst Brücke that neutralizes the refracting power of the anterior cornea, allowing clear observation of the ocular fundus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoscope designates a term designating an entity, condition, or phenomenon derived from greek orth."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"With Brücke's **orthoscope**, corneal refraction is negated by water contact, affording an unobstructed view of the iris."*
+> - 📜 **Ernst Brücke (*Untersuchungen über die Anatomie des Auges*):** *"The principle of the **orthoscope** consists in replacing the curved corneal surface with a flat optical glass window."*
+> - 📜 **Thomas Young (*Lectures on Natural Philosophy and the Mechanical Arts*):** *"A small fluid-filled **orthoscope** demonstrated that the human cornea plays no active part in ocular accommodation."*

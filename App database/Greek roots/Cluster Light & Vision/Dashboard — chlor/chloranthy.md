@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chlor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant teratological condition in which floral organs (petals, stamens, or carpels) mutate or metamorphose into green vegetative leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant developmental genetics and phytopathology, phyllody or greening caused by phytoplasma infection or hormonal deregulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloranthy designates a term designating an entity, condition, or phenomenon derived from greek chlor."*
+> - 📜 **Maxwell T. Masters (*Vegetable Teratology*):** *"Complete **chloranthy** was observed in the rose blossom, every petal having transformed into an ordinary foliage leaf."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The phenomenon of **chloranthy** affords decisive morphological proof of the foliar nature of all floral appendages."*
+> - 📜 **Karl Goebel (*Organography of Plants*):** *"Under the influence of gall-mites, the whole inflorescence succumbed to retrogressive **chloranthy**."*

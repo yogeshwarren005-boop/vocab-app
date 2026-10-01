@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unusual or abnormal yellow or golden coloration in an animal's plumage, scales, skin, or shell, where red or dark pigments are replaced by yellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and herpetology, a genetic color polymorphism resulting from excessive lutein or carotenoid deposition or the failure of melanic pigment synthesis, often observed in parrots, amphibians, and reptiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthochromism designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **Frank Chapman (*Handbook of Birds of Eastern North America*):** *"Occasional wild specimens of the scarlet tanager exhibit **xanthochromism**, appearing entirely yellow except for their black wings."*
+> - 📜 **Alfred Russel Wallace (*Darwinism: An Exposition of the Theory of Natural Selection*):** *"Variations in plumage such as **xanthochromism** show how readily pigment metabolism may shift under selective pressures."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Breeding records in aviculture demonstrate that **xanthochromism** in parakeets is governed by simple recessive Mendelian factors."*

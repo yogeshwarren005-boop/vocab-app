@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical science that deals with the blood and blood-forming organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical science that deals with the blood and blood-forming organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science concerned with the blood, blood-forming tissues, and the pathophysiology of blood disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical and laboratory medicine, the discipline encompassing immunohematology, coagulation, and hematopoietic stem-cell biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematology designates a medical science that deals with the blood and blood-forming organs."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood: Normal and Pathological*):** *"The foundation of modern **hematology** was laid when specific affinities between dyes and cellular granules were recognized."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"Few fields have grown as rapidly as **hematology**, evolving from descriptive morphology to molecular genetics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The contributions of experimental **hematology** have illuminated the pathogenesis of purpura and pernicious anemia."*

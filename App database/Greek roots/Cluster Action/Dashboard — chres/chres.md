@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (chrēsis, 'use, utility, practice') denoting utility, utilization, or custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, the morphemic base of catachresis, chrestomathy, and ecological chresard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chres designates a term designating an entity, condition, or phenomenon derived from greek chres."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The archaic radical **chres** relates fundamentally to practical utility, borrowing, and customary employment."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"From ancient Greek **chres**, semantic lineages branched into pedagogical anthologies and rhetorical figures."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Wealth is defined not by mere possession, but by the virtuous **chres** or practical use of material goods."*

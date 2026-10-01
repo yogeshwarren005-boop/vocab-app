@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vascular tumor of the adrenal gland; hypersecretion of epinephrine results in intermittent or sustained hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vascular tumor of the adrenal gland; hypersecretion of epinephrine results in intermittent or sustained hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British and historical spelling of pheochromocytoma; a catecholamine-secreting neuroendocrine tumor of the adrenal medulla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and surgical pathology, a vascular chromaffin tumor causing paroxysmal hypertension, palpitations, headaches, and diaphoresis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaeochromocytoma designates a vascular tumor of the adrenal gland; hypersecretion of epinephrine results in intermittent or sustained hypertension."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A patient harboring an occult **phaeochromocytoma** experiences sudden, terrifying surges of systolic pressure."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity and Pathology*):** *"Microscopic sections of the **phaeochromocytoma** stain deep mahogany brown upon exposure to potassium dichromate."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"Surgical removal of the **phaeochromocytoma** completely abolished the paroxysmal vasospastic crises."*

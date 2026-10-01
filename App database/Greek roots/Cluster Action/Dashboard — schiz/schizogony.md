@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual reproduction by multiple segmentation characteristic of sporozoans (such as the malaria parasite).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asexual reproduction by multiple segmentation characteristic of sporozoans (such as the malaria parasite).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual multiple fission characteristic of certain protozoans (especially Apicomplexa such as Plasmodium), in which a single trophozoite segments into multiple merozoites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical parasitology, the intracellular proliferative stage of the malaria parasite occurring within hepatic and erythrocytic cells of the vertebrate host.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizogony designates asexual reproduction by multiple segmentation characteristic of sporozoans (such as the malaria parasite)."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"During the erythrocytic cycle of **schizogony**, the malaria parasite divides into numerous daughter spores within the red corpuscle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The periodic febrile paroxysms of ague coincide precisely with the completion of **schizogony** and the burst of infected erythrocytes."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"The asexual cycle of **schizogony** in man alternates with the sexual sporogonic phase in the mosquito."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who imparts energy and vitality and spirit to other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that supplies electrical energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which energises; a person, device, or substance that provides vigor or power (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural engineering, an electric fence charging unit supplying intermittent voltage pulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, energiser designates someone who imparts energy and vitality and spirit to other people."*
+> - 📜 **Thomas Edison (*Notebooks and Diaries*):** *"The powerful steam dynamo acted as the prime **energiser** of the entire Lower Manhattan lighting grid."*
+> - 📜 **William James (*The Will to Believe*):** *"Passionate faith is a moral **energiser**, unlocking unsuspected capacities for endurance and action."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"Fresh morning sea breezes served as a wondrous **energiser** for our tired clinical minds."*

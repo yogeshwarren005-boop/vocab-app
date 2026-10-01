@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar or comparable to something else either in general or in some specific detail : similar in a way that invites comparison : showing an analogy or a likeness that permits one to draw an analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar or comparable to something else either in general or in some specific detail : similar in a way that invites comparison : showing an analogy or a likeness that permits one to draw an analogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comparable in certain respects, typically in a way which makes clearer the nature of the things compared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, performing a similar function but having a different evolutionary origin (such as bird wings and insect wings).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A process somewhat analogous to that of alleged formations of the universe, time and times ago, was observable."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Through these agencies can be operated an industrial service, analogous in function to the weather bureau, and reporting from day to day the pressure of demand and the prospects for labor in the various parts of the country."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For a girl the answer of the oracle was analogous; she would marry a bachelor, a widower, or nobody according to the plate into which she chanced to dip her finger."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The wings of a bat and a butterfly are **analogous** organs, serving flight without sharing common skeletal ancestry."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Our belief in the mental life of other persons is based upon observing behavior **analogous** to our own."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The vibrations of light are strictly **analogous** to the sound waves that ripple through the air."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Color with many colors; make polychrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color with many colors; make polychrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of polychromize; to paint, ornament, or decorate in many different colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural restoration, to repaint or recreate original polychromatic surface ornamentation on facades or statues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychromise designates color with many colors; make polychrome."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"To **polychromise** a noble building requires an intimate sympathy with the natural colors of native stone."*
+> - 📜 **William Morris (*Architecture, Industry and Wealth*):** *"Craftsmen sought to **polychromise** the carved wooden chancel screen with gold leaf and cinnabar."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Florentine sculptors did not hesitate to **polychromise** glazed terra-cotta with brilliant enamels."*

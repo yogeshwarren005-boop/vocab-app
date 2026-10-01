@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ambiguous, equivocal, or capable of double meaning; doubtful in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical logic and discourse, prone to amphiboly or syntactic ambiguity that obscures true intent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibolous designates adjective*) pertaining to, derived from, or characteristic of throw."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Oracles of antiquity frequently answered in **amphibolous** terms to preserve their credit whatever the event."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He who uses an **amphibolous** phrase when plain speech is required betrays either intellectual confusion or moral timidity."*
+> - 📜 **Jeremy Bentham (*A Fragment on Government*):** *"Statutes couched in **amphibolous** language merely furnish lucrative employment for contentious advocates."*

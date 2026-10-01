@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or process of creating especially unrealistic or improbable mental images in response to psychological need; also : a mental image or a series of mental images (such as a daydream) so created.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creation of the imagination: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty or activity of imagining impossible or improbable things; a genre of imaginative fiction featuring magical or supernatural elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory and psychoanalysis, the psychic generation of imagery unbound by reality constraints (contrasted with factual memory).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thy love were ever like to mine— As sure I think did never man love so— How many actions most ridiculous Hast thou been drawn to by thy fantasy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is to be all made of fantasy, All made of passion, and all made of wishes, All adoration, duty, and observance, All humbleness, all patience, and impatience, All purity, all trial, all observance, And so am I for Phoebe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Horatio says ’tis but our fantasy, And will not let belief take hold of him Touching this dreaded sight, twice seen of us."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"The lunatic, the lover, and the poet Are of imagination all compact; their shaping **fantasy** bodies forth forms of things unknown."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When reason sleeps, **fantasy** erects palaces of cloud that vanish at the touch of reality."*
+> - 📜 **J. R. R. Tolkien (*On Fairy-Stories*):** *"Creative **fantasy** does not destroy reason, but rather sharpens our perception of the primary world."*

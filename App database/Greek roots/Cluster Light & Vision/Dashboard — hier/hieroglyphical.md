@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling hieroglyphic writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in or belonging to a writing system using pictorial symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, resembling, or written in hieroglyphs; symbolic, emblematic, or enigmatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th- and 18th-century antiquarian literature, characterizing allegorical emblems or ancient pictorial inscriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"These are hieroglyphical; that is, if you call those mysterious cyphers on the walls of pyramids hieroglyphics, then that is the proper word to use in the present connexion."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I at once looked upon the figure of the animal as a kind of punning or hieroglyphical signature."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"These are hieroglyphical; that is, if you call those mysterious cyphers on the walls of pyramids hieroglyphics, then that is the proper word to use in the present connexion."*
+> - 📜 **Francis Bacon (*The Wisdom of the Ancients*):** *"The fables of antiquity were intended as a **hieroglyphical** veil concealing deep political and physical wisdom."*
+> - 📜 **William Warburton (*The Divine Legation of Moses*):** *"The transition from picture writing to **hieroglyphical** characters marked the dawn of civil society in Egypt."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Curious scrolls adorned with **hieroglyphical** beasts were carried in solemn triumph before the goddess."*

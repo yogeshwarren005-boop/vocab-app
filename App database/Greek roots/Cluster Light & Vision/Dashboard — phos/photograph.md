@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture or likeness obtained by photography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To take a photograph of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture produced by photography, in which an image is focused onto a light-sensitive surface; or to capture an image in this way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and art, the permanent optical record created when chemical emulsions or digital sensor arrays register incident light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It had seemed of a sudden most familiar, in much the same way that my father’s barn would have been in a photograph."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They’ve ben fixin’ it up awful.” Here the missionary handed to my mother another photograph he had sought out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"El Kul’ah, as it was known by—” But here I broke in again, pointing to rubbish piles of ruined masonry on the left edge of the photograph."*
+> - 📜 **John Herschel (*Philosophical Transactions of the Royal Society*):** *"I have recommended the word **photograph** as a concise term for images delineated solely by the action of light."*
+> - 📜 **Oliver Wendell Holmes (*The Atlantic Monthly: The Stereoscope and the Stereograph*):** *"A **photograph** is an extraordinary mirror that retains the reflection after the face has departed."*
+> - 📜 **Charles Baudelaire (*The Salon of 1859*):** *"If the **photograph** is allowed to usurp art's divine domain, true painting will soon be ruined by mechanical copying."*

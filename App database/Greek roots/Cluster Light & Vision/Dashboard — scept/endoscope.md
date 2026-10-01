@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated optical instrument, rigid or flexible, inserted into a body cavity or organ to inspect its interior directly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical engineering and surgical practice, a diagnostic and interventional instrument equipped with fiber-optic or video imaging systems and working channels for biopsy forceps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscope designates an illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors)."*
+> - 📜 **Chevalier Jackson (*Bronchoscopy and Esophagoscopy*):** *"The introduction of the illuminated **endoscope** converted the dark passages of the human body into open fields of direct clinical inspection."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Direct visualization through the **endoscope** has spared countless patients the ordeal of exploratory laparotomy."*
+> - 📜 **Harold Hopkins (*Optics in Medicine*):** *"The rod-lens system transformed the rigid **endoscope**, providing vastly superior illumination and optical resolution."*

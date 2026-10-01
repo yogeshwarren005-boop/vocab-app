@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of trees and shrubs of the order parietales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of trees and shrubs of the order parietales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tea family of flowering plants, comprising trees and shrubs with alternate leathery leaves and showy flowers, most famously including Camellia sinensis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic angiosperm taxonomy, an Ericales family characterized by pentamerous flowers with numerous stamens and loculicidal capsules, distributed primarily across East and Southeast Asia and the Americas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theaceae designates a family of trees and shrubs of the order parietales."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The family **Theaceae** is distinguished by its hypogynous flowers, numerous stamens often united at base, and woody capsular fruit."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Among ornamental woody plants, few families rival **Theaceae** in the winter splendor of Camellia blooms."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"Modern phylogenetic analysis places **Theaceae** within the order Ericales, closely allied to Symplocaceae and Pentaphylacaceae."*

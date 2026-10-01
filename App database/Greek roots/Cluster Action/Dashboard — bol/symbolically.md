@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a symbolic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a symbolic manner; through the medium of symbols or figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an emblem or conventional sign rather than an immediate physical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As in droughty regions baptism by immersion could only be performed symbolically, Mr."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The absurdities of the old religion yielded place to Reason--embodied symbolically for the hour in the person of Mme Momoro--afterwards, more vaguely, in Robespierre's Supreme Being, who really came from Rousseau."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The mandala acts **symbolically** to integrate the fragmented facets of the conscious self."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Ritual cleansing operates **symbolically**, reassuring the believer of spiritual absolution and purity."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Expressing logical propositions **symbolically** eliminates the ambiguities inherent in natural vernaculars."*

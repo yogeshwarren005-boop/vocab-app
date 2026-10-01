@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world migratory locusts and common american grasshoppers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world migratory locusts and common american grasshoppers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and diverse genus of North American grasshoppers in the family Acrididae, commonly known as spur-throated grasshoppers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, a devastating pest genus including the migratory grasshopper (*Melanoplus sanguinipes*) and differential grasshopper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanoplus designates new world migratory locusts and common american grasshoppers."*
+> - 📜 **Charles Valentine Riley (*The Rocky Mountain Locust*):** *"Swarms of **Melanoplus** darkened the midday sky across Kansas, devouring every green blade in their path."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The distinctive spine on the prosternum characterizes the genus **Melanoplus** among our native acridians."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Species of **Melanoplus** deposit their egg-pods underground in early autumn to overwinter safely beneath snow."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to an amphitheater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to an amphitheater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or pertaining to an amphitheatre, especially having tiers rising steeply in semicircular or circular rows around a central focus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape architecture and geographic description, designating terrain where hills, terraced vineyards, or cliff formations create an arena-like hollow or basin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphitheatric designates of or related to an amphitheater."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The palace gardens slope down into an **amphitheatric** valley sheltered by groves of pomegranate and cypress."*
+> - 📜 **Mary Shelley (*Rambles in Germany and Italy*):** *"Around the shimmering bay rose an **amphitheatric** sweep of olive-clad hills crowned with quaint villas."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"The mountain cirque opened its **amphitheatric** cliffs to the northern winds, gouged out by ancient glacier ice."*

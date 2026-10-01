@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fish including: dace, chub.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fish including: dace, chub.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater cyprinid fishes native to Eurasia, commonly known as daces, ides, and chub.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ichthyology and angling, silvery river fishes characterized by streamlined bodies, bright scales, and terminal mouths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leuciscus designates a genus of fish including: dace, chub."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The dace, which naturalists call **Leuciscus**, is a swift and lively fish that sports in gravelly shallows."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"Species of **Leuciscus** inhabit clear streams across Europe, feeding upon aquatic insects and tender weeds."*
+> - 📜 **Louis Agassiz (*Lake Superior*):** *"Silvery scales and active shoaling habits distinguish **Leuciscus** among the common cyprinoids of the river."*

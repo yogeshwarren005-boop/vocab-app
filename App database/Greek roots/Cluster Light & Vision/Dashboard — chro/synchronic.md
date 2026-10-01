@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Synchronous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Descriptive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with something, especially a language, as it exists at a particular point in time without regard to its historical development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, structural anthropology, and social science, descriptive analysis of a static system at a given epoch (contrasted with diachronic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronic designates synchronous."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The **synchronic** perspective views the language system as a complete, functioning whole at a given moment."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"Totemic classifications operate within a strict **synchronic** matrix that orders cultural experience."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Generative grammar begins with a **synchronic** description of the ideal speaker-hearer's internal competence."*

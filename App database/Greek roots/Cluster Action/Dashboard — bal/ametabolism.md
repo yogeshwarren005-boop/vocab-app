@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being ametabolic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being ametabolic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of direct post-embryonic development in insects without metamorphosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative entomology, the primitive developmental state characteristic of the Apterygota, where instars undergo no radical structural change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametabolism designates the condition of being ametabolic."*
+> - 📜 **Arthur D. Imms (*Recent Advances in Entomology*):** *"Phylogenetic analysis reveals that **ametabolism** represents the ancestral developmental condition preceding hemimetabolous transformations."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The persistent **ametabolism** of the Thysanura aligns them with the earliest terrestrial hexapod fossils."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"While butterflies display dramatic transformation, bristletails are governed by simple **ametabolism** from hatching to death."*

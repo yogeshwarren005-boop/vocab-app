@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to the actinomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the actinomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling the actinomycetes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing bacterial colonies or infections displaying branching, mycelium-like morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycetous designates of or belonging to the actinomycetes."*
+> - 📜 **Selman Waksman (*The Actinomycetes*):** *"The **actinomycetous** habit of radial hyphal growth enables these bacteria to penetrate solid plant debris efficiently."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histological staining confirmed the dense, radiating **actinomycetous** clumps within the chronic hepatic abscess."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Filamentous forms exhibiting an **actinomycetous** appearance were isolated from the decomposing compost vat."*

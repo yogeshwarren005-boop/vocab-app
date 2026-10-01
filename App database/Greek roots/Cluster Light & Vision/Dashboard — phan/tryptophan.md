@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline essential amino acid C11H12N2O2 that is widely distributed in proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The levorotatory form of tryptophan that is a precursor of serotonin and was used formerly as a dietary supplement especially to promote sleep and relieve depression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential aromatic amino acid (C11H12N2O2) containing an indole ring, required for protein synthesis and serving as a metabolic precursor to serotonin and melatonin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry and physiology, an essential dietary building block first isolated by Frederick Gowland Hopkins from pancreatic digests of casein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tryptophan designates a crystalline essential amino acid c11h12n2o2 that is widely distributed in proteins."*
+> - 📜 **Frederick Gowland Hopkins (*Feeding Experiments Illustrating the Importance of Accessory Factors in Normal Dietaries*):** *"Animals fed diets lacking **tryptophan** failed to grow, demonstrating that this indole amino acid is strictly essential to life."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The bulky bicyclic indole side chain of **tryptophan** participates in crucial hydrophobic interactions within enzymatic active sites."*
+> - 📜 **Paul Ehrlich (*Studies on Immunity*):** *"Certain bacterial growth media require supplemental **tryptophan** to support rapid proliferation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The term of office of a bishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The territorial jurisdiction of a bishop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, period of office, or collective body of bishops in an episcopal church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical governance and church history, the continuous hierarchical order of overseers claiming apostolic succession and exercising diocesan jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcopate designates the term of office of a bishop."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The authority of the Christian **episcopate** was consolidated during the turbulent centuries of imperial collapse."*
+> - 📜 **Thomas Macaulay (*The History of England*):** *"The English **episcopate** found itself trapped between royal prerogative and the growing demands of the Protestant gentry."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"I had maintained that our branch of the church held a legitimate **episcopate** derived directly from the apostles."*

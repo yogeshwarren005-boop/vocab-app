@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek melan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic condition characterized by the complete absence of melanin pigment in the skin, hair, scales, or feathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary genetics and herpetology, a recessive mutation that leaves erythrophores and xanthophores intact, producing bright red or yellow morphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amelanism designates a term designating an entity, condition, or phenomenon derived from greek melan."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"In captive cornsnakes, **amelanism** produces vivid orange and scarlet patterns lacking all trace of black pigment."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Recessive alleles for **amelanism** fail to synthesize functional tyrosinase within the neural-crest melanocytes."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Natural instances of **amelanism** are quickly weeded out by predators due to the loss of protective camouflage."*

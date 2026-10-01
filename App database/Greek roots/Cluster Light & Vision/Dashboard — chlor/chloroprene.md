@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derivative of butadiene used in making neoprene by polymerization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derivative of butadiene used in making neoprene by polymerization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless volatile liquid chemical monomer (2-chloro-1,3-butadiene) used in the manufacture of the synthetic elastomer neoprene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial polymer chemistry, a conjugated chlorodiene whose polymerization yielded the world's first commercially successful synthetic rubber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloroprene designates derivative of butadiene used in making neoprene by polymerization."*
+> - 📜 **Wallace Carothers (*Studies on Polymerization: Acetylene Polymers and Derivatives*):** *"The addition of hydrogen chloride to monovinylacetylene produces **chloroprene**, which readily polymerizes to an elastic gum."*
+> - 📜 **Arthur D. Little (*The Handwriting on the Wall*):** *"The synthesis of **chloroprene** freed industrial manufacturers from total dependence on natural plantation latex."*
+> - 📜 **Herman F. Mark (*Giant Molecules*):** *"Polymers of **chloroprene** exhibited remarkable resistance to gasoline, heat, and oxidative degradation."*

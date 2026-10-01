@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create (as an entity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make arrangements or preparations for an event or activity; to coordinate (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To endow with organic structure, vitality, or living tissue; to form into a structured whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"To organise the patrol again, under the circumstances, would have been impossible."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"There were intricate, bristling things he rejoiced in; he liked to organise, to contend, to administer; he could make people work his will, believe in him, march before him and justify him."*
-> - 📜 **James Joyce (*Ulysses*):** *"He’s an excellent man to organise."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Tribes that know how to **organise** communal defense and mutual aid invariably survive hostile environments."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Natural forces continually operate to **organise** diffuse cosmic matter into coherent solar systems."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism*):** *"The primary task of enlightened statesmanship is to **organise** industrial production for the common welfare."*

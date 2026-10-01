@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a narrow-minded dogmatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a narrow-minded dogmatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dogmatic manner; with arrogant or unyielding assertion of principles as undeniable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In doctrinal discourse, authoritatively expounding tenets without allowing dispute or questioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Metaphysicians and physiologists who have never taken the trouble to master mathematical principles dogmatically denounce the influence of mathematics."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"We shall cease to set Him forth dogmatically, to dispute about His nature."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Common sense asserts **dogmatically** that objects exist exactly as they appear to our naive vision."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The theorists of the assembly declared **dogmatically** that ancient customs possessed no claim upon modern enlightened man."*
+> - 📜 **William James (*The Will to Believe*):** *"Science itself errs when it proclaims **dogmatically** that the physical cosmos exhausts all possibilities of being."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An observable fact or event : an item of experience or reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that is very popular or impressive especially because of an unusual quality or ability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question; an extraordinary occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Kantian philosophy, the object of sensory experience (the sensible appearance), distinguished from the noumenon (the thing-in-itself).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is, in sense and attachment, a phenomenon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The same phenomenon is visible on some parts of his coat, and particularly at the seams."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We shall have YOU taking fire next or blowing up with a bang.” This supposititious phenomenon is so very disagreeable to Mr."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The human mind cognizes only the **phenomenon** as conditioned by space and time, never the noumenon in itself."*
+> - 📜 **Isaac Newton (*Opticks*):** *"From these simple experiments, the marvelous **phenomenon** of colors in thin plates receives a full explanation."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The phosphorescence of the sea is a magnificent **phenomenon** that fills the nocturnal traveler with wonder."*

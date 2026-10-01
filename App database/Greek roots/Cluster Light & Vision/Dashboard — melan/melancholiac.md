@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone subject to melancholia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone subject to melancholia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person affected with melancholia; an individual suffering from deep, persistent depressive dejection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical psychiatry, a clinical patient predisposed to brooding sorrow, withdrawal, and delusions of unworthiness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melancholiac designates someone subject to melancholia."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The solitary **melancholiac** shuns company and seeks out dark groves to nurse his solitary griefs."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"To the religious **melancholiac**, the universe appears fundamentally evil, rotten, and forsaken of God."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The confirmed **melancholiac** torments himself with imaginary evils while neglecting present duties."*

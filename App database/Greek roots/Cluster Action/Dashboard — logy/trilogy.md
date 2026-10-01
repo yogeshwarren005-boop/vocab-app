@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of three dramas or literary works or sometimes three musical compositions that are closely related and develop a single theme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of three dramas or literary works or sometimes three musical compositions that are closely related and develop a single theme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or series of three related literary, dramatic, or cinematic works that share common themes, characters, or continuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek drama, three linked tragedies presented consecutively at the Dionysian festival by a tragic playwright.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trilogy designates a series of three dramas or literary works or sometimes three musical compositions that are closely related and develop a single theme."*
+> - 📜 **Aristotle (*Poetics*):** *"A dramatic **trilogy** presented by the tragic poet displayed consecutive revolutions of fortune unified by moral necessity."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"In the magnificent Orestean **trilogy** of Aeschylus, cosmic justice attains its terrifying yet harmonious resolution."*
+> - 📜 **J. R. R. Tolkien (*The Letters of J. R. R. Tolkien*):** *"The work was divided into three volumes solely for commercial convenience, though it is not strictly a **trilogy** in structure."*

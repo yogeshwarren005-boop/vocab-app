@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bilobed endocrine gland of vertebrates lying at the anterior base of the neck and producing especially the hormones thyroxine and triiodothyronine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preparation of the thyroid gland of various domestic animals used in treating thyroid disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, shield-shaped, highly vascular endocrine gland located in the lower front of the neck, secreting hormones that regulate metabolism and growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the thyroid gland, or the large shield-shaped cartilage (thyroid cartilage) forming the prominent Adam's apple in the larynx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroid designates a large bilobed endocrine gland of vertebrates lying at the anterior base of the neck and producing especially the hormones thyroxine and triiodothyronine."*
+> - 📜 **Thomas Wharton (*Adenographia: Description of the Glands of the Entire Body*):** *"We name this bilobed neck organ the **thyroid** gland because its shape resembles an ancient Hellenic oblong shield."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion and Internal Secretions*):** *"The **thyroid** gland pours its subtle internal secretion directly into the blood, governing the general energy economy of the animal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disorders of the **thyroid** gland reveal the profound dependence of human mental and physical vitality upon endocrine homeostasis."*

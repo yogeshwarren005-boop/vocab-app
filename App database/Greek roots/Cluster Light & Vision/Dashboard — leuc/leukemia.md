@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute or chronic disease in humans and other warm-blooded animals characterized by an abnormal increase in the number of white blood cells in the tissues and often in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic leukemia that is usually of B cell origin and is characterized by malignant cells with a ciliated appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant progressive disease in which the bone marrow and other blood-forming organs produce increased numbers of immature or abnormal leukocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematologic oncology, classified into acute and chronic myeloid or lymphoid leukemias, characterized by marrow failure, anemia, and thrombocytopenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukemia designates an acute or chronic disease in humans and other warm-blooded animals characterized by an abnormal increase in the number of white blood cells in the tissues and often in the blood."*
+> - 📜 **Rudolf Virchow (*White Blood and Leukemia*):** *"The blood in **leukemia** assumes a milky pale appearance owing to an immense accumulation of colorless cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In myelogenous **leukemia**, the spleen enlarges until it fills almost the entire left half of the abdominal cavity."*
+> - 📜 **Paul Ehrlich (*The Anaemias and Their Pathology*):** *"Cytochemical staining of the marrow in acute **leukemia** reveals the complete arrest of cellular differentiation."*

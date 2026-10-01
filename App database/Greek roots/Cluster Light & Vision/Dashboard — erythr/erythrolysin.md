@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent, toxin, or antibody that dissolves or hemolyzes red blood cells; a hemolysin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and venomics, an enzyme or protein toxin (such as streptolysin or cobra venom hemolysin) that perforates the erythrocyte membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrolysin designates any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The action of a specific **erythrolysin** illustrates the receptor theory of antibody-mediated cytolysis."*
+> - 📜 **Jules Bordet (*Studies on Antigens and Antibodies*):** *"Heating the serum destroyed the alexin, rendering the **erythrolysin** temporarily inactive until fresh serum was added."*
+> - 📜 **Alexander Fleming (*The Action of Chemical Antiseptics*):** *"Streptococcal filtrates contain a potent **erythrolysin** that rapidly produces clear zones on blood agar plates."*

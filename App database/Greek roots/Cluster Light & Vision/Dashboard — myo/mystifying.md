@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mysterious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utterly bewildering, perplexing, or difficult to explain or understand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and scientific research, describing anomalies or narrative twists that confound established expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If, however, at this point, new full-weight coins are put into circulation, these at once disappear while the old ones remain in circulation--a fact that has always been somewhat mystifying."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Then occurred a fall in value, mystifying alike to the prince and the people."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Tope would have found highly mystifying, but that her attention was divided by the service of the table."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"It was the most singular and **mystifying** case that had ever challenged Holmes's powers of deduction."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The transmutation of species was long regarded as a **mystifying** riddle beyond empirical investigation."*
+> - 📜 **H. G. Wells (*The Island of Dr. Moreau*):** *"The half-human cries emanating from the enclosure presented a **mystifying** horror in the night."*

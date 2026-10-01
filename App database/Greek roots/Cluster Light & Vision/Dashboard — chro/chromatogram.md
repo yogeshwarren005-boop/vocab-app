@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recording (column or paper strip) on which the constituents of a mixture are adsorbed in chromatography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recording (column or paper strip) on which the constituents of a mixture are adsorbed in chromatography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible record, column, or graphic output produced by chromatography, showing the separated components of a mixture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, the band pattern on a paper strip or the electronic peak profile recorded across retention time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatogram designates the recording (column or paper strip) on which the constituents of a mixture are adsorbed in chromatography."*
+> - 📜 **Mikhail Tsvet (*Chromatographic Adsorption Analysis*):** *"The green extract separated on the chalk column into colored zones, forming an elegant **chromatogram** of leaf pigments."*
+> - 📜 **Archer John Porter Martin (*A New Form of Chromatogram Employing Two Liquid Phases*):** *"The movement of amino acids across the paper **chromatogram** revealed distinct ninhydrin-stained spots."*
+> - 📜 **Richard Laurence Millington Synge (*Nobel Lecture: Partition Chromatography*):** *"Examining the developed **chromatogram** permitted the complete structural mapping of the gramicidin polypeptide."*

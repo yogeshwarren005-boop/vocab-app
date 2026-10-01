@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of phosphoric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carbonated drink with fruit syrup and a little phosphoric acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical salt or ester of phosphoric acid containing the tetrahedral PO4^3- anion, essential for life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and bioenergetics, high-energy phosphate bonds (as in adenosine triphosphate, ATP) driving cellular metabolism, muscle contraction, and nucleic acid synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A variety of minor enterprises have been undertaken by states to supply salt, phosphate, banking facilities, even some manufactures."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A variety of minor enterprises have been undertaken by states to supply salt, phosphate, banking facilities, even some manufactures."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It is far before phosphates, about which there has been so much talk these last years."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Without bone **phosphate** in the soil, the golden wheat cannot form its plump and fertile grain."*
+> - 📜 **Fritz Lipmann (*Metabolic Generation and Utilization of Phosphate Bond Energy*):** *"The terminal **phosphate** bond of ATP functions as the universal energy currency of all living cells."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Alternating sugar and **phosphate** groups form the structural outer backbones of the DNA double helix."*

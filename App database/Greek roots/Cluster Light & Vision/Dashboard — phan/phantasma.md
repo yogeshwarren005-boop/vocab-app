@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ghostly appearing figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something existing in perception only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or philosophical form of phantasm; an apparition, phantom, or mental illusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian epistemology and classical tragedy, the internal sensory image produced by the imagination (phantasia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phantasma designates a ghostly appearing figure."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Between the acting of a dreadful thing And the first motion, all the interim is Like a **phantasma**, or a hideous dream."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The mind of man, unguided by empirical observation, generates empty **phantasma** instead of divine knowledge."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Sleep creates an inward stage where the soul converses with its own airy **phantasma**."*

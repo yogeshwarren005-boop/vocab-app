@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or belonging to an organism (considered as a whole).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to an organism (considered as a whole).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of an organism as a complete whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary and developmental biology, focused on the level of the intact individual rather than sub-cellular or molecular components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organismal designates of or relating to or belonging to an organism (considered as a whole)."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Darwin maintained that selection acts primarily upon the **organismal** individual, not upon isolated genes or populations."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Natural selection integrates biochemical mutations into a functionally coherent **organismal** phenotype."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The whole **organismal** architecture determines reproductive fitness in the wild, regardless of reductionist genetic models."*

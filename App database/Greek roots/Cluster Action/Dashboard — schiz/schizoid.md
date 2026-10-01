@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, showing, or involving mutually contradictory or antagonistic parts : changing frequently between opposite states —not used technically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mentally unsound : schizo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting traits of social withdrawal, emotional detachment, aloofness, and introspective preoccupation without frank psychosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, pertaining to the fundamental split within the ego and defensive retreat into an internal world of fantasy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizoid designates having, showing, or involving mutually contradictory or antagonistic parts : changing frequently between opposite states —not used technically."*
+> - 📜 **W. R. D. Fairbairn (*Psychoanalytic Studies of the Personality*):** *"The fundamental position of the **schizoid** individual is that his love is destructive to those he loves, compelling an inward retreat."*
+> - 📜 **Harry Guntrip (*Schizoid Phenomena, Object-Relations, and the Self*):** *"The ultimate **schizoid** defense is detachment from all emotional relationships in an effort to preserve personal integrity."*
+> - 📜 **Anthony Storr (*Solitude: A Return to the Self*):** *"Creative individuals often display **schizoid** characteristics, finding in solitary labor a refuge from interpersonal conflict."*

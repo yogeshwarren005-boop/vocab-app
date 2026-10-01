@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of strike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of strike.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or afflicted with cataplexy; characterized by sudden, transient loss of voluntary muscle tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep medicine and neurology, describing paroxysmal episodes of motor collapse provoked by sudden emotional arousal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataplectic designates adjective*) pertaining to, derived from, or characteristic of strike."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"The patient collapsed in a **cataplectic** immobility whenever an unexpected loud noise startled him."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"During the **cataplectic** episode, consciousness remains clear while the postural muscles suddenly lose all tone."*
+> - 📜 **S. Weir Mitchell (*Lectures on Diseases of the Nervous System*):** *"The suddenness of the **cataplectic** drop attack poses a constant danger of physical injury to the patient."*

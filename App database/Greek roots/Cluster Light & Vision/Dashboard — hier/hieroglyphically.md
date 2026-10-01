@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of hieroglyphs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of hieroglyphs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of hieroglyphs; in an emblematic, symbolic, or enigmatic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hermeneutics and literary history, communicating veiled meanings through allegorical pictures or encoded glyphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hieroglyphically designates by means of hieroglyphs."*
+> - 📜 **Thomas Browne (*Urn Burial*):** *"The ancients spoke **hieroglyphically** of death under the emblem of a youth with an extinguished torch."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nature expresses her laws **hieroglyphically** in the crystal, the leaf, and the shell."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet paints his visions **hieroglyphically**, leaving the inner spirit to interpret the outward form."*

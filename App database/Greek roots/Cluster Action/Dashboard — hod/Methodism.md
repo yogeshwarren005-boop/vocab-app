@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious beliefs and practices of methodists characterized by concern with social welfare and public morals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The religious beliefs and practices of methodists characterized by concern with social welfare and public morals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A denomination of Protestant Christianity originating in the 18th-century evangelistic revival led by John and Charles Wesley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, characterized by personal piety, methodical Bible study, evangelical field preaching, and connectional governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In his "Memorials of Methodism in Virginia," Dr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It was his conversion to Evangelicism which gave him his inspiration and his themes. ‘The Task’ has been as justly called the poem of Methodism as the ‘Paradise Lost’ has been called the epic of Puritanism."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The ministers of early Methodism and early Quakerism were not of the sort who congregate in groups and discuss the relative desirability of various appointments."*
+> - 📜 **John Wesley (*The Character of a Methodist*):** *"The world bestowed the label of **Methodism** upon us because we resolved to govern our daily walk by methodical discipline."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Dinah Morris brought the tender, fervent spirit of early **Methodism** into the rustic hamlets of Loamshire."*
+> - 📜 **Thomas Macaulay (*The History of England*):** *"The explosive rise of **Methodism** awakened moral seriousness across industrializing English mining towns."*

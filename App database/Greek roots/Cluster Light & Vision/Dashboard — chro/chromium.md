@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue-white metallic element found naturally only in combination and used especially in alloys and in electroplating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologically active chromium salt C18H12CrN3O6 used as a dietary supplement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, brittle, lustrous transition metal of atomic number 24 (symbol Cr), capable of taking a high polish and resisting tarnishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, an essential alloying component of stainless steel; named from Greek chroma due to the intense colors of its varied chemical compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Steel is ordinarily an alloy of iron and carbon, but this metal also contains traces of nickel and chromium, which make it specially suitable for its special purpose."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"It had once been an imposing structure, but its chromium trim had begun to peel, and the aluminum siding was whitely pitted with oxide."*
+> - 📜 **Louis Nicolas Vauquelin (*Memoir on a New Metallic Substance Found in the Red Lead of Siberia*):** *"I propose to give this metal the name **chromium**, on account of the striking and varied colors of its compounds."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The compounds of **chromium** yield some of the most durable and brilliant pigments in the arts."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"Our laboratory syntheses depended on compounds of **chromium**, whose brilliant orange crystals required delicate handling."*

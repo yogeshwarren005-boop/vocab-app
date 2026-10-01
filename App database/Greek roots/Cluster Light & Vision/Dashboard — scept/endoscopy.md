@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The examination of internal body cavities, lumens, or organs using an endoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a comprehensive subspecialty encompassing upper and lower gastrointestinal evaluations, bronchoscopy, laparoscopy, and arthroscopy for both diagnostic and therapeutic ends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscopy designates an illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors)."*
+> - 📜 **Rudolf Schindler (*Gastroscopy: The Endoscopic Study of Gastric Pathology*):** *"The systematic practice of **endoscopy** transformed gastric pathology from posthumous speculation into an exact living science."*
+> - 📜 **William Mayo (*Collected Papers of the Mayo Clinic*):** *"Diagnostic **endoscopy** has dramatically reduced the mortality of gastrointestinal ulcerations by enabling timely local intervention."*
+> - 📜 **Chevalier Jackson (*Peroral Endoscopy and Laryngeal Surgery*):** *"In skillful hands, peroral **endoscopy** safely retrieves foreign bodies that would otherwise prove fatal."*

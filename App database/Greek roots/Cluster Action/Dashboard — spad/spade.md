@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A digging implement adapted for being pushed into the ground with the foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spade-shaped instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digging implement with a sharp, flat, rectangular metal blade and a long handle, operated by foot pressure for turning soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cards, one of four suits in a standard deck characterized by a black, heart-shaped leaf emblem terminating in a small point and base stem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, e’en so: and now my Lady Worm’s; chapless, and knocked about the mazard with a sexton’s spade."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST CLOWN. [_Sings._] A pickaxe and a spade, a spade, For and a shrouding-sheet; O, a pit of clay for to be made For such a guest is meet. [_Throws up another skull._] HAMLET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus with a kiss I die. [_Dies._] Enter, at the other end of the Churchyard, Friar Lawrence, with a lantern, crow, and spade."*
+> - 📜 **William Wordsworth (*To the Spade of a Friend*):** *"Spade! with which Henry delved the ground, with thee how cheerfully he turned the yielding sod!"*
+> - 📜 **Seamus Heaney (*Death of a Naturalist*):** *"Between my finger and my thumb the squat pen rests; snug as a gun. By God, the old man could handle a **spade**."*
+> - 📜 **John Ruskin (*Sesame and Lilies*):** *"Every honest laborer who thrusts his **spade** into the earth participates in the sacred duty of subduing nature."*

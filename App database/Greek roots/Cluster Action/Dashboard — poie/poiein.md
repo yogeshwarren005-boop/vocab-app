@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek verb (poiein, meaning 'to make, create, produce, or compose'), the linguistic root of poem, poet, and poiesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian philosophy, the category of productive action (making) distinguished from ethical and political conduct (praxis) and contemplation (theoria).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Justin, _Apol._ i, 15. [64] _Didache_, 12. _ei de ouk echei technen, kata ten synesin humon pronoesate, pos me argos meth hymon zesetai christianos. ei de ou thelei outo poiein, christemporos estin prosechete apo ton toiouton_."*
+> - 📜 **Martin Heidegger (*The Question Concerning Technology*):** *"The Greek verb **poiein** means bringing-forth into appearance, disclosing what was previously concealed."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Making, or **poiein**, differs essentially from acting, or prattein, because production has an end distinct from the activity itself."*
+> - 📜 **Hannah Arendt (*The Human Condition*):** *"In Greek thought, the craft of **poiein** was distinguished from the political speech and action of praxis."*

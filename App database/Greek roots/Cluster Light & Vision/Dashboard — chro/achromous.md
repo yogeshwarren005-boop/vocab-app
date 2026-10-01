@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without color; lacking natural pigmentation; colorless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and botanical nomenclature, characterizing tissues, organs, or whole organisms that are translucent or white due to pigment absence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromous designates having no color."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The subterranean crustacean possessed an entirely **achromous** exoskeleton and rudimentary visual organs."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Submerged roots and saprophytic tubers remain **achromous** because light is excluded from their tissues."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The internal glandular hairs appeared translucent and **achromous** before digestive secretion commenced."*

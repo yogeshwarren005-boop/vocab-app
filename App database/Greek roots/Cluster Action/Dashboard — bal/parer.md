@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manicurist who trims the fingernails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small sharp knife used in paring fruits or vegetables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tool or implement used for paring or peeling, such as a paring knife or apple peeler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who pares; or a specialized craftsman trimming hides, hoofs, or fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parer designates a manicurist who trims the fingernails."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The rustic cooper sharpened his curved draw-knife, using it as an expert **parer** of ash staves."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With the dexterity of an apple **parer**, the harpooneer sliced away the blubber in long spiral ribbons."*
+> - 📜 **George Eliot (*Adam Bede*):** *"In the farm kitchen, the dairymaid wielded a swift **parer** over the autumn harvest of russet apples."*

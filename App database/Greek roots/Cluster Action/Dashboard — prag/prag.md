@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of the czech republic in the western part of the country; a cultural and commercial center since the 14th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of the czech republic in the western part of the country; a cultural and commercial center since the 14th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root (pragma, prattein, meaning 'a deed, act, matter, business, or thing done'), forming the core of words related to action, utility, and practical affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological linguistics and philosophy, the conceptual radical contrasting concrete worldly enterprise with speculative contemplation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prag designates the capital and largest city of the czech republic in the western part of the country; a cultural and commercial center since the 14th century."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The radical element **prag** in ancient Greek yields terms for action, business, and practical deed."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the Greek stem **prag**, seen in prattein and pragma, come our words pragmatic, praxis, and practice."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The primitive Indo-European root underlying **prag** denotes doing or passing through to concrete execution."*

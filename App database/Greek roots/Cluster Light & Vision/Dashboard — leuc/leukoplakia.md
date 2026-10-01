@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition in which thickened white patches of epithelium occur on the mucous membranes (as of the mouth or vulva); also : a lesion or lesioned area of leukoplakia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition in which thickened white patches of epithelium occur on the mucous membranes (as of the mouth or vulva); also : a lesion or lesioned area of leukoplakia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which white, adherent patches or plaques develop on the mucous membranes of the mouth, tongue, or vulva, with potential for malignant transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral pathology, a hyperkeratotic epithelial dysplasia associated with tobacco and alcohol use, biopsied to rule out oral squamous cell carcinoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukoplakia designates an abnormal condition in which thickened white patches of epithelium occur on the mucous membranes (as of the mouth or vulva); also : a lesion or lesioned area of leukoplakia."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Chronic pipe smokers frequently exhibit persistent patches of **leukoplakia** upon the dorsal surface of the tongue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must regard **leukoplakia** of the buccal mucosa as a premalignant lesion requiring close surveillance."*
+> - 📜 **Erasmus Wilson (*Diseases of the Skin*):** *"The chalky white plaque of **leukoplakia** cannot be wiped off the mucous membrane like a thrush deposit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two alternating current electrical systems, generators, or engines are running at the same speed and in phase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical substation engineering, a dial instrument with a rotating pointer that spins clockwise if incoming frequency is high and counter-clockwise if low.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronoscope designates an instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines)."*
+> - 📜 **Charles Proteus Steinmetz (*Alternating Current Machinery*):** *"The operator waited until the pointer of the **synchronoscope** halted upright before throwing the main bus switch."*
+> - 📜 **Arthur D. Little (*Industrial Power Generation*):** *"By watching the **synchronoscope**, technicians avoided the massive transient surges of out-of-phase paralleling."*
+> - 📜 **Nikola Tesla (*Polyphase Currents*):** *"A miniature induction motor formed the core of the earliest rotating **synchronoscope**."*

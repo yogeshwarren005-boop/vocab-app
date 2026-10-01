@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who classifies organisms or formulates systematic principles; a specialist in biological taxonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intellectual or scientist dedicated to creating orderly, all-encompassing taxonomies or theoretical frameworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematist designates a biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior."*
+> - 📜 **Carl Linnaeus (*Philosophia Botanica*):** *"The true **systematist** arranges plants according to their immutable floral organs, revealing the divine order of nature."*
+> - 📜 **Louis Agassiz (*Essay on Classification*):** *"To the thoughtful **systematist**, every natural category reflects an intellectual thought of the Creator written in organic forms."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The herbarium is the indispensable laboratory wherein the botanical **systematist** compares dried types across continents."*

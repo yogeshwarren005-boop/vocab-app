@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Firebugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Firebugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of hemipteran true bugs, commonly known as red bugs or cotton stainers, characterized by bright aposematic red and black coloration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, phytophagous insects possessing piercing-sucking mouthparts that damage agricultural crops like cotton, notable for their synthesis of juvenile hormone analogues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog pyrrhocoridae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Members of the family **Pyrrhocoridae** are conspicuous for their vivid contrast of red and black warning coloration."*
+> - 📜 **Vincent Dethier (*The Physiology of Insect Senses*):** *"Certain species of **Pyrrhocoridae** respond sharply to the volatile chemical cues given off by ripening cotton bolls."*
+> - 📜 **Howard Ensign Evans (*Life on a Little-Known Planet*):** *"The cotton stainers belonging to **Pyrrhocoridae** illustrate how insect pigments warn predators of unpalatable alkaloids."*

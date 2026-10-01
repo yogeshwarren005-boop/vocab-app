@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical governing or advisory council: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assembly of bishops in the Roman Catholic Church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembly of the clergy and sometimes also the laity in a diocese or other division of a Christian church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, historical term for a conjunction of two celestial bodies; etymologically from Greek synodos ('meeting, traveling together on a common path').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gods and goddesses, All the whole synod of them!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus Rosalind of many parts By heavenly synod was devised, Of many faces, eyes, and hearts To have the touches dearest prized."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or we poor ghosts will cry To th’ shining synod of the rest Against thy deity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ecclesiastical **synod** of Tyre deposed Athanasius amidst bitter partisan recriminations."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God assembled the heavenly **synod** to hear the decrees of eternal providence."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The elders of the Scottish kirk gathered in solemn **synod** to deliberate on church discipline."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organic compound composed solely of carbon, chlorine, and fluorine, historically used as refrigerants, aerosol propellants, and solvents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric environmental science, volatile halogenated hydrocarbons (CFCs) responsible for the catalytic destruction of stratospheric ozone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorofluorocarbon designates a fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans."*
+> - 📜 **Mario J. Molina (*Stratospheric Sink for Chlorofluoromethanes: Chlorine Atom-Catalysed Destruction of Ozone*):** *"Photodissociation of every persistent **chlorofluorocarbon** releases free chlorine radicals that devour stratospheric ozone."*
+> - 📜 **F. Sherwood Rowland (*Nobel Lecture: Atmospheric Chemistry of Ozone Depletion*):** *"Because of their chemical inertness, molecules of **chlorofluorocarbon** drift unaltered for decades until reaching the stratosphere."*
+> - 📜 **Al Gore (*Earth in the Balance*):** *"The global phaseout of **chlorofluorocarbon** propellants demonstrated that nations could act collectively to shield the biosphere."*

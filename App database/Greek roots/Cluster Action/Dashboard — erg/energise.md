@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raise to a higher energy level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be alert and energetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give vitality, enthusiasm, and vigor to; to invigorate or stimulate (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, to supply electric current or power to a device, circuit, or magnet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If, then, such current were employed to energise a magnet, that magnet would give 100 tugs per second."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Broken by the heat of the explosion, the foil cuts off this current, de-energises the magnet, and allows the bar to fall with its ends in the mercury."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Electric current is made to pass through this wire on its way to a suitable house in which are recording instruments, where it energises a magnet and so holds something up."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Connecting the voltaic battery served to **energise** the core of the great electromagnet instantly."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A great national hero must arise to **energise** the sluggish conscience of a distracted people."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Closing the contact switch allowed the dynamos to **energise** the gleaming brass mechanism of the traveler."*

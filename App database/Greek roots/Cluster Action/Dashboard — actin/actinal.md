@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of radiate organisms) located on the surface or end on which the mouth is situated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of radiate organisms) located on the surface or end on which the mouth is situated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the oral surface or the area bearing tentacles or mouth parts in radiately symmetrical animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In echinoderm anatomy, the ventral region bearing the ambulacral grooves and tube feet, contrasting with the abactinal surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinal designates (of radiate organisms) located on the surface or end on which the mouth is situated."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Echinodermata*):** *"The **actinal** plate system encompasses the ambulacral ossicles and peristomial membranes of the sea star."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Tentacular rows converge neatly toward the central mouth on the flat **actinal** surface of the disc."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Ciliary currents traverse the **actinal** grooves, conveying suspended microscopic food particles toward the mouth."*

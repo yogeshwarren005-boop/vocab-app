@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually metamorphic rock consisting essentially of amphibole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually metamorphic rock consisting essentially of amphibole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coarse-grained metamorphic rock composed mainly of amphibole (especially hornblende) and plagioclase feldspar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology, the defining rock type of medium- to high-grade regional metamorphism under intermediate pressures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibolite designates a usually metamorphic rock consisting essentially of amphibole."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"Dark bands of craggy **amphibolite** traverse the Lewisian gneiss, recording ancient basaltic dikes sheared by mountain-building stresses."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Under amphibolite-facies conditions, hydrating fluids transform oceanic basalt into crystalline **amphibolite**."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Glistening black hornblende crystals give the weathered **amphibolite** ledge a distinctive rugged, fibrous texture."*

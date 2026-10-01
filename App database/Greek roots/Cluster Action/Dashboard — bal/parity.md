@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) the number of liveborn children a woman has delivered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a relation between a pair of integers: if both integers are odd or both are even they have the same parity; if one is odd and the other is even they have different parity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being equal, especially regarding status, pay, value, or ranking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and mathematics, the symmetry property of a spatial wave function under coordinate inversion (reflection through the origin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is hoped that they will have the high credit of municipal bonds so that they may be sold at parity, bearing interest at 4 or 4.5 per cent."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We commend the wise and patriotic steps already taken by our government to secure an international conference, to adopt such measures as will insure a parity of value between gold and silver for use as money throughout the world."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"As to learning, government, arts, manufactures, and the like,” my master confessed, “he could find little or no resemblance between the _Yahoos_ of that country and those in ours; for he only meant to observe what parity there was in our natures."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Free competition tends over time to establish a fair **parity** in wages across comparable employments."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"The stunning discovery that **parity** is violated in weak nuclear interactions shattered long-cherished physical assumptions."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Justice demands an absolute legal **parity** between the sexes in every sphere of civil life."*

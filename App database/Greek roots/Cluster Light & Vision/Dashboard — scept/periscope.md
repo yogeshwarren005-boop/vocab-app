@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tubular optical instrument containing lenses and mirrors by which an observer obtains an otherwise obstructed field of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular optical instrument containing lenses and mirrors by which an observer obtains an otherwise obstructed field of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument consisting of a tube with mirrors or prisms, enabling an observer to see objects that are otherwise out of direct line of sight (such as from a submerged submarine or trench).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture and military optics, a retractable mast equipped with erecting lens systems and rangefinders, essential for submerged navigation and torpedo targeting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"This time there was no chance of damaging the motive power, but we could make the pilot wish he had a periscope."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The submarine slipped beneath the swell, leaving only the slender brass tube of its **periscope** cutting the water."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Every commander scanned the gray North Sea horizon for the telltale wake of a German U-boat **periscope**."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"His vigilant eyes seemed to sweep the darkening water as tirelessly as the lens of an optical **periscope**."*

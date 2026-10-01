@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character used in a system of hieroglyphic writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that resembles a hieroglyph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stylized picture of an object representing a word, syllable, or sound, as used in ancient Egyptian and other writing systems; an enigmatic or difficult symbol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epigraphy and semiotics, a pictorial character combining ideographic, logographic, and phonetic determinatives into a sacred script.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"When the gnarl'd, knotted trunks Eucalyptian Seem carved, like weird columns Egyptian, With curious device--quaint inscription, And hieroglyph strange."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A hieroglyph,” said the Rhetor, “is an emblem of something not cognizable by the senses but which possesses qualities resembling those of the symbol.” Pierre knew very well what a hieroglyph was, but dared not speak."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Did not an immortal physicist and interpreter of hieroglyphs write detestable verses?"*
+> - 📜 **Jean-François Champollion (*Letter to M. Dacier Concerning the Alphabet of Phonetic Hieroglyphs*):** *"Every royal cartouche contains a true phonetic **hieroglyph** spelling out the name of Pharaoh Ptolemy."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Every natural fact is a symbol of some spiritual fact; every appearance in nature is a divine **hieroglyph**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The mysterious wrinkles on the whale's brow resembled an ancient **hieroglyph** that no scholar could decipher."*

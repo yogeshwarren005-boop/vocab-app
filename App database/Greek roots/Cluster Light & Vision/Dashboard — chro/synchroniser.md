@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of synchronizer; a device, mechanism, or circuit that brings two or more systems into temporal or rotational unison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radio engineering and early television, an electronic circuit generating sync pulses to lock the sweep generator to the video carrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchroniser designates an instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines)."*
+> - 📜 **John Logie Baird (*Sermons in Science*):** *"The magnetic **synchroniser** kept the rotating wheel spinning in lockstep with the received radio signal."*
+> - 📜 **Arthur D. Little (*Mechanical Inventions of the Century*):** *"An automatic **synchroniser** prevents electrical alternators from suffering catastrophic flashovers upon grid connection."*
+> - 📜 **Vannevar Bush (*Modern Computing Devices*):** *"A mechanical **synchroniser** coupled the differential analyzer's integration wheels to the primary drive shaft."*

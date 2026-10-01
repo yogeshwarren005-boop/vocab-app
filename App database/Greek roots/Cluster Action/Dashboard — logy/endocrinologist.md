@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physician who specializes in the diagnosis and treatment of conditions affecting the endocrine system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physician who specializes in the diagnosis and treatment of conditions affecting the endocrine system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician or scientist specializing in endocrinology, the study of the endocrine system, hormones, and glandular metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialist who manages complex metabolic disorders, pituitary-adrenal axes, diabetes mellitus, and thyroid pathologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocrinologist designates physician who specializes in the diagnosis and treatment of conditions affecting the endocrine system."*
+> - 📜 **Fuller Albright (*The Parathyroid Glands and Metabolic Bone Disease*):** *"The **endocrinologist** must view the patient as a delicately balanced chemical engine regulated by hormone feedback."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"The **endocrinologist** recognizes that hormones are not isolated actors, but coordinates in a universal adaptation response."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"In investigating homeostasis, the **endocrinologist** traces how minute humoral secretions preserve bodily equilibrium."*

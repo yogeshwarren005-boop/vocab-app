@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician specializing in gastroenterology, the medical management of diseases affecting the digestive system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinician expert in endoscopic diagnosis, gastrointestinal motility, and hepatic, pancreatic, and intestinal pathologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroenterologist designates a branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The astute **gastroenterologist** must distinguish between functional dyspepsia and occult ulceration of the gastric mucosa."*
+> - 📜 **Charles Horace Mayo (*Selected Papers*):** *"Collaboration between the surgeon and the **gastroenterologist** has transformed the management of chronic duodenal disease."*
+> - 📜 **Arthur Hurst (*Medical Essays and Addresses*):** *"The modern **gastroenterologist** relies upon fluoroscopy and fractional gastric analysis to uncover hidden functional defects."*

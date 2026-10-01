@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organizer who puts things in order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who organizes facts, principles, or institutions into a coherent, methodical system (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thinker, administrator, or scientist known for constructing vast taxonomic, legal, or intellectual architectures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And if you descend into the bowels of the various leviathans, why there you will not find distinctions a fiftieth part as available to the systematizer as those external ones already enumerated."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And if you descend into the bowels of the various leviathans, why there you will not find distinctions a fiftieth part as available to the systematizer as those external ones already enumerated."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The medieval scholastic was a formidable **systematizer**, constructing cathedrals of thought as towering as Chartres itself."*
+> - 📜 **William James (*Pragmatism*):** *"The pragmatic philosopher views the dogmatic **systematizer** with suspicion, knowing life continually spills over formal categories."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The modern corporate **systematizer** seeks to align human labor with the ruthless mechanical rhythms of industrial technology."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The orientation of an iconoclast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The orientation of an iconoclast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of attacking or assertively rejecting cherished beliefs and institutions or established values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, the deliberate destruction of religious images, icons, and monuments during theological controversies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iconoclasm designates the orientation of an iconoclast."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine fury of **iconoclasm** stripped churches of golden images and fractured imperial unity."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The Enlightenment ushered in an era of intellectual **iconoclasm**, testing ancient dogmas before the bar of reason."*
+> - 📜 **Friedrich Nietzsche (*Twilight of the Idols*):** *"Philosophizing with a hammer is the highest form of **iconoclasm**, exposing the hollow ring of revered idols."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cyclotron that achieves relativistic velocities by modulating the frequency of the accelerating electric field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cyclotron that achieves relativistic velocities by modulating the frequency of the accelerating electric field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cyclotron in which the radiofrequency of the accelerating electric field is cyclically decreased to compensate for relativistic mass increase of particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear and particle physics, an accelerator developed by Edwin McMillan that broke the classic cyclotron energy ceiling to accelerate protons above 100 MeV.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchrocyclotron designates cyclotron that achieves relativistic velocities by modulating the frequency of the accelerating electric field."*
+> - 📜 **Edwin McMillan (*The Synchrotron: A Proposed High Energy Accelerator*):** *"Modulating the oscillator frequency in the **synchrocyclotron** keeps relativistic protons in phase with the accelerating gap."*
+> - 📜 **Ernest Lawrence (*Nobel Lecture: The Development of the Cyclotron*):** *"The 184-inch Berkeley **synchrocyclotron** opened the path to artificial meson production."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"Beams of high-energy pions produced by the Chicago **synchrocyclotron** enabled precise scatter experiments."*

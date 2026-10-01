@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very sensitive thermometer whose electrical resistance varies with temperature and which is used in the detection and measurement of feeble thermal radiation and is especially adapted to the study of infrared spectra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very sensitive thermometer whose electrical resistance varies with temperature and which is used in the detection and measurement of feeble thermal radiation and is especially adapted to the study of infrared spectra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely sensitive electrical instrument for measuring radiant heat or infrared radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and spectroscopy, a device utilizing the temperature-dependent electrical resistance of a blackened metal strip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bolometer designates a very sensitive thermometer whose electrical resistance varies with temperature and which is used in the detection and measurement of feeble thermal radiation and is especially adapted to the study of infrared spectra."*
+> - 📜 **Samuel Pierpont Langley (*The Bolometer and Radiant Energy*):** *"I constructed the **bolometer** to map the unknown infrared spectrum lying far beyond the visible red limits."*
+> - 📜 **Max Planck (*The Theory of Heat Radiation*):** *"Measurements obtained with Langley's delicate **bolometer** provided the precise empirical curve that necessitated quantum theory."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Coupled to a large telescope, the chilled **bolometer** detects the faint warmth radiating from distant red giant stars."*

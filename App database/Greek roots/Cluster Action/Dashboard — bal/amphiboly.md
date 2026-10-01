@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amphibology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amphibology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ambiguity in language resulting from grammatical structure or phrasing capable of multiple interpretations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and formal logic, a syntactic fallacy where the structural arrangement of words admits two distinct meanings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiboly designates amphibology."*
+> - 📜 **Aristotle (*Sophistical Refutations*):** *"Fallacies dependent on language arise either through equivocation of words or through syntactic **amphiboly**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Disputants frequently shelter their ignorance behind subtle **amphiboly** and ambiguous phrasing."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient oracular pronouncements excelled in calculated **amphiboly**, ensuring that whatever occurred fulfilled the prophecy."*

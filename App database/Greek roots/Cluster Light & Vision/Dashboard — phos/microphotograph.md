@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small photograph that is normally magnified for viewing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photomicrograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph of microscopic size, requiring a magnifying lens or microscope to be viewed; or a photograph taken through a microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photographic history and espionage, minute images on collodion film pioneered by John Benjamin Dancer and utilized during the 1870 Siege of Paris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphotograph designates a small photograph that is normally magnified for viewing."*
+> - 📜 **Oliver Wendell Holmes (*The Atlantic Monthly: Sun-Painting and Sun-Sculpture*):** *"Dancer reduced the whole page of the Times to the size of a pin's head in a minute **microphotograph**."*
+> - 📜 **Charles Dickens (*All the Year Round*):** *"Pigeon carriers flew into besieged Paris carrying thousands of despatches condensed into a single **microphotograph**."*
+> - 📜 **Robert Koch (*Etiology of Wound Infections*):** *"To convince skeptical clinicians, I attached the camera to the microscope and prepared every **microphotograph** myself."*

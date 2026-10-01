@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or given to doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denying or questioning the tenets of especially a religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to doubt or question accepted beliefs, dogmatic claims, or received assertions; withholding judgement without conclusive evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy, adopting the systematic methodology of Pyrrhonism or Academic skepticism that suspended assent (epoché) regarding metaphysical certainty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps in no minor point does woman astonish her helpmate more than in the strange power she possesses of believing cajoleries that she knows to be false—except, indeed, in that of being utterly sceptical on strictures that she knows to be true."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Politically I am sceptical as to the virtue of their being old."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Jackson, a weak stick of a creature with a smattering of medicine, grew sceptical."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The **sceptical** philosopher remains still suspicious of all the speculations of philosophy, and discovers every error in them."*
+> - 📜 **Bertrand Russell (*Sceptical Essays*):** *"It is undesirable to believe a proposition when there is no ground whatever for supposing it true, which is the essence of being **sceptical**."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"I am not so confident of my own opinions, nor so much wedded to them, as not to be quite willing to become **sceptical** upon fair cause shown."*

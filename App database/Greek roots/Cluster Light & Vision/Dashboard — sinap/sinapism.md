@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sinap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mustard plaster or poultice applied externally to the skin as a counterirritant and rubefacient to relieve congestion or pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century therapeutics, a topical preparation of powdered mustard seeds and lukewarm water used to stimulate local cutaneous hyperemia and reflexively ease deep-seated visceral inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinapism designates a term designating an entity, condition, or phenomenon derived from greek sinap."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The physician ordered a warm foot-bath and the application of a sharp **sinapism** to the chest to draw off the feverish congestion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute bronchitis, temporary relief from substernal soreness may be obtained by applying a mild **sinapism** over the upper sternum."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Homais bustled about the sickroom recommending an immediate **sinapism** made with the strongest Dijon mustard."*

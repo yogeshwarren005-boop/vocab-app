@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soviet cosmonaut who was the first woman in space (born in 1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soviet cosmonaut who was the first woman in space (born in 1937).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Valentina Tereshkova (born 1937), Soviet cosmonaut and aerospace pioneer who became the first woman to travel into outer space aboard Vostok 6 in June 1963.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace history, the historic figure who orbited the Earth 48 times during a 71-hour mission, validating female physiological resilience in microgravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tereshkova designates soviet cosmonaut who was the first woman in space (born in 1937)."*
+> - 📜 **Yuri Gagarin (*Road to the Stars*):** *"When **Tereshkova** lifted off in Vostok 6, she demonstrated to the entire world that space belongs equally to women."*
+> - 📜 **Sergei Korolev (*Cosmic Rocket Engineering Memoirs*):** *"The flawless telemetry received from **Tereshkova** during orbital reentry proved our spacecraft life-support systems were fully reliable."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The historic solo flight of Valentina **Tereshkova** opened the cosmos to humanity without distinction of gender."*

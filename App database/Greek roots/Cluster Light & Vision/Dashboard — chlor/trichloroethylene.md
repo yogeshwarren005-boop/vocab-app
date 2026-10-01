@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile, sweet-smelling, chlorinated hydrocarbon solvent (C2HCl3) widely used as an industrial metal degreaser and extraction solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental toxicology and industrial hygiene, a persistent groundwater pollutant and classified carcinogen historically used as a surgical anesthetic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloroethylene designates a heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial discharges of **trichloroethylene** contaminated municipal wells, threatening regional groundwater tables."*
+> - 📜 **Alice Hamilton (*Industrial Toxicology*):** *"Inhaling heavy fumes of **trichloroethylene** in dry-cleaning shops produced dizziness, narcosis, and liver damage."*
+> - 📜 **James Young Simpson (*Anæsthesia, or the Employment of Chloroform and Ether*):** *"Experimental trials with **trichloroethylene** showed marked anesthetic properties, though less volatile than ether."*

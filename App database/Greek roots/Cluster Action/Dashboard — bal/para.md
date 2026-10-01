@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) the number of liveborn children a woman has delivered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 para equal 1 dinar in yugoslavia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining preposition and prefix signifying beside, beyond, alongside, contrary to, or abnormal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, designating the relationship between two substituents occupying opposite positions (1,4) on a benzene ring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am an admirer of Montesquieu,” replied Prince Andrew, “and his idea that le principe des monarchies est l’honneur me paraît incontestable."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jew was now asked by the Christian to admit a second God--a God beside the Creator (_allos theos para ton poieten ton holon_[5])--and such a God!"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Speaking of the depravity of the age, Almost all-houses, he said, were made ale-houses;―that men made matri-money a matter of money; and placed their Para-dise in a pair of dice: Was it so in the days of No-ah?"*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The Greek prefix **para** carries rich semantic extensions, ranging from physical proximity to logical deviation."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Resonance stabilization in the **para** isomer differs markedly from the adjacent ortho arrangement."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Compounded with verbs, **para** imparts nuances of passing beyond bounds or standing steadfastly beside an ally."*

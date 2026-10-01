@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in research with the use of microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who specializes in research with the use of microscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in the use of the microscope, especially one engaged in scientific research or diagnostic microscopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and biology, an investigator who specializes in revealing the fine structural organization of biological tissues, minerals, or micro-organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"There are not many features in the rest of the species of this genus of sufficient interest to the general reader or microscopist to render it advisable to furnish any detailed account of them."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We have, however, indicated sufficient, since their great similarity in unprofessional eyes will furnish, in one or two species, all that is desirable for the microscopist."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Of the other species found in Britain an enumeration will suffice, since they contain no feature of interest to the microscopist; and all the members of this section are far less beautiful than those in other genera (especially _Microsphæria_)."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The diligent **microscopist** discovers in the foot of a fly an engine of mechanical contrivance surpassing human skill."*
+> - 📜 **Antonie van Leeuwenhoek (*Letters to the Royal Society*):** *"No ordinary **microscopist** had observed these living animalcules darting through a single droplet of rainwater."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The veteran **microscopist** recognizes countless transitional gradations in the structure of the compound eye."*

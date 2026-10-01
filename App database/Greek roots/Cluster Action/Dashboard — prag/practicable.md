@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usable for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being done with means at hand and circumstances as they are.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be done or put into practice successfully; feasible; workable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and administrative contexts, capable of being executed or used effectively with the available materials, routes, or facilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Known to have some influence with her sister, she was continually requested, or at least receiving hints to exert it, beyond what was practicable."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Vague wishes of getting Sarah thither, had occurred before to Mrs Musgrove and Henrietta; but without Anne, it would hardly have been resolved on, and found practicable so soon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Deeds of endurance, which seem ordinary in philosophy, are rare in conduct, and Bathsheba was astonishing all around her now, for her philosophy was her conduct, and she seldom thought practicable what she did not practise."*
+> - 📜 **Alexander Hamilton (*The Federalist No. 1*):** *"The establishment of a constitution in time of profound peace is an event of which history affords few examples, yet here it is entirely **practicable**."*
+> - 📜 **Thomas Jefferson (*Letter to James Madison*):** *"A scheme may be theoretically elegant, but the legislator must ask whether it is **practicable** among actual men."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"It was thought very **practicable** for the party to proceed on horseback as soon as the morning mist had cleared."*

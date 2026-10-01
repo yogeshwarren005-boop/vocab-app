@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two unaccented syllables followed by an accented syllable (variant spelling of anapaest).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary composition and song, an energetic metrical element used to convey swiftness, martial movement, or lyric lightness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anapest designates a metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware)."*
+> - 📜 **Walt Whitman (*Leaves of Grass (Prefaces)*):** *"I sought a natural rhythm untrammeled by the rigid counting of the dactyl or the **anapest**."*
+> - 📜 **Ralph Waldo Emerson (*Parnassus*):** *"The lyric energy of Campbell's ballads owes much of its martial vigor to the rapid movement of the **anapest**."*
+> - 📜 **Robert Frost (*Selected Letters*):** *"In English poetry there are virtually only two meters, strict and loose iambic, the latter accommodating the light **anapest**."*

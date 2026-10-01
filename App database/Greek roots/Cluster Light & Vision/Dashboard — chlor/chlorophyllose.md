@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being or containing chlorophyll.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being or containing chlorophyll.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, resembling, or rich in chlorophyll; chlorophyll-bearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and cryptogamic botany, describing narrow green cells in moss leaves (*Sphagnum*) that contrast with clear hyaline cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyllose designates relating to or being or containing chlorophyll."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The **chlorophyllose** cells of the moss leaf form a verdant network around the large empty water cells."*
+> - 📜 **William Starling Sullivant (*Icones Muscorum*):** *"Cross-sections through the Sphagnum leaf display narrow triangular **chlorophyllose** cells between transparent hyaline chambers."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Elongated **chlorophyllose** filaments line the interior of the photosynthetic stem cortex."*

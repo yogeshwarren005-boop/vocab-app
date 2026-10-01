@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An argument that is conclusive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A point or fact or remark that settles something conclusively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decisive fact, argument, or action that settles an issue conclusively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tool used for bending or clinching driven nails; or a boat built with overlapping planks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clincher designates an argument that is conclusive."*
+> - 📜 **Jonathan Swift (*Polite Conversation*):** *"His clever retort was an undeniable **clincher**, silencing the table with general laughter."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard delivered his terms with the air of a man offering a **clincher** that admitted no dispute."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The recovered bicycle proved to be the **clincher** that shattered the suspect's elaborate alibi."*

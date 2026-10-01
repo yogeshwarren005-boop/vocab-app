@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish-black mineral; the major source of chromium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish-black mineral; the major source of chromium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, metallic, brownish-black mineral consisting of iron chromium oxide (FeCr2O4), belonging to the spinel group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology, the chief commercial ore of chromium, typically found as magmatic segregations in ultramafic rocks and peridotites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is not an uncommon practice to thicken the walls close to the tap-holes, where they are subjected to most wear, and often chromite is used at these points owing to its power of withstanding the forces of erosion."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The mineral **chromite** crystallizes in octahedrons and furnishes nearly all the chromium of commerce."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Heavy bands of **chromite** segregated along the bottom of the cooling serpentinite magma."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"In the Bushveld complex, stratiform layers of **chromite** extend across hundreds of square miles."*

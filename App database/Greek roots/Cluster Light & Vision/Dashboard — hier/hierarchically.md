@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hierarchical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hierarchical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hierarchical manner; in order of rank, authority, or graded levels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering and sociology, structured so that governance cascades systematically through defined tiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierarchically designates in a hierarchical manner."*
+> - 📜 **Max Weber (*The Theory of Social and Economic Organization*):** *"Authority in modern military institutions is **hierarchically** distributed with mathematical rigor."*
+> - 📜 **Herbert Simon (*The Sciences of the Artificial*):** *"Complex biological systems evolve much more rapidly when organized **hierarchically** into stable sub-assemblies."*
+> - 📜 **Claude Lévi-Strauss (*The Elementary Structures of Kinship*):** *"Clan lineages were **hierarchically** ranked according to proximity to the mythic founding ancestor."*

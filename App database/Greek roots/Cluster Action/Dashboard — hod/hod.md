@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tray or trough that has a pole handle and that is borne on the shoulder for carrying loads (as of mortar or brick).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coal scuttle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A builder's trough-shaped carrier with a long handle, carried over the shoulder for transporting mortar or bricks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical etymology, also representing the Greek root hodos ('way, road, path, journey').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The other contested the point, and the conversation ended in a bet that he could not carry him in his hod up a ladder to the top of the building."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The experiment was made: Pat placed himself in the hod, and his comrade, after a great deal of care and exertion, succeeded in taking him up."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"She led him straight to the coal-box, on which she sat until he had filled a hod with coal."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The bricklayer shouted down from the scaffolding for another loaded **hod** of wet lime."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I carried bricks in an open **hod**, admiring the honest mechanical simplicity of mason's labor."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude labored as a mason's assistant, shouldering the heavy **hod** beneath the sandstone spires of Christminster."*

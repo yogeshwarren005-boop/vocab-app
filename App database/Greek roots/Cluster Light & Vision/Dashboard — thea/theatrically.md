@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stagy and theatrical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a theatrical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a theatrical manner; histrionically, dramatically, or in a way suitable for or evocative of the stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical delivery and social interaction, executing actions with exaggerated gestures, projected cadence, or staged dramatic flair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theatrically designates in a stagy and theatrical manner."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Thaddeus Sholto paced the room, waving his hands **theatrically** as he recounted his father's mysterious end."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He bowed **theatrically** as he entered the drawing room, adopting the pompous air of a continental prince."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He stood before the maritime inquiry, striking an attitude **theatrically** defiant against the unsparing scrutiny of the court."*

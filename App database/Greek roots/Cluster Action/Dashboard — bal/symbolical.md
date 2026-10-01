@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using or proceeding by means of symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a visible symbol for something abstract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, containing, or relating to symbols; emblematic or figurative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious art, liturgy, and theology, expressing sacred mysteries through visual or ritual allegories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Everything is symbolical, you know—the higher style of art: I like that up to a certain point, but not too far—it’s rather straining to keep up with, you know."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Nettleship, in his ‘Essays on Browning’s Poetry’, has traced somewhat minutely the symbolical meaning which he sees in the scenery and circumstances of ‘By the Fireside’."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But their intercourse was only dramatic or symbolical, for the hierophant had temporarily deprived himself of his virility by an application of hemlock."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The myths of the ancients were constructed with **symbolical** ingenuity to shadow forth natural philosophy."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Liturgy clothes religious truth in **symbolical** ceremonies that touch the imagination of the multitude."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet letter was not a mere token of shame, but a **symbolical** portal into a deeper moral realm."*

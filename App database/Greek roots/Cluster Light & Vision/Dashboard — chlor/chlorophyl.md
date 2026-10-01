@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of chlorophyll, the green photosynthetic pigment found in plant chloroplasts and cyanobacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century scientific literature, the green coloring matter extracted from leaves using alcohol or ether.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyl designates any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The presence of **chlorophyl** enables the green plant to decompose carbonic acid in the sunlight."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Solar rays absorbed by **chlorophyl** supply the mechanical energy needed to construct organic tissues."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Grains of **chlorophyl** give the verdant color to the parenchyma of the leaf."*

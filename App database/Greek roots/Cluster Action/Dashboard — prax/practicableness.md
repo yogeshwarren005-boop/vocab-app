@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being usable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being usable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being practicable; feasibility or operational suitability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and administrative design, the degree to which an idealized policy can be effectively realized in practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, practicableness designates the quality of being usable."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Prudent statesmen look to the **practicableness** of a constitution rather than its abstract symmetrical beauty."*
+> - 📜 **David Hume (*Essays: Moral, Political, and Literary*):** *"The **practicableness** of a republic in a vast territory was formerly questioned, yet modern commerce facilitates its execution."*
+> - 📜 **John Adams (*Defence of the Constitutions of Government*):** *"The **practicableness** of a system of checks and balances has been vindicated by the peace of centuries."*

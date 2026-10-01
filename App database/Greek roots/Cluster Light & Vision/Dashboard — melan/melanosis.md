@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek melan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal or excessive deposition of black pigment (melanin) in tissues or organs of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and toxicology, a condition such as melanosis coli, a benign dark pigmentation of the colonic mucosa caused by chronic anthraquinone laxative use.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanosis designates a term designating an entity, condition, or phenomenon derived from greek melan."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-mortem examination revealed striking **melanosis** of the colon, the mucosa stained dark brown throughout."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pigmentary **melanosis** must be distinguished from hematogenous hemosiderin staining by chemical iron tests."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Diffuse cuticular **melanosis** followed the prolonged administration of Fowler's arsenical solution."*

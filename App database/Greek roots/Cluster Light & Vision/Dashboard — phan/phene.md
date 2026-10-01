@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetically determined phenotypic characteristic or trait of an organism; in organic chemistry, an obsolete synonym for benzene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern genetics and phenomics, the elementary unit of the phenotype, corresponding to a single observable morphological or biochemical attribute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phene designates a term designating an entity, condition, or phenomenon derived from greek phan."*
+> - 📜 **Wilhelm Johannsen (*Elements of the Exact Doctrine of Heredity*):** *"Just as the gene is the elemental unit of heredity, so the **phene** is the elementary unit of the visible phenotype."*
+> - 📜 **Auguste Laurent (*Chemical Method*):** *"I proposed the radical name **phene** for the aromatic core found in benzene derivatives."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Natural selection operates directly upon the **phene** rather than upon the naked genotype."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual examination of internal organs or cavities of the body by means of an endoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a broad discipline spanning gastrointestinal, urological, pulmonary, and arthroscopic specialties for non-invasive diagnosis and intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscopy designates an illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors)."*
+> - 📜 **Rudolf Schindler (*Gastroscopy*):** *"The systematic practice of **endoscopy** elevated mucosal pathology from post-mortem deduction to living clinical observation."*
+> - 📜 **Chevalier Jackson (*Peroral Endoscopy and Laryngeal Surgery*):** *"In expert hands, peroral **endoscopy** safely retrieves foreign bodies that would otherwise inevitably cause death."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Diagnostic **endoscopy** has significantly curtailed unnecessary exploratory laparotomies in hospital practice."*

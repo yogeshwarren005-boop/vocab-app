@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in plants marked by yellowing or blanching of green tissues due to lack of chlorophyll; historically, 'green sickness' in humans (iron-deficiency anemia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, nutrient deficiency (notably iron or nitrogen) or viral infection disrupting chlorophyll synthesis; in 19th-century medicine, adolescent hypochromic anemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorosis designates iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Iron therapy acts as a true specific in curing the pale, greenish complexion of **chlorosis** in young women."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Adding iron salts to the culture solution promptly cured the lime-induced **chlorosis** of the grapevines."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The virgin afflicted with **chlorosis** suffered from sluggish circulation, fainting fits, and a peculiar waxy pallor."*

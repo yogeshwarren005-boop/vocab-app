@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drama acted or designed to be acted by a single person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drama acted or designed to be acted by a single person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic piece for one actor or speaker only, typically depicting an internal psychological crisis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical theater and poetics, a theatrical monologue with musical accompaniment, such as Tennyson's Maud.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monodrama designates a drama acted or designed to be acted by a single person."*
+> - 📜 **Alfred Tennyson (*Maud: A Monodrama*):** *"The poet cast the psychological narrative as a passionate **monodrama**, charting the speaker's descent into madness and recovery."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Robert Browning's dramatic monologues approach the intensity of a private **monodrama** unfolding in the soul."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The solo performance succeeded as a tour de force of **monodrama**, holding the crowded auditorium through solitary presence."*

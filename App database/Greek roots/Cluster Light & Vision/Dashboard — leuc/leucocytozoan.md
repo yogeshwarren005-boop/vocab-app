@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic in birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic in birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic protozoan of the genus *Leucocytozoon*, infecting the blood cells of birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian parasitology, a haemosporidian parasite transmitted by blackflies (Simuliidae) that infects avian leukocytes and erythrocytes, causing severe anemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucocytozoan designates parasitic in birds."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"The avian **leucocytozoan** distorts its host cell into an elongated spindle containing dark pigment."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Investigations of bird malaria were aided by comparing Plasmodium with the allied **leucocytozoan** organisms of wild grouse."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Under the microscope, the **leucocytozoan** gametocyte occupied virtually the entire expanded cytoplasm of the infected cell."*

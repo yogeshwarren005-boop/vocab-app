@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scoters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scoters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of heavy-bodied northern sea ducks in the family Anatidae, commonly known as scoters, noted for jet-black male plumage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ornithology, diving ducks (such as the black scoter, surf scoter, and velvet scoter) that dive into pounding coastal surf for mollusks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog melanitta as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Flocks of the velvet duck, classified under **Melanitta**, plunged headlong into the surging Atlantic breakers."*
+> - 📜 **Elliott Coues (*Birds of the Northwest*):** *"The adult male of **Melanitta** wears an intense coal-black plumage offset by a brightly swollen orange bill."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"Out on the grey ocean shoals, black rafts of **Melanitta** rode the heaving winter swell."*

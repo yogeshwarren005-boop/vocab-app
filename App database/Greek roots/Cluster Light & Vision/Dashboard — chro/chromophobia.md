@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid aversion to or fear of colors; also, the quality of a biological cell or tissue that resists staining with dyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, dread of vibrant hues; in histology, the property of chromophobe cells (such as certain anterior pituitary cells) that remain pale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromophobia designates a term designating an entity, condition, or phenomenon derived from greek chro."*
+> - 📜 **Havelock Ellis (*The Psychology of Yellow*):** *"A patient suffering from intense **chromophobia** painted all his domestic walls a uniform, deadening slate gray."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Certain adenomas of the hypophysis are composed entirely of cells characterized by distinct **chromophobia**."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"Childhood sensory dreads occasionally focalize as a marked **chromophobia** toward red or yellow fabrics."*

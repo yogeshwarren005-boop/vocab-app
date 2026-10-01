@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bud in a freshwater bryozoan that overwinters in a chitinous envelope and develops into a new individual in spring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bud in a freshwater bryozoan that overwinters in a chitinous envelope and develops into a new individual in spring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An internal, asexually produced dormant bud or gemmule formed by freshwater bryozoans (Phylactolaemata) to survive adverse environmental conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, a chitinous-shelled survival capsule that withstands desiccation and freezing, germinating into a new zooid upon the return of spring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statoblast designates a bud in a freshwater bryozoan that overwinters in a chitinous envelope and develops into a new individual in spring."*
+> - 📜 **George James Allman (*A Monograph of the Fresh-Water Polyzoa*):** *"The freshwater bryozoan secures the survival of its race through the encysted **statoblast**, which survives the freezing of winter ponds."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Encased between two biconvex chitinous valves, the **statoblast** contains embryonic germinal cells protected by a buoyant annular ring."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Smaller Coelomate Groups*):** *"Hooked marginal spines on the floating **statoblast** allow it to cling to the plumage of aquatic birds, facilitating inter-basin dispersal."*

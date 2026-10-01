@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to epistemology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to epistemology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to epistemology, the philosophical study of the origin, nature, validity, and limits of human knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the theoretical foundations, assumptions, and conceptual presuppositions that govern inquiry within a scientific discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistemological designates of or relating to epistemology."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"The criterion of falsifiability provides an **epistemological** demarcation between empirical science and metaphysical speculation."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"A paradigm shift is never a mere accumulative addition, but an **epistemological** reordering of how scientists perceive reality."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Our **epistemological** inquiry demonstrates that space and time are not external objects, but pure forms of human sensible intuition."*

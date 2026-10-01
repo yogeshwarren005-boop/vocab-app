@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Production : formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Production : formation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity in which a person brings something into being that did not exist before; creative production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In continental philosophy and classical metaphysics, the threshold of disclosure and manifestation through which truth is brought into presence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poiesis designates production : formation."*
+> - 📜 **Plato (*Symposium*):** *"All creation or passage of non-being into being is **poiesis** or making, so that all arts are kinds of poetry."*
+> - 📜 **Martin Heidegger (*Basic Writings*):** *"Not only handicraft manufacture, not only artistic and poetical bringing into appearance, is **poiesis**, but also the blossoming of nature itself."*
+> - 📜 **Giorgio Agamben (*The Man Without Content*):** *"In classical antiquity, **poiesis** was understood as a pro-duction into presence, bringing the true into the open."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek melan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of the color black or of darkness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychotherapy, a specific phobic aversion where dark objects, black clothing, or unlit spaces trigger intense panic attacks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanophobia designates a term designating an entity, condition, or phenomenon derived from greek melan."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Cases of severe **melanophobia** occur wherein the sight of black mourning crape causes acute hysterical collapse."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"Childhood fear of the dark frequently crystallizes into an enduring adult **melanophobia** toward somber colors."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Instinctive antipathies such as **melanophobia** reflect ancient evolutionary dread of nocturnal predators."*

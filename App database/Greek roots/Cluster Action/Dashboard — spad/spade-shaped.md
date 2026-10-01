@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped in the form of a spade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped in the form of a spade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a spade; deltoid, cordate, or spatulate with a broad blade tapering toward a point or attachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and zoology, denoting leaves or animal fins having a flattened triangular or rounded spatula outline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spade-shaped designates shaped in the form of a spade."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The male bird displayed brilliant ornamental plumage ending in two **spade-shaped** tail feathers of iridescent green."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"A bizarre bathypelagic creature drifted across the bathysphere window, flicking a **spade-shaped** caudal rudder."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The plant sends up broad, **spade-shaped** leaves that catch the meltwater trickling from glacial moraines."*

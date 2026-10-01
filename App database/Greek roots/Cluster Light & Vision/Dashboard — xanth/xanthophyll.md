@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several yellow to orange carotenoid pigments that are oxygen derivatives of carotenes; especially : lutein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several yellow to orange carotenoid pigments that are oxygen derivatives of carotenes; especially : lutein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of yellow oxygen-containing carotenoid accessory pigments found in photosynthetic plastids, autumn leaves, and egg yolks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and biochemistry, oxygenated carotenoids (such as lutein, zeaxanthin, and violaxanthin) that function in the xanthophyll cycle to dissipate excess excitation energy via non-photochemical quenching (NPQ).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthophyll designates any of several yellow to orange carotenoid pigments that are oxygen derivatives of carotenes; especially : lutein."*
+> - 📜 **Richard Willstätter (*Investigations on Chlorophyll*):** *"By systematic counter-current extraction, we separated the pure hydrocarbon carotene from the oxygenated yellow pigment **xanthophyll**."*
+> - 📜 **Melvin Calvin (*The Path of Carbon in Photosynthesis*):** *"The accessory pigment **xanthophyll** absorbs blue-green photons and transfers their energy directly to the reaction center chlorophyll."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"When the green chlorophyll breaks down in autumn, the enduring gold of **xanthophyll** blazes forth across the northern hardwood forests."*

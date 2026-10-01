@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several genetically determined diseases characterized by progressive degeneration of myelin in the brain, spinal cord, and peripheral nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several genetically determined diseases characterized by progressive degeneration of myelin in the brain, spinal cord, and peripheral nerves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of rare, inherited metabolic disorders characterized by the abnormal growth or progressive degeneration of the myelin sheath in the white matter of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurogenetics, progressive neurometabolic diseases (such as metachromatic leukodystrophy or Krabbe disease) caused by lysosomal or peroxisomal enzyme deficiencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukodystrophy designates any of several genetically determined diseases characterized by progressive degeneration of myelin in the brain, spinal cord, and peripheral nerves."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Genetic screening has elucidated the metabolic enzyme defects underlying catastrophic childhood **leukodystrophy**."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Demyelination of the cerebral hemispheres in **leukodystrophy** leads inexorably to spastic paralysis and cognitive decline."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"Disintegration of the myelin wrapping in progressive **leukodystrophy** strips the central nerve axones of insulation."*

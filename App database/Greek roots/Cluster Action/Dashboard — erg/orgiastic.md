@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by orgies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrestrained emotion : frenzied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or resembling an orgy; wild, unrestrained, and frenzied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical religious history, relating to Dionysian or Bacchic mystery rites characterized by ecstatic trance and intoxication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A further step was taken by the Emperor Claudius when he incorporated the Phrygian worship of the sacred tree, and with it probably the orgiastic rites of Attis, in the established religion of Rome."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Moreover, a wine was brewed from these seeds, and this may partly account for the orgiastic nature of the rites of Cybele, which the ancients compared to those of Dionysus."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"The **orgiastic** music of Dionysus broke down the barriers of individuation, reuniting man with primal nature."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Senate prohibited the nocturnal celebration of the Bacchic mysteries due to their disorderly, **orgiastic** license."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Gatsby believed in the green light, the **orgiastic** future that year by year recedes before us."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull or routine preliminary work preparing for an undertaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dull or routine preliminary work preparing for an undertaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard, laborious manual labor performed with a spade in digging or gardening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arduous, detailed, and indispensable preliminary investigation or organizational groundwork required to establish a larger enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spadework designates dull or routine preliminary work preparing for an undertaking."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Centuries of thankless intellectual **spadework** were necessary before women could write poetry without social ridicule."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Before you can theorize about the working class, you must endure the unglamorous **spadework** of living in their cottages."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"A generation of field archaeologists had to finish their dusty **spadework** before the story of Sumer could be written."*

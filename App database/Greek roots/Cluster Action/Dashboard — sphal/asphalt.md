@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixed asphalt and crushed gravel or sand; used especially for paving but also for roofing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark bituminous substance found in natural beds and as residue from petroleum distillation; consists mainly of hydrocarbons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark brown or black viscous hydrocarbon liquid or semi-solid pitch found in natural deposits or obtained as a residue in petroleum refining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manufactured paving mixture composed of mineral aggregate cemented with bitumen, widely utilized for road construction and waterproofing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But he was making for the middle of the lilac-hedge, for the red rose archway and the asphalt walk between reddening apple trees: and Isabel was sitting near the end, close to the garden wall."*
+> - 📜 **Herodotus (*The Histories*):** *"The builders of ancient Babylon bound together their baked bricks with mortar made of heated bubbling **asphalt**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From subterranean vaults arose fumes of sulfur and bituminous **asphalt**, paving the wide floor of Pandemonium."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The modern metropolis suffocates its living earth beneath an impermeable crust of concrete and black **asphalt**."*

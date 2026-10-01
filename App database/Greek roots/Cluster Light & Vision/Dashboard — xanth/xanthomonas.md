@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bacteria similar to pseudomonas but producing a yellow pigment that is not soluble in water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bacteria similar to pseudomonas but producing a yellow pigment that is not soluble in water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Gram-negative, rod-shaped, yellow-pigmented bacteria known for causing diverse devastating diseases in agricultural crops worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology and biotechnology, a genus responsible for bacterial blight, canker, and leaf spot in citrus, rice, and crucifers, renowned industrially for secreting the exopolysaccharide xanthan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthomonas designates a genus of bacteria similar to pseudomonas but producing a yellow pigment that is not soluble in water."*
+> - 📜 **Erwin Frink Smith (*Bacterial Diseases of Plants*):** *"The genus **Xanthomonas** includes some of the most destructive phytopathogenic bacteria known to modern agriculture."*
+> - 📜 **Arthur Kelman (*The Bacterial Wilt of Plants*):** *"Citrus canker caused by **Xanthomonas** axonopodis induces severe defoliation and fruit drop in commercial orchards."*
+> - 📜 **Allene R. Jeanes (*Applied Microbiology*):** *"Industrial fermentation of **Xanthomonas** campestris provides commercial xanthan gum used as a stabilizer throughout the food industry."*

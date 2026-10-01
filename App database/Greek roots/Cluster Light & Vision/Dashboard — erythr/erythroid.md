@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to erythrocytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to erythrocytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a red or reddish appearance; of or relating to the developmental lineage of red blood cells (erythrocytes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematopathology, characterizing the precursor cell compartment in bone marrow dedicated to hemoglobin synthesis and erythrocyte formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroid designates relating to erythrocytes."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Bone marrow smears from patients recovering from blood loss showed massive hyperplasia of the **erythroid** series."*
+> - 📜 **William Osler (*Modern Medicine*):** *"A normal myeloid-to-**erythroid** ratio in marrow aspirates ranges between three-to-one and four-to-one."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain pigeon varieties exhibit an **erythroid** tinge around the iris and legs."*

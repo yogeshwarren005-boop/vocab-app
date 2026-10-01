@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthozoan coelenterate, such as a sea anemone, stony coral, or sea fan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, a polypoid animal possessing a radial body plan partitioned by vertical fleshy mesenteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinozoan designates sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Every solitary **actinozoan** possesses a crown of tentacles encircling the mouth, which opens into an invaginated stomodaeum."*
+> - 📜 **Philip Henry Gosse (*The Aquarium*):** *"The captive **actinozoan** blossomed into brilliant crimson glory as soon as fresh seawater entered the tank."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Countless millions of colonial **actinozoan** polyps labor unceasingly to rear the majestic barrier reefs of the Pacific."*

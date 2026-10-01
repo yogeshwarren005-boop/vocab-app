@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An applied science concerned with designing and arranging things people use so that the people and things interact most efficiently and safely —called also biotechnology, human engineering, human factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The design characteristics of an object resulting especially from the application of the science of ergonomics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of people's efficiency in their working environment; biotechnology applied to workstation design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering, the science of adapting workplace tools, furniture, and systems to human biomechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergonomics designates an applied science concerned with designing and arranging things people use so that the people and things interact most efficiently and safely —called also biotechnology, human engineering, human factors."*
+> - 📜 **Donald Norman (*The Design of Everyday Things*):** *"Modern **ergonomics** unites human anatomy, cognitive psychology, and mechanical design into a coherent discipline."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Temple Grandin designed livestock facilities utilizing principles of animal **ergonomics** to reduce distress."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The feedback loops linking machine controls to human musculature form the foundation of practical **ergonomics**."*

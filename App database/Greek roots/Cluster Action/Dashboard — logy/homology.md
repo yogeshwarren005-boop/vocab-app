@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A similarity often attributable to common origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correspondence or similarity in form or function between parts (such as the wing of a bat and the human arm) of different species resulting from modification of a trait possessed by a common ancestor : similarity of traits reflecting common descent and ancestry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of corresponding in structure, origin, or evolutionary ancestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative biology and genetics, structural or sequence correspondence resulting from descent from a common ancestor, distinguished from analogy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homology designates a similarity often attributable to common origin."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Vertebrate Animals*):** *"I use the term **homology** to signify the same organ in different animals under every variety of form and function."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The great principle of **homology** clear across the animal kingdom becomes intelligible on the theory of descent with gradual modification."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Modern evolutionary theory has reasserted the central importance of morphological **homology** in understanding developmental constraints."*

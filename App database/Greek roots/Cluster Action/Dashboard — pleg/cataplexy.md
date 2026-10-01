@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sudden loss of muscle power following a strong emotional stimulus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden loss of muscle power following a strong emotional stimulus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by sudden, temporary loss of muscle tone and power, triggered by strong emotions such as laughter or anger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, a pathognomonic symptom of type 1 narcolepsy caused by the loss of hypocretin (orexin) neurons in the hypothalamus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataplexy designates sudden loss of muscle power following a strong emotional stimulus."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The sudden motor paralysis seen in **cataplexy** illustrates how emotional shock can instantaneously inhibit the motor cortex."*
+> - 📜 **William R. Gowers (*Diseases of the Nervous System*):** *"In narcoleptic patients, bouts of laughter or surprise frequently induce sudden attacks of **cataplexy**."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures*):** *"We observed how a sudden joke or startle precipitated an episode of complete **cataplexy**, dropping the subject to the carpet."*

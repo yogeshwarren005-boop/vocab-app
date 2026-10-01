@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crush together or collapse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller or shorter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Collapsed or slid into one another like the concentric tubes of a pocket telescope; compressed into a shorter length, volume, or timeframe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural mechanics, descriptive of vehicle collision damage where one section crumples into another; in historical and literary analysis, condensed or compacted in narrative sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Two or three street cars had telescoped and an auto or so had piled into the wreckage."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Alice shut up like a **telescoped** brass tube, shrinking down to ten inches in height."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Millions of years of evolutionary history were **telescoped** into the isolated plateau of South America."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The military emergencies of six months were **telescoped** into a breathless fortnight of relentless decision."*

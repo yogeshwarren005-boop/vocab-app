@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or common to a system: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting the body generally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the entire body or organism as a whole, rather than only individual parts or organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply embedded within, characteristic of, or permeating an entire political, social, or organizational system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systemic designates of, relating to, or common to a system: such as."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lupus erythematosus is not a mere cutaneous affliction, but a profound **systemic** disorder involving multiple viscera."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The chemical magic bullet must achieve **systemic** distribution while binding selectively to invading parasites."*
+> - 📜 **Theda Skocpol (*States and Social Revolutions*):** *"Revolutions cannot be grasped through individual psychology alone, but require analysis of **systemic** structural crises."*

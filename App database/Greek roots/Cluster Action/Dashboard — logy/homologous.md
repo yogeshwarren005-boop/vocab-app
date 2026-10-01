@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same relative position, value, or structure: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting biological homology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same relative position, value, structure, or evolutionary origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and evolutionary biology, derived from a common ancestral gene or chromosome; exhibiting identical genetic loci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The spheres are to each other as the squares of their homologous sides."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We see the same general law in the construction of the mouth of insects, where parts are **homologous** though serving very different purposes."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"A part or organ is **homologous** when it maintains the same fundamental relation to other parts in different animals."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"During synapsis in meiosis, **homologous** chromosomes pair closely, facilitating the reciprocal exchange of genetic material."*

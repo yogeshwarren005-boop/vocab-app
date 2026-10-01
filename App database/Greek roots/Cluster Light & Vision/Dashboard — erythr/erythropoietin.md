@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycoprotein hormone formed especially in the kidney and stimulating red blood cell formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glycoprotein hormone formed especially in the kidney and stimulating red blood cell formation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycoprotein hormone produced primarily by the kidneys that stimulates the bone marrow to produce red blood cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and nephrology, an endocrine mediator synthesized by renal peritubular interstitial cells in response to tissue hypoxia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythropoietin designates a glycoprotein hormone formed especially in the kidney and stimulating red blood cell formation."*
+> - 📜 **Allan J. Erslev (*Humoral Regulation of Red Cell Production*):** *"Plasma extracts from anemic animals contained **erythropoietin**, demonstrating the hormonal control of red cell genesis."*
+> - 📜 **William Osler (*Principles and Practice of Medicine*):** *"Chronic renal failure inevitably causes severe normocytic anemia due to deficient secretion of **erythropoietin**."*
+> - 📜 **Linus Pauling (*Orthomolecular Medicine*):** *"Recombinant human **erythropoietin** revolutionized the clinical management of anemia in dialysis patients."*

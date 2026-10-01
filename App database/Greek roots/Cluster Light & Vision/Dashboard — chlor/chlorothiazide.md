@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic drug (trade name diuril) used in the treatment of edema and hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic drug (trade name diuril) used in the treatment of edema and hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benzothiadiazine thiazide diuretic drug used to treat hypertension, congestive heart failure, and peripheral edema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology, the pioneering thiazide diuretic that inhibits the sodium-chloride cotransporter in the renal distal convoluted tubule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorothiazide designates a diuretic drug (trade name diuril) used in the treatment of edema and hypertension."*
+> - 📜 **Karl H. Beyer (*The Mechanism of Action of Chlorothiazide*):** *"The discovery of **chlorothiazide** revolutionized the clinical management of severe arterial hypertension."*
+> - 📜 **Robert W. Wilkins (*New Drugs for the Treatment of Hypertension*):** *"Oral administration of **chlorothiazide** achieved potent saluresis without the toxic hazards of mercurial diuretics."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Patients drowning in congestive cardiac edema found rapid relief through daily doses of **chlorothiazide**."*

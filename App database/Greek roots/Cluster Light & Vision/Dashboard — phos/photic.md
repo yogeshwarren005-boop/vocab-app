@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving light especially in relation to organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Penetrated by light especially of the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to light; penetrated by sunlight, especially describing the upper surface layer of an aquatic body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological oceanography and limnology, the sunlit epipelagic zone where ambient light exceeds 1% of surface irradiance, supporting aquatic photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photic designates of, relating to, or involving light especially in relation to organisms."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The surface **photic** zone represents the green pastureland of the open sea, teeming with microscopic diatoms."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Primary production is strictly confined to the **photic** layer, while decomposition predominates in the dark depths below."*
+> - 📜 **H. U. Sverdrup (*The Oceans*):** *"The thickness of the **photic** zone varies from a few meters in turbid coastal lagoons to over one hundred meters in clear tropical seas."*

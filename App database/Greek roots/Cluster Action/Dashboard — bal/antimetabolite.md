@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antineoplastic drug that inhibits the utilization of a metabolite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antineoplastic drug that inhibits the utilization of a metabolite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance that inhibits the utilization or function of a natural metabolite due to structural similarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and oncology, a class of chemotherapy agents (such as methotrexate) that block enzyme pathways essential for DNA synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimetabolite designates an antineoplastic drug that inhibits the utilization of a metabolite."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Sidney Farber conceived of an **antimetabolite** that would starve leukemia cells by mimicking necessary folic acid."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Sulfanilamide functions as a competitive **antimetabolite**, deceiving bacteria into incorporating it instead of para-aminobenzoic acid."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The synthetic nucleotide analog behaves as an **antimetabolite**, arresting replication forks in rapidly dividing cells."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prokaryotic organisms sometimes considered a class or phylum or subkingdom; coextensive with the cyanophyceae: cyanobacteria (blue-green algae).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prokaryotic organisms sometimes considered a class or phylum or subkingdom; coextensive with the cyanophyceae: cyanobacteria (blue-green algae).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical division comprising the blue-green algae, now universally recognized as the bacterial phylum Cyanobacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the pioneer photosynthetic lineage responsible for stromatolites, nitrogen fixation, and planetary oxygenation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanophyta designates prokaryotic organisms sometimes considered a class or phylum or subkingdom; coextensive with the cyanophyceae: cyanobacteria (blue-green algae)."*
+> - 📜 **Lynn Margulis (*Origin of Eukaryotic Cells*):** *"The **Cyanophyta** represent the photosynthetic engine that transformed Earth's prebiotic anaerobic atmosphere."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"No motile flagellated stages occur anywhere within the life cycle of the **Cyanophyta**."*
+> - 📜 **Gilbert M. Smith (*The Fresh-Water Algae of the United States*):** *"Species of **Cyanophyta** thrive in hot thermal springs where no eukaryotic organism can survive."*

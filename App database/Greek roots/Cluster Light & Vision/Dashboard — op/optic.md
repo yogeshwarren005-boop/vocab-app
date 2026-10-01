@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to vision or the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to vision or the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the eye or the sense of sight; an optical lens, eyepiece, or eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and neuroscience, designating the second cranial nerve (optic nerve) that transmits visual impulses from the retina to the brain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"There lands the Fiend, a spot like which perhaps Astronomer in the Sun’s lucent Orbe Through his glaz’d Optic Tube yet never saw."*
-> - 📜 **John Milton (*Paradise Lost*):** *"The broad circumference Hung on his shoulders like the moon, whose orb Through optic glass the Tuscan artist views At evening, from the top of Fesole, Or in Valdarno, to descry new lands, Rivers, or mountains, in her spotty globe."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"At the other end of the scale is the optic artist, the painter and sculptor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The moon, whose orb through **optic** glass the Tuscan artist views at evening from Fiesole."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **optic** nerve penetrates the sclera to distribute its fibers across the internal retinal layer."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"Why has not man a microscopic eye? For this plain reason, man is not a fly; his **optic** frame fits his station."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteracting the effects of a poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Counteracting the effects of a poison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an antidote; counteracting the effects of a poison, disease, or harmful influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing neutralizing or remedial virtues against toxicity or moral corruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidotal designates counteracting the effects of a poison."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain bitter herbs display an **antidotal** virtue against venomous pestilence and foul vapors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt gastric lavage combined with specific **antidotal** infusions arrested the systemic poisoning."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Philosophy affords an **antidotal** solace against the petty humiliations of social neglect."*

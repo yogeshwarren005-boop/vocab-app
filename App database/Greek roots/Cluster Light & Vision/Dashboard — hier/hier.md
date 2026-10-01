@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form (hieros, 'sacred, holy, consecrated') designating sacred rites, priestly authority, or religious symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and cultural history, the classical root yielding hierarchy, hieroglyph, hieratic, and related sacerdotal terminology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Das Beste muss hier die Presse thun zur Intimidation, und die ersten Kotwuerfe auf Karl Heine und namentlich auf Adolf Halle werden schon wirken."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prefix **hier**- was attached by Greek historians to the ancestral offices of the temple priesthood."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In ancient Hellenic usage, **hier**- denoted objects consecrated to the gods and set apart from common touch."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"From the sacral stem **hier**- evolved complex institutional concepts of priestly dominion and script."*

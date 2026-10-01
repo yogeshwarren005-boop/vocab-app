@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fraught with danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraught with danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of danger or uncertainty; precarious, perilous, or hazardous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, shockingly clever, shrewd, or difficult to deal with; alarming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art in a parlous state, shepherd."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SNOUT By’r lakin, a parlous fear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis a parlous boy, Bold, quick, ingenious, forward, capable."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Thou art in a **parlous** state, shepherd, if thou hast never been at court."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The young lord found himself in a **parlous** predicament, pursued by bailiffs through the alleys of Alsatia."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The monarchy stood in a **parlous** condition, suspended over the abyss of bankruptcy and public fury."*

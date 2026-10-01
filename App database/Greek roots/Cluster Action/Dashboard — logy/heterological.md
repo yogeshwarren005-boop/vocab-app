@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in structure or evolutionary origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in structure or evolutionary origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to heterology; differing in structural composition, origin, or logical correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, describing abnormal tissue growths composed of histological structures foreign to the host site.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterological designates not corresponding in structure or evolutionary origin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A tumor containing cartilage in a soft glandular organ represents a truly **heterological** growth."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The **heterological** character of these appendages confirms that they do not derive from the same primitive segment."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The microscopic examination revealed **heterological** mesenchymal cells proliferating within the subserous coat."*

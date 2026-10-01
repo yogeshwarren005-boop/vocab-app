@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organic compound in which the cyano radical -cn and the hydroxyl radical -oh are attached to the same carbon atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any organic compound in which the cyano radical -cn and the hydroxyl radical -oh are attached to the same carbon atom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic compound containing both a cyano (-CN) and a hydroxyl (-OH) group attached to the same carbon atom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic organic chemistry, an intermediate formed by the nucleophilic addition of hydrogen cyanide to an aldehyde or ketone, used in the Strecker synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanohydrin designates any organic compound in which the cyano radical -cn and the hydroxyl radical -oh are attached to the same carbon atom."*
+> - 📜 **Arthur Lapworth (*Reactions Involving the Addition of Hydrogen Cyanide to Carbonyl Compounds*):** *"The formation of acetone **cyanohydrin** established that cyanide ion initiates nucleophilic addition to the carbonyl carbon."*
+> - 📜 **Ira Remsen (*Organic Chemistry*):** *"Hydrolyzing an aldehyde **cyanohydrin** converts the nitrile group into an alpha-hydroxy carboxylic acid."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The **cyanohydrin** reaction serves as a classic organic pathway for extending carbon chain lengths."*

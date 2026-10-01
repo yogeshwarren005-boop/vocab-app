@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the titaness who was mother of helios and selene and eos in ancient mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the titaness who was mother of helios and selene and eos in ancient mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical botanical genus name for the tea plant (now classified under Camellia), or an ancient Greek divine titaness associated with sight and shining light (Theia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy and the history of economic botany, Thea sinensis (Linnaeus's classification for the tea bush), now unified with Camellia sinensis in the family Theaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thea designates (greek mythology) the titaness who was mother of helios and selene and eos in ancient mythology."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Thea**, native to China and Japan, yields from its dried leaves the invigorating beverage prized across the world."*
+> - 📜 **Robert Fortune (*Three Years' Wanderings in the Northern Provinces of China*):** *"My travels through the Bohea mountains confirmed that green and black tea are both produced from the leaves of **Thea** viridis."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanists long debated whether **Thea** and Camellia should be maintained as distinct genera or merged into a single natural alliance."*

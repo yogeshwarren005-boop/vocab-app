@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breakdown in living organisms of more complex substances into simpler ones together with release of energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breakdown in living organisms of more complex substances into simpler ones together with release of energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The destructive phase of metabolism in which complex organic substances are broken down into simpler ones with energy release.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological thermodynamics, the oxidative breakdown of protoplasmic substances sustaining animal vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, katabolism designates breakdown in living organisms of more complex substances into simpler ones together with release of energy."*
+> - 📜 **Claude Bernard (*Introduction to the Study of Experimental Medicine*):** *"Without functional **katabolism**, the organism cannot generate the heat necessary to preserve internal constancy."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"When the rate of **katabolism** overtakes anabolism, the organism enters the declining curve of senescence."*
+> - 📜 **Julian Huxley (*The Stream of Life*):** *"Cellular respiration provides the enzymatic mechanism through which **katabolism** fuels cellular work."*

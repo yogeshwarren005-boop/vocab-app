@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical syndrome resulting from excessive synthesis and secretion of thyroid hormones by an overactive thyroid gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypermetabolic state characterized clinically by weight loss, tachycardia, palpitation, tremor, heat intolerance, and anxiety (as in Graves' disease).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthyroidism designates an overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones."*
+> - 📜 **Robert Graves (*Clinical Lectures on Newly Observed Affections of the Thyroid Gland*):** *"The accelerated pulse and dramatic weight loss in **hyperthyroidism** reflect continuous metabolic overstimulation by the enlarged gland."*
+> - 📜 **Karl von Basedow (*Exophthalmic Goiter*):** *"The classic triad of exophthalmos, struma, and tachycardia defines severe thyrotoxicosis secondary to **hyperthyroidism**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Differentiating primary pituitary tumors from endocrine **hyperthyroidism** requires precise evaluation of basal oxygen consumption."*

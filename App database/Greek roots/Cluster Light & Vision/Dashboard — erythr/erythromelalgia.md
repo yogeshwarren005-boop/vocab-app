@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erythr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare neurovascular peripheral pain disorder characterized by intense burning pain, erythema, and increased skin temperature in the extremities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a condition first described by Silas Weir Mitchell caused by microvascular arteriovenous shunting or sodium channel mutations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythromelalgia designates a term designating an entity, condition, or phenomenon derived from greek erythr."*
+> - 📜 **Silas Weir Mitchell (*On a Rare Vaso-Motor Neurosis of the Extremities*):** *"I have designated as **erythromelalgia** this painful affection wherein the feet become red, throbbing, and exquisitely hot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients afflicted with **erythromelalgia** obtain temporary relief only by plunging their burning feet into buckets of ice water."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The paroxysmal burning redness of **erythromelalgia** must be carefully differentiated from Raynaud's cold cyanosis."*

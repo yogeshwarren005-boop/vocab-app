@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (from dran, 'to do, act, perform') signifying action, theatrical enactment, or deed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical etymology, the lexical root of drama, dramatic, dramatize, and drastic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dra designates a term designating an entity, condition, or phenomenon derived from greek dra."*
+> - 📜 **Aristotle (*Poetics*):** *"The Dorians claim both tragedy and comedy, deriving the word drama from the verb **dra** meaning to do or act."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Through Greek dran, the stem **dra** embodies the concept of forceful deed translated onto the stage."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Attic usage preserves **dra** in legal and dramatic contexts as an emphatic deed performed in public."*

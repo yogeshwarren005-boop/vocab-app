@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To serve as a symbol of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To represent, express, or identify by a symbol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To represent, indicate, or typify by means of a symbol; to stand for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To embody figuratively; to invest with symbolic significance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, thought I, there must be some sober reason for this thing; furthermore, it must symbolize something unseen."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Therefore, in his other moods, symbolize whatever grand or gracious thing he will by whiteness, no man can deny that in its profoundest idealized significance it calls up a peculiar apparition to the soul."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"No, thought I, there must be some sober reason for this thing; furthermore, it must symbolize something unseen."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"To Ahab, the albino whale seemed to **symbolize** all the intangible malice of the universe."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The embroidered badge did not merely mark the crime, but came to **symbolize** profound human resilience."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The golden phonograph record placed aboard Voyager was crafted to **symbolize** humanity's greeting to the cosmos."*

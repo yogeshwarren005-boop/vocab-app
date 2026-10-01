@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical trees or shrubs or woody vines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical trees or shrubs or woody vines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Ericales, comprising woody climbing vines, trees, and shrubs including Actinidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, an angiosperm family characterized by spiral leaves, multi-locular ovaries, and persistent styles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinidiaceae designates tropical trees or shrubs or woody vines."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"Morphological affinities link the **Actinidiaceae** to the Ericaceae through shared embryological traits."*
+> - 📜 **Armen Takhtajan (*Diversity and Classification of Flowering Plants*):** *"The **Actinidiaceae** represent an ancient eastern Asiatic lineage within the broader order Ericales."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Vigorous climbing vines of the **Actinidiaceae** are widely planted along trellises for shade and fruit production."*

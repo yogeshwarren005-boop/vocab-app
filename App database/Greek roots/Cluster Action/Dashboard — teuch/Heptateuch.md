@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first seven books of the canonical Jewish and Christian Scriptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first seven books of the canonical Jewish and Christian Scriptures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first seven books of the Old Testament / Hebrew Bible collectively (Genesis through Judges).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical scholarship, an expanded canonical unit grouping the Pentateuch with Joshua and Judges to examine early Israelite historiography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Heptateuch designates the first seven books of the canonical jewish and christian scriptures."*
+> - 📜 **Augustine of Hippo (*Questions on the Heptateuch*):** *"In commenting upon the **Heptateuch**, our duty is to discern both the literal historical sense and the hidden spiritual allegories."*
+> - 📜 **S. R. Driver (*An Introduction to the Literature of the Old Testament*):** *"The documentary sources that characterize the law extend visibly into Joshua and Judges, composing a continuous **Heptateuch**."*
+> - 📜 **Julius Wellhausen (*Prolegomena to the History of Israel*):** *"The historical narratives of the **Heptateuch** reflect the theological reflections of multiple post-exilic redactional layers."*

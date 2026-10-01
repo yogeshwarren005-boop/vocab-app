@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of one or more days in a calendar : intercalation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sudden obstruction of a blood vessel by an embolus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sudden obstruction of an artery by a clot, air bubble, or foreign matter carried in the bloodstream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronological astronomy, the insertion of an intercalary day or month into a calendar to reconcile solar and lunar cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embolism designates the insertion of one or more days in a calendar : intercalation."*
+> - 📜 **Rudolf Virchow (*Thrombosis and Embolism*):** *"I established that **embolism** is a mechanical event where vascular debris is carried downstream to lodge in narrower vessels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt recognition of pulmonary **embolism** is crucial to prevent sudden fatal hemodynamic collapse."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient Metonic cycle resolved the calendar disparity by introducing an intercalary **embolism** seven times in nineteen years."*

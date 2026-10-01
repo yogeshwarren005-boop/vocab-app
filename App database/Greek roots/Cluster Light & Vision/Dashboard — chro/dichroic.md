@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of dichroism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dichromatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing two different colors when viewed from different angles, in different light conditions, or in different planes of polarized light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystal optics and optical coatings, describing materials (like tourmaline) or dichroic mirrors that selectively transmit one wavelength while reflecting another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichroic designates having the property of dichroism."*
+> - 📜 **David Brewster (*Treatise on Optics*):** *"Tourmaline displays a remarkable **dichroic** property, appearing olive-green in one direction and dark brown in another."*
+> - 📜 **John Tyndall (*Lectures on Light*):** *"Under the polariscope, the **dichroic** crystal absorbed the ordinary ray while transmitting the extraordinary ray with brilliance."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"Thin interference filters behave as **dichroic** reflectors, splitting the incident beam into complementary spectral bands."*

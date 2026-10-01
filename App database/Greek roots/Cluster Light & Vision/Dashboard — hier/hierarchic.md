@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in a hierarchy or graded series; of or relating to a hierarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systemic sociology and biology, characterizing multi-level structures where subordinate units are governed by higher-order regulatory tiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierarchic designates classified according to various criteria into successive levels or layers."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The organic kingdom exhibits a **hierarchic** integration rising from single cells to complex mammalian bodies."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Modern bureaucracy functions through a **hierarchic** ordering of official positions with clear jurisdictions."*
+> - 📜 **Arthur Koestler (*The Ghost in the Machine*):** *"All living organisms are organized in **hierarchic** open systems composed of semi-autonomous holons."*

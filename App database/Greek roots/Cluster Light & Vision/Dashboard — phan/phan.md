@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of to show, visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of to show, visible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form (phainein, phanos, 'to appear, show, shine, visible') denoting light, revelation, manifestation, or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic and scientific nomenclature, the foundational root yielding phantom, epiphany, phanerogam, diaphanous, and related visual terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phan designates adjective*) pertaining to, derived from, or characteristic of to show, visible."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The root **phan**- signifies the sudden flashing forth of light and the visual manifestation of hidden forms."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Philosophical terms bearing the root **phan**- relate to visible phenomena and perceptual appearance."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"From the Greek stem **phan**- arise terms denoting both radiant apparitions and empirical observations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erythr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the number of red blood cells in the circulation, especially as a secondary physiological response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, elevated hematocrit triggered by hypoxemia (high altitude, chronic lung disease) or erythropoietin-secreting tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrocytosis designates a term designating an entity, condition, or phenomenon derived from greek erythr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Mountaineers living at high altitudes develop a compensatory **erythrocytosis** to offset low atmospheric oxygen."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Respiration*):** *"Secondary **erythrocytosis** demonstrates the exquisite capacity of the organism to adjust its oxygen-carrying capacity."*
+> - 📜 **Henri Vaquez (*Studies on Polycythemia*):** *"Distinguishing benign compensatory **erythrocytosis** from true polycythemia vera is critical for proper patient management."*

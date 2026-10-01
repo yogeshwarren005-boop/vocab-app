@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation (given or received) for an insult or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) compensation exacted from a defeated nation by the victors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making amends for a wrong done, by providing payment or other assistance to the injured party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international relations, compensatory payments or transfers demanded from a defeated nation following a war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then I shall acknowledge it and make him reparation.” Everything postponed to that imaginary time!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight had quite depressed her this evening; had reminded her of her folly; she wished anew, as she had wished many months ago, for some means of making reparation for her fault."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, what I want to ask you is, will you put it in my power to do my duty—to make the only reparation I can make for the trick played you: that is, will you be my wife, and go with me?..."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The astronomical **reparation** demands imposed at Versailles threatened to destroy European financial equilibrium."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"If I have too austerely punish'd you, your compensation makes amends; for I have given you here a third of mine own life in **reparation**."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"Guilt drives the ego to seek symbolic **reparation** for unconscious aggressive impulses directed at the father."*

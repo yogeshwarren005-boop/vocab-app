@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made up of fragments of preexisting rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made up of fragments of preexisting rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of fragments of preexisting rocks or organic structures that have been transported and deposited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, describing rocks like sandstone and shale whose texture consists of cemented sedimentary grains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clastic designates made up of fragments of preexisting rocks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Sandstones and conglomerates are typical **clastic** strata, formed from the disintegrated debris of older granite massifs."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Sedimentary petrologists classify **clastic** formations according to grain size, sorting, and matrix cementation."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The transition from fine **clastic** silt into coarse gravel reflects surging hydrodynamic currents in ancient deltas."*

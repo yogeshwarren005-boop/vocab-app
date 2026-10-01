@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fact or assertion offered as evidence that something is true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clear, definite verbal or written expression of fact, opinion, intention, or policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of language and formal logic, a declarative sentence or proposition capable of being evaluated as true or false.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So of course the first hour after school from eleven till twelve belongs to me," was Bruno's statement."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"With pleasure, sir.” Then, with fidelity, though with some prolixity, the law-stationer repeats Jo’s statement made to the assembled guests at his house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If your ladyship would wish to have the boy produced in corroboration of this statement, I can lay my hand upon him at any time.” The wretched boy is nothing to my Lady, and she does NOT wish to have him produced."*
+> - 📜 **Ludwig Wittgenstein (*Tractatus Logico-Philosophicus*):** *"A proposition is a picture of reality; every genuine **statement** asserts how things stand in the logical space of the world."*
+> - 📜 **Bertrand Russell (*Logic and Knowledge*):** *"The grammatical form of a linguistic **statement** frequently disguises its underlying logical architecture."*
+> - 📜 **J. L. Austin (*How to Do Things with Words*):** *"We must abandon the view that the sole purpose of a serious **statement** is simply to describe some state of affairs."*

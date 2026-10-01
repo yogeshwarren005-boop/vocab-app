@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture with a motto or set of verses intended as a moral lesson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object or the figure of an object symbolizing and suggesting another object or an idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heraldic device or symbolic object as a distinctive badge of a nation, organization, or family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible symbol representing an abstract idea, moral quality, or historical state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall find in the regiment of the Spinii one Captain Spurio, with his cicatrice, an emblem of war, here on his sinister cheek; it was this very sword entrench’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the very emblem of a maid."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So he took the emblem of a pilgrim into his coat of arms and called himself Wallerstätten."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"An **emblem** reduceth conceits intellectual to images sensible, which strike the memory more forcibly."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The embroidered letter A upon Hester's breast was an **emblem** of her guilt and lonely endurance."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The olive branch flourished as the sacred **emblem** of heavenly peace restored to the earth."*

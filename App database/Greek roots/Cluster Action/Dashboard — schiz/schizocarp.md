@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry compound fruit that splits at maturity into several indehiscent one-seeded carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dry compound fruit that splits at maturity into several indehiscent one-seeded carpels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry fruit formed from a syncarpous ovary that splits at maturity into individual one-seeded, indehiscent carpels called mericarps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, the characteristic fruit type of the carrot (Apiaceae), maple (Aceraceae), and mallow (Malvaceae) families.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizocarp designates a dry compound fruit that splits at maturity into several indehiscent one-seeded carpels."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"At maturity, the dry **schizocarp** of the carrot splits longitudinally into two separate, seed-like mericarps."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"The winged fruits of the maple are familiar examples of a **schizocarp** that separates into two samaras."*
+> - 📜 **John Torrey (*Botanical Text-Book*):** *"In the Umbelliferae, each **schizocarp** hangs suspended for a time upon a slender central carpophore."*

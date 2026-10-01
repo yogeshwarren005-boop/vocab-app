@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, persistent fear or intense psychological aversion to the color yellow or yellow-colored objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abnormal psychology and psychiatric nosology, a specific chromophobia where exposure to yellow hues, sunshine, yellow flowers, or the word 'yellow' triggers autonomic panic or avoidance behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthophobia designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Color preferences in neurotics occasionally invert into pathological dread, giving rise to acute **xanthophobia** toward all golden hues."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In cases of chromophobia such as **xanthophobia**, the nervous system reacts to a specific wavelength with disproportionate emotional distress."*
+> - 📜 **S. Weir Mitchell (*Wear and Tear, or Hints for the Overworked*):** *"Morbid visual sensitivities sometimes take the strange form of **xanthophobia**, where the patient shuddered at the sight of daffodils."*

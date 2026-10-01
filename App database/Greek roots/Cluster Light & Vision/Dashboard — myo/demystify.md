@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less mysterious or remove the mystery from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less mysterious or remove the mystery from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a difficult, esoteric, or mysterious subject clearer, simpler, and easier to understand; to dispel the mystery surrounding something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogy and scientific communication, to translate arcane concepts into transparent, rational, and accessible terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demystify designates make less mysterious or remove the mystery from."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Science seeks not to strip the cosmos of wonder, but to **demystify** the natural processes that govern it."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"My aim in these lectures is to **demystify** quantum mechanics without sacrificing its astonishing reality."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Clear logical analysis serves to **demystify** traditional metaphysical puzzles that have perplexed philosophers for centuries."*

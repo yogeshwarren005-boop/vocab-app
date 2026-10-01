@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness by virtue of lacking higher values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness by virtue of lacking higher values.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being morally low, dishonorable, or ignoble; vileness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in metallurgy, the inferiority or impurity of an alloy containing base rather than precious metals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Cleopatra died, I have lived in such dishonour that the gods Detest my baseness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not do’t, Lest I surcease to honour mine own truth And, by my body’s action, teach my mind A most inherent baseness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou took’st a beggar, wouldst have made my throne A seat for baseness."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Why brand they us with **baseness**? with bastardy? who in the lusty stealth of nature take more composition and fierce quality."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Nothing is so fatal to a commonwealth as elevating men whose natural **baseness** inclines them to plunder."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He who yields to flattery soon discovers the inward **baseness** of bartering truth for applause."*

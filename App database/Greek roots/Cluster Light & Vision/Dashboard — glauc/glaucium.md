@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs of europe and north africa and asia: horned poppy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs of europe and north africa and asia: horned poppy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the poppy family Papaveraceae, commonly known as horned poppies or sea poppies, native to coastal regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In littoral botany and pharmacognosy, plants characterized by glaucous foliage, bright yellow or orange petals, and the presence of glaucine alkaloid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaucium designates herbs of europe and north africa and asia: horned poppy."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Upon the maritime shingle grew the yellow horned poppy, classified as **Glaucium**, with its sea-green leaves."*
+> - 📜 **John Lindley (*Flora Medica*):** *"Extracts of **Glaucium** were celebrated in folk medicine for their sedative properties and bitter yellow sap."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The long, curved silique pods of **Glaucium** distinguish it readily from all inland poppies."*

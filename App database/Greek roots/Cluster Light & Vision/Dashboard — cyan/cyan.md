@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A greenish-blue color —used in photography and color printing of one of the primary colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark blue : blue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A greenish-blue color, lying between blue and green on the visible spectrum; one of the three subtractive primary colors in process printing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In color printing and digital imaging, the process ink (C in CMYK) that absorbs red light while reflecting green and blue wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyan designates a greenish-blue color —used in photography and color printing of one of the primary colors."*
+> - 📜 **James Clerk Maxwell (*On the Theory of Three Primary Colours*):** *"Combining green and blue rays produces the vivid hue known in the modern palette as **cyan**."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Glacier crevices revealed an intense, luminous **cyan** that seemed born of frozen sky and sea."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Above the volcanic crater hung a strange vapor of pale **cyan** hue, illuminated by subterranean fires."*

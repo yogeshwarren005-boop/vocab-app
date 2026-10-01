@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chlor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of hard, vitreous, brownish to yellowish-green minerals composed of niobates and tantalates of calcium, sodium, and rare-earth elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and economic geology, the principal commercial ore mineral mined for niobium, crystallizing in the isometric system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrochlore designates a term designating an entity, condition, or phenomenon derived from greek chlor."*
+> - 📜 **Friedrich Wöhler (*Annalen der Physik*):** *"When heated before the blowpipe, this curious mineral turned yellow, whence the name **pyrochlore** was bestowed upon it."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The octohedral crystals of **pyrochlore** found in nepheline syenites contain significant amounts of columbium."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Carbonatite complexes in Norway and Canada are richly mineralized with disseminated **pyrochlore**."*

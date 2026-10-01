@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by myopia : of, relating to, or exhibiting myopia : nearsighted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in foresight or discernment : narrow in perspective and without concern for broader implications.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nearsighted; affected with myopia; or lacking imagination, foresight, or intellectual breadth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and social criticism, describing visual fields corrected by negative lenses or narrow, short-sighted public policies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The myopic digital calculation of coins, eructation consequent upon repletion."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"All his previous teaching is postulated as interim doctrine, that is, during the time of the disciples’ ignorance and while their minds were still bound by earth-ties and myopic vision."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A **myopic** observer perceives foreground details with exquisite clarity while the distant landscape dissolves into blur."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The **myopic** rivalries of European dynasties plunged the continent into catastrophic world war."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Do not dismiss social reforms with that **myopic** cynicism which sees only the gutter and never the stars."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who habitually doubts accepted beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who habitually doubts accepted beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person inclined to question, doubt, or suspend judgment regarding accepted beliefs, dogmas, or assertions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy, a member of the Pyrrhonian or Academic school who holds that certain knowledge is unattainable; in epistemology, one who demands rigorous empirical evidence before assenting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Oppenheimer, enraptured with my tales, remained a sceptic to the end."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Little sceptic, you _shall_ be convinced."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hence, Fullarton, the brave and young; Hence, Dempster’s zeal-inspired tongue; Hence, sweet, harmonious Beattie sung His ’Minstrel lays’; Or tore, with noble ardour stung, The sceptic’s bays."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The philosophical **sceptic** points out the fallibility of human faculties without thereby abandoning the practical duties of life."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"If a man will begin with certainties, he shall end in doubts; but if he will be content to begin as a **sceptic**, he shall end in certainties."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Even the most confirmed dogmatist owes an immense debt of gratitude to the thoughtful **sceptic** who challenges his premises."*

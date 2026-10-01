@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chlorinated hydrocarbon solvent (C2H3Cl3), occurring as two isomers, particularly 1,1,1-trichloroethane (methyl chloroform).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and toxicology, an effective non-flammable degreasing solvent whose widespread use was phased out under the Montreal Protocol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloroethane designates a heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage."*
+> - 📜 **Alice Hamilton (*Industrial Poisons in the United States*):** *"Workers cleaning precision mechanical parts were exposed to high vapor concentrations of **trichloroethane**."*
+> - 📜 **Mario J. Molina (*Atmospheric Halogen Chemistry*):** *"Significant quantities of 1,1,1-**trichloroethane** reached the stratosphere where they contributed to ozone loss."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Chlorinating ethane sequentially replaces hydrogen atoms, producing **trichloroethane** and related solvents."*

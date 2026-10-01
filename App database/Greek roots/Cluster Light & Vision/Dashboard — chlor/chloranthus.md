@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the chloranthaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the chloranthaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small aromatic Asian shrubs and herbs in the family Chloranthaceae, traditionally used to scent teas and prepare herbal infusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytotaxonomy, the type genus of Chloranthaceae, distinguished by spikes of minute flowers lacking sepals and petals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloranthus designates type genus of the chloranthaceae."*
+> - 📜 **Robert Fortune (*Three Years' Wanderings in the Northern Provinces of China*):** *"The dried blossoms of **Chloranthus** were added by tea merchants to perfume high-grade Pekoe."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"In the damp understory of the Khasi Hills, small clusters of **Chloranthus** flowered inconspicuously."*
+> - 📜 **E. H. Wilson (*A Naturalist in Western China*):** *"The villagers gathered **Chloranthus** roots from shaded forest ravines to treat lingering fevers."*

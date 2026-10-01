@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ogdo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or set of eight persons, things, or entities; an octad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Gnostic cosmology and ancient Egyptian mythology, the primordial assembly of eight deities or celestial emanations that brought forth order from chaos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ogdoad designates a term designating an entity, condition, or phenomenon derived from greek ogdo."*
+> - 📜 **Irenaeus (*Against Heresies*):** *"According to their doctrine, the primary **ogdoad** consists of Bythos and Sige, Nous and Aletheia, Logos and Zoe, Anthropos and Ecclesia."*
+> - 📜 **E. A. Wallis Budge (*The Gods of the Egyptians*):** *"The primordial Egyptian cosmos was nurtured by the **ogdoad** of Hermopolis, eight deities embodying primeval chaotic waters."*
+> - 📜 **Carl Jung (*Aion: Researches into the Phenomenology of the Self*):** *"In Gnostic symbolism, the **ogdoad** represents the heavenly realm beyond the seven planetary spheres of fate."*

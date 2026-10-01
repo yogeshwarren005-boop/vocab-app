@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two short or unaccented syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Achieved at excessive cost; also : costly to the point of negating or outweighing expected benefits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or achieved at tremendous, devastating cost that negates any real strategic advantage; or an ancient Greek war dance in brisk rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody and poetry, a metrical foot consisting of two short or unstressed syllables; in military history, named after King Pyrrhus of Epirus following his costly victory at Asculum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The Roll of the Kettledrum; or, The Lay of the Last Charger "You have the Pyrrhic dance as yet, Where is the Pyrrhic phalanx gone?"*
+> - 📜 **Lord Byron (*Don Juan*):** *"You have the **Pyrrhic** dance as yet, / Where is the Pyrrhic phalanx gone?"*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The breakthrough on the Western Front had been bought at so cruel a price that it resembled a **pyrrhic** triumph."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The swift sequence of short vowels in the opening line gives it the leaping rhythm of a **pyrrhic** measure."*

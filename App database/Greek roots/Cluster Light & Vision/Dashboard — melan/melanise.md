@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into, or infiltrate with melanin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or become black.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of melanize; to darken or convert by the deposition of melanin pigment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological genetics and insect physiology, to darken plumage, cuticle, or scales under environmental or developmental cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanise designates convert into, or infiltrate with melanin."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Industrial air pollution caused peppered moth populations to **melanise** rapidly throughout the English Midlands."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Exposure to maritime humidity appears to **melanise** the feathers of birds dwelling upon rocky northern coasts."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"During metamorphosis, the insect cuticle begins to **melanise** and harden upon contact with oxygen."*

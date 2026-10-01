@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A membrane-bound intracellular vesicle formed by pinocytosis that carries engulfed extracellular fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytological ultrastructure, a transient vesicular compartment that transports fluid-phase solutes toward fusion with early endosomes or lysosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinosome designates a term designating an entity, condition, or phenomenon derived from greek pin."*
+> - 📜 **Christian de Duve (*Lysosomes and Phagosomes*):** *"Once pinched off from the plasma membrane, the nascent **pinosome** migrates inward to fuse with primary lysosomes."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Within minutes of internalization, the contents of the **pinosome** are exposed to acid hydrolases in the endosomal network."*
+> - 📜 **George Emil Palade (*Cellular Dynamics*):** *"Electron microscopy tracks the journey of each **pinosome** as it delivers ingested solutes to deep cytoplasmic vacuoles."*

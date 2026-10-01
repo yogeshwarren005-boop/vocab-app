@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hornblende.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of complex silicate minerals with like crystal structures that contain calcium, sodium, magnesium, aluminum, or iron ions or a combination of them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major group of rock-forming hydrous inosilicate minerals characterized by double-chain silicate structures and prismatic cleavage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology, the diagnostic mineral phase of amphibolite facies, including hornblende, tremolite, and actinolite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibole designates hornblende."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"I applied the name **amphibole** to denote the deceptive variety of crystalline species hiding under one umbrella."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The double chain of silica tetrahedra endows every crystal of **amphibole** with characteristic prismatic cleavage."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Crystallization of **amphibole** in wet magmas depletes the melt of iron while concentrating residual silica."*

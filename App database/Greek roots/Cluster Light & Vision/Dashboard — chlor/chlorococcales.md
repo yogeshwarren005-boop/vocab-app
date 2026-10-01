@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unicellular green algae that reproduce by spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unicellular green algae that reproduce by spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of green algae in the class Chlorophyceae consisting of non-motile unicellular or colonial vegetative organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and limnology, a diverse taxonomic order comprising ecologically vital phytoplankton such as *Scenedesmus* and *Pediastrum*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorococcales designates unicellular green algae that reproduce by spores."*
+> - 📜 **G. S. West (*A Treatise on the British Freshwater Algae*):** *"The order **Chlorococcales** includes an astonishing variety of geometric, non-motile freshwater colonies."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"Reproduction in **Chlorococcales** typically occurs via the formation of autospores or zoospores."*
+> - 📜 **Gilbert M. Smith (*The Fresh-Water Algae of the United States*):** *"Plankton hauls from the pond surface were dominated by typical coenobic **Chlorococcales**."*

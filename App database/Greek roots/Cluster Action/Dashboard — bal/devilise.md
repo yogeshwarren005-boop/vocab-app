@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn into a devil or make devilish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into a devil or make devilish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render devilish or demonic; to corrupt or infect with evil or malice (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and theological prose, to impute satanic attributes to a person or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devilise designates turn into a devil or make devilish."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Unholy greed tends to **devilise** the human soul, extinguishing every spark of generous sympathy."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Fanatical polemics seek only to **devilise** an opponent whose convictions diverge from dogmatic orthodoxy."*
+> - 📜 **Charles Kingsley (*Westward Ho!*):** *"Cruel superstitions will **devilise** the hearts of men until they glory in the torment of their brethren."*

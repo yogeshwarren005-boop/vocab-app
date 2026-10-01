@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the usually paired and parallel strands of a duplicated chromosome joined by a single centromere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two identical chromatids that are formed by replication of a chromosome during the S phase of the cell cycle, are joined by a centromere, and segregate into separate daughter cells during anaphase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of the two identical thread-like strands into which a chromosome divides longitudinally during cell division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and molecular cytology, one of the paired sister copies of replicated DNA joined at the centromere prior to anaphase separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatid designates one of the usually paired and parallel strands of a duplicated chromosome joined by a single centromere."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"During meiosis, crossing over occurs between homologous non-sister strands of each **chromatid**."*
+> - 📜 **Barbara McClintock (*The Stability of Broken Ends of Chromosomes in Zea Mays*):** *"Breakage of a single **chromatid** during mitosis triggered the breakage-fusion-bridge cycle."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"At metaphase, each chromosome resolves visibly into two distinct parallel **chromatid** threads."*

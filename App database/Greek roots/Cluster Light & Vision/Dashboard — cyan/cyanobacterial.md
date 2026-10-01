@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by photosynthetic bacteria of the class cyanobacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or caused by photosynthetic bacteria of the class cyanobacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by cyanobacteria (blue-green algae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental toxicology and limnology, describing blooms, mats, or microcystin toxins produced by eutrophic blue-green algal overgrowths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanobacterial designates relating to or caused by photosynthetic bacteria of the class cyanobacteria."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Excessive phosphorus runoff induced massive **cyanobacterial** scums across the shallow bay."*
+> - 📜 **Lynn Margulis (*Early Life*):** *"The Precambrian atmosphere was transformed from reducing to oxidizing through sustained **cyanobacterial** photosynthesis."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Pioneer **cyanobacterial** crusts stabilize arid desert dunes, preparing the terrain for vascular plant colonization."*

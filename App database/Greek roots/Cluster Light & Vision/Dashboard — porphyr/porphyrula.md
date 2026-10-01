@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American purple gallinules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American purple gallinules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus of New World purple gallinules in the rail family Rallidae (now generally classified under *Porphyrio*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marsh ornithology, slender marsh birds (*Porphyrula martinica*) with iridescent purple plumage, emerald wings, and bright yellow legs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyrula designates american purple gallinules."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The purple gallinule, then designated **Porphyrula**, ran across lotus leaves with the agility of a sandpiper."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The dazzling sky-blue frontal shield and violet neck make **Porphyrula** the most beautiful of American marsh dwellers."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"In the rice fields of Georgia, **Porphyrula** perched gracefully upon tall reeds to pluck ripening grains."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion into dramatic form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dramatic representation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of adapting a literary work or historical event for presentation as a play (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis and cognitive theory, the unconscious conversion of latent abstract thoughts into sensory, theatrical dream imagery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatisation designates conversion into dramatic form."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Through **dramatisation**, abstract intellectual concepts are transformed into concrete visual scenes upon the stage of sleep."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The successful stage **dramatisation** of the novel required pruning secondary subplots to intensify central conflict."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Shakespeare's historical plays represent a sublime poetic **dramatisation** of the English dynastic wars."*

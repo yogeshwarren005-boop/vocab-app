@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who attends the theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who attends the theater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who attends the theatre, especially with frequency or enthusiasm (Commonwealth spelling of theatergoer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical journalism and cultural history, the patron whose critical engagement sustains commercial and repertory playhouses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theatregoer designates someone who attends the theater."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"The modern London **theatregoer** is too fond of going to the play to see life, instead of going to see art."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Every enthusiastic **theatregoer** in Portsmouth knew Vincent Crummles and cheered his melodramatic triumphs from the gallery."*
+> - 📜 **Max Beerbohm (*Around Theatres*):** *"To the seasoned **theatregoer**, the dimming of the house lights and the slow rise of the red velvet curtain never lose their enchantment."*

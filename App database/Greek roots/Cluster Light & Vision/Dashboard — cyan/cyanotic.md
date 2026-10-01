@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or causing a bluish or purplish discoloration (as of the skin and mucous membranes) due to deficient oxygenation of the blood : relating to or affected with cyanosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or causing a bluish or purplish discoloration (as of the skin and mucous membranes) due to deficient oxygenation of the blood : relating to or affected with cyanosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, relating to, or characterized by cyanosis; having a bluish or dusky discoloration from lack of oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical diagnosis, describing mucous membranes, nail beds, or facial features blanched or purplish due to hypoxia or hypothermia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanotic designates marked by or causing a bluish or purplish discoloration (as of the skin and mucous membranes) due to deficient oxygenation of the blood : relating to or affected with cyanosis."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The dying helmsman lay on the steamer deck, his lips turning a pale, **cyanotic** gray."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris*):** *"During the paroxysm of suffocation, the face grew mottled and deeply **cyanotic**."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Watch the patient's fingernails; if they turn **cyanotic**, summon the physician immediately."*

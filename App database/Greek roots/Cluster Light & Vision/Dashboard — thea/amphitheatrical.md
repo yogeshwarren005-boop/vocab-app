@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to an amphitheater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to an amphitheater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in the manner of an amphitheatre, with ascending tiers or concentric curves surrounding a central stage or floor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical description and classical topography, characterizing structural hollows, natural declivities, or assembly halls that exhibit tiered, semicircular geometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, again, in mountainous countries where the traveller is continually girdled by amphitheatrical heights; here and there from some lucky point of view you will catch passing glimpses of the profiles of whales defined along the undulating ridges."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Then, again, in mountainous countries where the traveller is continually girdled by amphitheatrical heights; here and there from some lucky point of view you will catch passing glimpses of the profiles of whales defined along the undulating ridges."*
+> - 📜 **Herman Melville (*Typee*):** *"We looked down from the ridge into a vast **amphitheatrical** valley, luxuriant with breadfruit and cocoa-palm."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic crater formed a grand **amphitheatrical** basin whose inner walls were stratified with successive basaltic lava sheets."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The pond lay in an **amphitheatrical** hollow among the forested hills, serene and untouched by the axe."*

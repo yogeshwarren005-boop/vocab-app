@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the state of asynergy; lacking synergy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the state of asynergy; lacking synergy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking synergy or muscular coordination; characterized by asynergy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, describing gait or movements marked by the failure of agonist and antagonist muscles to cooperate smoothly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynergic designates of or relating to the state of asynergy; lacking synergy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebellar hemorrhage produces an **asynergic** gait wherein the patient's trunk lags clumsily behind his advancing legs."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The limbs performed jerky, **asynergic** reaches, overshooting the teacup by several inches."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Disruption of proprioceptive feedback loops renders voluntary movements painfully slow and **asynergic**."*

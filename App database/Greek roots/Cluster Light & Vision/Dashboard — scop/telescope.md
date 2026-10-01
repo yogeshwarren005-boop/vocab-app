@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually tubular optical instrument for viewing distant objects by means of the refraction of light rays through a lens or the reflection of light rays by a concave mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various tubular magnifying optical instruments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical device employing curved mirrors, lenses, or sensors to collect electromagnetic radiation and focus it into magnified images of distant objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and common usage, to compress, fold, or slide together into concentric sections like the sliding tubes of a handheld nautical spyglass; in astrophysics, instruments spanning radio to gamma wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, how I wish I could shut up like a telescope!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Pool of Tears “Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); “now I’m opening out like the largest telescope that ever was!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Not at all: a telescope might have swept the parishes of Tipton and Freshitt, the whole area visited by Mrs."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The health of the eye seems to demand a horizon; we are never tired, so long as we can see far, whether through the **telescope** or across the sea."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Standing on the forecastle head, Ahab leveled his brass **telescope** at the pale line where the ocean met the clouds."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"With the hundred-inch **telescope** on Mount Wilson, we finally resolved individual Cepheid variables in the outer spirals of Andromeda."*

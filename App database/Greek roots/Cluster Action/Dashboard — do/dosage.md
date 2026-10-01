@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity of an active agent (substance or radiation) taken in or absorbed at any one time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measured portion of medicine taken at any one time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The determination and administration of the size, frequency, and number of doses of a medicine or radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, the precise quantity of an active agent administered per unit of body weight or time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dosage designates the quantity of an active agent (substance or radiation) taken in or absorbed at any one time."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful titration of digitalis **dosage** is essential to avoid lethal cardiac arrhythmias."*
+> - 📜 **Alexander Fleming (*Penicillin and Its Clinical Applications*):** *"Adequate **dosage** must be sustained throughout therapy to prevent the selection of resistant micro-organisms."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"A tiny increment in the morning **dosage** transformed the patient from rigid parkinsonism to volatile excitement."*

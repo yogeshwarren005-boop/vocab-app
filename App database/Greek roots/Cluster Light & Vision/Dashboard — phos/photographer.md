@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes photographs professionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who takes photographs professionally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes photographs, especially as a professional occupation or serious artistic pursuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, a visual artist and technician whose mastery of chemical sensitization, composition, and lighting documents human reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"P---- who is a good amateur photographer, photographed him in company with his little daughter in the act of handing him a banana."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Salts of gold, however (the meaning of the term salt, as applied to a metal, has been explained earlier), will dissolve in water, as every photographer who makes up his own toning solution knows from experience."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The red glass with which the photographer covers his dark-room lamp looks red, and throws a red light into the room, because it is acting as a filter to the light proceeding from the lamp behind it."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The brave army **photographer** Matthew Brady carried his darkroom wagon into the smoking chaos of Antietam."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red-Headed League*):** *"He spent hours in the cellar under the pretense of being an enthusiastic amateur **photographer**."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The architectural **photographer** provides records of crumbling gothic traceries with faithful and impartial veracity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A melanin-containing chromatophore cell especially of fishes, amphibians, and reptiles that is similar to a mammalian melanocyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A melanin-containing chromatophore cell especially of fishes, amphibians, and reptiles that is similar to a mammalian melanocyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, pigment-bearing chromatophore cell found in the skin of amphibians, reptiles, and fish, containing melanin granules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neurobiology, a dermal cell whose melanosomes disperse outward to darken skin or aggregate centrally to lighten it under hormonal control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanophore designates a melanin-containing chromatophore cell especially of fishes, amphibians, and reptiles that is similar to a mammalian melanocyte."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The chameleon changes its tint as nerve impulses disperse or concentrate melanin granules in every **melanophore**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The branching processes of the **melanophore** expand across the dermal layer like a spider's web of pigment."*
+> - 📜 **E. Ray Lankester (*Comparative Physiology*):** *"Melatonin and adrenaline cause the **melanophore** to concentrate its dark granules, blanching the frog's skin."*

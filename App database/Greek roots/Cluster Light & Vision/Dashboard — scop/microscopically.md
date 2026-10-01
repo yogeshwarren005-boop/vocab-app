@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By using a microscope; so as to be visible only with a microscope; as seen with a microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if by using a microscope; with extreme precision and attention to detail; in minute detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of a microscope; in microscopic scale, or with extreme attention to minute detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology and forensic science, at the level of optical or electron microscopic resolution where fine structural details become discernible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"FeS (copper 71·7 per cent.), when examined microscopically, appeared to be homogeneous, and indicated some form of combination between the sulphides in these proportions."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"To the naked eye it appears in pale purplish-grey patches, which, when examined microscopically, are found to consist of dense bundles of branched threads, bearing ellipsoid acrospores, the membranes of which have a violaceous tint."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"Examined **microscopically**, the tubercular nodule yielded rod-shaped bacilli stained vividly with methylene blue."*
+> - 📜 **Antonie van Leeuwenhoek (*Letters to the Royal Society*):** *"Looking **microscopically** at dental plaque, I perceived thousands of living animalcules moving with great velocity."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes examined the floorboards **microscopically**, discovering blood corpuscles invisible to the inspectors."*

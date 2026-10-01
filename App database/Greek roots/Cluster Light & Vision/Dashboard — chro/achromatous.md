@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little or inadequate color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little or inadequate color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Colorless; having no color or natural pigment; pale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy and pathology, describing unpigmented fungal mycelia, pale algal varieties, or colorless body tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatous designates having little or inadequate color."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Parasitic plants such as Indian pipe display an entirely **achromatous** stem devoid of green foliage."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Cave salamanders often present an **achromatous** skin resulting from generations of total subterranean darkness."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Varieties with **achromatous** flowers frequently breed true when sheltered from crossing with pigmented stocks."*

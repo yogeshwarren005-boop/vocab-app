@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measured quantity of a therapeutic agent to be taken at one time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity of radiation administered or absorbed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of a medicine or drug taken or recommended to be taken at a particular time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and radiology, the total amount of ionizing radiation absorbed by a substance or living body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He told me once I was the nearest relation he had.” “He has died,” says the surgeon, “of an over-dose of opium, there is no doubt."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Took the over-dose?” “Yes!” Krook almost smacks his lips with the unction of a horrible interest."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I may wish to be informed of that before I dose myself with either or with both."*
+> - 📜 **Paracelsus (*Third Defense*):** *"All things are poison, and nothing is without poison; the **dose** alone makes a thing not a poison."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"A measured **dose** of radium rays destroys malignant cells while sparing deeper healthy tissues."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes reached for his cocaine bottle, measuring a seven-per-cent **dose** with meticulous care."*

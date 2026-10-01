@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A projector for images of both opaque objects and transparencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A projector for images of both opaque objects and transparencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical projection instrument capable of projecting images of both transparent slides (diascopically) and opaque objects or printed pages (episcopically) onto a screen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical and scientific lecture halls of the 20th century, a high-wattage projector utilizing mirrors and condensing lenses to display books, anatomical specimens, and lantern slides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidiascope designates a projector for images of both opaque objects and transparencies."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Projected through the **epidiascope**, the intricate venation of the leaf appeared magnified upon the lecture hall screen."*
+> - 📜 **Julian Huxley (*Essays in Popular Science*):** *"Using an **epidiascope**, the lecturer could demonstrate delicate morphological preparations directly to a class of two hundred students."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The walls of the classroom glowed with illustrations cast by a giant **epidiascope**, conveying living history to the young minds."*

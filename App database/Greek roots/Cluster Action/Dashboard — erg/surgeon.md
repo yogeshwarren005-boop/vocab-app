@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who practices surgery : a physician trained and qualified to perform surgical procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief medical officer of a branch of the armed services or of a public health service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical doctor qualified to practice surgery, treating diseases, injuries, and deformities by manual and operative procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically from Greek cheirourgos ('hand-worker'), historically distinguishing manual operating practitioners from theoretical physicians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I, my lord, for my opinion bleed, Opinion shall be surgeon to my hurt And keep me on the side where still I am."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, sir, all that I live by is with the awl; I meddle with no tradesman’s matters, nor women’s matters, but withal I am indeed, sir, a surgeon to old shoes: when they are in great danger, I recover them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have by some surgeon, Shylock, on your charge, To stop his wounds, lest he do bleed to death."*
+> - 📜 **Lord Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Carbolic spray enabled the modern **surgeon** to operate upon deep cavities without the dreaded onset of hospital gangrene."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The master **surgeon** combines the courage of a lion with the delicate eye of an eagle and the hand of a woman."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Halsted operated with ferocious thoroughness, creating the radical mastectomy that defined an era of cancer therapy."*

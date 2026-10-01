@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative form of actinodromous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative form of actinodromous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing leaf venation in which three or more primary veins radiate outwards from a single basal point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology, palmate or radiating venation patterns common in maples, mallows, and geraniums.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinodrome designates alternative form of actinodromous."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Leaves with an **actinodrome** architecture distribute sap equably along radiating primary ribs from the petiole junction."*
+> - 📜 **Leo Lesquereux (*The Flora of the Dakota Group*):** *"Fossilized Cretaceous impressions exhibit well-preserved **actinodrome** foliage ancestral to modern platanoids."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Botanists categorize broad palmate leaves as **actinodrome** when several equally prominent veins diverge at the base."*

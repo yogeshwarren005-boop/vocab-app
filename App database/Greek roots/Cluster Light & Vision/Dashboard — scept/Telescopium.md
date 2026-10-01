@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the southern celestial hemisphere, introduced in the 18th century by the French astronomer Nicolas-Louis de Lacaille.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and celestial cartography, a southern constellation named after the aerial telescope, bordered by Sagittarius, Corona Australis, and Pavo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Telescopium designates a term designating an entity, condition, or phenomenon derived from greek scept."*
+> - 📜 **Nicolas-Louis de Lacaille (*Coelum Australe Stelliferum*):** *"Among the southern constellations, I designated **Telescopium** to honor the instrument that unlocked the secrets of the heavens."*
+> - 📜 **John Herschel (*Results of Astronomical Observations Made at the Cape of Good Hope*):** *"Sweeping across the southern sky, I surveyed the faint double stars and planetary nebulae scattered through **Telescopium**."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The modern constellation **Telescopium** commemorates the optical tube through which Galileo first gazed upon the craters of the Moon."*

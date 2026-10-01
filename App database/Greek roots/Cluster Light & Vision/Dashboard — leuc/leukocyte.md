@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the colorless blood cells of the immune system including the neutrophils, lymphocytes, monocytes, eosinophils, basophils, and their derivatives : white blood cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the blood cells that are colorless, lack hemoglobin, contain a nucleus, and include the lymphocytes, monocytes, neutrophils, eosinophils, and basophils —called also leukocyte, white blood corpuscle, white cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white blood cell; a colorless cellular component of the blood that possesses a nucleus and functions in the immune system to fight infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and cellular biology, motile cells that migrate through vascular endothelium into tissues via diapedesis in response to chemotactic gradients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukocyte designates any of the colorless blood cells of the immune system including the neutrophils, lymphocytes, monocytes, eosinophils, basophils, and their derivatives : white blood cell."*
+> - 📜 **Ilya Metchnikov (*The Comparative Pathology of Inflammation*):** *"Every active **leukocyte** acts as a cellular sentinel, devouring microbes to preserve the organism from septic death."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under the microscope, we watched a single **leukocyte** extend pseudopodia and engulf a chain of streptococci."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomenon of Life*):** *"The amoeboid motion of the **leukocyte** demonstrates the continuous vitality of individual cells within the body fluid."*

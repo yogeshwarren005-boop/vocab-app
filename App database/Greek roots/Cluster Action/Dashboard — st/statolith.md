@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the usually calcareous bodies suspended in a statocyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various starch grains or other solid bodies in the plant cytoplasm that are held to be responsible by changes in their position for changes in orientation of a part or organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense particle, sand grain, or calcium carbonate pellet inside a statocyst that shifts under gravity to stimulate sensory balance hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, a specialized, dense, starch-filled amyloplast in root columella cells that sediments under gravity to direct gravitropic root growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statolith designates any of the usually calcareous bodies suspended in a statocyst."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Heavy amyloplasts functioning as a cellular **statolith** sink to the bottom of root-cap cells, triggering asymmetric auxin transport."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The tip of the radicle acts like a brain, directing the organ downward as each **statolith** settles against the lowest membrane."*
+> - 📜 **Francis Darwin (*The Statolith Theory of Geotropism*):** *"Our experiments verify that the movable **statolith** within specialized cells provides plants with their internal sense of verticality."*

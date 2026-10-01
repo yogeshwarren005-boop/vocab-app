@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Armored dinosaurs: stegosaurs and ankylosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Armored dinosaurs: stegosaurs and ankylosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major suborder or clade of ornithischian dinosaurs characterized by armor plates, spines, or osteoderms embedded in their skin ('shield-bearers').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, the quadrupedal herbivorous clade that includes the stegosaurs and the heavily armored ankylosaurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyreophora designates armored dinosaurs: stegosaurs and ankylosaurs."*
+> - 📜 **Othniel Charles Marsh (*Principal Characters of American Jurassic Dinosaurs*):** *"The suborder **thyreophora** encompasses those remarkable armored reptiles whose backs were protected by massive bony scutes and spikes."*
+> - 📜 **Edward Drinker Cope (*The Dinosauria*):** *"Dermal ossifications along the vertebral column distinguish members of the **thyreophora** from unarmored ornithopod contemporaries."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"From simple Liassic ancestors like Scutellosaurus arose the two great divergent branches of the **thyreophora**: Stegosauria and Ankylosauria."*

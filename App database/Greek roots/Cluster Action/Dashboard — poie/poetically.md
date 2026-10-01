@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a poetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a poetic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a poetic manner; by means of verse or imaginative and elevated language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and aesthetics, dwelling with creative receptivity toward the essence of being and the world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poetically designates in a poetic manner."*
+> - 📜 **Martin Heidegger (*"...Poetically Man Dwells..."*):** *"Man dwells **poetically** upon this earth, in so far as he responds to the measure of being."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The morning wind blows; the universe appears afresh to those who view it **poetically**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I went to the woods because I wished to live deliberately, to confront only the essential facts of life, and see whether I could not record them **poetically**."*

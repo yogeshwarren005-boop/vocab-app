@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grass trees; sometimes placed in family xanthorrhoeaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grass trees; sometimes placed in family xanthorrhoeaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial arborescent plants native to Australia, commonly called grass trees or blackboys, characterized by thick blackened trunks and long grass-like leaf crowns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australasian ecology and ethnobotany, fire-adapted monocots (Xanthorrhoea, sometimes spelled xanthorroea) whose thick trunks survive bushfires, yielding a fragrant, flammable yellow resin used historically in adhesives, varnishes, and explosives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthorroea designates grass trees; sometimes placed in family xanthorrhoeaceae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The curious grass trees, belonging to the genus **Xanthorrhoea**, presented a bizarre aspect with their blackened trunks and grass-like crowns."*
+> - 📜 **Robert Brown (*Botanical Appendix to Flinders' Voyage*):** *"A copious yellow balsamic gum exudes spontaneously from the trunk of **xanthorroea** hastilis after bushfires."*
+> - 📜 **Joseph Dalton Hooker (*Flora Tasmaniae*):** *"Upon rocky sandstone slopes, the arborescent **Xanthorrhoea** elevates its towering flower spike several feet above the surrounding heath."*

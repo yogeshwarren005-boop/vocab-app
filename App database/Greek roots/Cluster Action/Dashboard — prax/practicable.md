@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usable for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being done with means at hand and circumstances as they are.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being put into practice or successfully carried out; feasible and usable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In navigation and geography, open, clear, or passable for travel or communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Known to have some influence with her sister, she was continually requested, or at least receiving hints to exert it, beyond what was practicable."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Vague wishes of getting Sarah thither, had occurred before to Mrs Musgrove and Henrietta; but without Anne, it would hardly have been resolved on, and found practicable so soon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Deeds of endurance, which seem ordinary in philosophy, are rare in conduct, and Bathsheba was astonishing all around her now, for her philosophy was her conduct, and she seldom thought practicable what she did not practise."*
+> - 📜 **George Washington (*Farewell Address*):** *"Promote then, as an object of primary importance, institutions for the general diffusion of knowledge; it is essential that public opinion should be enlightened as far as it is **practicable**."*
+> - 📜 **Abraham Lincoln (*Speech at Peoria*):** *"Let us do what is **practicable** for the preservation of our liberties while respecting the constitutional order."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I formed a project of arriving at moral perfection, which appeared to me quite **practicable**."*

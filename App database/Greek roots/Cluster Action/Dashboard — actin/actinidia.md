@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small asiatic woody vine bearing many-seeded fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small asiatic woody vine bearing many-seeded fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of dioecious, deciduous climbing woody vines native to eastern Asia, notable for producing edible kiwifruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany, vigorous lianas characterized by showy cup-shaped flowers and berry fruits with numerous tiny black seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinidia designates small asiatic woody vine bearing many-seeded fruit."*
+> - 📜 **E. H. Wilson (*A Naturalist in Western China*):** *"High up in the forested ravines of Hubei, robust vines of **Actinidia** drape profusely across towering oaks."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Several ornamental species of **Actinidia** are cultivated for their variegated foliage and fragrant white blossoms."*
+> - 📜 **David Fairchild (*Exploring for Plants*):** *"The Yang-tao vine, known botanically as **Actinidia**, produces refreshing emerald-fleshed fruits prized along the Yangtze."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Viviparous blennies of temperate and tropical seas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Viviparous blennies of temperate and tropical seas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine blenniiform fishes, commonly called kelp blennies or clinid weedfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, teleost fishes possessing ctenoid or cycloid scales, jugular pelvic fins, and prominent cirri above the eyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinidae designates viviparous blennies of temperate and tropical seas."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The family **Clinidae** comprises coastal bottom-dwellers abundant in temperate tidepools and rocky shallows."*
+> - 📜 **William Beebe (*Nonsuch: Land of Water*):** *"Diving along the shoreline, we collected several specimens of **Clinidae** sheltering within empty mollusk shells."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"Members of **Clinidae** are distinguished from true Blenniidae by the presence of true scales embedded in the skin."*

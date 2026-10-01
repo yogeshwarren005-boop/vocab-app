@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of a change for the worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of military equipment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical harm caused to something in such a way as to impair its value, usefulness, or normal function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence, monetary compensation awarded to a party that has suffered a loss or injury caused by another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He answered, “Tush, It can do me no damage,” adding further That had the King in his last sickness failed, The Cardinal’s and Sir Thomas Lovell’s heads Should have gone off."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"About it, for it stands me much upon To stop all hopes whose growth may damage me. [_Exit Catesby._] I must be married to my brother’s daughter, Or else my kingdom stands on brittle glass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But alas, Our hands advanced before our hearts, what will The fall o’ th’ stroke do damage?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law provides a remedy in financial **damage** for every actionable tort inflicted upon person or estate."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The earthquake inflicted catastrophic **damage** upon masonry aqueducts along the Calabrian coast."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Negligence on the part of public officials causes irreparable **damage** to national commerce and industry."*

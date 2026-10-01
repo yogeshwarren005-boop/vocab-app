@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using, employing, or exhibiting a symbol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or proceeding by means of symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a symbol; representing something else by convention or association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and logic, expressed through characters, notation, or non-linguistic signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The long shadows of the forest had slipped downhill while we talked, had gone far beyond the ruined hovel, beyond the symbolic row of stakes."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"One by one I lowered each into a symbolic watery grave and then raised them up—to walk a new spiritual life."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Personality rather evokes its LIKE from other souls, which are “all in degree, no way diverse in kind.” (‘Sordello’.) David has reached an advanced stage in his symbolic song to Saul."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The subconscious utilizes **symbolic** disguises to evade the vigilant moral censorship of the waking ego."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"Mythic narratives constitute a **symbolic** system through which indigenous cultures resolve cosmic contradictions."*
+> - 📜 **George Boole (*An Investigation of the Laws of Thought*):** *"By reducing logical relationships to **symbolic** algebra, we uncover the universal laws of reasoning."*

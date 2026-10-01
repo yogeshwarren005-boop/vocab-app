@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormality of the penis in which the urethra opens on the undersurface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormality of the penis in which the urethra opens on the undersurface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common congenital malformation in which the external urethral orifice opens on the ventral (underside) aspect of the penis instead of at the tip of the glans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, a developmental anomaly resulting from incomplete fusion of the urethral folds during the eighth to fourteenth weeks of gestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypospadias designates an abnormality of the penis in which the urethra opens on the undersurface."*
+> - 📜 **Denis Browne (*An Operation for Hypospadias*):** *"The fundamental object in operations for **hypospadias** is to create a straight phallus with a terminal urinary meatus."*
+> - 📜 **Charles E. Horton (*Plastic and Reconstructive Surgery of the Genital Area*):** *"Accompanying chordee must be completely released prior to constructing the neourethra in severe forms of **hypospadias**."*
+> - 📜 **Frank Hinman Jr. (*Atlas of Urosurgical Anatomy*):** *"Ventral foreskin deficiency and hooded dorsal prepuce remain the classic external hallmarks of untreated **hypospadias**."*

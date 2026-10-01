@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large class of sedentary marine coelenterates that includes sea anemones and corals; the medusoid phase is entirely suppressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class or subphylum of marine cnidarians comprising sea anemones and corals that lack a medusoid stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, polypoid organisms displaying radial symmetry organized around a central pharynx with radiating vertical mesenteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Actinozoa designates a large class of sedentary marine coelenterates that includes sea anemones and corals; the medusoid phase is entirely suppressed."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The gastrovascular cavity of every **Actinozoa** is divided into radiating compartments by fleshy septa."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Elaborate calices secreted by colonial **Actinozoa** form the colossal ramparts of tropical coral atolls."*
+> - 📜 **Philip Henry Gosse (*A History of the British Sea-Anemones and Corals*):** *"Our coastlines abound with solitary **Actinozoa** that flower into vibrant disc tentacles upon the incoming tide."*

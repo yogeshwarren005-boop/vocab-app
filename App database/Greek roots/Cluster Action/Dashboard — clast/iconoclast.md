@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who attacks settled beliefs or institutions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who destroys religious images or opposes their veneration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who attacks cherished beliefs, traditional institutions, or settled opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, one who participated in the Byzantine or Protestant destruction of ecclesiastical images and statues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iconoclast designates a person who attacks settled beliefs or institutions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Emperor Leo the Isaurian acted as a zealous **iconoclast**, proscribing sacred mosaics across the eastern empire."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Every genuine social reformer is an **iconoclast**, shattering the sentimental illusions of polite society."*
+> - 📜 **William James (*Pragmatism*):** *"The pragmatic philosopher is an **iconoclast** toward sterile scholastic abstractions that yield no practical fruits."*

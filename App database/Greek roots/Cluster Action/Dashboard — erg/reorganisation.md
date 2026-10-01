@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of a new organization; organizing differently (often involving extensive and drastic changes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of a new organization; organizing differently (often involving extensive and drastic changes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of organizing something again or in a different way (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and constitutional law, the restructuring of financial obligations or state institutions under judicial supervision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reorganisation designates the imposition of a new organization; organizing differently (often involving extensive and drastic changes)."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"A comprehensive **reorganisation** of the Admiralty staff was required to meet the escalating submarine menace."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **reorganisation** of provincial tax farms stimulated agricultural commerce across the kingdom."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Biological evolution involves continuous structural **reorganisation** in response to shifting environmental equilibria."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of black , dark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of black , dark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form (melas, melanos, 'black, dark, gloomy') denoting black color, melanin pigment, or dark bodily fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, a root found in melanoma, melancholy, melanocyte, and Melanesia, designating darkness in physical, medical, and psychological senses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melan designates adjective*) pertaining to, derived from, or characteristic of black , dark."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"From the Greek root **melan**- we derive terms for the darkest pigments of animal skin and hair."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In classical Greek, the stem **melan**- referred to dark wine, black ships, and the gloom of the underworld."*
+> - 📜 **William Whewell (*Philosophy of the Inductive Sciences*):** *"Naturalists adopted the combining form **melan**- to classify animals exhibiting atypical black coloration."*

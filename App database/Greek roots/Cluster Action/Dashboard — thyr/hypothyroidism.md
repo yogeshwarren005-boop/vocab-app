@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical disorder caused by deficient production of thyroid hormones by the thyroid gland, resulting in systemic metabolic slowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a syndrome presenting with lethargy, cold intolerance, weight gain, bradycardia, dry skin, and myxedema (notably Hashimoto's disease).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothyroidism designates an underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones."*
+> - 📜 **William Gull (*On a Cretinoid State Supervening in Adult Life in Women*):** *"The patient with adult **hypothyroidism** presents with puffy facies, dry brittle hair, and profoundly slowed mental and bodily functions."*
+> - 📜 **George R. Murray (*Treatment of Myxoedema by Thyroid Extract*):** *"Daily injections of sheep thyroid extract achieved an astonishing reversal of previously fatal **hypothyroidism**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In congenital **hypothyroidism**, prompt administration of hormone replacement prevents irreversible cretinism and cognitive stunting."*

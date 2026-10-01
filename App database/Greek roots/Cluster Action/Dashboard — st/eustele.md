@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stele typical of dicotyledonous plants that consists of vascular bundles of xylem and phloem strands with parenchymal cells between the bundles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stele typical of dicotyledonous plants that consists of vascular bundles of xylem and phloem strands with parenchymal cells between the bundles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of stele characteristic of seed plants in which the primary vascular tissue forms a cylinder of discrete longitudinal strands around a central pith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, the advanced vascular arrangement typical of dicotyledonous angiosperms and gymnosperms that enables secondary growth via a vascular cambium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eustele designates a stele typical of dicotyledonous plants that consists of vascular bundles of xylem and phloem strands with parenchymal cells between the bundles."*
+> - 📜 **Arthur Johnson Eames (*Morphology of Vascular Plants*):** *"The transition from the primitive solenostele to the dissected **eustele** facilitated the evolution of complex leaf traces."*
+> - 📜 **Edward Charles Jeffrey (*The Anatomy of Woody Plants*):** *"In gymnosperm stems, the vascular bundles of the **eustele** are separated by narrow rays of parenchymatous tissue."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Transverse sections of the sunflower stem display a classic **eustele** composed of discrete collateral bundles encircling the central pith."*

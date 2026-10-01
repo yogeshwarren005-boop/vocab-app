@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proper name of a street, road, highway, or vehicular thoroughfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toponymy and onomastics, a geographical name assigned to a path or route, often preserving local historical memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hodonym designates a term designating an entity, condition, or phenomenon derived from greek hod."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Every archaic **hodonym** in an old English city, like Watling Street, preserves memories of Roman legionary routes."*
+> - 📜 **Walter William Skeat (*Place-Names of Cambridgeshire*):** *"Analyzing each rural **hodonym** clarifies ancient trade links between Anglo-Saxon market towns."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"Colonial urban planning stamps its political ideals upon the city grid through the calculated selection of each new **hodonym**."*

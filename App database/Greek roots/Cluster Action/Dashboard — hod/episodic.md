@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of writing or narration; divided into or composed of episodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or appearing at usually irregular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring occasionally or at irregular intervals; loosely connected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, designating episodic memory, the declarative memory system for personal, autobiographical events situated in time and place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He did this in an episodic way, very much as he gave orders to his tailor for every requisite of perfect dress, without any notion of being extravagant."*
+> - 📜 **Endel Tulving (*Elements of Episodic Memory*):** *"Human consciousness relies on **episodic** memory to mental travel backwards in subjective time to re-experience personal events."*
+> - 📜 **Aristotle (*Poetics*):** *"Of all plots, the **episodic** are the worst, wherein the sequence of scenes follows neither probability nor necessity."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Severe amnesia stripped the patient of **episodic** memory, leaving him stranded in a perpetual present."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A newly invented word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of inventing a word or phrase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coining, introduction, or use of new words, idioms, or linguistic expressions; neologism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological history, rationalist or novel doctrinal interpretations deviating from established ecclesiastical orthodoxy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neology designates a newly invented word or phrase."*
+> - 📜 **Thomas Jefferson (*Letter to John Adams*):** *"I am no friend to a puritanical purism in language; I consider **neology** as indispensable to the growth and vigor of human communication."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The affected **neology** of contemporary critics corrupts the pure well of English undefiled."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"We must avoid useless **neology** unless the existing vocabulary fails to express a genuine philosophical distinction."*

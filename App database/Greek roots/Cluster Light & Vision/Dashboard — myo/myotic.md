@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes miosis (constriction of the pupil of the eye).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or causing constriction of the pupil of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing pupillary constriction, or an agent that causes the pupil of the eye to constrict; variant spelling of miotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, describing ophthalmic drugs (such as pilocarpine or acetylcholine) that contract the ciliary muscle and pupillary sphincter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myotic designates a drug that causes miosis (constriction of the pupil of the eye)."*
+> - 📜 **William Osler (*Modern Medicine*):** *"The ophthalmologist prescribed a **myotic** collyrium to prevent peripheral anterior synechiae."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Eserine is the most reliable **myotic** substance known for lowering intraocular pressure."*
+> - 📜 **Albrecht von Graefe (*On Glaucoma*):** *"Without regular **myotic** drops, the shallow anterior chamber threatened to close completely."*

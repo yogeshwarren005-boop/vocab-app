@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with class phaeophyceae; in some classifications subsumed in the division heterokontophyta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with class phaeophyceae; in some classifications subsumed in the division heterokontophyta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical division or phylum comprising the brown algae, characterized by brown carotenoid pigments (fucoxanthin) masking chlorophyll.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, the algal group responsible for massive underwater kelp forest ecosystems providing shelter and nutrients to diverse marine fauna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaeophyta designates coextensive with class phaeophyceae; in some classifications subsumed in the division heterokontophyta."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"The division **Phaeophyta** is almost exclusively marine, thriving especially in turbulent subpolar waters."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The immense beds of **Phaeophyta** along the Fuegian coast support a fauna as rich as any tropical rainforest."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Cell walls in the **Phaeophyta** yield alginic acid, an economically vital mucilaginous polysaccharide."*

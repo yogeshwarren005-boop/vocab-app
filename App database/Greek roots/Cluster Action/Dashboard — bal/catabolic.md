@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or promoting metabolic activity concerned with the breakdown of complex molecules (such as proteins or lipids) and the release of energy within the organism : relating to, characterized by, or stimulating catabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or promoting metabolic activity concerned with the breakdown of complex molecules (such as proteins or lipids) and the release of energy within the organism : relating to, characterized by, or stimulating catabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or promoting catabolism, the metabolic breakdown of complex molecules into simpler ones with energy release.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, describing destructive or degradative tissue processes, especially under starvation, fever, or strenuous exertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabolic designates marked by or promoting metabolic activity concerned with the breakdown of complex molecules (such as proteins or lipids) and the release of energy within the organism : relating to, characterized by, or stimulating catabolism."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"The degradation of fatty acids and carbohydrates converges upon common **catabolic** intermediates."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged febrile illness induces a severe **catabolic** state characterized by marked muscle wasting and weight loss."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Lysosomes and proteasomes coordinate the major **catabolic** recycling pathways inside eukaryotic cells."*

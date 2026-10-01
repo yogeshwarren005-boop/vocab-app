@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who commits apostasy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who commits apostasy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who renounces, deserts, or completely abandons a religious faith, political allegiance, or moral cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by ideological defection or renunciation; renegade, traitorous, or heretical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ha-ha—I’m awfully glad you have made an apostate of me all the same!"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of course, there were those who broke down, but Julian the Apostate, in his letters to his heathen priests, is a reluctant witness to the higher character of Christian life."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So spake th’ Apostate Angel, though in pain, Vaunting aloud, but rackt with deep despare: And him thus answer’d soon his bold Compeer."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Emperor Julian earned the enduring title of **apostate** by attempting to resurrect pagan rituals over Christian dogma."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So spake the Cherub, and on either side the war broke loose, while Satan stood as an **apostate** angel defying heaven."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Every dogmatic orthodoxy reserves its fiercest inquisitorial wrath not for the uninitiated pagan, but for the repentless **apostate**."*

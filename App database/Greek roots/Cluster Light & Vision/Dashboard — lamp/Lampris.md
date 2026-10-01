@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the lampridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the lampridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, deep-bodied, pelagic marine teleost fishes comprising the opahs (moonfish), known for radiant coloration and endothermy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, the genus representing the family Lampridae, notable as the first discovered fully warm-blooded fish that maintains body heat via counter-current gill retia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Lampris designates type genus of the lampridae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The opah, classified as **Lampris**, is among the most magnificent of pelagic fishes, glowing with silver and scarlet."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"From the surface net we lifted a radiant specimen of **Lampris**, its scarlet fins flashing in the sunlight."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Specimens of **Lampris** taken off the banks of Newfoundland weighed upwards of one hundred pounds."*

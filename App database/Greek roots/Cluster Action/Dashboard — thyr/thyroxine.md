@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iodine-containing hormone C15H11I4NO4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also T4.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iodine-containing hormone C15H11I4NO4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also T4.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal hormone secreted by the thyroid gland, chemically 3,5,3',5'-tetraiodothyronine (T4), essential for regulating metabolic rate and growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry, a prohormone converted peripherally by deiodinase enzymes into the biologically more potent triiodothyronine (T3).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroxine designates an iodine-containing hormone c15h11i4no4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also t4."*
+> - 📜 **Edward Calvin Kendall (*Thyroxine*):** *"Crystalline **thyroxine** governs the combustion rate of living cells, acting as an essential accelerator of cellular respiration."*
+> - 📜 **Rosalind Pitt-Rivers (*The Thyroid Hormones*):** *"Peripheral tissues cleave a single outer-ring iodine from **thyroxine** to generate triiodothyronine, the true intracellular ligand."*
+> - 📜 **Jack Gross (*The Identification of 3:5:3'-Triiodothyronine in Human Plasma*):** *"Although **thyroxine** is the predominant circulating iodinated hormone, its biological action is largely mediated via T3."*

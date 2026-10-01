@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Award, honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compliment, praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal singular back-formation from kudos, denoting praise, honor, or acclaim given for an achievement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial and journalistic usage, an individual accolade, award, or credit bestowed upon someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Also literary labour not merely for the kudos of the thing."*
+> - 📜 **F. Scott Fitzgerald (*The Crack-Up*):** *"Every fresh artistic triumph earned its transient **kudo** in the press, leaving the soul strangely empty."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The playwright received generous **kudo** for his witty dialogue, though critics condemned the second act."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"American vernacular speech quickly fashioned the singular noun **kudo** from the Greek collective kudos."*

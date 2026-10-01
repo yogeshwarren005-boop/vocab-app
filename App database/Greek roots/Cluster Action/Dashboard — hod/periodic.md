@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or recurring at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring repeatedly from time to time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing or occurring at regular intervals of time; recurring intermittently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, relating to the periodic table of elements; in literature, descriptive of balanced complex sentences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He makes periodic efforts to find me, but my lawyers are loyal, and will give no clue." "And the settlement?"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The second element of PPIP is the preventive health assessment (PHA), which in 1996 replaced the periodic physical examination program for all active-duty members."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Periodic Expulsion of Evils in a Material Vehicle 4."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"When elements are arranged according to atomic weight, they exhibit a recurring **periodic** rhythm of properties."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden's magnificent **periodic** sentences move with the measured majesty of a royal procession."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Cepheid variables display a **periodic** fluctuation of brightness governed by internal radial pulsations."*

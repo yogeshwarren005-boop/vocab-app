@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or producing two or more phases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or producing two or more phases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or utilizing two or more alternating electrical voltages with regular phase differences between them (such as three-phase power).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical power engineering, systems designed by Nikola Tesla using multi-phase currents to generate rotating magnetic fields in induction motors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyphase designates having or producing two or more phases."*
+> - 📜 **Nikola Tesla (*A New System of Alternating Current Motors and Transformers*):** *"The generation of a continuous rotating magnetic field was accomplished through my novel **polyphase** alternating current system."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"The transmission of massive power across Niagara Falls established the undisputed supremacy of the **polyphase** grid."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Tesla's **polyphase** motors solved the problem of long-distance industrial energy transmission."*

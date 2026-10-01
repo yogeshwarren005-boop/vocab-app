@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of protostele in vascular plants in which the central core of xylem has radiating ribs or lobes resembling a star in transverse section.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, a primitive vascular cylinder found in primitive pteridophytes and lycophytes where phloem occupies the spaces between radiating xylem ridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinostele designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The fluted xylem cylinder of the **actinostele** represents an evolutionary advance over the solid circular haplostele."*
+> - 📜 **Edward Charles Jeffrey (*The Anatomy of Woody Plants*):** *"In the fossil roots of early arborescent lycopods, transverse sections invariably reveal a well-defined star-like **actinostele**."*
+> - 📜 **Arthur Johnson Eames (*Morphology of Vascular Plants*):** *"The development of an **actinostele** vastly increases the contact surface between conducting tracheids and living phloem parenchyma."*

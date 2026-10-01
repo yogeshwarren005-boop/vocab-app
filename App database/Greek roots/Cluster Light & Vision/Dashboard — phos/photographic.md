@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, obtained by, or used in photography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing nature and human beings with the exactness of a photograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling photography; retaining visual impressions with extreme detail and accuracy (photographic memory).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and technology, describing emulsion plates, lenses, or processes dedicated to the optical capture of images.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had an excellent memory, photographic and phonographic, a gift that wise men covet for themselves but deprecate in their friends."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Several parties have photographic copies."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Or what is often better still, a picture of the wire can be projected through the microscope on to a screen or on to a moving photographic plate or strip of photographic paper."*
+> - 📜 **William Henry Fox Talbot (*Some Account of the Art of Photogenic Drawing*):** *"The **photographic** process allows nature herself to draw her own pictures upon sensitive silver paper."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The human mind cannot retain a complete **photographic** replica of every passing sensory impression."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes possessed a **photographic** eye that observed every footprint, cigar ash, and scraped plaster in the room."*

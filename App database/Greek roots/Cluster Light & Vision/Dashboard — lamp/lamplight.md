@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light from a lamp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light from a lamp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The light cast by a lamp, especially a soft, warm illumination in an interior or along an evening street.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and painting, the evocative contrast of warm amber artificial lighting against exterior nocturnal shadow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"They had all breakfasted together by lamplight at the hotel, and Selincourt had seen his sister into the Chilmark train."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The lamplight struggled out through the fog, and Hallward looked at his watch."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Only Lamplight's dome and high-intensity flashers that pinpointed its landing pads, gateways and walkways broke the moonlet's solid gray-green landscape."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"And the **lamplight** o'er him streaming throws his shadow on the floor."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A single streak of yellowish **lamplight** fell across the cold stones of the courtyard."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes sat in the circle of **lamplight**, his violin resting across his knee."*

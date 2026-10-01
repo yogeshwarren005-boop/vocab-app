@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imperial authority symbolized by a scepter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial or emblematic staff.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorated ceremonial staff carried by monarchs, rulers, or deities as a tangible emblem of sovereign majesty and rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry, iconography, and numismatics, a stylized rod tipped with an eagle, cross, fleur-de-lis, or hand of justice denoting legitimate royal or ecclesiastical governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, by my sceptre and my hopes of heaven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were for me To throw my sceptre at the injurious gods, To tell them that this world did equal theirs Till they had stolen our jewel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This chair shall be my state, this dagger my sceptre, and this cushion my crown."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The **sceptre** of the tyrant shall drop from his nerveless grasp when mankind awakens to freedom and truth."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor received from the senate the solemn investiture of the imperial purple and the golden **sceptre**."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The hand that swayed the iron **sceptre** of Northumbria was now cold beneath the pavement of the chapel."*

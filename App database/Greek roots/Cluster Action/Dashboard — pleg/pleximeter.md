@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pleg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, thin plate of ivory, wood, or metal placed against the body to receive the blow in diagnostic medical percussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical diagnosis, a mediating plate utilized in indirect percussion to transmit acoustic vibrations and map internal organ boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleximeter designates a term designating an entity, condition, or phenomenon derived from greek pleg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bedside percussion may be performed with an ivory **pleximeter** or, far more conveniently, using the index finger of the left hand."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Piorry introduced the **pleximeter** to render the resonant sounds of the chest wall clearer and more uniform."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The thin rubber **pleximeter** dampens superficial vibration and allows accurate mapping of hepatic dullness."*

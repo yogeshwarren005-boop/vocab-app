@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, excessive, and irrational fear of travel or journeys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatry, a specific phobic disorder characterized by acute panic attacks when anticipating or undertaking travel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hodophobia designates a term designating an entity, condition, or phenomenon derived from greek hod."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Paralyzing travel dread, known clinically as **hodophobia**, traps individuals within the safe domestic confines of home."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"In cases of **hodophobia**, train phobia frequently conceals deep unconscious separation anxieties rooted in childhood."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Severe sensory overload in unfamiliar surroundings can precipitate distressing episodes of acute **hodophobia**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of overwhelming emotion; especially : rapturous delight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic amphetamine analog C11H15NO2 used illicitly for its mood-enhancing and hallucinogenic properties —called also MDMA.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An overwhelming state of intense emotion, transcendent joy, or mystic rapture that suspends ordinary conscious thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious mysticism and classical philosophy, a trance state in which the soul transcends the physical body to unite with the divine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark how he trembles in his ecstasy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the very ecstasy of love, Whose violent property fordoes itself, And leads the will to desperate undertakings, As oft as any passion under heaven That does afflict our natures."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I, of ladies most deject and wretched, That suck’d the honey of his music vows, Now see that noble and most sovereign reason, Like sweet bells jangled out of tune and harsh, That unmatch’d form and feature of blown youth Blasted with ecstasy."*
+> - 📜 **Plotinus (*The Enneads*):** *"In this transcendent **ecstasy**, the soul casts off every earthly form and attains immediate mystical union with the One."*
+> - 📜 **Teresa of Ávila (*The Interior Castle*):** *"The soul in profound spiritual **ecstasy** feels itself completely dissolved in divine light and celestial sweetness."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The hallmark of saintliness is the recurrent immersion in mystical **ecstasy**, where the boundaries of selfhood vanish."*

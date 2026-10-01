@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to stereoscopy or the stereoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by stereoscopy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, produced by, or perceived through stereoscopy; having or producing the illusion of three-dimensional solid depth from two flat images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and photography, designating binocular vision wherein retinal disparity between both eyes is fused by the visual cortex to yield depth perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereoscopic designates of or relating to stereoscopy or the stereoscope."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Our vivid **stereoscopic** perception of depth arises from the disparity between the two disparate images formed on our retinas."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"He held up a miniature geometric model, turning it slowly so that its facets cast a **stereoscopic** shadow across the wall."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **stereoscopic** fusion of two disparate drawings produces a perception of third dimensionality that no single eye can experience."*

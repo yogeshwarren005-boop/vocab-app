@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform, execute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform, execute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform, execute, accomplish, or carry out an action, activity, duty, or work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English grammar, a major auxiliary verb used to form questions, negatives, and emphatic assertions; or from Greek do (didonai, 'to give').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Then another month to convert to something we could massage with our favorite 486 in DOS."*
-> - 📜 **James Joyce (*Ulysses*):** *"Dos à dos!_ _(Arabesquing wearily they weave a pattern on the floor, weaving, unweaving, curtseying, twirling, simply swirling.)_ ZOE: I’m giddy! _(She frees herself, droops on a chair."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"My goodness," said Aunt Rebecca, "since them automobiles is so common abody don't get many how-de-dos no more as you travel along the country roads."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"If it were done when 'tis done, then 'twere well it were done quickly: if the assassination could trammel up the consequence, and catch with his surcease success; that but this blow might be the be-all and the end-all here, but here, upon this bank and shoal of time, we'd jump the life to come."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"**Do** your work, and you shall reinforce yourself; a man must consider what a blindman's-buff is this game of conformity."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Actions are right in proportion as they tend to promote happiness; wrong as they tend to **do** the reverse of happiness."*

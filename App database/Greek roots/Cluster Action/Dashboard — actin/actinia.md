@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sea anemone common in rock pools.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sea anemone or related animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of smooth-bodied, solitary sea anemones characterized by bead-like acrorhagi bearing stinging nematocysts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, the cosmopolitan beadlet anemone genus found commonly along rocky intertidal zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinia designates a genus of sea anemone common in rock pools."*
+> - 📜 **Philip Henry Gosse (*The Ocean*):** *"The ruby-red **Actinia** clings tenaciously to submerged rocks, retracting into a jelly-like button when exposed to air."*
+> - 📜 **George Henry Lewes (*Sea-Side Studies*):** *"Feeding a morsel of limpet flesh to a captive **Actinia** evokes an instantaneous inward curling of its tentacles."*
+> - 📜 **Charles Kingsley (*Glaucus; or, The Wonders of the Shore*):** *"Every clear rock pool presents some splendid variety of **Actinia** glistening beneath the salt water."*

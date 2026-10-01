@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of cause to stand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of cause to stand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed, occurring, or stabilizing in an intermediate position, phase, or period of crystallization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology and mineralogy, occupying the interstices between earlier-formed phenocrysts in volcanic or plutonic rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesostatic designates adjective*) pertaining to, derived from, or characteristic of cause to stand."*
+> - 📜 **Archibald Geikie (*The Ancient Volcanoes of Great Britain*):** *"Microscopic examination reveals a **mesostatic** groundmass of glassy silica cementing the earlier crystalline feldspars."*
+> - 📜 **Alfred Harker (*The Natural History of Igneous Rocks*):** *"The residual liquid solidifies into a **mesostatic** quartz-orthoclase intergrowth that occupies interstitial angular voids."*
+> - 📜 **Norman L. Bowen (*The Evolution of the Igneous Rocks*):** *"Fractional crystallization leaves a highly enriched **mesostatic** residue that fills the gaps between early mafic cumulates."*

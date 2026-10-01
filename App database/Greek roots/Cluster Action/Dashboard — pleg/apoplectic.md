@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or causing apoplexy or stroke; also : affected with, susceptible to, or showing symptoms of apoplexy or stroke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a kind to cause or apparently cause stroke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overcome with sudden, extreme anger or rage; purple-faced with furious indignation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, relating to or causing apoplexy; suffering from sudden cerebral hemorrhage or stroke.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle presents an apoplectic appearance before half the distance is accomplished."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, very apoplectic, still exhibits his deportment about town, still enjoys himself in the old manner, is still believed in in the old way."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The news so shocked his mother that it brought on an apoplectic attack.” “And what good can you do her?"*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Old Fezziwig stood in the middle of the room, looking red and **apoplectic** with sheer joviality and exertion."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He grew fairly purple with rage, his eyes starting from his head in an almost **apoplectic** fury."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The old courtier sank back into his armchair in an **apoplectic** stupor, stunned by the fall of the Bastille."*

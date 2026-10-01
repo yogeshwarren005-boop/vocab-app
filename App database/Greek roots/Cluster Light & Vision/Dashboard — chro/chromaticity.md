@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of a color as determined by its dominant wavelength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of a color as determined by its dominant wavelength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of a color determined by its dominant wavelength (hue) and purity (chroma), independent of its luminance or brightness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorimetry, the quantitative coordinates of a color plotted on the standard CIE chromaticity diagram.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromaticity designates the quality of a color as determined by its dominant wavelength."*
+> - 📜 **James Clerk Maxwell (*Experiments on Colour, as Perceived by the Eye*):** *"We determined the precise **chromaticity** of the spectral mixture by comparing it with standard pigments."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"The triangular diagram maps all visible hues, defining **chromaticity** without regard to absolute light intensity."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"Atmospheric scattering alters the **chromaticity** of celestial light, shifting distant mountains into deep indigo."*

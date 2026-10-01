@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mysterious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To utterly bewilder, perplex, or baffle someone; to make obscure or mysterious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological fiction and stage illusion, deliberately withholding key facts to cultivate suspense or misdirection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Melchior: True, I should magnify this present, mystify that future, too-- We adapt our conversation always to our hearer's light."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If, however, at this point, new full-weight coins are put into circulation, these at once disappear while the old ones remain in circulation--a fact that has always been somewhat mystifying."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Then occurred a fall in value, mystifying alike to the prince and the people."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"Holmes took immense pleasure in presenting his conclusions so as to completely **mystify** the official detectives."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The odd circumstances seemed contrived solely to **mystify** the police and confound ordinary inquiry."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill loved to **mystify** his companions with playful riddles and ambiguous smiles."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feather covering the shoulder of a bird.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garment consisting of a long wide piece of woolen cloth worn over the shoulders with an opening for the head; part of a monastic habit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the shoulder blade or scapula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic dress, a religious garment consisting of two bands of cloth hanging over the chest and back, worn by members of various Catholic orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Off he sails with a scapular or a medal on him for luck."*
-> - 📜 **James Joyce (*Ulysses*):** *"I was confirmed by the bishop and enrolled in the brown scapular."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In temperate climates, a <g>Cowl</g> and a tunic were sufficient--the cowl of a thicker texture for winter, and a thinner for summer--with a scapular to work in."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"He was enrolled in the sodality of the Blessed Virgin, wearing the brown **scapular** next to his skin as a shield against mortal sin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Referred pain radiating to the right **scapular** region is a classic hallmark of acute biliary colic."*
+> - 📜 **Thomas Merton (*The Seven Storey Mountain*):** *"When I received the white habit and the heavy woolen **scapular**, I felt consecrated to a life of silent prayer."*

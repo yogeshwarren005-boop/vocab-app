@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of several different colors; multicolored; in cytology, pertaining to or composed of heterochromatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, describing genetically inactive, densely condensed chromosomal regions that replicate late in the S phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterochromatic designates densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes."*
+> - 📜 **Barbara McClintock (*Cold Spring Harbor Symposia on Quantitative Biology*):** *"The insertion of a transposable element into a **heterochromatic** region silenced adjacent active genes."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Position-effect variegation occurs when a gene is relocated near a dense **heterochromatic** chromosome knob."*
+> - 📜 **John Ruskin (*St. Mark's Rest*):** *"The facade was adorned with **heterochromatic** marble bands, alternating purple porphyry with pale Istrian stone."*

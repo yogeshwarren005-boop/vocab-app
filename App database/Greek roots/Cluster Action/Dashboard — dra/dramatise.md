@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into dramatic form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent something in a dramatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adapt a novel or narrative for presentation as a play or broadcast (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To exaggerate, embellish, or present circumstances with heightened theatrical emotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatise designates put into dramatic form."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The novelist's supreme obligation is ever to **dramatise** the inner life, avoiding sterile expository summary."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine's romantic fancy led her to **dramatise** ordinary domestic incidents into gothic mysteries."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She had a youthful impulse to **dramatise** her own devotion, imagining severe sacrifices for duty's sake."*

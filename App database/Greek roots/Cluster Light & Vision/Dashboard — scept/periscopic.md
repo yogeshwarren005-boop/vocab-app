@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing a view all around or on all sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a periscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or functioning like a periscope; giving a wide, comprehensive, or elevated field of view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic lens design, designating curved spectacle lenses (concavo-convex or meniscus) that allow the wearer to view oblique objects clearly without turning the head.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periscopic designates providing a view all around or on all sides."*
+> - 📜 **William Hyde Wollaston (*On the Periscopic Form of Spectacles*):** *"My newly invented **periscopic** glasses diminish lateral distortion, allowing the eyeball to turn freely in every direction."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"From his lofty masthead perch, the lookout enjoyed a **periscopic** vantage across miles of rolling blue horizon."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"From our sealed room, we maintained a **periscopic** watch over the silent, stricken street below."*

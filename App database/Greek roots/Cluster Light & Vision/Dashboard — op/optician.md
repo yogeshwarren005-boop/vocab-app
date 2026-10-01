@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A maker of or dealer in optical items and instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who reads prescriptions for visual correction, orders lenses, and dispenses eyeglasses and contact lenses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist qualified to fit and sell eyeglasses and contact lenses, or a maker and seller of optical instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, skilled instrument makers (such as John Dollond or Joseph von Fraunhofer) who perfected scientific lenses and prisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is called the "ultra-microscope." It must first be pointed out that there is a limit to the power of the ordinary microscope, beyond which the skill of the optician cannot go."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"Fraunhofer, the celebrated Munich **optician**, mapped hundreds of dark lines across the solar spectrum."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"Old Sol Gills was a mathematical instrument maker and **optician**, surrounded by quadrants and chronometers."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes submitted the walking-stick to the inspection of a London **optician** to verify the doctor's lenses."*

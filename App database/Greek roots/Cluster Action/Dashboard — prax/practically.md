@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Almost; nearly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a practical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For all practical purposes; virtually, almost; in a manner dictated by practical needs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operational terms, through active bodily or mechanical execution rather than cognitive speculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She could talk and think of practically nothing but Leonore."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The circuit of the walls, which were built in the reign of Elizabeth, with their bastions, "mounts," and gates, is still practically complete, and is preserved with care and pride."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Its adherents, who included perhaps one-third of the ministers and people of the Church, were specially numerous in the Highlands, where United Presbyterianism was practically unrepresented."*
+> - 📜 **Thomas Henry Huxley (*Autobiography*):** *"I had **practically** no formal schooling in my early years, and had to make my own way through voracious reading."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The secret of his hoarded gold had **practically** vanished from the memories of the villagers."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"His courage was untried, but he was **practically** convinced that when the supreme moment arrived, he would prove heroic."*

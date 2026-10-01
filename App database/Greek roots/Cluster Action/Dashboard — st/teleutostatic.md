@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of cause to stand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of cause to stand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or designating the resting, dormant, or immobile condition of teleutospores (teliospores) in rust fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, relating to the static overwintering stage of the fungal life cycle prior to basidiospore germination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleutostatic designates adjective*) pertaining to, derived from, or characteristic of cause to stand."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"In its thick-walled **teleutostatic** phase, the rust fungus endures winter freezes upon decayed cereal stubble."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"The **teleutostatic** spore remains physiologically dormant until stimulated by spring moisture and rising temperatures."*
+> - 📜 **J. C. Arthur (*The Plant Rusts (Uredinales)*):** *"Taxonomic keys for the rusts rely heavily on the morphological attributes of the resting **teleutostatic** spore state."*

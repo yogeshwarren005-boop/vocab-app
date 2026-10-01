@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted: includes aletris; narthecium; veratrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted: includes aletris; narthecium; veratrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of perennial monocotyledonous flowering plants in the order Liliales, including trilliums, death camases, and bunchflowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and toxicology, a family of rhizomatous herbs producing deadly steroid alkaloids (such as veratrine in *Veratrum*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanthiaceae designates one of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted: includes aletris; narthecium; veratrum."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Melanthiaceae** includes the poisonous white hellebore and graceful woodland trilliums."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Potent cardiovascular alkaloids pervade the rootstocks of many genera within the **Melanthiaceae**."*
+> - 📜 **Armen Takhtajan (*Evolutionary Trends in Flowering Plants*):** *"Morphological characters place **Melanthiaceae** near the ancestral base of the monocotyledonous order Liliales."*

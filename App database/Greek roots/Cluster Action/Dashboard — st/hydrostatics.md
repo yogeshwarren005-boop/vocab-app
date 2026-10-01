@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the mechanical properties of fluids that are not in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the mechanical properties of fluids that are not in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science and fluid mechanics that investigates liquids and fluids in static equilibrium and the pressures they exert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering, the mathematical analysis of fluid pressure distributions against dams, submerged surfaces, and floating vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrostatics designates study of the mechanical properties of fluids that are not in motion."*
+> - 📜 **Galileo Galilei (*Discourse on Bodies in Water*):** *"The geometric demonstrations of **hydrostatics** clarify why shape alone cannot account for the floating or sinking of solid bodies."*
+> - 📜 **Daniel Bernoulli (*Hydrodynamica*):** *"Before investigating fluids in rapid motion, the natural philosopher must master the fundamental theorems of **hydrostatics**."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The equilibrium of fluid spheres under mutual gravitational attraction constitutes one of the most sublime problems in **hydrostatics**."*

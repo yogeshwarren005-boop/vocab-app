@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition in verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something suggesting a poem (as in expressiveness, lyricism, or formal grace).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of writing in which words are chosen for their sound and beauty and are carefully arranged, often in rhymed, metered lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics, a unified linguistic creation that synthesizes imaginative insight, rhythmic form, and intense emotional truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never may That state or fortune fall into my keeping Which is not owed to you. [_Exeunt Lucilius and Old Athenian._] POET. [_Presenting his poem_.] Vouchsafe my labour, and long live your lordship."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hope (London, 1880), p. 52, _recto._ The title of the original poem was _Regnum Papisticum_."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"A **poem** is the very image of life expressed in its eternal truth."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A **poem** is that species of composition which is opposed to works of science, by proposing for its immediate object pleasure, not truth."*
+> - 📜 **Robert Frost (*The Figure a Poem Makes*):** *"A **poem** begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness; it finds the thought and the thought finds the words."*

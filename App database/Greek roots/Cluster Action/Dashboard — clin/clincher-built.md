@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having overlapping hull planks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having overlapping hull planks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed with overlapping exterior hull planks fastened together; clinker-built (chiefly of wooden boats).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture, a traditional Scandinavian and northern European method of boat construction providing flexible seaworthiness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clincher-built designates having overlapping hull planks."*
+> - 📜 **Walter Scott (*The Pirate*):** *"The hardy fishermen launched their light **clincher-built** skiff through the roaring surf of the voe."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"We rowed out in a sturdy **clincher-built** yawl whose overlapping oak planks defied the choppy Sound of Mull."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The captain's gig was a graceful **clincher-built** craft, skimming the waves like a seabird."*

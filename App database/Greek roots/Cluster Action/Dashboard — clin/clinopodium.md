@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild basil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild basil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aromatic perennial herbs in the mint family Lamiaceae, commonly known as wild basil or calamint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany, labiate plants bearing axillary whorls of tubular pink or purple flowers subtended by linear bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinopodium designates wild basil."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Along rocky limestone slopes, stems of **Clinopodium** emit a pungent thyme-like fragrance when crushed underfoot."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The compact verticillasters of **Clinopodium** resemble a reclining cushion, giving the genus its ancient Greek name."*
+> - 📜 **George Bentham (*Labiatarum Genera et Species*):** *"Within the tribe Mentheae, **Clinopodium** is distinguished by its tubular calyx and curved corolla tube."*

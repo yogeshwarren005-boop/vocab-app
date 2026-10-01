@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by ecstasy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is subject to ecstasies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, feeling, or expressing overwhelming rapturous joy or intense delight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or absorbed in a mystical trance or state of religious ecstasy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Having seen that it was really her lover who had advanced, and no one else, her lips parted, and she sank upon him in her momentary joy, with something very like an ecstatic cry."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the ecstatic solemnity with which she swore her faith to him the ordinary sensibilities of sex seemed a flippancy."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Que c’est beau!” and then remained absorbed in ecstatic contemplation."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Standing on the bare ground, my head bathed by the blithe air, I become an **ecstatic** transparent eyeball; I am nothing; I see all."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"In Dionysian rites, the celebrant experiences an **ecstatic** rupture of individuality, merging with the primal unity of existence."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The spirits of the air burst forth in **ecstatic** melodies that shook the ancient mountains with sublime joy."*

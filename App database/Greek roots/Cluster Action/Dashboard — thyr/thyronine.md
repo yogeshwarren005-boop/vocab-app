@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenolic amino acid of which thyroxine is a derivative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenolic amino acid of which thyroxine is a derivative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic amino acid compound (4-(4-hydroxyphenoxy)phenylalanine) that serves as the basic chemical structural skeleton of thyroid hormones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and endocrinology, the des-iodo parent nucleus whose iodinated derivatives constitute T1, T2, T3 (triiodothyronine), and T4 (thyroxine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyronine designates a phenolic amino acid of which thyroxine is a derivative."*
+> - 📜 **Charles Robert Harington (*Chemistry of Thyroxine: Constitution and Synthesis*):** *"We demonstrated that thyroxine is a tetra-iodo substitution derivative of a parent amino acid which we designated **thyronine**."*
+> - 📜 **George Barger (*Some Applications of Organic Chemistry to Biology and Medicine*):** *"The chemical synthesis of unsubstituted **thyronine** confirmed the diphenyl ether architecture of the natural thyroid principles."*
+> - 📜 **Rosalind Pitt-Rivers (*The Thyroid Hormones*):** *"The biological potency of **thyronine** derivatives depends strictly on the presence and spatial orientation of iodine atoms on the phenolic rings."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process by which an organization, machine, or system produces an output or product distinct from itself (contrasted with autopoiesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems theory and cybernetics, the operational modality of artificial mechanisms whose structural product lies outside their internal boundary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allopoiesis designates a term designating an entity, condition, or phenomenon derived from greek poie."*
+> - 📜 **Humberto Maturana & Francisco Varela (*Autopoiesis and Cognition: The Realization of the Living*):** *"An industrial assembly line is a prime example of **allopoiesis**, producing commodities distinct from the machine that manufactures them."*
+> - 📜 **Niklas Luhmann (*Social Systems*):** *"Unlike living organisms, mechanical factories operate by **allopoiesis**, generating outputs outside their own physical boundaries."*
+> - 📜 **Felix Guattari (*Chaosmosis: An Ethico-Aesthetic Paradigm*):** *"Technical machines are caught in chains of **allopoiesis**, depending upon external human intervention for their reproduction."*

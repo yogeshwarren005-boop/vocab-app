@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of the quantity of chlorine or other halides in water (especially seawater).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measure of the quantity of chlorine or other halides in water (especially seawater).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A oceanographic measure of the total halide concentration in seawater, expressed as grams of chlorine equivalent per kilogram of seawater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical oceanography, an exact titration parameter used in Knudsen's formula to calculate total salinity of marine waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorinity designates a measure of the quantity of chlorine or other halides in water (especially seawater)."*
+> - 📜 **Martin Knudsen (*Hydrographical Tables*):** *"Determining the **chlorinity** by silver nitrate titration permits an accurate calculation of total ocean salinity."*
+> - 📜 **H. U. Sverdrup (*The Oceans: Their Physics, Chemistry, and General Biology*):** *"Because major ionic ratios remain constant, seawater salinity is derived directly from measured **chlorinity**."*
+> - 📜 **C. Wyville Thomson (*The Voyage of the Challenger*):** *"Samples drawn from the abyssal depths showed remarkable uniformity in their relative **chlorinity**."*

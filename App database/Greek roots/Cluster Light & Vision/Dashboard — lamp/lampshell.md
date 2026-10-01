@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common name for a marine invertebrate of the phylum Brachiopoda, whose hinged bivalved shell resembles an ancient Greco-Roman oil lamp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, lophophorate animals whose ventral pedicle valve possesses an opening resembling the wick hole of an antique lamp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lampshell designates marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The persistent genus Lingula, a classic **lampshell**, has survived virtually unchanged from the earliest Silurian rocks."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The common name **lampshell** was bestowed because the curved ventral beak mimics the nozzle of an antique terra-cotta lamp."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Ciliated arms coiled within the shell of the **lampshell** generate constant feeding currents of seawater."*

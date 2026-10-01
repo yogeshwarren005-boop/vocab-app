@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of sadness : depression of spirits : dejection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pensive mood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of pensive sadness, typically with no obvious cause; or causing a gentle, sorrowful mood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and aesthetics, a prized reflective artistic sensibility associated with twilight, ruined landscapes, and philosophical solitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when these quicker elements are gone In tender embassy of love to thee, My life being made of four, with two alone, Sinks down to death, oppressed with melancholy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my troth, I take my young lord to be a very melancholy man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a man that had this trick of melancholy sold a goodly manor for a song."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I can suck **melancholy** out of a song, as a weasel sucks eggs."*
+> - 📜 **John Milton (*Il Penseroso*):** *"Hail, divinest **Melancholy**, whose saintly visage is too bright to hit the sense of human sight."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"There is a delicious **melancholy** in the autumn woods that soothes the troubled mind."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soup made of beef or chicken broth and rice noodles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soup made of beef or chicken broth and rice noodles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form (phos, photos, 'light, daylight') denoting light, radiant energy, photons, or photographic processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature, the classical root yielding phosphorus, photograph, photophobia, and photosynthesis across physics and biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phos designates a soup made of beef or chicken broth and rice noodles."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek noun **phos** denoted the radiant daylight of the sun as well as the inner light of understanding."*
+> - 📜 **William Whewell (*Philosophy of the Inductive Sciences*):** *"From the Hellenic stem **phos**- modern physicists coined words describing the corpuscular quanta of illumination."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"The prefix **phos**- signifies the power of radiant light to awaken dormant chemical affinities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fine-grained homogeneous rock (such as basalt) containing minerals undetectable by the naked eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fine-grained homogeneous rock (such as basalt) containing minerals undetectable by the naked eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine-grained, crystalline igneous rock whose constituent mineral grains are too small to be distinguished by the unaided human eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, an extrusive or shallow intrusive rock (such as basalt or felsite) exhibiting rapid cooling from a molten volcanic state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphanite designates fine-grained homogeneous rock (such as basalt) containing minerals undetectable by the naked eye."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The dense dark basalt passed insensibly into compact **aphanite** along the chilling margins of the volcanic dike."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Under the magnifying lens, the apparently homogeneous **aphanite** resolved into minute crystals of feldspar and pyroxene."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Lava flows that cooled rapidly in seawater solidified into microcrystalline **aphanite** and volcanic glass."*

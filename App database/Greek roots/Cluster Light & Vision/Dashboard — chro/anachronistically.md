@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anachronistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an anachronistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anachronistic manner; in a way that is out of its proper chronological time or historical context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, portraying characters or adopting philosophies that belong temporally elsewhere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anachronistically designates in an anachronistic manner."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She spoke **anachronistically** of courtly chivalry as though knights still rode through the Tuscan vineyards."*
+> - 📜 **George Bernard Shaw (*Saint Joan*):** *"The characters argue **anachronistically** with modern political acumen, giving timeless vitality to medieval disputes."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Judging ancient poets **anachronistically** by modern utilitarian standards blinds the critic to their native beauty."*

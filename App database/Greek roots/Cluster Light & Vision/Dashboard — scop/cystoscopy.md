@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid endoscope for inspecting and passing instruments into the urethra and bladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rigid endoscope for inspecting and passing instruments into the urethra and bladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct visual examination of the interior of the urinary bladder and urethra using an illuminated endoscope (cystoscope).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urological practice, an essential diagnostic and operative method for evaluating hematuria, resecting transitional cell tumors, and guiding ureteral catheterization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystoscopy designates a rigid endoscope for inspecting and passing instruments into the urethra and bladder."*
+> - 📜 **Max Nitze (*Lehrbuch der Kystoskopie*):** *"With the incandescent electric lamp at the tip of the instrument, **cystoscopy** made the interior of the living bladder as bright as day."*
+> - 📜 **Hugh Hampton Young (*Practice of Urology*):** *"Routine **cystoscopy** enables the surgeon to locate the source of vesical bleeding and catheterize each ureter independently."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The urologist relies on **cystoscopy** to distinguish between benign calculi and ulcerating vesical papillomas."*

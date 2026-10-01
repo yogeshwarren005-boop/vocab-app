@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: pick.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: pick.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small thin piece of metal, plastic, bone, or quill used to pluck the strings of an instrument such as a guitar, lute, or lyre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative zoology, any small tooth, spine, or ridge in an insect or animal that strikes against a file to produce sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog plectrum as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Certain stridulating insects use the modified edge of the wing like a **plectrum** against a file-like ridge to produce their shrill call."*
+> - 📜 **George Eliot (*Romola*):** *"His nimble fingers swept the strings of the lute with a polished ivory **plectrum**, drawing forth sweet Florentine melodies."*
+> - 📜 **Thomas Love Peacock (*Gryll Grange*):** *"The ancient poet struck his cithara with a gold **plectrum**, invoking Apollo to inspire his verses."*

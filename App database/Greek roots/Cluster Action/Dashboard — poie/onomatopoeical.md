@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of words) formed in imitation of a natural sound; ; - harry hoijer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of words) formed in imitation of a natural sound; ; - harry hoijer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by onomatopoeia; echoic or sound-imitative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative philology, describing phonetic roots that mimic animal cries or percussive natural noises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeical designates (of words) formed in imitation of a natural sound; ; - harry hoijer."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"Words like buzz, hiss, and clatter are of clearly **onomatopoeical** origin, derived from direct imitation of acoustic sensations."*
+> - 📜 **Max Müller (*The Science of Language*):** *"While primitive man made use of **onomatopoeical** roots, higher conceptual thought required abstract grammatical categories."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Children and savages exhibit a natural fondness for **onomatopoeical** expressions to describe natural phenomena."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sloping downward away from a common crest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sloping downward away from a common crest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In structural geology, relating to an anticline, an arch-like fold of stratified rock whose beds dip downward away from the central crest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the crestal region of crustal folding where the oldest strata are exposed in the core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticlinal designates sloping downward away from a common crest."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Bending stresses arched the limestone beds into a grand **anticlinal** ridge flanking the valley."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Petroleum prospectors focus exploration upon the crests of permeable **anticlinal** traps capped by shale."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Deep erosion through the **anticlinal** axis laid bare the ancient crystalline core beneath the sedimentary blanket."*

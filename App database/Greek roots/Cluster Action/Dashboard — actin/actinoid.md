@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to beam, ray.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to beam, ray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiating like rays or possessing a star-shaped, ray-like structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, an alternative designation for any element of the actinide series; in zoology, resembling a sea anemone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinoid designates adjective & noun*) resembling, having the physical form of, or akin to beam, ray."*
+> - 📜 **Glenn T. Seaborg (*The Chemical Elements and Their Compounds*):** *"Electronic configurations of the heavier **actinoid** elements reveal complex competition between 5f and 6d orbitals."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of Invertebrate Animals*):** *"The **actinoid** polyps unfold their petaloid coronals when the sea water washes quietly over the reef."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Comparable ionic radii across the **actinoid** series cause pronounced similarities in coordination behavior."*

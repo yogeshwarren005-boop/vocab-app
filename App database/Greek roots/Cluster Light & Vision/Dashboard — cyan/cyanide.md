@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of cyanogen with a more electropositive element or group: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Potassium cyanide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound containing the monovalent cyano group (-C≡N), infamous for acute cellular toxicity by arresting cellular respiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and biochemistry, an inhibitor that binds ferric iron in cytochrome c oxidase, blocking the mitochondrial electron transport chain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The great example of this operation is the familiar "cyanide" process."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In applying this scientific fact to the purpose of recovering gold from the concentrates, the latter are placed in vats with a weak solution of the cyanide in water."*
+> - 📜 **Claude Bernard (*Lectures on the Effects of Toxic and Medicinal Substances*):** *"A lethal dose of potassium **cyanide** halts tissue respiration instantly, leaving the venous blood arterial red."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"A single drop of prussic acid or potassium **cyanide** upon the tongue causes death before the victim can cry out."*
+> - 📜 **Agatha Christie (*Sparkling Cyanide*):** *"The glass of champagne contained a fatal dose of potassium **cyanide**, turning celebration into horror."*

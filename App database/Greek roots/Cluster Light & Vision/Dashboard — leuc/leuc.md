@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leuc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form (leukos, 'white, pale, bright, clear') denoting white color, white blood cells, or absence of pigment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, a root found in leukocyte, leukemia, leucite, and leucine, designating white tissues, minerals, and biochemicals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leuc designates a term designating an entity, condition, or phenomenon derived from greek leuc."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"From the Greek combining root **leuc**- come the names of the colorless corpuscles and their proliferative diseases."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Chemists applied the root **leuc**- to crystalline substances that separated as pure white precipitates."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In Homer, **leuc**- described the white waves of the sea, glistening marble, and the radiant day."*

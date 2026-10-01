@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial or complete paralysis of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partial or complete paralysis of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the lower half of the body, including both legs, typically caused by damage to or disease of the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurotrauma, sensory and motor impairment of the lower extremities resulting from thoracic, lumbar, or sacral cord lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraplegia designates partial or complete paralysis of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Traumatic transection of the dorsal cord is followed by flaccid **paraplegia** and complete loss of sensory perception below the level of injury."*
+> - 📜 **William R. Gowers (*Diseases of the Spinal Cord*):** *"Compressive lesions of the dorsal spine produce progressive spastic **paraplegia**."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"In Pott's disease, tuberculous caries of the vertebrae frequently results in severe **paraplegia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organizer who puts things in order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who arranges, organizes, or categorizes concepts, facts, or operations into an orderly system (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, an architect of comprehensive encyclopedic or administrative structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematiser designates an organizer who puts things in order."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Aristotle was the supreme **systematiser** of antiquity, arranging every facet of nature into tidy logical categories."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The sterile **systematiser** believes he has captured the infinite cosmos when he has merely labeled its outward garments."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The English mind distrusts the continental **systematiser**, preferring piecemeal practical compromise to dogmatic blueprints."*

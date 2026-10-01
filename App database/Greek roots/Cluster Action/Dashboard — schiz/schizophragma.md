@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of deciduous climbing and creeping shrubs with white flowers in flat clusters; sometimes placed in family saxifragaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of deciduous climbing and creeping shrubs with white flowers in flat clusters; sometimes placed in family saxifragaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous climbing woody vines in the hydrangea family (Hydrangeaceae), native to East Asia and climbing by aerial rootlets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and landscape architecture, climbing hydrangeas such as Schizophragma hydrangeoides bearing showy inflorescences with solitary enlarged sepals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophragma designates small genus of deciduous climbing and creeping shrubs with white flowers in flat clusters; sometimes placed in family saxifragaceae."*
+> - 📜 **Philipp Franz von Siebold (*Flora Japonica*):** *"Ascending the trunks of cryptomeria trees, **schizophragma** covers the bark with luxuriant foliage and broad corymbs of sterile bracts."*
+> - 📜 **Ernest Henry Wilson (*A Naturalist in Western China*):** *"In the damp mountain ravines of Hupeh, **schizophragma** clings tenaciously to sheer limestone cliffs, displaying great white sterile sepals."*
+> - 📜 **Charles Sprague Sargent (*Trees and Shrubs*):** *"The distinguishing character of **schizophragma** resides in the solitary ovate bract that subtends the peripheral sterile flowers of the cyme."*

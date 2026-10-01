@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the theater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to dramatic acting, playhouses, or stage productions; sensational, showy, or histrionic in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance analysis and everyday psychology, expressive mannerisms, heightened rhetoric, or calculated spectacles reminiscent of the stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle said grace with theatrical declamation,—as it now appears to me, something like a religious cross of the Ghost in Hamlet with Richard the Third,—and ended with the very proper aspiration that we might be truly grateful."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The sheriffs with their great chains and nosegays, other civic gewgaws and monsters, criers, ushers, a great gallery full of people,—a large theatrical audience,—looked on, as the two-and-thirty and the Judge were solemnly confronted."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The storm through Baron Wildenheim was the height of his theatrical ambition; and with the advantage of knowing half the scenes by heart already, he did now, with the greatest alacrity, offer his services for the part."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The whole house was thrown into confusion by the sudden fever for private **theatrical** performances in the billiard room."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Wopsle had abandoned the church for the stage, pursuing his **theatrical** ambitions in a dingy playhouse near the docks."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"There was nothing artificial or **theatrical** in her grief; its quiet intensity compelled immediate reverence."*

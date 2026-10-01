@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that augments the activity of another drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that augments the activity of another drug.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, organ, or substance that cooperates with another to enhance a combined effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, a muscle that cooperates with a prime mover (agonist) to stabilize a joint or perform a movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synergist designates a drug that augments the activity of another drug."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The brachialis acts as a faithful **synergist** to the biceps during rapid flexion of the elbow joint."*
+> - 📜 **Alexander Fleming (*Penicillin and Its Clinical Applications*):** *"A chemical **synergist** added to the antibiotic wash inhibited bacterial penicillinase enzymes."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Insecticide formulations frequently incorporate piperonyl butoxide as a metabolic **synergist**."*

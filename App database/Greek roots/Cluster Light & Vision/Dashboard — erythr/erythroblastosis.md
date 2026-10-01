@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal presence of erythroblasts in the circulating blood; especially : erythroblastosis fetalis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hemolytic disease of the fetus and newborn that occurs when the immune system of an Rh-negative mother produces antibodies to an antigen in the blood of an Rh-positive fetus which cross the placenta and destroy fetal erythrocytes and that is characterized by an increase in circulating erythroblasts and by jaundice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal presence of nucleated red blood cells (erythroblasts) in the circulating blood, especially in erythroblastosis fetalis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perinatology, hemolytic disease of the newborn caused by maternal-fetal Rh incompatibility, triggering fetal erythrocyte destruction and extramedullary hematopoiesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroblastosis designates abnormal presence of erythroblasts in the circulating blood; especially : erythroblastosis fetalis."*
+> - 📜 **Philip Levine (*The Role of Isoimmunization in the Pathogenesis of Erythroblastosis Fetalis*):** *"Maternal Rh antibodies cross the placenta, destroying fetal erythrocytes and causing severe **erythroblastosis**."*
+> - 📜 **Alexander S. Wiener (*Rh Factors in Clinical Medicine*):** *"Exchange transfusion in the infant suffering from **erythroblastosis** successfully prevented fatal kernicterus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive extramedullary blood formation in the spleen and liver characterizes neonatal **erythroblastosis**."*

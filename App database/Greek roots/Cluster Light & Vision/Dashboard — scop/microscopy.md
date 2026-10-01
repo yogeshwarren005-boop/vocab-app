@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Research with the use of microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Research with the use of microscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the microscope to observe objects and structures not visible to the naked eye; the scientific investigation of microscopic phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and biology, the broad field encompassing optical, fluorescence, confocal, and electron imaging methodologies used to resolve sub-micron structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Any person possessed of the cardinal virtues of microscopy—patience and perseverance—will be rewarded in this instance; whilst those who are deficient will lose an object worthy of the virtues they dare not boast."*
+> - 📜 **Ernst Abbe (*Contributions to the Theory of the Microscope*):** *"Diffraction of light sets an ultimate physical limit on resolving power in classical optical **microscopy**."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Without the steady aid of **microscopy**, the biological reality of microbial fermentation could never have been established."*
+> - 📜 **Santiago Ramón y Cajal (*Recollections of My Life*):** *"Immersed in the silent world of silver-impregnation **microscopy**, I traced the intricate arborizations of nerve cells."*

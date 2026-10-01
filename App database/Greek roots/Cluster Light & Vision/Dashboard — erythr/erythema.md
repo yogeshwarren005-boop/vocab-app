@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal redness of the skin or mucous membranes due to capillary congestion (as in inflammation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red spreading annular skin lesion that is an early symptom of Lyme disease and that develops at the site of the bite of a tick (such as the deer tick) infected with the causative spirochete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superficial reddening of the skin, usually in patches, caused by injury, inflammation, or dilation of the blood capillaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a reactive vascular flush occurring in sunburn, drug reactions (erythema multiforme), or bacterial infection (erythema nodosum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythema designates abnormal redness of the skin or mucous membranes due to capillary congestion (as in inflammation)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The initial stage of scarlet fever is heralded by a diffuse punctate **erythema** spreading from the neck."*
+> - 📜 **Erasmus Wilson (*Diseases of the Skin*):** *"Sunburn is an acute solar **erythema** resulting from intense ultraviolet engorgement of cutaneous capillaries."*
+> - 📜 **Thomas Sydenham (*Medical Observations*):** *"The fever was attended with a bright red **erythema** that blanched momentarily under the pressure of the thumb."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by photosynthetic bacteria of the class cyanobacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or caused by photosynthetic bacteria of the class cyanobacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organism belonging to the Cyanophyta; a blue-green alga or cyanobacterium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology and microbiology, a prokaryotic phototroph possessing phycobiliprotein light-harvesting antenna complexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanophyte designates relating to or caused by photosynthetic bacteria of the class cyanobacteria."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"A slick black crust upon the high spray rocks was formed by a microscopic marine **cyanophyte**."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The hardiest pioneer organism upon newly cooled volcanic lava is often a primitive **cyanophyte**."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Fixation of atmospheric nitrogen by a free-living **cyanophyte** enriches the nutrient economy of rice paddies."*

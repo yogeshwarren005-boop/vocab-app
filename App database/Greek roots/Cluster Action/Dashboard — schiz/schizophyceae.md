@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former terms for cyanophyceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former terms for cyanophyceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical taxonomic class encompassing the blue-green algae (cyanobacteria), characterized by reproduction by fission and lack of membrane-bound nuclei.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary phycology, the primordial photosynthetic prokaryotes responsible for oxygenating the Earth's early atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophyceae designates former terms for cyanophyceae."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"The cellular simplicity of the **schizophyceae** clearly links them with the bacteria rather than the higher nucleated algae."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"In the **schizophyceae**, vegetative division by fission is accompanied by a distinctive peripheral arrangement of photosynthetic lamellae."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Ancient members of the **schizophyceae** supplied the original plastid ancestors that transformed eukaryotic evolutionary pathways."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A revised statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revised statement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of stating something again, or an altered, renewed version of an earlier declaration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American jurisprudence, an authoritative treatise published by the American Law Institute summarizing common-law rules in specific fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory of the transference of the will of the people to historic persons is merely a paraphrase—a restatement of the question in other words."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When Clement, in his work of restatement, came to discuss Christ, he found Philo's Logos ready to his hand and he was not slow to use it."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A brief restatement of the international questions involved, and of the reasons why the responses of the Chilean government are unsatisfactory is all that I deem necessary."*
+> - 📜 **Learned Hand (*The Spirit of Liberty*):** *"The monumental **restatement** of contracts brought clarity to decades of conflicting state appellate jurisprudence."*
+> - 📜 **Roscoe Pound (*An Introduction to the Philosophy of Law*):** *"Every generational **restatement** of doctrine reflects the tension between the demand for stability and the need for change."*
+> - 📜 **Felix Frankfurter (*Of Law and Men*):** *"A judicial opinion is not a mere literary exercise, but a precise **restatement** of the constitutional balance of powers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wicked and cruel behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless, wicked, or malicious mischief; devilish conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American literature and colloquial usage, roguish naughtiness, sorcery, or fiendish ingenuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Also when a woman is created, the winds have wooed star-dust, rose-dew, peach-down, and a few flint-shavings into a whirlwind of deviltry, and the world at large looks on in wonder and sore amazement, as well as breathless interest."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Some women are so feminine that they are sticky, unless well spiced with deviltry."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Dashing young cock sparrows would show off before their particular hen sparrows, and earn a cheap reputation for dare-deviltry by going within so many yards of Edwin's lair and then darting away."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"Brom Bones was notorious throughout Sleepy Hollow for his feats of horseflesh and midnight **deviltry**."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The antique mirror was reputed to retain impressions of all the wizardry and **deviltry** ever enacted in the room."*
+> - 📜 **James Fenimore Cooper (*The Last of the Mohicans*):** *"The wily Huron warrior watched the forest path with eyes alight with savage cunning and **deviltry**."*

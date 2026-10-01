@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasites of worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasites of worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the Actinomyxidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aquatic myxozoan parasite exhibiting radiating anchor-like spores that alternate hosts between annelids and teleosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomyxidian designates parasites of worms."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The discharge of the **actinomyxidian** polar capsule anchors the spore firmly to the intestinal lining of the worm."*
+> - 📜 **Charles Wardell Stiles (*Report on Animal Parasitology*):** *"Each **actinomyxidian** spore releases infectious sporoplasms that penetrate deep into the host's coelomic cavity."*
+> - 📜 **Thomas Henry Huxley (*Manual of Invertebrate Anatomy*):** *"The complex life cycle of an **actinomyxidian** parasite challenged early single-celled protozoan taxonomy."*

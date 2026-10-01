@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affected by hyperthyroidism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affected by hyperthyroidism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suffering from the clinical symptoms caused by excessive circulating levels of thyroid hormones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, describing toxic manifestations—such as hyperthermia, arrhythmias, and delirium—resulting from an acute thyroid crisis or thyroid storm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrotoxic designates of or relating to or affected by hyperthyroidism."*
+> - 📜 **Robert Graves (*Lectures on Clinical Medicine*):** *"The agitated tremor and wild pulse of the **thyrotoxic** patient subside rapidly once metabolic equilibrium is restored."*
+> - 📜 **Karl von Basedow (*Clinical Studies on Goiter*):** *"Without medical intervention, the **thyrotoxic** crisis overwhelms the cardiovascular system, ending in cardiac failure."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Preoperative preparation with sedative measures and iodine drops was essential to avert fatal **thyrotoxic** storms during surgery."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any salt of chloric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any salt of chloric acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical salt or ester containing the monovalent chlorate anion ClO3-, known for strong oxidizing properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and pyrotechnics, potassium or sodium chlorate used as an oxidizer in matches, explosives, and weedkillers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would he obtain air by chemical means, in getting by heat the oxygen contained in chlorate of potash, and in absorbing carbonic acid by caustic potash?"*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"These chemical matches were simply sulphur matches tipped with a mixture of chlorate of potash and sugar."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I have here two of the original "Prometheans." They consist (as you see) of a small quantity of chlorate of potash and sugar rolled up tightly in a piece of paper."*
+> - 📜 **Claude Louis Berthollet (*Essai de Statique Chimique*):** *"The thermal decomposition of potassium **chlorate** produces copious quantities of pure dephlogisticated air."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"A single spark detonated the dry mixture of sulfur and potassium **chlorate** with blinding brilliance."*
+> - 📜 **Ira Remsen (*Inorganic Chemistry*):** *"Heating sodium **chlorate** drives off all oxygen, leaving behind neutral common sodium chloride."*

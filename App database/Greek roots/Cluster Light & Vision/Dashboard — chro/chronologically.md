@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to chronology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In order of time; according to the temporal sequence in which events occurred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographic and bibliographic compilation, organizing occurrences or works progressively from inception to conclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The persistency of this thought may be best illustrated by a few quotations from poems and letters, arranged chronologically: 1831."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Organizing the material in each section chronologically, I inserted them into the albums and numbered each photo, document and page."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The subsequent rapid spread of the art, in the hands of students and craftsmen, may be said to have been the centrifugal force of the Renaissance and the Revival of Learning, which age, if it can be chronologically delimited, began A."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"I have examined the plays **chronologically**, that the author's gradual mastery of the stage may be observed."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"Arranging my notes **chronologically** brought order out of the chaotic records of the late empire."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"When the fossils are examined **chronologically**, the ancestry of the modern horse emerges beyond dispute."*

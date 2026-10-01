@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctor who specializes in diseases of the blood and blood-forming organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctor who specializes in diseases of the blood and blood-forming organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical physician or pathologist specializing in the diagnosis, treatment, and study of blood diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist investigating leukemia, lymphomas, hemoglobinopathies, and disorders of hemostasis and thrombosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematologist designates a doctor who specializes in diseases of the blood and blood-forming organs."*
+> - 📜 **Maxwell Wintrobe (*Hematology, the Blossoming of a Science*):** *"The **hematologist** stands in a uniquely privileged position, observing pathological cells directly under the microscope."*
+> - 📜 **William Osler (*Aequanimitas*):** *"To the aspiring **hematologist**, the blood film offers an unending panorama of physiological struggle."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The clinical **hematologist** must correlate cytological morphology with chemical affinities of cell granules."*

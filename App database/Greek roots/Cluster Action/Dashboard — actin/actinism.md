@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Actinism is the property of solar radiation that leads to the production of photochemical and photobiological effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: It is important in chemical photography and x-ray imaging, and causes sunburn and photodegradation of materials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of radiant solar energy by which chemical transformations and photochemical reactions are produced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics and photography, the chemical efficacy of the solar spectrum, predominantly associated with short wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinism designates actinism is the property of solar radiation that leads to the production of photochemical and photobiological effects."*
+> - 📜 **John Herschel (*Memoir on the Chemical Action of the Rays of the Solar Spectrum*):** *"I proposed the term **actinism** to distinguish this chemical influence from the heating and illuminating rays."*
+> - 📜 **Robert Hunt (*Researches on Light in Its Chemical Relations*):** *"Variations in atmospheric moisture modify the degree of solar **actinism** measured at sea level."*
+> - 📜 **Henry Fox Talbot (*The Pencil of Nature*):** *"The latent image owes its creation entirely to the invisible power of solar **actinism** upon the halide wash."*

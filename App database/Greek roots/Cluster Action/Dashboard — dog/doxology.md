@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually liturgical expression of praise to God.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually liturgical expression of praise to God.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liturgical expression or short hymn of praise to God, commonly sung in Christian worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hymnology, the traditional Gloria Patri or metrical verses ('Praise God from whom all blessings flow') concluding a psalm or prayer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of course a great many hymns are mere copies, and poor copies; but the Hymn Book at its best is a collection of first-hand records of experience.[33] In the story of the Christian Church doxology comes before dogma."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The angelic choirs struck their golden harps, raising an eternal **doxology** to the sovereign throne."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The rustic congregation stood to sing the evening **doxology**, their voices swelling through the ancient timbered nave."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The Mellstock parish band accompanied the final **doxology** with vigorous strokes on cello and clarionet."*

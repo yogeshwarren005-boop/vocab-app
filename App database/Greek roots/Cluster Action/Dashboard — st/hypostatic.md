@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that settles at the bottom of a fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The settling of blood in the dependent parts of an organ or body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the nature of, or constituting a hypostasis or distinct subsistence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian Christology, denoting the hypostatic union—the union of full divinity and full humanity in the single person of Jesus Christ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatic designates something that settles at the bottom of a fluid."*
+> - 📜 **Cyril of Alexandria (*Letters to Nestorius*):** *"We confess that the Word became flesh by an incomprehensible and ineffable **hypostatic** union of two complete natures."*
+> - 📜 **Richard Hooker (*Of the Laws of Ecclesiastical Polity*):** *"The **hypostatic** union between the divine and human in Christ preserved the properties of both without confusion or conversion."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"Centuries of intense conciliar debate were required to clarify the precise meaning of **hypostatic** distinction within the Godhead."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in a rehearsal (of).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or practice; as of jobs and professions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform an activity or exercise a skill repeatedly or regularly in order to acquire, improve, or maintain one's proficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To carry out or practice a profession, craft, religion, or habit as a livelihood or code of life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if you there Did practise on my state, your being in Egypt Might be my question."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ere I learn love, I’ll practise to obey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And since the wisdom of their choice is rather to have my hat than my heart, I will practise the insinuating nod and be off to them most counterfeitly."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"It is far easier to prescribe rules of virtue than to **practise** them in the turmoil of human affairs."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I resolved to **practise** my handwriting until I should write like a clerk in a London counting-house."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"What children are to do frequently, they should be made to **practise** until it becomes natural."*

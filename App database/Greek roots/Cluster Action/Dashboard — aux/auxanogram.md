@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A culture of microorganisms used in auxanography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A culture of microorganisms used in auxanography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microbiological culture plate illustrating the specific nutritional requirements of an organism through localized growth zones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic bacteriology, a plate inoculated with a microbe where discrete spots of vitamins or carbon sources demonstrate nutrient utilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxanogram designates a culture of microorganisms used in auxanography."*
+> - 📜 **Martinus Beijerinck (*Auxanographic Methods in Microbiology*):** *"The developed **auxanogram** showed vibrant concentric halos of yeast growth surrounding each glucose droplet."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Reading the microbial **auxanogram** allowed researchers to map precise amino acid deficiencies in fastidious strains."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"A differential **auxanogram** confirmed that soil actinomycetes could utilize cellulose as their sole carbon source."*

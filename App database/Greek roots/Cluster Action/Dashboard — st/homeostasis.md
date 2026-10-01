@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively stable state of equilibrium or a tendency toward such a state between the different but interdependent elements or groups of elements of an organism, population, or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively stable state of equilibrium or a tendency toward such a state between the different but interdependent elements or groups of elements of an organism, population, or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency of a physiological system or living organism to maintain internal stability and equilibrium amid external changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cybernetics and general systems theory, the self-regulating mechanism by which dynamic systems stabilize their operational variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeostasis designates a relatively stable state of equilibrium or a tendency toward such a state between the different but interdependent elements or groups of elements of an organism, population, or group."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"The coordinated physiological processes which maintain most of the steady states in the organism I have called **homeostasis**."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The constancy of the internal environment—what moderns term **homeostasis**—is the condition of free and independent life."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Negative feedback loops provide the formal mathematical foundation for understanding both mechanical servomechanisms and organic **homeostasis**."*

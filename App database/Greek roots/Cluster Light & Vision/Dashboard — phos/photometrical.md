@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to photometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to photometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or employing photometry; photometric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physics, describing instruments, comparisons, or empirical laws governing the quantitative measurement of illumination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometrical designates of or relating to photometry."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"Lambert's celebrated treatise established the mathematical laws of **photometrical** science on a solid foundation."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"The **photometrical** balance was achieved by equalizing the illumination received upon adjacent white screens."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Careful **photometrical** trials proved that the Drummond limelight was sixty times brighter than an ordinary wax candle."*

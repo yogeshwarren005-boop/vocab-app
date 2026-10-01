@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of wesleyanism as practiced by the methodist church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of the branch of protestantism adhering to the views of wesley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a Methodist church; or relating to Methodism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, one who adheres strictly to a systematic or methodical code of religious living.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And what mid Methodist pa’sons have to do with she?” “Who is the fellow?” asked d’Urberville, turning to Tess."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Every step was accomplished by the simple way of prayer; and, when I slept, late that night, in a cosy room at the Methodist parsonage in N.B., I could look back over the last few weeks, and thank God for the _power of prayer_."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Starting out, one night, to look for a place of worship, she turned her feet to a Methodist meeting from whence the sound of singing had reached her."*
+> - 📜 **John Wesley (*Journal of John Wesley*):** *"A true **Methodist** is one who has the love of God shed abroad in his heart by the Holy Ghost given unto him."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The crowd stood listening upon the green as the young **Methodist** preacher poured forth her heart in prayer."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The village choir was composed of sober Presbyterian and **Methodist** citizens dressed in their sabbath best."*

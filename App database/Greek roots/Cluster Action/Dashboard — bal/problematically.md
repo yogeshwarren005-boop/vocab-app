@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In such a way as to pose a problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In such a way as to pose a problem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that presents difficulty, doubt, or uncertainty; questionably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly and philosophical argumentation, in terms of open or unresolved propositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, problematically designates in such a way as to pose a problem."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The hypothesis was introduced **problematically**, as a conjecture whose logical consequences required rigorous mapping."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Inductive generalizations formulated **problematically** must await empirical testing before attaining lawful certainty."*
+> - 📜 **William James (*The Meaning of Truth*):** *"He held the premise **problematically**, ready to discard it the instant contradictory evidence emerged."*

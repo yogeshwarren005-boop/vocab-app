@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ambiguous, equivocal, or capable of two contrasting interpretations; or pertaining to the mineral amphibole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, describing metabolic pathways (such as the citric acid cycle) that function in both catabolic and anabolic processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibolic designates adjective*) pertaining to, derived from, or characteristic of throw."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"The tricarboxylic acid cycle plays an **amphibolic** role, simultaneously oxidizing acetyl units and supplying precursors for amino acid synthesis."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The politician's **amphibolic** declarations were crafted with deliberate cunning to soothe opposing factions."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Microscopic examination of the schist revealed an **amphibolic** fabric dominated by prismatic hornblende needles."*

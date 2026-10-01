@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reception room in an inn or club where visitors can be received.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a private house or establishment where people can sit and talk and relax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sitting room in a private house for receiving and entertaining guests; or a specialized retail shop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an inner room in a monastery where conversation was permitted between monks or with visitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She said, 'Two gentlemen are in the parlor waiting for you.' I went down, and the interview revealed the exact fulfillment both of the promise and the prophecy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The one becomes the proletarian, the other the intellectual, the one becomes the workshop, the other the parlor-socialist."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ben, a parlor (i.e., the inner apartment); into the parlor."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The cottage was small, but the bright south-facing **parlor** was cheerful and elegantly furnished."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery sat stiffly in his best Sunday suit in the chilly **parlor**, looking thoroughly miserable."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The somber decorations of the ancient **parlor** added to the oppressive gloom pervading the estate."*

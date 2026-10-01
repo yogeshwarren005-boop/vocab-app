@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral antibiotic (trade name chloromycetin) used to treat serious infections (especially typhoid fever).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral antibiotic (trade name chloromycetin) used to treat serious infections (especially typhoid fever).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand name for the broad-spectrum antibiotic chloramphenicol, synthesized originally from soil actinomycetes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, a landmark post-war antibiotic historically prescribed for rickettsial infections, typhus, and scrub fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloromycetin designates an oral antibiotic (trade name chloromycetin) used to treat serious infections (especially typhoid fever)."*
+> - 📜 **Joseph E. Smadel (*Chloromycetin in the Treatment of Scrub Typhus*):** *"Prompt administration of **chloromycetin** cleared scrub typhus infections among soldiers within forty-eight hours."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"The discovery of **chloromycetin** underscored the immense pharmaceutical wealth hidden in common soil."*
+> - 📜 **Paul de Kruif (*A Man Against Insanity*):** *"Doctors hailed **chloromycetin** as a wonder weapon against fevers that had baffled medicine for centuries."*

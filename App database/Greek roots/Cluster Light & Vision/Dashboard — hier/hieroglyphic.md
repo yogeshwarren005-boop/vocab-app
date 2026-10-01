@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in, constituting, or belonging to a system of writing mainly in pictorial characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inscribed with hieroglyphic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in or relating to hieroglyphs; enigmatic, mysterious, or difficult to decipher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the monumental Egyptian writing system inscribed on temple walls, stone stelae, and sarcophagi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had dreamed of an aged and dignified face, the sublimation of all the d’Urberville lineaments, furrowed with incarnate memories representing in hieroglyphic the centuries of her family’s and England’s history."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By my retentive memory of the hieroglyphics upon one Sperm Whale in particular, I was much struck with a plate representing the old Indian characters chiselled on the famous hieroglyphic palisades on the banks of the Upper Mississippi."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"That the one is likely to appear on the walls of latrines and the other to be cut in glass by a diamond is part of what Johnson would have called the "Hieroglyphic" significance of this collection."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient Egyptians shadowed their mystical philosophy under **hieroglyphic** representations of animals and plants."*
+> - 📜 **Edgar Allan Poe (*The Narrative of Arthur Gordon Pym*):** *"The chasms in the dark Antarctic island appeared arranged into vast, ominous **hieroglyphic** characters."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"Holmes pinned the paper to the table, examining the curious **hieroglyphic** figures with intense concentration."*

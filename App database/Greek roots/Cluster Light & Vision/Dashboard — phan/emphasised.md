@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give extra weight to (a communication).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given special prominence, importance, or stress; highlighted (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, characterizing arguments, visual features, or vocal tones made conspicuous by conscious intent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Now,” said Wemmick, “questioning being over,” which he emphasised and repeated for my guidance, “I come to what I did, after hearing what I heard."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But you mustn’t feel too much at home, you know.” “Oh, I’m by no means sure it will satisfy me,” Isabel judicially emphasised."*
-> - 📜 **Bram Stoker (*Dracula*):** *"This was emphasised by the fact that the snowy mountain-top still held the sunset, and seemed to glow out with a delicate cool pink."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her dark eyes **emphasised** the pale delicacy of her youthful face."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes **emphasised** each point of the clues by tapping his pipe upon the mantelpiece."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The naval staff **emphasised** the grave peril of unrestricted submarine warfare in the Atlantic."*

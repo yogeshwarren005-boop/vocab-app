@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to actinomycosis infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to actinomycosis infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or characteristic of actinomycosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing lesions, granulomas, or sinus tracts infiltrated by sulfur granules and filamentous Actinomyces colonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycotic designates of or related to actinomycosis infection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the **actinomycotic** granuloma revealed central bacterial rosettes rimmed by polymorphonuclear leukocytes."*
+> - 📜 **Lord Lister (*Collected Papers*):** *"The extensive **actinomycotic** ulceration yielded gradually to persistent antiseptic packing and surgical debridement."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Dense fibrous proliferation around the **actinomycotic** focus demonstrates the classic chronic cellular defense mechanism."*

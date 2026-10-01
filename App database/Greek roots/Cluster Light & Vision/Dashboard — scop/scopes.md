@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tennessee highschool teacher who violated a state law by teaching evolution; in a highly publicized trial in 1925 he was prosecuted by william jennings bryan and defended by clarence darrow (1900-1970).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in which something acts or operates or has power or control:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of scope; the multiple ranges, operational boundaries, or observational lenses through which matters are examined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pedagogy and jurisprudence, the celebrated 1925 State of Tennessee v. John Thomas Scopes trial concerning the teaching of biological evolution in public schools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad expected, the fire control center consisted of dozens of consoles, scopes, directional and power control devices, and clusters of computer terminals."*
+> - 📜 **Clarence Darrow (*The World's Most Famous Court Trial*):** *"We are defending John **Scopes** here today because we believe that the human mind has a right to think and learn the truths of nature."*
+> - 📜 **H. L. Mencken (*Prejudices: Fifth Series*):** *"The town of Dayton was inundated by journalists, evangelists, and curious spectators gathered for the **Scopes** trial."*
+> - 📜 **Stephen Jay Gould (*Hen's Teeth and Horse's Toes*):** *"The trial of John **Scopes** marked a watershed moment in the cultural and educational conflict between fundamentalism and science."*

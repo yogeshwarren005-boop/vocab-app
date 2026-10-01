@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leuc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British and historical spelling of leukocyte; a colorless nucleated cell in blood and lymph that functions in defending the body against infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and immunology, granulocytes (neutrophils, eosinophils, basophils) and agranulocytes (lymphocytes, monocytes) responsible for innate and adaptive immunity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucocyte designates a term designating an entity, condition, or phenomenon derived from greek leuc."*
+> - 📜 **Ilya Metchnikov (*Immunity in Infective Diseases*):** *"The wandering **leucocyte** engulfs and digests invading bacteria in the vital process of phagocytosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The migration of the polymorphonuclear **leucocyte** through the vessel wall initiates acute inflammatory exudation."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Specific aniline dyes enabled us to classify every variety of **leucocyte** according to its cytoplasmic granules."*

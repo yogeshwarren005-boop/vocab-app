@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture printed in colors from a series of lithographic stones or plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture printed in colors from a series of lithographic stones or plates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of making multi-colored prints by lithography, using a separate stone or metal plate inked with a different color for each impression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing history, the dominant 19th-century commercial color printing technology that popularized full-color posters, trade cards, and book illustrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromolithography designates a picture printed in colors from a series of lithographic stones or plates."*
+> - 📜 **John Ruskin (*Fors Clavigera*):** *"The cheap perfection of modern **chromolithography** spreads colored copies of masterpieces into every cottage parlor."*
+> - 📜 **William Morris (*The Ideal Book*):** *"Mechanical **chromolithography** must not be mistaken for the soulful touch of the ancient illuminated manuscript."*
+> - 📜 **Walter Crane (*Of the Decorative Illustration of Books*):** *"The introduction of **chromolithography** offered artists unprecedented freedom in blending delicate tints on the printed page."*

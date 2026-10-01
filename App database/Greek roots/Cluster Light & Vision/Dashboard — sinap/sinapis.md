@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of old world herbs usually included in genus brassica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of old world herbs usually included in genus brassica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of herbaceous annual plants in the cabbage family (Brassicaceae), commonly known as wild or field mustards, valued for their pungent seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical taxonomy and ethnobotany, the genus typified by Sinapis alba (white mustard) and Sinapis arvensis (charlock), cultivated since Mediterranean antiquity for condiments and rubefacient poultices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinapis designates small genus of old world herbs usually included in genus brassica."*
+> - 📜 **Pliny the Elder (*Naturalis Historia*):** *"The plant which the Greeks call napy and the Romans **sinapis** possesses such hot pungency that its seeds awaken the dullest stomach."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **Sinapis**, the cruciform flowers with spreading sepals and beaked siliques distinguish the true field mustards."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The seed of **Sinapis**, or common mustard, when stamped and moistened with vinegar, provoketh appetite and purgeth the head by sneezing."*

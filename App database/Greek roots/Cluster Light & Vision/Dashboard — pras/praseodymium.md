@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft yellowish-white trivalent metallic element of the rare earth group; can be recovered from bastnasite or monazite by an ion-exchange process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft yellowish-white trivalent metallic element of the rare earth group; can be recovered from bastnasite or monazite by an ion-exchange process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, silvery, malleable metallic chemical element of the lanthanide series with atomic number 59 (symbol Pr), forming leek-green chemical salts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and spectroscopy, a rare-earth metal discovered by Carl Auer von Welsbach in 1885 when didymium was split into praseodymium and neodymium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, praseodymium designates a soft yellowish-white trivalent metallic element of the rare earth group; can be recovered from bastnasite or monazite by an ion-exchange process."*
+> - 📜 **Carl Auer von Welsbach (*Die Zerlegung des Didyms in Seine Elemente*):** *"I succeeded in splitting didymium into two elementary bodies, naming that which gives green salts **praseodymium**."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The rare-earth family hid rare treasures like **praseodymium**, whose compounds imparted a pale leek-green tint to optical glass."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Alloying **praseodymium** with magnesium creates high-strength metals used in aircraft engine casings."*

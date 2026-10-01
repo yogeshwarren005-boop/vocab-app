@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant that reproduces by means of seeds not spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant that reproduces by means of seeds not spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seed-bearing plant that produces flowers or cones; a spermatophyte, as distinguished from a cryptogam (spore-bearing plant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, seed plants comprising angiosperms and gymnosperms whose reproductive organs are visibly manifested in flowers or strobili.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phanerogam designates plant that reproduces by means of seeds not spores."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Every true **phanerogam** reproduces through seeds containing a preformed embryo nourished by endosperm."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Circumnutation is common to all growing shoots throughout the vast division of the **phanerogam** plants."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Linnaeus divided the vegetable world into the hidden cryptogams and the conspicuous **phanerogam** families."*

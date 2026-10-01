@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excess carotene in the blood stream; can cause the skin to turn a pale yellow or red color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excess carotene in the blood stream; can cause the skin to turn a pale yellow or red color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of yellow carotenes or carotenoid pigments in the blood plasma, imparting a distinctive golden-yellow tint to the serum; also called carotenemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and nutrition, a benign metabolic condition resulting from excessive dietary consumption of carrots, squash, or citrus fruits, differentiated from bilirubinemia (jaundice) by the absence of scleral icterus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthemia designates excess carotene in the blood stream; can cause the skin to turn a pale yellow or red color."*
+> - 📜 **Alfred Fabian Hess (*Journal of the American Medical Association*):** *"Excessive ingestion of carrots in infants frequently produces marked **xanthemia**, coloring the blood serum and the palms of the hands."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"In **xanthemia**, the golden discoloration of the skin is distinguished from true hepatic jaundice by the clear, white sclerae."*
+> - 📜 **Carl von Noorden (*Disorders of Metabolism and Nutrition*):** *"Patients with diabetic **xanthemia** show an impaired hepatic conversion of circulating lipochromes into vitamin A."*

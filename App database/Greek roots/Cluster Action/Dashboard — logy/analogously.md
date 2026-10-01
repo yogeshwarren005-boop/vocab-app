@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an analogous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an analogous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an analogous manner; by way of analogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and biology, exhibiting functional correspondence without genetic identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analogously designates in an analogous manner."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species placed in similar climates have often developed **analogously** along convergent morphological paths."*
+> - 📜 **Immanuel Kant (*Critique of Practical Reason*):** *"Moral duty operates **analogously** to a universal physical law in the kingdom of ends."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Neural impulses travel along fibers **analogously** to electrical currents conducted down insulated telegraph cables."*

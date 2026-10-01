@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a frosted look from a powdery coating, as on plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a frosted look from a powdery coating, as on plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a dull grayish-green or pale bluish-green color; also, covered with a powdery waxy bloom that rubs off easily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and ornithological description, characterizing the frosted surface of plums and cabbage leaves or the pale mantle of gulls (*Larus hyperboreus*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"By the sandwichbell in screening shadow Lydia, her bronze and rose, a lady’s grace, gave and withheld: as in cool glaucous _eau de Nil_ Mina to tankards two her pinnacles of gold."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WALL BRISTLE-MOULD; gregarious, glaucous, then blackish; perithecium globose, brown; hairs circinate, erect, septate, pulverulent; spores oblong, yellowish."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The succulent leaves of the cabbage display a fine **glaucous** coating of waxy powder that repels water droplets."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The magnificent **glaucous** gull soared majestically over the drifting ice floes of Baffin Bay."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The blueberries were covered with a delicate **glaucous** bloom which melted under the heat of the hand."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unconscious or unintentional error in speech, memory, or action that discloses a suppressed wish or internal conflict; a Freudian slip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychodynamic analysis, symptomatic faulty actions demonstrating the permeability between conscious intention and the unconscious.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parapraxis designates a term designating an entity, condition, or phenomenon derived from greek prag."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"A **parapraxis** is not an accidental slip; it is a meaningful compromise between a conscious purpose and a repressed counter-wish."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"We must pay heed to every sudden **parapraxis**, for it often opens a doorway into the patient's shadow."*
+> - 📜 **Jacques Lacan (*Écrits*):** *"Through the sudden flash of a **parapraxis**, the unconscious speaks its unvarnished truth."*

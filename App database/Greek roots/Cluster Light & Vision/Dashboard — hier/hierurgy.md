@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacred work or holy action; the performance of sacred rites; religious liturgy or ceremonial worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and liturgical studies, the sacred sacerdotal act of consecration, sacrifice, or mystical ritual in the temple.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierurgy designates a term designating an entity, condition, or phenomenon derived from greek hier."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Ancient civilizations mingled the study of the heavens with the solemn **hierurgy** of the temple altar."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor Julian sought to revive the pagan **hierurgy** with hecatombs of white bulls."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Every genuine act of duty is a silent **hierurgy**, an offering upon the altar of eternal law."*

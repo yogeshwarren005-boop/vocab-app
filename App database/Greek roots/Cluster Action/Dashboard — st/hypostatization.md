@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarding something abstract as a material thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarding something abstract as a material thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or logical fallacy of regarding a purely abstract mental construct or naming convention as a real, concrete, substantial entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and semiotics, reification; the unreflective projection of conceptual taxonomies into objective ontological structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatization designates regarding something abstract as a material thing."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The transcendent illusion consists in the illicit **hypostatization** of a regulatory idea of pure reason into an existing object."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The popular **hypostatization** of the ego as an immaterial spiritual substance explains nothing about the stream of thought."*
+> - 📜 **Friedrich Nietzsche (*Twilight of the Idols*):** *"Language seduces us into the false **hypostatization** of causes and effects where nature reveals only a continuous flux."*

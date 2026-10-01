@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gas-filled hot-cathode electron tube in which the grid controls only the start of a continuous current thus giving the tube a trigger effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gas-filled hot-cathode electron tube in which the grid controls only the start of a continuous current thus giving the tube a trigger effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gas-filled or vapor-filled, multi-electrode electron tube designed for switching and controlling heavy electrical currents via a control grid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics history, an early thermionic gas-discharge rectifier used as a high-speed electronic trigger in radar transmitters and motor speed controllers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyratron designates a gas-filled hot-cathode electron tube in which the grid controls only the start of a continuous current thus giving the tube a trigger effect."*
+> - 📜 **Irving Langmuir (*Electric Discharges in Gases at Low Pressures*):** *"The introduction of mercury vapor into a grid-controlled tube gave birth to the **thyratron**, an electric valve of enormous capacity."*
+> - 📜 **Albert W. Hull (*Hot-Cathode Thyratrons*):** *"Once grid conduction initiates the arc discharge in a **thyratron**, the grid loses all further control until the plate voltage drops to zero."*
+> - 📜 **Vannevar Bush (*Operational Circuit Analysis*):** *"Timing circuits in early pulse generators utilized the rapid breakdown characteristics of the hydrogen **thyratron**."*

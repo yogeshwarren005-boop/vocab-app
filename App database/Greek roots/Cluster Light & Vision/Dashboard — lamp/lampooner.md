@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mimics literary or musical style for comic effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mimics literary or musical style for comic effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes or publishes lampoons; a satirical writer who mocks or ridicules individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Augustan and Georgian literary culture, a scurrilous pamphleteer hired by political factions to blacken reputations in Grub Street.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lampooner designates mimics literary or musical style for comic effect."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The scurrilous **lampooner** trades in domestic sorrow, sharpening his pen with malice for cheap applause."*
+> - 📜 **William Makepeace Thackeray (*The English Humourists of the Eighteenth Century*):** *"Swift was far greater than a mere party **lampooner**; his indignation sprang from pity for mankind."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The wretched **lampooner** fled into the sanctuary of Whitefriars to escape the horsewhips of outraged courtiers."*

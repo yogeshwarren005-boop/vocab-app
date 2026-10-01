@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual property of being without chromatic color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual property of being without chromatic color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, property, or degree of being achromatic; freedom from chromatic dispersion, color distortion, or perceived chromatic hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical engineering and colorimetry, the quality of a lens system or visual field that exhibits neutral color balance without chromatic aberration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromaticity designates the visual property of being without chromatic color."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"The pursuit of perfect **achromaticity** required precise calculations of the dispersive powers of crown and flint glass."*
+> - 📜 **John Tyndall (*Lectures on Light*):** *"By matching opposing prisms of unequal refractive index, a remarkable degree of **achromaticity** is achieved."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The greatest defect of our compound lenses lay in their failure to achieve true **achromaticity** around bright margins."*

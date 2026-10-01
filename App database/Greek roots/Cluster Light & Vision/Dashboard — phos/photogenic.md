@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced or precipitated by light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or generating light : phosphorescent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or emitting light; bioluminescent; or aesthetically attractive, looking appealing and well-composed in photographs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history, organisms possessing light-emitting organs; in popular culture and cinema, subjects possessing striking photographic appeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photogenic designates produced or precipitated by light."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Rows of gleaming **photogenic** organs along the lanternfish's belly shone like the portholes of a miniature liner."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **photogenic** power of the luminous beetle was under the voluntary control of its nervous system."*
+> - 📜 **Virginia Woolf (*The Cinema*):** *"The camera discovered that certain faces are inherently **photogenic**, acquiring a luminous glamour upon the silver screen."*

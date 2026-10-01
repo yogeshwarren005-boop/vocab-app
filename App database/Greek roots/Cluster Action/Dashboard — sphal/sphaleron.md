@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sphal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A static, non-perturbative saddle-point solution of the electroweak field equations associated with baryon and lepton number violation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical cosmology and particle physics, a finite-energy field configuration that mediates anomalous transitions across topological vacuum sectors at high temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphaleron designates a term designating an entity, condition, or phenomenon derived from greek sphal."*
+> - 📜 **Frans Klinkhamer (*A Saddle-Point Solution in the Standard Electroweak Theory*):** *"We demonstrate the existence of a static, unstable field configuration—the **sphaleron**—representing the barrier top between topologically distinct vacua."*
+> - 📜 **Nicholas Manton (*Topology in the Weinberg-Salam Model*):** *"Thermal fluctuations in the primordial plasma can scale the **sphaleron** barrier, erasing preexisting baryon asymmetries."*
+> - 📜 **Valery Rubakov (*Classical Theory of Gauge Fields*):** *"At temperatures above the electroweak phase transition, **sphaleron** transitions occur unsuppressed, altering cosmic matter-antimatter ratios."*

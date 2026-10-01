@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of one color or hue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monochrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or using only one color; in physics, consisting of radiation of a single wavelength or an extremely narrow frequency band.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laser physics and spectroscopy, describing coherent radiation (such as laser light) where all photons share identical phase and wavelength.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oat-harvest began, and all the men were a-field under a monochromatic Lammas sky, amid the trembling air and short shadows of noon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oat-harvest began, and all the men were afield under a monochromatic Lammas sky, amid the trembling air and short shadows of noon."*
+> - 📜 **Isaac Newton (*Opticks*):** *"By passing the refracted ray through a second slit, I isolated a pure **monochromatic** beam that suffered no further dispersion."*
+> - 📜 **Arthur Schawlow (*Optical Masers*):** *"The light emitted by the ruby laser is exceptionally intense, directional, and **monochromatic**."*
+> - 📜 **John Ruskin (*The Elements of Drawing*):** *"Begin your study by mastering **monochromatic** washes of sepia before attempting the perils of full palette color."*

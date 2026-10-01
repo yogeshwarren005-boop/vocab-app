@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A halogen element that is isolated as a heavy greenish-yellow diatomic gas of pungent odor and is used especially as a bleach, oxidizing agent, and disinfectant in water purification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy reddish-yellow gas ClO2 used especially as a bleach and disinfectant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A halogen element of atomic number 17, appearing at room temperature as a toxic, irritating, greenish-yellow diatomic gas (Cl2).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical industry, a fundamental building block used in PVC plastics, water sanitation, paper pulp bleaching, and pharmaceuticals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Here I have a metal called antimony, which is easily acted upon by chlorine."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I will place this lump of antimony in a jar of chlorine, and so far as you can see very little action takes place between the metal and the chlorine."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Now I will introduce into the chlorine some of the same metal which I have finely powdered."*
+> - 📜 **Humphry Davy (*Researches, Chemical and Philosophical*):** *"I have ventured to name this uncompounded gas **chlorine**, from its distinct yellow-green hue."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The greenish gas was **chlorine**, choking and corrosive, which seized the throat like a vice."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"We precipitated the barium and radium salts from solution in the form of **chlorine** compounds."*

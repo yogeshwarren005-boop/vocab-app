@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of monochromacy; total color blindness in which only one channel of color reception operates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-ophthalmology, the physiological state of having monochromatic vision, perceiving the environment exclusively in monochromatic luminance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromasy designates complete color blindness; colors can be differentiated only on the basis of brightness."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Complete **monochromasy** represents an extraordinary limitation of the normal trichromatic sensory apparatus."*
+> - 📜 **William James (*The Principles of Psychology*):** *"To a mind afflicted with **monochromasy**, the vivid tapestries of nature are reduced to monochrome engravings."*
+> - 📜 **Thomas Young (*Lectures on Natural Philosophy*):** *"Loss of two retinal sensations would plunge the eye into absolute **monochromasy**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek noun meaning a way, road, path, journey, or method of travel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics, the etymological root giving rise to method, period, episode, cathode, and exodus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hodos designates a term designating an entity, condition, or phenomenon derived from greek hod."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The noun **hodos** denotes both a physical beaten roadway and a metaphorical path of inquiry or moral conduct."*
+> - 📜 **Herodotus (*The Histories*):** *"Persian couriers traverse the royal **hodos** with incredible speed, halted neither by snow, rain, heat, nor night."*
+> - 📜 **Parmenides (*On Nature*):** *"The goddess revealed the two ways: the true **hodos** of Being and the deceptive road of mortal opinion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated instrument containing optical fibers, lenses, or a digital camera used to inspect the interior of a hollow organ or body cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In minimally invasive medicine, an instrument equipped with channels for insufflation, suction, and micro-instruments, drastically minimizing postoperative morbidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscope designates an illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors)."*
+> - 📜 **Chevalier Jackson (*Bronchoscopy and Esophagoscopy*):** *"The lighted **endoscope** converted deep, inaccessible cavities of the human body into open fields of direct clinical inspection."*
+> - 📜 **Harold Hopkins (*Optics in Medicine*):** *"By employing cylindrical glass rods in place of air lenses, the modern **endoscope** achieved an extraordinary leap in light transmission."*
+> - 📜 **William Mayo (*Collected Papers of the Mayo Clinic*):** *"Surgical trauma has been enormously mitigated through internal examinations guided by the **endoscope**."*

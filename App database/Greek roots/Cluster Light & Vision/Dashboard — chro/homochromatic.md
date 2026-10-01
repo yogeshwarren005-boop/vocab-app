@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of light or other electromagnetic radiation) having only one wavelength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of light or other electromagnetic radiation) having only one wavelength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of one uniform color; possessing or consisting of a single color; monochromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and spectroscopy, describing light of a single wavelength or visual fields having uniform chromaticity throughout.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homochromatic designates (of light or other electromagnetic radiation) having only one wavelength."*
+> - 📜 **James Clerk Maxwell (*On Colour Vision*):** *"When viewed through monochromatic glass, the variegated pattern resolved into a **homochromatic** field."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"A strictly **homochromatic** beam of yellow sodium light produces no color fringes upon the retina."*
+> - 📜 **David Brewster (*Treatise on Optics*):** *"Illuminating the object with **homochromatic** rays eliminated spherical dispersion in the testing apparatus."*

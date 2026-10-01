@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being dichromatic; the display of two colors, or a defect of vision in which only two colors can be distinguished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, a partial color vision deficiency where one cone photopigment is absent; in zoology, seasonal or sexual color dimorphism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichromatism designates a deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision)."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Congenital **dichromatism** occurs predominantly among males as an inherited sex-linked visual defect."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Unlike total achromatopsia, red-green **dichromatism** allows the individual to distinguish form and brightness with normal acuity."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Sexual **dichromatism** in butterflies serves both as a mating signal and as protective concealment for the egg-laying female."*

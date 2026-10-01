@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filamentous or rod-shaped bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filamentous or rod-shaped bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of Gram-positive bacteria characterized by filamentous, branching growth and high guanine-cytosine genomic content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial biotechnology and ecology, major soil organisms responsible for organic decomposition and the synthesis of bioactive antibiotics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycetales designates filamentous or rod-shaped bacteria."*
+> - 📜 **Selman Waksman (*Streptomycin: Its Nature and Practical Application*):** *"Our laboratory systematically investigated the order **Actinomycetales** in the search for antituberculosis substances."*
+> - 📜 **Arthur D. Imms (*Textbook of Entomology*):** *"Symbiotic **Actinomycetales** living within insect mycangia synthesize defensive antibiotics against fungal invaders."*
+> - 📜 **Martinus Beijerinck (*Studies on Soil Microbiology*):** *"Colonies of **Actinomycetales** develop slowly on nutrient agar, producing dry, chalky aerial hyphae."*

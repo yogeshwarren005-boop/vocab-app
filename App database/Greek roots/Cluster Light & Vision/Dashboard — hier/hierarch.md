@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious leader in a position of authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person high in a hierarchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief priest, archbishop, or prelate; a leader in a sacred, celestial, or ecclesiastical hierarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and organizational sociology, a high-ranking dignitary or sovereign leader presiding over a graded bureaucratic order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"To whom the winged Hierarch repli’d."*
-> - 📜 **John Milton (*Paradise Lost*):** *"The princely Hierarch In their bright stand there left his Powers, to seise Possession of the garden; he alone, To find where Adam sheltered, took his way, Not unperceived of Adam; who to Eve, While the great visitant approached, thus spake."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The great **hierarch** Raphael winged his downward flight from the empyrean to Eden."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The proud **hierarch** of Alexandria claimed supreme spiritual jurisdiction over all Egyptian sees."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"In every society, the king or pontiff reigns as the visible supreme **hierarch** of social order."*

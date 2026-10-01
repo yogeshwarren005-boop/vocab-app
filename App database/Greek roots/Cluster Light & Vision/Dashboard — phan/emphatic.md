@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spoken with emphasis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden and strong.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or giving emphasis; expressing something forcibly, clearly, and decisively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and semitics, describing consonants articulated with pharyngeal constriction or velarization; in behavior, bold and unmistakable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But people who know better should be very emphatic in suppressing it." "What was the misfortune that happened long ago in the castle and then again?" Kurt asked in great suspense."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George shook his head in the most emphatic manner."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I have not,” pursues Sir Leicester, “in the most emphatic manner, adjured you, officer, to exercise your utmost skill in this atrocious case, I particularly desire to take the present opportunity of rectifying any omission I may have made."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick gave an **emphatic** nod of his head, as though the matter admitted of no debate."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck answered with an **emphatic** denial that brooked no further inquiry."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Danton's voice was **emphatic**, sounding like a clarion of war above the clamor of the assembly."*

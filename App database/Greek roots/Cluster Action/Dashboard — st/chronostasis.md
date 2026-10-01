@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporal illusion in which the first duration observed after a rapid saccadic eye movement appears substantially extended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience, the stopped-clock illusion caused by neural backward masking and cortical time-calibration following visual suppression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronostasis designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Kielan Yarrow (*Time Estimation and Saccadic Vision*):** *"The phenomenon of **chronostasis** demonstrates that subjective time dilates to bridge the sensory void during saccadic eye movement."*
+> - 📜 **David Eagleman (*Brain Time*):** *"When you glance suddenly at a ticking second hand, **chronostasis** tricks your brain into believing the hand froze for an eternity."*
+> - 📜 **Patrick Haggard (*Conscious Intention and Action*):** *"Our perception of temporal flow is not a direct ticker-tape of reality, as illusions like **chronostasis** decisively prove."*

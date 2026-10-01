@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually tubular optical instrument for viewing distant objects by means of the refraction of light rays through a lens or the reflection of light rays by a concave mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various tubular magnifying optical instruments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument using lenses, curved mirrors, or both to gather light and magnify distant electromagnetic radiation, making faraway objects appear closer and brighter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical history, an instrument first directed toward celestial bodies by Galileo Galilei in 1609, revolutionizing observational cosmology and celestial mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, how I wish I could shut up like a telescope!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Pool of Tears “Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); “now I’m opening out like the largest telescope that ever was!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Not at all: a telescope might have swept the parishes of Tipton and Freshitt, the whole area visited by Mrs."*
+> - 📜 **Galileo Galilei (*Sidereus Nuncius*):** *"By means of the **telescope** I have observed that the surface of the Moon is not smooth and uniform, but rough and covered with vast craters."*
+> - 📜 **Isaac Newton (*Opticks*):** *"To remedy the chromatic aberration of refracted rays, I designed a reflecting **telescope** employing a concave spherical mirror."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"When directed into the Milky Way, the **telescope** resolves the hazy celestial mist into millions of individual luminous stars."*

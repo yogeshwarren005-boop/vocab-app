@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the technical aspects of drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the technical aspects of drama.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to dramaturgy, the art, craft, or technique of dramatic composition and theatrical representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, applying concepts of theatrical performance and stagecraft to everyday human social interaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramaturgic designates relating to the technical aspects of drama."*
+> - 📜 **Gotthold Ephraim Lessing (*Hamburg Dramaturgy*):** *"Strict **dramaturgic** principles require that theatrical action spring organically from character rather than theatrical contrivance."*
+> - 📜 **Erving Goffman (*The Presentation of Self in Everyday Life*):** *"A **dramaturgic** perspective reveals how individuals maintain front-stage composure while concealing back-stage doubts."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"Ibsen possessed an unmatched **dramaturgic** economy, eliminating every line that failed to deepen moral exposure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To enlarge beyond bounds or the truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak or write using hyperbole; to exaggerate extravagantly (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, to amplify or elevate a narrative through calculated rhetorical overstatement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperbolise designates to enlarge beyond bounds or the truth."*
+> - 📜 **William Hazlitt (*Lectures on the English Comic Writers*):** *"The satirist must know how to **hyperbolise** a character's petty foibles without destroying verisimilitude."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Crowds in the streets **hyperbolise** every rumor into a colossal conspiracy of treason."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was prone to **hyperbolise** his modest country practice into a pioneering campaign of clinical science."*

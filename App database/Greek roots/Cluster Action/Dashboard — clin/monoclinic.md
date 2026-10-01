@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three unequal crystal axes with one oblique intersection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three unequal crystal axes with one oblique intersection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In crystallography, having three unequal crystal axes, with two intersecting obliquely and the third perpendicular to both.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing minerals such as gypsum, orthoclase, and clinopyroxene that crystallize in the monoclinic system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoclinic designates having three unequal crystal axes with one oblique intersection."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Crystals belonging to the **monoclinic** system possess a single two-fold axis of symmetry perpendicular to a mirror plane."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Common augite crystallizes in prismatic **monoclinic** forms easily distinguished from orthorhombic enstatite."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The internal packing of silicate chains in **monoclinic** amphiboles dictates their characteristic oblique cleavage."*

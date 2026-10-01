@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wreckfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wreckfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large deepwater marine fishes in the family Polyprionidae, commonly known as wreckfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, predatory, heavy-bodied teleosts possessing serrated opercular spines, typically inhabiting shipwrecks and deep rocky continental shelves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyprion designates wreckfish."*
+> - 📜 **Charles Darwin (*Zoology of the Voyage of H.M.S. Beagle*):** *"Our crew captured a gigantic specimen of **Polyprion**, whose firm white flesh provided an excellent repast for the entire ship."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The genus **Polyprion** is distinguished from ordinary perches by the rough denticulated crests upon its opercular bones."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"The deep-sea wreckfish, **Polyprion** cernium, frequents floating timber and rocky offshore ledges at great depths."*

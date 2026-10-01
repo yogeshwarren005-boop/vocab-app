@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of isocyanic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of isocyanic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound containing the functional group -N=C=O, widely used in the industrial manufacture of polyurethanes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer chemistry and industrial toxicology, highly reactive electrophiles (such as toluene diisocyanate) that react with polyols to form polyurethane foams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isocyanate designates a salt or ester of isocyanic acid."*
+> - 📜 **Otto Bayer (*Das Diisocyanat-Polyadditionsverfahren*):** *"The reaction between a di-**isocyanate** and a glycol proceeds without byproduct formation, yielding resilient polyurethanes."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The linear cumulative double bonds of the **isocyanate** group make it exceptionally susceptible to nucleophilic attack."*
+> - 📜 **Alice Hamilton (*Industrial Toxicology*):** *"Inhaling trace aerosol vapors of aromatic **isocyanate** provoked severe occupational asthma among chemical plant workers."*

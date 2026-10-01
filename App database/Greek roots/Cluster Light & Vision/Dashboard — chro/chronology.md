@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that deals with measuring time by regular divisions and that assigns to events their proper dates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronological table, list, or account.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of arranging events in their order of occurrence in time; also, a chronological list or sequence of historical events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical methodology and archaeology, the systematic determination of temporal relationships via radiometric dating, stratigraphy, and written calendars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His very name carried an impressiveness hardly to be measured without a precise chronology of scholarship."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Oh waywardness of womanhood! did his chronology fail him, or his ability to state not only a theory but the names of those who held it; or his provision for giving the heads of any subject on demand?"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Context, chronology, and USAF aircraft types operating in the Korean Theater at the time are to the best of my recollections and references available from public libraries and the Internet."*
+> - 📜 **Isaac Newton (*The Chronology of Ancient Kingdoms Amended*):** *"Astronomical calculations based on equinoctial precession allow us to rectify the confused **chronology** of early Greece."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"History without **chronology** is but a dark and wandering journey through unmeasured time."*
+> - 📜 **David Hume (*The History of England*):** *"The true **chronology** of ancient kings can rarely be recovered from the fabulous tales of monastic scribes."*

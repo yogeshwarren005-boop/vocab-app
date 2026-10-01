@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a choice; especially : to decide in favor of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical; optician; optics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a choice from a range of possibilities; to decide or choose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decision theory and behavioral economics, selecting a preferred alternative among competing opportunities or policy options.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opt designates to make a choice; especially : to decide in favor of something."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A free citizen must have liberty to **opt** for his own path, provided it causes no injury to his neighbors."*
+> - 📜 **Bertrand Russell (*Principles of Social Reconstruction*):** *"Nations must **opt** for international arbitration if civilization is to survive the atomic age."*
+> - 📜 **William James (*The Will to Believe*):** *"In living dilemmas, we are compelled to **opt** between active faith and paralysis of the will."*

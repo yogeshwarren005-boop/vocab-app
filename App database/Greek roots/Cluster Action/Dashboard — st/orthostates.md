@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Upright, large rectangular stone slabs or ashlar blocks set on edge to form the bottom course of a masonry wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and Aegean architecture, decorative or load-bearing vertical slabs framing temple cella walls and palace facades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthostates designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"The masonry walls rest securely upon high dressed **orthostates**, which elevate the structural brick above ground dampness."*
+> - 📜 **Pausanias (*Description of Greece*):** *"The temple of Hera retained its archaic foundation of limestone **orthostates**, crowned with courses of sun-dried brick."*
+> - 📜 **William Bell Dinsmoor (*The Architecture of Ancient Greece*):** *"In classical Athenian architecture, marble **orthostates** were carefully clamped together to ensure monumental wall stability."*

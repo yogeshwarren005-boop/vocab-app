@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ballismus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ballismus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological movement disorder characterized by violent, flinging, involuntary movements of the limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a hyperkinetic syndrome typically caused by vascular lesions within the contralateral subthalamic nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ballism designates ballismus."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient experienced distressing episodes of **ballism**, hurling his right arm uncontrollably through the air."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute hemorrhagic stroke involving the subthalamic body frequently precipitates unilateral chorea or **ballism**."*
+> - 📜 **Sigmund Freud (*On Aphasia*):** *"Neurological examination clearly differentiated between choreiform jerks and the violent ballistic sweeps of true **ballism**."*

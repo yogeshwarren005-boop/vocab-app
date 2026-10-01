@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world jays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world jays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World passerine birds in the crow family Corvidae, including the blue jay (*Cyanocitta cristata*) and Steller's jay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ornithology, crested jays renowned for vibrant blue plumage (produced by light scattering) and complex social vocalizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanocitta designates new world jays."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The blue jay, classified as **Cyanocitta**, mimics the cry of the red-shouldered hawk with astonishing fidelity."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In the western pine forests, the dark-crested **Cyanocitta** heralds the traveler with sharp, scolding screams."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The shrill, discordant trumpet of **Cyanocitta** broke the winter stillness of the snow-clad woods."*

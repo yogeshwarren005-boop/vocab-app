@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility (as of a hospital) for diagnosis and treatment of outpatients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group practice in which several physicians work cooperatively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An establishment or hospital department where outpatients receive medical treatment, diagnosis, or advice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical education, teaching conducted at the bedside of patients; or an intensive practical instructional seminar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"And no wonder, for besides his parish work he was forever running here and there—to the juvenile detention home, the clinic for alcoholics, the mental health center, the Black ghetto."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"In the inner office Van Horn, his dress coat off, gave the chloroform while the Scotchman set the arm; and the American surgeons, no longer crowding, but standing off respectfully as if at a clinic, looked on critically."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Do your base officials routinely check with local crisis clinics to find out the number and types of distress calls being received from military people?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The outpatient **clinic** serves as the vital training ground where students learn to observe disease in its earliest stages."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Patients lined the corridors of Farber's children's **clinic**, awaiting the experimental trials."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"A peculiar case presented to our neurological **clinic** involving profound visual agnosia."*

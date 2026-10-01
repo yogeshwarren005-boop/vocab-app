@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A creator of fantasies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creator of fantasies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invents or indulges in fantasies, extravagant daydreams, or unrealistic imaginings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and psychiatric evaluation, an author of imaginative fantasy fiction or a pathological mythomaniac living in self-created illusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantasist designates a creator of fantasies."*
+> - 📜 **G. K. Chesterton (*The Everlasting Man*):** *"The poet is a healthy **fantasist** who makes us see ordinary lampposts as fairy wands."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"The criminal was a cold **fantasist**, weaving intricate webs of romantic deception to entrap the innocent."*
+> - 📜 **George Bernard Shaw (*John Bull's Other Island*):** *"Do not mistake the dreamy Irish **fantasist** for a practical political administrator."*

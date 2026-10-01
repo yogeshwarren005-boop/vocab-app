@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek op.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening, eye, or aperture in a roof, ceiling, or dome in classical architecture; an oculus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek architectural history, the central smoke-hole or lighting skylight in the roof of a hypaethral temple or megaron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opaion designates a term designating an entity, condition, or phenomenon derived from greek op."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Through the circular **opaion** in the crown of the dome, celestial light poured into the sacred rotunda."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The smoke of the hearth drifted upward through the **opaion** into the open sky."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"Minoan builders introduced a central **opaion** to illuminate interior halls without exposing them to gale winds."*

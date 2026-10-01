@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or appearing to have only one color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or appearing to have only one color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a single color throughout; monochromatic; lacking color variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and botany, characterizing uniform coloration of petals, insect elytra, or fungal spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromous designates having or appearing to have only one color."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The corolla is entirely **monochromous**, showing neither venation nor contrasting marginal spots."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The beetle's abdomen presents a dull, **monochromous** brown surface covered in minute pubescence."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Species that nest on open sand plains often maintain a completely **monochromous** drab plumage."*

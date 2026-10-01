@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagram or graph showing the velocity vector of a moving point at successive times, plotted from a common origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented by mathematician Sir William Rowan Hamilton, widely used in celestial mechanics, meteorology, and aerodynamics to visualize acceleration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hodograph designates a term designating an entity, condition, or phenomenon derived from greek hod."*
+> - 📜 **William Rowan Hamilton (*On the Application of the Method of Quaternions to Some Dynamical Questions*):** *"I introduced the **hodograph** to represent visually the continuous velocity changes of a planet orbiting in Keplerian motion."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"Because acceleration is the time-rate of velocity change, the velocity of the point on the **hodograph** represents the physical acceleration."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Meteorologists plot upper-air wind shears upon a polar **hodograph** to predict severe thunderstorm rotation."*

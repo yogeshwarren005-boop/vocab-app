@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a methodical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a methodical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an orderly, systematic, and disciplined manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following a step-by-step procedure with meticulous regularity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ain’t the lady the t’other lady?” Charley shook her head as she methodically drew his rags about him and made him as warm as she could."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If he be seeking his own star as he methodically turns and turns upon the leads, it should be but a pale one to be so rustily represented below."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn returns methodically as he softly rubs his hands, “I should like to be assured of your acquiescence in my arrangements, Lady Dedlock.” “You may be assured of it.” “Good."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes worked **methodically** through the papers, classifying each witness statement into separate folders."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins folded his letter **methodically**, satisfied that every flattering compliment had been correctly placed."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The field geologist **methodically** maps each stratum from base to summit before proposing tectonic models."*

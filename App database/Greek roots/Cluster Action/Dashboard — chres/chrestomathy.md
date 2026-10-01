@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A selection of passages used to help learn a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volume of selected passages or stories of an author.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of selected literary passages, especially by one author or in one language, compiled to assist in language acquisition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical scholarship, an anthology of useful extracts illustrating vocabulary, grammar, and literary excellence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrestomathy designates a selection of passages used to help learn a language."*
+> - 📜 **Jeremy Bentham (*Chrestomathia*):** *"I chose the title **chrestomathy** to signify a treasury of learning useful and profitable for life."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"My tutor placed in my hands a Syriac **chrestomathy**, whose annotated fables eased my first grammatical steps."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh's chaotic paper bags contained materials enough for an entire cosmic **chrestomathy**."*

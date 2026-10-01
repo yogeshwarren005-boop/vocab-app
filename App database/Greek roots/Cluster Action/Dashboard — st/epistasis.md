@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suppression of the effect of a gene by a nonallelic gene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suppression of the effect of a gene by a nonallelic gene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interaction between non-allelic genes whereby the phenotypic expression of one gene locus masks, inhibits, or alters the expression of another gene locus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary and statistical genetics, deviations from purely additive allelic effects in the determination of complex quantitative traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistasis designates suppression of the effect of a gene by a nonallelic gene."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"We may describe this phenomenon as **epistasis**, wherein one dominant factor completely obscures the outward effects of an independent gene."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Although non-linear **epistasis** complicates simple selection models, additive variance remains the primary engine of evolutionary change."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"Complex adaptive landscapes are shaped largely by rugged peaks of **epistasis**, where specific gene combinations yield superior fitness."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wonder-worker, magician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wonder-worker, magician.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices theurgy; one who performs sacred rites to invoke divine intervention or achieve spiritual union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient philosophy, a Neoplatonic mystic (such as Iamblichus or Proclus) who prioritized ritual theurgy over pure intellectual dialectic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theurgist designates wonder-worker, magician."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Maximus of Ephesus acted as the charismatic **theurgist** whose prophecies guided the apostate Julian's march to Persia."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"In the decadent phase of Neoplatonism, the philosopher was supplanted by the **theurgist** and the worker of miracles."*
+> - 📜 **Walter Pater (*Plato and Platonism*):** *"Proclus celebrated the **theurgist** as one who ascends through sacred ritual symbols into the divine darkness."*

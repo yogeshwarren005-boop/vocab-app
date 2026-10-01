@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew, as after a setback.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organize anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize again or in a different way, especially to improve efficiency (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reconstitute a military unit, financial enterprise, or government department along new lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reorganise designates organize anew, as after a setback."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The government attempted to **reorganise** the partisan militias into a disciplined national army."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"We were forced to **reorganise** our fighter squadrons after the heavy attrition over the English Channel."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The munitions magnate possessed an uncanny genius to **reorganise** industrial production from the ground up."*

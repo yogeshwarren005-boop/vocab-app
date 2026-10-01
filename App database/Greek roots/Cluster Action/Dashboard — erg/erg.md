@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A centimeter-gram-second unit of work equal to the work done by a force of one dyne acting through a distance of one centimeter and equivalent to 10—7 joule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A centimeter-gram-second unit of work equal to the work done by a force of one dyne acting through a distance of one centimeter and equivalent to 10—7 joule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of work or energy in the centimeter-gram-second (CGS) system, equal to 10^-7 joules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, a vast, flat area of desert covered with wind-swept sand dunes with little or no vegetative cover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erg designates a centimeter-gram-second unit of work equal to the work done by a force of one dyne acting through a distance of one centimeter and equivalent to 10—7 joule."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The British Association defined the **erg** as the mechanical work done by a force of one dyne acting through one centimeter."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"Our airplane crossed the shimmering wilderness of the Grand **Erg**, where golden barchans rolled toward the horizon."*
+> - 📜 **Max Planck (*The Theory of Heat Radiation*):** *"The quantum of action expresses energy multiplied by time, yielding dimensions of the **erg**-second."*

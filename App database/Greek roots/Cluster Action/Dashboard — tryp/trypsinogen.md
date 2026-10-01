@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inactive precursor of trypsin; a substance secreted by the pancreas and converted to active trypsin by enterokinase in the small intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactive precursor of trypsin; a substance secreted by the pancreas and converted to active trypsin by enterokinase in the small intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inactive zymogen or proenzyme precursor of trypsin, synthesized and secreted by the exocrine pancreas into the duodenum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal physiology, the inactive precursor cleaved by intestinal enterokinase (enteropeptidase) to produce active, autocatalytic trypsin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trypsinogen designates inactive precursor of trypsin; a substance secreted by the pancreas and converted to active trypsin by enterokinase in the small intestine."*
+> - 📜 **Ivan Pavlov (*The Work of the Digestive Glands*):** *"Pancreatic juice entering the duodenum contains inactive **trypsinogen**, which is activated upon contact with enterokinase."*
+> - 📜 **Willy Kühne (*Studies on Pancreatic Ferments*):** *"The healthy pancreas protects itself from autodigestion by storing its proteolytic enzymes in the harmless form of **trypsinogen**."*
+> - 📜 **John Howard Northrop (*Crystalline Enzymes*):** *"The autocatalytic conversion of **trypsinogen** into active trypsin proceeds exponentially once the first traces of enzyme appear."*

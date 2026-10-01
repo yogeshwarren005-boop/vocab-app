@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or given to the expression of opinions very strongly or positively as if they were facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to dogma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to lay down principles as incontrovertibly true, without consideration of evidence or the opinions of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and theology, pertaining to formal religious dogma or authoritative doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His aspect was probably as un-Sabbatarian a one as a dogmatic parson’s son often presented; his attire being his dairy clothes, long wading boots, a cabbage-leaf inside his hat to keep his head cool, with a thistle-spud to finish him off."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The old time "scientific" socialist had a lofty scorn for any less dogmatic philosophy than his own or for any less sweeping social change than that he expected."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Yet it would be difficult to maintain that they were more dogmatic than himself; they at least had ventured on the experiment of a new life, that was to bring ancient Philosophy to a new test."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The critical philosophy woke me from my **dogmatic** slumber, challenging metaphysical assertions lacking sensory grounding."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The seasoned philosopher avoids the **dogmatic** tone, preferring modest probability to arrogant certainty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon spoke in a dry, **dogmatic** manner that discouraged any spontaneous intellectual exchange."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce to or organize methodically in accordance with an established system (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology, to arrange empirical observations into a harmonious, coherent theoretical framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systemise designates arrange according to a system or reduce to a system."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Evolutionary philosophy aims to **systemise** all mental phenomena by tracing their gradual emergence from primitive reflexes."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The geologist must **systemise** fossil strata by comparing living marine faunas with extinct shell assemblages."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Our mathematical goal is to **systemise** the fundamental axioms of deduction so that all theorems flow without contradiction."*

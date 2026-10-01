@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of increase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of increase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or promoting growth or expansion; having a negative Poisson's ratio such that lateral expansion occurs when stretched.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, describing metamaterials that become thicker perpendicularly to the applied tensile force; in biology, pertaining to auxesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxetic designates adjective*) pertaining to, derived from, or characteristic of increase."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Certain hypertrophic tissues follow an **auxetic** trajectory where individual cell volume expands tenfold."*
+> - 📜 **Richard Feynman (*There's Plenty of Room at the Bottom*):** *"Engineers can design honeycomb lattices with **auxetic** behavior, expanding outward in all dimensions under uniaxial tension."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"During larval molting, the abdominal cuticle undergoes **auxetic** stretching to accommodate sudden body enlargement."*

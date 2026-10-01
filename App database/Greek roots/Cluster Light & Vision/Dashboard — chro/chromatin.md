@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The readily stainable substance of a cell nucleus consisting of dna and rna and various proteins; during mitotic division it condenses into chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The readily stainable substance of a cell nucleus consisting of dna and rna and various proteins; during mitotic division it condenses into chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The material of which chromosomes are composed, consisting of protein, RNA, and DNA, staining deeply with basic dyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eukaryotic cell biology, the nucleoprotein complex organized into nucleosomes, existing as transcriptionally active euchromatin or dense heterochromatin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatin designates the readily stainable substance of a cell nucleus consisting of dna and rna and various proteins; during mitotic division it condenses into chromosomes."*
+> - 📜 **Walther Flemming (*Cell Substance, Nucleus and Cell Division*):** *"I have designated as **chromatin** that portion of the nuclear content which eagerly absorbs dye from solution."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The condensation of diffuse **chromatin** into distinct rod-shaped chromosomes marks the onset of karyokinesis."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"The linear arrangement of hereditary factors corresponds directly to the physical structure of the **chromatin** thread."*

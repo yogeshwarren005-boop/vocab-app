@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the effects of changes in environment on the growth of microorganisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the effects of changes in environment on the growth of microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microbiological technique for determining the nutritional requirements of microorganisms by observing growth around nutrient spots on agar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriological methodology, the experimental process invented by Beijerinck to assay enzymatic and metabolic capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxanography designates the study of the effects of changes in environment on the growth of microorganisms."*
+> - 📜 **Martinus Beijerinck (*On the Methods of Microbiological Research*):** *"Through agar **auxanography**, one can simultaneously test dozens of carbohydrates upon a single culture vessel."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Pioneering techniques in **auxanography** laid bare the subtle metabolic dependencies governing fungal growth."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Diffusion assays adapted from classic **auxanography** became the standard benchmark for testing antibiotic potency."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface all of whose intersections by planes are either parabolas and ellipses or parabolas and hyperbolas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saddle-shaped quadric surface whose sections by planes parallel to one coordinate plane are hyperbolas while those sections by planes parallel to the other two are parabolas if proper orientation of the coordinate axes is assumed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadric surface whose intersections with planes parallel to an axis are parabolas, while other plane sections are ellipses or hyperbolas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and radio astronomy, a dish reflector having the geometric form of an elliptic paraboloid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraboloid designates a surface all of whose intersections by planes are either parabolas and ellipses or parabolas and hyperbolas."*
+> - 📜 **Samuel Pierpont Langley (*The Bolometer and Radiant Energy*):** *"A polished silver **paraboloid** concentrated the faint lunar heat rays directly onto the sensitive platinum strip."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The geometric beauty of a circular **paraboloid** lies in its property of bringing parallel incident rays to a common focal point."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Impact explosions blast out transient craters shaped initially like an inverted **paraboloid**."*

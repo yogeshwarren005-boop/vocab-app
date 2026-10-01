@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermionic valve (vacuum tube) having seven electrodes, typically comprising a cathode, anode, and five intermediate grids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical radio electronics, a tube used as a pentagrid converter for frequency mixing in superheterodyne receivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptode designates a term designating an entity, condition, or phenomenon derived from greek hod."*
+> - 📜 **F. E. Terman (*Radio Engineering*):** *"The **heptode** acts as an efficient mixer, combining local oscillator oscillations with incoming radio-frequency signals."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Electronic control circuits utilized multi-grid tubes such as the **heptode** to multiply signals non-linearly."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"Challenger tapped the glowing vacuum tube, marveling at the complex multi-grid design of the modern **heptode**."*

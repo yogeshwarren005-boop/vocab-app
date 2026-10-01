@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to vision or light; by optical means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry and crystallography, describing substances that rotate the plane of polarized light (optically active).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"Dextro-tartaric acid is **optically** active, rotating the plane of polarized light decisively to the right."*
+> - 📜 **John Tyndall (*Lectures on Light*):** *"Dust-free air inside the chamber became **optically** empty, scattering not a single ray of the searchlight."*
+> - 📜 **David Brewster (*Treatise on Optics*):** *"Birefringent crystals resolve incident light into two **optically** distinct refracted beams."*

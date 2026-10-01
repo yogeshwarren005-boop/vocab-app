@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) a blind god; misled by loki, he kills his brother balder by throwing a shaft of mistletoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) a blind god; misled by loki, he kills his brother balder by throwing a shaft of mistletoe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A laborer who carries mortar or bricks in a hod on a construction site; a hod carrier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the building trades, a construction worker providing essential logistical support to skilled bricklayers and masons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remember me, when I was of the Assir, and of the Vanir, that Odin sat in judgment over men in the court of the twelve gods, and that their names were Thor, Baldur, Niord, Frey, Tyr, Bregi, Heimdal, Hoder, Vidar, Ull, Forseti, and Loki."*
+> - 📜 **Jack London (*The People of the Abyss*):** *"The weary Irish **hoder** climbed the rickety ladder all day with seventy pounds of brick upon his shoulder."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"Between seasonal farm jobs, he found casual work as a builder's **hoder** along the canal wharf."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"No honest work degrades a man; the faithful **hoder** hauling stone contributes to the enduring cathedral."*

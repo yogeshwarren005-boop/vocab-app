@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of plants of order geraniales; have drupaceous fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of plants of order geraniales; have drupaceous fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical family of flowering plants in the order Malpighiales comprising four genera of shrubs and trees, notably including *Erythroxylum*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an ancient pantropical family characterized by alternate simple leaves, persistent stipules, and alkaloid-rich tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroxylaceae designates a family of plants of order geraniales; have drupaceous fruit."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The family **Erythroxylaceae** is distinguished by its distinctive intra-petiolar stipules and five-merous flowers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Species of **Erythroxylaceae** inhabit tropical American and African forests, producing valued aromatic resins and alkaloids."*
+> - 📜 **Armen Takhtajan (*Evolutionary Trends in Flowering Plants*):** *"Phylogenetic analysis places the **Erythroxylaceae** in close evolutionary alliance with the Rhizophoraceae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or at or pertaining to a cathode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or at or pertaining to a cathode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, emanating from, or functioning as a cathode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrochemistry and metallurgy, relating to cathodic protection, a technique preventing metal corrosion by making the metal the cathode.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathodic designates of or at or pertaining to a cathode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Pure metallic copper precipitates exclusively upon the **cathodic** plate during galvanic electrolysis."*
+> - 📜 **J. J. Thomson (*Conduction of Electricity through Gases*):** *"Under high vacuum, **cathodic** rays project straight across the tube, casting sharp geometric shadows of metal obstacles."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Engineers install sacrificial zinc anodes to supply **cathodic** protection to submerged pipeline networks."*

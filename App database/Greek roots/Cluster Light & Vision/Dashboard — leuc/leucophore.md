@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leuc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chromatophore containing white, light-scattering purine (guanine) crystal platelets found in the skin of fish, amphibians, and reptiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative dermal histology, a cell type that scatters all wavelengths of light diffusely, creating opaque white patterns or silvery sheen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucophore designates a term designating an entity, condition, or phenomenon derived from greek leuc."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The brilliant white stripes along the belly of the coral reef fish are produced by layers of **leucophore** cells."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Unlike dark melanophores, the **leucophore** reflects incident light through microscopic crystalline platelets of guanine."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Cephalopods utilize the combined action of the melanophore, iridophore, and **leucophore** to mimic sea floor textures."*

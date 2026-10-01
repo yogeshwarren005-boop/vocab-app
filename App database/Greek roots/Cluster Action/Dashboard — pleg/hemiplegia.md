@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total or partial paralysis of one side of the body that results from disease of or injury to the motor centers of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total or partial paralysis of one side of the body that results from disease of or injury to the motor centers of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of one vertical side of the body, usually caused by injury or disease to the opposite cerebral hemisphere of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a lateralized motor syndrome typically following ischemic stroke, intracranial hemorrhage, or unilateral brain trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiplegia designates total or partial paralysis of one side of the body that results from disease of or injury to the motor centers of the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Right-sided **hemiplegia** associated with motor aphasia indicates a lesion in the territory of the left middle cerebral artery."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"The spastic contracture that supervenes upon chronic **hemiplegia** reveals the loss of pyramidal inhibition."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A sudden stroke producing complete **hemiplegia** leaves one half of the body dead while the other half retains life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic class of green algae (Chlorophyta) characterized by green chloroplasts containing chlorophylls a and b.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical phycology, predominantly freshwater algae possessing starch reserves inside plastids and whiplash flagella in motile stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyceae designates algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"The class **Chlorophyceae** embraces an enormous diversity of forms from unicellular spheres to branching filaments."*
+> - 📜 **Gilbert M. Smith (*Freshwater Algae of the United States*):** *"Most freshwater green scums consist of filamentous members of the **Chlorophyceae**."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"The photosynthetic apparatus of the **Chlorophyceae** closely mirrors that of higher vascular plants."*

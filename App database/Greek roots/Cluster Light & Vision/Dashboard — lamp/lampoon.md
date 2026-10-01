@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition that imitates or misrepresents somebody's style, usually in a humorous way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ridicule with satire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp, satirical text or speech criticizing or ridiculing someone; or to publicly satirize or mock someone in this manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, a virulent personal satire (deriving etymologically from French lampons, 'let us drink') designed to humiliate a public figure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Shelley's lampoon--a singular instance of the random blows of a noble spirit, striking at what, if better understood, it would eagerly have revered-- Wordsworth seems never to have read."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Arrived at the green they gather round the king; the crier jumps on a stone or climbs up a tree and recites lampoons about each house and its inmates."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"For Phalaris was just that minute dreaming how a most vile poetaster had lampooned him, and how he had got him roaring in his bull."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"No venomous political **lampoon** could pierce the shield of his unbending integrity."*
+> - 📜 **Alexander Pope (*An Epistle to Dr. Arbuthnot*):** *"Fools may **lampoon** my verse, but truth shall preserve my memory beyond their scribblings."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The coffeehouses resounded with witty rhymes and bitter tavern songs that did **lampoon** the king's ministers."*

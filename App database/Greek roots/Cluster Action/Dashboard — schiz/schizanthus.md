@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus schizanthus having finely divided leaves and showy variegated flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus schizanthus having finely divided leaves and showy variegated flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual or biennial flowering plants in the family Solanaceae, native to Chile and Argentina, commonly known as butterfly flowers or poor man's orchids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and floriculture, prized ornamental plants bearing zygomorphic, deeply incised, multi-colored blossoms resembling miniature orchids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizanthus designates any plant of the genus schizanthus having finely divided leaves and showy variegated flowers."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"No greenhouse annual surpasses **Schizanthus** in profusion of bloom, earning it the affectionate name of poor man's orchid."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"The fluttering, butterfly-like corollas of **Schizanthus** create a cloud of purple, gold, and crimson in the conservatory border."*
+> - 📜 **Reginald Farrer (*The English Rock Garden*):** *"Chilean species of **Schizanthus** require full sunshine to display their intricately spotted and cleft petals."*

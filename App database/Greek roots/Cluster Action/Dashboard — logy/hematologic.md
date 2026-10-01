@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involved in hematology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involved in hematology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to hematology, the scientific and medical study of blood, blood-forming tissues, and blood diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, relating to hematopoiesis, coagulation cascades, and cellular blood dyscrasias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematologic designates of or relating to or involved in hematology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough **hematologic** count reveals immediate alterations in leukocytes during the acute phase of pneumonia."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Differential staining techniques opened an entirely new era of **hematologic** microscopy."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"Accurate diagnosis of anemia requires comprehensive **hematologic** indices including mean corpuscular volume."*

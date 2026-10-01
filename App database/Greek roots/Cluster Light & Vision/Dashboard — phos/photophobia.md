@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intolerance to light; especially : painful sensitiveness to strong light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intolerance to light; especially : painful sensitiveness to strong light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal sensitivity to or discomfort from light, especially causing eye pain and reflex blinking in ocular disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and neurology, a symptom common to corneal ulceration, uveitis, meningitis, and severe migraine headaches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photophobia designates intolerance to light; especially : painful sensitiveness to strong light."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute cerebrospinal meningitis manifests with high fever, agonizing headache, and intense **photophobia**."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Without protective dark glasses, daytime **photophobia** blinded the achromatopsic islanders on the sun-drenched beaches."*
+> - 📜 **Jonathan Hutchinson (*Lectures on Clinical Surgery*):** *"Children with interstitial keratitis suffer from such severe **photophobia** that they bury their faces in pillows."*

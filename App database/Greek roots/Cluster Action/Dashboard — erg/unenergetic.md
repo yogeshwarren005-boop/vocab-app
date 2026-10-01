@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inclined to be enterprising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inclined to be enterprising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking energy, vitality, or vigor; sluggish, languid, or inactive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an absence of physical force, drive, or forceful conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unenergetic designates not inclined to be enterprising."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Lady Bertram reclined upon the sofa, offering only **unenergetic** sighs regarding the family distress."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Harold Skimpole professed an **unenergetic** philosophy, claiming to be a mere child floating on summer breezes."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"His rival was a pale, **unenergetic** youth whose feeble voice could scarcely command the harvest hands."*

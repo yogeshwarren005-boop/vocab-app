@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of broken.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of broken.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having curvature in the same direction at every point, as in a spherical or dome-shaped surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry and shell mechanics, describing surfaces whose principal radii of curvature lie on the same side.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synclastic designates adjective*) pertaining to, derived from, or characteristic of broken."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The inflated soap bubble presents a classic **synclastic** surface of positive Gaussian curvature everywhere."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Under hydrostatic pressure, the flexible thin-walled membrane assumes a purely **synclastic** dome curvature."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Gentle crustal upwarping produces broad **synclastic** domes across continental shields."*

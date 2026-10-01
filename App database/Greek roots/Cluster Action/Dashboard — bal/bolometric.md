@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a bolometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a bolometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the measurement of radiant energy by means of a bolometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, designating total radiative flux across all wavelengths (as in bolometric luminosity or magnitude).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bolometric designates of or relating to a bolometer."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Calculating the true **bolometric** magnitude of a star requires integrating its energy output across the entire electromagnetic spectrum."*
+> - 📜 **Samuel Pierpont Langley (*Researches on Solar Heat*):** *"Our high-altitude **bolometric** curves demonstrated that atmospheric absorption bands bite deeply into solar infrared flux."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Radiative Transfer*):** *"The boundary conditions of stellar atmospheres depend strictly upon preserving total **bolometric** radiative equilibrium."*

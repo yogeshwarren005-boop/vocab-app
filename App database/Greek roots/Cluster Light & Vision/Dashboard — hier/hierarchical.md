@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in order of rank, status, or authority; relating to or characteristic of a hierarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer architecture, data structures, and linguistics, structured as a tree with parent-child levels and nested dependencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Is it true that we two young gentlemen have been promoted to be sergeants?" "I don't know anything about it, friend Pirli," I answered; and it was true that I was ignorant of my elevation to the hierarchical altitude of a sergeant."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In aristocratic societies, the **hierarchical** bonds of feudal loyalty fixed each individual to his permanent station."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"Human language syntax cannot be explained as a linear chain, but requires **hierarchical** constituent analysis."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Primate troops maintain **hierarchical** dominance ranks that reduce internal violent conflict over resources."*

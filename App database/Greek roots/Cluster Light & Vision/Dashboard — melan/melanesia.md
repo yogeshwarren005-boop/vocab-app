@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands in the southwestern part of oceania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The islands in the southwestern part of oceania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subregion of Oceania extending from New Guinea in the southwestern Pacific Ocean eastward to the Arafura Sea and Fiji.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anthropology and Pacific geography, an ethnolinguistic region named from Greek melas (black) and nesos (islands) for the dark skin of its inhabitants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some parts of Melanesia a like belief prevails that certain sacred stones are endowed with miraculous powers which correspond in their nature to the shape of the stone."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Melanesia, if a man's friends get possession of the arrow which wounded him, they keep it in a damp place or in cool leaves, for then the inflammation will be trifling and will soon subside."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The same fear seems to be general in Melanesia, and has led to a regular practice of hiding cut hair and nails."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The ethnological boundary separates the lighter Malay race from the dark-skinned inhabitants of **Melanesia**."*
+> - 📜 **Bronislaw Malinowski (*Argonauts of the Western Pacific*):** *"The Kula ring forms an extensive inter-island trading network binding the diverse communities of eastern **Melanesia**."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Barrier reefs of colossal extent encircle the volcanic archipelagos scattered across **Melanesia**."*

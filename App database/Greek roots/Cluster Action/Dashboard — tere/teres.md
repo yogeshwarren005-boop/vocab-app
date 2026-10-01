@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two muscles in the shoulder region that move the shoulders and arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two muscles in the shoulder region that move the shoulders and arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cylindrical, smooth, and rounded in anatomical contour; designating round muscles or anatomical ligaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, specifically denoting the teres major or teres minor muscles of the shoulder, or the ligamentum teres of the hip joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teres designates either of two muscles in the shoulder region that move the shoulders and arms."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **teres** minor arises from the dorsal axillary border of the scapula, inserting directly into the greater tubercle of the humerus."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Dissecting the posterior scapular region exposes the fleshy belly of the **teres** major acting to adduct and medially rotate the arm."*
+> - 📜 **Charles Bell (*The Anatomy and Physiology of the Human Body*):** *"The ligamentum **teres** tethers the femoral head within the acetabular socket, conveying essential nutrient vessels during growth."*

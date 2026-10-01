@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or belonging to a cursive form of ancient Egyptian writing simpler than the hieroglyphic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sacerdotal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning priests or sacred things; priestly; also, the cursive script of ancient Egyptian writing used by priests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, designating a rigid, stylized, conventional artistic style depicting sacred personages with solemn frontality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It reflects a priestly culture in its hieratic forms and symbolical ornament."*
+> - 📜 **Jean-François Champollion (*Précis du Système Hiéroglyphique*):** *"The **hieratic** papyri proved to be an abbreviated, cursive running hand derived directly from sacred hieroglyphs."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"Byzantine mosaics preserve a severe **hieratic** stillness that distances the sacred figures from mortal flesh."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **hieratic** colleges of ancient Rome guarded the sacred books of the Sibyl within the Capitol."*

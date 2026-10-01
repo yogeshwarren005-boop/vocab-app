@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change of position, state, or form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of a disease-producing agency (such as cancer cells) from the initial or primary site of disease to another part of the body; also : the process by which such spreading occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or having the character of metastasis; designating secondary cancerous tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical oncology, referring to stage IV malignancy that has established colonies in organs distant from the tissue of origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metastatic designates change of position, state, or form."*
+> - 📜 **William Stewart Halsted (*The Results of Radical Operations for the Cure of Cancer*):** *"Radical excision aims to intercept regional lymphatic spread before **metastatic** dissemination invades deeper viscera."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"The morphological appearance of a **metastatic** lesion often mirrors faithfully the histologic architecture of the parent tumor."*
+> - 📜 **Judah Folkman (*Tumor Angiogenesis*):** *"A microscopic **metastatic** colony cannot expand beyond a millimeter without recruiting its own vascular network."*

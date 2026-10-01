@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plate with chromium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plate with chromium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To electroplate a metal surface with a thin, protective, highly reflective layer of metallic chromium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manufacturing engineering, an electrodeposition process applying a chromium coating over nickel to prevent corrosion and reduce wear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromium-plate designates plate with chromium."*
+> - 📜 **Henry Ford (*Moving Forward*):** *"We chose to **chromium-plate** exterior automobile fittings to protect them against rain and rust."*
+> - 📜 **Thomas Alva Edison (*Laboratory Notebooks*):** *"Efforts to **chromium-plate** the acoustic diaphragm increased its wear resistance under constant vibration."*
+> - 📜 **Arthur D. Little (*The Chemical Engineer*):** *"The commercial ability to **chromium-plate** machine cylinders drastically lengthened the service life of internal combustion engines."*

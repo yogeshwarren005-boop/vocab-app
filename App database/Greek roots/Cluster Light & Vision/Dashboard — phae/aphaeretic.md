@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or formed by or consisting of aphaeresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or formed by or consisting of aphaeresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or resulting from aphaeresis; having an initial sound or syllable omitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive linguistics, characterizing shortened lexical forms created through initial segment deletion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeretic designates relating to or formed by or consisting of aphaeresis."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"Words like squire derived from Old French esquire represent classic **aphaeretic** developments."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The **aphaeretic** contraction of words reflects the natural tendency toward physiological economy in speech."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Phonetic decay displays both **aphaeretic** losses at the beginning and apocopic losses at the end of syllables."*

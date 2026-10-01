@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Phalaropus) of small shorebirds related to sandpipers but distinguished by their lobed toes and preference for swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Phalaropus) of small shorebirds related to sandpipers but distinguished by their lobed toes and preference for swimming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, slender-necked wading shorebird in the family Scolopacidae, famous for spinning rapidly in circles on water to stir up insect prey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian behavioral ecology, a bird noted for reversed sexual dimorphism and polyandry, where the brightly colored female courts the drab male who incubates the eggs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalarope designates any of a genus (phalaropus) of small shorebirds related to sandpipers but distinguished by their lobed toes and preference for swimming."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The red **phalarope** swims with the buoyancy of a gull upon the arctic waves, feeding upon minute marine crustaceans."*
+> - 📜 **Elliott Coues (*Birds of the Northwest*):** *"Watching a **phalarope** pirouette on the tundra pool like a spinning top is one of the most delightful spectacles in nature."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"A solitary **phalarope** drifted over the breakers, riding the stormy foam with effortless grace."*

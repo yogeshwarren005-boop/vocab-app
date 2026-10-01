@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world purple gallinules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world purple gallinules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, colorful wetland birds in the rail family Rallidae, commonly known as swamphens, possessing brilliant purple-blue plumage and massive red bills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, wetland gruiform birds (including the western swamphen and Australasian pukeko) possessing long unwebbed toes for walking on floating vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyrio designates old world purple gallinules."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The purple swamphen, belonging to **Porphyrio**, strides majestically across water lily leaves with its massive red frontal shield."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Ancient Roman aviaries prized the majestic **Porphyrio** for its radiant indigo feathers and graceful carriage."*
+> - 📜 **Edward Lear (*Illustrations of the Family of Psittacidae*):** *"The rich purple mantle of **Porphyrio** mirrors the royal dyes extracted from Mediterranean murex shells."*

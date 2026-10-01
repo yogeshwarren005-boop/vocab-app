@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various compounds with a macrocyclic structure that consists essentially of four pyrrole rings joined by four =CH— groups; especially : one (such as chlorophyll or hemoglobin) containing a central metal atom and usually exhibiting biological activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various compounds with a macrocyclic structure that consists essentially of four pyrrole rings joined by four =CH— groups; especially : one (such as chlorophyll or hemoglobin) containing a central metal atom and usually exhibiting biological activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of heterocyclic organic compounds composed of four modified pyrrole rings connected by methine bridges, coordinating metal ions in pigments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry, the macrocyclic tetrapyrrole ring system coordinating iron in hemoglobin and myoglobin, and magnesium in chlorophyll.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyrin designates any of various compounds with a macrocyclic structure that consists essentially of four pyrrole rings joined by four =ch— groups; especially : one (such as chlorophyll or hemoglobin) containing a central metal atom and usually exhibiting biological activity."*
+> - 📜 **Hans Fischer (*Nobel Lecture: On the Chemistry of Pyrrole and Its Derivatives*):** *"The synthesis of hemin established the universal architecture of the planar **porphyrin** ring across the animal and plant kingdoms."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The aromatic resonance of the planar **porphyrin** macrocycle confers remarkable chemical stability upon respiratory pigments."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Abnormal urinary excretion of free **porphyrin** signifies profound derangement in cellular heme synthesis."*

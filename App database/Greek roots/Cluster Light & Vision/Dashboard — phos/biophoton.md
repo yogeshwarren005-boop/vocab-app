@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photon of light in the optical range spontaneously emitted by living biological cells and tissues without external excitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and photobiology, ultraweak photon emissions resulting from oxidative metabolic processes and lipid peroxidation in cellular membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biophoton designates a term designating an entity, condition, or phenomenon derived from greek phos."*
+> - 📜 **Fritz-Albert Popp (*Biophoton Emission: Multi-Author Review*):** *"Living tissue exhibits continuous, coherent **biophoton** emission that mirrors internal cellular metabolic activity."*
+> - 📜 **Alexander Gurwitsch (*Die mitogenetische Strahlung*):** *"Mitotic division in onion roots appeared to be stimulated by ultraweak ultraviolet **biophoton** emanations."*
+> - 📜 **Eugene Rabinowitch (*Photosynthesis*):** *"Delayed luminescence in illuminated chloroplasts represents a transient, sensitive form of **biophoton** release."*

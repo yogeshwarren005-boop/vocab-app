@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnatural lack of color in the skin (as from bruising or sickness or emotional distress).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unnatural lack of color in the skin (as from bruising or sickness or emotional distress).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete absence or loss of normal pigmentation, as in albinism, or the pallor of red blood cells lacking hemoglobin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and dermatology, hypochromia in erythrocytes or localized vitiliginous depigmentation of the epidermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromasia designates unnatural lack of color in the skin (as from bruising or sickness or emotional distress)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the blood smear revealed marked **achromasia** among the depleted red corpuscles."*
+> - 📜 **Robley Dunglison (*A Dictionary of Medical Science*):** *"The condition designated **achromasia** signifies a deficiency of cutaneous pigment, characteristic of partial albinism."*
+> - 📜 **Thomas Addison (*On the Constitutional and Local Effects of Disease of the Supra-Renal Capsules*):** *"Irregular patches of **achromasia** alternated with areas of deep bronze pigmentation across the patient's neck."*

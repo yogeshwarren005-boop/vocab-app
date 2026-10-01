@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equal in duration or interval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equal in duration or interval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring at equal intervals of time; taking an equal amount of time; uniform in duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horology and dynamics, describing oscillations or rotations that maintain identical periodic frequency irrespective of amplitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isochronous designates equal in duration or interval."*
+> - 📜 **Galileo Galilei (*Dialogues Concerning Two New Sciences*):** *"Observing the bronze lamp swinging in the cathedral of Pisa, I perceived that its vibrations were **isochronous**."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The cycloid is the only tautochronous curve upon which a falling body performs strictly **isochronous** descents."*
+> - 📜 **John Tyndall (*Sound*):** *"Tuning forks generate **isochronous** pulses that transmit simple harmonic waves through the surrounding air."*

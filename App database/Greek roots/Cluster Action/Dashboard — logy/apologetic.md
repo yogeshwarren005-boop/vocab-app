@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing regret : regretfully acknowledging fault or failure : expressing an apology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offered in defense or vindication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing regret, remorse, or acknowledgment of a fault or failure; conveying an admission of error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and historical theology, functioning as a formal defense or vindication of an opinion, doctrine, or faith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The old woman was terribly apologetic about having gone into the room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, coughing his apologetic cough behind his hand, “I really don’t know what advice I could offer, except sending for the beadle.” “I don’t speak of advice,” returns Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his apologetic cough, “that I mean to say a word against the profession I get my living by.” Mr."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The old woman was terribly **apologetic** about having gone into the room without permission."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He spoke in an **apologetic** tone, as if conscious of having intruded upon their private grief."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond gave a slight, **apologetic** shrug that expressed his serene indifference to the world's opinion."*

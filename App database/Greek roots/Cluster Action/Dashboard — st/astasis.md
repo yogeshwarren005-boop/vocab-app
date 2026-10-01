@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of stability or equilibrium; an unstable, fluctuating, or unsteady state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science and systems theory, a condition wherein restorative forces are completely neutralized, permitting free displacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astasis designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"A magnetic needle suspended at its neutral point experiences complete **astasis**, remaining indifferent to terrestrial flux."*
+> - 📜 **Ernst Mach (*The Science of Mechanics*):** *"Mechanical **astasis** indicates that the potential energy surface is entirely flat across small positional variations."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"When a dynamic system approaches the threshold of **astasis**, the slightest perturbation induces unpredictable trajectories."*

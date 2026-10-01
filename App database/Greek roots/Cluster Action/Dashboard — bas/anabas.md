@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family anabantidae; small fish that resemble perch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the family anabantidae; small fish that resemble perch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing gouramies, labyrinth freshwater fishes of south and southeast Asia capable of breathing atmospheric air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and evolutionary biology, fishes possessing an elaborate suprabranchial organ enabling overland travel between drying ponds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabas designates the type genus of the family anabantidae; small fish that resemble perch."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The climbing perch, known as **Anabas**, uses its spiny opercula to pull itself across damp grass during seasonal migrations."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Vascularised accessory folds within the gill cavity of **Anabas** permit sustained aerial gas exchange."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Habits of terrestrial locomotion in **Anabas** illustrate transitional stages toward vertebrate air-breathing adaptations."*

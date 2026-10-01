@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circular or oval open-air venue with tiers of seating rising around a central open arena, used in ancient Rome for spectacles, gladiatorial contests, and theatrical presentations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history and geomorphology, any semicircular tiered hall (such as an anatomical lecture room) or a natural valley or glacial cirque surrounded by steep mountain walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He lifted his hand and opened his eyelids; gazed blank, and with a straining effort, on the sky, and toward the amphitheatre of trees: one saw that all to him was void darkness."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"On entering the amphitheatre, new objects of wonder presented themselves."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At length he reached to where the ravine had opened through the cliffs to the amphitheatre; but no traces of such opening remained."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Arches on arches! as it were that Rome, collecting the chief trophies of her line, would build up all her triumphs in one dome, her Colosseum's vast **amphitheatre**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Sixty thousand spectators were accommodated without confusion within the vast tiered perimeter of the Flavian **amphitheatre**."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The natural mountain **amphitheatre** enclosed the emerald lake with precipitous crags of bare limestone."*

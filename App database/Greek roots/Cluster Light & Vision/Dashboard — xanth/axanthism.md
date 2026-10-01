@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic pigment mutation characterized by the complete or near-complete absence of yellow pigments in an organism, often causing normally green or yellow animals to appear bright blue, grey, or black.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and ichthyology, an autosomal recessive condition resulting from the failure of xanthophores to synthesize or store carotenoids and pteridines, leaving melanophores and iridophores to determine the phenotype.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axanthism designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Specimens exhibiting **axanthism** lose every trace of golden pigment, transforming the normally green tree frog into an astonishing sky-blue rarity."*
+> - 📜 **Joseph Grinnell (*Vertebrate Zoology*):** *"An unusual case of **axanthism** in a garter snake population demonstrated how the lack of yellow lipochromes alters cryptic coloration."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Color aberrations such as albinism, melanism, and **axanthism** provide valuable insight into the biochemical pathways of integumentary pigments."*

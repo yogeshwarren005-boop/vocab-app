@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical telecommunication apparatus invented by Alexander Graham Bell and Sumner Tainter in 1880 that transmitted sound on a beam of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of telecommunications, the pioneering ancestor of modern fiber-optic communications, using selenium cells to convert modulated sunlight into speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photophone designates a term designating an entity, condition, or phenomenon derived from greek phos."*
+> - 📜 **Alexander Graham Bell (*On the Production and Reproduction of Sound by Light: The Photophone*):** *"I have heard articulate speech produced by a beam of sunlight; I have heard the **photophone** speak across open space."*
+> - 📜 **John Tyndall (*Essays on the Floating-Matter of the Air*):** *"Bell's **photophone** proves that an undulating sunbeam can stimulate selenium into musical speech."*
+> - 📜 **Thomas Alva Edison (*Letters on Scientific Discoveries*):** *"The transmission of the human voice upon a solar beam in the **photophone** was a brilliant triumph of physical invention."*

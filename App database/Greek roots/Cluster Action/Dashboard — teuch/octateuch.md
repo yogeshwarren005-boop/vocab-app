@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek teuch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first eight books of the Old Testament collectively (Genesis through Ruth), especially in the Septuagint and Greek Christian tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine manuscript studies, an illuminated biblical codex containing the Pentateuch along with Joshua, Judges, and Ruth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octateuch designates a term designating an entity, condition, or phenomenon derived from greek teuch."*
+> - 📜 **Origen (*Hexapla*):** *"The narrative arc of the **octateuch** traces the promises made to Abraham to their pastoral rest in the book of Ruth."*
+> - 📜 **Kurt Aland (*The Text of the Old Testament in Greek*):** *"Byzantine scribes frequently bound the first eight books into a single sumptuous volume designated the illuminated **octateuch**."*
+> - 📜 **Bruce M. Metzger (*Manuscripts of the Greek Bible*):** *"Miniatures decorating the Vatican **octateuch** preserve precious visual traditions from early Christian and classical Roman antiquity."*

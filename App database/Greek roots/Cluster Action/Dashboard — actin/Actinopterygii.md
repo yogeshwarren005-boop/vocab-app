@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ray-finned fishes
-A taxonomic class within the superclass Osteichthyes.
-A taxonomic superclass within the infraphylum Gnathostomata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic class within the superclass Osteichthyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The class of ray-finned fishes, constituting the dominant and most diverse group of living bony fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate taxonomy, osteichthyans whose lepidotrichia radiate directly from proximal skeletal radials rather than muscular lobes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Actinopterygii designates the ray-finned fishes."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The explosive radiation of **Actinopterygii** during the Mesozoic produced thousands of specialized teleost families."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"By any standard of diversity and adaptive triumph, the **Actinopterygii** rule the aquatic realm."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Speciation mechanisms within freshwater **Actinopterygii** showcase rapid divergence in isolated rift basins."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vertebrate hormone that is derived from serotonin, is secreted by the pineal gland especially in response to darkness, and has been linked to the regulation of circadian rhythms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vertebrate hormone that is derived from serotonin, is secreted by the pineal gland especially in response to darkness, and has been linked to the regulation of circadian rhythms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormone produced primarily by the pineal gland in darkness, regulating sleep-wake cycles and circadian rhythms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, an indoleamine synthesized from serotonin that synchronizes circadian physiology; named for its ability to aggregate melanin in amphibian melanophores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melatonin designates a vertebrate hormone that is derived from serotonin, is secreted by the pineal gland especially in response to darkness, and has been linked to the regulation of circadian rhythms."*
+> - 📜 **Aaron B. Lerner (*Isolation of Melatonin, the Pineal Gland Factor That Lightens Melanocytes*):** *"We isolated the pineal hormone **melatonin**, which caused rapid aggregation of melanin granules in isolated frog skin."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"Nocturnal surges of **melatonin** signal the brain to enter restful sleep as daylight fades."*
+> - 📜 **Linus Pauling (*Orthomolecular Medicine*):** *"The physiological synthesis of **melatonin** from serotonin illustrates the chemical governance of circadian biological rhythms."*

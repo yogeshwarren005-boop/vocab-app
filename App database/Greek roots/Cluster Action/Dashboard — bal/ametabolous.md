@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing slight or no metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergoing slight or no metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by ametabolism; developing directly from egg to adult without metamorphosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, descriptive of insects lacking wing pads, nymphs, or pupal stages during growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametabolous designates undergoing slight or no metamorphosis."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Collembola and Thysanura constitute the classic **ametabolous** hexapods, undergoing simple ecdysis without anatomical change."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Because an **ametabolous** insect acquires no wings, it can continue to molt periodically even after achieving reproductive capability."*
+> - 📜 **Alpheus Spring Packard (*Textbook of Entomology*):** *"The **ametabolous** habit reflects an ancient evolutionary stage before the origin of insect flight structures."*

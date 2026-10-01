@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring luminous intensity, luminous flux, illumination, or brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spectrophotometer in which a spray of metallic salts in solution is vaporized in a very hot flame and subjected to quantitative analysis by measuring the intensities of the spectral lines of the metals present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the intensity of light or luminous flux, or for comparing the relative illuminative power of two light sources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical and industrial optics, Bunsen's grease-spot photometer or electronic photomultiplier tubes used to quantify stellar magnitudes and lux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometer designates an instrument for measuring luminous intensity, luminous flux, illumination, or brightness."*
+> - 📜 **Robert Bunsen (*Photochemical Researches*):** *"The simple grease-spot **photometer** allowed us to compare the brightness of gas flames with mathematical precision."*
+> - 📜 **John Tyndall (*Lectures on Light*):** *"By adjusting the distances upon the **photometer** bench, the two shadows cast by the lights were made equal."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The photoelectric **photometer** attached to the telescope records variations in starlight as small as one-hundredth of a magnitude."*

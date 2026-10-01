@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of producing cyanide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of producing cyanide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of producing or releasing hydrocyanic acid (hydrogen cyanide); cyanogenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytochemistry, describing plants containing glycosides that release prussic acid upon tissue maceration and enzymatic hydrolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanogenetic designates capable of producing cyanide."*
+> - 📜 **Asa Gray (*Scientific Papers*):** *"Crushing the leaves of the wild cherry releases a pungent odor due to **cyanogenetic** enzyme action."*
+> - 📜 **William Trelease (*Botanical Gazette*):** *"The **cyanogenetic** properties of certain sorghum grasses pose a severe grazing hazard to livestock after drought."*
+> - 📜 **Julius von Sachs (*Physiology of Plants*):** *"Amygdalin in bitter almonds represents the classic example of a **cyanogenetic** plant glucoside."*

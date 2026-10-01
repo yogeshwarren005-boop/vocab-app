@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bullfinches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bullfinches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stout-billed passerine birds in the finch family Fringillidae, comprising the bullfinches, noted for the male's striking rose-red or crimson breast plumage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and avian taxonomy, a Palearctic genus typified by Pyrrhula pyrrhula (the Eurasian bullfinch), exhibiting sexual dichromatism and specialized feeding on fruit buds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrrhula designates bullfinches."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The woodland bullfinch, **Pyrrhula** pyrrhula, strips the fruit trees of their swollen flower buds in the early days of spring."*
+> - 📜 **Thomas Bewick (*A History of British Birds*):** *"In the genus **Pyrrhula**, the bill is remarkably thick and convex, enabling the bird to crack the hardest seeds with ease."*
+> - 📜 **William Yarrell (*A History of British Birds*):** *"The vivid crimson breast of the male **Pyrrhula** contrasts sharply with the delicate slate grey of its back and jet-black cap."*

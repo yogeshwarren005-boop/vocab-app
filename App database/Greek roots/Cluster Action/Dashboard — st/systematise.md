@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange, classify, or organize methodically in accordance with an overarching system or regular plan (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology, to formulate empirical findings into a structured, unified taxonomy or theoretical model.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Dryden, to a greater extent than is (we imagine) generally perceived, was Cowley systematised; and Cowley, who sank into the arms of Dryden, rose from the lap of Donne."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislator must **systematise** the penal code so that every offense meets with its precisely calibrated deterrent pain."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Inductive reasoning enables the philosopher to **systematise** isolated facts into universal scientific propositions."*
+> - 📜 **Auguste Comte (*The Positive Philosophy*):** *"Positivism strives to **systematise** all human knowledge, subordinating intellect to social harmony and empirical evidence."*

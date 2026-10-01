@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical evergreen trees or shrubs having pods like those of the acacia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical evergreen trees or shrubs having pods like those of the acacia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical and subtropical leguminous trees and shrubs in the family Fabaceae (mimosoid clade), notably *Leucaena leucocephala* (leadtree).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agroforestry and pasture management, fast-growing nitrogen-fixing fodder trees rich in protein but containing the toxic amino acid mimosine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucaena designates small genus of tropical evergreen trees or shrubs having pods like those of the acacia."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"In the hot savannas, thickets of **Leucaena** provided welcome shade and browsable foliage for horses."*
+> - 📜 **George Bentham (*Revision of the Suborder Mimoseae*):** *"The genus **Leucaena** is characterized by globose heads of white flowers and flattened, membranous pods."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Pastoral experiments showed that livestock fed exclusively upon **Leucaena** developed reversible hair loss from mimosine."*

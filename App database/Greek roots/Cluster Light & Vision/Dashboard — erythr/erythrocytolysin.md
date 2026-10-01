@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (such as a bacterial toxin, snake venom, or antibody) capable of causing the dissolution or lysis of red blood cells; a hemolysin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and bacterial pathogenesis, a cytolytic protein that forms pores in erythrocyte membranes, releasing free hemoglobin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrocytolysin designates any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"A specific **erythrocytolysin** requires both an amboceptor and heat-labile complement to rupture red blood cells."*
+> - 📜 **Jules Bordet (*Studies in Immunity*):** *"Serum from immunized animals acted as a potent **erythrocytolysin** against foreign sheep corpuscles."*
+> - 📜 **William Henry Welch (*General Pathology*):** *"Venom injected by pit vipers contains a powerful **erythrocytolysin** that produces widespread intravascular hemolysis."*

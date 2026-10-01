@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to the actinomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the actinomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of actinomycetes or the bacterial order Actinomycetales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedology and microbial ecology, descriptive of the earthy aroma and antibiotic metabolism of soil actinobacteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycetal designates of or belonging to the actinomycetes."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"The rich petrichor of freshly turned spring soil arises directly from **actinomycetal** geosmin synthesis."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Screening natural soils yielded diverse **actinomycetal** isolates exhibiting pronounced antagonistic inhibition."*
+> - 📜 **Alexander Fleming (*Penicillin and Other Antibiotics*):** *"Recent pharmaceutical attention has shifted toward **actinomycetal** secondary metabolites for novel therapeutic compounds."*

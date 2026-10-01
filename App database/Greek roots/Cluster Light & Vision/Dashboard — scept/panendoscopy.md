@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive endoscopic examination of an entire anatomical system or cavity, such as the upper gastrointestinal tract or the urinary bladder and urethra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology, otolaryngology, and gastroenterology, visual inspection combining wide-angle cystoscopy with urethroscopy, or pharyngoscopy with laryngoscopy, to assess mucosal pathology comprehensively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panendoscopy designates a term designating an entity, condition, or phenomenon derived from greek scept."*
+> - 📜 **Hugh Hampton Young (*Practice of Urology*):** *"Through wide-angle **panendoscopy**, the surgeon inspects the prostatic urethra and vesical neck in a continuous panoramic field."*
+> - 📜 **Chevalier Jackson (*Bronchoscopy and Esophagoscopy*):** *"Upper aerodigestive **panendoscopy** ensures that synchronous secondary carcinomas are not overlooked during staging."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Thorough **panendoscopy** has significantly clarified the anatomical boundary between urethral strictures and benign bladder growths."*

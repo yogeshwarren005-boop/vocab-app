@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the growth and development of organisms, especially plants and microorganisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological biology, the discipline investigating the mechanical and biochemical factors regulating developmental expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxanology designates a term designating an entity, condition, or phenomenon derived from greek aux."*
+> - 📜 **Julius von Sachs (*Textbook of Botany*):** *"Rigorous experimental **auxanology** requires measuring microscopic cellular elongation under controlled temperature gradients."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The mathematical foundations of **auxanology** illustrate how differential growth rates sculpt physical organic symmetry."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Our discoveries in **auxanology** established that unequal rates of tissue growth drive phototropic curvature in seedlings."*

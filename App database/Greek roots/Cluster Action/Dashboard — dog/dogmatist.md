@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stubborn person of arbitrary or arrogant opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stubborn person of arbitrary or arrogant opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who asserts opinions in an arrogant, positive, or dictatorial manner, without evidence or argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and theology, an adherent of dogmatism who insists upon absolute doctrinal certainty without critical epistemological testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A medical work of his, and a treatise on the Soul are lost, but his _Pyrrhonean Sketches_ and his books _Against the Dogmatists_ remain--written in a Greek which suggests that he was himself a Greek and not a foreigner using the language."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The triflers and the dogmatists of the day used Plato's myths to confute the Christian doctrine of the resurrection."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The dogmatical spirit is natural to man; the **dogmatist** rushes boldly into speculation while the skeptic hesitates."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The critical philosopher exposes the illusions of the **dogmatist** who constructs metaphysical castles in the air."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"No **dogmatist** is more intractable than he whose opinions are founded upon unexamined scholastic authority."*

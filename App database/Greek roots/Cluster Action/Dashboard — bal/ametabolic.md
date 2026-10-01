@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not undergoing metamorphosis during insect ontogeny; exhibiting direct development from egg to adult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and developmental biology, descriptive of primitive apterygote insects such as silverfish whose young hatch resembling miniature adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametabolic designates adjective*) pertaining to, derived from, or characteristic of throw."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Primitive apterygotes remain strictly **ametabolic**, molting repeatedly throughout adult life without transforming their body plan."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The silverfish illustrates an **ametabolic** life history in which the young differ from the mature insect solely in size and sexual maturity."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Endocrine control of molting in **ametabolic** species operates without the dramatic metamorphic juvenile hormone swings found in beetles."*

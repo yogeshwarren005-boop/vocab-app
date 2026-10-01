@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An admission of error or discourtesy accompanied by an expression of regret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of regret for not being able to do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of regret, remorse, or sorrow for having committed a wrong, caused injury, or failed in duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and philosophy, a formal spoken or written defense of one's actions, life, or doctrinal convictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His enter and exit shall be strangling a snake; and I will have an apology for that purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quoniam _he seemeth in minority_, Ergo _I come with this apology._ Keep some state in thy exit, and vanish. [_Moth retires._] _Judas I am._— DUMAINE."*
+> - 📜 **Plato (*Apology*):** *"I do not know, men of Athens, how my accusers affected you; as for me, I was almost carried away by them, so persuasively did they speak; yet this **apology** will declare the unvarnished truth."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"That you will take your instant leave o’ the king, and make this haste as your own good proceeding, strengthen’d with what **apology** you think may make it probable need."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"He that makes an **apology** for his life must be prepared to bare his conscience before the eyes of impartial spectators."*

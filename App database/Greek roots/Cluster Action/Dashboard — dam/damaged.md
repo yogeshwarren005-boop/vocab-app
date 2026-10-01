@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflict damage upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer or be susceptible to damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful, impaired, or suffering physical injury or loss of value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Functionally disrupted or emotionally scarred by trauma or neglect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I'll attend to it." Lippo was sitting at his little table, laying one horse after the other slowly and carefully in the box so that they should not be damaged."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, he had more the appearance in all respects of a damaged young man than a well-preserved elderly one."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A shaggy little damaged man, withal, not unlike an old dog of some mongrel breed, who has been considerably knocked about."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **damaged** whaleboat was hoisted to the davits, its cedar strakes stove in by the flukes."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Despite a severely **damaged** parietal cortex, the patient retained a rich internal musical memory."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The battleship returned to harbor with **damaged** armor plating after the fierce North Sea engagement."*

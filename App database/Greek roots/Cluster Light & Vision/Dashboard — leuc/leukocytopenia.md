@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leuc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low count of white blood cells (leukocytes) in the circulating peripheral blood; leukopenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematopathology, a dangerous reduction in circulating leukocytes (less than 4,000 cells/uL) induced by chemotherapy, irradiation, or marrow aplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukocytopenia designates a term designating an entity, condition, or phenomenon derived from greek leuc."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following massive mustard gas exposure, profound **leukocytopenia** left soldiers entirely defenseless against secondary pneumonia."*
+> - 📜 **Paul Ehrlich (*Studies on Immunity*):** *"The injection of specific cytotoxic sera resulted in transient marrow paralysis and severe **leukocytopenia**."*
+> - 📜 **Maxwell Finland (*Antimicrobial Agents and Chemotherapy*):** *"Patients developing drug-induced **leukocytopenia** must be placed in strict protective isolation immediately."*

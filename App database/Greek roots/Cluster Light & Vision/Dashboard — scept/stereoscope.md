@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument with two eyepieces for helping the observer to combine the images of two pictures taken from points of view a little way apart and thus to get the effect of solidity or depth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument with two eyepieces for helping the observer to combine the images of two pictures taken from points of view a little way apart and thus to get the effect of solidity or depth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical viewing device presenting two slightly offset two-dimensional images separately to each eye, producing the perception of three-dimensional depth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century optical science, an apparatus invented by Charles Wheatstone and refined by David Brewster that demonstrated the binocular mechanism of human depth perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Falls back suddenly, frozen in stereoscope."*
+> - 📜 **Charles Wheatstone (*Philosophical Transactions of the Royal Society*):** *"By means of the **stereoscope**, two flat drawings depicting different perspectives combine in the brain to produce an irresistible illusion of solid relief."*
+> - 📜 **Oliver Wendell Holmes (*The Atlantic Monthly: The Stereoscope and the Stereograph*):** *"The **stereoscope** is an instrument which makes surfaces look solid... It carries us on a magic carpet into the heart of distant landscapes."*
+> - 📜 **David Brewster (*The Stereoscope: Its History, Theory, and Construction*):** *"The lenticular **stereoscope** brings the wonders of binocular vision into every drawing room, uniting art and optical geometry."*

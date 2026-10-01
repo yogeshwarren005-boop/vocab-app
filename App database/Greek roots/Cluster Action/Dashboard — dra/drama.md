@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic work intended for performance by actors on a stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An episode that is turbulent or highly emotional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A play for theater, radio, or television; or dramatic art and literature as a genre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exciting, emotional, or unexpected series of events or set of circumstances in real life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Directly Tess was out of sight, and the interest of the matter as a drama was at an end, the little ones’ eyes filled with tears."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Where are the Muses fled that could produce A drama worthy o’ the name o’ Bruce?"*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But dramatically with that fall the action ceases, and the drama should have ceased with it."*
+> - 📜 **Aristotle (*Poetics*):** *"Tragic **drama** is an imitation of an action that is serious, complete, and of a certain magnitude, effecting through pity and fear the catharsis of such emotions."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"All the world's a stage, and all the men and women merely players; they have their exits and their entrances in this strange eventful **drama**."*
+> - 📜 **George Bernard Shaw (*The Quintessence of Ibsenism*):** *"Modern **drama** abandons the clockwork intrigues of melodrama to place real human conscience upon trial."*

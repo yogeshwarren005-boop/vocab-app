@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in epistemology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in epistemology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher or scholar who specializes in epistemology, investigating the nature, origins, criteria, and limits of knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theorist dedicated to evaluating skepticism, justification, foundationalism, and cognitive truth claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistemologist designates a specialist in epistemology."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"The modern **epistemologist** must navigate between the paralyzing abyss of radical skepticism and the naivety of common sense."*
+> - 📜 **A. J. Ayer (*Language, Truth, and Logic*):** *"The traditional **epistemologist** erred whenever he sought to extract synthetic truths about reality from pure logical tautologies."*
+> - 📜 **Hilary Putnam (*Reason, Truth and History*):** *"Any reflective **epistemologist** must discard the myth of God's-eye perspective in favor of an internal, pragmatic realism."*

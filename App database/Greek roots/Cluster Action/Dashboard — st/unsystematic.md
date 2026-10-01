@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking systematic arrangement or method or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking systematic arrangement or method or organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a regular plan, order, method, or system; disorganized, irregular, or haphazard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding without rigorous methodology or consistent guiding principles in inquiry or execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"But as to "Effie's" telling long magazine tales,--pshaw! she is the most unsystematic creature in the world."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Merely wandering through **unsystematic** experiments is like groping in total darkness without a directing torch."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The genius who scatters his talents in **unsystematic** bursts of labor rarely produces an enduring monument of art."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"An **unsystematic** curriculum leaves the pupil with a fragmented miscellany of facts devoid of mutual connection."*

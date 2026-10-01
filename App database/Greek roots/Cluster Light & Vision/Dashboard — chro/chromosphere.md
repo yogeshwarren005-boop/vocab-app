@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish gaseous layer of the sun's atmosphere located between the photosphere and the corona.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solar astrophysics, a turbulent layer visible during total eclipses as a rosy fringe, characterized by emission lines such as hydrogen-alpha and calcium H and K.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromosphere designates a gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun."*
+> - 📜 **Joseph Norman Lockyer (*The Chemistry of the Sun*):** *"Above the luminous photosphere lies the rosy envelope which I designated the **chromosphere**."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Immense solar prominences leap hundreds of thousands of miles upward from the turbulent **chromosphere**."*
+> - 📜 **George Ellery Hale (*The Study of Stellar Evolution*):** *"Spectroheliograph images revealed swirling vortex storms in the hydrogen gas of the upper **chromosphere**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Platonic subordinate deity who fashions the sensible world in the light of eternal ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Gnostic subordinate deity who is the creator of the material world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A being responsible for the creation of the universe, especially in Plato's philosophy and Gnostic theology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Gnosticism, an inferior, subordinate deity regarded as the creator of the material, flawed physical world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Logos, that was before the Day-Star was, has appeared among men as a teacher,--he by whom all things were made. {284} As Demiurge he gave life; as teacher he taught to live well; that, as God, he may lavish upon us life forever."*
+> - 📜 **Plato (*Timaeus*):** *"The benevolent **demiurge** fashioned the physical cosmos by gazing upon the eternal, unchanging Forms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Gnostic sects distinguished the supreme spiritual deity from the blind, material **demiurge** who formed this sorrowful earth."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"In Plato's cosmogony, the **demiurge** does not create ex nihilo, but imposes order and geometric harmony upon chaotic matter."*

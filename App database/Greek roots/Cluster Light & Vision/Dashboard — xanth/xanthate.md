@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of xanthic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of xanthic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of xanthic acid, characterized by the general formula ROC(=S)S⁻M⁺, produced by the reaction of carbon disulfide with an alcohol in the presence of an alkali.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In froth flotation mining and polymer chemistry, sulfur-bearing organic compounds used as hydrophobic collectors for sulfide ores (such as copper and lead), and as intermediates in the viscose rayon manufacturing process (cellulose xanthate).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthate designates a salt or ester of xanthic acid."*
+> - 📜 **William Crookes (*The Chemical News*):** *"When carbon disulfide is treated with alcoholic potassium hydroxide, yellow crystals of potassium **xanthate** separate in abundant needles."*
+> - 📜 **Arthur F. Taggart (*Handbook of Mineral Dressing*):** *"Sodium ethyl **xanthate** is selectively adsorbed upon the surfaces of galena and chalcopyrite, rendering the mineral particles water-repellent."*
+> - 📜 **Charles Frederick Cross (*Researches on Cellulose*):** *"The discovery of soluble sodium cellulose **xanthate** laid the entire foundation for the commercial manufacture of artificial silk and viscose."*

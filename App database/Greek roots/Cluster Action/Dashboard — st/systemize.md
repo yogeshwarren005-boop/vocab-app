@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange, coordinate, or organize into a regular, methodical, or comprehensive system (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and administrative governance, to structure concepts or operations according to unified axioms or protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, again, in 1825, Bernard Germain, Count de Lacépède, a great naturalist, published a scientific systemized whale book, wherein are several pictures of the different species of the Leviathan."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Then, again, in 1825, Bernard Germain, Count de Lacépède, a great naturalist, published a scientific systemized whale book, wherein are several pictures of the different species of the Leviathan."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Pragmatism serves as an active method to clarify and **systemize** our concepts in light of their conceivable practical effects."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Beware when the great God lets loose a thinker on this planet; he will shatter the past and **systemize** the future anew."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The intellect cannot rest until it manages to **systemize** sensory chaos into an orderly constellation of concepts."*

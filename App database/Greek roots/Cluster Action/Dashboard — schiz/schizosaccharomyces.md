@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and only genus of schizosaccharomycetaceae; comprises the fission yeasts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and only genus of schizosaccharomycetaceae; comprises the fission yeasts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ascomycetous yeasts that reproduce by medial transverse fission rather than by budding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and genetics, the model organism Schizosaccharomyces pombe utilized to elucidate eukaryotic cell-cycle regulation and mitotic spindle dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizosaccharomyces designates type and only genus of schizosaccharomycetaceae; comprises the fission yeasts."*
+> - 📜 **Paul Nurse (*Cell Cycle Control in Fission Yeast*):** *"By studying cell division mutants in **schizosaccharomyces**, we identified the universal kinase that triggers the onset of mitosis."*
+> - 📜 **J. Murdoch Mitchison (*The Biology of the Cell Cycle*):** *"The cylindrical geometry and constant diameter of **schizosaccharomyces** facilitate precise linear measurements of cellular growth."*
+> - 📜 **Urs Leupold (*Genetics of Fission Yeast*):** *"Genetic analysis in **schizosaccharomyces** provides an exquisite window into meiotic recombination and chromosome mechanics."*

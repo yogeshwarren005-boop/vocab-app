@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasites of worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasites of worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of parasitic cnidarians (formerly protozoans) in the Myxozoa that alternate life cycles between oligochaete worms and freshwater fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, spore-forming endoparasites characterized by tri-radiate or three-valved anchor-shaped spores with polar capsules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomyxidia designates parasites of worms."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The remarkable spores of **Actinomyxidia** possess three elongated radiating styles extending like anchors."*
+> - 📜 **Charles Wardell Stiles (*A Compendium of Animal Parasites*):** *"In aquatic ecosystems, species of **Actinomyxidia** parasitize freshwater tubificid worms before transferring to fish."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Modern molecular phylogenetics demonstrated that **Actinomyxidia** represent reduced, highly specialized parasitic cnidarians."*

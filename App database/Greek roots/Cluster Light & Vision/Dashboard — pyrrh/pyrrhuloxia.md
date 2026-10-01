@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crested grey-and-red bird of southwest united states and mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crested grey-and-red bird of southwest united states and mexico.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medium-sized North American desert bird (Cardinalis sinuatus) of the cardinal family, with a stout curved yellow bill, grey body plumage, and red crest, throat, and breast accents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, also known as the desert cardinal, inhabiting arid scrublands and mesquite thickets of the southwestern United States and Mexico, characterized by a stubby parrot-like bill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrrhuloxia designates crested grey-and-red bird of southwest united states and mexico."*
+> - 📜 **Florence Merriam Bailey (*Handbook of Birds of the Western United States*):** *"Perched atop a thorny mesquite, the **pyrrhuloxia** flutes its clear, sweet whistle across the shimmering desert."*
+> - 📜 **Frank Chapman (*Camps and Cruises of an Ornithologist*):** *"The stout, curved bill of the **pyrrhuloxia** gives its head an appearance curiously suggestive of a miniature parrot."*
+> - 📜 **Arthur Cleveland Bent (*Life Histories of North American Birds*):** *"In the arid canyon country, the grey and carmine plumage of the **pyrrhuloxia** blends unobtrusively with dry caliche soils."*

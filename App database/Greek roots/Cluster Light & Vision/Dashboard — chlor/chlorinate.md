@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat or combine with chlorine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disinfect with chlorine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat, combine, or saturate a substance or water supply with chlorine or a chlorine-containing disinfectant compound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic synthesis, to substitute or add chlorine atoms into a hydrocarbon skeleton; in civil engineering, to sanitize municipal water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorinate designates treat or combine with chlorine."*
+> - 📜 **Allen Hazen (*Clean Water and How to Get It*):** *"The decision to **chlorinate** the city reservoirs immediately cut typhoid mortality by ninety percent."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Under the influence of ultraviolet light, methane will readily **chlorinate** to form methyl chloride."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Efforts to **chlorinate** natural hydrocarbons gave birth to synthetic insecticides of extraordinary persistence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of picidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of picidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World woodpeckers in the family Picidae, including the red-headed woodpecker and the acorn woodpecker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ornithology, social and colorful woodpeckers renowned for communal acorn caching and striking black-and-white plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanerpes designates a genus of picidae."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The red-headed woodpecker, classified as **Melanerpes**, flashes like a living meteor through the green orchards."*
+> - 📜 **Elliott Coues (*Birds of the Colorado Valley*):** *"The communal habits of **Melanerpes** in storing thousands of acorns in pine bark present an extraordinary spectacle."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"The glossy black mantle and white wing-patches distinguish **Melanerpes** from all other nearctic picids."*

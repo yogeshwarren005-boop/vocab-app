@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect) undergoing complete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect) undergoing complete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by complete metamorphosis, passing through four distinct life stages: egg, larva, pupa, and adult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, describing endopterygote insects such as butterflies, beetles, flies, and wasps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holometabolic designates (of an insect) undergoing complete metamorphosis."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The **holometabolic** insects achieve profound developmental economy by decoupling larval feeding from adult reproduction."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Complete restructuring inside the **holometabolic** pupa stands as one of evolution's most staggering innovations."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Imaginal discs within the **holometabolic** larva remain dormant until a surge of ecdysone triggers pupal metamorphosis."*

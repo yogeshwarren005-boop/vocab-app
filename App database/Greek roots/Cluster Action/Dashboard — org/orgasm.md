@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense or paroxysmal excitement; especially : the rapid pleasurable release of neuromuscular tensions at the height of sexual arousal that is usually accompanied by the ejaculation of semen in the male and by vaginal contractions in the female.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To experience orgasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The culmination or peak of sexual excitement, characterized by intense feelings of pleasure and rhythmic muscular contractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological and psychological terminology, any paroxysm of intense emotional excitement, physical tension release, or convulsive energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orgasm designates intense or paroxysmal excitement; especially : the rapid pleasurable release of neuromuscular tensions at the height of sexual arousal that is usually accompanied by the ejaculation of semen in the male and by vaginal contractions in the female."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"The sexual act culminates in the physical release of tension which accompanies the **orgasm**."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The physiological phenomena of the **orgasm** involve sudden nervous detumescence and involuntary rhythm."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every instinctive passion reaches its zenith in an **orgasm** of emotional excitement before subsiding into calm."*

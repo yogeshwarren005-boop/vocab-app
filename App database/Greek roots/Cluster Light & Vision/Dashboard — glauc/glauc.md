@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glauc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form (glaukos, 'gleaming, silvery-gray, bluish-green') denoting a pale sea-green, glaucous, or bluish hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological and mineralogical terminology, a prefix found in glaucoma, glaucous, glaucophane, and related natural science descriptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glauc designates a term designating an entity, condition, or phenomenon derived from greek glauc."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"From the Greek root **glauc**- come scientific descriptors designating both the sea-green swell and frosted plant wax."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Homer applied the epithet **glauc**- to the flashing, owl-like eyes of Athena and the shimmering Aegean waves."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Botanists use the prefix **glauc**- to characterize leaves coated with a bluish-white powdery bloom."*

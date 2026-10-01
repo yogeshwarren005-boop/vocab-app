@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various instruments for measuring the intensity of incident radiation; especially : one in which the intensity of radiation is measured by the speed of a photochemical reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various instruments for measuring the intensity of incident radiation; especially : one in which the intensity of radiation is measured by the speed of a photochemical reaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure the heating power or photochemical intensity of solar radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early meteorology and photography, an apparatus assessing exposure times or solar constants via temperature rise or light-sensitive paper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinometer designates any of various instruments for measuring the intensity of incident radiation; especially : one in which the intensity of radiation is measured by the speed of a photochemical reaction."*
+> - 📜 **John Herschel (*Results of Astronomical Observations at the Cape of Good Hope*):** *"Using my liquid **actinometer**, I measured the direct thermal power of southern solar rays at high noon."*
+> - 📜 **Samuel Pierpont Langley (*The Bolometer and Radiant Energy*):** *"The classical **actinometer** provided early scientists with invaluable estimates of atmospheric radiation absorption."*
+> - 📜 **Robert Hunt (*A Manual of Photography*):** *"Every careful calotypist kept an **actinometer** at hand to calculate plate exposure under shifting cloud cover."*

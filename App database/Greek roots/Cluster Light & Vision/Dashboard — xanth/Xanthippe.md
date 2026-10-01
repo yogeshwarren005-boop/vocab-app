@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ill-tempered woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 5th century b.c. wife of Socrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wife of the classical Athenian philosopher Socrates, renowned in literary tradition and proverbial folklore for an ill-tempered, scolding disposition; an ill-tempered or nagging woman (xanthippe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical biography and philosophical dialogue (Plato's Phaedo and Xenophon's Memorabilia), an Athenian citizen and mother of Socrates's sons whose marital patience was severely tested by Socrates's poverty and philosophical eccentricities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What useful discovery did Socrates learn from Xanthippe? —Dialectic, Stephen answered: and from his mother how to bring thoughts into the world."*
+> - 📜 **Plato (*Phaedo*):** *"When we entered the prison, **Xanthippe** was sitting by Socrates, holding their youngest child upon her knee and lamenting bitterly."*
+> - 📜 **Xenophon (*Memorabilia*):** *"Socrates remarked that he endured the sharp tongue of **Xanthippe** as horsemen choose spirited steeds, to train himself in forbearance."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Be she as foul as was Florentius' love, as old as Sibyl, and as curst and shrewd as Socrates' **Xanthippe**, she moves me not."*

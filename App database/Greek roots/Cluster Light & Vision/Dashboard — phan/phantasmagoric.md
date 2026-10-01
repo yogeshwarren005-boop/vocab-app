@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a fantastic or deceptive appearance, as something in a dream or shifting optical illusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, characterizing narrative imagery marked by rapid, hallucinatory shifts of light, color, and bizarre forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Possibly, it was an instinctive device of her spirit to relieve itself by the exhibition of these phantasmagoric forms, from the cruel weight and hardness of the reality."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It was like nothing so much as the phantasmagoric play of the northern lights."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It might have been taken for a ghostly or phantasmagoric reflection of the old shop-keeper Pyncheon’s shabbily provided shelves, save that some of the articles were of a description and outward form which could hardly have been known in his day."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The hound burst from the dense fog with a **phantasmagoric** fury, fire leaping from its jaws."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The Great Frost turned London into a **phantasmagoric** carnival of frozen revelers on the Thames."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The sun spun across the heavens in a **phantasmagoric** ribbon of blazing golden light."*

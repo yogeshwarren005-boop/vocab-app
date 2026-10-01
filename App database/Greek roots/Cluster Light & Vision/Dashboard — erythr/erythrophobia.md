@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erythr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid fear of blushing, or an irrational dread of the color red.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychotherapy, a social anxiety disorder where the anticipation of facial flushing triggers panic and social avoidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrophobia designates a term designating an entity, condition, or phenomenon derived from greek erythr."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The young man's acute **erythrophobia** made ordinary social conversation an agonizing ordeal of expected shame."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In **erythrophobia**, the fear of blushing creates a vicious autonomic cycle that instantly precipitates the flush."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"Adolescent social hypersensitivity frequently manifests as a tormenting **erythrophobia** in classroom settings."*

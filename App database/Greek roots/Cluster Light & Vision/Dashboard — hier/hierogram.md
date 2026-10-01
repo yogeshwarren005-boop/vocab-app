@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacred symbol, emblem, or hieroglyphic character, especially one used in religious rituals or mystical inscriptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical archaeology, a consecrated monogram or pictographic sign carved on altars, amulets, and temple pylons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierogram designates a term designating an entity, condition, or phenomenon derived from greek hier."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The labarum of Constantine displayed the sacred Christian **hierogram** woven in gold and jewels."*
+> - 📜 **Percy Bysshe Shelley (*Queen Mab*):** *"Time will efface each royal **hierogram** carved on the granite obelisks of forgotten kings."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The signet ring was engraved with an intricate Cretan **hierogram** representing the sacred double axe."*

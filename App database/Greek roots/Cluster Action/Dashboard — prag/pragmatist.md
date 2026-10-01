@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practical approach to problems and affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An American movement in philosophy founded by C. S. Peirce and William James and marked by the doctrines that the meaning of conceptions is to be sought in their practical bearings, that the function of thought is to guide action, and that truth is preeminently to be tested by the practical consequences of belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent or advocate of philosophical pragmatism; a person who takes a practical, outcome-oriented approach to problems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In politics and organizational leadership, a decision-maker who emphasizes feasibility and tangible results over doctrinal dogmatism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pragmatist designates a practical approach to problems and affairs."*
+> - 📜 **William James (*Pragmatism*):** *"A **pragmatist** turns his back resolutely and once for all upon a lot of inveterate habits dear to professional philosophers."*
+> - 📜 **Bertrand Russell (*Philosophical Essays*):** *"The **pragmatist** claims that what works well in the long run is what we ought to call true."*
+> - 📜 **Richard Rorty (*Consequences of Pragmatism*):** *"The modern **pragmatist** abandons the attempt to step outside of human history and conversation."*

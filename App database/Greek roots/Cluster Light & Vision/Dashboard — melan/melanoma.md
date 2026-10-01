@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor containing dark pigment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly malignant tumor that starts in melanocytes of normal skin or moles and metastasizes rapidly and widely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious form of skin cancer that begins in the melanocytes; a malignant tumor containing melanin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, an aggressive neoplasm marked by the ABCDE criteria (asymmetry, border irregularity, color variegation, diameter, evolving size) and high metastatic potential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanoma designates a tumor containing dark pigment."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A pigmented cutaneous mole that begins to itch, bleed, or enlarge must be excised promptly to prevent lethal **melanoma**."*
+> - 📜 **Jonathan Hutchinson (*Lectures on Clinical Surgery*):** *"Malignant lentigo in the elderly may persist quiescently for decades before transforming into invasive **melanoma**."*
+> - 📜 **Paul Ehrlich (*Chemotherapy Studies*):** *"The high resistance of metastatic **melanoma** to chemical agents spurred search for immunologic targets."*

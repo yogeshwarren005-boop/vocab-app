@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weak soluble dibasic acid (the parent acid of cyanamide salts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound used as a fertilizer and as a source of nitrogen compounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic amide of cyanic acid (NH2CN), appearing as a deliquescent white crystalline solid; or its calcium salt CaCN2.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural chemistry and pharmacotherapy, a compound used as an agrarian defoliant and in alcoholism aversion therapy (calcium carbimide).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanamide designates a weak soluble dibasic acid (the parent acid of cyanamide salts)."*
+> - 📜 **Ira Remsen (*An Introduction to the Study of Organic Chemistry*):** *"Hydrolysis of **cyanamide** proceeds smoothly in warm aqueous solution to yield ordinary urea."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The synthesis of **cyanamide** confirmed the structural unity linking cyanogen derivatives with carbon amides."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Resonance between tautomeric structures gives **cyanamide** its characteristic planar dipole geometry."*

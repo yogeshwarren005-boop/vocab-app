@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Haddock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Haddock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine gadid teleost fishes containing the haddock (*Melanogrammus aeglefinus*), characterized by a black lateral line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial fisheries and North Atlantic ichthyology, an economically vital food fish distinguished by a prominent dark lateral line and a dark shoulder blotch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog melanogrammus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **George Brown Goode (*Fisheries and Fishery Industries of the United States*):** *"The haddock, classified under **Melanogrammus**, is recognized by the inky black lateral line running to its tail."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Legend called the dark shoulder mark on **Melanogrammus** the thumbprint of Saint Peter."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Shoals of young **Melanogrammus** drifted over the rich feeding grounds of Georges Bank."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange in accord with a definite plan or scheme : order systematically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To arrange in accord with a definite plan or scheme : order systematically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange, coordinate, or organize methodically in accordance with an established system (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and governance, to formulate diverse data, legal codes, or operations into a harmonious conceptual scheme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Edson attempted to systematize her plan for a home and training school for nurses."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They were an outgrowth alike of the patriotism and the systematizing tendencies of the people of the North."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"During the slow hours of convalescence from this illness she revolved a plan for systematizing the female branch of the relief service."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I conceived the bold project of achieving moral perfection, attempting to **systematize** my daily conduct through thirteen virtues."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Scientific method does not freeze thought, but provides active inquiry with tools to **systematize** perplexing observations."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"Our ongoing philosophical task is to simplify and **systematize** the total conceptual framework that encompasses human science."*

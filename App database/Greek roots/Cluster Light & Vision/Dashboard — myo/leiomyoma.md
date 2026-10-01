@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign, non-cancerous tumor of smooth muscle tissue, commonly occurring in the uterus (where it is known as a uterine fibroid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and gynecology, a well-circumscribed, whorled mesenchymal neoplasm of smooth muscle bundles that may cause menorrhagia and pelvic pain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leiomyoma designates a term designating an entity, condition, or phenomenon derived from greek myo."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The uterine **leiomyoma** forms a dense, whorled fibrous mass that frequently undergoes hyaline degeneration."*
+> - 📜 **William Henry Welch (*General Pathology*):** *"Histologically, the **leiomyoma** consists of interlacing fascicles of elongated smooth muscle cells with blunt nuclei."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"A massive submucous **leiomyoma** caused severe secondary hypochromic anemia through recurrent hemorrhages."*

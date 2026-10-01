@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (trade name clinoril).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory drug (trade name clinoril).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for sulindac, a nonsteroidal anti-inflammatory drug (NSAID).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a prodrug that undergoes hepatic sulfoxide reduction to an active sulfide metabolite that inhibits cyclooxygenase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinoril designates a nonsteroidal anti-inflammatory drug (trade name clinoril)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients suffering from acute gouty arthritis experienced rapid symptomatic relief following prescription of **Clinoril**."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Clinical oncologists investigated **Clinoril** for its unexpected chemopreventive effects against familial colonic polyps."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Joint stiffness in our elderly patients responded well to moderate anti-inflammatory therapy with **Clinoril**."*

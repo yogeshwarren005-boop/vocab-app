@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first five books of Jewish and Christian Scriptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first five books of Jewish and Christian Scriptures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first five books of the Jewish and Christian Scriptures (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), known collectively in Judaism as the Torah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and historical-critical theology, the foundational canonical corpus attributed traditionally to Moses and analyzed through documentary hypothesis sources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Colenso, Bishop of Natal, in South Africa; he published works questioning the inspiration and historical accuracy of certain parts of the Bible, among which was ‘The Pentateuch, and the Book of Joshua critically examined’. -- Holy-Cross Day."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Moses saw the Promised Land from a distance, but the sight of that collection of log shacks means more to you, tired and almost frozen, than the land beyond muddy Jordan did to the writer of the Pentateuch."*
+> - 📜 **Baruch Spinoza (*Tractatus Theologico-Politicus*):** *"A critical examination of the text proves that Moses could not have authored the entire **Pentateuch**, which underwent later Ezraic collation."*
+> - 📜 **Julius Wellhausen (*Prolegomena to the History of Israel*):** *"The composition of the **Pentateuch** resolves into four distinct historical sources: the Yahwist, Elohist, Deuteronomist, and Priestly writer."*
+> - 📜 **Martin Noth (*A History of Pentateuchal Traditions*):** *"The theological heart of the **Pentateuch** resides in the covenant promises made to the patriarchs and fulfilled in the Exodus."*

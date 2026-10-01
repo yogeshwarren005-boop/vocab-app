@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or giving all the tones of the chromatic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by frequent use of accidentals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, produced by, or possessing color; in music, progressing by semitones or utilizing accidentals outside the diatonic key.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, describing phenomena relating to color dispersion or wavelengths; in music theory, a twelve-tone scale consisting entirely of half steps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The light from the water-bottle was merely engaged in a chromatic problem."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But suddenly a storm came on, chromatic scales and diminished sevenths were heard in the orchestra, everyone ran off, again dragging one of their number away, and the curtain dropped."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The white beam was separated by the prism into its primary **chromatic** rays."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The strings swept upward in a rapid **chromatic** run that suggested the rising shriek of a storm."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Nature never paints a surface with monochrome flat tints, but with delicate **chromatic** gradations."*

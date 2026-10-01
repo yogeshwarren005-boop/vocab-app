@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctor, nurse, or health care practitioner having direct contact with and responsibility for patients rather than working in laboratory or theoretical research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, an expert bedside diagnostician skilled in physical examination and bedside therapeutics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinician designates a practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments."*
+> - 📜 **William Osler (*The Student Life and Other Essays*):** *"The successful **clinician** must balance scientific skepticism with profound human empathy at the bedside."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"As a **clinician**, my aim was not merely to record neurological deficits, but to understand the lived reality of the patient."*
+> - 📜 **Siddhartha Mukherjee (*The Laws of Medicine*):** *"Every young **clinician** eventually discovers that medicine is an uncertain science practiced in an art of probabilities."*

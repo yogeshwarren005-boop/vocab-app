@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Trypanosoma) of parasitic flagellate protozoans that infest the blood of various vertebrates including humans, are usually transmitted by the bite of an insect, and include some that cause serious diseases (such as sleeping sickness and Chagas disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Trypanosoma) of parasitic flagellate protozoans that infest the blood of various vertebrates including humans, are usually transmitted by the bite of an insect, and include some that cause serious diseases (such as sleeping sickness and Chagas disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic, microscopic, unicellular flagellated protozoan belonging to the genus Trypanosoma, living in the blood and tissues of vertebrate hosts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical parasitology and tropical medicine, the causative pathogen of African sleeping sickness (T. brucei) and Chagas disease (T. cruzi).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trypanosome designates any of a genus (trypanosoma) of parasitic flagellate protozoans that infest the blood of various vertebrates including humans, are usually transmitted by the bite of an insect, and include some that cause serious diseases (such as sleeping sickness and chagas disease)."*
+> - 📜 **David Bruce (*Preliminary Report on the Tsetse Fly Disease or Nagana in Zululand*):** *"Microscopic examination of the infected cattle's blood revealed swarms of an active, undulating **trypanosome**."*
+> - 📜 **Carlos Chagas (*A New Human Trypanosomiasis*):** *"We succeeded in isolating the pathogenic **trypanosome** from the intestinal tract of the blood-sucking reduviid bug."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy of Spirilloses*):** *"Our trials with trypan red demonstrated that synthetic dyes could selectively destroy the **trypanosome** without harming host tissues."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to scope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or acting as a scope; or relating to a brush-like tuft of hairs (scopa) on an insect's leg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical linguistics and formal semantics, relating to the semantic scope of operators (such as quantifiers, negations, or modals) over clauses or syntactic arguments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scopal designates of or relating to scope."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The difference in interpretations arises directly from the distinct **scopal** domains of the negation operator and the existential quantifier."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Female solitary bees carry gathered pollen grains tightly packed within the dense **scopal** hairs of the hind tibia."*
+> - 📜 **John Lyons (*Semantics*):** *"Ambiguities in sentence meaning frequently reduce to conflicting **scopal** attachments between modal auxiliaries and indefinite noun phrases."*

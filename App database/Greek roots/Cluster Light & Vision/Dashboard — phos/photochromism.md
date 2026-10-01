@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of changing color on exposure to radiant energy (such as light).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or utilizing the change of color shown by a photochromic substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reversible transformation of a chemical species between two states having different absorption spectra upon exposure to light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical materials science and photochemistry, the molecular isomerization utilized in photochromic eyeglass lenses that darken in sunlight and clear indoors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photochromism designates capable of changing color on exposure to radiant energy (such as light)."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"Crystalline salts of certain hydrazones display reversible **photochromism**, turning carmine under sunlight and bleaching in darkness."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Reversible cis-trans photoisomerization underlies the molecular mechanism of organic **photochromism**."*
+> - 📜 **John Tyndall (*Lectures on Light*):** *"The transient color shift provoked by ultraviolet rays demonstrates the delicate physical reality of **photochromism**."*

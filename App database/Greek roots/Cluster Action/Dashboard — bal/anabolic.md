@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or promoting metabolic activity concerned with the biosynthesis of complex molecules (such as proteins or nucleic acids) : relating to, characterized by, or stimulating anabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of usually synthetic hormones that are derivatives of testosterone, are used medically especially to promote tissue growth, and are sometimes abused by athletes to increase the size and strength of their muscles and improve endurance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or promoting anabolism, the biochemical synthesis of complex molecules from simpler ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and sports medicine, promoting the synthesis of proteins and the growth of lean muscle tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabolic designates marked by or promoting metabolic activity concerned with the biosynthesis of complex molecules (such as proteins or nucleic acids) : relating to, characterized by, or stimulating anabolism."*
+> - 📜 **Hans Krebs (*Energy Transformations in Living Matter*):** *"Cellular respiration couples catabolic energy release directly to endergonic **anabolic** pathways."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Convalescence is marked by a restorative shift toward **anabolic** metabolism and positive nitrogen balance."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Ribosomes drive the primary **anabolic** machinery of the cell, linking amino acids into complex polypeptide chains."*

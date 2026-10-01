@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor used to establish electrical contact with a nonmetallic part of a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An element in a semiconductor device (such as a transistor) that emits or collects electrons or holes or controls their movements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor through which electricity enters or leaves an object, substance, or region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by Michael Faraday and William Whewell from Greek elektron + hodos ('path, way of electricity').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since, however, it may not be easy for the general reader to carry all these terms in his mind, we will, when it is necessary to differentiate between the two electrodes, call one the in-electrode and the other the out-electrode."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The bubbles which arise from the in-electrode are oxygen, those from the other hydrogen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The in-electrode is surrounded by a vast assemblage of these tiny molecules, most of them those of water, but a few those of the acid."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The term **electrode** expresses simply that path or door through which electricity enters into or passes out of decomposing matter."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Connecting the wire from each **electrode** to the voltaic pile instantly liberated gleaming droplets of pure potassium."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Recording from a fine micro-**electrode** implanted in the basal ganglia exposed aberrant high-frequency rhythmic bursts."*

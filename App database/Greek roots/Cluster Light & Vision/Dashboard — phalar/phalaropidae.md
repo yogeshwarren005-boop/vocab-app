@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phalaropes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phalaropes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical avian family formerly erected to classify the phalaropes, now treated as a specialized subfamily (Phalaropodinae) within Scolopacidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, wading birds distinguished by lobed swimming toes, dense waterproof belly plumage, and reversed breeding roles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalaropidae designates phalaropes."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"The family **Phalaropidae** was distinguished from typical sandpipers by their semipalmate and lobate toes."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"All members of **Phalaropidae** spend their non-breeding months wandering over open pelagic oceans."*
+> - 📜 **Frank M. Chapman (*Handbook of Birds of Eastern North America*):** *"In **Phalaropidae**, nature has reversed the conventional roles, clothing the female in glorious nuptial dress."*

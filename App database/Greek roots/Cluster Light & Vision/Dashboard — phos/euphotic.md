@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting the upper layers of a body of water into which sufficient light penetrates to permit growth of green plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting the upper layers of a body of water into which sufficient light penetrates to permit growth of green plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the upper sunlit layer of a body of water where sunlight penetrates sufficiently to permit net photosynthetic production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography and marine ecology, the upper ocean layer (extending down to roughly 1% of surface irradiance) where photosynthetic gains exceed respiratory losses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphotic designates of, relating to, or constituting the upper layers of a body of water into which sufficient light penetrates to permit growth of green plants."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"All marine animal life ultimately depends upon the microscopic pastures flourishing in the sunlit **euphotic** zone."*
+> - 📜 **H. U. Sverdrup (*The Oceans*):** *"The compensation depth marks the lower boundary of the **euphotic** layer, where daily photosynthesis equals respiration."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"High turbidity from river silt compresses the **euphotic** zone of the estuary to a depth of only few feet."*

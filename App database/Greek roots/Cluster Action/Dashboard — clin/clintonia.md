@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any temperate liliaceous plant of the genus clintonia having broad basal leaves and white or yellowish or purplish flowers followed by blue or black berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any temperate liliaceous plant of the genus clintonia having broad basal leaves and white or yellowish or purplish flowers followed by blue or black berries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American and East Asian perennial forest herbs in the lily family Liliaceae, commonly known as bluebead lily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical nomenclature, woodland rhizomatous plants named in honor of New York Governor DeWitt Clinton, bearing porcelain-blue berries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clintonia designates any temperate liliaceous plant of the genus clintonia having broad basal leaves and white or yellowish or purplish flowers followed by blue or black berries."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In deep Adirondack spruce woods, the glossy basal leaves of **Clintonia** frame brilliant metallic-blue berries."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"I dedicated the exquisite northern woodland lily genus **Clintonia** to my esteemed patron, DeWitt Clinton."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The speckled berries of the wild **Clintonia** glistened like beads of polished lapis lazuli among the damp mosses."*

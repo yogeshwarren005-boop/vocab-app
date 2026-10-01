@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by catabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by destructive metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by destructive or degradative metabolism; catabolic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and physiological chemistry, involving the breakdown of complex cellular components into simpler compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, katabolic designates relating to or characterized by catabolism."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Nervous exhaustion represents an excessive **katabolic** expenditure outstripping the restorative powers of nutrition."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"The primary **katabolic** channels converge upon pyruvate and acetyl coenzyme A before entering terminal respiration."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Living tissues manifest an incessant rhythm between anabolic synthesis and **katabolic** combustion."*

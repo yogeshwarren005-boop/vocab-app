@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign, localized skin lesion or nodule characterized by a yellow-orange coloration, caused by the subcutaneous accumulation of lipid-laden foam cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and cardiology, cutaneous and tendinous manifestations of systemic lipid disorders, commonly appearing over extensor tendons, knees, elbows, and buttocks in familial hypercholesterolemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthoma designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases of the Skin*):** *"The tuberous **xanthoma** over the extensor surfaces of the elbows consists of dense infiltrations of lipid-engorged histiocytes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tendon **xanthoma** in the Achilles tendon is an almost pathognomonic hallmark of severe familial hypercholesterolemia."*
+> - 📜 **Thomas Addison (*On a Certain Affection of the Skin: Vitiligoidea*):** *"The eruption of multiple soft yellow papules, now termed **xanthoma**, occurred in patients suffering from biliary cirrhosis."*

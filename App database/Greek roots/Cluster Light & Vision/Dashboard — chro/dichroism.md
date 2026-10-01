@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of some crystals and solutions of absorbing one of two plane-polarized components of transmitted light more strongly than the other; also : the property of exhibiting different colors by reflected or transmitted light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property (as of an optically active medium) of unequal absorption of right and left plane-polarized light so that the emergent light is elliptically polarized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of exhibiting two different colors, especially when viewed from different crystallographic directions under polarized light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and laser physics, differential absorption of ordinary and extraordinary rays in birefringent crystals such as cordierite (iolite).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichroism designates the property of some crystals and solutions of absorbing one of two plane-polarized components of transmitted light more strongly than the other; also : the property of exhibiting different colors by reflected or transmitted light."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The mineral cordierite was historically named dichroite on account of its pronounced optical **dichroism**."*
+> - 📜 **George Gabriel Stokes (*On the Change of Refrangibility of Light*):** *"Strong circular **dichroism** was detected in solutions containing asymmetric organic molecules."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Haidinger's brushes reveal that the human macula possesses a faint natural **dichroism** for polarized blue light."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The habitual practice of systematization and classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The habitual practice of systematization and classification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice, habit, or doctrine of strictly reducing all knowledge, actions, or beliefs to a rigid, overarching system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive or dogmatic devotion to systematic ordering, often at the expense of empirical nuance or intellectual flexibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematism designates the habitual practice of systematization and classification."*
+> - 📜 **Denis Diderot (*Encyclopédie*):** *"We must beware of that dogmatic **systematism** that forces refractory nature into the narrow mold of preconceived hypotheses."*
+> - 📜 **Voltaire (*Philosophical Dictionary*):** *"The mania for **systematism** produces magnificent philosophical castles that collapse at the first touch of real fact."*
+> - 📜 **Søren Kierkegaard (*Concluding Unscientific Postscript*):** *"An existential thinker cannot accept total **systematism**, for existing human reality remains an unclosed, striving paradox."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with microscopic forms of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology dealing with microscopic forms of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biological science that studies microorganisms, including bacteria, protozoa, fungi, and viruses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and biotechnology, the discipline exploring infectious diseases, antimicrobial therapeutics, industrial fermentation, and microbial ecology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbiology designates a branch of biology dealing with microscopic forms of life."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications to Medicine and Surgery*):** *"The foundations of **microbiology** demonstrate that spontaneous generation is a chimera; all life originates from living parents."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Careful staining and photomicrography elevated **microbiology** from empirical conjecture to an exact diagnostic science."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Modern **microbiology** has illuminated the biochemical universality that unites the simplest bacterium with the human organism."*

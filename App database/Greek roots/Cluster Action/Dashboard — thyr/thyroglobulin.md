@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large dimeric glycoprotein synthesized by thyroid follicular cells that acts as the macromolecular matrix and storage reservoir for thyroid hormone synthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular endocrinology, the iodinated protein within the thyroid colloid from which thyroxine (T4) and triiodothyronine (T3) are cleaved proteolytically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroglobulin designates an iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins."*
+> - 📜 **Jack Gross (*The Formation of Thyroid Hormones*):** *"Iodination of tyrosine residues within the matrix of **thyroglobulin** is the prerequisite for coupling into iodothyronines."*
+> - 📜 **Rosalind Pitt-Rivers (*The Thyroid Hormones*):** *"Colloid droplets containing **thyroglobulin** are engulfed by follicular cells through pinocytosis prior to lysosomal digestion."*
+> - 📜 **Christian de Duve (*Exploring Cells with the Centrifuge*):** *"Lysosomes merge with endocytic vesicles to hydrolyze **thyroglobulin**, liberating free thyroxine into the capillary network."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intention, object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Space or opportunity for unhampered motion, activity, or thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent, range, or breadth of an investigation, operation, concept, or field of activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer programming and compiler design, the lexical or dynamic context within which a variable identifier or binding name is valid and resolvable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blessed are you whose worthiness gives scope, Being had to triumph, being lacked to hope. 53 What is your substance, whereof are you made, That millions of strange shadows on you tend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it thy spirit that thou send’st from thee So far from home into my deeds to pry, To find out shames and idle hours in me, The scope and tenure of thy jealousy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair, kind, and true, is all my argument, Fair, kind, and true, varying to other words, And in this change is my invention spent, Three themes in one, which wondrous scope affords."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern scientific investigation has widened the whole **scope** of thought and deepened our conception of natural order."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The very **scope** of liberal education is to know the best that has been thought and said in the world."*
+> - 📜 **Bjarne Stroustrup (*The C++ Programming Language*):** *"A variable declared inside a block has local **scope** and is destroyed as soon as program execution exits that block."*

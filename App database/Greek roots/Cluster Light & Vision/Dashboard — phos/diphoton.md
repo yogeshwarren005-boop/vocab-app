@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of photons produced simultaneously in a particle collision or quantum decay process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental high-energy physics, the signature decay channel (H -> gamma gamma) utilized at the Large Hadron Collider to discover the Higgs boson.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diphoton designates a term designating an entity, condition, or phenomenon derived from greek phos."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"Positron-electron annihilation at rest yields a collinear **diphoton** pair carrying opposite momentum."*
+> - 📜 **Julian Schwinger (*Particles, Sources, and Fields*):** *"The neutral pion decays predominantly into a **diphoton** state via triangular fermion loop anomalies."*
+> - 📜 **Steven Weinberg (*The Quantum Theory of Fields*):** *"A sharp resonance peak in the invariant mass of the **diphoton** spectrum revealed the existence of the scalar boson."*

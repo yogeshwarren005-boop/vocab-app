@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the variously ranked group Actinopoda of protozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the variously ranked group Actinopoda of protozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any protist characterized by stiff radiating pseudopodia (axopodia), including radiolarians and heliozoans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoan morphology, a spherical or amoeboid single-celled organism supported by internal micro-tubular axonemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinopod designates any member of the variously ranked group actinopoda of protozoa."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Protozoa through Ctenophora*):** *"The floating **actinopod** extends its delicate cytoplasmic spines through the water column to snare passing organic detritus."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Pelagic ecosystems sustain vast populations of **actinopod** organisms whose siliceous remains blanket the ocean abyss."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Axial filaments within each pseudopodium endow the **actinopod** with rigid, star-like mechanical support."*

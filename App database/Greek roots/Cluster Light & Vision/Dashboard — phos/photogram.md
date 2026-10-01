@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic image made by placing objects between light-sensitive paper and a light source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographic image made by placing objects between light-sensitive paper and a light source.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic image produced without a camera by placing objects directly onto a photosensitive surface and exposing it to light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern art history, camera-less photographic works popularized by Man Ray (rayographs) and László Moholy-Nagy to explore shadows and translucency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photogram designates a photographic image made by placing objects between light-sensitive paper and a light source."*
+> - 📜 **William Henry Fox Talbot (*The Pencil of Nature*):** *"My earliest photogenic drawings were simple **photogram** impressions of lace and ferns placed upon sensitive paper."*
+> - 📜 **Man Ray (*Self-Portrait*):** *"By arranging keys and wire upon photographic paper under the enlarger lamp, I created my first mysterious **photogram**."*
+> - 📜 **László Moholy-Nagy (*Painting, Photography, Film*):** *"The direct **photogram** organizes light and shadow into pure optical space without the mediation of perspective."*

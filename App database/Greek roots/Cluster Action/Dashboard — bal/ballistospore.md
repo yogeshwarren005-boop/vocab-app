@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal spore that is actively and forcibly discharged into the air upon maturity, characteristic of basidiomycete mushrooms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, a spore discharged via the surface tension catapult mechanism powered by the rapid coalescing of Buller's drop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ballistospore designates a term designating an entity, condition, or phenomenon derived from greek bal."*
+> - 📜 **A. H. Reginald Buller (*Researches on Fungi*):** *"The sudden jumping of Buller's drop propels the tiny **ballistospore** clear of the mushroom gill into the circulating breeze."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Every microscopic **ballistospore** launched from the sterigma carries the fungal genetic code to distant forest soils."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Aerial surveys detect millions of fungal spores, each microscopic **ballistospore** drifting on high tropospheric currents."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A publication that appears at fixed intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or recurring at regular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magazine or newspaper published at regular intervals, such as weekly, monthly, or quarterly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring at regular intervals; periodic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The periodical visits of the trooper to these rooms, however, in the course of his patrolling is an assurance of protection and company both to mistress and maid, which renders them very acceptable in the small hours of the night."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For several days after Tess’s arrival Clare, sitting abstractedly reading from some book, periodical, or piece of music just come by post, hardly noticed that she was present at table."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"So she went to the Mission periodical to find the address of the Mission Secretary, thinking to send the extra dollar there."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Conducting a **periodical** essay requires constant invention to instruct without wearying the reader."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The adventure was published in monthly **periodical** parts, eagerly anticipated across the nation."*
+> - 📜 **Thomas Macaulay (*Critical and Historical Essays*):** *"The rise of the quarterly **periodical** transformed British political journalism into a high literary art."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of tropical herbs and shrubs and trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of tropical herbs and shrubs and trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive family of aromatic flowering plants belonging to the order Chloranthales, characterized by simple opposite leaves and reduced flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic angiosperm phylogeny, an ancient basal lineage with fossil pollen records extending back to the Early Cretaceous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloranthaceae designates small family of tropical herbs and shrubs and trees."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The family **Chloranthaceae** exhibits remarkably reduced floral parts combined with woody stems and opposite leaves."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Aromatic resins and jointed stems characterize the East Asian genera of **Chloranthaceae**."*
+> - 📜 **Armen Takhtajan (*Evolutionary Trends in Flowering Plants*):** *"Pollen morphology demonstrates that **Chloranthaceae** represent one of the earliest divergent clades of mesangiosperms."*

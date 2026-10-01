@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to actinometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to actinometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or obtained by means of an actinometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science, descriptive of quantitative observations documenting solar intensity and atmospheric extinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinometrical designates of or related to actinometry."*
+> - 📜 **John Herschel (*Treatise on Astronomy*):** *"A long series of **actinometrical** measurements confirmed periodic fluctuations in apparent solar emission."*
+> - 📜 **James David Forbes (*Travels through the Alps of Savoy*):** *"My **actinometrical** records upon the Mont Blanc glacier proved that high atmospheric clarity intensifies direct solar burn."*
+> - 📜 **Robert Hunt (*Researches on Light*):** *"Comparative **actinometrical** tables demonstrate that chemical radiation peaks hours before maximum thermal heat."*

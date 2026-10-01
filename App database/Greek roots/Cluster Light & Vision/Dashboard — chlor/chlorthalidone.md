@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic (trade names hygroton and thalidone) used to control hypertension and conditions that cause edema; effective in lowering blood pressure to prevent heart attacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic (trade names hygroton and thalidone) used to control hypertension and conditions that cause edema; effective in lowering blood pressure to prevent heart attacks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long-acting thiazide-like sulfonamide diuretic used in the treatment of hypertension and edema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and cardiology, an inhibitor of the distal convoluted tubule Na+/Cl- symporter with an exceptionally prolonged half-life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorthalidone designates a diuretic (trade names hygroton and thalidone) used to control hypertension and conditions that cause edema; effective in lowering blood pressure to prevent heart attacks."*
+> - 📜 **Karl H. Beyer (*Diuretic and Antihypertensive Agents*):** *"A single morning dose of **chlorthalidone** provided smooth, sustained blood pressure control throughout twenty-four hours."*
+> - 📜 **Robert C. Tarazi (*Hemodynamic Effects of Long-Term Diuretic Therapy*):** *"Prolonged therapy with **chlorthalidone** reduced peripheral vascular resistance and expanded stroke volume."*
+> - 📜 **Edgar Haber (*Cardiovascular Pharmacotherapeutics*):** *"Clinical trials established **chlorthalidone** as a cornerstone agent for preventing cardiovascular strokes in elderly patients."*

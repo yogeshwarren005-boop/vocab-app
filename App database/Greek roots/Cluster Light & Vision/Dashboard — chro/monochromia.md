@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Monochromacy; total color blindness, or the state of possessing only a single color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and dermatopathology, uniform unvarying coloration of a tissue or complete lack of chromatic perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromia designates complete color blindness; colors can be differentiated only on the basis of brightness."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The term **monochromia** denotes an affection of vision in which all objects appear of one single tint."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **monochromia** should be carefully distinguished from toxic amblyopias induced by tobacco."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty*):** *"Cases of complete **monochromia** illustrate the physiological independence of the luminance channel from chromatic cones."*

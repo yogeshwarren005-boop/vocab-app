@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by complete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by complete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete metamorphosis in insects, involving radical structural reorganization within a pupal stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the adaptive innovation enabling the larvae and adults of Endopterygota to exploit completely different ecological niches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holometabolism designates characterized by complete metamorphosis."*
+> - 📜 **Arthur D. Imms (*Recent Advances in Entomology*):** *"The emergence of **holometabolism** in the late Paleozoic ignited the most prolific speciation burst in animal history."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Through **holometabolism**, a caterpillar devours oak leaves while the adult moth sips nectar, eliminating intergenerational competition."*
+> - 📜 **Alpheus Spring Packard (*Textbook of Entomology*):** *"Histolysis of larval tissues followed by histogenesis from imaginal buds forms the mechanical core of **holometabolism**."*

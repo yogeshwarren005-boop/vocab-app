@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not standing for something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not standing for something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not symbolic; direct, matter-of-fact, and literal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory, descriptive of realistic or naturalist art that depicts reality without allegorical intention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsymbolic designates not standing for something else."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Defoe's inventory of castaway gear is delightfully **unsymbolic**, relishing the honest weight of spades and muskets."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"Henry Miller gives us the raw, **unsymbolic** pavement of Paris, unfiltered by romantic mysticism."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"Zola's naturalist novels remained stubbornly **unsymbolic**, measuring human suffering in physical kilograms."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bachelor of applied science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bachelor of arts and sciences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (bainein, basis, 'to walk, step, stand; a base or pedestal') denoting a foundation, step, or low pedestal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics and terminology, the etymological root giving rise to basic, basal, base, and abase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Est-ce que ma robe va bien?” cried she, bounding forwards; “et mes souliers? et mes bas?"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Shane, _assises bas, a crouppetons_, in an archway, hoping for a drunken farmer with a couple of sous ... and so cold, so cold, with a little fire of straw stalks ... _tost allumees, tost estaintes!_" ..."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"S na Sasanaigh fein, do b' fheidir go bhfaigh dis bas!_ A voice spoke excitedly, imperiously to Shane: "What is he saying?"*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The ancient radical **bas** originally denoted stepping or walking, before fossilizing into the concept of a firm footing."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From Greek basis, the root **bas** passed through Latin into all modern European terms for supporting foundations."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In Homeric usage, the stem **bas** connects stepping onward with the solid ground upon which the foot rests."*

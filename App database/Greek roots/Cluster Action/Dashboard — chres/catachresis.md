@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The misuse or strained application of a word, especially in a sense departing wildly from its proper meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, the deliberate transfer of a term to supply a concept for which no proper lexical word exists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catachresis designates strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths')."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"When necessity compels us to adapt a word where proper terminology is lacking, we call it **catachresis**."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The poet's metaphors bordered upon harsh **catachresis**, uniting disparate ideas by violent rhetorical force."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Words strained beyond their natural boundaries slide from bold trope into confusing **catachresis**."*

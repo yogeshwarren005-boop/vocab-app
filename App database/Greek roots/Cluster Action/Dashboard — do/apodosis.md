@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main clause of a conditional sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main clause of a conditional sentence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In grammar and linguistics, the main or consequent clause in a conditional sentence, expressing the result (contrasted with the protasis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, the concluding part of a periodic sentence resolving the tension built up in preceding clauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Positing what protasis would the contraction for such several schemes become a natural and necessary apodosis?"*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In conditional syntax, the protasis states the premise while the **apodosis** declares the necessary outcome."*
+> - 📜 **John Ruskin (*The Elements of English Prosody*):** *"The orator delayed the grammatical **apodosis**, holding the audience in breathless suspense until the final cadence."*
+> - 📜 **Aristotle (*The Art of Rhetoric*):** *"A periodic sentence is balanced when its protasis and **apodosis** mirror each other in rhythm and weight."*

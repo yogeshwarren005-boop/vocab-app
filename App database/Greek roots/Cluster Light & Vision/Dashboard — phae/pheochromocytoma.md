@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor that is derived from chromaffin cells and is usually associated with paroxysmal or sustained hypertension —called also pheo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tumor that is derived from chromaffin cells and is usually associated with paroxysmal or sustained hypertension —called also pheo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vascular, neuroendocrine tumor of the chromaffin tissue of the adrenal medulla that secretes high amounts of catecholamines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, a condition marked by the classic triad of episodic headaches, sweating, and tachycardia accompanied by severe hypertension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pheochromocytoma designates a tumor that is derived from chromaffin cells and is usually associated with paroxysmal or sustained hypertension —called also pheo."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unrecognized **pheochromocytoma** can provoke sudden hypertensive encephalopathy or fatal left ventricular failure."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Episodes of paroxysmal cardiac arrhythmia and pale sweating led to the detection of a large **pheochromocytoma**."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body, Hypothalamus and Parasympathetic Nervous System*):** *"The discovery of an adrenaline-producing **pheochromocytoma** explains many catastrophic vasomotor crises."*

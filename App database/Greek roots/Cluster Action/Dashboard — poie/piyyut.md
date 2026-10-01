@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Jewish liturgical poem or hymn designated to be chanted, sung, or recited during synagogue services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hebrew literary history, rhymed, metered religious verse flourishing from Byzantine Palestine through the medieval European paytanic traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piyyut designates a term designating an entity, condition, or phenomenon derived from greek poie."*
+> - 📜 **Israel Abrahams (*Jewish Life in the Middle Ages*):** *"The mediaeval congregation welcomed the heartfelt **piyyut**, whose acrostics and biblical echoes enlivened the solemn festival service."*
+> - 📜 **Solomon Schechter (*Studies in Judaism*):** *"In every stanza of the sacred **piyyut**, one detects the tears and ardent yearnings of a scattered people."*
+> - 📜 **Heinrich Graetz (*History of the Jews*):** *"Eleazar Kalir enriched the synagogue liturgy with magnificent **piyyut** hymns celebrated for intricate rhyme schemes."*

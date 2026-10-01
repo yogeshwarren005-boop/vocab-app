@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dynamic quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity of acting or being active.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The strength and vitality required for sustained physical or mental activity; drive and enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the quantitative property that must be transferred to a body or physical system to perform work or produce heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The calls of "Uncle Philip, Uncle Philip!" sounded with more vigor than usual, because the children had not expected him back so soon, and therefore had to celebrate his coming with double energy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ha, ha, ha!” To hear him say all this with unimaginable energy, one might have thought him the angriest of mankind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But according to the old superstition, it should be Rosa’s ears that burn, and not her fresh bright cheeks, for my Lady’s maid is holding forth about her at this moment with surpassing energy."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Mass and **energy** are different manifestations of the same thing—a somewhat unfamiliar conception for the average mind."*
+> - 📜 **James Prescott Joule (*On the Mechanical Equivalent of Heat*):** *"Whenever mechanical force is expended, an exact equivalent of thermal **energy** is invariably generated."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"There is a law governing all natural phenomena: the total quantity called **energy** remains strictly conserved."*

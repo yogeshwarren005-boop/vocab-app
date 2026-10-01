@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of look at, examine, view, observe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of look at, examine, view, observe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to an episcope or to optical projection by means of reflected light from opaque objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopy and industrial metrology, designating surface illumination systems where light is directed onto the top surface of an opaque sample rather than transmitted through it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcopic designates adjective*) pertaining to, derived from, or characteristic of look at, examine, view, observe."*
+> - 📜 **Ernst Abbe (*Contributions to the Theory of the Microscope*):** *"Opaque metal alloys require specialized **episcopic** illumination to reveal their crystalline microstructures."*
+> - 📜 **William Henry Bragg (*The Universe of Light*):** *"With an **episcopic** projection arrangement, printed pages and relief drawings are easily displayed without chemical transparency."*
+> - 📜 **C. V. Boys (*Soap-Bubbles and the Forces Which Mould Them*):** *"The delicate iridescent interference patterns of thin films are best observed under direct **episcopic** lighting."*

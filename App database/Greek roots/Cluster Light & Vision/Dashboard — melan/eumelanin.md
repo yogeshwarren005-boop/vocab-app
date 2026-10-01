@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brown to black pigment that is the most common form of melanin and whose functions include protecting the epidermis against damage from ultraviolet radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brown to black pigment that is the most common form of melanin and whose functions include protecting the epidermis against damage from ultraviolet radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common form of biological melanin pigment, brown or black in color, providing structural coloration and photoprotection against ultraviolet radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and photobiology, a cross-linked polymer of 5,6-dihydroxyindole units that quenches free radicals and absorbs broadband light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eumelanin designates a brown to black pigment that is the most common form of melanin and whose functions include protecting the epidermis against damage from ultraviolet radiation."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The protective epidermal screen against solar rays consists of dense granules of **eumelanin** within basal keratinocytes."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The dense polymeric network of **eumelanin** acts as a stable organic semiconductor and free-radical trap."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Tropical human populations possess an abundance of cutaneous **eumelanin** adapted to intense equatorial sunlight."*

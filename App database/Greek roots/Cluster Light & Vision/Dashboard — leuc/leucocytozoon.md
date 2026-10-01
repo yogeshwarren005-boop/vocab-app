@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic in birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic in birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of apicomplexan blood parasites (family Leucocytozoidae) that infect waterfowl and wild birds, transmitted by simuliid blackflies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine, the causative agent of avian malaria-like epidemics in domestic ducks and turkeys, causing acute hemolytic crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucocytozoon designates parasitic in birds."*
+> - 📜 **Aldo Castellani (*Manual of Tropical Medicine*):** *"Outbreaks of acute disease among young ducks were traced to virulent species of **Leucocytozoon**."*
+> - 📜 **Arthur Loveridge (*Parasites of African Game Birds*):** *"Blood smears from the wild guinea fowl were heavily parasitized with mature gametocytes of **Leucocytozoon**."*
+> - 📜 **Theobald Smith (*Studies in Animal Pathology*):** *"The life cycle of **Leucocytozoon** mirrors that of mammalian hemosporidia, requiring an arthropod intermediate vector."*

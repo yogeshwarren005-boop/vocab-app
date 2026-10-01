@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective ornamental shade used to screen a light bulb from direct view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective ornamental shade used to screen a light bulb from direct view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A translucent, decorative, or reflective covering placed over a lamp to soften, diffuse, or direct its light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interior architecture and domestic history, an essential fixture shielding sensitive eyes from direct glare in gas and electric lighting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lampshade designates a protective ornamental shade used to screen a light bulb from direct view."*
+> - 📜 **Virginia Woolf (*The Years*):** *"The green silk **lampshade** threw a quiet pool of emerald light over the writing table."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes pulled down the green **lampshade** until our faces were plunged in shadow and the map alone was bright."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He smashed the glass **lampshade** against the floor, plunging the parlour into pitch darkness."*

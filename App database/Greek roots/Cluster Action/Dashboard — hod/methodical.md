@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by method and orderliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by method and orderliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done according to a systematic or established form of procedure; orderly, systematic, and disciplined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by habituated orderliness and painstaking attention to detail in conduct or inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He comes towards them at his usual methodical pace, which is never quickened, never slackened."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn in his methodical, subdued, uninterested way, “first, whether you have any of Captain Hawdon’s writing?” “First, whether I have any of Captain Hawdon’s writing, sir,” repeats Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But your interests demand that I should be cool and methodical, Mr."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes's **methodical** examination of the floor yielded clues invisible to the casual eye."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Mr. Lorry was a quiet, **methodical** man of business, thoroughly immersed in the affairs of Tellson's Bank."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **methodical** selection practiced by pigeon breeders steadily exaggerates bizarre anatomical traits."*

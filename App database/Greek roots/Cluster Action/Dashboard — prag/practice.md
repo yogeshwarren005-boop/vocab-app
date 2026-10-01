@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out, apply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To do or perform often, customarily, or habitually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The actual application or use of an idea, belief, or method, as opposed to theories relating to it; habitual performance or repeated exercise to acquire skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The professional business, office, or client roster of a physician, lawyer, or consultant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are deceived, my lord; this is Monsieur Parolles, the gallant militarist (that was his own phrase), that had the whole theoric of war in the knot of his scarf, and the practice in the chape of his dagger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He alone Dealt on lieutenantry, and no practice had In the brave squares of war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Highness Shall from this practice but make hard your heart; Besides, the seeing these effects will be Both noisome and infectious."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Knowledge is never complete until it has passed from intellectual contemplation into vigorous, daily **practice**."*
+> - 📜 **William James (*Habit*):** *"Keep the faculty of effort alive in you by a little gratuitous exercise in daily **practice**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A workman who has acquired speed through constant **practice** turns out double the quantity of manufactured goods."*

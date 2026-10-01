@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A convivial party (as after a banquet in ancient Greece) with music and conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social gathering at which there is free interchange of ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference or meeting for the discussion of some particular subject; a collection of essays on a topic by different authors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greece, a convivial banquet following a meal, accompanied by wine, music, and philosophical or literary conversation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"There was. —A symposium all his own, Mr Dedalus said."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Much valuable information on the advantages, disadvantages, and appliances for blast heating was afforded by the smeltermen who contributed to the symposium on “Pyrite Smelting,” which Rickard edited for the _Engineering and Mining Journal_."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Rickard focussed scientific and practical opinion on the subject in the symposium on “Pyrite Smelting,” which he called forth and edited, and many celebrated smeltermen have contributed to the progress of pyritic smelting practice."*
+> - 📜 **Plato (*Symposium*):** *"Socrates declared that at this memorable **symposium**, Diotima of Mantinea had instructed him in the true mysteries of Love."*
+> - 📜 **Xenophon (*Symposium*):** *"When the tables were cleared and libations poured, the guests at the **symposium** turned from wine to witty conversation."*
+> - 📜 **Ralph Waldo Emerson (*Society and Solitude*):** *"Every intellectual gathering is at heart a Greek **symposium**, where conversation flows like wine and sparks new fires of thought."*

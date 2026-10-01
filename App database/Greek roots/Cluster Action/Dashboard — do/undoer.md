@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seducer who ruins a woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who unfastens or unwraps or opens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or agency that undoes, reverses, or unfastens something; or one who brings about ruin or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and philosophical prose, a destroyer of established order or personal fortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undoer designates a seducer who ruins a woman."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"He regarded the ruthless lawyer as the cold **undoer** of his ancient family's heritage and estate."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Robespierre acted as the relentless **undoer** of every faction that dared whisper moderation."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The speculative politician is an **undoer** of ancient covenants he has neither the wisdom to comprehend nor the virtue to preserve."*

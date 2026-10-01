@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron composed of two identical parallel polygon bases connected by an alternating band of surrounding triangles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In three-dimensional Euclidean geometry and structural chemistry, a uniform polyhedron (such as the square antiprism found in eight-coordinate coordination complexes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiprism designates a term designating an entity, condition, or phenomenon derived from greek prism."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"By twisting the upper base through half an angle, the prism transforms into a beautiful Archimedean **antiprism**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The coordination sphere of the heavy zirconium ion adopts the geometry of a distorted square **antiprism**."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The alternating triangular faces of the **antiprism** ensure structural rigidity absent from right prisms."*

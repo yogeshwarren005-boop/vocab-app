@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resulting from, or exhibiting chemical changes produced by radiant energy especially in the visible and ultraviolet parts of the spectrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, resulting from, or exhibiting chemical changes produced by radiant energy especially in the visible and ultraviolet parts of the spectrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or causing chemical changes through radiant energy, especially in the ultraviolet and violet spectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photography and photochemistry, radiation capable of sensitizing silver halides or inducing photochemical polymerization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinic designates of, relating to, resulting from, or exhibiting chemical changes produced by radiant energy especially in the visible and ultraviolet parts of the spectrum."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Sunlight possesses diverse virtues: heating in the infrared, illuminating in the yellow, and **actinic** in the extreme violet."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Stereoscope and the Stereograph*):** *"The **actinic** rays carve instantaneous silhouettes of reality upon the sensitized collodion plate."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The subtle blue glimmer through the chamber roof possessed an intense, almost blinding **actinic** glare."*

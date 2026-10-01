@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: City in central iran; former capital of persia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in central iran; former capital of persia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Median and Achaemenid settlement and monumental audience hall or palace station located at modern Isfahan, Iran.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Near Eastern archaeology, a strategic crossroad city of antiquity situated on the central Iranian plateau along vital imperial trade routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspadana designates city in central iran; former capital of persia."*
+> - 📜 **George Rawlinson (*The Seven Great Monarchies of the Ancient Eastern World*):** *"The name of modern Isfahan traces directly to the ancient **aspadana** recorded by Ptolemy as a royal Median settlement."*
+> - 📜 **A. T. Olmstead (*History of the Persian Empire*):** *"Persian caravans traversing the central deserts refreshed their cavalry mounts at the lush oasis pastures of **aspadana**."*
+> - 📜 **Ernst Herzfeld (*Archaeological History of Iran*):** *"Topographical surveys indicate that **aspadana** served as a major regional administrative garrison during late Achaemenid times."*

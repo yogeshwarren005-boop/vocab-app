@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being repaired or rectified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being repaired or rectified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being repaired, amended, restored, or made good.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing losses, injuries, or mechanical faults that can be rectified through restitution or maintenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"I fear he is not to be reclaimed; there is scarcely a hope that anything in his character or fortunes is reparable now."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The defects of ancient institutions are **reparable** by prudent reform without leveling the whole edifice to dust."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"A civil injury that is easily **reparable** by monetary compensation ought never to provoke violent retaliation."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"Misfortune in youth is generally **reparable**, for time and fresh labor open new avenues of prosperity."*

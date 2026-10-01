@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish discoloration of degenerating tissues, especially skin, or yellowish pigmentation occurring in morbid tissues or tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary pathology and histology, a benign condition characterized by the abnormal deposition of brown-yellow lipofuscin or carotenoid pigments in the musculature and adrenal cortex of cattle and horses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthosis designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Degenerating parenchymatous cells exhibit retrograde changes leading to yellow fatty infiltration and **xanthosis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain diabetic patients display a conspicuous golden **xanthosis** of the palms and soles due to lipochrome retention."*
+> - 📜 **Theobald Smith (*Studies in Animal Pathology*):** *"Post-mortem inspection of elderly bovines frequently reveals marked **xanthosis** of the cardiac muscle and renal cortex."*

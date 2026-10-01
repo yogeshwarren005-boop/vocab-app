@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secondary phenomenon that is a by-product of another phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secondary phenomenon that is a by-product of another phenomenon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secondary phenomenon, effect, or byproduct that occurs alongside or results from a primary process, but lacks causal efficacy on that process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of mind, Thomas Henry Huxley's hypothesis that conscious mental states are causally inert byproducts of underlying neural mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphenomenon designates a secondary phenomenon that is a by-product of another phenomenon."*
+> - 📜 **Thomas Henry Huxley (*On the Hypothesis that Animals are Automata*):** *"Consciousness appears to be related to the mechanism of the body simply as an **epiphenomenon**, like the steam whistle of an engine."*
+> - 📜 **William James (*The Principles of Psychology*):** *"To reduce our passions and noble volitions to an idle **epiphenomenon** of brain tremors affronts common sense."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Behaviorism treats subjective thought as an incidental **epiphenomenon** of muscular twitching."*

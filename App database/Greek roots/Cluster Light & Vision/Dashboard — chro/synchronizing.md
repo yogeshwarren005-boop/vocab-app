@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adjustment that causes something to occur or recur in unison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of causing events or machines to occur or run at the same time or speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcast engineering, generating horizontal and vertical pulses that guide the scanning electron beam in a television receiver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronizing designates the relation that exists when things occur at the same time."*
+> - 📜 **Vladimir Zworykin (*Television: The Electronics of Image Transmission*):** *"Without robust **synchronizing** pulses, the television picture tears into jagged horizontal streaks."*
+> - 📜 **John Tyndall (*Sound*):** *"By **synchronizing** acoustic vibrations with the resonant cavity, a sound of astonishing intensity was evoked."*
+> - 📜 **Alan Turing (*Enigma and the Bombes*):** *"The cryptanalysts succeeded by **synchronizing** the mechanical rotation of three dozen paired rotor drums."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of things from which only one can be chosen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that is or may be chosen; the freedom or right to choose from alternatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance and contract law, a privilege sold by one party to another giving the buyer the right to purchase or sell an asset at a set price.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Still, in most countries and in most states in America, the worker has the option of suing under the old law."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The amount to be contributed by each citizen will in a degree be at his own option, and can be regulated by an attention to his resources."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let us recollect that peace or war will not always be left to our option; that however moderate or unambitious we may be, we cannot count upon the moderation, or hope to extinguish the ambition of others."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The citizens had no other **option** than to ratify the constitution or dissolve the confederacy into warring factions."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The tenant retained the legal **option** to purchase the freehold upon the expiration of his lease."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king was left without an **option**, compelled to assent to the terms imposed by parliament."*

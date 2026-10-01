@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of look at, examine, view, observe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of look at, examine, view, observe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to diascopic illumination or diascopy, the examination of specimens or skin lesions by transmitted light or through transparent pressure plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and microscopy, relating to the technique of pressing a glass slide against erythematous skin to differentiate simple vascular dilatation from extravasated purpura.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diascopic designates adjective*) pertaining to, derived from, or characteristic of look at, examine, view, observe."*
+> - 📜 **Robert Willan (*On Cutaneous Diseases*):** *"Under **diascopic** examination with a flat glass plate, the inflammatory blush blanches completely, while petechial hemorrhages remain visible."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The characteristic apple-jelly nodules of lupus vulgaris are best revealed through **diascopic** pressure on the lesion."*
+> - 📜 **Thomas Addison (*A Collection of the Published Writings*):** *"By employing a **diascopic** method, the physician readily determines whether the vascularity of the macule is active or passive."*

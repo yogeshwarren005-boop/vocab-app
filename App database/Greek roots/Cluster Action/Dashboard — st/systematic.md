@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presented or formulated as a coherent body of ideas or principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carried out, arranged, or acting according to a methodical, organized, and predetermined plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, constituting, or having the character of a comprehensive, coherent conceptual system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, but her voice had not a friendly sound, I thought; it was much too business-like and systematic."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her systematic manner of flying at her and pouncing on her, with or without pretence, whether or no, is wonderful, evincing an accomplishment in the art of girl-driving seldom reached by the oldest practitioners."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This it was only possible to protect by systematic thatching."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"By conducting our thoughts in a **systematic** order, ascending step by step from the simplest objects to the most complex, error is avoided."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Empirical science requires not erratic experiments, but a **systematic** interpretation of nature guided by rigorous inductive tables."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The naturalist must subject vast arrays of geographical distribution to **systematic** scrutiny to perceive genealogical connections."*

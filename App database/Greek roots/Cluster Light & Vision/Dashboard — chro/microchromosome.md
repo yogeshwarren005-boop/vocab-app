@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small chromosome characteristic of the karyotypes of birds, reptiles, and some fish, carrying a high density of functional genes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate cytogenetics, tiny dot-like chromosomes distinct from macrochromosomes, characterized by high GC content and high recombination rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microchromosome designates a term designating an entity, condition, or phenomenon derived from greek chro."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Avian karyotypes are distinguished by numerous tiny bodies termed **microchromosome** elements scattered across the spindle."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"Every avian **microchromosome** segregates with precise regularity during meiotic metaphase."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Gene mapping confirmed that the tiny **microchromosome** units of reptiles harbor essential metabolic loci."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prismatoid having an equal number of vertices in each of its two parallel planes, with quadrilateral or triangular lateral faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering and mensuration, a solid whose volume in railway excavations and canal embankments is computed via the prismoidal formula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prismoid designates a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms."*
+> - 📜 **Allen Hazen (*Earthwork Computations*):** *"Engineers employ the **prismoid** formula to avoid costly overestimation of excavated soil along railway cuttings."*
+> - 📜 **William Whewell (*An Elementary Treatise on Mechanics*):** *"The center of gravity of a homogeneous **prismoid** is readily obtained by integrating across parallel sections."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Certain hemimorphic crystals develop **prismoid** terminations that differ markedly at opposite poles."*

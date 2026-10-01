@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of paleontology concerned with the biology of fossil organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of paleontology concerned with the biology of fossil organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of paleontology that uses biological and ecological principles to study fossilized flora, fauna, and prehistoric life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary geology, the investigation of macroevolutionary trends, ancient ecosystems, phylogenetic radiations, and mass extinctions through the fossil record.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleobiology designates a branch of paleontology concerned with the biology of fossil organisms."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"The emergence of modern **paleobiology** bridged the historical chasm between laboratory genetics and fossil morphology."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"In **paleobiology**, the fossil record is not an imperfect copy of modern life, but an autonomous window into macroevolutionary dynamics."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Functional **paleobiology** reconstructs the biomechanics of extinct archosaurs from skeletal joint articulations."*

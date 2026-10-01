@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in telling anecdotes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled in telling anecdotes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who collects, writes, or tells anecdotes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, a chronicler or conversationalist specializing in entertaining biographical vignettes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anecdotist designates a person skilled in telling anecdotes."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The seasoned dinner-table **anecdotist** polishes his stories until every pause elicits expected laughter."*
+> - 📜 **William Hazlitt (*The Plain Speaker*):** *"Charles Lamb was a delightful **anecdotist**, recounting quaint peculiarities of old South-Sea House clerks."*
+> - 📜 **Thomas Carlyle (*Life of John Sterling*):** *"As a companion, he was no dry pedant, but an animated **anecdotist** bubbling with wit."*

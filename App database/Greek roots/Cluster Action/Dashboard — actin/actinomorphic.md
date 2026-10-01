@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being radially symmetrical and capable of division by any longitudinal plane into essentially symmetrical halves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being radially symmetrical and capable of division by any longitudinal plane into essentially symmetrical halves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having radial symmetry, such that the body or floral structure can be divided into identical halves along multiple radial planes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology, regular flowers such as buttercups or lilies that possess symmetrical perianth arrangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomorphic designates being radially symmetrical and capable of division by any longitudinal plane into essentially symmetrical halves."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The regular, star-shaped blossoms of the rose are strictly **actinomorphic**, contrasting with bilaterally symmetric orchids."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"An **actinomorphic** corolla displays equal segments arrayed equidistant from the floral receptacle center."*
+> - 📜 **Arthur Cronquist (*The Evolution and Classification of Flowering Plants*):** *"Primitive angiosperms generally possessed **actinomorphic** blossoms pollinated by generalist foraging beetles."*

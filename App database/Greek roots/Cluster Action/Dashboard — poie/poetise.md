@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose verses or put into verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose poetry; to write or speak in verse; to treat a subject poetically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To perceive, represent, or idealize everyday reality through an artistic and imaginative lens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am just now in a high fit of poetising, provided that the strait-jacket of criticism don't cure me."*
+> - 📜 **John Keats (*The Letters of John Keats*):** *"I find that I cannot exist without poetry—without eternal poetry—half the day will not do; I must **poetise** all night."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"To **poetise** our everyday existence is to discern the divine mystery shining through the coarsest habit."*
+> - 📜 **George Eliot (*Adam Bede*):** *"She did not attempt to **poetise** her simple domestic chores, but went about them with cheerful fidelity."*

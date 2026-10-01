@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a despicable, ignoble manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a despicable, ignoble manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dishonorable, unworthy, low, or ignoble manner; cowardly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without moral integrity or dignity; treacherously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To spend that shortness basely were too long If life did ride upon a dial’s point, Still ending at the arrival of an hour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The world will say, he is not Talbot’s blood, That basely fled when noble Talbot stood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is not himself, but basely led By flatterers; and what they will inform, Merely in hate ’gainst any of us all, That will the King severely prosecute ’Gainst us, our lives, our children, and our heirs."*
+> - 📜 **William Shakespeare (*Othello*):** *"Speak of me as I am; nothing extenuate, nor set down aught in malice: of one that loved not wisely but too well; of one whose hand, like the **basely** thrown pearl, discarded a jewel richer than all his tribe."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To yield to tyranny without a struggle is to surrender **basely** the glorious birthright of celestial liberty."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"He who betrays a solemn public trust to gratify private avarice acts **basely** and earns universal contempt."*

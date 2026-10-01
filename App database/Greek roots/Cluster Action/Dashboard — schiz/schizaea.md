@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the schizaeaceae cosmopolitan especially in tropics; small leptosporangiate ferns: curly grass fern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the schizaeaceae cosmopolitan especially in tropics; small leptosporangiate ferns: curly grass fern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the fern family Schizaeaceae, commonly known as curly grass ferns, characterized by small, grass-like fronds and comb-like fertile lobes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, primitive leptosporangiate ferns native to acidic peat bogs, renowned for their minimalist morphology and solitary terminal sporangia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizaea designates type genus of the schizaeaceae cosmopolitan especially in tropics; small leptosporangiate ferns: curly grass fern."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The curious little curly-grass fern, **Schizaea** pusilla, lurks among the mosses of the pine barrens of New Jersey."*
+> - 📜 **John Torrey (*Flora of the Northern and Middle Sections of the United States*):** *"Finding the diminutive fertile fronds of **Schizaea** in a sphagnous swamp rewards the keenest botanical collector."*
+> - 📜 **Nathaniel Lord Britton (*Illustrated Flora of the Northern United States*):** *"The genus **Schizaea** represents a remarkably primitive fern type with linear leaves and pinnate fertile spikes."*

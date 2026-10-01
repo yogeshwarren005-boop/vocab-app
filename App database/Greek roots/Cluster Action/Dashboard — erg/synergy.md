@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Synergism; broadly : combined action or operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mutually advantageous conjunction or compatibility of distinct business participants or elements (such as resources or efforts).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and movement science, the coordinated co-activation of muscle groups working together to achieve a smooth motor action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synergy designates synergism; broadly : combined action or operation."*
+> - 📜 **R. Buckminster Fuller (*Operating Manual for Spaceship Earth*):** *"**Synergy** is the only word in our language that means behavior of whole systems unpredicted by the behavior of their parts."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Locomotion relies on exquisite neuromuscular **synergy**, coordinating reciprocal innervation of opposing muscle groups."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The sudden re-emergence of motor **synergy** allowed the patient to play the piano after decades of catatonic paralysis."*

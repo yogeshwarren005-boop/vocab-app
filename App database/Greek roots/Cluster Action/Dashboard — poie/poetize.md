@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose verses or put into verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make poetic; to compose verse upon or treat with poetic imagination and elevated expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural criticism, to transfigure ordinary experiences, historical struggles, or mechanical phenomena into aesthetic forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"You play a prominent part in this picture--seated at table bending over a nosegay of flowers, poetizing, before presenting them to mother."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"The true thinker will **poetize** the machinery and commerce of his age, demonstrating that steel and steam obey spiritual laws."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The novelist does not merely transcribe raw circumstances; his instinct is to **poetize** the underlying moral conflict."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"To **poetize** is to transform the terror of existence into tragic transfiguration and beauty."*

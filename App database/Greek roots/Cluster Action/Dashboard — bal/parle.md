@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: parley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French is spoken here.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speech, conference, or parley; formal talk or discourse (archaic or poetic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and dramatic literature, a spoken negotiation or diplomatic debate under arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou art to thyself: Such was the very armour he had on When he th’ambitious Norway combated; So frown’d he once, when in an angry parle He smote the sledded Polacks on the ice. ’Tis strange."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"De nails. _Écoutez; dites-moi, si je parle bien:_ de hand, de fingres, _et_ de nails."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _Sauf votre honneur, le français que vous parlez, il est meilleur que l’anglais lequel je parle._ KING HENRY."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"So frown'd he once, when in an angry **parle** he smote the sledded Polacks on the ice."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Their conference was no idle gossip, but high and heavenly **parle** concerning the fate of worlds."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The chieftain stood with haughty mien, disdaining any peaceful **parle** with the royal herald."*

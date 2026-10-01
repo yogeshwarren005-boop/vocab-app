@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an eon of geologic history that comprises the Paleozoic, Mesozoic, and Cenozoic or the corresponding systems of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an eon of geologic history that comprises the Paleozoic, Mesozoic, and Cenozoic or the corresponding systems of rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The current geological eon, spanning from approximately 541 million years ago to the present, characterized by abundant visible animal and plant life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geochronology and paleontology, the grand eon following the Cryptozoic (Precambrian), divided into the Paleozoic, Mesozoic, and Cenozoic eras.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phanerozoic designates of, relating to, or being an eon of geologic history that comprises the paleozoic, mesozoic, and cenozoic or the corresponding systems of rocks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The onset of the **Phanerozoic** eon is marked by the sudden appearance of diverse hard-shelled fossils in the Cambrian strata."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The Burgess Shale captures the extraordinary evolutionary explosion that inaugurated the **Phanerozoic** eon."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The fossil record of the **Phanerozoic** chronicles the rise of vertebrate life from primitive fishes to mammals."*

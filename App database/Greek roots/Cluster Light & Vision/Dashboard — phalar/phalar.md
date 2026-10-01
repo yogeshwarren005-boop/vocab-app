@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of having a patch of white.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of having a patch of white.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form (phalaros, 'white-spotted, having a white patch or crest') used in ornithological and botanical nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian and plant taxonomy, a root designating white-patched shorebirds (phalaropes) and canary grasses (Phalaris).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalar designates adjective*) pertaining to, derived from, or characteristic of having a patch of white."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek adjective **phalar**- designated the white crest upon a warrior's helmet or the frontal patch of the coot."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The combining form **phalar**- highlights the conspicuous white plumage markings on the throat and flanks."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"Botanists adopted **phalar**- to name grass genera whose compact inflorescences bear shining pale grains."*

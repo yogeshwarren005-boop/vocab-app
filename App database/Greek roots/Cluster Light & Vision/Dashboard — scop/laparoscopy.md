@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the abdomen by means of a laparoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation (such as tubal ligation or gallbladder removal) involving laparoscopy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical procedure in which a fiber-optic instrument (laparoscope) is inserted through the abdominal wall to view organs or permit minimally invasive surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern surgery, minimally invasive abdominal surgery utilizing carbon dioxide pneumoperitoneum, trocars, and micro-instruments, minimizing trauma and recovery times.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laparoscopy designates visual examination of the abdomen by means of a laparoscope."*
+> - 📜 **Georg Kelling (*Über Oesophagoskopie, Gastroskopie und Kölioskopie*):** *"By introducing a cystoscope through a small trocar into the canine abdomen, I demonstrated the feasibility of diagnostic **laparoscopy**."*
+> - 📜 **Kurt Semm (*Operative Manual of Endoscopic Abdominal Surgery*):** *"The transition from diagnostic inspection to operative **laparoscopy** revolutionized abdominal surgery across the globe."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Performing the gallbladder excision through **laparoscopy** allowed the patient to walk within hours of leaving the operating theater."*

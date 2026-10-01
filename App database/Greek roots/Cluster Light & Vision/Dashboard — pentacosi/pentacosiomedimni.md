@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pentacosi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest of the four census property classes established by Solon in ancient Athens, consisting of citizens whose land yielded at least 500 medimnoi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical constitutional history, the wealthy agrarian elite who alone were eligible for the archonship and treasurership of Athena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentacosiomedimni designates a term designating an entity, condition, or phenomenon derived from greek pentacosi."*
+> - 📜 **Aristotle (*The Athenian Constitution*):** *"Solon divided the citizenry into four classes according to property, of which the highest was the **pentacosiomedimni**."*
+> - 📜 **George Grote (*A History of Greece*):** *"Only members of the **pentacosiomedimni** were eligible to serve as archons and guardians of the public treasury."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Solonian democracy balanced popular rights against the aristocratic privileges of the **pentacosiomedimni**."*

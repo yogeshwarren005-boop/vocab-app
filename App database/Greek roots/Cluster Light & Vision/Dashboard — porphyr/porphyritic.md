@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to porphyry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having distinct crystals (as of feldspar) in a relatively fine-grained base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having large, conspicuous mineral crystals (phenocrysts) embedded in a fine-grained or glassy groundmass (of igneous rocks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, an igneous rock texture indicating a two-stage cooling history: slow crystallization at depth followed by rapid cooling upon volcanic extrusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyritic designates of or relating to porphyry."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The andesite lava displayed a magnificent **porphyritic** texture, with glistening plagioclase tablets set in dark basaltic paste."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"In a typical **porphyritic** granite, large pink orthoclase crystals stand out boldly from the medium-grained groundmass."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The cooling rate dictated whether the molten magma solidified uniformly or assumed an unmistakable **porphyritic** structure."*

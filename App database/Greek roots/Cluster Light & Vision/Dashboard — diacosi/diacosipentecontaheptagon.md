@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek diacosi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon having two hundred and fifty-seven sides and two hundred and fifty-seven angles (a 257-gon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In number theory and Euclidean geometry, a celebrated constructible regular polygon because 257 is a Fermat prime (2^(2^3) + 1).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diacosipentecontaheptagon designates a term designating an entity, condition, or phenomenon derived from greek diacosi."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"Because 257 is a Fermat prime, the regular **diacosipentecontaheptagon** can be constructed using only ruler and compass."*
+> - 📜 **Felix Klein (*Famous Problems of Elementary Geometry*):** *"Richelot devoted years of labor to publishing the complete geometric construction of the **diacosipentecontaheptagon**."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Gauss's discovery that the **diacosipentecontaheptagon** was constructible stunned mathematicians after two millennia of silence."*

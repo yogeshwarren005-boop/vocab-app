@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial bulbous herbs most of northern united states: dogtooth violet; adder's tongue; trout lily; fawn lily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial bulbous herbs most of northern united states: dogtooth violet; adder's tongue; trout lily; fawn lily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spring-flowering perennial woodland plants in the lily family Liliaceae (trout lilies, dogtooth violets); historically, the original name given to vanadium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical horticulture, delicate spring ephemerals with mottled foliage and reflexed petals; in chemical history, Andrés Manuel del Río's 1801 proposed element.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythronium designates perennial bulbous herbs most of northern united states: dogtooth violet; adder's tongue; trout lily; fawn lily."*
+> - 📜 **Andrés Manuel del Río (*Discurso de las Ciencias Naturales*):** *"Because its salts turn red upon heating with acids, I bestowed upon the new Mexican metal the name **erythronium**."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"The delicate yellow bells of **Erythronium** nodded gracefully above the damp carpet of April leaf-mould."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The dog's-tooth violet, classified as **Erythronium**, spreads by deep scaly corms through rich deciduous woods."*

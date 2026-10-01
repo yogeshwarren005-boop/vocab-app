@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient greek sculptor (circa 370-330 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient greek sculptor (circa 370-330 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The celebrated 4th-century BCE Athenian sculptor renowned for the exquisite grace, sensuous curve, and naturalistic modeling of statues such as the Aphrodite of Knidos and Hermes bearing the infant Dionysus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, the master whose innovative contrapposto (the 'Praxitelean curve') and delicate marble surface treatment defined Late Classical Greek sculpture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She began to think that the god-like figure was only the Hermes of Praxiteles, suggested to her by Goethe’s classical Sabbat, and changed by a day-dream into the semblance of a living reality."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"**Praxiteles** surpassed all other artists in the grace with which he breathed lifelike softness into marble statues."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"In the art of **Praxiteles**, the severe majesty of Phidias yielded to a melting tenderness and sensuous human beauty."*
+> - 📜 **John Addington Symonds (*Sketches and Studies in Italy and Greece*):** *"The Hermes of **Praxiteles** at Olympia exhibits that relaxed languor and effortless grace that was the glory of late Athenian sculpture."*

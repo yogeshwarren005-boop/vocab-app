@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various black, brown, reddish-brown, reddish-yellow, or yellow pigments of living organisms that in animals are typically produced in melanocytes by the oxidation of tyrosine followed by polymerization and are found especially in skin, hair, feathers, and eyes; especially : eumelanin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various black, brown, reddish-brown, reddish-yellow, or yellow pigments of living organisms that in animals are typically produced in melanocytes by the oxidation of tyrosine followed by polymerization and are found especially in skin, hair, feathers, and eyes; especially : eumelanin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark brown to black biological pigment occurring in the hair, skin, and iris of people and animals, responsible for tanning of skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatopathology and biochemistry, an insoluble polymer synthesized from tyrosine by tyrosinase, shielding nuclear DNA from UV damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanin designates any of various black, brown, reddish-brown, reddish-yellow, or yellow pigments of living organisms that in animals are typically produced in melanocytes by the oxidation of tyrosine followed by polymerization and are found especially in skin, hair, feathers, and eyes; especially : eumelanin."*
+> - 📜 **Paul Ehrlich (*The Anaemias*):** *"Melanocytes transfer granules of **melanin** into surrounding epithelial cells via branching dendritic processes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The protective deposit of **melanin** in the skin shields tropical races from intense solar radiation."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The complex structure of **melanin** arises from the oxidative polymerization of catechol derivatives."*

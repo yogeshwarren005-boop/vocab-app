@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an embolus or embolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an embolus or embolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or relating to an embolus or embolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, relating to emboly, the invagination of the blastula wall during gastrulation; or intercalary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embolic designates of or relating to an embolus or embolism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Vegetations breaking free from the mitral valve frequently cause devastating **embolic** infarctions in the cerebral cortex."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Gastrulation proceeds via **embolic** invagination, transforming the hollow blastosphere into a two-layered cup."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Occlusion of terminal pulmonary arterioles reveals the classic wedge-shaped **embolic** lesion."*

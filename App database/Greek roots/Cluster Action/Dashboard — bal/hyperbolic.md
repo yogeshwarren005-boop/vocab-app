@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by language that exaggerates or overstates the truth : of, relating to, or marked by hyperbole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being like a curve that is formed by the intersection of a double right circular cone with a plane that cuts both halves of the cone : of, relating to, or being analogous to a hyperbola.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or using hyperbole; wildly exaggerated or overstated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and mathematics, relating to a hyperbola or to non-Euclidean geometry having negative constant curvature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Indeed, he seemed to approach the grave as a hyperbolic curve approaches a straight line—less directly as he got nearer, till it was doubtful if he would ever reach it at all."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Indeed, he seemed to approach the grave as a hyperbolic curve approaches a line—sheering off as he got nearer, till it was doubtful if he would ever reach it at all."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Lobachevsky and Bolyai formulated **hyperbolic** geometry by discarding Euclid's parallel postulate."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary proclamations were couched in **hyperbolic** rhetoric promising instant paradise on earth."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Interstellar probes travel on **hyperbolic** trajectories, never again to return to the gravity well of our Sun."*

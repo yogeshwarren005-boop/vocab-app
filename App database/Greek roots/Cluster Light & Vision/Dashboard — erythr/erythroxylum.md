@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of south american shrubs and small trees of the family erythroxylaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large genus of south american shrubs and small trees of the family erythroxylaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees and shrubs in the family Erythroxylaceae, notably *Erythroxylum coca*, native to South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and medicine, the botanical source of coca leaves containing ecgonine derivatives and alkaloids used for altitude sickness and local anesthesia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroxylum designates a large genus of south american shrubs and small trees of the family erythroxylaceae."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Chewing the dried leaves of **Erythroxylum** sustains the Andean traveler through arduous ascents over freezing mountain passes."*
+> - 📜 **William Henry Prescott (*History of the Conquest of Peru*):** *"Under the Incas, the divine shrub **Erythroxylum** was reserved for the royal family and religious sacrifices."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The genus **Erythroxylum** was named for the reddish hue displayed by the heartwood of its tropical species."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior poet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior poet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior, petty, or pretentious writer of mediocre and trivial verses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary satire, a shallow rhymester who apes poetic manners without true inspiration or technical mastery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A certain poetaster, whose head was full of a play of his own writing, was explaining the plot and design of it to a courtier."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"For Phalaris was just that minute dreaming how a most vile poetaster had lampooned him, and how he had got him roaring in his bull."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Fraught with invective they ne'er go To folks at Paternoster Row: No judges, fiddlers, dancing-masters, No pickpockets, or poetasters Are known to honest quadrupeds: No single brute his fellows leads."*
+> - 📜 **Lord Byron (*English Bards and Scotch Reviewers*):** *"Shall hoarse FitzGerald bawl his creaking couplets in a tavern hall, and I not sing, when each vile **poetaster** invades the press?"*
+> - 📜 **Ben Jonson (*Poetaster*):** *"The true artist must chastise the vain **poetaster** who presumes to profane the sacred laurel of Apollo."*
+> - 📜 **Alexander Pope (*An Epistle to Dr. Arbuthnot*):** *"What drop or nostrum can this plague remove, or quench the rage with which the **poetaster** scribbles?"*

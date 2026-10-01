@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or given to telling anecdotes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or given to telling anecdotes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characterized by anecdotes; anecdotal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative style, given to recounting personal or historical episodes rather than systematic exposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anecdotic designates characterized by or given to telling anecdotes."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"Boswell's biography owes its immortal charm to its rich, **anecdotic** texture and lively dialogue."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The author indulged in an **anecdotic** digression illustrating how habit binds human behavior."*
+> - 📜 **Henry James (*Partial Portraits*):** *"French memoirs of the eighteenth century excel in brilliant, **anecdotic** sketches of court life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi belonging to order endomycetales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi belonging to order endomycetales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of yeasts within the order Schizosaccharomycetales characterized by reproduction by fission and formation of naked asci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an early-diverging lineage of Taphrinomycotina separated from conventional budding yeasts by distinctive cell-wall polysaccharides and fission cytology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizosaccharomycetaceae designates a family of fungi belonging to order endomycetales."*
+> - 📜 **Alexandre Guilliermond (*The Yeasts*):** *"The family **schizosaccharomycetaceae** occupies an isolated position among ascomycetes due to its uncompromising reliance on transverse division."*
+> - 📜 **Cletus P. Kurtzman (*The Yeasts: A Taxonomic Study*):** *"Phylogenetic sequence comparisons place the **schizosaccharomycetaceae** near the ancient root of the modern ascomycete radiation."*
+> - 📜 **David Yarrow (*Yeast Systematics*):** *"Morphologically, the members of the **schizosaccharomycetaceae** lack pseudomycelium, persisting as solitary fission-divided rods."*

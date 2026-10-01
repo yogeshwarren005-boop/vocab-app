@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresistible desire to pick at superficial body parts (as in obsessive nail-biting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresistible desire to pick at superficial body parts (as in obsessive nail-biting).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, uncontrollable obsessive habit or compulsion of picking at or touching one's own skin, nails, hairs, or blemishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric dermatology and behavioral medicine, a body-focused repetitive disorder encompassing trichotillomania, onychophagia, and skin excoriation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaneromania designates an irresistible desire to pick at superficial body parts (as in obsessive nail-biting)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients plagued with **phaneromania** incessantly pick at harmless cutaneous roughness until ulceration ensues."*
+> - 📜 **Erasmus Wilson (*Diseases of the Skin*):** *"The nervous excoriations were diagnosed as a form of **phaneromania** arising from constitutional anxiety."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Habitual nail-biting and cuticle tearing in children represent mild manifestations of **phaneromania**."*

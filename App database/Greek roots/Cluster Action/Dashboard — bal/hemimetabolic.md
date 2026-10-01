@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of half.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of half.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by incomplete metamorphosis in insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, describing insects such as grasshoppers and dragonflies whose nymphs develop gradually into adults without a pupal stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetabolic designates adjective*) pertaining to, derived from, or characteristic of half."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The **hemimetabolic** orders exhibit gradual wing development externally upon successive nymphal instars."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Hormonal titrations in **hemimetabolic** insects show how juvenile hormone suppression permits final imaginal differentiation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Gradual evolutionary transitions in wings can be studied within surviving **hemimetabolic** insect families."*

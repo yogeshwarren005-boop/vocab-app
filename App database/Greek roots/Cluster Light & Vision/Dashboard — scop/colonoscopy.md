@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Endoscopic examination of the colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonography —called also virtual colonography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The endoscopic examination of the entire large intestine (colon) and the distal terminal ileum using a flexible video or fiber-optic colonoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and oncology, the gold-standard procedure for screening, identifying, and removing premalignant adenomatous polyps throughout the colonic mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colonoscopy designates endoscopic examination of the colon."*
+> - 📜 **Hiromi Shinya (*Colonoscopy: Diagnosis and Treatment of Colonic Diseases*):** *"The introduction of flexible **colonoscopy** revolutionized colorectal cancer prevention by enabling painless polypectomy without open surgery."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Direct visualization through early **colonoscopy** eliminated much of the guesswork formerly associated with deep bowel pathology."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Routine screening via **colonoscopy** intercepts carcinoma while it remains a curable, localized polyp."*

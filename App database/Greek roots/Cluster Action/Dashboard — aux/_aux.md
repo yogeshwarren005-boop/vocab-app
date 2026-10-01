@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: auxiliary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: auxiliary verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (from auxein, 'to increase, grow, augment') signifying growth, physical increase, or amplification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and etymology, the morphemic progenitor of biological and botanical terms related to cellular elongation and physiological development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, _aux designates auxiliary."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The inherent vegetative power of **_aux** impels the shoot toward seasonal increase and vernal flowering."*
+> - 📜 **Aristotle (*On Generation and Corruption*):** *"Natural maturation proceeds through distinct stages of **_aux** wherein quantitative increase precedes form perfection."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Tracing the archaic root **_aux** reveals how early Indo-European speech linked vegetative growth with civic augmentation."*

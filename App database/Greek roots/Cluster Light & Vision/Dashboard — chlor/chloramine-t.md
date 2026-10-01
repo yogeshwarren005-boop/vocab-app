@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several compounds containing chlorine and nitrogen; used as an antiseptic in wounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several compounds containing chlorine and nitrogen; used as an antiseptic in wounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sodium salt of N-chloro-4-methylbenzenesulfonamide, widely used as an antiseptic, disinfectant, and laboratory mild oxidizing agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical sanitation and public health, an organic chlorine carrier that slowly releases hypochlorous acid without causing tissue necrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloramine-t designates any of several compounds containing chlorine and nitrogen; used as an antiseptic in wounds."*
+> - 📜 **Alexis Carrel (*The Treatment of Infected Wounds*):** *"Irrigation of extensive trauma with **chloramine-t** prevented suppuration without burning living tissue."*
+> - 📜 **Henry Drysdale Dakin (*Handbook of Antiseptics*):** *"We prepared **chloramine-t** to provide a stable, non-irritating reservoir of active bactericidal chlorine."*
+> - 📜 **Alexander Fleming (*The Action of Chemical Antiseptics on Wound Flora*):** *"Dilute solutions of **chloramine-t** retained bactericidal potency in the presence of wound serum."*

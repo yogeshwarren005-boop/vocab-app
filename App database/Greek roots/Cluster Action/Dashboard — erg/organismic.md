@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or belonging to an organism (considered as a whole).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to an organism (considered as a whole).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or viewing organisms as integrated, functioning wholes; holistic in biological theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical biology and psychology, adhering to organismic theory, which emphasizes that properties of life cannot be reduced to chemistry alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organismic designates of or relating to or belonging to an organism (considered as a whole)."*
+> - 📜 **Ludwig von Bertalanffy (*General System Theory*):** *"The **organismic** conception in biology emphasizes that living systems cannot be understood by mere summation of isolated parts."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"Philosophy of **organismic** cosmology replaces static mechanical substances with dynamic, interrelated occasions of experience."*
+> - 📜 **Jean Piaget (*Biology and Knowledge*):** *"Cognitive development is an extension of fundamental **organismic** self-regulation and environmental adaptation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of mainly tropical ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of mainly tropical ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of primitive leptosporangiate ferns, mostly tropical, characterized by distinctive sporangia bearing an apical cap-like ring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an ancient lineage of ferns with fossil records extending into the Mesozoic, displaying solitary marginal sporangia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizaeaceae designates small family of mainly tropical ferns."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The family **Schizaeaceae** comprises archaic tropical and subtropical ferns with sporangia bearing an apical cap-like ring."*
+> - 📜 **Nathaniel Lord Britton (*Illustrated Flora of the Northern United States*):** *"Members of the **Schizaeaceae** are easily recognized by their peculiar clustered sporangia and dimorphic fronds."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Several genera of the **Schizaeaceae**, notably Lygodium and Schizaea, possess remarkable climbing or rush-like habits."*

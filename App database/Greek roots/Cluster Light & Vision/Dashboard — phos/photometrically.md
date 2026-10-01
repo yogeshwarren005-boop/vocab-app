@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By photometric means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By photometric means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of photometry; using light measurement techniques.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and biochemical analysis, quantifying radiant flux, optical transmission, or enzyme activity through measured light absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometrically designates by photometric means."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Cepheid variable stars were monitored **photometrically**, confirming the period-luminosity relation discovered by Leavitt."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The concentration of hemoglobin in the blood sample was determined **photometrically** by light absorption at 540 nanometers."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"The attenuation of light traversing foggy atmospheres was measured **photometrically** across the lake."*

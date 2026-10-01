@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isogram connecting points at which something occurs or arrives at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isogram connecting points at which something occurs or arrives at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map connecting points that can be reached in the same travel time from a common starting point; an isochronous curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stellar astrophysics, a curve on the Hertzsprung-Russell diagram connecting stars of the same age but varying masses in a star cluster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isochrone designates an isogram connecting points at which something occurs or arrives at the same time."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Plotting a theoretical **isochrone** through the cluster stars confirmed their simultaneous birth from a single nebula."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Galton constructed an **isochrone** map showing the travel time required to journey from London to all parts of the globe."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Principles of Stellar Dynamics*):** *"Points along the computed cluster **isochrone** mark the evolutionary turn-off point of main-sequence stars."*

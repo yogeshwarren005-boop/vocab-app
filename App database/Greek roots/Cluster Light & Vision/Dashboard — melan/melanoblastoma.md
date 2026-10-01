@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek melan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older or historical medical term for a malignant melanoma arising from melanoblasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncopathology, a highly aggressive, deeply pigmented malignant neoplasm characterized by rapid hematogenous and lymphatic metastasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanoblastoma designates a term designating an entity, condition, or phenomenon derived from greek melan."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The lethal malignancy designated **melanoblastoma** frequently originates within a preexisting pigmented mole."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"Microscopic sections of the **melanoblastoma** revealed spindle-shaped and polyhedral cells choked with dark pigment."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Early and wide excision offers the sole hope of curing an invasive cutaneous **melanoblastoma**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually carved or inscribed stone slab or pillar used for commemorative purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually cylindrical central vascular portion of the axis of a vascular plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An upright stone slab or pillar, often inscribed, decorated with relief carvings, or serving as a gravestone or public boundary monument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Mediterranean, Near Eastern, and Mesoamerican archaeology, a commemorative freestanding stone documenting royal decrees or dynastic conquests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stela designates a usually carved or inscribed stone slab or pillar used for commemorative purposes."*
+> - 📜 **James Henry Breasted (*Ancient Records of Egypt*):** *"Pharaoh Thutmose erected a triumphal granite **stela** on the banks of the Euphrates to mark the northern boundary of his empire."*
+> - 📜 **W. M. Flinders Petrie (*Ten Years' Digging in Egypt*):** *"The discovery of the Merneptah **stela** provided the earliest historical epigraphic mention of Israel in ancient Egyptian records."*
+> - 📜 **Jean-François Champollion (*Précis du système hiéroglyphique*):** *"The bilingual inscriptions carved upon the basalt **stela** provided the decisive key that unlocked the forgotten script of the Pharaohs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to photoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to photoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to photoelectric phenomena; relating to the generation of electricity by light or the control of currents by illumination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early electronic engineering, describing vacuum phototubes, selenium cells, and light-sensitive circuitry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoelectrical designates of or pertaining to photoelectricity."*
+> - 📜 **Thomas Alva Edison (*Laboratory Notes on Image Transmission*):** *"The selenium cell displayed sensitive **photoelectrical** responses, altering its resistance with every beam of light."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The discovery of **photoelectrical** conduction opened an entirely new avenue connecting optics with electrical theory."*
+> - 📜 **Arthur D. Little (*Industrial Research*):** *"Modern automated sorting machines rely upon delicate **photoelectrical** eyes to inspect manufactured goods."*

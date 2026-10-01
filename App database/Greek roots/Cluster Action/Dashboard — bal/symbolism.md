@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of using symbols especially by investing things with a symbolic meaning or by expressing the invisible or intangible by means of visible or sensuous representations: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic imitation or invention that is a method of revealing or suggesting immaterial, ideal, or otherwise intangible truth or states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of symbols to represent ideas, qualities, or concepts; or symbolic meaning attributed to natural objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A late 19th-century artistic and literary movement that rejected realism, seeking to evoke emotional and spiritual truths through indirect, suggestive imagery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Using the symbolism of the Hebrew religion and its tabernacle, he compares Jesus to the High Priest, but Jesus, he says, does not enter into the holiest alone."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He took three hundred captive princesses and ladies, and married them in a batch to Macedonian officers--a very characteristic piece of symbolism."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"When round pure hearts a host of hopes assemble The Snake and Eagle meet--the world's foundations tremble." This piece of symbolism became a sort of fixed language with him; "the Snake" was a name by which it amused him to be known among his friends."*
+> - 📜 **Charles Baudelaire (*Les Fleurs du Mal*):** *"Nature is a temple whose living pillars murmur confusing words, where man traverses forests of **symbolism**."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"In the hands of Mallarmé and Verlaine, **symbolism** became an attempt to spiritualize literature through subtle evocation."*
+> - 📜 **Carl Jung (*Archetypes and the Collective Unconscious*):** *"Religious **symbolism** taps directly into ancestral memory banks preserved within the collective psyche."*

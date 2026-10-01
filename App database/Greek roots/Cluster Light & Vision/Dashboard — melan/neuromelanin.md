@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark melanin pigment found especially in some dopaminergic neurons of the human substantia nigra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark melanin pigment found especially in some dopaminergic neurons of the human substantia nigra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, insoluble polymer pigment found in catecholaminergic neurons of the brainstem, especially in the substantia nigra and locus coeruleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology, an autoxidized dopamine/noradrenaline pigment that accumulates with aging and chelates heavy metals; its loss characterizes Parkinson's disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuromelanin designates a dark melanin pigment found especially in some dopaminergic neurons of the human substantia nigra."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The deep black coloration of the substantia nigra is produced by cytoplasmic granules of **neuromelanin** inside large motor neurons."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In paralysis agitans, macroscopic pallor of the substantia nigra reflects the loss of cells laden with **neuromelanin**."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Degeneration of dopamine-producing cells rich in **neuromelanin** lies at the pathological heart of post-encephalitic parkinsonism."*

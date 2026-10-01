@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing auxins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing auxins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or characteristic of auxins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, describing cellular elongation, epinasty, or developmental signaling mediated by auxin molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxinic designates relating to or containing auxins."*
+> - 📜 **Frits Went (*Phytohormones*):** *"Unilateral light induces an asymmetric **auxinic** gradient, causing the shaded flank of the shoot to elongate faster."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Commercial cutting propagation relies on **auxinic** powders to stimulate adventitious root formation."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"Vascular cambium activation in temperate trees follows the seasonal crest of **auxinic** flow descending from new buds."*

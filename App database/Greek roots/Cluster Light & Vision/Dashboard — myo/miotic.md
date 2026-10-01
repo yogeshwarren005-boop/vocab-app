@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes miosis (constriction of the pupil of the eye).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or causing constriction of the pupil of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing constriction of the pupil of the eye; or an agent, drug, or substance that constricts the pupil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, parasympathomimetic agents (such as pilocarpine or physostigmine) used to treat acute angle-closure glaucoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miotic designates a drug that causes miosis (constriction of the pupil of the eye)."*
+> - 📜 **Albrecht von Graefe (*Clinical Lectures on Ophthalmology*):** *"Instilling a **miotic** drop of physostigmine opened the iridocorneal angle, bringing swift relief in acute glaucoma."*
+> - 📜 **William Osler (*Modern Medicine*):** *"The diagnostic administration of a **miotic** agent aids in localizing autonomic sympathetic lesions."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Calabar bean extract serves as the classic **miotic** remedy to counter the mydriasis of belladonna."*

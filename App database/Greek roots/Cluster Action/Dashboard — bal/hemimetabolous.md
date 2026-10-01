@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing incomplete metamorphosis; having nymphal stages that gradually approach the adult form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, designating exopterygote insect orders, including Odonata, Orthoptera, and Hemiptera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetabolous designates (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Because they are **hemimetabolous**, dragonfly nymphs develop compound eyes and rudimentary wing cases over multiple aquatic molts."*
+> - 📜 **V. B. Wigglesworth (*Insect Hormones*):** *"In **hemimetabolous** species like Rhodnius, removal of the corpus allatum forces precocious development into an undersized adult."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Termites represent an extraordinary lineage of **hemimetabolous** insects that evolved complex eusocial castes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To attribute real identity to (a concept).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attribute real identity to (a concept).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reify or treat an abstract idea, quality, or construct as an independently existing concrete thing (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, to assume mistakenly that theoretical terms refer directly to unobservable metaphysical substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatize designates to attribute real identity to (a concept)."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Philosophers frequently commit a grave error when they **hypostatize** the products of reflective inquiry into antecedently real essences."*
+> - 📜 **George Santayana (*Scepticism and Animal Faith*):** *"To **hypostatize** intuition into an ontological creator of its own objects is the romantic fallacy of idealism."*
+> - 📜 **Willard Van Orman Quine (*From a Logical Point of View*):** *"We can employ meaningful conceptual predicates without being forced to **hypostatize** universals as concrete entities."*

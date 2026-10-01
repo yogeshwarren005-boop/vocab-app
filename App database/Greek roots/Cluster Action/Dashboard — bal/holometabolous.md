@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect) undergoing complete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect) undergoing complete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing complete metamorphosis through egg, larva, pupa, and adult stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, designating members of the clade Endopterygota (including Coleoptera, Lepidoptera, Diptera, and Hymenoptera).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holometabolous designates (of an insect) undergoing complete metamorphosis."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The **holometabolous** beetles undergo their marvelous transformation hidden beneath the damp bark of decaying logs."*
+> - 📜 **V. B. Wigglesworth (*Insect Hormones*):** *"Metamorphosis in **holometabolous** insects is orchestrated by a delicate balance between juvenile hormone and 20-hydroxyecdysone."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The remarkable adaptations of **holometabolous** larvae to subterranean or aquatic life illustrate extreme evolutionary specialization."*

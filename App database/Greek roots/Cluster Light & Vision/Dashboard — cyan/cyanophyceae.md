@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of photosynthetic prokaryotes characterized by a blue-green color due to c-phycocyanin, equivalent to the cyanobacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical phycology, an ancient taxon of prokaryotic algae lacking membrane-bound nuclei and reproducing exclusively by fission or hormogonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanophyceae designates photosynthetic bacteria found in fresh and salt water, having chlorophyll a and phycobilins; once thought to be algae: blue-green algae."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"The class **Cyanophyceae** stands sharply apart from all other algae by virtue of its rudimentary prokaryotic cytology."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"Gelatinous colonies of **Cyanophyceae** form unsightly blue-green mats over stagnant summer ponds."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"In the cells of **Cyanophyceae**, blue phycocyanin masks the underlying green of chlorophyll."*

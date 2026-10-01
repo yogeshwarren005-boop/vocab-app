@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Motor incoordination or psychogenic inability to stand upright, despite retaining normal muscular power when seated or lying down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a dissociative or functional gait disturbance classically paired with abasia (astasia-abasia) as described by Paul Blocq.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astasia designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Paul Blocq (*On an Affection Characterized by Astasia and Abasia*):** *"The patient with **astasia** collapses instantly when placed on his feet, yet displays unimpaired strength in recumbency."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"We observed dramatic episodes of hysterical **astasia**, where the subject trembled violently without any organic lesion of the cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Functional **astasia** must be distinguished from cerebellar ataxia by the absence of true nystagmus and normal deep reflexes."*

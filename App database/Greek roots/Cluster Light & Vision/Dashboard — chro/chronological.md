@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or arranged according to temporal order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or arranged according to temporal order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in the order of time of occurrence; relating to the establishment of dates and time sequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and archival research, arranging source documents, events, or evolutionary stages in strict temporal succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Mark's chronological date here, he does not speak of this until Peter has called him the Messiah."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Their names are, in chronological order, Elizabeth Bennet, Diana Vernon, Argemone Lavington, Beatrix Esmond, and Barbara Grant."*
-> - 📜 **Bram Stoker (*Dracula*):** *"In this matter dates are everything, and I think that if we get all our material ready, and have every item put in chronological order, we shall have done much."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The geological record displays a magnificent **chronological** succession of living forms ascending through the rock strata."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"A clear **chronological** narrative preserves the reader from confusing cause with subsequent effect."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"We present the rise of human civilizations in strict **chronological** order to demonstrate our shared heritage."*

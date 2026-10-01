@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) the doctrine that jesus was a union of the human and the divine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of objects (especially a god) as having human form or traits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine attributing human characteristics, form, or feelings to God (anthropomorphism), or the union of divine and human natures in one being, especially Christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and Christology, the philosophical concept of God incarnated in human flesh, mediating between absolute transcendence and finite human experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theanthropism designates (theology) the doctrine that jesus was a union of the human and the divine."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The Christian mystery of the Incarnation is neither pagan myth nor abstract deism, but the profoundest realization of **theanthropism**."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"The Council of Chalcedon formulated the orthodox doctrine of **theanthropism**, affirming two unconfused natures in the person of Christ."*
+> - 📜 **Andrew Lang (*Myth, Ritual and Religion*):** *"Primitive mythologies consistently express **theanthropism**, endowing their celestial deities with mortal passions and corporeal appetites."*

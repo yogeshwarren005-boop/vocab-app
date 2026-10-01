@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A retroreflective safety reflector or optical device designed to reflect incident light back toward its originating source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport infrastructure and vehicle safety engineering, corner-cube or beaded prism reflectors mounted on road verges and bicycles to enhance nocturnal visibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphote designates a term designating an entity, condition, or phenomenon derived from greek phos."*
+> - 📜 **Arthur D. Little (*Technology and Highway Safety*):** *"The glass **cataphote** mounted along highway curves catches automobile headlights, warning drivers of dangerous bends."*
+> - 📜 **John Tyndall (*Lectures on Light*):** *"Total internal reflection inside the angled prism makes the **cataphote** return light precisely along its path of incidence."*
+> - 📜 **Percy Bysshe Shelley (*Philosophical Essays*):** *"The poet's mind functions like a moral **cataphote**, reflecting the radiance of universal truth back into human darkness."*

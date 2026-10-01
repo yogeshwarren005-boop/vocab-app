@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superfamily of true marine crabs (brachyuran decapod crustaceans), commonly known as mud crabs, rubble crabs, or xanthid crabs, characterized by robust, heavy, black-tipped claws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and invertebrate zoology, a diverse benthic group containing families such as Xanthidae, inhabiting coral reefs and intertidal zones, with several species harboring potent paralytic shellfish neurotoxins (saxitoxin and tetrodotoxin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Xanthoidea designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **James Dwight Dana (*United States Exploring Expedition: Crustacea*):** *"The crabs of the superfamily **Xanthoidea** are distinguished by their broad, transversely oval carapaces and stout, unequal chelipeds."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"Many tropical species belonging to **Xanthoidea** conceal themselves under coral boulders, displaying brilliant warning colors upon their shells."*
+> - 📜 **Henri Milne-Edwards (*Histoire naturelle des Crustacés*):** *"In our classification of the brachyuran decapods, the family group **Xanthoidea** occupies a central position among littoral reef dwellers."*

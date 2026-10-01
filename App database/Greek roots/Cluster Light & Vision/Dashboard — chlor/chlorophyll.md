@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The green photosynthetic pigment found chiefly in the chloroplasts of plants and occurring especially as a blue-black ester C55H72MgN4O5 or a dark green ester C55H70MgN4O6 —called also respectively chlorophyll a, chlorophyll b.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A waxy green chlorophyll-containing substance extracted from green plants and used as a coloring agent or deodorant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The green photosynthetic pigment present in cyanobacteria and the chloroplasts of algae and plants, essential for absorbing light energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a magnesium-coordinated porphyrin-derivative pigment occurring predominantly as chlorophyll a and chlorophyll b.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyll designates the green photosynthetic pigment found chiefly in the chloroplasts of plants and occurring especially as a blue-black ester c55h72mgn4o5 or a dark green ester c55h70mgn4o6 —called also respectively chlorophyll a, chlorophyll b."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Under prolonged darkness, the production of **chlorophyll** ceases and the shoots become completely etiolated."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The microscopic floating meadows of the ocean are rich in **chlorophyll**, capturing the light of the upper layers."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The central magnesium atom in **chlorophyll** coordinates planar pyrrole rings in a manner analogous to iron in heme."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aspr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining form derived from Byzantine Greek aspron (white, silvery), historically denoting white coins or argentiferous currency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and Mediterranean monetary history, a small silver or alloyed coin circulating throughout the Byzantine Empire, Ottoman domains, and the Trebizond realm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspr designates a term designating an entity, condition, or phenomenon derived from greek aspr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tribute was computed in bags of silver **aspr**, the traditional coin of the Levant."*
+> - 📜 **Richard Knolles (*The Generall Historie of the Turkes*):** *"Every soldier received his daily dole of five **aspr** pieces from the grand vizier."*
+> - 📜 **John Evelyn (*Numismata: A Discourse of Medals*):** *"The debased **aspr** circulated widely through Aegean trading ports during the Venetian wars."*

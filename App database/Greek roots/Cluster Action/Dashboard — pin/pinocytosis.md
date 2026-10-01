@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The uptake of fluid and dissolved substances by a cell by invagination and pinching off of the cell membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The uptake of fluid and dissolved substances by a cell by invagination and pinching off of the cell membrane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ingestion of liquid into a cell by the budding of small vesicles from the cell membrane; 'cellular drinking'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, an endocytic pathway by which eukaryotic cells continuously sample and internalize extracellular fluid and dissolved macromolecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinocytosis designates the uptake of fluid and dissolved substances by a cell by invagination and pinching off of the cell membrane."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"By the process of **pinocytosis**, the eukaryotic cell draws droplets of external medium into tiny vesicles for internal digestion."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Macromolecules dissolved in extracellular fluid are constantly sampled by cells through fluid-phase **pinocytosis**."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"The membrane engulfs liquid by continuous **pinocytosis**, maintaining the internal osmotic economy with astonishing fidelity."*

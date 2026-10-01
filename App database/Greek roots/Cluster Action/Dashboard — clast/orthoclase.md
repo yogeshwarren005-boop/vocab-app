@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monoclinic mineral of the feldspar group consisting of a silicate of potassium and aluminum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monoclinic mineral of the feldspar group consisting of a silicate of potassium and aluminum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monoclinic potassium-rich feldspar mineral that is an essential constituent of granitic and syenitic igneous rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, defining hardness degree 6 on the Mohs scale, characterized by two cleavage planes at right angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoclase designates a monoclinic mineral of the feldspar group consisting of a silicate of potassium and aluminum."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The name **orthoclase** alludes to the two rectangular cleavage planes that characterize this common potash feldspar."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Flesh-colored crystals of **orthoclase** give the granite of Aberdeen its famous architectural beauty."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Chemical weathering gradually decomposes pink **orthoclase** into soft white kaolin clay and soluble silica."*

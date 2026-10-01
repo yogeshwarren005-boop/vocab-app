@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leuc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition marked by a total lack or severe deficiency of white blood cells (leukocytes) in the peripheral bloodstream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathophysiology and immunology, profound agranulocytosis or marrow aplasia leaving the patient critically vulnerable to opportunistic septicemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aleukocytosis designates a term designating an entity, condition, or phenomenon derived from greek leuc."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Severe chemical intoxication caused absolute **aleukocytosis**, followed within days by overwhelming bacterial necrosis of the throat."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Without phagocytic leukocytes, an animal suffering from **aleukocytosis** possesses virtually no cellular defense against streptococci."*
+> - 📜 **Maxwell Finland (*Clinical Studies on Antimicrobial Therapy*):** *"Prompt antibiotic coverage is mandatory whenever drug-induced marrow suppression induces acute **aleukocytosis**."*

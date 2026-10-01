@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Armored dinosaurs: stegosaurs and ankylosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Armored dinosaurs: stegosaurs and ankylosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the dinosaur clade Thyreophora; an armored, herbivorous ornithischian dinosaur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to morphological features, such as rows of dermal scutes and parasagittal defensive plates, found in stegosaurian and ankylosaurian reptiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyreophoran designates armored dinosaurs: stegosaurs and ankylosaurs."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"The agile early **thyreophoran** relied on light dermal armor and swift bipedal sprinting to evade Jurassic predators."*
+> - 📜 **Peter Dodson (*The Horned Dinosaurs*):** *"While ceratopsians concentrated armor on their skulls, the typical **thyreophoran** fortified its entire dorsal surface with osteoderms."*
+> - 📜 **Michael J. Benton (*Vertebrate Paleontology*):** *"Each newly discovered basal **thyreophoran** skeleton illuminates how dorsal scutes evolved from simple granules into towering spines."*

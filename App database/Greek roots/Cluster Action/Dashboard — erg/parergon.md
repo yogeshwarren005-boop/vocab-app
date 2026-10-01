@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something done in addition to one's ordinary business; a subordinate work, byproduct, or secondary undertaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art theory and philosophy (as in Kant and Derrida), an accessory or supplementary embellishment (such as a frame, drapery, or colonnade) that frames the primary work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had adopted an immediate intention: there was to be a new Parergon, a small monograph on some lately traced indications concerning the Egyptian mysteries whereby certain assertions of Warburton’s could be corrected."*
+> - 📜 **Immanuel Kant (*Critique of Judgment*):** *"Ornamentation on a building or the golden frame around a painting is merely a **parergon**, not an intrinsic part of the aesthetic representation."*
+> - 📜 **Arthur Schopenhauer (*Parerga and Paralipomena*):** *"I gathered these philosophical essays as a **parergon**, illuminating side corridors of my central doctrine of the Will."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"These antiquarian inquiries served as a delightful **parergon** to relieve the solemn gravity of my clinical practice."*

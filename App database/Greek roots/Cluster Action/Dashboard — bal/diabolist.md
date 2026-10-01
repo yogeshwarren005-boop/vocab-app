@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of satan or satanism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of satan or satanism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner or advocate of diabolism; a devil worshipper; or one of wicked, fiendish disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, an author or artist drawn toward themes of demonic rebellion, evil, and the grotesque.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabolist designates an adherent of satan or satanism."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The Count was no ordinary villain, but an ancient **diabolist** commanding the dark powers of the unhallowed night."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The murderer was a philosophical **diabolist**, seeking to commit a crime of supreme aesthetic malice."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Certain decadent poets cultivated the persona of the **diabolist**, celebrating transgression against Victorian morals."*

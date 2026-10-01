@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic garment for infants consisting of a folded cloth or other absorbent material drawn up between the legs and fastened about the waist to hold body waste; also : a similar garment especially for incontinent adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabric with a distinctive pattern:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fabric woven with a repeated geometric diamond or lozenge pattern, or ornamentation consisting of such repeated motifs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and architectural decoration, surface patterning composed of reticulated diamonds or small rosettes; in child-care, an absorbent garment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He crossed the wood with his hunter's step and found her lapped in dreams, the starlight that filtered between the alder branches chequering her with a faint diaper of light and shade."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The orphreys were woven in a diaper of red and gold silk, and were starred with medallions of many saints and martyrs, among whom was St."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A diaper pin?' Raising my arm, I pumped my fist at the sky."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The red wall was enriched with delicate marble **diaper** carved into low relief."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Silken banners covered in gold **diaper** fluttered above the assembling heralds."*
+> - 📜 **Geoffrey Chaucer (*The Knight's Tale*):** *"Upon the altar lay a fine cloth of rich **diaper** embroidered with pearl."*

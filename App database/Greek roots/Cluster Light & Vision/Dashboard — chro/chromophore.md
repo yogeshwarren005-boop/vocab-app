@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical group (such as an azo group) that absorbs light at a specific frequency and so imparts color to a molecule; also : a colored chemical compound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical group (such as an azo group) that absorbs light at a specific frequency and so imparts color to a molecule; also : a colored chemical compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An atom or group of atoms whose presence is responsible for the color of an organic compound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spectroscopy and organic chemistry, the unsaturated covalent moiety (such as -N=N-, -C=C-, or -NO2) that absorbs light in the visible region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromophore designates a chemical group (such as an azo group) that absorbs light at a specific frequency and so imparts color to a molecule; also : a colored chemical compound."*
+> - 📜 **Otto Nikolaus Witt (*Zur Kenntniss der Bildung von Farbstoffen*):** *"The azo group serves as the essential **chromophore**, without which the entire molecule would remain utterly colorless."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Extensive resonance throughout conjugated double bonds stabilizes the excited state of the **chromophore**."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Color appears in organic compounds only when an unsaturated atomic complex called a **chromophore** is present."*

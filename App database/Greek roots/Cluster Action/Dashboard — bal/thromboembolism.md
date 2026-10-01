@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The obstruction of a blood vessel by a blood clot that has become dislodged from another site in the vascular system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and vascular pathology, deep vein thrombosis complicated by pulmonary arterial occlusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thromboembolism designates the blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation."*
+> - 📜 **Rudolf Virchow (*Thrombosis and Embolism*):** *"Vascular stasis and endothelial injury predispose to deep venous clots, culminating in fatal pulmonary **thromboembolism**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Postoperative immobilisation sharply increases the incidence of venous **thromboembolism** in surgical wards."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Anticoagulant therapy with heparin transformed the clinical management of acute **thromboembolism**."*

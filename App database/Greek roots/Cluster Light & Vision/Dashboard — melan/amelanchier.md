@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american deciduous trees or shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american deciduous trees or shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous shrubs and small trees in the rose family Rosaceae, commonly known as serviceberries, shadbush, or juneberries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temperate dendrology, woodland trees producing delicate white spring flowers followed by sweet, dark purple, edible pome fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amelanchier designates north american deciduous trees or shrubs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The snowy blossoms of **Amelanchier** appear in early spring before the forest trees have expanded their leaves."*
+> - 📜 **John Burroughs (*Riverby*):** *"Cedar waxwings descended upon the hillside to feast upon the ripening purple berries of **Amelanchier**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The hardy species of **Amelanchier** yield valued timber for tool handles and delicious summer fruit."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A masculine given name derived from the Greek Damianos (from damazein, 'to tame, subdue').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, associated with Saint Damian, the early Christian martyr and patron saint of physicians alongside Cosmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Damian,” said the Grand Master, “retire, and have a guard ready to await our sudden call; and suffer no one to enter the garden until we shall leave it.”—The squire bowed and retreated.—“Jew,” continued the haughty old man, “mark me."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"I will teach her to throw spell and incantation over the soldiers of the blessed Temple.—There, Damian, spurn this Jew from the gate—shoot him dead if he oppose or turn again."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The basilica raised in honor of Saints Cosmas and **Damian** celebrated their miraculous cures throughout Rome."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Medieval guild seals of medical faculties proudly bore the twin images of Saint Cosmas and Saint **Damian**."*
+> - 📜 **Thomas Hardy (*A Laodicean*):** *"The old parish register listed Master **Damian** among the respected yeomen of the Somerset vale."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of mimidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of mimidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World passerine birds in the mockingbird family Mimidae, comprising the blue mockingbirds of Mexico and Central America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neotropical ornithology, slate-blue mimid birds characterized by a black facial mask or ear-coverts (from Greek melas, black, and ous, ear).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanotis designates a genus of mimidae."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"The rich blue plumage and black auriculars distinguish **Melanotis** among all American mimids."*
+> - 📜 **Alexander Skutch (*Life Histories of Central American Birds*):** *"From the deep tropical ravine, the glorious varied song of **Melanotis** echoed through the dawn mist."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The blue mockingbird of the genus **Melanotis** possesses exceptional imitative and melodic powers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science that deals with measurement of the intensity of light; also : the practice of using a photometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spectrophotometer in which a spray of metallic salts in solution is vaporized in a very hot flame and subjected to quantitative analysis by measuring the intensities of the spectral lines of the metals present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and practical measurement of light in terms of its perceived brightness to the human eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In illuminating engineering and astrophysics, the quantitative discipline measuring luminous flux, candelas, and apparent stellar magnitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometry designates a branch of science that deals with measurement of the intensity of light; also : the practice of using a photometer."*
+> - 📜 **Johann Heinrich Lambert (*Photometria*):** *"I have set down the mathematical principles of **photometry**, proving that illumination decreases with the square of distance."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Visual **photometry** must take into account the Purkinje shift, which enhances retinal sensitivity to blue at dusk."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Stellar **photometry** transformed observational astronomy from descriptive cataloging into rigorous astrophysics."*

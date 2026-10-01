@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of the color blue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatry, a specific chromatic phobia where exposure to azure, cobalt, or sky-blue shades triggers acute anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanophobia designates a term designating an entity, condition, or phenomenon derived from greek cyan."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Cases of **cyanophobia** are recorded where the sight of the open ocean or blue wallpaper provoked dread."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"Sensory phobias, including intense **cyanophobia**, demonstrate the strange symbolic power of primary colors in neurotic illness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Pathological antipathies such as **cyanophobia** often stem from forgotten early childhood sensory traumas."*

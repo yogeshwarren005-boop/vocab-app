@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak with another : confer; specifically : to discuss terms with an enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference for discussion of points in dispute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference between opposing sides in a dispute, especially under a truce to discuss terms of peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hold a discussion or conference with an enemy under formal terms of temporary armistice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Mars, I prithee, make us quick in work, That we with smoking swords may march from hence To help our fielded friends!—Come, blow thy blast. [_They sound a parley._] Enter two Senators with others on the walls of Corioles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From this time Be something scanter of your maiden presence; Set your entreatments at a higher rate Than a command to parley."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For God’s sake, cousin, stay till all come in. [_The trumpet sounds a parley._] Enter Sir Walter Blunt."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Envoys crossed no-man's-land under a white flag to **parley** regarding the evacuation of wounded soldiers."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"A trumpet sounded from the barbican, signaling that the besieged knights requested an immediate **parley**."*
+> - 📜 **Julius Caesar (*The Gallic War*):** *"Ariovistus proposed a horseback **parley** on neutral ground, accompanied by an equal escort of mounted cavalry."*

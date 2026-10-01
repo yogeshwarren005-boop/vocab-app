@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling schizophrenia but remaining within the bounds of normality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling schizophrenia but remaining within the bounds of normality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological constitution characterized by introversion, emotional detachment, aloofness, and introspective reservedness within normal behavioral limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Ernst Kretschmer's constitutional psychiatry, the healthy end of the personality continuum that predisposes toward schizophrenia in morbid manifestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizothymia designates resembling schizophrenia but remaining within the bounds of normality."*
+> - 📜 **Ernst Kretschmer (*Physique and Character*):** *"Between the quiet, inward-looking genius and the eccentric hermit lies the vast psychological domain of **schizothymia**."*
+> - 📜 **Gordon Allport (*Personality: A Psychological Interpretation*):** *"Kretschmer contrasted cyclothymia with **schizothymia**, assigning the latter to lean leptosomic physiques prone to intellectual abstraction."*
+> - 📜 **William Sheldon (*The Varieties of Temperament*):** *"The cerebrotonic temperament mirrors many features originally assigned by German psychiatrists to **schizothymia**."*

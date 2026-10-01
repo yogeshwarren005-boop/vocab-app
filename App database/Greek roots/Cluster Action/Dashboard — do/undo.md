@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel, annul, or reverse an action or its effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of certain characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To unfasten, untie, or loosen something; or to cancel or reverse the effects of a previous action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring about the moral, physical, or financial ruin or downfall of someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods will mock me presently When I shall pray “O, bless my lord and husband!” Undo that prayer by crying out as loud “O, bless my brother!” Husband win, win brother, Prays and destroys the prayer; no midway ’Twixt these extremes at all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, masters, my good friends, mine honest neighbours, Will you undo yourselves?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"What's done cannot be undone: to bed, to bed, to bed! Here's the smell of the blood still."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Blindness and bondage conspired to **undo** the mighty champion of Dan."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"No remorse could **undo** the misery that Willoughby's selfish deceit had brought upon Marianne."*

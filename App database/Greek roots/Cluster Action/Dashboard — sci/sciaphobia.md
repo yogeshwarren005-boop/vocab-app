@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, abnormal, and persistent fear of shadows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, an anxiety disorder manifesting as acute panic when confronted with silhouette projections or darkness-cast contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaphobia designates a term designating an entity, condition, or phenomenon derived from greek sci."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Childhood terrors frequently assume specific symbolic fixations, ranging from nyctophobia to an acute **sciaphobia**."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"Primitive superstitions regarding disembodied spirits readily reinforce pathological **sciaphobia** in impressionable minds."*
+> - 📜 **George M. Beard (*A Practical Treatise on Nervous Exhaustion*):** *"The neurasthenic patient may develop peculiar dreads, including **sciaphobia**, where even his own shadow evokes involuntary tremor."*

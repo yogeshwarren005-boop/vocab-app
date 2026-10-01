@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronologically misplaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronologically misplaced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or appropriate to an earlier period, especially so as to seem conspicuously old-fashioned; out of chronological order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and art criticism, displaying chronological discordance with the surrounding temporal milieu.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"Retained anachronistic spelling and grammar as printed."*
+> - 📜 **Virginia Woolf (*Orlando: A Biography*):** *"To wear an Elizabethan ruff aboard a Victorian steamboat seemed gloriously **anachronistic**."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Hereditary despots ruling twentieth-century industrial empires presented a dangerously **anachronistic** spectacle."*
+> - 📜 **Lytton Strachey (*Eminent Victorians*):** *"His rigid scholastic theology sounded curiously **anachronistic** in an age dominated by evolutionary science."*

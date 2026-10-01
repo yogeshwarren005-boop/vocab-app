@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a chromosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a chromosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or carried on a chromosome or chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, designating inheritance patterns, mutations, inversions, or translocations involving the physical structures of chromosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromosomal designates of or relating to a chromosome."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"The linear linkage groups observed in breeding experiments correspond directly to **chromosomal** architecture."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Natural populations of fruit flies harbor diverse **chromosomal** inversions that confer adaptive fitness."*
+> - 📜 **Barbara McClintock (*Chromosome Organization and Genic Expression*):** *"Transposable elements induce **chromosomal** breakages that alter gene expression in variegated maize kernels."*

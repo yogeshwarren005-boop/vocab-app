@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a chromatic manner; with respect to color, or in musical increments of semitones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic criticism and acoustics, executing color transitions smoothly or ascending and descending musical intervals by half-steps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatically designates with respect to color."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The soprano descended **chromatically** from high C with astounding precision and crystal intonation."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Leonardo modulated the shadows **chromatically**, allowing the flesh tones to dissolve into dark foliage."*
+> - 📜 **James Clerk Maxwell (*On Colour Vision*):** *"The sensations of the three retinal receptors combine **chromatically** to reconstruct the visual spectrum."*

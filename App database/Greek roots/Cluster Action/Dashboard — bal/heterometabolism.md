@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of insects with incomplete metamorphosis in which no pupal stage precedes maturity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of insects with incomplete metamorphosis in which no pupal stage precedes maturity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of incomplete or variable metamorphosis in insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative biochemistry, metabolic variability or diversity across different tissue types or physiological states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterometabolism designates development of insects with incomplete metamorphosis in which no pupal stage precedes maturity."*
+> - 📜 **Arthur D. Imms (*Recent Advances in Entomology*):** *"Insects exhibiting **heterometabolism** maintain continuous ecological foraging throughout their developmental lifecycle."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Tissue-specific **heterometabolism** ensures that cardiac muscle retains high oxidative priority during systemic hypoxemia."*
+> - 📜 **Alpheus Spring Packard (*Textbook of Entomology*):** *"The transition from ametabolism to **heterometabolism** was one of the pivotal milestones in Paleozoic insect evolution."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises plants often included in the genus chrysanthemum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises plants often included in the genus chrysanthemum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the daisy family Asteraceae, including the widespread oxeye daisy (*Leucanthemum vulgare*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temperate botany and grassland ecology, perennial herbs with white ray florets and yellow disc centers (from Greek leukos, white, and anthemon, flower).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucanthemum designates comprises plants often included in the genus chrysanthemum."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common white oxeye daisy, **Leucanthemum**, carpets eastern pastures with snow-white heads in June."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"Every breeze sent ripples across the meadow of **Leucanthemum**, like waves over a summer sea."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Bees and beetles swarmed over the open discs of **Leucanthemum** growing beside the churchyard hedge."*

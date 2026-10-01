@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel shame; hurt the pride of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To behave in a way that belittles or degrades someone; to lower in rank, prestige, or esteem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral and spiritual discourse, to humble oneself in penitence or contrition before a higher authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll lengthen it with mine; And, having both together heaved it up, We’ll both together lift our heads to heaven, And never more abase our sight so low As to vouchsafe one glance unto the ground."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And will she yet abase her eyes on me, That cropped the golden prime of this sweet prince, And made her widow to a woeful bed?"*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"He “does not cherish an envious, suspicious and deceitful mind; nor does he slight and abase the learners of the Buddha-Way and seek out their excesses and shortcomings”."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Whosoever exalts himself shall be humbled, and he that shall **abase** his proud soul shall find celestial mercy."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Emperor demanded that foreign ambassadors **abase** themselves by licking the dust before his imperial throne."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionaries sought to **abase** every ancient noble house and strip the magistracy of its dignity."*

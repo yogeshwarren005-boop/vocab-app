@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ogdo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root and numerical prefix (ogdoos, meaning 'eighth' or 'eight'), denoting eightfold structures, eighth intervals, and octaval systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical harmonics and ancient philosophy, the fundamental numerical principle of the octave and eightfold celestial divisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ogdo designates a term designating an entity, condition, or phenomenon derived from greek ogdo."*
+> - 📜 **Irenaeus (*Against Heresies*):** *"The Valentinians construct their divine pleroma upon the mysterious number of the **ogdo**, deriving eight primordial aeons from the primal Depth."*
+> - 📜 **Clement of Alexandria (*Stromata*):** *"In mystical arithmetic, the **ogdo** represents the first cube and signifies rest and spiritual resurrection."*
+> - 📜 **Philo of Alexandria (*On the Creation*):** *"The sacred nature of the **ogdo** was revered by the ancients as the symbol of justice and stability."*

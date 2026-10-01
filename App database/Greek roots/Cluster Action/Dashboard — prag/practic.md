@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of do.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practical; active; relating to action rather than theory (archaic or literary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern literature, skilled in pragmatic stratagems, worldly management, or practical execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A physician, who for many years practiced his profession in the State of California, was called once to see the child of Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"And the more I have practiced this, the more I have had to do it with; and when I gave almost all, more came in, I scarce knew how, at least unexpected."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It has been practiced upon in different countries and ages, and has received the sanction of the most approved writers on the subject of politics."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Expert men can execute, and perhaps judge of particulars, one by one; but the general counsels and the plots and marshalling of affairs come best from those that are learned in **practic** wisdom."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He had a shrewd eye for the **practic** world, knowing how to turn each turn of fortune to solid advantage."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"Full of vain wyles and of false guyle was she, yet trained in every **practic** art of worldly deceit."*

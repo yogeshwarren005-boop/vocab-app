@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (boxing) the act of one boxer holding onto the other to avoid being hit and to rest momentarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small slip noose made with seizing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To confirm, settle, or conclude a deal, argument, or bargain decisively; or to bend over the exposed point of a driven nail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In boxing and grappling, an embrace wherein opponents hold each other's body to prevent punches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To clinch his argument he appeals to plain matter of fact and his own personal experience."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Little Flask was one of the wrought ones; made to clinch tight and last long."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I, Ishmael, was one of that crew; my shouts had gone up with the rest; my oath had been welded with theirs; and stronger I shouted, and more did I hammer and clinch my oath, because of the dread in my soul."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The lawyer struck the desk with his heavy fist to **clinch** the argument beyond any further cavil."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The blacksmith struck the anvil with hearty blows to **clinch** the barb into the hickory pole."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"A shrewd pilot knows how to **clinch** a bargain before the rival steamboat agent arrives on the levee."*

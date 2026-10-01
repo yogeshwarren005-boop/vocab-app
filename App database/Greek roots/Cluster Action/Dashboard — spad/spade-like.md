@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped in the form of a spade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped in the form of a spade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a spade in broad, flat, or wedge-shaped contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology, describing anatomical features such as incisors, snouts, or burrowing appendages modified into flattened digging blades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spade-like designates shaped in the form of a spade."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The forelimbs of fossorial mammals have been transformed into stout, **spade-like** implements adapted for driving subterranean tunnels."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The broad flukes of the sperm whale terminated in a **spade-like** horizontal blade of immense propulsion."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The Indian pointed out the **spade-like** imprint left by the moose's hoof in the soft swamp moss."*

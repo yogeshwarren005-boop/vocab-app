@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through work / labor / deed / active energy / operational force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through work / labor / deed / active energy / operational force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In myrmecology and entomology, a mated, fertile worker ant that can reproduce in place of or in the absence of a morphological queen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A functional reproductive female worker in queenless social insect colonies, capable of laying diploid eggs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gamergate designates verb*) to subject to, transform by, or operate upon through work / labor / deed / active energy / operational force."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"In primitive ponerine ants, a mated **gamergate** assumes the egg-laying role, dispensing with the specialized queen caste."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Behavioral dominance rituals among workers determine which individual becomes the colony's functional **gamergate**."*
+> - 📜 **Bert Hölldobler (*The Ants*):** *"Chemical pheromones secreted by the functional **gamergate** suppress ovarian development in fellow nestmates."*

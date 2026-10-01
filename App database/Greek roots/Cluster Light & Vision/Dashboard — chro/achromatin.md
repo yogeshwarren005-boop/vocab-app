@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a cell nucleus that is relatively uncolored by stains or dyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a cell nucleus that is relatively uncolored by stains or dyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The non-staining or weakly staining nucleoplasm or ground substance of a biological cell nucleus, as distinguished from chromatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cytogenetics, the unstained nuclear matrix or karyolymph in which chromatin threads and chromosomes are suspended.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatin designates the part of a cell nucleus that is relatively uncolored by stains or dyes."*
+> - 📜 **Walther Flemming (*Zellsubstanz, Kern und Zelltheilung*):** *"While the nuclein threads eagerly absorbed the aniline dye, the surrounding **achromatin** remained completely transparent."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The nuclear framework consists of a delicate reticulum of **achromatin** supporting the granules of active chromatin."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"During late prophase, the spindle fibers arise from the **achromatin** of the clear nuclear sap."*

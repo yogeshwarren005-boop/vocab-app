@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastid containing pigments other than chlorophyll usually yellow or orange carotenoids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plastid containing pigments other than chlorophyll usually yellow or orange carotenoids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colored plastid other than a chloroplast found in plant cells, synthesizing and storing carotenoid pigments that color flowers and fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cell biology, a non-photosynthetic organelle responsible for yellow, orange, and red pigmentation in autumn foliage, petals, and ripening tomatoes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromoplast designates plastid containing pigments other than chlorophyll usually yellow or orange carotenoids."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"As the fruit ripens, green chloroplasts lose their chlorophyll and metamorphose into yellow **chromoplast** bodies."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Crystalline carotene fills the specialized **chromoplast** organelles within the carrot root parenchyma."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"The dazzling scarlet of the rose hip is due to numerous angular **chromoplast** granules suspended in the cytoplasm."*

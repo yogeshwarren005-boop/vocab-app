@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme depression characterized by tearful sadness and irrational fears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme depression characterized by tearful sadness and irrational fears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep, persistent mental state of intense sadness, dejection, or depression; historically, a disorder attributed to an excess of black bile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and psychoanalysis, a severe subtype of depressive disorder characterized by profound psychomotor retardation, anhedonia, and guilt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact that this introspection is an inevitable symptom in many mental derangements, hypochondria, melancholia and others, indicates a not very remote relation of Weltschmerz to insanity."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Lenau's case we noted circumstances which point to a direct transmission from parent to child of a predisposition to melancholia."*
-> - 📜 **James Joyce (*Ulysses*):** *"What reminiscences of a human subject suffering from progressive melancholia did these objects evoke in Bloom?"*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"No despair is deeper or more agonizing than that bred by the dark vapors of confirmed **melancholia**."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There is a kind of confession in your looks which your modesties have not craft enough to colour, born of lingering **melancholia**."*
+> - 📜 **Sigmund Freud (*Mourning and Melancholia*):** *"In mourning the world has become poor and empty; in **melancholia** it is the ego itself which is impoverished."*

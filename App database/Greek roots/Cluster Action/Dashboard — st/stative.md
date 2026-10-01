@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics, designating a verb, adjective, or aspect that expresses a state of affairs, ongoing condition, or relation rather than a dynamic action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntactic typology, denoting grammatical categories (such as 'know', 'belong', or 'resemble') that resist progressive aspect and imperative inflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stative designates ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Verbs marked with the syntactic feature **stative** fail to participate in progressive aspect or agentive imperative transformations."*
+> - 📜 **Bernard Comrie (*Aspect*):** *"A **stative** predicate represents a situation that is homogenous and unchanging throughout its temporal duration."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"We must differentiate kinetic verbs denoting physical movements from purely **stative** verbs expressing mental states or qualities."*

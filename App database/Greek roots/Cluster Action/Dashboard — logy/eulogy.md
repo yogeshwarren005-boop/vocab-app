@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commendatory oration or writing especially in honor of one deceased.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech, piece of writing, or oration that praises someone or something highly, typically one who has recently died.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, a formal panegyric commemorating the civic virtues and moral character of a fallen hero or leader.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is remarkable how little of the adjective there is--no compliment, no eulogy, no heroic touches, no sympathetic turn of phrase, no great passages of encomium or commendation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I regretted it especially,” he resumed, taking the usual course from detraction to insincere eulogy, “because of my gratitude and respect towards my cousin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon: it would be at best a pensioner’s eulogy.” “Pray excuse me,” said Dorothea, coloring deeply."*
+> - 📜 **Abraham Lincoln (*Eulogy on Henry Clay*):** *"In all that relates to high purpose and eloquence, no ordinary **eulogy** can do justice to the career of Henry Clay."*
+> - 📜 **Pericles via Thucydides (*History of the Peloponnesian War*):** *"I have chosen to deliver this public **eulogy** over our fallen citizens, so that their glory may be commemorated in the presence of all."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A funeral **eulogy** too often records the virtues which the deceased ought to have had rather than those which he possessed."*

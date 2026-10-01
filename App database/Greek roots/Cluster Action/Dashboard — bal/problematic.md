@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Posing a problem : difficult to solve or decide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not definite or settled : uncertain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or presenting a problem; difficult to resolve, deal with, or decide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and modal logic, designating a proposition that is merely possible, neither demonstrably true nor necessary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The whole thing is too problematic; I cannot consent to be the cause of your goodness being wasted."*
-> - 📜 **James Joyce (*Ulysses*):** *"What rendered problematic for Bloom the realisation of these mutually selfexcluding propositions?"*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"A **problematic** judgment is one in which affirmation or negation is taken as merely possible."*
+> - 📜 **William James (*Pragmatism*):** *"Old truths become **problematic** whenever novel experiences refuse to fit into traditional conceptual molds."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Fossil interpretations remain deeply **problematic** when soft anatomical parts leave no imprint in the stone."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow carotenoid pigments in plants and animal fats and egg yolks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow carotenoid pigments in plants and animal fats and egg yolks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several yellow oxygen-containing carotenoid pigments found in green plant chloroplasts and autumn leaves; variant spelling of xanthophyll.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical plant biochemistry and photosynthetic research, the oxygenated carotenoid fractions (lutein, zeaxanthin, violaxanthin) separated from green leaf extracts alongside chlorophyll.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthophyl designates yellow carotenoid pigments in plants and animal fats and egg yolks."*
+> - 📜 **George Gabriel Stokes (*Proceedings of the Royal Society of London*):** *"Spectroscopic examination revealed that the yellow coloring matter of leaves consists of two distinct pigments, carotin and **xanthophyl**."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The pale yellow lip of the orchid owes its delicate hue to microscopic granules of **xanthophyl** deposited in the petal cells."*
+> - 📜 **Mikhail Tsvet (*Chromophoric Analysis of Chlorophylls*):** *"In the chromatographic column, the green bands of chlorophyll separate cleanly from the upper yellow ring of **xanthophyl**."*

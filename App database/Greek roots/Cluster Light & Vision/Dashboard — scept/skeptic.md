@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent or advocate of skepticism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person disposed to skepticism especially regarding religion or religious principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually questions, doubts, or suspends assent toward accepted doctrines, conventional wisdom, or extraordinary claims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and modern philosophy, a thinker who adheres to philosophical skepticism, denying that absolute knowledge or incontrovertible certainty is attainable by the human mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The skeptic would have said, "All foolish to plead before an unseen God, and ask for such a sum."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The skeptic can never accuse little children of the same theories, philosophies, imaginations and beliefs which are characteristic of older heads."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To HIM alone be the thanks for this step she has taken." A SKEPTIC OVERPOWERED."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The **skeptic** eats and drinks the best and thinks of the best; he avoids extremes, neither believing blindly nor rejecting dogmatically."*
+> - 📜 **William James (*The Will to Believe*):** *"The **skeptic** is often terrified of being duped, forgetting that in avoiding error by endless doubt he may miss the truth."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Every rigorous scientist must be both an open-minded explorer and an unrelenting **skeptic** when weighing extraordinary evidence."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnetic iron sulfide mineral with composition Fe_{1-x}S (x = 0 to 0.2), characterized by a metallic bronze-brown color and dark grayish-black streak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and structural engineering, a common sulfide mineral whose oxidation in concrete aggregates produces secondary sulfate minerals (thaumasite and ettringite) causing catastrophic swelling and structural failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Fe_{2}S_{3} (Cu 34·4, Fe 30·5, and S 35·1 per cent.), but usually the ore is not in this condition, being mechanically mixed with large quantities of iron pyrites, and very often with pyrrhotite."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"When heated in an atmosphere free from oxygen, this pyrites loses some of its sulphur and approaches pyrrhotite in composition."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"The magmatic segregation of nickeliferous **pyrrhotite** at Sudbury represents one of the world's great concentrations of ore."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Because of structural vacancies in its iron lattice, **pyrrhotite** exhibits distinct ferrimagnetism absent in stoichiometric pyrite."*
+> - 📜 **Edward Salisbury Dana (*Textbook of Mineralogy*):** *"Crystals of **pyrrhotite** are commonly tabular hexagonal plates, often associated with pentlandite and siderite."*

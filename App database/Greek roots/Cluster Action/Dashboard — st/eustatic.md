@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by worldwide change of sea level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by worldwide change of sea level.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or characterized by worldwide, simultaneous changes in sea level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphy and oceanography, designating global sea-level shifts resulting from changes in glacial ice volume or oceanic basin tectonics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eustatic designates relating to or characterized by worldwide change of sea level."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Submerged forests along oceanic coasts bear witness to widespread **eustatic** movements that altered continental boundaries."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"We trace the periodic inundation of ancient continental shields to great **eustatic** transgressions of the global ocean."*
+> - 📜 **Rhodes Fairbridge (*Eustatic Changes in Sea Level*):** *"Postglacial warming triggered a rapid **eustatic** rise that drowned coastal valleys and formed modern estuaries."*

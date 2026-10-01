@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grey or greenish-blue mineral consisting of aluminum silicate in crystalline form; occurs in metaphoric rock, used as a refractory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grey or greenish-blue mineral consisting of aluminum silicate in crystalline form; occurs in metaphoric rock, used as a refractory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue silicate mineral of aluminium (Al2SiO5), more commonly known in modern mineralogy as kyanite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology, an index mineral of high-pressure metamorphic pelites, displaying anisotropic hardness across its bladed crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanite designates a grey or greenish-blue mineral consisting of aluminum silicate in crystalline form; occurs in metaphoric rock, used as a refractory."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The bladed sky-blue crystals of **cyanite** occur abundantly in mica schists and metamorphic gneisses."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The presence of **cyanite** in alpine metamorphic rocks indicates crystallization under tremendous lithostatic pressure."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Microscopic examination reveals blue needles of **cyanite** embedded within garnet-bearing crystalline schists."*

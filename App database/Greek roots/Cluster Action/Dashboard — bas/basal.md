@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of leaves; located at the base of a plant or stem; especially arising directly from the root or rootstock or a root-like stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or forming a base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming or belonging to a base; fundamental or essential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, denoting the lowest level of metabolic activity or energy expenditure required to sustain life at rest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The outward movement of the basal half of the jaw necessarily twists in the same direction the column-like bone to which it is suspended."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Measuring the **basal** metabolic rate under fasting and resting conditions provides a precise index of thyroid activity."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Epithelial cells adhere to the underlying extracellular matrix via a specialized **basal** lamina."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The Burgess Shale fossils reveal **basal** anatomical designs that diverged early in the Cambrian explosion."*

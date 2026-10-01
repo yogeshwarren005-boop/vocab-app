@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erythr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe localized facial neuralgic disorder accompanied by unilateral facial flushing and redness (a variant of cluster headache).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a trigeminal autonomic cephalgia characterized by excruciating orbital pain, ipsilateral conjunctival injection, and facial erythema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroprosopalgia designates a term designating an entity, condition, or phenomenon derived from greek erythr."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"The patient endured paroxysms of **erythroprosopalgia**, during which the left half of the face flushed crimson with agony."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Vasomotor headache syndromes such as **erythroprosopalgia** demonstrate the profound influence of sympathetic nerves on cranial vessels."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The unilateral burning flush of **erythroprosopalgia** recurred nightly with clockwork periodicity."*

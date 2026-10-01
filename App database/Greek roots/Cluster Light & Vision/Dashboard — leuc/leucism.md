@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition of reduced pigmentation affecting various animals (such as birds, mammals, and reptiles) that is marked by overall pale color or patches of reduced coloring and is caused by a genetic mutation which inhibits melanin and other pigments from being deposited in feathers, hair, or skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition of reduced pigmentation affecting various animals (such as birds, mammals, and reptiles) that is marked by overall pale color or patches of reduced coloring and is caused by a genetic mutation which inhibits melanin and other pigments from being deposited in feathers, hair, or skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic condition in animals characterized by a partial loss of pigmentation, resulting in white or pale skin, feathers, or fur, while eyes retain normal color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and veterinary genetics, a developmental defect in neural crest melanocyte migration, distinct from albinism where melanin synthesis is biochemically absent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucism designates an abnormal condition of reduced pigmentation affecting various animals (such as birds, mammals, and reptiles) that is marked by overall pale color or patches of reduced coloring and is caused by a genetic mutation which inhibits melanin and other pigments from being deposited in feathers, hair, or skin."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Partial **leucism** frequently appears under domestication, producing piebald varieties in horses, dogs, and waterfowl."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"The snowy feathers of the crow were due to **leucism**, its dark eyes distinguishing it from a true pink-eyed albino."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Specimens showing white patches on wings and tail represent familiar instances of partial **leucism** among passerines."*

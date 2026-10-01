@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the naked eye (especially of rocks and anatomical features).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible to the naked eye (especially of rocks and anatomical features).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large enough to be seen with the naked eye; macroscopic, especially as used in geology and petrology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and field mineralogy, designating rock texture, mineral grains, and structural fabric observable in hand specimens without thin-section microscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megascopic designates visible to the naked eye (especially of rocks and anatomical features)."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"A **megascopic** description of the hand specimen should note the color, grain size, and fracture of the mineral."*
+> - 📜 **Archibald Geikie (*The Founders of Geology*):** *"Field geologists rely heavily on **megascopic** features to map formations across expansive mountain terrains."*
+> - 📜 **Edward Salisbury Dana (*A Text-Book of Mineralogy*):** *"The **megascopic** identification of porphyritic basalt depends upon conspicuous feldspar phenocrysts embedded in the matrix."*

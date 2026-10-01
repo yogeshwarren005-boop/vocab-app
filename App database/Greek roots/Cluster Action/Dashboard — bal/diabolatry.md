@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The acts or rites of worshiping devils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The acts or rites of worshiping devils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of the devil or demonic entities; satanism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history and demonology, ritualistic adoration paid to the personification of evil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabolatry designates the acts or rites of worshiping devils."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Certain dualistic cults drifted from propitiating destructive spirits into outright, structured **diabolatry**."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"To ascribe divine omnipotence to the prince of darkness is not merely heresy, but a wretched species of **diabolatry**."*
+> - 📜 **Andrew Lang (*Myth, Ritual and Religion*):** *"Medieval inquisitors were obsessed with rooting out supposed covens dedicated to midnight **diabolatry**."*

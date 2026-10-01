@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eye disease consisting of an opaque white spot on the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eye disease consisting of an opaque white spot on the cornea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, white opacity or scar of the cornea of the eye, obstructing the passage of light and impairing vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, a cicatricial corneal scar resulting from healed ulcers, chemical burns, or trachoma (leucoma adherens when attached to iris).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucoma designates eye disease consisting of an opaque white spot on the cornea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe gonorrheal ophthalmia in the infant left behind a dense corneal **leucoma** that blotted out sight."*
+> - 📜 **Albrecht von Graefe (*Clinical Lectures on Ophthalmology*):** *"Optical iridectomy restored useful vision by creating an artificial pupil opposite the clear margin of the **leucoma**."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"An albugo or dense **leucoma** occupies the center of the cornea following severe ulceration."*

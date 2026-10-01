@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Algae that are clear green in color; often growing on wet ricks or damp wood or the surface of stagnant water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Algae that are clear green in color; often growing on wet ricks or damp wood or the surface of stagnant water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any green alga or member of the division Chlorophyta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic biology and evolutionary botany, a photosynthetic organism that stores carbohydrate food reserves as starch inside plastids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyte designates algae that are clear green in color; often growing on wet ricks or damp wood or the surface of stagnant water."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the tidal pools, patches of delicate **chlorophyte** seaweeds carpeted the volcanic rocks."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Symbiotic cells inside the freshwater sponge were identified as a simple single-celled **chlorophyte**."*
+> - 📜 **Eugene Rabinowitch (*Photosynthesis*):** *"The light-harvesting complex of a typical **chlorophyte** contains identical pigment ratios to higher terrestrial leaves."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light-emitting organ; especially : one of the luminous spots on various marine mostly deep-sea fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light-emitting organ; especially : one of the luminous spots on various marine mostly deep-sea fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light-emitting glandular organ found in certain bioluminescent marine animals, such as lanternfish, anglerfish, and squids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and deep-sea ecology, complex dermal organs equipped with reflective tapeta, lenses, and filters to control light emission for counterillumination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photophore designates a light-emitting organ; especially : one of the luminous spots on various marine mostly deep-sea fishes."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Each **photophore** along the flank of the deep-sea fish gleamed with an icy blue light, complete with miniature lens and reflector."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Benthic squids extinguish every **photophore** when alarmed, vanishing instantly into the ink of the abyss."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"The arrangement of the **photophore** groups along the ventral margin serves as the principal taxonomic guide to lanternfish genera."*

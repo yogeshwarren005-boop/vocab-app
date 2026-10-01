@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A whitish viscid discharge from the vagina resulting from inflammation or congestion of the mucous membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A whitish viscid discharge from the vagina resulting from inflammation or congestion of the mucous membrane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick, whitish or yellowish discharge from the female genital tract; variant American spelling of leucorrhea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology, an abnormal vaginal exudate resulting from cervical irritation, bacterial vaginosis, or hormonal imbalance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukorrhea designates a whitish viscid discharge from the vagina resulting from inflammation or congestion of the mucous membrane."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent **leukorrhea** in an elderly woman warrants thorough endometrial examination to exclude occult carcinoma."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The discharge known as **leukorrhea** arises from chronic catarrhal inflammation of the cervical canal."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Proper sanitation and ventilation alleviated the distressing symptoms of chronic **leukorrhea** in hospital patients."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exhibiting many colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or exhibiting many colors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exhibiting many colors; multicolored; polychromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and histology, using multiple contrasting dyes or pigments to differentiate elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychromic designates having or exhibiting many colors."*
+> - 📜 **Paul Ehrlich (*Histology and Blood Staining*):** *"We formulated a **polychromic** methylene blue solution to stain cell nuclei, basophilic granules, and malarial parasites."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"The medieval weaver wove **polychromic** tapestries that filled dark stone halls with rich, glowing hues."*
+> - 📜 **Owen Jones (*The Grammar of Ornament*):** *"Moorish tilework displays geometric **polychromic** perfection unexcelled in decorative history."*

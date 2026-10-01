@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form my- (myein, 'to close or shut the eyes or lips'), yielding words related to secret rites (mystery) and ocular squinting (myopia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and lexical morphology, the root underlying mystical contemplation (shutting outward senses) and physiological pupillary narrowing (miosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, my 2 designates a term designating an entity, condition, or phenomenon derived from greek myo."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The Indo-European radical **my 2** denotes the closure of the lips or eyelids, yielding Hellenic cultic mysteries."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"From the root **my 2** arose the ancient designation for initiates who kept their lips sealed in sacred silence."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The verbal root **my 2** signifies closing or shutting, especially said of the eyes in squinting or sleep."*

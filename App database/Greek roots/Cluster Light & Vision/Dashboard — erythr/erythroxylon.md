@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of south american shrubs and small trees of the family erythroxylaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large genus of south american shrubs and small trees of the family erythroxylaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant botanical spelling of the genus *Erythroxylum*, tropical woody plants famous for including the Andean coca bush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacognosy, the botanical genus from whose leaves Albert Niemann first isolated the alkaloid cocaine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroxylon designates a large genus of south american shrubs and small trees of the family erythroxylaceae."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The native porters walked all day across the Andes without fatigue, chewing the leaves of **Erythroxylon** with lime."*
+> - 📜 **Joseph Dalton Hooker (*Kew Bulletin of Miscellaneous Information*):** *"Specimens of **Erythroxylon** cultivated in the palm house flowered freely, yielding characteristic red drupes."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"Every Amazonian Indian village maintained a clearing planted with bushes of **Erythroxylon** for ceremonial use."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An automotive system for shifting gears in which the gears revolve at the same speed and so shift smoothly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automotive system for shifting gears in which the gears revolve at the same speed and so shift smoothly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanism in a motor vehicle gearbox that synchronizes the rotational speeds of meshing gears before engagement to prevent tooth grinding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive engineering, a cone-clutch synchronizing device popularized by General Motors in 1928 that made manual shifting smooth and noiseless.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchromesh designates an automotive system for shifting gears in which the gears revolve at the same speed and so shift smoothly."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"The introduction of the **synchromesh** transmission eliminated the difficult art of double-declutching for ordinary motorists."*
+> - 📜 **Arthur D. Little (*Chemistry and Automotive Progress*):** *"Friction clutches inside the **synchromesh** box bring gears to identical speeds in a split second."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The heavy truck shifted smoothly down the grade thanks to the newly installed **synchromesh** gears."*

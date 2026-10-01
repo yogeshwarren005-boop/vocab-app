@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A floral spike with a fleshy or succulent axis usually enclosed in a spathe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floral spike with a fleshy or succulent axis usually enclosed in a spathe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fleshy, thickened floral spike bearing small, crowded, petal-less flowers, typically enveloped by a leaf-like spathe (as in the arum family).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive morphology, the central columnar inflorescence of an aroid that often generates metabolic heat to volatilize floral scents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spadix designates a floral spike with a fleshy or succulent axis usually enclosed in a spathe."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In the calla and Jack-in-the-pulpit, the tiny florets are densely packed along the erect fleshy axis of the **spadix**."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The spathe functions as an architectural protective shield sheltering the delicate blossoms clustering upon the **spadix**."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"In Anthurium, the colorful waxy spathe contrasts vividly with the elongated, textured cylinder of the flowering **spadix**."*

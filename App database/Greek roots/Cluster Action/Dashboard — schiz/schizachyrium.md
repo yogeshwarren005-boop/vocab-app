@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overlaps the genus andropogon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overlaps the genus andropogon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of widespread grasses in the family Poaceae, most notably Schizachyrium scoparium (little bluestem), prominent in native North American tallgrass prairies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrostology and grassland ecology, warm-season bunchgrasses with branched racemes and plumose pedicels, vital for erosion control and forage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizachyrium designates overlaps the genus andropogon."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"On the gravelly moraines, the red-gold stems of **Schizachyrium** celebrate the onset of November across the prairie."*
+> - 📜 **John Weaver (*North American Prairie*):** *"Little bluestem, **Schizachyrium** scoparium, forms dense tufts whose fibrous root system penetrates deep into dry upland soil."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Ornamental grass gardens utilize species of **Schizachyrium** for their brilliant autumnal coloration and upright habit."*

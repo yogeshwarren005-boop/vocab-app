@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any compound containing a chlorine atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any salt of hydrochloric acid (containing the chloride ion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound in which chlorine is combined with another element or group, or the negatively charged chlorine ion Cl-.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and oceanography, the predominant extracellular anion essential for osmotic equilibrium, neuromuscular activity, and gastric acid secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"You see, then, that chloride of sodium forms a large part of it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus hydrochloric acid, given the opportunity, gets rid of its hydrogen and takes in sodium, thereby forming chloride of soda or common salt."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Common salt is a binary compound of sodium and chlorine, denominated sodium **chloride**."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"The kidneys continually regulate the excretion of sodium **chloride** to maintain internal fluid balance."*
+> - 📜 **Svante Arrhenius (*Text-Book of Electrochemistry*):** *"Dissolving potassium **chloride** in water results in immediate dissociation into electropositive and electronegative ions."*

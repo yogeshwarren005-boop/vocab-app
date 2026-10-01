@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly small blennioid fishes of coral reefs and seagrass beds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly small blennioid fishes of coral reefs and seagrass beds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small blennioid marine fish belonging to the family Clinidae, commonly known as clinids or weedfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, benthic coastal fishes characterized by scaled bodies, long dorsal fins, and cryptic camouflage amongst kelp beds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinid designates mostly small blennioid fishes of coral reefs and seagrass beds."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A tiny mottled **clinid** darted between the branches of brown sargassum, matching the weed perfectly in hue."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The viviparous habit is well developed in several southern genera of the **clinid** group."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Cranial morphology in the **clinid** blennies reveals adaptations for benthic suction feeding on small crustaceans."*

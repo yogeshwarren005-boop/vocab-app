@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring the intensity of electromagnetic radiation (especially of the sun's rays).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring the intensity of electromagnetic radiation (especially of the sun's rays).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific measurement of the intensity of radiant energy, particularly solar and photochemical radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics and chemical kinetics, the quantitative determination of photon flux and quantum yields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinometry designates measuring the intensity of electromagnetic radiation (especially of the sun's rays)."*
+> - 📜 **Robert Bunsen (*Photochemical Researches*):** *"Accurate chemical **actinometry** requires precise measurement of hydrochloric acid formation under chlorine and hydrogen exposure."*
+> - 📜 **Cleveland Abbe (*Treatise on Meteorological Apparatus*):** *"The development of modern **actinometry** laid the empirical foundation for understanding planetary heat balance."*
+> - 📜 **Wilhelm Ostwald (*Outlines of General Chemistry*):** *"In photochemical reactions, **actinometry** provides the direct measure of quantum absorption per unit time."*

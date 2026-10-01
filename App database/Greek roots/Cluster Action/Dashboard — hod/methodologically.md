@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a methodical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a methodical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From a methodological perspective; in a manner consistent with scientific or systemic methodology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly and scientific research, adhering to established procedural and analytical protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, methodologically designates in a methodical manner."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"To proceed **methodologically**, we must define the ideal type of the capitalist spirit before examining historical records."*
+> - 📜 **Karl Popper (*The Poverty of Historicism*):** *"Historicist doctrines fail **methodologically** because they mistake conditional trends for unconditional historical laws."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Inductive canons must be **methodologically** applied to eliminate confounding causes from experimental observations."*

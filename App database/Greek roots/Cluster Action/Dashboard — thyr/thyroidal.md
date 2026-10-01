@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the thyroid gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the thyroid gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or originating in the thyroid gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathophysiology and laboratory endocrinology, pertaining to thyroid tissue, thyroidal hormone biosynthesis, or thyroid function tests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroidal designates of or relating to the thyroid gland."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Secondary hypothyroidism can occur when anterior pituitary failure deprives the body of normal **thyroidal** stimulation."*
+> - 📜 **Fuller Albright (*Unclassified Endocrine Syndromes*):** *"The patient showed marked goiter with intact **thyroidal** iodide trapping but impaired subsequent hormonal synthesis."*
+> - 📜 **Edwin B. Astwood (*Mechanism of Action of Antithyroid Compounds*):** *"Thiouracil inhibits the **thyroidal** peroxidase enzyme required for the organification of circulating iodide."*

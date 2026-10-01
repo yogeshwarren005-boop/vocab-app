@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of evergreen trees and shrubs having silvery white leaves and solitary terminal flowers with conspicuous silvery bracts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of evergreen trees and shrubs having silvery white leaves and solitary terminal flowers with conspicuous silvery bracts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the protea family Proteaceae, native to South Africa, famously including the silver tree (*Leucadendron argenteum*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fynbos botany, dioecious evergreen trees and shrubs characterized by shimmering, silky-haired foliage that gleams like burnished silver in the wind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucadendron designates large genus of evergreen trees and shrubs having silvery white leaves and solitary terminal flowers with conspicuous silvery bracts."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The silver tree of Table Mountain was catalogued under **Leucadendron**, renowned for its shining silky leaves."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of South Africa*):** *"Slopes of Table Mountain were covered with groves of **Leucadendron**, glittering in the Atlantic sun."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The cones of **Leucadendron** bear broad woody scales protecting winged seeds adapted for fire dispersion."*

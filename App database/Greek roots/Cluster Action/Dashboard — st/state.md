@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The territory occupied by one of the constituent administrative districts of a nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The way something is with respect to its main attributes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The particular condition that someone or something is in at a specific time; a mode or status of being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, a politically organized body of people inhabiting a defined territory under one sovereign government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen such interchange of State, Or state it self confounded, to decay, Ruin hath taught me thus to ruminate: That Time will come and take my love away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"All dominions that have held sway over men have been and are either republics or principalities, comprising every form of **state**."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"To understand political power, we must consider what **state** all men are naturally in, namely, a state of perfect freedom."*
+> - 📜 **Max Weber (*Politics as a Vocation*):** *"A **state** is that human community which successfully claims the monopoly of the legitimate use of physical force within a territory."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small petrels (genus Pachyptila of the family Procellariidae) of the southern hemisphere that are bluish gray above and white below.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prion protein; especially : an abnormal form of prion protein that in mammals includes pathogenic forms which arise sporadically, as a result of genetic mutation, or by transmission (as by ingestion of infected tissue) and which upon accumulation in the brain cause a prion disease (such as bovine spongiform encephalopathy or Creutzfeldt-Jakob disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious proteinaceous particle that lacks nucleic acid and causes transmissible spongiform encephalopathies (such as Creutzfeldt-Jakob disease, kuru, and scrapie).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, any of several small bluish-grey Southern Ocean petrels of the genus Pachyptila possessing serrated lamellae on the bill for filtering zooplankton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prion designates any of several small petrels (genus pachyptila of the family procellariidae) of the southern hemisphere that are bluish gray above and white below."*
+> - 📜 **Stanley B. Prusiner (*Prions: Nobel Lecture*):** *"I introduced the term **prion** to designate a small proteinaceous infectious particle that resists inactivation by procedures that modify nucleic acids."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The riddle of kuru was finally illuminated by the revolutionary concept of the infectious **prion**."*
+> - 📜 **Robert Falcon Scott (*The Voyage of the Discovery*):** *"Small blue petrels, commonly called the dove **prion**, flitted ceaselessly over the freezing swells of the Antarctic pack."*

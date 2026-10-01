@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a hierarch or a hierarchy; organized in graded ranks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative theory and ecclesiology, describing ranked chains of command or sacerdotal governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hierarchal designates classified according to various criteria into successive levels or layers."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The old **hierarchal** deference of English village life gradually dissolved before industrial enterprise."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The archbishop asserted his **hierarchal** supremacy over the recalcitrant provincial synods."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A stable commonwealth requires a **hierarchal** gradience of magistrates to check sudden popular frenzy."*

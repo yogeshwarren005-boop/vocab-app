@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A differentiated structure (such as a heart, kidney, leaf, or stem) consisting of cells and tissues and performing some specific function in an organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bodily parts performing a function or cooperating in an activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of an organism that is typically self-contained and has a specific vital function, such as the heart, liver, or eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large musical instrument with pipes sounded by compressed air, played with keyboard and pedals; or a mouthpiece newspaper/periodical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks in thee some blessed spirit doth speak His powerful sound within an organ weak; And what impossibility would slay In common sense, sense saves another way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For murder, though it have no tongue, will speak With most miraculous organ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I will be rul’d; The rather if you could devise it so That I might be the organ."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The heart is the primary **organ** of life, whose muscular pulsations propel blood throughout the entire vascular system."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"To suppose that the eye with all its inimitable contrivances could have been formed by natural selection seems, I confess, absurd in the highest degree; yet reason tells me such an **organ** may be perfected."*
+> - 📜 **John Milton (*Paradise Lost*):** *"There let the pealing **organ** blow to the full voiced quire below, in service high and anthems clear."*

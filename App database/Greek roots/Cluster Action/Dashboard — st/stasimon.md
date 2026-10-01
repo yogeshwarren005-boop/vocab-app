@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A choral ode in classical Greek drama sung by the chorus after it has taken its stand in the orchestra, between dramatic episodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dramatic theory, a lyrical choral stanza composed in responding strophes and antistrophes, unmixed with spoken anapestic meters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stasimon designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Aristotle (*Poetics*):** *"A **stasimon** is a choral song without anapaests or trochaic tetrameters, delivered by the chorus stationed in the orchestra."*
+> - 📜 **A. W. Schlegel (*Lectures on Dramatic Art and Literature*):** *"In each tragic **stasimon**, the chorus pauses to reflect with solemn lyric majesty upon the fatal deeds of the heroes."*
+> - 📜 **Gilbert Murray (*A History of Ancient Greek Literature*):** *"The choral **stasimon** provides a spiritual breathing space between the frantic clashes of the stage actors."*

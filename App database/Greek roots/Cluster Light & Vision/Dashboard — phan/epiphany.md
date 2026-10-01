@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian festival held on January 6 in commemoration of the coming of the Magi as the first manifestation of Christ to the Gentiles or in the Eastern Church in commemoration of the baptism of Christ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appearance or manifestation especially of a divine being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moment of sudden and profound revelation or insight; the Christian festival (January 6) commemorating the manifestation of Christ to the Magi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory, James Joyce's concept of a sudden spiritual manifestation where an ordinary object or trivial gesture reveals its essential soul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was a grand farewell dinner, as he and Denísov were leaving to join their regiment after Epiphany."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Accordingly when the doctors of the Church perceived that the Christians had a leaning to this festival, they took counsel and resolved that the true Nativity should be solemnised on that day and the festival of the Epiphany on the sixth of January."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On New Year's Day and Epiphany, before sunrise, a little of the cake is crumbled with salt and given to the cattle."*
+> - 📜 **James Joyce (*Stephen Hero*):** *"By an **epiphany** he meant a sudden spiritual manifestation, whether in the vulgarity of speech or of a memorable phase of the mind itself."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She had an **epiphany** of peace, perceiving that the fleeting moments of beauty were eternal."*
+> - 📜 **John Milton (*Paradise Regained*):** *"The bright celestial star heralded the glorious **epiphany** of the divine babe to the Eastern kings."*

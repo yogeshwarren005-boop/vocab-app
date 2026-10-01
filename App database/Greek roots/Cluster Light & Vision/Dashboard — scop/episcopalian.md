@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the episcopal church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of the episcopal church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of an episcopal church, particularly a member of the Protestant Episcopal Church; or relating to church government by bishops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, denoting ecclesiastical traditions adhering to the historic episcopate, liturgical prayer books, and diocesan hierarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"When Pentecost comes to us we are all lifted upon one grand common platform and shake hands and shout and weep and laugh and get so mixed up that a Presbyterian can not be distinguished from a Methodist, nor a Friend from an Episcopalian vestryman."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My parents had early given me religious impressions, and brought me through my childhood in the **episcopalian** faith."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **episcopalian** congregations in New York preserved much of the decorous liturgy of their English ancestors."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"To a Boston boy of Unitarian stock, the ritual of an **episcopalian** cathedral appeared richly ornate and foreign."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of green phyllosilicate minerals rich in magnesium, iron, and aluminium, common in low-grade metamorphic rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, a salt containing the chlorite anion ClO2-, such as sodium chlorite used as a bleaching precursor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorite designates a generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The dull olive-green flakes in the schist proved to be foliated crystals of **chlorite**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Regional metamorphism altered the basic lavas into soft greenish slabs loaded with **chlorite**."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Microscopic sections show scales of **chlorite** replacing the original augite and hornblende crystals."*

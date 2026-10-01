@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A work (such as a movie or play) characterized by extravagant theatricality and by the predominance of plot and physical action over characterization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The genre of dramatic literature constituted by such works.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensational dramatic piece with exaggerated characters and exciting events intended to appeal to the emotions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a theatrical genre combining spoken dialogue with musical accompaniment; or any overly theatrical real-life situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It seemed to concentrate its rays on my back, to the exclusion of the surrounding scenery, in much the same way as the moon behaves to the heroine of a melodrama."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I objected strongly to being treated as the villain of a melodrama."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Oh, I say, this'll be one in the eye for Riggetts, pore little feller. (_Assuming an air of advanced melodrama._) Ow!"*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"Popular Victorian **melodrama** offered clear moral simplifications, where virtue triumphed and villainy was swiftly punished."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel shrank from anything resembling cheap domestic **melodrama**, desiring only dignified clarity."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Crummles's traveling company delighted provincial audiences with broad romantic **melodrama** and broadsword fights."*

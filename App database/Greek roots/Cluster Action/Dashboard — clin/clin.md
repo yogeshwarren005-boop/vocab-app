@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: clinical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: clinical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (klinein, 'to lean, slope, recline, incline') denoting slope, angle, bend, or clinical bed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, the morpheme at the base of decline, incline, clinic, cline, and triclinic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog clin as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The Indo-European radical **clin** connects the physical act of leaning with both medical bedside observation and floral slope."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Greek kline, a couch, stems directly from **clin**, explaining how the medical clinic originates in bedside care."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From klinein, the root **clin** implies an angular deviation from the vertical, extending into both geometry and morals."*

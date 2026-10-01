@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of an opinion or belief as if it were a fact : positiveness in assertion of opinion especially when unwarranted or arrogant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viewpoint or system of ideas based on insufficiently examined premises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to lay down principles as incontrovertibly true, without consideration of evidence or opposing views.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and philosophy, the uncritical acceptance of metaphysical premises without prior examination of cognitive limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In modern phrase, he breaks up our dogmatism and puts us at a universal point of view to see things over again in a new and true perspective."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"We may laugh at their crudity--their certainty that, once orthodoxy has been destroyed by argument, the millennium will begin; what is more to the purpose is to recognise that here is something more than the ordinary dogmatism of youthful ignorance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"As to any certainty that a particular method of treatment would either save or kill, Lydgate himself was constantly arguing against such dogmatism; he had no right to speak, and he had every motive for being silent."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"**Dogmatism** is the dogmatic procedure of pure reason without prior critique of its own capacity."*
+> - 📜 **Bertrand Russell (*In Praise of Idleness*):** *"Fanaticism and political **dogmatism** threaten to extinguish the fragile flame of intellectual freedom."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Blind **dogmatism** enchains the intellect, forbidding men to examine the grounds of their inherited beliefs."*

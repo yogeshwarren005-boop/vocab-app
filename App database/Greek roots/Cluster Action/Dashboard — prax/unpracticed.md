@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having had extensive practice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having had extensive practice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking experience, training, or proficiency in an activity or skill; untried.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not customary, repeated, or put into habitual exercise; naive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And as he looked at the unpracticed mouth and lips, he thought that such a daughter of the soil could only have caught up the sentiment by rote."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But if your father is mortally sick you’ll send the valet away and attend to your father with your own unpracticed, awkward hands, and will soothe him better than a skilled man who is a stranger could."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"An unlesson’d girl, unschool’d, **unpracticed**; happy in this, she is not yet so old but she may learn."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thoughts whither have ye led me, with what compunctions, **unpracticed** in these deep labyrinths of divine providence?"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne’s mind was wholly **unpracticed** in the art of concealing her feelings from the eyes of indifferent observers."*

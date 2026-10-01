@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment of disease, especially skin disease, by exposure to ultraviolet light; radiotherapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The treatment of disease, especially skin disease, by exposure to ultraviolet light; radiotherapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic use of radiant energy, particularly sunlight or ultraviolet and infrared radiation, to treat disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical therapeutics, light-bath therapy employed in treating lupus vulgaris, rickets, and psoriasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinotherapy designates the treatment of disease, especially skin disease, by exposure to ultraviolet light; radiotherapy."*
+> - 📜 **Niels Finsen (*Phototherapy*):** *"Concentrated chemical light employed in **actinotherapy** eradicated cutaneous lupus lesions without mutilating surgery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Childhood rickets responded swiftly to systematic **actinotherapy** using quartz mercury-vapor lamps."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Modern clinicians increasingly explore **actinotherapy**, discovering salutary physiological virtues in direct solar exposure."*

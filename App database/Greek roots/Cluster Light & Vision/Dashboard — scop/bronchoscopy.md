@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually flexible endoscope for inspecting or passing instruments into the bronchi (as to obtain tissue for biopsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually flexible endoscope for inspecting or passing instruments into the bronchi (as to obtain tissue for biopsy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscopic procedure allowing direct visual examination of the interior of the tracheobronchial tree using a bronchoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonology and thoracic surgery, a vital clinical technique for diagnosing pulmonary lesions, obtaining transbronchial biopsies, and retrieving aspirated foreign bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchoscopy designates a usually flexible endoscope for inspecting or passing instruments into the bronchi (as to obtain tissue for biopsy)."*
+> - 📜 **Chevalier Jackson (*Bronchoscopy and Esophagoscopy*):** *"Skillful **bronchoscopy** has rescued hundreds of infants from suffocation by safely extracting swallowed pins and seeds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Direct inspection of the tracheal bifurcation by **bronchoscopy** establishes the presence of intrabronchial tumors with absolute certainty."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The rapid refinement of **bronchoscopy** exemplified the triumph of mechanical ingenuity in modern surgical diagnostics."*

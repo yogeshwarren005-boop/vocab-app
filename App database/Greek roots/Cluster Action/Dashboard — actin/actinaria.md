@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea anemones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea anemones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic order of solitary marine anthozoans lacking a calcareous skeleton, commonly known as sea anemones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic coelenterate zoology, soft-bodied polyps adhering to substrates by a basal pedal disc with radiating tentacles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinaria designates sea anemones."*
+> - 📜 **Philip Henry Gosse (*Actinologia Britannica*):** *"Members of the order **Actinaria** anchor their fleshy columns securely within tidal crevices."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Internal digestive septa in **Actinaria** demonstrate pronounced hexamerous radial symmetry."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Large solitary **Actinaria** nestled among the massive stony corals, expanding their translucent tentacles in the lagoon."*

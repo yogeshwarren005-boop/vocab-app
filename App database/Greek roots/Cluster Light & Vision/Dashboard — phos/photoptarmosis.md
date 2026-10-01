@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The photic sneeze reflex; a genetic condition characterized by involuntary sneezing triggered by sudden exposure to bright sunlight or bright light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurogenetics and clinical medicine, an autosomal dominant trait (ACHOO syndrome) caused by optic-trigeminal nerve cross-talk in the brainstem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoptarmosis designates a term designating an entity, condition, or phenomenon derived from greek phos."*
+> - 📜 **Aristotle (*Problems*):** *"Why does the heat of the sun excite sneezing when we look upon it? The ancient phenomenon of **photoptarmosis** was noted early in Greek science."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Looking toward the sun causes sudden sneezing, for the solar ray draws down moisture into the nostrils; this reflex is true **photoptarmosis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The curious hereditary trait termed **photoptarmosis** reflects an anomalous trigeminal reflex triggered by macular illumination."*

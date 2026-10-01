@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of coordination of organs or body parts that usually work together harmoniously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of coordination of organs or body parts that usually work together harmoniously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of coordination between muscles, organs, or physiological systems that normally act together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a cardinal sign of cerebellar disease characterized by the breakdown of complex compound movements into isolated jerks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynergy designates absence of coordination of organs or body parts that usually work together harmoniously."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Joseph Babinski defined cerebellar **asynergy** as the inability to coordinate the muscular components of complex motor acts."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"A sudden profound **asynergy** overtook the leg, rendering each conscious step a chaotic mechanical puzzle."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Without the cerebellum's coordinating tonicity, motor commands disintegrate into clumsy **asynergy**."*

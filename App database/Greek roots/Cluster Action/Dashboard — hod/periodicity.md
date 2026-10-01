@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of recurring at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of recurring at regular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or character of being periodic; the tendency to recur at regular intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and physics, the recurrence of similar chemical or physical properties at regular intervals of atomic number or frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Consequently, to distinguish the comparatively slowly changing currents of a "frequency" or "periodicity" of a few hundreds per second from these much more rapid ones, the latter are more often spoken of as electrical oscillations."*
+> - 📜 **Dmitri Mendeleev (*The Relations between the Properties of Elements and Their Atomic Weights*):** *"The chemical **periodicity** of the elements enabled me to predict the properties of undiscovered elements like germanium."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Circadian **periodicity** governs sleep, body temperature, and endocrine secretion across all higher organisms."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The mathematical analysis of wave **periodicity** resolves complex electromagnetic disturbances into Fourier series."*

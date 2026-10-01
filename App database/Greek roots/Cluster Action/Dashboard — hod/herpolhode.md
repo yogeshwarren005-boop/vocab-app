@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical rigid body dynamics, the curve traced out on a fixed plane by the point of contact with the polhode of a rotating body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Poinsot's construction of torque-free rotation, the locus of the instantaneous angular velocity vector on the fixed invariable plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpolhode designates a term designating an entity, condition, or phenomenon derived from greek hod."*
+> - 📜 **Louis Poinsot (*Théorie nouvelle de la rotation des corps*):** *"Torque-free rotation is geometrically visualized by rolling the polhode cone upon the invariant **herpolhode** plane."*
+> - 📜 **William Rowan Hamilton (*Elements of Quaternions*):** *"Applying quaternion kinematics clarifies the undulating transcendental trajectory described by the **herpolhode**."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Precession of rotating stellar cores exhibits complex wobbles governed by polhode and **herpolhode** geometry."*

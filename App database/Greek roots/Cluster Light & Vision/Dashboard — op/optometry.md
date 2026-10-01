@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or profession of examining the eyes for visual defects, measuring visual acuity, and prescribing corrective lenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic science, the discipline encompassing retinoscopy, refraction, keratometry, and the non-surgical management of ocular disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optometry designates the health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The invention of the ophthalmoscope laid the scientific foundations of modern clinical **optometry**."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Advances in **optometry** provided prism lenses that corrected the patient's intractable double vision."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Accurate **optometry** is essential in school health programs to detect uncorrected astigmatism in children."*

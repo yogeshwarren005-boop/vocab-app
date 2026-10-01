@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To happen at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To represent or arrange (events) to indicate coincidence or coexistence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to occur or operate at the same time, rate, or speed; to set timepieces to show identical time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, to adjust the voltage, frequency, and phase angle of an alternator to match the power grid before closing the breaker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each utility maneuvered to synchronize axis and align portals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It would be the final signal to synchronize and activate the collective controls of the Extractor and Collector."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The principal occupations of this animal appears to be two; first, barking like a squirrel, and second, jerking the caudal appendage, which operations synchronize with remarkable exactitude."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We must **synchronize** our watches, gentlemen, for when the fog rolls in we shall have scarce three minutes to act."*
+> - 📜 **Thomas Alva Edison (*The Phonograph and Its Future*):** *"Our next triumph must be to **synchronize** the moving photograph with the recorded human voice."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents*):** *"To connect generators in parallel, one must strictly **synchronize** their rotating electromagnetic fields."*

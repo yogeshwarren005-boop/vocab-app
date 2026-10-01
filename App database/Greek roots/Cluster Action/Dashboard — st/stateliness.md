@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate manner of doing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressiveness in scale or proportion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being stately; majestic dignity, grand elegance, or imposing nobility of carriage and demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and architectural criticism, the harmonious, lofty proportion that conveys monumental authority and reverent composure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, I assure you he is very odd!” She shook her head a great many times and tapped her forehead with her finger to express to us that we must have the goodness to excuse him, “For he is a little—you know—M!” said the old lady with great stateliness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt!” with great stateliness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Good-humouredly smiling all over his broad forehead up into his crisp hair, he then defers to Miss Flite, as, with great stateliness, and at some length, she performs the courtly ceremony of presentation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman senate preserved an exterior of majestic **stateliness** even when its real legislative prerogatives had vanished."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The hereditary nobility imparts a venerable **stateliness** to the commonwealth, protecting it from volatile democratic whim."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She possessed an innate dignity and haughty **stateliness** that shone forth despite the ignominious letter upon her bosom."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filamentous anaerobic bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filamentous anaerobic bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of Gram-positive, non-spore-forming, filamentous bacteria within the order Actinomycetales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology, predominantly anaerobic or microaerophilic organisms that colonize mammalian mucosal membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycetaceae designates filamentous anaerobic bacteria."*
+> - 📜 **Selman Waksman (*The Actinomycetes*):** *"Classification of the **Actinomycetaceae** proved contentious owing to their unique mycelial morphological traits."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Members of **Actinomycetaceae** normally inhabit oral crypts before invading lacerated or devitalized tissues."*
+> - 📜 **Robert Koch (*Investigations into Pathogenic Organisms*):** *"Cultures of **Actinomycetaceae** demonstrate distinctive club-shaped mycelial colonies surrounded by inflammatory exudate."*

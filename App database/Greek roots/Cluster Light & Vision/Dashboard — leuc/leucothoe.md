@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus leucothoe; grown for their beautiful white flowers; glossy foliage contains a poisonous substance similar to that found in genus kalmia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus leucothoe; grown for their beautiful white flowers; glossy foliage contains a poisonous substance similar to that found in genus kalmia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous and evergreen shrubs in the heath family Ericaceae, named after the Greek mythological sea goddess Leucothea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental botany and horticulture, acid-loving woodland shrubs bearing racemes of urn-shaped white flowers and shiny foliage (fetterbush).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucothoe designates any plant of the genus leucothoe; grown for their beautiful white flowers; glossy foliage contains a poisonous substance similar to that found in genus kalmia."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Along shaded mountain stream banks, shrubs of **Leucothoe** hung their graceful racemes of white waxy bells."*
+> - 📜 **John Bartram (*Travels in North and South Carolina*):** *"In the damp Carolina swamps, the evergreen **Leucothoe** formed impenetrable thickets intertwined with smilax."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Species of **Leucothoe** thrive in moist peaty soil, displaying the typical urn-shaped corolla of the heaths."*

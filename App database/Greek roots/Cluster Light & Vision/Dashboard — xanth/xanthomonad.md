@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria producing yellow non-water-soluble pigments; some pathogenic for plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria producing yellow non-water-soluble pigments; some pathogenic for plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bacterium belonging to the genus Xanthomonas or the family Xanthomonadaceae, typically characterized by yellow colonies and plant-pathogenic habits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytopathology and bacteriology, Gram-negative, aerobic rod-shaped bacteria possessing a single polar flagellum that produce the characteristic brominated aryl-polyene pigment xanthomonadin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthomonad designates bacteria producing yellow non-water-soluble pigments; some pathogenic for plants."*
+> - 📜 **Erwin Frink Smith (*Bacteria in Relation to Plant Diseases*):** *"The yellow **xanthomonad** causing black rot of cabbage invades the vascular bundles through the leaf hydathodes."*
+> - 📜 **Martinus Beijerinck (*Verzamelde Geschriften*):** *"Under aerobic incubation on agar, each **xanthomonad** strain develops glistening, slime-covered yellow colonies."*
+> - 📜 **J. M. Webster (*Principles of Plant Pathology*):** *"Bacterial leaf blight of rice caused by a virulent **xanthomonad** devastates grain yields throughout monsoon Asia."*

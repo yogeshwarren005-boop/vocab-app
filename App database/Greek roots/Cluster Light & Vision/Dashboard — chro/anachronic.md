@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronologically misplaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronologically misplaced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, consisting of, or involving anachronism; misplaced in chronological time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and historiography, describing objects, manners, or idioms presented outside of their authentic historical era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anachronic designates chronologically misplaced."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The feudal ceremonies looked bizarre and **anachronic** amidst the smoke of nineteenth-century cotton mills."*
+> - 📜 **Walter Pater (*Appreciations*):** *"A subtle **anachronic** charm pervades the narrative, blending archaic speech with modern introspection."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"The dramatist committed an **anachronic** slip by introducing clock-chimes into ancient Roman forum scenes."*

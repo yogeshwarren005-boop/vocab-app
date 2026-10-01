@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who writes poetry : a maker of verses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One (such as a creative artist) of great imaginative and expressive capabilities and special sensitivity to the medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes poetry, possessing creative imagination and expressive linguistic art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and cultural history, a visionary creator who gives memorable verbal form to universal human ideals and emotions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should my papers (yellowed with their age) Be scorned, like old men of less truth than tongue, And your true rights be termed a poet’s rage, And stretched metre of an antique song."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am here with thee and thy goats, as the most capricious poet, honest Ovid, was among the Goths."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now if thou wert a poet, I might have some hope thou didst feign."*
+> - 📜 **Ralph Waldo Emerson (*The Poet*):** *"The **poet** is the sayer, the namer, and represents beauty; he stands among partial men for the complete man."*
+> - 📜 **William Wordsworth (*Preface to Lyrical Ballads*):** *"What is a **poet**? He is a man speaking to men, endowed with more lively sensibility, more enthusiasm and tenderness."*
+> - 📜 **Walt Whitman (*Preface to Leaves of Grass*):** *"The proof of a **poet** is that his country absorbs him as affectionately as he has absorbed it."*

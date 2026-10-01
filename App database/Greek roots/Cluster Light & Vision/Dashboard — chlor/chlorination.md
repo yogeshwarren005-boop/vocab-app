@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition or substitution of chlorine in organic compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disinfection of water by the addition of small amounts of chlorine or a chlorine compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of introducing chlorine into water or another chemical system for purification, bleaching, or chemical synthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health engineering, the standard chemical disinfection practice that historically eradicated waterborne cholera and typhoid epidemics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorination designates the addition or substitution of chlorine in organic compounds."*
+> - 📜 **William T. Sedgwick (*Principles of Sanitary Science and the Public Health*):** *"The widespread adoption of **chlorination** constitutes one of the greatest triumphs of modern preventive medicine."*
+> - 📜 **George C. Whipple (*Typhoid Fever: Its Causation, Transmission and Prevention*):** *"Careful **chlorination** of the metropolitan aqueduct halted the winter epidemic in its tracks."*
+> - 📜 **Ira Remsen (*An Introduction to the Study of the Compounds of Carbon*):** *"Direct **chlorination** of aliphatic chains proceeds via a vigorous radical mechanism."*

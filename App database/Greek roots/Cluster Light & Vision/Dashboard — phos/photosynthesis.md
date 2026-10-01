@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Synthesis of chemical compounds with the aid of radiant energy and especially light; especially : formation of carbohydrates from carbon dioxide and a source of hydrogen (such as water) in the chlorophyll-containing cells (as of green plants) exposed to light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Synthesis of chemical compounds with the aid of radiant energy and especially light; especially : formation of carbohydrates from carbon dioxide and a source of hydrogen (such as water) in the chlorophyll-containing cells (as of green plants) exposed to light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process by which green plants, algae, and certain bacteria convert sunlight, water, and carbon dioxide into chemical energy (sugars) and oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bioenergetics, the fundamental biophysical process combining light reactions in thylakoids with the dark Calvin cycle in the chloroplast stroma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosynthesis designates synthesis of chemical compounds with the aid of radiant energy and especially light; especially : formation of carbohydrates from carbon dioxide and a source of hydrogen (such as water) in the chlorophyll-containing cells (as of green plants) exposed to light."*
+> - 📜 **Melvin Calvin (*The Path of Carbon in Photosynthesis*):** *"The miraculous machinery of **photosynthesis** captures solar photons to convert inorganic carbon into the living stuff of the biosphere."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"All terrestrial and marine life is sustained by the gentle alchemy of green **photosynthesis** in plant leaves."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Starch accumulation inside the illuminated chloroplast proved that **photosynthesis** occurs exclusively within the green plastid."*

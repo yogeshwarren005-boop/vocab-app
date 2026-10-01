@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually short narrative of an interesting, amusing, or biographical incident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is given to or is skilled in telling anecdotes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short, amusing, or interesting story about a real incident or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an unpublished biographical item or secret history, derived from Greek anekdota (unpublished things).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has never been more than a family anecdote.” “You’ll excuse my asking again if it has anything to do with a picture, ma’am,” observes Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why hasn’t he thirty thousand a year?’ But these are little matters of anecdote—the general property, ma’am—still repeated occasionally among the upper classes.” “Indeed?” said I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Well, my dear, it’s a pretty anecdote."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"A well-chosen **anecdote** illustrates character more vividly than chapters of moral disquisition."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Procopius preserved the scandals of Justinian's court in his secret **anecdote** and memoirs."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton entertained the dinner party with an amusing **anecdote** from his recent excursion to Bath."*

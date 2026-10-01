@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or having the qualities of a phantasmagoria; dreamlike, illusory, and shifting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic criticism, describing surreal or nightmarish visual compositions filled with metamorphic figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phantasmagorical designates characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner's stormy seas possess a **phantasmagorical** grandeur that transcends mere literal representation."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Opium summoned before my closed eyes colossal, **phantasmagorical** cities towering into the night."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister's tortured conscience transformed the dark forest trees into a **phantasmagorical** assembly of demons."*

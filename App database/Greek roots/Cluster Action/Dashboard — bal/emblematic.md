@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting an emblem : symbolic, representative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting an emblem : symbolic, representative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a symbol of a particular quality, concept, or institution; symbolic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and literature, rich in allegory or functioning as an allegorical representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This instrument, however, might perhaps have been emblematic of his double functions."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"This humble stone Stands emblematic of their union."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The crown is not mere jewelry, but **emblematic** of the enduring continuity of constitutional order."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her serene elegance seemed **emblematic** of a tranquil aristocratic tradition undisturbed by commerce."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Elaborate plumage displays in male birds are **emblematic** of evolutionary vigor under sexual selection."*

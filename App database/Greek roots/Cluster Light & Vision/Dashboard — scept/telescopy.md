@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of making and using telescopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of making and using telescopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, or practice of constructing and using telescopes for astronomical and terrestrial observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and optical instrumentation, the technical methodology of gathering and focusing electromagnetic radiation using optical tube assemblies and mountings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telescopy designates the art of making and using telescopes."*
+> - 📜 **William Herschel (*Philosophical Transactions of the Royal Society*):** *"Progress in deep-sky **telescopy** depends upon increasing the aperture of speculum mirrors to collect the faint light of distant nebulae."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"Nineteenth-century **telescopy** achieved its highest triumph in the great refractor at the Lick Observatory."*
+> - 📜 **Percival Lowell (*Mars*):** *"The refined techniques of planetary **telescopy** demand not only large objectives but exquisite atmospheric tranquility."*

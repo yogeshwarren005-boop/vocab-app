@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State as a dogma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak dogmatically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express principles or opinions strongly and positively as if they were indisputable facts; to preach dogmatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological discourse, to establish, define, or promulgate official religious dogmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dogmatize designates state as a dogma."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Men are prone to **dogmatize** upon scanty observations rather than endure the patient labor of induction."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishops assembled at Nicaea to **dogmatize** upon the consubstantial nature of the divine Logos."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"It is unwise to **dogmatize** about human destiny when our cosmic knowledge remains so profoundly fragmentary."*

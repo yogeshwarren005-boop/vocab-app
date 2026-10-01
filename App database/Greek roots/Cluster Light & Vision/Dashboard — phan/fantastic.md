@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ludicrously odd.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinarily good or attractive; imaginative, bizarre, fanciful, or existing only in the imagination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and art, characterized by unrestrained fancy, grotesque invention, or surreal transgression of realistic laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There with fantastic garlands did she make Of crow-flowers, nettles, daisies, and long purples, That liberal shepherds give a grosser name, But our cold maids do dead men’s fingers call them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or wallow naked in December snow By thinking on fantastic summer’s heat?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be fantastic may become a youth Of greater time than I shall show to be."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An irrepressible tremor gradually pervaded my frame; and, at length, there sat upon my very heart an incubus of utterly **fantastic** terror."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The crisp leaves rustled beneath his feet, and shadows danced in **fantastic** shapes upon the frosted wall."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic gargoyles display a **fantastic** vitality born of the workman's untamed northern imagination."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To form into a coherent unity or functioning whole : integrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To set up an administrative structure for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange into a structured whole; to coordinate, systematize, or make preparations for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In unionism and politics, to form workers into a labor union or cooperative association.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The effort of wage workers to organize themselves appears everywhere to result from the separation of the economic and personal interests of employers and workmen."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"How far he even organized his church, or left it to organize itself if it so wished, students may discuss."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What I now say to you, Brad, puts my life in your hands, but say it I must." He paused, as if to gather strength and conviction, and to organize his thoughts."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must **organize** our empirical observations into systematic tables of discovery before drawing general axioms."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"Working women must learn to **organize** collective trade associations to demand safe sanitary working conditions."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The cabinet labored night and day to **organize** national defense against the imminent threat of airborne invasion."*

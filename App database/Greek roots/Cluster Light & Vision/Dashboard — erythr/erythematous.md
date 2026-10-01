@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by erythema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by erythema.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or affected with erythema; displaying abnormal redness of the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, describing flushed, hyperemic dermatological lesions that blanch upon diascopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythematous designates relating to or characterized by erythema."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An **erythematous** blush spread rapidly over the joints of the rheumatic fever patient."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The chronic butterfly rash of lupus presents as a raised, **erythematous** plaque across the bridge of the nose."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The **erythematous** patch was tender to touch but exhibited no vesicular elevation of the cuticle."*

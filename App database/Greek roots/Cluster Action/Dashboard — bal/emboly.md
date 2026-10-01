@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: embolic invagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: embolic invagination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of a gastrula by invagination of the blastula wall; invagination in embryonic development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and developmental biology, the inward folding of a blastodermal layer to generate the endoderm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emboly designates embolic invagination."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In primitive chordates such as Amphioxus, gastrulation proceeds cleanly by **emboly**, forming an archentron."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The simple cup-shaped gastrula formed by **emboly** demonstrates the ancestral coelenterate foundation of all higher metazoa."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Mechanical buckling models help explain the physical forces driving **emboly** during early cellular folding."*

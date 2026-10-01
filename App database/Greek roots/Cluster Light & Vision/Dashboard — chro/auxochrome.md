@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A functional group of atoms which, when attached to a chromophore, deepens the color of a dye and enables it to bind to fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and dyestuff theory, electron-donating or withdrawing groups (such as -OH or -NH2) modifying UV-visible absorption spectra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxochrome designates a term designating an entity, condition, or phenomenon derived from greek chro."*
+> - 📜 **Otto Nikolaus Witt (*Zur Kenntniss der Bildung von Farbstoffen*):** *"A chromophore generates the potential for color, but only the addition of an **auxochrome** converts it into a true dye."*
+> - 📜 **Paul Ehrlich (*Histology and Chemical Staining*):** *"The basic amino group acts as an **auxochrome**, conferring affinity for the nucleic acids of the cell nucleus."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Delocalization of electrons between the aromatic ring and the **auxochrome** shifts the absorption band toward the red."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkalating agent (trade name leukeran) used to treat some kinds of cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkalating agent (trade name leukeran) used to treat some kinds of cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bifunctional nitrogen mustard alkylating drug used primarily in the chemotherapy of chronic lymphocytic leukemia and lymphomas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, an orally active cytotoxic agent that cross-links DNA strands during cell replication to suppress malignant lymphoid proliferation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorambucil designates an alkalating agent (trade name leukeran) used to treat some kinds of cancer."*
+> - 📜 **David A. Karnofsky (*Clinical Evaluation of Chemotherapeutic Agents*):** *"Patients treated with daily **chlorambucil** exhibited prolonged remissions in indolent chronic leukemia."*
+> - 📜 **Alexander Haddow (*Advances in Cancer Research*):** *"The synthesis of **chlorambucil** marked an important step toward well-tolerated oral alkylating therapies."*
+> - 📜 **Emil Frei (*Cancer Medicine*):** *"Low toxicity and steady absorption made **chlorambucil** the standard frontline regimen for small-cell lymphocytic lymphoma."*

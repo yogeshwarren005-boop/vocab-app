@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek porphyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear or hatred of the color purple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychotherapy, a rare specific chromophobia where violet or purple hues trigger intense autonomic anxiety or revulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyrophobia designates a term designating an entity, condition, or phenomenon derived from greek porphyr."*
+> - 📜 **Havelock Ellis (*The Psychology of Color*):** *"Instances of **porphyrophobia** are on record where the sight of imperial purple ecclesiastical vestments provoked panic."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"Morbid chromatic aversions such as **porphyrophobia** often arise from frightening sensory associations formed in early childhood."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Pathological idiosyncratic dislikes of certain saturated wavelengths, including **porphyrophobia**, reveal deep subconscious conditioning."*

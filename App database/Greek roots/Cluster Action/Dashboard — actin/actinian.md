@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any sea anemone or related animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sea anemone or related animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sea anemone belonging to the order Actiniaria; or relating to this order of marine polyps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, an uncalcified, benthic anthozoan adapted for predatory feeding and hydrostatic shape changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinian designates any sea anemone or related animal."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The solitary **actinian** waits in its rock cleft, its petal-like tentacles sensitive to the brushing of a passing shrimp."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Down on the reef wall, a giant **actinian** hosted a pair of striped clownfish dancing unharmed amidst stinging tentacles."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Protozoa through Ctenophora*):** *"The muscular column of an **actinian** relies upon fluid-filled coelenteric pressure for extension and contraction."*

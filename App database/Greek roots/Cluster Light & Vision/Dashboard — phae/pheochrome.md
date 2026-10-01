@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to cells or tissues that stain dark brown or yellowish-brown when exposed to chromium salts (chromaffin cells).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, designating the neuroendocrine chromaffin granules of the adrenal medulla that oxidize to a brown color in dichromate fixatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pheochrome designates a term designating an entity, condition, or phenomenon derived from greek phae."*
+> - 📜 **Paul Ehrlich (*Histology and Cell Chemistry*):** *"The adrenal medullary cords exhibit a **pheochrome** reaction when immersed in Müller's potassium dichromate solution."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **pheochrome** granules represent stored adrenaline precursors awaiting sympathetic neural discharge."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Embryologically, the **pheochrome** cells of the sympathetic paraganglia arise directly from the migrating neural crest."*

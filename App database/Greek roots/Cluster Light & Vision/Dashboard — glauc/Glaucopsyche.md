@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glauc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of gossamer-winged butterflies in the lycaenid subfamily Polyommatinae, commonly known as silvery blues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lepidopterology, holarctic butterflies (such as *Glaucopsyche lygdamus* and the extinct Xerces blue) displaying silvery sea-green or turquoise wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Glaucopsyche designates a term designating an entity, condition, or phenomenon derived from greek glauc."*
+> - 📜 **Vladimir Nabokov (*Speak, Memory*):** *"A flash of pale turquoise betrayed a specimen of **Glaucopsyche** sunning its wings upon the lupine foliage."*
+> - 📜 **Samuel Hubbard Scudder (*The Butterflies of the Eastern United States and Canada*):** *"The silvery underside and delicate blue gloss identify **Glaucopsyche** among our earliest spring lycaenids."*
+> - 📜 **W. J. Holland (*The Butterfly Book*):** *"The silver-blue **Glaucopsyche** flits low over mountain meadows where pea vines flourish."*

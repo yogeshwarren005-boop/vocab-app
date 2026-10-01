@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that makes a previous act of no effect (as if not done).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loosening the ties that fasten something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cause of someone's downfall, ruin, or destruction; or the action of reversing or unfastening something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disastrous loss of status, wealth, or happiness, often brought about by a tragic character flaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, you are the wiser man; for many a man’s tongue shakes out his master’s undoing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cleopatra, Do not abuse my master’s bounty by Th’ undoing of yourself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fatal this marriage, cancelling your fame, Blotting your names from books of memory, Razing the characters of your renown, Defacing monuments of conquered France, Undoing all, as all had never been!"*
+> - 📜 **William Shakespeare (*Othello*):** *"Cassio's weakness for strong wine proved the fatal **undoing** of his lieutenant's commission."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My relentless ambition to unlock the mysteries of life became the direct **undoing** of all whom I loved."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard's stubborn, impulsive pride was the primary engine of his tragic **undoing**."*

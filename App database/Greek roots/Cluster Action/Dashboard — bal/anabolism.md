@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The constructive part of metabolism concerned especially with macromolecular synthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The constructive part of metabolism concerned especially with macromolecular synthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phase of metabolism in which complex biological molecules are synthesized from simpler precursors with the consumption of energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry, constructive metabolism responsible for tissue building, cellular repair, and energetic storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabolism designates the constructive part of metabolism concerned especially with macromolecular synthesis."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life Common to Animals and Plants*):** *"Life oscillates perpetually between vital synthesis or **anabolism** and functional combustion or destruction."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"During embryonic growth, the rate of **anabolism** vastly exceeds destructive processes, resulting in rapid mass accumulation."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Evolutionary adaptations optimize cellular **anabolism** to extract and store chemical energy under fluctuating environmental conditions."*

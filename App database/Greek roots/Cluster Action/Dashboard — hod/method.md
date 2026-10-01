@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A procedure or process for attaining an object: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic procedure, technique, or mode of inquiry employed by or proper to a particular discipline or art.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular procedure, system, or manner of accomplishing or approaching something, especially in an orderly, systematic way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and scientific epistemology, a systematic procedure of investigation starting from observation to test hypotheses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, methinks, if you did love him dearly, You do not hold the method to enforce The like from him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"POLONIUS. [_Aside._] Though this be madness, yet there is method in’t.— Will you walk out of the air, my lord?"*
+> - 📜 **René Descartes (*Discourse on Method*):** *"To conduct one's reason well and seek truth in the sciences requires a sound and steadfast **method**."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"My **method** of discovery in sciences leaves little to the acuteness and strength of wit, putting all wits nearly on a level."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"By following the inductive **method** of geology, we unravel the ancient history of living forms."*

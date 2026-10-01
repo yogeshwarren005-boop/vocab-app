@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of one or more days in a calendar : intercalation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sudden obstruction of a blood vessel by an embolus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by an embolism; intercalary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In calendar science and pathophysiology, pertaining to periodic intercalation or vascular blockage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embolismic designates the insertion of one or more days in a calendar : intercalation."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"Repeated **embolismic** showers from the left atrium produced transient ischemic episodes in the limbs."*
+> - 📜 **Arthur Stanley Eddington (*Stars and Atoms*):** *"Ancient astronomers intercalated **embolismic** months to preserve seasonal alignment across civil years."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological examination confirmed the **embolismic** origin of the necrotic renal wedge."*

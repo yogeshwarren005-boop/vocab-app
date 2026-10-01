@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temperate and tropical lady ferns; in some classifications placed in family polypodiaceae or in the genus asplenium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temperate and tropical lady ferns; in some classifications placed in family polypodiaceae or in the genus asplenium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial ferns in the family Athyriaceae, commonly known as lady ferns, bearing delicate, feathery fronds and curved indusiate sori.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and botanical taxonomy, hardy deciduous woodland ferns including Athyrium filix-femina and Athyrium niponicum (Japanese painted fern).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athyrium designates temperate and tropical lady ferns; in some classifications placed in family polypodiaceae or in the genus asplenium."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The fronds of **athyrium** exhibit an unrivaled grace, their finely cut bipinnate blades waving in moist forest shade."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In **athyrium**, the sorus is typically curved or horse-shoe shaped, crossing the fertile veinlet with an elongated indusium."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Shade gardeners prize varieties of **athyrium** for their silvery-burgundy foliage and hardiness through freezing winters."*

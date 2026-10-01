@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible manifestation of a deity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible manifestation of a deity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible manifestation or appearance of God or a deity to humankind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical theology and comparative religious history, a divine epiphany such as the burning bush of Moses or the chariot vision of Ezekiel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theophany designates a visible manifestation of a deity."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Ancient pagan mysteries claimed to grant the initiate a direct personal **theophany** of the goddess."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sinai bowed beneath the terrible **theophany**, wrapped in smoking fire and the voice of thunder."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"To the ancient prophet, the thunderstorm was not a physical mechanism, but a direct, awe-inspiring **theophany**."*

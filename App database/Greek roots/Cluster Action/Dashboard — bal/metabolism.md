@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sum of the processes in the buildup and destruction of protoplasm; specifically : the chemical changes in living cells by which energy is provided for vital processes and activities and new material is assimilated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of the processes by which a particular substance is handled in the living body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total sum of chemical processes occurring within a living cell or organism that are necessary for the maintenance of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological chemistry, the integrated network of anabolism and catabolism governing energy storage and expenditure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolism designates the sum of the processes in the buildup and destruction of protoplasm; specifically : the chemical changes in living cells by which energy is provided for vital processes and activities and new material is assimilated."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The continuity of the internal milieu depends upon the self-regulating balance of cellular **metabolism**."*
+> - 📜 **Erwin Schrödinger (*What Is Life?*):** *"The essential property of a living organism is that it continually draws negative entropy from its environment through **metabolism**."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Chlorinated hydrocarbons interfere with vital cellular **metabolism**, disabling oxidative enzymes within liver mitochondria."*

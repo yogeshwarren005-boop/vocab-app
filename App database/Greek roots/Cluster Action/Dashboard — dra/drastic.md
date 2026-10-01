@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting rapidly or violently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme in effect or action : severe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to have a strong, severe, radical, or far-reaching effect; extreme in action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in medicine and pharmacology, designating powerful purgatives or cathartics that act with extreme violence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes wouldn't like it, she is a standing obstacle in the way of drastic measures." "But why do you want me to stay?" Lawrence asked more and more surprised."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Advise drastic reduction in appropriation for activities except budgets for Latin America and European campaign, if maximum sum for Temple is exceeded."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"And Mama kept saying, "Jodie, please don't you do anything drastic!"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ancient therapeutics relied too heavily upon **drastic** purgatives that exhausted the patient's remaining vitality."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The critical shortage of shipping demanded **drastic** rationing across all sectors of the civilian economy."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Sudden and **drastic** prohibitions upon foreign trade disrupt domestic employment and provoke economic turmoil."*

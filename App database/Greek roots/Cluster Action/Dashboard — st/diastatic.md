@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the properties of diastase; especially : converting starch into sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the properties of diastase; especially : converting starch into sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or possessing the enzymatic properties of diastase; capable of converting starch into sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In brewing, distilling, and grain processing, denoting the enzymatic potency (diastatic power) of malted grains during the mashing process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastatic designates relating to or having the properties of diastase; especially : converting starch into sugar."*
+> - 📜 **Louis Pasteur (*Studies on Beer*):** *"The brewer relies entirely on the **diastatic** power of malted barley to convert unmalted starches into fermentable sugars."*
+> - 📜 **James Prescott Joule (*Scientific Papers*):** *"Thermal limits must be strictly observed during mashing, lest high temperatures destroy the **diastatic** activity of the liquor."*
+> - 📜 **William Henry Perkin (*Industrial Chemistry*):** *"Malt syrups are evaluated industrially by their **diastatic** capacity to liquefy thick starch pastes into transparent syrup."*

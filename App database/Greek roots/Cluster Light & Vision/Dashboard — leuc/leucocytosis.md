@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British and historical spelling of leukocytosis; an abnormal increase in the number of circulating white blood cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, a physiological or reactive leukocytosis occurring in response to acute bacterial infections, inflammation, trauma, or stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucocytosis designates an abnormal increase in the number of white blood cells in the blood as a result of infection (as in leukemia)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A marked polymorphonuclear **leucocytosis** of twenty thousand cells per cubic millimeter accompanied the lobar pneumonia."*
+> - 📜 **William Henry Welch (*General Pathology*):** *"The inflammatory focus acts by chemotaxis upon the marrow, evoking an immediate systemic **leucocytosis**."*
+> - 📜 **Paul Ehrlich (*Studies on Blood Cell Genesis*):** *"Counting the blood cells revealed an intense digestive **leucocytosis** two hours after a heavy protein meal."*

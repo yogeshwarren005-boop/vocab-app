@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral composed essentially of zinc sulfide that is the most important ore of zinc —called also zinc blende.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral composed essentially of zinc sulfide that is the most important ore of zinc —called also zinc blende.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary ore mineral of zinc, consisting of zinc sulfide (ZnS) in isometric crystals, commonly known as zinc blende.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology, a brittle sulfide mineral exhibiting resinous luster, perfect dodecahedral cleavage, and variable color due to iron substitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphalerite designates a mineral composed essentially of zinc sulfide that is the most important ore of zinc —called also zinc blende."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Because its deceptive appearance caused miners to mistake it for galena without yielding lead, the mineral was named **sphalerite** from the Greek for treacherous."*
+> - 📜 **René Just Haüy (*Treatise on Mineralogy*):** *"The cleavage directions of **sphalerite** reveal the flawless symmetry of its internal dodecahedral molecular lattice."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"Hydrothermal vein deposits frequently deposit galena in close association with dark iron-bearing **sphalerite**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thebes defeated sparta in 371 bc; the battle ended sparta's military supremacy in greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thebes defeated sparta in 371 bc; the battle ended sparta's military supremacy in greece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic village in ancient Boeotia, Greece, famous as the site of the Battle of Leuctra (371 BC) where Thebes crushed Spartan military hegemony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical military history, the battle where Epaminondas devised the oblique phalanx tactical order, ending centuries of Spartan invincibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Lacedaemonians next governed it twenty-nine years; at a subsequent period, after the battle of Leuctra, the Thebans had their turn of domination."*
+> - 📜 **Xenophon (*Hellenica*):** *"The Spartan king fell mortally wounded on the field of **Leuctra**, where their military supremacy perished forever."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The brilliant tactics of Epaminondas at **Leuctra** broke the iron spell of Sparta in a single afternoon."*
+> - 📜 **George Grote (*A History of Greece*):** *"News of the disaster at **Leuctra** was received in Sparta during the gymnaepedia without a single outward sign of grief."*

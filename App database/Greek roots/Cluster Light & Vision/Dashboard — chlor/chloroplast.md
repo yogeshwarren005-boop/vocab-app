@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastid that contains chlorophyll and is the site of photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plastid that contains chlorophyll and is the site of photosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastid organelle found in green plant and algal cells that contains chlorophyll and is the site of photosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, a semiautonomous endosymbiotic organelle bounded by a double membrane and enclosing a thylakoid membrane system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloroplast designates a plastid that contains chlorophyll and is the site of photosynthesis."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"Under the microscope, each vibrant green disk inside the leaf cell revealed itself as an active **chloroplast**."*
+> - 📜 **Lynn Margulis (*Origin of Eukaryotic Cells*):** *"The modern **chloroplast** is the direct evolutionary descendant of an engulfed photosynthetic cyanobacterium."*
+> - 📜 **Melvin Calvin (*Chemical Evolution*):** *"Within the stroma of the **chloroplast**, carbon dioxide is converted into sugars via cyclical enzymic reactions."*

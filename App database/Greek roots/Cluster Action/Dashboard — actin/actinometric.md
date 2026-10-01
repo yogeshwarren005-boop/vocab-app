@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to actinometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to actinometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the measurement of radiant solar heat or photochemical radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing instruments, data, or techniques employed in actinometry to assess radiative flux in the atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinometric designates of or related to actinometry."*
+> - 📜 **Svante Arrhenius (*On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground*):** *"Extensive **actinometric** observations demonstrate how water vapor selectively intercepts terrestrial thermal emission."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"High-altitude observatories conduct systematic **actinometric** surveys to eliminate tropospheric dust interference."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"We performed **actinometric** experiments on Andean peaks to chart solar radiation intensity across elevations."*

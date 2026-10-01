@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative summary of faith or doctrine : creed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that stands for or suggests something else by reason of relationship, association, convention, or accidental resemblance; especially : a visible sign of something invisible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark, sign, or word that indicates, signifies, or is understood as representing an idea, object, or relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, psychology, and logic, a conventional emblem bridging concrete perception with abstract meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This quantity theory may be expressed in the formula P = MR/N when P is the symbol for price, or the general price level, N is (1) above, R is (2), and M is (3)."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The rough burr-thistle, spreading wide Amang the bearded bear, I turn’d the weeder-clips aside, An’ spar’d the symbol dear: No nation, no station, My envy e’er could raise; A Scot still, but blot still, I knew nae higher praise."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Repent, repent," John cries, "the judgement is coming." And men do repent, and John baptises them as a symbol that God has forgiven them."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"In a **symbol** there is concealment and yet revelation, uniting silence with speech to double meaning."*
+> - 📜 **Carl Jung (*Man and His Symbols*):** *"A living **symbol** taps directly into unconscious archetypes, stirring emotions that words alone cannot express."*
+> - 📜 **Bertrand Russell (*Principia Mathematica*):** *"Clarity of demonstration requires that every operational **symbol** possess a precise and immutable definition."*

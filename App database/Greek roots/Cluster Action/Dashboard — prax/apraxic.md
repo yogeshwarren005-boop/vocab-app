@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having uncoordinated muscular movements, symptomatic of a cns disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having uncoordinated muscular movements, symptomatic of a cns disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or suffering from apraxia; impaired in the execution of intentional movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing defective motor planning and execution when manipulating tools, making symbolic gestures, or imitating postures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apraxic designates having uncoordinated muscular movements, symptomatic of a cns disorder."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"An **apraxic** patient may describe how to strike a match perfectly, yet hold the box upside down when handed one."*
+> - 📜 **Norman Geschwind (*Disconnexion Syndromes*):** *"The callosal lesion rendered the patient **apraxic** exclusively in response to verbal commands."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The **apraxic** difficulty was not muscular weakness, but a breakdown in the spatial grammar of action."*

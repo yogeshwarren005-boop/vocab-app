@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial and mannered quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial and mannered quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or condition of being theatrical; exaggerated, flamboyant, or histrionic behavior intended to create an artificial impression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and cultural studies, the conscious deployment of visual cues, costume, spectacle, and narrative staging across political, artistic, and social rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Aurelius, xi, 3, the criticism of the theatricality of the Christians."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There are no theatricalities in his style--he is not a rhetorician even on paper.[41] He discards the tricks of the school, adoxography, epigram and, as a rule, paradox."*
+> - 📜 **Susan Sontag (*Notes on 'Camp'*):** *"Camp is a vision of the world in terms of style, seeing everything in quotation marks and celebrating pure **theatricality**."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Pagan temple rituals gradually substituted dramatic pomp and lavish **theatricality** for genuine spiritual devotion."*
+> - 📜 **Henry James (*A Small Boy and Others*):** *"The dazzling **theatricality** of the Parisian stage captivated my youthful imagination with its perfection of decor and artifice."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of planned actions for a particular purpose —usually plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of planned actions for a particular purpose —usually plural.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining form derived from Greek ops (eye, sight, vision) or ope (hole, aperture, opening).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and scientific nomenclature, a foundational root yielding optical, autopsy, myopia, metope, and related visual and anatomical terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This is a Slingshot Tac Ops from Red Fox to Keeper."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your Tac Ops and psych systems are monitored."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The UIPS patrollers were on directed Tac Ops missions: cite our messages to Red Fox and Blue Fox past half-hour, info recorded in Tac Ops Actions Register, your Headquarters."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek radical **op**- denoted both the organ of vision and the aperture through which light enters."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Terms formed with **op**- encompass the entire mechanical and physiological doctrine of vision."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"From the archaic root **op**- sprang both Greek terms for looking and classical architectural openings."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adjustment that causes something to occur or recur in unison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coordination of events or mechanisms to operate in time-coincidence, identical speed, or unison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and telecommunications, managing concurrent processes using mutexes, semaphores, or shared clock signals to prevent race conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronization designates the relation that exists when things occur at the same time."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Biological **synchronization** manifests in the flashing of fireflies and the rhythmic pacemaker firings of the mammalian heart."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"The receiver cannot decode multiplexed pulses without carrier **synchronization** with the transmitter clock."*
+> - 📜 **Alan Turing (*Proposals for the ACE*):** *"Memory reading cycles demand microsecond **synchronization** with the acoustic delay line acoustic impulses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek diacosi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric polygon having two hundred sides and two hundred angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean plane geometry, a regular polygon whose interior angles each measure 178.2 degrees, virtually indistinguishable to the eye from a circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diacosigon designates a term designating an entity, condition, or phenomenon derived from greek diacosi."*
+> - 📜 **Augustus De Morgan (*A Budget of Paradoxes*):** *"To construct a regular **diacosigon** with straightedge and compass would require solving an impossible cyclotomic equation."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"The perimeter of a regular **diacosigon** inscribed within a circle approaches the circumference to three decimal places."*
+> - 📜 **William Kingdon Clifford (*Common Sense of the Exact Sciences*):** *"As the number of vertices multiplies toward the **diacosigon**, the polygon visually fuses into a continuous curve."*

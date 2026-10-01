@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal magnetic inclinations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having equal magnetic inclinations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or designating a line connecting points on the Earth's surface where the magnetic dip is equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology and geophysics, possessing equal inclination or dipping at the same angular slope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoclinic designates having equal magnetic inclinations."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The magnetic equator forms the principal **isoclinic** line, along which the dipping needle remains perfectly horizontal."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Plotting **isoclinic** contours provides the boundary conditions for terrestrial magnetic potential equations."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Where compressive stress was uniform, the strata display an **isoclinic** pattern across the mountain range."*

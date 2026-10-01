@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State as a dogma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak dogmatically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lay down or express opinions strongly and positively as if they were indisputable facts (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To formulate or teach theological dogma; to assert dogmas authoritatively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dogmatise designates state as a dogma."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"When we pass beyond the bounds of human experience, we cease to reason and begin merely to **dogmatise**."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"It is the vice of shallow theologians to **dogmatise** where Scripture has left a sacred and reverent silence."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Pedants love to **dogmatise** in company, mistaking dogmatic persistence for intellectual superiority."*

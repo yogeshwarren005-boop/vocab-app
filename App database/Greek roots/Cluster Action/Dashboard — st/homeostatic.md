@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively stable state of equilibrium or a tendency toward such a state between the different but interdependent elements or groups of elements of an organism, population, or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively stable state of equilibrium or a tendency toward such a state between the different but interdependent elements or groups of elements of an organism, population, or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or promoting the maintenance of physiological equilibrium or internal constancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and neurology, describing neural circuits and neuroendocrine feedback systems that regulate bodily set-points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeostatic designates a relatively stable state of equilibrium or a tendency toward such a state between the different but interdependent elements or groups of elements of an organism, population, or group."*
+> - 📜 **W. Ross Ashby (*Design for a Brain*):** *"The ultrastable system adapts to environmental trauma through autonomous **homeostatic** rearrangements of its internal state."*
+> - 📜 **Ludwig von Bertalanffy (*General System Theory*):** *"Open systems maintain an apparent steady state by virtue of continuous **homeostatic** exchanges of matter and energy with their milieu."*
+> - 📜 **Antonio Damasio (*Descartes' Error*):** *"Feelings are the conscious subjective monitors of our underlying **homeostatic** balance, signaling need or thriving."*

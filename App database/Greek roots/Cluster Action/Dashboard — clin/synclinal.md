@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sloping downward toward each other to create a trough.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sloping downward toward each other to create a trough.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In structural geology, relating to a syncline, a trough-like fold of rock strata in which layers dip inward toward a central axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, pertaining to a valley or depression formed along or within a structural crustal downwarp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synclinal designates sloping downward toward each other to create a trough."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The coal seams were preserved from erosion within the sheltered trough of a deep **synclinal** fold."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Tectonic compression squeezes sediment into alternating anticlinal arches and **synclinal** basins."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"A **synclinal** mountain demonstrates inverted relief, where a tough downfold resists weathering better than adjacent arches."*

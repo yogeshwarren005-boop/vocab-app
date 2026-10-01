@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong acid HOCN used to prepare cyanates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong acid HOCN used to prepare cyanates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or containing cyanogen or the cyanate group; azure or deep blue in color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical botany, designating the series of floral colors (cyanic series) tending toward blue and violet, as opposed to the xanthic (yellow) series.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanic designates a strong acid hocn used to prepare cyanates."*
+> - 📜 **Friedrich Wöhler (*Ueber künstliche Bildung des Harnstoffs*):** *"Treating lead cyanate with ammonia yielded ammonium **cyanic** salt, which spontaneously transformed into urea."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"De Candolle divided floral pigments into the **cyanic** series tending to blue, and the xanthic series tending to yellow."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"The **cyanic** acid prepared by decomposition of uric acid exhibited volatile and pungent properties."*

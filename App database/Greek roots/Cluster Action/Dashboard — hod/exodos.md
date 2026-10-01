@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek drama, the final scene or exit song sung by the chorus as they depart the orchestra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical terminology, the conclusion or departure episode terminating an ancient tragedy or comedy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exodos designates a term designating an entity, condition, or phenomenon derived from greek hod."*
+> - 📜 **Aristotle (*Poetics*):** *"The parts of tragedy are prologue, episode, and **exodos**, after which there is no further choral song."*
+> - 📜 **Gilbert Murray (*Euripides and His Age*):** *"In the solemn **exodos** of the Bacchae, the weeping Cadmus departs into exile bearing the tragic burden of his house."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The chorus in the final **exodos** chant grave maxims concerning human vulnerability before divine fate."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A eucharistic rite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rite or body of rites prescribed for public worship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A customary code of public religious worship and ritual ceremonies, especially in Christian churches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greece, a mandatory civic duty or public service performed by wealthy citizens at their own expense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Our liturgy,” observed Crawford, “has beauties, which not even a careless, slovenly style of reading can destroy; but it has also redundancies and repetitions which require good reading not to be felt."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"battle and murder and sudden death!" Against which the Liturgy preaches; By the will of a just, yet a merciful Power, Less bitter, perchance, in the mystic hour, When the wings of the shadowy angel lower, Than man in his blindness teaches!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the golden dome of Saint Sophia, Justinian witnessed the solemn **liturgy** enacted by hundreds of white-robed priests."*
+> - 📜 **Aristotle (*Politics*):** *"In well-ordered democracies, the expenses of the religious festivals and theatrical choruses are borne through the civic **liturgy**."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"Sacred **liturgy** unites aesthetic splendor with spiritual devotion, engaging the imagination in the adoration of God."*

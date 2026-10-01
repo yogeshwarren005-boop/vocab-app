@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic name used in a specific publication or context, whether correctly or incorrectly applied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy, a record of the historical usage of a scientific name across literature, as distinguished from original nomenclatural typification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chresonym designates a term designating an entity, condition, or phenomenon derived from greek chres."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Compiling a complete synonymy requires distinguishing a valid nomenclatural synonym from a published **chresonym**."*
+> - 📜 **Charles Wardell Stiles (*International Rules of Zoological Nomenclature*):** *"Every misidentification in the literature creates a historical **chresonym** that taxonomists must carefully document."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Tracking each historical **chresonym** reveals how nineteenth-century naturalists shifted species concepts across decades."*

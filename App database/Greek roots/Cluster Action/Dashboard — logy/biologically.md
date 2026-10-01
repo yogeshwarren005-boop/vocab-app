@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to biology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to biology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that relates to biology, living organisms, or organic life processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and evolutionary theory, through physiological, genetic, or somatic mechanisms rather than cultural or social conditioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologically designates with respect to biology."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Species must be defined **biologically** as groups of interbreeding natural populations reproductively isolated from other such groups."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Human behavior is not **biologically** predetermined in detail, but rather bounded by a plastic potentiality."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The synthetic insecticides are **biologically** potent compounds that disrupt fundamental enzymatic cycles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fireflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fireflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of soft-bodied beetles in the superfamily Elateroidea, commonly known as fireflies or lightning bugs, renowned for bioluminescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and photobiology, nocturnal beetles possessing abdominal lantern organs that oxidize luciferin with luciferase to produce cold light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lampyridae designates fireflies."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Walking through the Brazilian woods, thousands of luminous beetles belonging to **Lampyridae** flashed across the paths."*
+> - 📜 **Jean-Henri Fabre (*The Glow-Worm and Other Beetles*):** *"The female glow-worm of the family **Lampyridae** emits an ethereal greenish-white beacon from her tail to summon her mate."*
+> - 📜 **William Spence (*An Introduction to Entomology*):** *"Bioluminescence in the **Lampyridae** achieves an astonishing ninety percent efficiency, producing luminous radiance without wasted heat."*

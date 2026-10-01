@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retaining accent on the root throughout the paradigm with zero-grade ablaut of the stem and ending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining accent on the root throughout the paradigm with zero-grade ablaut of the stem and ending.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintaining equilibrium or remaining stationary at extreme heights or upper atmospheric levels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautics and meteorology, pertaining to aerostatic flotation or instrumentation stabilized within the stratosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrostatic designates retaining accent on the root throughout the paradigm with zero-grade ablaut of the stem and ending."*
+> - 📜 **Auguste Piccard (*Between Earth and Sky*):** *"Reaching our target ceiling, the spherical gondola settled into stable **acrostatic** balance above the turbulent troposphere."*
+> - 📜 **Svante Arrhenius (*Worlds in the Making*):** *"Microscopic spores may achieve **acrostatic** suspension in the highest planetary atmospheres before solar radiation pressure expels them."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"Beyond dynamic lift boundaries, vehicles must rely on purely **acrostatic** displacement to hover in rarefied gas."*

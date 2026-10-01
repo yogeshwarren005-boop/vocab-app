@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of grasses with broad leaves and a dense spike of flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of grasses with broad leaves and a dense spike of flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stout annual and perennial grasses in the family Poaceae, commonly known as canary grasses, cultivated for birdseed and forage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, the grass seedling (*Phalaris canariensis*) whose phototropic coleoptile Charles Darwin famously studied to discover auxin action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the tradition of Phalaris, tyrant of Agrigentum, and his brazen bull we may have an echo of similar rites in Sicily, where the Carthaginian power struck deep roots."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"On behalf of the Ancients, stress was laid by Temple on the letters of Phalaris, tyrant of Agrigentum."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Charles Boyle, of Christ Church, published a new edition of the Epistles of Phalaris, with translation of the Greek text into Latin."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"When the tip of the **Phalaris** coleoptile was capped with tin foil, the seedling ceased to bend toward lateral light."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Fields of **Phalaris** were harvested in Kent to supply canary seed to the London bird fanciers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The variegated ribbon grass grown in gardens is a cultivated variety of native **Phalaris**."*

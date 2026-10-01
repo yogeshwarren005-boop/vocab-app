@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling apoplexy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling apoplexy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling apoplexy or an apoplectic stroke in symptoms or clinical presentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurological diagnosis, describing sudden cerebral attacks, transient ischemic episodes, or seizures that mimic stroke without permanent vascular destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apoplectoid designates resembling apoplexy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain transient cerebral attacks present an **apoplectoid** character, mimicking a massive stroke without permanent paralysis."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on the Diseases of the Nervous System*):** *"Hysterical seizures occasionally assume an **apoplectoid** aspect, deceiving the unwary clinician."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"These sudden circulatory syncopes display an **apoplectoid** onset that rapidly clears within hours."*

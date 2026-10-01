@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former classification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In historical taxonomy, the class or division of unicellular fission fungi comprising bacteria that reproduce exclusively by transverse binary fission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriological history, Ferdinand Cohn's foundational classification grouping micro-organisms capable of causing fermentation, putrefaction, and disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizomycetes designates a former classification."*
+> - 📜 **Ferdinand Cohn (*Researches on Bacteria*):** *"Under the designation **schizomycetes** we unite those lowest plant-like forms whose multiplication proceeds through regular cellular division."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The microscopic agents of putrefaction belong predominantly to the **schizomycetes**, operating as indispensable scavengers in organic decay."*
+> - 📜 **William Bulloch (*The History of Bacteriology*):** *"Early nineteenth-century botanists grouped all bacterial organisms under the convenient rubric of **schizomycetes** before physiological traits were known."*

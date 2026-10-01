@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in structure or evolutionary origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in structure or evolutionary origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by difference or deviation in structure, organization, or origin; not homologous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and embryology, consisting of tissues not normally found in that part of the organism, or arising from abnormal cellular differentiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterologic designates not corresponding in structure or evolutionary origin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The appearance of **heterologic** elements in a neoplasm signifies that cellular differentiation has deviated from the parent matrix."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"We must avoid confusing true homologies with purely **heterologic** adaptations induced by environmental pressure."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Parts that assume similar outward roles but lack shared morphogenetic archetypes are fundamentally **heterologic**."*

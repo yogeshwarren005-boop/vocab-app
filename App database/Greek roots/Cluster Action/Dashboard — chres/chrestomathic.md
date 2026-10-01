@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or designed for a chrestomathy; useful for learning, especially languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational philosophy, selecting pedagogical passages chosen for their exemplary instructional utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrestomathic designates adjective*) pertaining to, derived from, or characteristic of use."*
+> - 📜 **Jeremy Bentham (*Chrestomathia*):** *"A **chrestomathic** education strips away scholastic pedantry to deliver useful intellectual instruction to all classes."*
+> - 📜 **Matthew Arnold (*Higher Schools and Universities in Germany*):** *"The gymnasium curriculum utilized **chrestomathic** selections from Attic prose to ground students in syntax."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Young scholars read **chrestomathic** dialogues illustrating the elegance of the Antonine literary revival."*

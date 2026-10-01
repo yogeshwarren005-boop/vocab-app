@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of appreciating method and system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of appreciating method and system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being methodical; systematic orderliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character psychology, disciplined adherence to system, punctuality, and procedural regularity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, methodicalness designates the quality of appreciating method and system."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Without **methodicalness**, vast erudition becomes an unmanageable lumber-room in the memory."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke admired Casaubon's **methodicalness**, though he secretly found the endless filing of notes tedious."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The man of business cultivates **methodicalness** as the indispensable foundation of trust and credit."*

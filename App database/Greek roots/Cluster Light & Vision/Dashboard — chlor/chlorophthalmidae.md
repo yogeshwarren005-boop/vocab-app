@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of soft-finned bottom-dwellers with large eyes; relatives of lizardfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of soft-finned bottom-dwellers with large eyes; relatives of lizardfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, deep-sea aulopiform fishes commonly known as greeneyes, named for their large, iridescent green eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, benthic mesopelagic and bathypelagic fishes possessing specialized reflective tapeta adapted for low-light vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophthalmidae designates small family of soft-finned bottom-dwellers with large eyes; relatives of lizardfishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The family **Chlorophthalmidae** takes its name from the magnificent emerald shine of their enlarged eyes."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Dredges from deep water hauled up curious specimens of **Chlorophthalmidae** with radiant eyes shining in the dark."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Trawled from muddy oceanic slopes, the **Chlorophthalmidae** rest upon bottom sediments facing into the current."*

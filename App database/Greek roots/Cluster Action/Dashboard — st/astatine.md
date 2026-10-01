@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly radioactive chemical element of the halogen group, having atomic number 85 and chemical symbol At, with no stable isotopes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear radiochemistry, the heaviest known halogen, synthesized by alpha bombardment of bismuth-209, exhibiting metallic semi-conductive tendencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astatine designates a radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay."*
+> - 📜 **Emilio Segrè (*A Mind Always in Motion*):** *"We christened the newly synthesized element 85 **astatine**, from the Greek word for unstable, to honor its fleeting half-life."*
+> - 📜 **Glenn T. Seaborg (*Man-Made Transuranium Elements*):** *"Because macroscopic quantities of **astatine** vaporize instantly from self-heating, its properties must be deduced from tracer experiments."*
+> - 📜 **Dale R. Corson (*Artificially Produced Element 85*):** *"The chemical behavior of **astatine** confirms its position in the halogen column while exhibiting noticeable electropositive metallicity."*

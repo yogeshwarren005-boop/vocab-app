@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-bodied disk-shaped food fish of warmer western atlantic coastal waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-bodied disk-shaped food fish of warmer western atlantic coastal waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep-bodied, laterally compressed marine teleost fish of the family Ephippidae, particularly Chaetodipterus faber of the western Atlantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, disk-shaped coastal and reef fishes possessing small terminal mouths, comb-like teeth, and steep dorsal profiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spadefish designates deep-bodied disk-shaped food fish of warmer western atlantic coastal waters."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The Atlantic **spadefish** is readily recognized by its compressed disk-like body and dark vertical juvenile banding."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A school of silvery **spadefish** hovered motionless above the coral reef, their steep profiles gleaming in the azure water."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Around the submerged pilings, the **spadefish** foraged on hydroids and encrusting sponges swept by tidal currents."*

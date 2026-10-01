@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity a shovel can hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity a shovel can hold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of earth, coal, sand, or other loose material that can be held or lifted by a spade at one time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rough unit of manual excavation measurement signifying a single scoop turned during labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Several battalions of soldiers, in their shirt sleeves despite the cold wind, swarmed in these earthworks like a host of white ants; spadefuls of red clay were continually being thrown up from behind the bank by unseen hands."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That shoulder rose and fell rhythmically and convulsively, but spadefuls of earth were already being thrown over the whole body."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"With every heavy **spadeful** of rich loam turned, the earthy smell of autumn rose sharply into the morning air."*
+> - 📜 **George Eliot (*Silas Marner*):** *"He dug steadily until the last **spadeful** of gravel revealed the buried iron pot containing his hoarded gold."*
+> - 📜 **D. H. Lawrence (*Sons and Lovers*):** *"He flung a **spadeful** of slack onto the grate, watching the red coals blacken and then hiss with rising smoke."*

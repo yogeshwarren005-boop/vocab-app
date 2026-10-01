@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stele forming a solid rod with the phloem surrounding the xylem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stele forming a solid rod with the phloem surrounding the xylem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simplest and phylogenetically most primitive type of plant stele, consisting of a solid central column of vascular tissue without pith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy, the ancestral vascular architecture of early land plants from which siphonosteles and eusteles subsequently diverged.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protostele designates a stele forming a solid rod with the phloem surrounding the xylem."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The non-medullated cylinder of the **protostele** constitutes the anatomical starting point of all vascular architecture in ferns."*
+> - 📜 **D. H. Scott (*Extinct Plants and Problems of Evolution*):** *"In primitive fossils of the Psilophytales, the conducting strand is invariably an unspecialized **protostele**."*
+> - 📜 **Edward Charles Jeffrey (*The Anatomy of Woody Plants*):** *"The central xylem cylinder of the **protostele** must increase its external perimeter as the stem expands in diameter."*

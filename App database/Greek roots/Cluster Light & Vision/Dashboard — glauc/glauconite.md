@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A green mineral consisting of hydrated silicate of potassium or iron or magnesium or aluminum; found in greensand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A green mineral consisting of hydrated silicate of potassium or iron or magnesium or aluminum; found in greensand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A greenish iron potassium phyllosilicate mineral of the mica group, common as rounded pelletal grains in sedimentary greensands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentary geology and stratigraphy, an authigenic marine mineral formed slowly on continental shelves in low-sedimentation environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glauconite designates a green mineral consisting of hydrated silicate of potassium or iron or magnesium or aluminum; found in greensand."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The Cretaceous strata of New Jersey are renowned for thick beds of greensand rich in dark green **glauconite**."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The potassium and iron content of **glauconite** makes it valuable both as an agricultural fertilizer and as a geological dating index."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Microscopic sections show pellets of **glauconite** replacing the internal molds of tiny foraminiferal shells."*

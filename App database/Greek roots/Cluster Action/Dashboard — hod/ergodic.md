@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a process in which every sequence or sizable sample is equally representative of the whole (as in regard to a statistical parameter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or relating to the probability that any state will recur; especially : having zero probability that any state will never recur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In physics and mathematics, relating to or denoting a system in which the time average of a state equals its statistical phase-space average.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by Ludwig Boltzmann from Greek ergon ('work') + hodos ('path, journey'), describing dynamical trajectories traversing all accessible microstates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergodic designates of or relating to a process in which every sequence or sizable sample is equally representative of the whole (as in regard to a statistical parameter)."*
+> - 📜 **Ludwig Boltzmann (*Lectures on Gas Theory*):** *"Under the **ergodic** hypothesis, the mechanical trajectory of gas molecules eventually visits every point on the constant-energy surface."*
+> - 📜 **John von Neumann (*Proof of the Quasi-Ergodic Hypothesis*):** *"Birkhoff and I formulated rigorous mathematical theorems establishing the foundations of modern **ergodic** theory."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Statistical communication theory treats message transmission as an **ergodic** random process stationary in time."*

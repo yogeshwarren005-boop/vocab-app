@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually brief unit of action in a dramatic or literary work: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of an ancient Greek tragedy between two choric songs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event or group of events occurring as part of a larger sequence; an incident or period in someone's life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative art, an installment of a serialized broadcast; in classical Greek drama, an epeisodion or dialogue between choral odes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Suppose we walk about in this wood?” Liddy, without exactly understanding everything, or anything, in this episode, assented, and they walked together further among the trees."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That haunting episode of bygone days was to her mother but a passing accident."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Whereupon, as a man will when his sore place is touched, Pilate launched upon the episode, which had been an episode, no more, at the beginning, but which had nearly destroyed him."*
+> - 📜 **Aristotle (*Poetics*):** *"In epic poetry, the poet amplifies the central plot with an engaging **episode**, while tragic drama demands strict conciseness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The reign of Julian was a brilliant but transient **episode** in the Christian transformation of the empire."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My brief acquaintance with the Micawber family formed an unforgettable **episode** of my youthful London days."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of expression by symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or interpretation of symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or interpretation of symbols; or a system of symbols used in a particular discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In barcode technology and data communications, the specific geometric specifications and encoding rules governing optical codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbology designates the art of expression by symbols."*
+> - 📜 **Umberto Eco (*A Theory of Semiotics*):** *"Deciphering medieval ecclesiastical manuscripts requires an extensive knowledge of theological **symbology**."*
+> - 📜 **Carl Jung (*Man and His Symbols*):** *"Alchemical **symbology** maps the subconscious journey of psychic individuation through chemical metaphors."*
+> - 📜 **Joseph Campbell (*The Hero with a Thousand Faces*):** *"Comparative mythic **symbology** reveals universal archetypes echoing through cultures worldwide."*

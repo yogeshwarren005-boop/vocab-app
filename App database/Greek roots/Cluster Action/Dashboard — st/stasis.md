@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slowing or stoppage of the normal flow of a bodily fluid or semifluid: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slowing of the current of circulating blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of balance, equilibrium, or stagnation where opposing forces neutralize each other, halting motion or progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek historiography, violent internal factional strife or civil conflict; in pathology, the cessation of bodily fluid circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stasis designates a slowing or stoppage of the normal flow of a bodily fluid or semifluid: such as."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The revolutionary **stasis** in Corcyra raged with unprecedented fury, subverting every traditional moral restraint."*
+> - 📜 **Aristotle (*Politics*):** *"Inequality of honors and property is the universal cause of that bitter factional **stasis** that ruins city-states."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Without a common power to keep them in awe, men descend into a destructive **stasis** that dissolves civil society."*

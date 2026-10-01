@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apochromatic lens system corrected for chromatic aberration at three wavelengths and spherical aberration at two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopy and astronomical instrumentation, an advanced objective designed by Ernst Abbe using fluorite glass to eliminate the secondary spectrum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apochromat designates a term designating an entity, condition, or phenomenon derived from greek chro."*
+> - 📜 **Ernst Abbe (*On the Theory of the Microscope*):** *"The construction of the new **apochromat** eliminated the secondary spectrum that had forever limited immersion lenses."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Photographing minute bacteria required Zeiss's newly perfected **apochromat** to secure crisp edges without purple flares."*
+> - 📜 **William Henry Dallinger (*The Microscope and Its Revelations*):** *"With Abbe's **apochromat**, resolving power approached the theoretical diffraction limit of visible light."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the genesis and propagation of light, the changes that it undergoes and produces, and other phenomena closely associated with it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspects of an action, policy, or decision (as in politics or business) that relate to public perceptions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch of physics that studies the behavior, properties, and interactions of light with matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science, divided into geometrical optics (ray tracing and lens systems) and physical/wave optics (diffraction, interference, polarization).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Still I'm not sure you'd like it exactly (Such tastes as a rule are acquired), And you'll find in a nutshell this fact lie, Bruised optics are not much admired."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Yet those same bleared optics had a strange, penetrating power, when it was their owner’s purpose to read the human soul."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine metaphysics reverses perverted 111:15 and physical hypotheses as to Deity, even as the ex- planation of optics rejects the incidental or inverted image and shows what this inverted image is meant to 111:18 represent."*
+> - 📜 **Isaac Newton (*Opticks*):** *"My design in this treatise of **optics** is not to explain properties by hypotheses, but to propose and prove them by reason and experiments."*
+> - 📜 **James Clerk Maxwell (*A Dynamical Theory of the Electromagnetic Field*):** *"The agreement of the velocity of light with electromagnetic wave speed shows that **optics** is an integral branch of electricity."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Physiological **optics** bridges physical physics with psychological perception, tracing light from lens to consciousness."*

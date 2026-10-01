@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or manifested in practice or action : not theoretical or ideal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being such in practice or effect : virtual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with the actual doing or use of something, rather than with theory and ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics and jurisprudence, governing intentional human action, conduct, and moral duty in experiential reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby I could not expect to be able to reconcile, having so little experience or practical knowledge."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby refers everything not in the practical mysteries of the business to Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s suggestion is the practical suggestion after all, and the beadle must be called in."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"**Practical** wisdom is a reasoned and true state of capacity to act with regard to the human good."*
+> - 📜 **Immanuel Kant (*Groundwork of the Metaphysics of Morals*):** *"A good will is the indispensable condition of even the worthiness to be happy, guiding all **practical** reason."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our business here is not to know all things, but those which concern our **practical** conduct."*

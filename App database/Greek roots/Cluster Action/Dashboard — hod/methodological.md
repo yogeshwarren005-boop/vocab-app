@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the methodology of some discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the methodology of some discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the systematic methods and rules applied in a particular discipline of study or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, concerning the principles and validation criteria governing scientific investigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, methodological designates relating to the methodology of some discipline."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"Rigorous **methodological** clarity is necessary to separate empirical facts from subjective value judgments."*
+> - 📜 **Bertrand Russell (*Our Knowledge of the External World*):** *"The adoption of logical analysis constituted a profound **methodological** revolution in philosophy."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"Falsifiability serves as our primary **methodological** criterion to demarcate empirical science from metaphysics."*

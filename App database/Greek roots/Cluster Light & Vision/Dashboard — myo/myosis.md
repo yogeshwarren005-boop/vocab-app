@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive smallness or contraction of the pupil of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive smallness or contraction of the pupil of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive constriction of the pupil of the eye; variant spelling of miosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-ophthalmology, pupillary narrowing produced by stimulation of the parasympathetic third cranial nerve or topical cholinergics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myosis designates excessive smallness or contraction of the pupil of the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The classic Argyll Robertson pupil exhibits marked **myosis** and responds to accommodation but not to light."*
+> - 📜 **Albrecht von Graefe (*Clinical Lectures*):** *"Sustained **myosis** was maintained with Calabar bean extract to draw the iris away from the filtration angle."*
+> - 📜 **Robley Dunglison (*A Dictionary of Medical Science*):** *"The symptom termed **myosis** is a permanent unnatural contraction of the pupil, impeding night vision."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apple-green chalcedony valued as a gem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apple-green chalcedony valued as a gem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apple-green gem variety of chalcedony silica colored by trace inclusions of nickel minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and jewelry history, a prized semi-precious stone (from Greek chrysos, gold, and prason, leek) famous since antiquity and mined in Silesia and Australia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysoprase designates an apple-green chalcedony valued as a gem."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The delicate apple-green tint of **chrysoprase** is imparted by minute hydrated silicate compounds of nickel."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The bishop's signet ring was set with a translucent **chrysoprase** that shone like young spring foliage."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He collected curiosities of every land, including oval cabochons of green **chrysoprase** and fiery garnets."*

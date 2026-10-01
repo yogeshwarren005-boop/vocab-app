@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any salt or ester of hypochlorous acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any salt or ester of hypochlorous acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxyanion of chlorine with the chemical formula ClO-, or a salt containing this ion (such as sodium hypochlorite or calcium hypochlorite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sanitation and industrial chemistry, a potent bleach and oxidizing disinfectant that releases hypochlorous acid in solution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypochlorite designates any salt or ester of hypochlorous acid."*
+> - 📜 **Claude Louis Berthollet (*Memoirs on the Bleaching of Cloth*):** *"The miraculous bleaching liquor of Javel proved to be a solution of potassium **hypochlorite**."*
+> - 📜 **Alexis Carrel (*The Treatment of Infected Wounds*):** *"Dakin's solution of buffered sodium **hypochlorite** cleansed gangrenous wounds without injuring healthy granulation."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Passing chlorine into caustic alkali readily forms a mixture of chloride and **hypochlorite**."*

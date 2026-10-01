@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of strike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of strike.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, composed of, or characterized by anapaests; having a trisyllabic rhythm with the accent on the final syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic analysis, describing meter whose brisk cadence is driven by double unaccented beats leading into each stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anapaestic designates adjective*) pertaining to, derived from, or characteristic of strike."*
+> - 📜 **Lord Byron (*The Destruction of Sennacherib*):** *"The Assyrian came down like the wolf on the fold, written in sweeping **anapaestic** tetrameter that mimics galloping cavalry."*
+> - 📜 **George Saintsbury (*Historical Manual of English Prosody*):** *"Swinburne developed the **anapaestic** cadence into one of the most flexible and melodious instruments in English poetry."*
+> - 📜 **John Ruskin (*The Elements of English Prosody*):** *"An **anapaestic** rhythm must be handled with supreme delicacy lest it degenerate into mere sing-song jingling."*

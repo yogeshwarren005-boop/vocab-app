@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of optics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to vision : visual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to sight, light, or the science of optics; designed to assist or utilize vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and instrumentation, characterizing devices (microscopes, telescopes, lasers) that manipulate or detect electromagnetic waves in the visible range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It is demonstrable that the scratches are going everywhere impartially and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Once there appeared a strange optical effect: when he stood between me and the flame he did not obstruct it, for I could see its ghostly flicker all the same."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Testimony of the senses 122:15 The optical focus is another proof of the illusion of material sense."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The prism demonstrates the remarkable **optical** property that white light is a compound of differently refrangible rays."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"The cornea and crystalline lens together constitute the primary **optical** system of the human eye."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I observed the rotation of the plane of polarization when light traversed the **optical** glass in a magnetic field."*

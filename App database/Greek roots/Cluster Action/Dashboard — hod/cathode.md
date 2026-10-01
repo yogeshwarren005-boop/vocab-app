@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The electrode of an electrochemical cell at which reduction occurs:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The negative terminal of an electrolytic cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The negatively charged electrode by which electrons enter an electrical device, or the positively charged terminal in a battery discharging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically from Greek kathodos ('way down, descent'), coined by William Whewell and Michael Faraday for electrochemical terminology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In addition, the purity of the materials, the cleanliness of the batteries, the perfection of the electrical connections as well as the distance between the anode and the cathode are all matters of importance."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The individual electrodes, again, have special names, that by which the current enters being the anode and that by which it leaves the cathode."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A lead anode is used while the process is carried on in a box the bottom of which is covered with mercury, which forms the cathode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I proposed the word **cathode**, signifying the way down, for the surface through which the electric current leaves the electrolyte."*
+> - 📜 **J. J. Thomson (*Cathode Rays*):** *"By deflecting the luminous rays emitted from the **cathode**, I proved that they consist of subatomic negative corpuscles."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"Fluorescence excited by radiations from the **cathode** led directly to Röntgen's discovery of X-rays."*

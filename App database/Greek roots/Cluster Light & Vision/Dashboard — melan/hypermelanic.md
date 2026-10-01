@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of black , dark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of black , dark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an abnormally large amount of melanin; unusually dark or deeply pigmented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and zoology, describing melanistic animal morphs or skin lesions exhibiting intense pathological deposition of dark pigment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermelanic designates adjective*) pertaining to, derived from, or characteristic of black , dark."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adrenal cortical failure causes the skin to develop diffuse, **hypermelanic** bronze patches."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The borders of the malignant plaque became markedly **hypermelanic**, spreading irregularly into surrounding dermis."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Certain moist tropical islands produce distinct **hypermelanic** varieties among native lizards and birds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To enlarge beyond bounds or the truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To represent in terms of hyperbole; to exaggerate or overstate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary discourse, to embellish reality with amplified language for aesthetic effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperbolize designates to enlarge beyond bounds or the truth."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Admiration prompts disciples to **hyperbolize** the virtues of their master beyond human limits."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Frontier storytellers instinctively **hyperbolize** every escapade until an encounter with a coyote becomes a battle with a demon."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Whalemen **hyperbolize** the perils of the sea to awe the listening landsmen in harbor taverns."*

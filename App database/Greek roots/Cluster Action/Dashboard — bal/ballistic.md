@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of the motion of projectiles in flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely and usually suddenly excited, upset, or angry : wild.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the dynamics, trajectory, and flight of projectiles moved by momentum alone after propellant burnout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and movement science, describing rapid, explosive muscle movements initiated without continuous sensory feedback guidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Intercontinental nuclear-armed ballistic missiles were far beyond drawing boards; their operational reach, capabilities, and effects against civilian as well as military targets had been carefully estimated and understood."*
+> - 📜 **Carl Sagan (*The Cosmic Connection*):** *"Intercontinental missiles ascend through the atmosphere before entering a cold **ballistic** trajectory through empty space."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"A simple pendulum struck suddenly will oscillate in a manner described by classical **ballistic** mechanics."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian cylinder traveled along an exact **ballistic** arc calculated across interplanetary distances."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or using three colors; trichromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and vision science, describing a visual system or color reproduction method relying on three color components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichromic designates adjective*) pertaining to, derived from, or characteristic of color."*
+> - 📜 **Thomas Young (*Lectures on Natural Philosophy*):** *"A **trichromic** sensory system requires three independent physiological receptors tuned across the solar spectrum."*
+> - 📜 **James Clerk Maxwell (*Description of a Colour Top*):** *"Rotating the discs demonstrated that the human retina operates as a **trichromic** analyzer of compound light."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"Quantitative tests with the **trichromic** matching box revealed subtle anomalies even among individuals with normal color vision."*

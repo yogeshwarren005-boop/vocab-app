@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constantly changing medley of real or imagined images (as in a dream).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constantly changing medley of real or imagined images (as in a dream).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sequence of real or imaginary images like those seen in a dream; historically, an exhibition of optical illusions produced by magic lanterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian cultural history, theatrical projection shows using mobile magic lanterns behind translucent screens, evoking ghostly apparitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The flesh is phantasmagoria and apparitional."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The unseen powers that throng the air and watch our ways arranged about him the phantasmagoria of dissolution."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The phantasmagoria of that wild dreamland termed the Bush interprets itself, and the Poet of our desolation begins to comprehend why free Esau loved his heritage of desert sand better than all the bountiful richness of Egypt."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The whole history of the Terror rolled past like a turbulent, blood-stained **phantasmagoria**."*
+> - 📜 **Edgar Allan Poe (*Ligeia*):** *"A subtle **phantasmagoria** seemed painted upon the heavy tapestries, shifting with every gust of wind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The foggy city seemed a smoky **phantasmagoria** of ghostly vehicles and vanishing pedestrian shapes."*

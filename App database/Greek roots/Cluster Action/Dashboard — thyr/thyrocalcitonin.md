@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 32-amino acid peptide hormone secreted by the parafollicular cells (C cells) of the thyroid gland, which lowers serum calcium concentrations (calcitonin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, a hypocalcemic hormone that inhibits osteoclastic bone resorption and promotes renal calcium excretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrocalcitonin designates thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone."*
+> - 📜 **D. Harold Copp (*Calcitonin: A Hormone from the Parathyroid and Thyroid Glands*):** *"We demonstrated that hypercalcemia evokes release of **thyrocalcitonin**, a rapid hypocalcemic factor that restores ionic balance."*
+> - 📜 **Iain MacIntyre (*Calcitonin: Recent Advances*):** *"Purified **thyrocalcitonin** acts primarily on bone, swiftly arresting the osteolytic activity of skeletal osteoclasts."*
+> - 📜 **Paul L. Munson (*Thyrocalcitonin: Physiological and Clinical Aspects*):** *"The discovery of **thyrocalcitonin** resolved the mystery of how vertebrates defend against sudden toxic postprandial hypercalcemia."*

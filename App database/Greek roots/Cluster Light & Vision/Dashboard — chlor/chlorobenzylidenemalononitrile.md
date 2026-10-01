@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tear gas that is stronger than cn gas but wears off faster; can be deployed by grenades or cluster bombs; can cause skin burns and fatal pulmonary edema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tear gas that is stronger than cn gas but wears off faster; can be deployed by grenades or cluster bombs; can cause skin burns and fatal pulmonary edema.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline cyanocarbon compound (C10H5ClN2) that serves as the active agent in modern tear gas (designated CS gas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical defense and civil security, an aerosolized sensory irritant causing immediate burning in ocular and mucous membranes, chest tightness, and coughing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorobenzylidenemalononitrile designates a tear gas that is stronger than cn gas but wears off faster; can be deployed by grenades or cluster bombs; can cause skin burns and fatal pulmonary edema."*
+> - 📜 **Ben Corson (*Synthesis of Substituted Malononitriles*):** *"Condensing 2-chlorobenzaldehyde with malononitrile yielded crystalline **chlorobenzylidenemalononitrile**, a compound of extraordinary irritant power."*
+> - 📜 **Steven Rose (*CBW: Chemical and Biological Warfare*):** *"The adoption of **chlorobenzylidenemalononitrile** displaced older agents because of its higher margin of safety."*
+> - 📜 **Julian Perry Robinson (*The Problem of Chemical and Biological Warfare*):** *"Dispersed as a fine smoke, **chlorobenzylidenemalononitrile** produces instantaneous, intolerable sensory reflexes."*

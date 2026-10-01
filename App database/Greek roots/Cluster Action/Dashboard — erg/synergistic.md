@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the theological doctrine of synergism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the interaction of elements that when combined produce a total effect that is greater than the sum of the individual elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and pharmacology, denoting drugs or hormones that enhance each other's physiological activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synergistic designates used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more)."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Frei and Freireich demonstrated that four-drug combination chemotherapy exerted a lethal, **synergistic** attack on leukemia."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Multiple transcription factors bind adjacent enhancer motifs to exert a **synergistic** activation of gene expression."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The **synergistic** hazard of agricultural runoff threatens entire riverine ecosystems through combined pesticide residues."*

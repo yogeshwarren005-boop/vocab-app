@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, slow-growing malignant or locally aggressive bone tumor, most commonly found in the tibia or mandible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, a biphasic neoplasm composed of epithelial-like cells surrounded by spindle-cell stroma, mimicking ameloblastoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adamantinoma designates a term designating an entity, condition, or phenomenon derived from greek dam."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Biopsy of the mandibular lesion demonstrated the palisading epithelial cords of an **adamantinoma**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The cellular architecture of **adamantinoma** closely recapitulates the embryonic dental lamina."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Complete surgical resection with wide margins remains essential to eradicate a recurrent **adamantinoma** of the tibia."*

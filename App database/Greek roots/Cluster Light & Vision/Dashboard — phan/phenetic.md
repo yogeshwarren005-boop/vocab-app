@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to taxonomic analysis that emphasizes the overall similarities of characteristics among biological taxa without regard to phylogenetic relationships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to taxonomic analysis that emphasizes the overall similarities of characteristics among biological taxa without regard to phylogenetic relationships.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Classifying organisms based on overall morphological or anatomical similarity, without regard to evolutionary phylogeny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numerical taxonomy, a methodological framework that groups operational taxonomic units using unweighted biometric similarity matrices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phenetic designates of or relating to taxonomic analysis that emphasizes the overall similarities of characteristics among biological taxa without regard to phylogenetic relationships."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"A purely **phenetic** classification risks grouping convergent organisms together despite profound phylogenetic divergence."*
+> - 📜 **Julian Huxley (*The New Systematics*):** *"Numerical taxonomy utilizes **phenetic** distance algorithms to cluster species without evolutionary bias."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"The cladistic revolution exposed the theoretical inadequacies of strictly **phenetic** taxonomic clustering."*

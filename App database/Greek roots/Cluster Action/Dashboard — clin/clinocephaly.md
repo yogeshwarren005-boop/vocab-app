@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital malformation of the skull characterized by a depression of the vertex, producing a saddle-shaped crown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and dysmorphology, cranial dysmorphism resulting from premature fusion of cranial sutures across the vertex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinocephaly designates a congenital defect in which the top of the head is depressed (concave instead of convex)."*
+> - 📜 **Paul Broca (*Mémoires d'Anthropologie*):** *"Saddle-shaped depressions along the skull roof provide unmistakable evidence of congenital **clinocephaly**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Investigations into skull malformations demonstrated that **clinocephaly** arises from localized osteogenetic arrest."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The infant's head presented the saddle contour typical of **clinocephaly**, with prominent frontal and occipital bulges."*

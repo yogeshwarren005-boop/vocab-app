@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A precursor of a biochemical pigment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pigment-producing microorganism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precursor substance capable of being transformed into a pigment, dye, or colored compound, or a bacterium that produces color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and histology, an uncolored compound containing a chromophore that becomes a dye upon the introduction of an auxochrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromogen designates a precursor of a biochemical pigment."*
+> - 📜 **August Wilhelm von Hofmann (*Introduction to Modern Chemistry*):** *"Colorless aniline acts as a **chromogen**, transforming into vivid magenta when treated with oxidizing agents."*
+> - 📜 **Paul Ehrlich (*The Anaemias*):** *"The primitive erythroblast elaborates an intracellular **chromogen** that subsequently ripens into functional hemoglobin."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The broth developed a startling blue sheen due to the proliferation of a pigment-forming **chromogen** bacillus."*

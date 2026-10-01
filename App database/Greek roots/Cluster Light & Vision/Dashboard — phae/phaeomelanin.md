@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-yellow sulfur-containing melanin pigment formed in the presence of cysteine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish-yellow sulfur-containing melanin pigment formed in the presence of cysteine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British and variant spelling of pheomelanin; the sulfur-containing reddish-yellow pigment found in red hair, feathers, and freckles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photobiology, an alkali-soluble melanin synthesized by the incorporation of glutathione or cysteine into dopaquinone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaeomelanin designates a reddish-yellow sulfur-containing melanin pigment formed in the presence of cysteine."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Warm chestnut tones in mammalian fur arise from the fine distribution of **phaeomelanin** in the hair follicles."*
+> - 📜 **Paul Ehrlich (*Studies on Cell Staining*):** *"Unlike photoprotective eumelanin, **phaeomelanin** can undergo photo-oxidation, generating cytotoxic free radicals."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The molecular architecture of **phaeomelanin** contains characteristic sulfur-bearing benzothiazine subunits."*

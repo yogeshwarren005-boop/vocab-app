@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a tribe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a tribe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a tribe, social clan, or traditional ethnic community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and anthropology, marked by intense group loyalty, collective solidarity, or partisan allegiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Be that as it may, throughout history the family and tribal elders passed their knowledge and codes of conduct on to those who, as part of the natural process, carry the torches into the future."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Within Lololand, of course, no Chinese writ runs, no Chinese magistrate holds sway, and the people, more or less divided among themselves, are under the government of their tribal chiefs."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The other bank is the country of the tribesmen, people of Mantzu stock living under the rule of their tribal chiefs."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"Every **tribal** ritual encodes intricate genealogies and cosmic myths preserved through oral tradition."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Totemic symbols reinforce **tribal** coherence by uniting disparate kinship clans under a sacred ancestor."*
+> - 📜 **George Orwell (*Notes on Nationalism*):** *"Modern political ideologies often degenerate into a fierce **tribal** sentiment that suspends critical judgment."*

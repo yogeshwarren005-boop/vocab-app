@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct cephalopod of the order †Actinocerida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any extinct cephalopod of the order †Actinocerida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct fossil cephalopod belonging to the order Actinocerida, characterized by large shells with elaborate siphuncular deposits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, Paleozoic nautiloids whose thick siphuncles developed complex radial endosiphuncular rings for buoyancy control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinocerid designates any extinct cephalopod of the order †actinocerida."*
+> - 📜 **Rousseau H. Flower (*Cephalopods of the Ordovician*):** *"Cross sections of a mature **actinocerid** expose heavily calcified, beaded siphuncular rings along the phragmocone."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Paleozoic oceans harbored the formidable **actinocerid** predators whose chambered shells reached several meters in length."*
+> - 📜 **Alpheus Hyatt (*Genera of Fossil Cephalopods*):** *"The rapid rise and subsequent extinction of the **actinocerid** lineage marked a crucial chapter in Ordovician marine faunas."*

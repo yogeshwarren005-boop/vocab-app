@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: escape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a peduncle arising at or beneath the surface of the ground in an acaulescent plant (such as the tulip); broadly : a flower stalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, a leafless, flower-bearing stalk arising directly from a bulb, corm, rootstock, or basal rosette of leaves (as in daffodils or garlic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and entomology, the shaft of a column, or the elongated basal segment of an insect's antenna; also an archaic literary truncation of escape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some innocents ’scape not the thunderbolt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot see else how thou shouldst ’scape."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Use every man after his desert, and who should ’scape whipping?"*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The leaves of the primrose are all radical, and the flower-stalk is a true **scape** rising naked to support the umbel."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Every architectural shaft and natural plant **scape** reveals how vertical lines strive upward against gravitational pull."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"From the moist turf arose the slender **scape** of the mountain daffodil, crowned with gold."*

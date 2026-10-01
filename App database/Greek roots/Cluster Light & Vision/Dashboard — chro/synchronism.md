@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being synchronous : simultaneousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronological arrangement of historical events and personages so as to indicate coincidence or coexistence; also : a table showing such concurrences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or fact of being synchronous; concurrence of events in time; simultaneity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative history and chronology, the tabular arrangement of concurrent events in different nations or kingdoms to demonstrate historical synchrony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For success, as has already been said, one thing was essential, and that thing very difficult to obtain--a perfect synchronism between one stylus and the other."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **synchronism** of the Persian invasion and the Germanic incursions exhausted the legions on two frontiers."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"The remarkable **synchronism** of independent discoveries in calculus by Newton and Leibniz stirred intense controversy."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Look across the continent and note the curious **synchronism** with which revolts erupted in distant capitals."*

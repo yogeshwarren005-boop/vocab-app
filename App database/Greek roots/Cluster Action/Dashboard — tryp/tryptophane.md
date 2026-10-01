@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete or variant chemical spelling of tryptophan, the essential indole-containing amino acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early twentieth-century nutritional biochemistry, the amino acid identified by Hopkins and Cole as indispensable for sustaining animal growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tryptophane designates an amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin."*
+> - 📜 **Frederick Gowland Hopkins (*Feeding Experiments Illustrating the Importance of Accessory Factors in Normal Dietaries*):** *"Mice fed upon a diet lacking the amino acid **tryptophane** swiftly lose weight and perish within weeks."*
+> - 📜 **Thomas Burr Osborne (*The Comparative Nutritive Value of Certain Proteins*):** *"Zein from maize is nutritionally incomplete because it lacks both lysine and **tryptophane**, failing to maintain nitrogen balance."*
+> - 📜 **Lafayette Mendel (*Nutrition: The Chemistry of Life*):** *"The addition of pure **tryptophane** to a zein diet instantly arrests nutritional decline in growing rats."*

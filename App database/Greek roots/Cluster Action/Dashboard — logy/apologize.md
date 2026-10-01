@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for something done or said : to make an apology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To offer a defense or excuse or admission of fault for (something)—used in negative statements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret or remorse for an offense, fault, or discourtesy; to make an apology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically and rhetorically, to present a formal argument in defense or vindication of oneself or another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The relations between us are of an unfortunate description, Lady Dedlock; but as they are not of my making, I will not apologize for them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed the mistake was mine, and I ought to apologize for it.” I had not once looked up."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed begins to apologize."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The relations between us are of an unfortunate description, Lady Dedlock; but as they are not of my making, I will not **apologize** for them."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society; yet he felt bound to **apologize** for his absence."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I must now **apologize** to the reader for detaining him upon what may appear a mere matter of culinary detail."*

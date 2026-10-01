@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a phantom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a phantom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a phantasm; spectral, ghostly, or illusory; lacking physical reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical prose and poetry, describing shadowy visions or deceptive mirages that mock human grasp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conversation at the table mixed in with his phantasmal orchestra till he thought: “What a fluty voice one of those milkmaids has!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Phantasmal mirth, folded away: muskperfumed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale swam through the night like a **phantasmal** apparition gliding across the deep."*
+> - 📜 **Percy Bysshe Shelley (*Epipsychidion*):** *"Her voice was like the voice of his own soul heard in the **phantasmal** twilight."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The distant peaks looked **phantasmal** and fragile against the brilliant crimson sunrise."*

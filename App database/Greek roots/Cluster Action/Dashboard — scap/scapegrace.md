@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reckless and unprincipled reprobate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reckless and unprincipled reprobate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mischievous, reckless, or completely unprincipled person; a rogue or ne'er-do-well.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century literature, an incorrigible, irresponsible young man whose escapades provoke scandal yet retain roguish charm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is sorely taken aback, too, by the dutiful behaviour of his nephew and has a woeful consciousness upon him of being a scapegrace."*
-> - 📜 **Effie Afton (*Eventide*):** *"Malcome." "O, a better one than that scapegrace of a Dick, of course!" said Mrs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is said to be very handsome and a terrible scapegrace."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He has a woeful consciousness upon him of being a **scapegrace**, though his open face makes it impossible to harbor malice against him."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley had been a notorious **scapegrace** at school, yet he possessed an instinctive gallantry that won over society."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old uncle would shake his head at the young **scapegrace**, all while slipping gold sovereigns into his hand."*

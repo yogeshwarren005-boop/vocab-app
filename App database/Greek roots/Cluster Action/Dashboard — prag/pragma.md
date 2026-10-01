@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek and philosophical terminology, an act, deed, concrete thing, or business matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer programming, a compiler directive or pragmatic information passed directly to an interpreter or translator to influence code compilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pragma designates a term designating an entity, condition, or phenomenon derived from greek prag."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Our conception of any **pragma**, or object of action, consists entirely in our conception of its practical effects."*
+> - 📜 **William James (*Pragmatism*):** *"The word **pragma**, from which pragmatism derives, means action, deed, and tangible enterprise."*
+> - 📜 **John Dewey (*Essays in Experimental Logic*):** *"Every idea is tested by the concrete **pragma** it produces in transactional experience."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photographic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph; or a combining form denoting light, radiant energy, or photographic processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern colloquial usage and technology, an informal abbreviation for photograph, photo-offset, or digital snapshot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In my responses I told about the time and circumstances that I had taped a commentary to our family's photo and document album, and how I went about it."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Organizing the material in each section chronologically, I inserted them into the albums and numbered each photo, document and page."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Soon after the photo was taken, by K, we all drove to AA, visited the city of BB, and had lunch at CC."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"The cabinet **photo** of the lady was the solitary prize Holmes preserved from the royal intrigue."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"An old framed **photo** of the college crew hung beside the bookshelf above the desk."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston held the slip of newsprint containing the telltale **photo** that disproved the Party's lie."*

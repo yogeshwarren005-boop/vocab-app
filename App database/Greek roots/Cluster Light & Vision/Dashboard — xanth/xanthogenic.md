@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or tending to produce a yellow color; specifically, pertaining to or yielding xanthic acid or xanthate compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century organic chemistry, describing reactions involving carbon disulfide and potassium alcoholates that generate yellow potassium xanthate precipitates (originally termed xanthogenic salts by Zeise).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthogenic designates adjective*) pertaining to, derived from, or characteristic of yellow."*
+> - 📜 **William Crookes (*Chemical News and Journal of Industrial Science*):** *"Zeise designated the sulfur-containing substance as **xanthogenic** acid because its precipitates with copper salts are yellow."*
+> - 📜 **August Wilhelm von Hofmann (*Introduction to Modern Chemistry*):** *"The reaction of carbon disulfide upon mercaptides yields distinct **xanthogenic** derivatives with characteristic golden precipitates."*
+> - 📜 **Henry Enfield Roscoe (*A Treatise on Chemistry*):** *"The **xanthogenic** series comprises salts and esters formed by the addition of alcohol radicles to carbon disulfide."*

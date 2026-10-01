@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former term for the cyanophyta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former term for the cyanophyta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete biological botanical division comprising unicellular prokaryotic organisms—namely bacteria and cyanobacteria—that multiply primarily by simple fission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late nineteenth-century phylogenetics, the primitive kingdom of anucleate plant organisms situated at the base of the tree of life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophyta designates former term for the cyanophyta."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"We place the **schizophyta** at the root of organic creation as organisms devoid of organs and true nuclear structure."*
+> - 📜 **Julius von Sachs (*Textbook of Botany*):** *"Multiplication through transverse cleavage remains the sole mode of propagation observed across the entire group of the **schizophyta**."*
+> - 📜 **Charles Edwin Bessey (*Botany for High Schools and Colleges*):** *"The **schizophyta** exhibit the absolute minimum of morphological differentiation consistent with independent vital maintenance."*

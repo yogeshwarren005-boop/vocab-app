@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of seek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of seek.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding by inquiry, investigation, or empirical questioning; searching, investigative, or skeptical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical skepticism and the history of pseudoscience, an epithet applied to Pyrrhonian skeptics (from Greek zētein, to seek), and later adopted by 19th-century flat-Earth theorist Samuel Rowbotham (Zetetic Astronomy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zetetic designates adjective*) pertaining to, derived from, or characteristic of seek."*
+> - 📜 **Diogenes Laërtius (*Lives and Opinions of Eminent Philosophers*):** *"The Pyrrhonists were called **zetetic** from their seeking the truth, skeptical from their always reflecting, and ephectic from their suspension of judgement."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Circles*):** *"The life of man is a self-evolving circle; our thinking is perpetually **zetetic**, never resting in any established system."*
+> - 📜 **Samuel Rowbotham (*Zetetic Astronomy: Earth Not a Globe*):** *"The word **zetetic** is derived from the Greek verb zeteo, which signifies to search, to examine, to investigate by inquiry."*

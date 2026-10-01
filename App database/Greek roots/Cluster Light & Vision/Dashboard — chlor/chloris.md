@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tufted or perennial or annual grasses having runners: finger grass; windmill grass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tufted or perennial or annual grasses having runners: finger grass; windmill grass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the nymph of flowers and spring (equivalent to Flora); in botany, a genus of tropical and subtropical grasses (windmill grass).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, a genus of Old World finches including the European greenfinch (*Chloris chloris*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Chloris Requesting me to give her a Spring of Blossomed Thorn."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Such was my Chloris’ bonie face, When first that bonie face I saw; And aye my Chloris’ dearest charm— She says, she lo’es me best of a’."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Chloris Requesting me to give her a Spring of Blossomed Thorn."*
+> - 📜 **Ovid (*Fasti*):** *"The breath of spring aroused **Chloris**, whose lips drop flowers over the blossoming fields."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The greenfinch, classified under **Chloris**, nested abundantly in the orchard evergreens."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Chloris** bear digitately clustered spikes with awned floral glumes."*

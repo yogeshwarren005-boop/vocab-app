@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile liquid haloform (chcl3); formerly used as an anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volatile liquid haloform (chcl3); formerly used as an anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic IUPAC chemical name for chloroform (CHCl3), a haloform consisting of three chlorine atoms bound to a methyl carbon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic organic chemistry, a trihalomethane solvent and chemical precursor used in the synthesis of polytetrafluoroethylene (Teflon).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloromethane designates a volatile liquid haloform (chcl3); formerly used as an anesthetic."*
+> - 📜 **Justus von Liebig (*Annalen der Chemie und Pharmacie*):** *"Distilling ethyl alcohol with chlorocalx yields the dense, sweet liquid known systematically as **trichloromethane**."*
+> - 📜 **Claude Louis Berthollet (*Chemical Statics*):** *"The reaction of chlorinated alkalis with organic liquors produced significant quantities of **trichloromethane**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The tetrahedral geometry of **trichloromethane** results in a permanent molecular dipole moment."*

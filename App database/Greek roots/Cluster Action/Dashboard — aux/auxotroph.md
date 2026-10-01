@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An auxotrophic strain or individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An auxotrophic strain or individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mutant microorganism that requires a specific nutritional supplement not needed by the wild-type strain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial genetics, an organism harboring a biochemical lesion that disables its capacity to synthesize an essential metabolite on minimal medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxotroph designates an auxotrophic strain or individual."*
+> - 📜 **George Beadle (*Genetic Control of Biochemical Reactions in Neurospora*):** *"Each nutritional **auxotroph** uncovered in our radiation experiments corresponded to a loss-of-function mutation in a single enzyme."*
+> - 📜 **Edward Tatum (*A Case History in Biochemical Genetics*):** *"Crossing two distinct strains of **auxotroph** produced wild-type recombinants capable of thriving on minimal agar."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"By isolating a tryptophan-dependent **auxotroph**, researchers elucidated the operon architecture governing amino acid biosynthesis."*

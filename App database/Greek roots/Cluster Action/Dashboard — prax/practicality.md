@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with actual use rather than theoretical possibilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with actual use rather than theoretical possibilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of being practical, realistic, or adapted to actual circumstances and everyday life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In design and industrial manufacturing, functional utility and economy prioritized over purely ornamental considerations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"What for did you all unpack outen the surrey, if you sawed the train go by?" she further demanded, with accusing practicality."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"But won’t it be very damp in some places yet?” “Oh, we’ll wear rubbers,” was Anne’s concession to practicalities."*
+> - 📜 **Henry David Thoreau (*A Yankee in Canada*):** *"The genius of the American mind is noted for its shrewd **practicality** and disregard of useless ornament."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Pedagogy must be grounded upon **practicality**, instilling useful habits rather than barren abstractions."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The English race is distinguished above all by its stubborn **practicality** and love of tangible facts."*

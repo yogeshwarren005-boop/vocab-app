@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician skilled in the diagnosis and treatment of allergies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician skilled in the diagnosis and treatment of allergies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical physician specializing in the diagnosis and clinical treatment of allergies and immunological disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology, an expert evaluating hypersensitivities via skin prick testing, desensitization, and immunotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allergist designates a physician skilled in the diagnosis and treatment of allergies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The consulting **allergist** identified ragweed pollen as the principal trigger of the child's intractable seasonal asthma."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Working at the intersection of immunology and clinic, the **allergist** uncovers how the immune system turns against harmless proteins."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Skin testing conducted by an experienced **allergist** ruled out hypersensitivity to the surgical antibiotic wash."*

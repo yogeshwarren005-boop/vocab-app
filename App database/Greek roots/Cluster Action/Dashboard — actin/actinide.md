@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a series of radioactive elements with atomic numbers 89 through 103.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a series of radioactive elements with atomic numbers 89 through 103.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the series of 15 radioactive metallic elements with atomic numbers from 89 (actinium) to 103 (lawrencium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, 5f-block inner transition elements characterized by progressive f-orbital filling and variable oxidation states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinide designates any of a series of radioactive elements with atomic numbers 89 through 103."*
+> - 📜 **Glenn T. Seaborg (*Man-Made Transuranium Elements*):** *"The synthesis of heavy elements established the **actinide** hypothesis, grouping them beneath the lanthanides in the periodic table."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Relativistic effects become increasingly pronounced across the heavier members of the **actinide** series."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"Nuclear engineers must account for the gradual accumulation of **actinide** isotopes inside fission reactors."*

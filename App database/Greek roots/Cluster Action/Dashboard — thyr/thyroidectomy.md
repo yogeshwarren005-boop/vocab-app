@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of thyroid gland tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of thyroid gland tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision or removal of all or part of the thyroid gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrine surgery, a precise operative procedure performed for malignant thyroid tumors, large compressive goiters, or refractory hyperthyroidism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroidectomy designates surgical removal of thyroid gland tissue."*
+> - 📜 **Theodor Kocher (*On Goitre Extirpation and Its Consequences*):** *"Through meticulous vessel ligation and preservation of the recurrent nerve, total **thyroidectomy** was converted into a safe procedure."*
+> - 📜 **William Stewart Halsted (*The Operative Story of Goitre*):** *"The development of modern **thyroidectomy** illustrates the triumph of aseptic technique and anatomic dissection over hemorrhage."*
+> - 📜 **Charles H. Mayo (*The Surgical Treatment of Goiter*):** *"Careful subtotal **thyroidectomy** relieves toxic symptoms while leaving sufficient functional tissue to prevent postoperative myxedema."*

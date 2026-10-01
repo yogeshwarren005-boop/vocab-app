@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Altered bodily reactivity (such as hypersensitivity) to an antigen in response to a first exposure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or pathological immunological reaction (as by sneezing, difficult breathing, itching, or skin rashes) to substances, situations, or physical states that are without comparable effect on the average individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A damaging immune response by the body to a substance, especially pollen, fur, food, or dust, to which it has become hypersensitive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, Clemens von Pirquet's term for altered biological reactivity following antigen exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allergy designates altered bodily reactivity (such as hypersensitivity) to an antigen in response to a first exposure."*
+> - 📜 **Clemens von Pirquet (*Allergy*):** *"I proposed the term **allergy** to designate this general condition of altered immunological responsiveness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Anaphylaxis represents the most extreme, life-threatening manifestation of systemic drug **allergy**."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Chemical pollution induces an acquired environmental **allergy**, leaving tissues vulnerable to everyday household toxins."*

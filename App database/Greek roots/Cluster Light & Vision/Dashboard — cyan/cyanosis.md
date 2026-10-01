@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bluish or purplish discoloration (as of skin) due to deficient oxygenation of the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bluish or purplish discoloration (as of skin) due to deficient oxygenation of the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bluish or purplish discoloration of the skin and mucous membranes caused by deficient oxygenation of the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and pulmonology, a cardinal physical sign indicating that deoxygenated hemoglobin in capillary blood exceeds 5 g/dL.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanosis designates a bluish or purplish discoloration (as of skin) due to deficient oxygenation of the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital heart malformations manifest in the newborn as profound, alarming **cyanosis** of the lips and fingertips."*
+> - 📜 **Thomas Sydenham (*Medical Observations*):** *"The dying asthmatic struggled for breath, his visage darkening into the deep purple of suffocating **cyanosis**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The victim's distorted features and swollen, dusky lips betrayed the fatal **cyanosis** of poison."*

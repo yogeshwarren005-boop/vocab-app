@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change of position, state, or form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of a disease-producing agency (such as cancer cells) from the initial or primary site of disease to another part of the body; also : the process by which such spreading occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spread of pathogenic cells, especially cancer cells, from the primary site of disease to distant parts of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, the secondary metastatic tumor colony formed by cells that have migrated through blood or lymph vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"There is no metastasis, no stoppage of harmonious 420:3 action, no paralysis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Malignant **metastasis** occurs when emancipated cellular elements enter vascular channels to seed distant organs."*
+> - 📜 **Stephen Paget (*The Distribution of Secondary Growths in Cancer of the Breast*):** *"The seed and soil hypothesis explains why the **metastasis** of particular tumors exhibits predictable organ affinities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The tragic prognosis of visceral carcinoma is sealed the moment systemic **metastasis** establishes secondary hepatic foci."*

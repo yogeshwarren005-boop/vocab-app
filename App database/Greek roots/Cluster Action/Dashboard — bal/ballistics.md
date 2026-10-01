@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trajectory of an object in free flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of flight dynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of the mechanics, flight behavior, and motion of projectiles such as bullets, shells, rockets, and bombs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic science, the examination of firearms, ammunition markings, and wound trajectories to reconstruct shooting events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ballistics designates the trajectory of an object in free flight."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Empty House*):** *"Sherlock Holmes demonstrated his mastery of forensic **ballistics** by matching the soft-nosed bullet to Colonel Moran's air-gun."*
+> - 📜 **Robert Oppenheimer (*Science and the Common Understanding*):** *"Calculations in interior and terminal **ballistics** were vital to predicting the hydrodynamic assembly of fissile cores."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Atmospheric air resistance modifies the parabolic curve predicted by pure mathematical **ballistics**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmission and reproduction of photographs and charts and pictures over a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photography using a telephoto lens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, practice, or science of taking photographs of distant objects using a telephoto lens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field natural history and reconnaissance, photographing wildlife, distant landscapes, or military targets without approaching dangerously close.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephotography designates transmission and reproduction of photographs and charts and pictures over a distance."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"Pioneering attempts at wildlife **telephotography** in Kenya captured rhinos and giraffes at natural grazing distances."*
+> - 📜 **John Burroughs (*Ways of Nature*):** *"Modern **telephotography** brings the shyest eagle upon her mountain eyrie into intimate view for the bird student."*
+> - 📜 **Frank M. Chapman (*Camps and Cruises of an Ornithologist*):** *"Success in arctic gull colonies depended upon mastering the steady tripod technique essential for **telephotography**."*

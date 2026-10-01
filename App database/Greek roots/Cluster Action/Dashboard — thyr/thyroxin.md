@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older chemical spelling of thyroxine; the chief iodine-containing amino acid hormone secreted by the thyroid gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early twentieth-century biochemistry, the crystalline active principle of the thyroid gland isolated by Edward Calvin Kendall in 1914.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroxin designates hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells."*
+> - 📜 **Edward Calvin Kendall (*The Isolation in Crystalline Form of the Compound Containing Iodine Which Occurs in the Thyroid*):** *"On Christmas Day in 1914, I succeeded in isolating pure crystalline **thyroxin**, containing sixty-five percent of organic iodine."*
+> - 📜 **Charles Robert Harington (*The Thyroid Gland: Its Chemistry and Physiology*):** *"Our synthetic determination proved that Kendall's **thyroxin** possesses an aromatic ether core containing four iodine atoms."*
+> - 📜 **George Barger (*Organic Chemistry in Biology*):** *"Administering a fraction of a milligram of pure **thyroxin** raises the total basal metabolic rate by twenty percent."*

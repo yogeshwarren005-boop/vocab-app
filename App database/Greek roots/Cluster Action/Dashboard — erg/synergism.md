@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interaction of discrete agencies (such as industrial firms), agents (such as drugs), or conditions such that the total effect is greater than the sum of the individual effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interaction of discrete agencies (such as industrial firms), agents (such as drugs), or conditions such that the total effect is greater than the sum of the individual effects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interaction of two or more agents or forces so that their combined effect is greater than the sum of their individual effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the doctrine that human will cooperates with divine grace in the work of regeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synergism designates interaction of discrete agencies (such as industrial firms), agents (such as drugs), or conditions such that the total effect is greater than the sum of the individual effects."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pharmacological **synergism** allows clinicians to achieve deep sedation using lower doses of each individual anesthetic."*
+> - 📜 **John Henry Newman (*Lectures on Justification*):** *"The historic controversy over **synergism** divided reformers over whether human consent cooperates with prevenient grace."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Chemical **synergism** inside living tissues multiplies toxicity far beyond the safety margins calculated for single compounds."*

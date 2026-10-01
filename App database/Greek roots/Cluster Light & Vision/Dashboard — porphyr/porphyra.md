@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of protoctist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of protoctist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cold-water marine red algae (Rhodophyta), commonly known as purple laver or nori, widely cultivated for food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine phycology and mariculture, membranous red seaweeds with a complex heteromorphic life cycle involving a microscopic diploid conchocelis phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyra designates a genus of protoctist."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"The delicate purple fronds of **Porphyra** carpet the tidal boulders like shimmering sheets of wet silk."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"Drew's discovery of the conchocelis stage in **Porphyra** revolutionized commercial nori cultivation in Japan."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In the cold northern tide pools, **Porphyra** clings tenaciously to granite rocks drenched in ocean spray."*

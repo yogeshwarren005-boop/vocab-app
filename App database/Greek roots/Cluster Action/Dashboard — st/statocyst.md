@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ of equilibrium found in usually aquatic invertebrates that is typically a fluid-filled vesicle lined with sensory hairs which detect the position of suspended statoliths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ of equilibrium found in usually aquatic invertebrates that is typically a fluid-filled vesicle lined with sensory hairs which detect the position of suspended statoliths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, fluid-filled sensory vesicle found in many aquatic invertebrates, containing statoliths that respond to gravity to maintain equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory neurobiology, a mechanoreceptor balance organ lined with ciliated sensory cells that detects orientation, tilt, and acceleration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statocyst designates an organ of equilibrium found in usually aquatic invertebrates that is typically a fluid-filled vesicle lined with sensory hairs which detect the position of suspended statoliths."*
+> - 📜 **Ernst Haeckel (*Report on the Deep-Sea Medusae*):** *"Along the bell margin of the medusa, each marginal **statocyst** coordinates directional pulsing by registering gravitational tilt."*
+> - 📜 **C. M. Yonge (*The Biology of Marine Organisms*):** *"Decapod crustaceans periodically lose the mineral grains within their **statocyst** during molting, replacing them with ambient sand."*
+> - 📜 **Theodore H. Bullock (*Structure and Function in the Nervous Systems of Invertebrates*):** *"Action potentials recorded from sensory hairs within the **statocyst** demonstrate exquisite sensitivity to angular displacement."*

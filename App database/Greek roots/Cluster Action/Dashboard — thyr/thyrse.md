@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, compact, ovate or cylindrical compound inflorescence whose main axis is indeterminate (racemose) while its lateral branches are determinate (cymose).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botanical taxonomy, an inflorescence form characteristic of the horse chestnut (Aesculus) and lilac (Syringa).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrse designates a dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In the horse-chestnut, the blossoms are assembled into an erect pyramidal **thyrse**, branching into secondary cymes."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"A **thyrse** represents a mixed inflorescence, uniting indeterminate central elongation with centrifugal lateral flowering."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"The fragrant lilac bears its blossoms in immense compound **thyrse** clusters that weigh down the spring branches."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opahs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opahs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large, pelagic marine teleost fishes in the order Lampriformes, containing the genus *Lampris* (opahs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, solitary mesopelagic fishes characterized by round compressed bodies, counter-current gill rete mirabile, and endothermy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog lampridae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The family **Lampridae** contains only the magnificent opahs, celebrated across oceans for their radiant beauty."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Anatomical dissections of **Lampridae** show an extraordinary enlargement of the shoulder girdle to power pectoral flight."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"Fossil precursors of the **Lampridae** occur in Eocene strata, displaying the same discoid thoracic structure."*

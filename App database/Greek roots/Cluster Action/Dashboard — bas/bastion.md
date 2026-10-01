@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group that defends a principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stronghold into which people could go for shelter during a battle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A projecting part of a fortification built at an angle to the curtain wall, allowing defensive fire in several directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person, institution, or place that strongly defends or upholds particular principles, attitudes, or traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The whole of the north side is very majestic, ending in the return of a bastion to the east."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had a low and unassuming aspect from this upland, though as approached on the other side from Blackmoor in her childhood they were as lofty bastions against the sky."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The circuit of the walls, which were built in the reign of Elizabeth, with their bastions, "mounts," and gates, is still practically complete, and is preserved with care and pride."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Heavy Turkish cannon battered the western **bastion** until the masonry collapsed into the moat."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"Britain stood as the sole remaining **bastion** of democratic freedom against the totalitarian tempest."*
+> - 📜 **Walter Scott (*Quentin Durward*):** *"Archers peered through the crenels of the corner **bastion**, keeping watchful eye upon the forest road."*

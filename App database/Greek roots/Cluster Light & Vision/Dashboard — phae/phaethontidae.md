@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropicbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropicbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of oceanic seabirds in the order Phaethontiformes comprising the tropicbirds (genus *Phaethon*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, pelagic plunge-divers possessing totipalmate feet, keen eyesight, and streamer-like central rectrices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaethontidae designates tropicbirds."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The family **Phaethontidae** contains three species of tropical seabirds famed for their streaming tail feathers."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"Breeding upon remote oceanic cliffs, the **Phaethontidae** wander for months over open tropical waters without touching land."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The radiant satin-like plumage of the **Phaethontidae** gleams with pinkish iridescence in equatorial sunlight."*

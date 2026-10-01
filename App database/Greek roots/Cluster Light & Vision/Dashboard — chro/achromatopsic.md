@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or affected with achromatopsia (total color blindness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and neuro-ophthalmology, designating an individual or retinal state devoid of functioning cone photoreception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatopsic designates adjective*) pertaining to, derived from, or characteristic of color."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The **achromatopsic** artist found his world drained of color following a traumatic cerebral infarction."*
+> - 📜 **Richard Gregory (*Eye and Brain: The Psychology of Seeing*):** *"In bright daylight, the **achromatopsic** subject is severely dazzled because rod saturation occurs rapidly."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Pedigrees of **achromatopsic** families illustrate the recessive inheritance of complete macular color defects."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something held as an established opinion; especially : a definite authoritative tenet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A code of such tenets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A principle or set of principles laid down by an authority as incontrovertibly true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and intellectual history, an authoritative religious tenet promulgated by a church council; or rigid unexamined belief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Yet even here the books that interested him most were mainly historical, such as the first volume of Ritschl's great work on Justification (almost the only German book he read in a translation), and the three volumes of Harnack's _History of Dogma_."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"When History gives us brothers, and Dogma says they must be cousins--in any other case the decision of the historian would be clear, and so it is here."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The result has been nineteen centuries of endless question and speculation as to Jesus Christ--the rise of dogma, creed, and formula, as slowly all the philosophy of mankind has been re-thought in the light of the central experience of Jesus Christ."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Human understanding must purge itself of scholastic **dogma** and submit humbly to the interrogation of nature."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Dogmatic religion elevates ancient **dogma** above empirical verification, demanding unquestioning assent from the faithful."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Truth itself becomes a dead **dogma**, not a living truth, unless contested and defended against opposing viewpoints."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based on metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A syndrome marked by the presence of usually three or more of a group of factors (such as high blood pressure, abdominal obesity, high triglyceride levels, low HDL levels, and high fasting levels of blood sugar) that are linked to increased risk of cardiovascular disease and type 2 diabetes —called also insulin resistance syndrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or deriving from metabolism, the chemical processes that occur within a living organism to maintain life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and physiology, describing systemic energy expenditure, basal turnover, or enzymatic transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolic designates of, relating to, or based on metabolism."*
+> - 📜 **Hans Krebs (*Energy Transformations in Living Matter*):** *"Enzymatic cascades govern the precise sequence of every intermediate **metabolic** pathway."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thyroid hypersecretion accelerates the baseline **metabolic** rate, producing tremor, heat intolerance, and wasting."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Feedback inhibition dynamically recalibrates **metabolic** fluxes in response to fluctuations in intracellular ATP."*

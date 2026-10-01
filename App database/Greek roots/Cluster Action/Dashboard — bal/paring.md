@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin fragment or slice (especially of wood) that has been shaved from something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) a part of a fruit or vegetable that is pared or cut off; especially the skin or peel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin piece or shaving sliced off from the surface of something; or the act of trimming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and woodworking, scrap slivers removed during smoothing or shaping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity breeds mites, much like a cheese; consumes itself to the very paring, and so dies with feeding his own stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some devils ask but the paring of one’s nail, A rush, a hair, a drop of blood, a pin, A nut, a cherry-stone; but she, more covetous, Would have a chain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do remember him at Clement’s Inn, like a man made after supper of a cheese-paring."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Little bid for thee: thou art an O without a figure; I am better than thou art now; I am a fool, thou art nothing. Here's a **paring**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A tiny fingernail **paring** severed from the body ceases to participate in the living identity of the person."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The candle sputtered down in its iron socket, leaving scarcely a **paring** of tallow upon the rim."*

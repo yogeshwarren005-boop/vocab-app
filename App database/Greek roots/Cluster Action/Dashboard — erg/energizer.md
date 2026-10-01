@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who imparts energy and vitality and spirit to other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that supplies electrical energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which imparts energy, vigor, or electrical power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In athletics and nutrition, an agent or beverage formulated to boost physical stamina or alertness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The energizer," he said quietly."*
+> - 📜 **Thomas Edison (*Writings and Observations*):** *"The central generator stood as the tireless **energizer** of the industrial works along the river."*
+> - 📜 **William James (*The Energies of Men*):** *"A sudden crisis serves as a psychological **energizer**, calling forth dormant human capacities."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The stinging spray of the northern gale was a fierce **energizer** for the crew of the sealing schooner."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive in appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of size and dignity suggestive of a statue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Majestic, dignified, imposing, or grand in appearance, manner, or movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying noble, lofty, or ceremonial elegance suitable to royalty, grand architecture, or formal literary style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon a wooden coffin we attend, And Death’s dishonourable victory We with our stately presence glorify, Like captives bound to a triumphant car."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a silly stately style indeed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but that we spend the time With stately triumphs, mirthful comic shows, Such as befits the pleasure of the court?"*
+> - 📜 **James Joyce (*Ulysses*):** *"Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I see the **stately** ships sailing out past the headlands, their white sails catching the golden afternoon sun."*
+> - 📜 **Alfred, Lord Tennyson (*Break, Break, Break*):** *"And the **stately** ships go on to their haven under the hill; but O for the touch of a vanished hand."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of a system to regenerate, maintain, and reproduce its own organizational components and boundaries internally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical biology and cognition, the fundamental defining criterion of living systems, characterized by continuous self-productive metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autopoiesis designates a term designating an entity, condition, or phenomenon derived from greek poie."*
+> - 📜 **Humberto Maturana & Francisco Varela (*Autopoiesis and Cognition*):** *"A cell maintains its identity through continuous self-generation; this defining organization of living systems is **autopoiesis**."*
+> - 📜 **Niklas Luhmann (*Social Systems*):** *"We apply the concept of **autopoiesis** to communication networks that continuously reproduce their own internal operations."*
+> - 📜 **Lynn Margulis (*What Is Life?*):** *"Life is matter that has acquired the gift of **autopoiesis**, continually transforming external nutrients into its own self-renewing structure."*

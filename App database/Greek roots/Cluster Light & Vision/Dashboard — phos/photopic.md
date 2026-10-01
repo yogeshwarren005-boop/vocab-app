@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being vision in bright light with light-adapted eyes that is mediated by the cones of the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being vision in bright light with light-adapted eyes that is mediated by the cones of the retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to vision in bright daylight, mediated primarily by retinal cone photoreceptors, characterized by color perception and high visual acuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual neuroscience, daylight vision contrasting with scotopic (rod-mediated nocturnal) and mesopic (twilight) visual states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photopic designates relating to or being vision in bright light with light-adapted eyes that is mediated by the cones of the retina."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"In the **photopic** state, the fovea centralis achieves its highest resolving power under full sunlight."*
+> - 📜 **Richard Gregory (*Eye and Brain*):** *"The transition from **photopic** cone vision to scotopic rod vision shifts maximal spectral sensitivity toward the green."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The patient retained excellent **photopic** acuity for reading print, although all sensation of color had vanished."*

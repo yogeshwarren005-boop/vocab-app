@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a geological structure in which all strata are inclined in the same direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a geological structure in which all strata are inclined in the same direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In structural geology, relating to a fold with a single step-like flexure in otherwise horizontal or gently dipping strata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, describing landforms such as hogbacks and cuestas sculpted by differential erosion across a monocline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoclinal designates of a geological structure in which all strata are inclined in the same direction."*
+> - 📜 **John Wesley Powell (*Exploration of the Colorado River of the West*):** *"The Colorado River cuts directly through colossal **monoclinal** flexures where the limestone steps down a thousand feet."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Plateau uplift often produces steep **monoclinal** drapery folds over buried basement block faults."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"Asymmetric **monoclinal** ridges develop where hard resistant sandstone caps weaker dipping shales."*

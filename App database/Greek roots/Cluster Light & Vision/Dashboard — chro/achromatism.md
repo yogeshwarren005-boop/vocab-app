@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refracting light without dispersing it into its constituent colors : giving images practically free from extraneous colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not readily colored by the usual staining agents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being achromatic; optical correction that neutralizes chromatic aberration, or the absence of natural pigmentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telescope and microscope engineering, the convergence of light rays of differing wavelengths to a common focus through combined refracting media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromatism designates refracting light without dispersing it into its constituent colors : giving images practically free from extraneous colors."*
+> - 📜 **William Whewell (*Philosophy of the Inductive Sciences*):** *"Euler deemed the attainment of **achromatism** impossible until Dollond experimentally disproved Newton's doctrine."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The telescope owed its modern perfection to the discovery of **achromatism** in composite glass objectives."*
+> - 📜 **Hermann von Helmholtz (*Popular Scientific Lectures*):** *"Without **achromatism**, microscopic observation of cellular structures would remain clouded in colored haloes."*

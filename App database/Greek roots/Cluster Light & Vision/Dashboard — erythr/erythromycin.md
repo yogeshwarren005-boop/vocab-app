@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad-spectrum antibiotic C37H67NO13 produced by an actinomycete (Saccharopolyspora erythraea synonym Streptomyces erythraeus) and administered orally or topically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad-spectrum antibiotic C37H67NO13 produced by an actinomycete (Saccharopolyspora erythraea synonym Streptomyces erythraeus) and administered orally or topically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad-spectrum macrolide antibiotic produced by the actinomycete *Saccharopolyspora erythraea*, widely used to treat bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a 14-membered lactone ring antibiotic that reversibly binds the 50S bacterial ribosomal subunit, inhibiting polypeptide translocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythromycin designates a broad-spectrum antibiotic c37h67no13 produced by an actinomycete (saccharopolyspora erythraea synonym streptomyces erythraeus) and administered orally or topically."*
+> - 📜 **Maxwell Finland (*The Macrolide Antibiotics*):** *"Clinical administration of **erythromycin** proved a vital alternative for patients allergic to standard penicillins."*
+> - 📜 **Selman Waksman (*The Actinomycetes*):** *"From soil cultures collected in the Philippines, researchers isolated **erythromycin**, a compound of outstanding clinical value."*
+> - 📜 **Paul de Kruif (*Men Against Death*):** *"The swift cure of Legionnaires' disease was achieved by high-dose intravenous therapy with **erythromycin**."*

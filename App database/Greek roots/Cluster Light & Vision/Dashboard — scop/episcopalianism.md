@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine of church government by bishops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine of church government by bishops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine, worship, and ecclesiastical polity of an episcopal church, especially the Protestant Episcopal Church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical theology, a church system combining historic episcopal orders and liturgical governance while rejecting universal papal supremacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcopalianism designates the theological doctrine of church government by bishops."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Between rigid Puritan dogma and aristocratic **episcopalianism**, the religious life of the seventeenth century was passionately divided."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The polite decorum of English **episcopalianism** offered an aesthetic shelter against the harsher winds of nonconformist zeal."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The established forms of **episcopalianism** seemed to the philosopher less an inner spiritual flame than an elegant social compact."*

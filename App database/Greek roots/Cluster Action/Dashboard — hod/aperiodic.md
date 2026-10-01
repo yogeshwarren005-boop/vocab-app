@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not recurring at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not recurring at regular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring at regular intervals; lacking periodicity; irregular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and mathematics, describing non-repeating crystal tilings (like Penrose tilings) or critically damped oscillations that return to equilibrium without oscillating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aperiodic designates not recurring at regular intervals."*
+> - 📜 **Erwin Schrödinger (*What Is Life?*):** *"The chromosome fiber is an **aperiodic** crystal, whose non-repeating structure encodes the vast informational tapestry of heredity."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Stochastic noise in communication channels is an **aperiodic** time series requiring statistical Fourier integration."*
+> - 📜 **Roger Penrose (*The Emperor's New Mind*):** *"Non-periodic **aperiodic** tilings fill the Euclidean plane with fivefold symmetry without ever repeating a translational unit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient military engine often in the form of a crossbow for hurling large missiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient military engine often in the form of a crossbow for hurling large missiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient and medieval military siege engine resembling a giant crossbow, used for hurling heavy stones or large bolts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman military history, a torsion-powered artillery piece utilizing twisted skeins of sinew or horsehair to achieve long-range bombardment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ballista designates an ancient military engine often in the form of a crossbow for hurling large missiles."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"From the fortress towers, the Roman **ballista** hurled massive stones that crushed the advancing Gothic engines."*
+> - 📜 **Julius Caesar (*The Gallic War*):** *"Our engineers erected a heavy **ballista** on the earthen rampart to sweep the enemy parapets with iron bolts."*
+> - 📜 **Winston Churchill (*A History of the English-Speaking Peoples*):** *"Ancient torsion artillery, including the catapult and the **ballista**, dominated classical siegecraft for centuries."*

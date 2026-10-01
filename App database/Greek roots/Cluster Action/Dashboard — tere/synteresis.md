@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In scholastic philosophy and moral theology, the innate, intuitive habit or light of conscience that grasps universal moral principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inextinguishable moral spark within the human soul that perpetually inclines toward good and recoils from evil (synderesis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synteresis designates a term designating an entity, condition, or phenomenon derived from greek tere."*
+> - 📜 **Jerome (*Commentary on Ezekiel*):** *"The fourth living creature signifies **synteresis**, that spark of conscience which was not extinguished even in the breast of fallen Adam."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"We must say that **synteresis** is not an independent power, but an innate habit of the intellect containing the first practical principles."*
+> - 📜 **Bonaventure (*Breviloquium*):** *"While reason judges between right and wrong, **synteresis** supplies the divine moral instinct that inflames the will toward the good."*

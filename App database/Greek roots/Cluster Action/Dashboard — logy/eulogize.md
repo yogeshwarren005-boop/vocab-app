@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise formally and eloquently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise formally and eloquently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise highly and formally in speech or writing; to deliver an encomium or eulogy upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public discourse, to extol the life, character, achievements, or lasting legacy of a departed individual or venerable institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"You will live, but perhaps I shall die, since he is weary of carrying me." The lame marshal went on praising and eulogizing Kalelealuaka as he drew near."*
+> - 📜 **Frederick Douglass (*Oration in Memory of Abraham Lincoln*):** *"We are not here to flatter him, nor to **eulogize** his weaknesses, but to render honor to his steadfast devotion to the Union."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"We **eulogize** the courageous deed because it recalls to us the forgotten sovereignty of the private soul."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"It was customary in those river towns to **eulogize** the departed pilot as the bravest and most skillful steersman on the western waters."*

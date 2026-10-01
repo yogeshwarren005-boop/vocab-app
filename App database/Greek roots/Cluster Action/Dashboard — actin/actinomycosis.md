@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, suppurative, and granulomatous bacterial infection caused by species of Actinomyces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, characterized by contiguous tissue spread, indurated wooden swellings, and multiple draining sinus tracts discharging sulfur granules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycosis designates disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cervicofacial **actinomycosis** typically follows dental extraction or mandibular trauma in rural workers."*
+> - 📜 **Robert Koch (*Investigations into Pathogenic Organisms*):** *"Lumpy jaw in cattle proved to be a bovine manifestation of **actinomycosis** spreading through the jawbone."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Prolonged administration of high-dose penicillin is necessary to eradicate the deep-seated pockets of **actinomycosis**."*

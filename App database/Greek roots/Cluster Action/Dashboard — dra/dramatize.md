@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into dramatic form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent something in a dramatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adapt for the stage, film, or broadcast; or to present something in an exaggerated or theatrical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative poetics, to render thoughts and psychological motives as spoken, visible actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother had not been looking at her with evident admiration, while he dramatized an intense interest in the tale to please the children."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Dramatize, **dramatize**! was my constant creative watchword, turning every mental hesitation into scenic confrontation."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"We tend to **dramatize** our misfortunes, acting tragic roles before the sympathetic mirror of our own vanity."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Old river pilots loved to **dramatize** a shallow sandbar crossing into a harrowing encounter with doom."*

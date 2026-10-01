@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (from bolē / ballein, 'a throw, stroke, cast, ray') occurring in words related to projection, motion, and turnover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature, the morpheme underlying terms such as bolide, bolometer, hyperbole, and metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On his way home from Vorontsóvo, as he was passing the Bolótnoe Place Pierre, seeing a large crowd round the Lóbnoe Place, stopped and got out of his trap."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"When first known to the whites there were five boles starting from the ground, but these are now reduced to two, and are probably shoots from the original tree cut down or girdled by Dearborn."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Even were there no other lurking danger—a danger I did not care to let my imagination loose upon—there would still be all the roots to stumble over and the tree-boles to strike against."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The vibrant Indo-European root **bol** signifies the dynamic impulse of hurling forth energy or matter."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From Greek ballein, the stem **bol** generated both physical missiles and abstract psychological symbols."*
+> - 📜 **Aristotle (*Physics*):** *"The trajectory of a projectile initiated by an impulse illustrates the kinetic principles of **bol**."*

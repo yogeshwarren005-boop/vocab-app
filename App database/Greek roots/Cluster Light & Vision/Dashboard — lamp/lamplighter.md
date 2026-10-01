@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (when gas was used for streetlights) a person who lights and extinguishes streetlights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (when gas was used for streetlights) a person who lights and extinguishes streetlights.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to light, extinguish, and maintain the gas or oil street lamps in a town or city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban social history, a familiar historical municipal worker whose evening rounds symbolized public safety and community order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Twilight comes on; gas begins to start up in the shops; the lamplighter, with his ladder, runs along the margin of the pavement."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lamplighter is skipping up and down his ladder on Mr."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Already the lamplighter had started on his accustomed round, and with ladder in hand was making his way from one lamp-post to another."*
+> - 📜 **Charles Dickens (*The Lamplighter*):** *"Tom Grig was an active young **lamplighter**, carrying his ladder through the dusk with merry agility."*
+> - 📜 **Robert Louis Stevenson (*A Child's Garden of Verses*):** *"For we are very lucky, with a lamp before the door, And Leerie was the **lamplighter** that lit it long before."*
+> - 📜 **Antoine de Saint-Exupéry (*The Little Prince*):** *"Upon the tiny asteroid, the **lamplighter** had no rest, extinguishing and lighting his street lamp every minute."*

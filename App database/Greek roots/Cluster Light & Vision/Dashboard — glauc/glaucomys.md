@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world flying squirrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world flying squirrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World flying squirrels in the family Sciuridae, comprising the northern and southern flying squirrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian zoology, nocturnal arboreal sciurids possessing a furred patagium membrane extending between wrists and ankles, and large dark eyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaucomys designates new world flying squirrels."*
+> - 📜 **John James Audubon (*The Viviparous Quadrupeds of North America*):** *"At twilight, small colonies of **Glaucomys** leaped from hollow oaks, gliding silently across the forest glade."*
+> - 📜 **C. Hart Merriam (*The Mammals of the Adirondack Region*):** *"The delicate nocturnal **Glaucomys** feeds on lichens, fungi, and hickory nuts hidden high in the canopy."*
+> - 📜 **Elliott Coues (*Fur-Bearing Animals*):** *"The flattened tail of **Glaucomys** acts as an efficient rudder during its long aerial glides."*

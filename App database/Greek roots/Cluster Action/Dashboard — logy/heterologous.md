@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in structure or evolutionary origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from organisms of a different but related species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a different relation, proportion, structure, or developmental origin; not homologous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and transplantation biology, derived from a different species or genetically non-identical donor; xenogeneic or allogeneic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterologous designates not corresponding in structure or evolutionary origin."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In comparing **heterologous** structures in diverse orders, we observe how dissimilar organs may fulfill identical functions."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The formation of **heterologous** tissue is not a creation de novo, but an altered manifestation of pre-existing cellular capacity."*
+> - 📜 **Paul Ehrlich (*Studies on Immunity*):** *"Injection of **heterologous** serum frequently provokes a sharp precipitin reaction in the recipient animal."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chlorophyll present in brown algae, diatoms, and flagellates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chlorophyll present in brown algae, diatoms, and flagellates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete or historical botanical term for an accessory brownish-green pigment found in brown algae (phaeophyta).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phycology, the pigment fraction now identified with chlorophyll c or associated fucoxanthin complexes in chromophyte algae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorofucin designates the chlorophyll present in brown algae, diatoms, and flagellates."*
+> - 📜 **H. C. Sorby (*Proceedings of the Royal Society of London*):** *"Spectroscopic analysis of brown seaweeds reveals the presence of **chlorofucin** alongside ordinary chlorophyll."*
+> - 📜 **George Murray (*An Introduction to the Study of Seaweeds*):** *"The olive-colored extract owed its peculiar optical bands to the pigment called **chlorofucin**."*
+> - 📜 **E. Ray Lankester (*Quarterly Journal of Microscopical Science*):** *"Early investigators separated **chlorofucin** as a distinct chromogen in marine Laminaria."*

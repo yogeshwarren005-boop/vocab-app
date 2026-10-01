@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various usually acidic organic substances that promote cell elongation in plant shoots and usually regulate other growth processes (such as root initiation): such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indoleacetic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of plant hormones, predominantly indole-3-acetic acid (IAA), that regulates cell elongation, apical dominance, and tropisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry, an essential growth regulator coordinating organogenesis, root initiation, and vascular differentiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxin designates any of various usually acidic organic substances that promote cell elongation in plant shoots and usually regulate other growth processes (such as root initiation): such as."*
+> - 📜 **Frits Went (*Wuchsstoff und Wachstum*):** *"Diffusing from the coleoptile tip into agar blocks, the elusive **auxin** induced curvature in decapitated oat seedlings."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic mimics of natural **auxin**, such as 2,4-D, disrupt internal plant metabolism so violently that weeds curl and die."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Polar transport of **auxin** establishes the fundamental apical-basal axis throughout the developing plant embryo."*

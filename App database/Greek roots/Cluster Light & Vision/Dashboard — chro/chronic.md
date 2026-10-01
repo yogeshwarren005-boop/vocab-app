@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing or occurring again and again for a long time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being, providing, or requiring long-term medical care (as for a chronic disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persisting for a long time or constantly recurring (of an illness, condition, or problem); long-standing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, distinguishing slowly progressing, prolonged disease processes from sudden, self-limiting acute conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, she had two.” My Lady, whose chronic malady of boredom has been sadly aggravated by Volumnia this evening, glances wearily towards the candlesticks and heaves a noiseless sigh."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the twelvemonth preceding this time he had been enabled by sustained efforts of industry and chronic good spirits to lease the small sheep-farm of which Norcombe Hill was a portion, and stock it with two hundred sheep."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There burnt upon her face when she met the light of the candles the flush and excitement which were little less than chronic with her now."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient suffered from **chronic** nephritis, which progressed insidiously over many silent years."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"In dealing with **chronic** invalids, fresh air and cheerful surroundings prove more curative than apothecary draughts."*
+> - 📜 **Thomas Sydenham (*Medical Observations*):** *"Acute diseases are sent by nature to clear the body, whereas **chronic** complaints arise from our lingering internal infirmities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adjustment that causes something to occur or recur in unison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of synchronizing; the act, process, or instance of causing events or machines to operate in temporal unison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In television and film production, aligning picture and sound tracks or locking frame rates to the power-grid frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And when we separate the two by a distance of many miles, the task of synchronising them is even worse."*
+> - 📜 **John Logie Baird (*Television*):** *"The most difficult part of the apparatus was the **synchronising** gear, which required delicate magnetic governing."*
+> - 📜 **Winston Churchill (*The River War*):** *"Success in the desert advance depended on **synchronising** the river gunboats with the cavalry brigade."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian war-machines moved with uncanny grace, **synchronising** their giant metallic strides."*

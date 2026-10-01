@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The treatment of medical or psychiatric conditions (such as seasonal affective disorder) by the controlled application of light —called also light treatment, phototherapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical treatment of physical or mental diseases by exposure to daylight or specific wavelengths of artificial light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pediatrics and dermatology, ultraviolet light treatment for psoriasis or blue-light phototherapy to isomerize toxic bilirubin in neonatal jaundice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototherapy designates light therapy."*
+> - 📜 **Niels Ryberg Finsen (*Nobel Lecture: The Treatment of Lupus Vulgaris by Concentrated Chemical Light Rays*):** *"Concentrated chemical light employed in modern **phototherapy** eradicated intractable lupus lesions without scarring."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The adoption of blue-light **phototherapy** dramatically reduced the need for exchange transfusions in jaundiced neonates."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Sunlight is the second great essential after fresh air; natural **phototherapy** restores pale hospital convalescents."*

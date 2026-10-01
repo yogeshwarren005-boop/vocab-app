@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish discoloration of the cerebrospinal fluid (CSF), or yellowish coloration of the skin or body tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and emergency medicine, the yellow tint of centrifuged CSF caused by the breakdown of red blood cells into oxyhemoglobin and bilirubin, serving as a critical diagnostic indicator of subarachnoid hemorrhage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthochromia designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lumbar puncture performed hours after the onset of severe occipital headache reveals marked **xanthochromia** in the supernatant fluid."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"The fluid aspirated from the cyst cavity exhibited the rich golden **xanthochromia** typical of old extravasated blood."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"Spectrophotometric detection of **xanthochromia** reliably differentiates true subarachnoid hemorrhage from a traumatic needle tap."*

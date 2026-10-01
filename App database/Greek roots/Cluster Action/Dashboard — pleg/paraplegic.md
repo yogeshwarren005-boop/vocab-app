@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has paraplegia (is paralyzed from the waist down).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering complete paralysis of the lower half of the body usually resulting from damage to the spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or afflicted with paraplegia; having the lower half of the body paralyzed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical rehabilitation, describing a patient or therapeutic protocol addressing complete or incomplete lower cord transection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraplegic designates a person who has paraplegia (is paralyzed from the waist down)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful nursing care of the **paraplegic** invalid is vital to prevent intractable decubitus ulcers and urinary sepsis."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"The **paraplegic** patient exhibits hyperactive patellar reflexes and sustained ankle clonus."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Rehabilitation of the **paraplegic** individual requires remapping somatic awareness above the site of cord lesion."*

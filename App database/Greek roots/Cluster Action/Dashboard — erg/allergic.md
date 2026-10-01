@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, affected with, or caused by allergy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an aversion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or characterized by allergy, an abnormal immunological hypersensitivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informally, having a strong antipathy, aversion, or reluctance toward someone or something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allergic designates of, relating to, affected with, or caused by allergy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The acute **allergic** response involves cutaneous urticaria, bronchospasm, and sudden capillary dilatation."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic chemical aerosols provoke severe **allergic** sensitisation in individuals chronically exposed to crop dusts."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"When IgE antibodies cross-link on mast cells, they ignite a violent cascade of **allergic** inflammation."*

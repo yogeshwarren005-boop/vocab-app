@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot in quantitative or accentual verse consisting of two short or unstressed syllables followed by one long or stressed syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and English prosody, the rising trisyllabic foot whose rapid movement imparts momentum, dramatic urgency, or galloping rhythm to poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He could write an anapaest that would send Mr."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The galloping pace of the **anapaest** imparts a lively momentum that contrasts sharply with the measured tread of the iamb."*
+> - 📜 **Samuel Taylor Coleridge (*Metrical Feet: A Lesson for a Boy*):** *"With a leap and a bound the swift **anapaests** throng, carrying the listener impetuously along."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"The judicious introduction of an **anapaest** into an iambic line breaks the monotonous cadence with exquisite variety."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing something with a symbol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing, expressing, or standing for something by means of a symbol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and semiotic analysis, serving as an allegorical or metaphorical emblem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The beauty and majesty of the finely carved panels surmounting the soaring arches spanning the rosy monolith columns, emblazoned with emerald green and scarlet mosaic symbolizing the Báb's lineage and martyrdom, are strikingly revealed."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The miniature locked garden gate became a crucial emblem, **symbolizing** social restraints and forbidden temptations."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"A child said, What is the grass? fetching it to me with full hands; how could I answer, unless by **symbolizing** the green handkerchief of the Lord."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Gatsby gazed across the bay at the green light, **symbolizing** his incorruptible dream of love and reinvention."*

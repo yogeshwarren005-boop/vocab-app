@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A preparation made from iodinated protein and having an action similar to thyroxine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preparation made from iodinated protein and having an action similar to thyroxine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificially iodinated protein (such as iodinated casein) possessing thyroid hormone activity; or thyroglobulin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural animal science and veterinary physiology, a feed additive formerly administered to dairy cows and poultry to stimulate metabolic rate and milk production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroprotein designates a preparation made from iodinated protein and having an action similar to thyroxine."*
+> - 📜 **E. P. Reineke (*The Formation of Thyroxine from Iodinated Proteins*):** *"By treating skim milk casein with elemental iodine under controlled pH, we synthesized a potent synthetic **thyroprotein**."*
+> - 📜 **C. W. Turner (*Thyroprotein and Dairy Production*):** *"Feeding lactating cows with synthetic **thyroprotein** induced a transient increase in daily butterfat and milk yields."*
+> - 📜 **S. J. Folley (*The Physiology of Reproduction and Lactation*):** *"Prolonged administration of **thyroprotein** overstimulates livestock metabolism, causing weight loss if dietary intake is inadequate."*

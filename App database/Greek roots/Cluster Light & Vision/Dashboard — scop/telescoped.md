@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crush together or collapse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller or shorter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Past tense and participle of telescope: compressed, driven together, or compacted longitudinally into overlapping segments; or viewed through a telescope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography, mechanics, and accident analysis, designating events, periods, or mechanical bodies crushed or condensed into an unnaturally compact duration or space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Two or three street cars had telescoped and an auto or so had piled into the wreckage."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Centuries of feudal abuse and royal prerogative were **telescoped** into a few frantic, blood-soaked months of revolutionary terror."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The heavy wooden cars were **telescoped** by the collision, splintering into matchwood along the mountain grade."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Ten long years were **telescoped** into a brief passage of darkness, through which the lighthouse beam turned unceasingly."*

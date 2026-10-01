@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of blue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of blue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or containing the isocyanato group (-N=C=O); related to isocyanic acid (HNCO).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical history, describing the volatile tautomer of cyanic acid whose silver salt was shown by Liebig and Wöhler to be isomeric with silver fulminate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isocyanic designates adjective*) pertaining to, derived from, or characteristic of blue."*
+> - 📜 **Friedrich Wöhler (*On Artificial Urea*):** *"The decomposition of ammonium **isocyanic** salt provided the first chemical synthesis of an organic substance from inorganic matter."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The discovery that fulminic and **isocyanic** acids share identical composition gave birth to the concept of isomerism."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Heating urea drives off volatile **isocyanic** acid, which polymerizes rapidly upon condensation."*

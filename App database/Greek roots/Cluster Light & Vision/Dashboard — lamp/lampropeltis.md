@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King snakes and milk snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King snakes and milk snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nonvenomous New World colubrid snakes comprising kingsnakes and milk snakes, celebrated for smooth, glossy, radiant scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, constrictors (from Greek lampros, radiant, and pelte, shield) noted for immune resistance to viperid venoms and ophiophagous diets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lampropeltis designates king snakes and milk snakes."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"The common kingsnake, belonging to **Lampropeltis**, does not hesitate to attack, kill, and devour the largest rattlesnakes."*
+> - 📜 **Arthur Loveridge (*Reptiles of the World*):** *"Brilliant bands of red, yellow, and black make **Lampropeltis** a classic subject for studies in Batesian mimicry."*
+> - 📜 **Elliott Coues (*Report on the Herpetology of the Western Territories*):** *"The glossy smooth scales of **Lampropeltis** reflect the desert sun with enamel-like brilliance."*

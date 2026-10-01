@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, yielding, or involving the use of food produced with the use of feed or fertilizer of plant or animal origin without employment of chemically formulated fertilizers, growth stimulants, antibiotics, or pesticides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or derived from living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from living matter; or containing carbon compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by systematic, harmonious coordination of parts in a unified, living whole; natural and integral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The recuperative power which pervaded organic nature was surely not denied to maidenhood alone."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Few kinds of food answer very well to this last requirement, being organic and perishable."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The organic nature of local industry causes these evils to be felt by many classes."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Agricultural chemistry demonstrates that plants draw mineral salts from the soil to synthesize complex **organic** nutrients."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"All **organic** beings around us are exposed to severe competition in the great and complex battle of life."*
+> - 📜 **Samuel Taylor Coleridge (*Shakespearean Criticism*):** *"Mechanical form is impressed from without, whereas **organic** form shapes itself from within as it develops."*

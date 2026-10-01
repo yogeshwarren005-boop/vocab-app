@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to catabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to catabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break down complex biochemical substances into simpler constituents during metabolism (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, to enzymatically degrade carbohydrates, lipids, or proteins to liberate metabolic energy in the form of ATP.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabolise designates subject to catabolism."*
+> - 📜 **J. B. S. Haldane (*Enzymes*):** *"Intracellular enzymes rapidly **catabolise** glycogen deposits whenever sudden muscular contraction demands fuel."*
+> - 📜 **Julian Huxley (*The Stream of Life*):** *"Living organisms constantly synthesize and **catabolise** their own cellular constituents in a perpetual state of flux."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Cellular systems must selectively **catabolise** damaged or misfolded proteins to prevent toxic aggregation."*

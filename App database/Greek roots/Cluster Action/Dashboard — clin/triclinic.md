@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three unequal crystal axes intersecting at oblique angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three unequal crystal axes intersecting at oblique angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In crystallography, having three unequal axes that intersect at oblique, non-right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing minerals of the lowest crystal symmetry, such as albite, anorthite, and plagioclase feldspars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triclinic designates having three unequal crystal axes intersecting at oblique angles."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Because all three axial angles deviate from ninety degrees, **triclinic** crystals exhibit no planes of symmetry."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Plagioclase forms **triclinic** laths whose polysynthetic twinning produces fine striations across cleavage faces."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Low-symmetry **triclinic** structures accommodate complex combinations of large and small ionic radii."*

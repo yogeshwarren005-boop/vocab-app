@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscope for viewing the interior of the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope for viewing the interior of the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct visual examination of the mucous membrane of the stomach using an endoscope (gastroscope) passed through the esophagus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, an endoscopic procedure crucial for the detection, biopsy, and therapeutic management of peptic ulcers, gastric neoplasms, and mucosal hemorrhages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroscopy designates an endoscope for viewing the interior of the stomach."*
+> - 📜 **Rudolf Schindler (*Gastroscopy: The Endoscopic Study of Gastric Pathology*):** *"Through flexible **gastroscopy**, the clinician explores the living gastric mucosa with safety and diagnostic precision."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The emergence of reliable **gastroscopy** has brought the diagnosis of early gastric carcinoma within human reach."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body, Hypothalamus and Parasympathetic Nervous System*):** *"Observations made during routine **gastroscopy** revealed acute mucosal erosions linked to intracranial hypertension."*

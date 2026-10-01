@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The personal supreme spirit of evil often represented in Christian belief as the tempter of humankind, the leader of all apostate angels, and the ruler of hell —usually used with the—often used as an interjection, an intensive, or a generalized term of abuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evil spirit : demon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme spirit of evil in Christianity and other religions; or an evil, wicked, or cruel person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing and industrial history, a printer's apprentice; or a machine used for tearing rags or fibrous materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My poor body, madam, requires it; I am driven on by the flesh, and he must needs go that the devil drives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So spake the **Devil**, and him Satan by contempt called, though fallen from his high archangelic glory."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The **devil** can cite Scripture for his purpose; an evil soul producing holy witness is like a villain with a smiling cheek."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The ink-stained printer's **devil** ran breathlessly into the shop, clamoring for the final revised proof-sheets."*

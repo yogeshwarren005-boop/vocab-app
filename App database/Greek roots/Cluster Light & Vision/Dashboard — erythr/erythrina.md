@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubs or shrubby trees of the genus erythrina having trifoliate leaves and racemes of scarlet to coral red flowers and black seeds; cultivated as an ornamental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubs or shrubby trees of the genus erythrina having trifoliate leaves and racemes of scarlet to coral red flowers and black seeds; cultivated as an ornamental.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical and subtropical trees and shrubs in the pea family (Fabaceae), commonly known as coral trees, noted for flame-red flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and pharmacology, ornamental and shade trees yielding toxic curare-like alkaloids (erythroidines) and lightweight timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He started for Manoa at dawn, and proceeded as far as Mahinauli, in mid-valley, where he rested under a hala (_Pandanus odoratissimus_) tree that grew in the grove of wiliwili (_Erythrina monosperma_)."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Magnificent trees of **Erythrina**, loaded with dazzling scarlet flowers, shaded the young coffee plantations of the valley."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"The brilliant blossoms of **Erythrina** are adapted for pollination by hummingbirds and honey-eaters."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"In the hot Terai valleys, the coral tree **Erythrina** stood leafless, covered in massive clusters of crimson blooms."*

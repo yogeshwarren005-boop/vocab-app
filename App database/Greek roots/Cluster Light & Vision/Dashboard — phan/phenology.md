@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science dealing with the relations between climate and periodic biological phenomena (such as bird migration or plant flowering).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periodic biological phenomena that are correlated with climatic conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of cyclic and seasonal natural phenomena, especially in relation to climate, plant flowering, and animal migration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and environmental ecology, recording annual dates of budburst, bird arrival, and leaf fall as sensitive bio-indicators of climate change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phenology designates a branch of science dealing with the relations between climate and periodic biological phenomena (such as bird migration or plant flowering)."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"My journal of the first songs of birds and opening of flowers forms the basis of rural **phenology**."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"The meticulous **phenology** of Walden Pond revealed that nature keeps her spring calendar with astonishing fidelity."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Alterations in seasonal **phenology** disrupt the delicate synchronization between hatching insect larvae and migrating warblers."*

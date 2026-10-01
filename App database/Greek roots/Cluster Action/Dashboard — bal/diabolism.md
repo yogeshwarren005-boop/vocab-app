@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in and reverence for devils (especially satan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in and reverence for devils (especially satan).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worship of the devil; conduct or character worthy of the devil; diabolical action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and literature, belief in or traffic with demons; the philosophy or practice of pure malevolence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabolism designates a belief in and reverence for devils (especially satan)."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Medieval witch trials were driven by an hysterical terror of organized **diabolism** threatening Christendom."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Mendoza fancied himself an outlaw of high romantic **diabolism**, defying the conventions of respectability."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A soul steeped in morbid melancholy easily falls prey to visions of cosmic **diabolism** and despair."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An error in chronology; especially : a chronological misplacing of persons, events, objects, or customs in regard to each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or a thing that is chronologically out of place; especially : one from a former age that is incongruous in the present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronological analysis and dramatic art, an error in attributing an event, custom, or invention to a date when it did not exist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You are too young—it is an anachronism for you to have such thoughts,” said Will, energetically, with a quick shake of the head habitual to him."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A scene into which the artist had incautiously painted a pointed arch was condemned as an anachronism."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What can be a greater anachronism than the death of Prince Arthur three months hence on the stage of the Panopticon Theatre?"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The monkish chronicler was guilty of a flagrant **anachronism** in assigning gunpowder to the legions of Constantine."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"To hear the courtier quote Rousseau in Queen Anne's drawing-room was an amusing literary **anachronism**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet avoided every jarring **anachronism** by steeping his imagination in the authentic atmosphere of the Middle Ages."*

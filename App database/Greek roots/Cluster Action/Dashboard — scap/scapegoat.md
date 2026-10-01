@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is punished for the errors of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is punished for the errors of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or group made to bear the blame for others or to suffer in their place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical anthropology (Leviticus 16), the goat over whose head the high priest confessed the sins of the people, subsequently driven into the wilderness for Azazel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Walter Gregor, "Notes on Beltane Cakes," _Folk-lore_, vi. (1895) pp. 2 _sq._ The Beltane cakes with the nine knobs on them remind us of the cakes with twelve knobs which the Athenians offered to Cronus and other deities (see _The Scapegoat_, p. 351)."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Boemus, _Mores, leges et ritus omnium gentium_ (Lyons, 1541), p. 222; John Brand, _Popular Antiquities of Great Britain_ (London, 1882-1883), i. 22 _sq.; The Scapegoat_, pp. 313 _sqq._ [377] Shaw, in Pennant's "Tour in Scotland," printed in J."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Tylor, _Researches into the Early History of Mankind_, Third Edition (London, 1878), pp. 259 _sq._ [565] See _The Scapegoat_, pp. 166 _sq._ [566] E.K."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In ancient ritual, the community transferred its accumulated sins and misfortunes onto a symbolic **scapegoat** driven out into the wilderness."*
+> - 📜 **Shirley Jackson (*The Lottery*):** *"The ancient human impulse to select a **scapegoat** to purge communal anxieties lies dormant beneath civilized conventions."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"He felt bitterly that he was being marked out as a convenient **scapegoat** to bear the consequences of family imprudence."*

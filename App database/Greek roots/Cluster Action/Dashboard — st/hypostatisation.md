@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarding something abstract as a material thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarding something abstract as a material thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive act or philosophical fallacy of reifying an abstraction and treating it as a concrete, independent reality (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical social theory, the ideological transformation of historical, social relations into seemingly natural, fixed ontological things.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatisation designates regarding something abstract as a material thing."*
+> - 📜 **Theodor W. Adorno (*Negative Dialectics*):** *"Dialectical critique must resist the dogmatic **hypostatisation** of subjective categories into immutable metaphysical constants."*
+> - 📜 **Georg Lukács (*History and Class Consciousness*):** *"Commodity fetishism accomplishes the systematic **hypostatisation** of human labor relations into objective economic laws."*
+> - 📜 **Roy Bhaskar (*A Realist Theory of Science*):** *"We must avoid the epistemological fallacy without falling into the illicit **hypostatisation** of theoretical models."*

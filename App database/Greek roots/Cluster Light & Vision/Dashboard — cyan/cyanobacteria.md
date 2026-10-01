@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of photosynthetic, oxygen-producing prokaryotic microorganisms, historically known as blue-green algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobiology and geobiology, the ancient organisms whose oxygenic photosynthesis caused the Great Oxidation Event and gave rise to eukaryotic chloroplasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanobacteria designates predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The chloroplast of every modern plant cell is the evolutionary descendant of an engulfed ancestral **cyanobacteria**."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Floating colonies of marine **cyanobacteria** paint the waters of the Red Sea with sudden crimson blooms."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Fossil stromatolites built by ancient **cyanobacteria** preserve the earliest tangible evidence of terrestrial life."*

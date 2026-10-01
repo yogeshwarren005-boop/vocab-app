@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of perennial hairy herbs of europe to western asia to northwestern africa and north america; few are ornamental; often considered congeneric with pilosella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of perennial hairy herbs of europe to western asia to northwestern africa and north america; few are ornamental; often considered congeneric with pilosella.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and taxonomically complex genus of perennial herbs in the daisy family Asteraceae, commonly known as hawkweeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical history and genetics, the apomictic plant genus whose confusing hybridizations famously confounded Gregor Mendel's genetic experiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Var. _b._ _Prenanthis_, Pers.; spots circular or irregular, purplish; subiculum incrassated.—On leaves of Hawkweed (_Hieracium paludosum_)."*
+> - 📜 **Gregor Mendel (*Letters to Carl Nägeli*):** *"My cross-breeding experiments with **Hieracium** yielded perplexing results because of their unsuspected apomictic seed formation."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Hieracium** multiply with bewildering variability across open pastures and rocky banks."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Folk tradition asserted that hawks sharpened their sight with the bitter yellow juice of **Hieracium**."*

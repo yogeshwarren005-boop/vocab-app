@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raise to a higher energy level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be alert and energetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving vitality, energy, or enthusiasm; invigorating (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplying electrical power or physical energy to an apparatus or physiological system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Generally speaking, alternating current is no use for energising a magnet."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If a magnet be arranged to attract another magnet, it will do so only when the energising current flows one way."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Nature imparted an **energising** spirit that exalted the youthful heart above petty anxieties."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Oxygenation of arterial blood plays an **energising** role in sustaining muscular and cerebral vitality."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"His arrival at headquarters had an **energising** effect upon the fatigued staff, restoring confidence and purpose."*

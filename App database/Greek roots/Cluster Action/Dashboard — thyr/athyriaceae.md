@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative names for one of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative names for one of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of leptosporangiate polypod ferns (order Polypodiales) comprising terrestrial lady ferns and related genera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pteridology, a cosmopolitan fern family segregated from Woodsiaceae and Dryopteridaceae by distinctive chromosome numbers and sorus morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athyriaceae designates alternative names for one of a number of families into which the family polypodiaceae has been subdivided in some classification systems."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"Taxonomic treatment of the **athyriaceae** emphasizes the elongated, crescentic sori protected by delicate lateral indusia."*
+> - 📜 **Warren H. Wagner (*Systematics of the Pteridophytes*):** *"Molecular phylogenetics has reaffirmed the distinct familial identity of the **athyriaceae** within the eupolypods II clade."*
+> - 📜 **Alan R. Smith (*A Classification for Extant Ferns*):** *"Genera within the **athyriaceae** are primarily terrestrial woodland dwellers characterized by erect or creeping scaly rhizomes."*

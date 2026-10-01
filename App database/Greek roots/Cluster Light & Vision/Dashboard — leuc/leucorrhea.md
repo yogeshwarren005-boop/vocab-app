@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discharge of white mucous material from the vagina; often an indication of infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discharge of white mucous material from the vagina; often an indication of infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A whitish, yellowish, or mucoid discharge from the female genital tract, often indicative of infection or physiological congestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology, a symptom reflecting cervical erosion, hormonal changes, or infections such as candidiasis, trichomoniasis, or bacterial vaginosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucorrhea designates discharge of white mucous material from the vagina; often an indication of infection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic pelvic inflammatory disease frequently presents with persistent **leucorrhea** and backache."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Debilitated women suffering from lingering **leucorrhea** derived great benefit from chalybeate waters and restorative diet."*
+> - 📜 **Robley Dunglison (*A Dictionary of Medical Science*):** *"The term **leucorrhea**, popularly known as the whites, denotes an excessive mucous secretion from the uterine mucosa."*

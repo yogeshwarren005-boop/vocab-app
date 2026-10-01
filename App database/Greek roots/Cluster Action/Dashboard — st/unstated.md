@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made explicit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made explicit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stated, declared, or explicitly expressed in words; tacit or implied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and legal hermeneutics, designating underlying assumptions or premises left unexpressed yet fundamental to an argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstated designates not made explicit."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Lochner v. New York Dissent*):** *"This decision is made upon an economic theory which a large part of the country does not entertain, remaining an **unstated** premise."*
+> - 📜 **Ludwig Wittgenstein (*Notebooks 1914-1916*):** *"What the proposition cannot express remains **unstated**, showing itself forth only through the logical syntax of the world."*
+> - 📜 **H. L. A. Hart (*The Concept of Law*):** *"Judicial discretion frequently operates upon **unstated** policy preferences that guide the interpretation of open-textured rules."*

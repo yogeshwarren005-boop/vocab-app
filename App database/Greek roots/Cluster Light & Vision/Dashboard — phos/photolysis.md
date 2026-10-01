@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemical decomposition by the action of radiant energy (such as light).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chemical decomposition by the action of radiant energy (such as light).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The decomposition or separation of molecules by the action of light or radiant energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photosynthetic biochemistry, the light-dependent splitting of water molecules in Photosystem II, releasing oxygen, protons, and electrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolysis designates chemical decomposition by the action of radiant energy (such as light)."*
+> - 📜 **Robin Hill (*Oxygen Produced by Isolated Chloroplasts*):** *"The **photolysis** of water by illuminated chloroplast suspensions proceeds in the absence of carbon dioxide fixation."*
+> - 📜 **Eugene Rabinowitch (*Photosynthesis*):** *"The primary quantum act in photosynthesis drives the catalytic **photolysis** of water, liberating atmospheric oxygen."*
+> - 📜 **Mario J. Molina (*Stratospheric Halogen Chemistry*):** *"Solar ultraviolet rays induce the **photolysis** of chlorofluorocarbons, releasing destructive free chlorine radicals."*

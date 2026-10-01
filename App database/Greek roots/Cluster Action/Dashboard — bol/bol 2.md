@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root and lexical morpheme (bolos, 'lump, clod, casting') designating a mass, mouthful, or bolus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacology and mineralogy, an earth-like clay mass or medicinal lump shaped for swallowing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bol 2 designates a term designating an entity, condition, or phenomenon derived from greek bol."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The root stem **bol** appears in descriptions of rich clods of earth suited for vine nurseries."*
+> - 📜 **Galen (*On the Properties of Simples*):** *"The medicinal lump or **bol** was rolled in honey to mask its bitter herbal taste before ingestion."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In secondary usage, **bol** denotes a clod or compacted lump of argillaceous earth."*

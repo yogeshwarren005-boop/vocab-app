@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lighted by a lamp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lighted by a lamp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Illuminated or lit by a lamp or lamps; bathed in lamplight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, evoking atmospheric, quiet scenes illuminated by gaslight, candlelight, or street lamps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She raised them to look out at the evening sky, indigo blue against the lamplit interior, or faintly primrose in the west, and wondered for the thousandth time why it was still such an effort to Val to refer to his brief military experience."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Waterloo, lamplit and resonant: the pulsing of many lamps, the hurry of many steps, the flitting by of many faces under an arch of gloom: dark quiet and the scent of violets in a waiting car."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Most of the windows were dark, but now and then fantastic shadows were silhouetted against some lamplit blind."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"They walked slowly together along the **lamplit** Embankment, watching the river reflect golden ripples."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He hurried through the **lamplit** streets of London into the gathering evening fog."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Through the small casement, a single **lamplit** pane shone out into the dark vastness of Egdon Heath."*

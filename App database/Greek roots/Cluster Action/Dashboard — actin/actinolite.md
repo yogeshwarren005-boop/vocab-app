@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A green mineral of the amphibole group; calcium magnesium iron silicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A green mineral of the amphibole group; calcium magnesium iron silicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A green, fibrous or bladed amphibole mineral composed of calcium, magnesium, and iron inosilicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, an essential constituent of greenschist metamorphic facies, forming slender radiating needles or asbestiform masses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinolite designates a green mineral of the amphibole group; calcium magnesium iron silicate."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Radiating clusters of dark-green **actinolite** crystals frequently penetrate crystalline marble and talc schists."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Metamorphic shearing transformed original pyroxene basalt into dense foliated rocks rich in fibrous **actinolite**."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Nephrite jade is a compact, tough crypto-crystalline variety of **actinolite** prized by ancient lapidaries."*

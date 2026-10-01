@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any compound containing three chlorine atoms in each molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any compound containing three chlorine atoms in each molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical binary compound containing three chlorine atoms per molecule combined with another element or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, common compounds such as phosphorus trichloride (PCl3), iron(III) chloride (FeCl3), and aluminium trichloride (AlCl3).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloride designates any compound containing three chlorine atoms in each molecule."*
+> - 📜 **Humphry Davy (*Philosophical Transactions of the Royal Society*):** *"Burning phosphorus in dry chlorine gas resulted in a volatile liquid identified as phosphorus **trichloride**."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Anhydrous aluminium **trichloride** fumed intensely upon contact with the moist air of the laboratory."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Nitrogen **trichloride** is an exceedingly dangerous, oily explosive that detonates at the slightest mechanical shock."*

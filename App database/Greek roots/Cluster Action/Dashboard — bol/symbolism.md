@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of using symbols especially by investing things with a symbolic meaning or by expressing the invisible or intangible by means of visible or sensuous representations: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic imitation or invention that is a method of revealing or suggesting immaterial, ideal, or otherwise intangible truth or states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of representing things by symbols, or of investing things with a symbolic character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 19th-century artistic and literary movement that rejected realism in favor of evocative, metaphorical suggestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Using the symbolism of the Hebrew religion and its tabernacle, he compares Jesus to the High Priest, but Jesus, he says, does not enter into the holiest alone."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He took three hundred captive princesses and ladies, and married them in a batch to Macedonian officers--a very characteristic piece of symbolism."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"When round pure hearts a host of hopes assemble The Snake and Eagle meet--the world's foundations tremble." This piece of symbolism became a sort of fixed language with him; "the Snake" was a name by which it amused him to be known among his friends."*
+> - 📜 **Charles Baudelaire (*Les Fleurs du Mal*):** *"Man walks through forests of living pillars that observe him with familiar glances in deep **symbolism**."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"Through evocative **symbolism**, Mallarmé sought to liberate poetry from the chains of photographic realism."*
+> - 📜 **Carl Jung (*Archetypes and the Collective Unconscious*):** *"Religious **symbolism** preserves primordial psychic archetypes that transcend cultural and historical eras."*

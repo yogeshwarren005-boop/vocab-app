@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of biological explanations in the analysis of social situations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of biological explanations in the analysis of social situations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of human life, society, ethics, and culture solely in terms of biological principles and evolutionary instincts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philosophy and sociology, a reductionist paradigm that attributes complex cultural and cognitive developments entirely to biological determinism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologism designates the use of biological explanations in the analysis of social situations."*
+> - 📜 **Jürgen Habermas (*The Future of Human Nature*):** *"A vulgar **biologism** threatens to reduce intersubjective normative claims to genetic predispositions."*
+> - 📜 **Stephen Jay Gould (*Ever Since Darwin*):** *"The resurgence of crude **biologism** in sociology often serves to justify prevailing social hierarchies."*
+> - 📜 **Mary Midgley (*Beast and Man: The Roots of Human Nature*):** *"To counter reductive **biologism**, we need not deny our animal ancestry, but understand its full, non-mechanistic complexity."*

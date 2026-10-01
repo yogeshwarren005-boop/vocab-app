@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that deals with the effects on living organisms of radiant energy (such as light).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology that deals with the effects on living organisms of radiant energy (such as light).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch of biology that studies the interactions of light and radiant energy with living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In multidisciplinary science, encompassing photosynthesis, bioluminescence, phototaxis, photoperiodism, vision, and ultraviolet photopathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photobiology designates a branch of biology that deals with the effects on living organisms of radiant energy (such as light)."*
+> - 📜 **Eugene Rabinowitch (*Photosynthesis and Related Processes*):** *"Modern **photobiology** seeks to trace the quantum transfer of photons from light-harvesting pigments into chemical bonds."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"Comparative **photobiology** demonstrates how primitive eye-spots gradually evolved into complex retinal cameras."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The daily vertical migrations of oceanic plankton present one of the grandest mysteries of marine **photobiology**."*

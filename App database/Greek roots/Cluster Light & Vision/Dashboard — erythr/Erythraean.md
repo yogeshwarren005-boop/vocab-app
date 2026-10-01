@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of red.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of red.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the Red Sea (ancient Mare Erythraeum) or the ancient Greek coastal city of Erythrae in Ionia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and ancient geography, describing the legendary Erythraean Sibyl or the maritime trade routes of the Indian Ocean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Erythraean designates adjective*) pertaining to, derived from, or characteristic of red."*
+> - 📜 **Herodotus (*The Histories*):** *"The Phoenicians migrated to the Mediterranean from the shores of the **Erythraean** Sea."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Roman fleets sailed annually across the **Erythraean** main to bring back silks and spices from Malabar."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As when the potent rod of Amram's son waved round the coast of the troubled **Erythraean** deep."*

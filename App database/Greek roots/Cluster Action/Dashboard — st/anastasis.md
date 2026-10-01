@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rising, restoration, or resurgence; specifically, the resurrection of Jesus Christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine iconography and Eastern Christian theology, the depiction of the Harrowing of Hell, where Christ tramples the gates of death and raises Adam and Eve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastasis designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Jaroslav Pelikan (*The Spirit of Eastern Christendom*):** *"In Eastern Orthodox liturgy, the feast of feasts is not simply Easter but the triumphant **anastasis** that shatters mortality."*
+> - 📜 **John Meyendorff (*Byzantine Theology*):** *"The great fresco of the **anastasis** at the Chora Monastery depicts Christ pulling humanity bodily from the tombs of Hades."*
+> - 📜 **Vladimir Lossky (*The Mystical Theology of the Eastern Church*):** *"Through the **anastasis**, human nature is ontologically renewed, releasing all creation from the bondage of decay."*

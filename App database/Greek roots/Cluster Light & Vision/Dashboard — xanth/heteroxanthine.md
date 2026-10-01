@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A methylated purine base (7-methylxanthine) found in human and animal urine as an intermediate metabolite of caffeine and theobromine catabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical biochemistry and metabolic physiology, a purine derivative formed by the N-demethylation of paraxanthine and theobromine by hepatic cytochrome P450 enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroxanthine designates adjective*) pertaining to, derived from, or characteristic of yellow."*
+> - 📜 **Albrecht Kossel (*Zeitschrift für physiologische Chemie*):** *"From normal human urine we succeeded in isolating the methylated purine base **heteroxanthine**, closely related to xanthine and theobromine."*
+> - 📜 **Russell Henry Chittenden (*Studies in Physiological Chemistry*):** *"Metabolic excretion studies demonstrated that ingested caffeine is partially degraded into **heteroxanthine** before renal elimination."*
+> - 📜 **Emil Fischer (*Untersuchungen in der Puringruppe*):** *"Synthetic methylation confirmed that **heteroxanthine** is structurally identical to 7-methylxanthine."*

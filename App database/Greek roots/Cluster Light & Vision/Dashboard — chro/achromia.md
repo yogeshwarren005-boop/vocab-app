@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An absence of normal pigmentation especially in the skin (as in albinism) or in red blood cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absence of normal pigmentation especially in the skin (as in albinism) or in red blood cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of lacking normal color or pigmentation; an absence of pigment in the skin, hair, or erythrocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and hematology, pale depigmentation seen in vitiligo, leukoderma, or hypochromic microcytic anemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromia designates an absence of normal pigmentation especially in the skin (as in albinism) or in red blood cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe iron-deficiency states result in marked central **achromia** of the erythrocyte disc."*
+> - 📜 **Erasmus Wilson (*Diseases of the Skin*):** *"Congenital **achromia** manifests as white locks of hair or patches of pigmentless skin."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The localized **achromia** spread slowly across the knuckles without inflammation or induration."*

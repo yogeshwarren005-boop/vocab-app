@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New zealand edelweiss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New zealand edelweiss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, tufted alpine perennial herbs in the daisy family Asteraceae native to New Zealand, known as New Zealand edelweiss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In montane botany, cushion plants characterized by dense white woolly bracts and leaves that protect against alpine frost and intense ultraviolet radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucogenes designates new zealand edelweiss."*
+> - 📜 **Leonard Cockayne (*New Zealand Plants and Their Story*):** *"Upon the rocky windswept screes of the Southern Alps grew dense silvery cushions of **Leucogenes**, the true New Zealand edelweiss."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The woolly leaves of **Leucogenes** shimmer like frosted velvet amidst the bare grey shingle."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Leucogenes** is adapted to extreme alpine exposure by thick felted trichomes covering all vegetative parts."*

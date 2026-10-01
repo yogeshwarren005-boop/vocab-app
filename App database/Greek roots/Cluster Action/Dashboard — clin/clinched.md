@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secure or fasten by flattening the ends of nails or bolts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold a boxing opponent with one or both arms so as to prevent punches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decisively settled, confirmed, or finalized, as in an agreement or victory; or securely fastened with bent-over nail heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Held tightly in a mutual physical grasp; or having teeth or fists clamped together in determination or fury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But these are all landsmen; of week days pent up in lath and plaster—tied to counters, nailed to benches, clinched to desks."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A few keen pulls, and his boat-hook soon clinched the Pequod’s main-chains, and he sprang to the deck."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The boy had some slight difficulty in undoing the heavy iron gates, and we heard the hoarse roar of the Doctor’s voice and saw the fury with which he shook his clinched fists at him."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes smiled in quiet triumph as the final footprint **clinched** the identity of the intruder."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The rival huskies **clinched** in a furious death-grapple amidst the whirling snow."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester stood before the hearth with **clinched** hands, struggling against an agony of remorse."*

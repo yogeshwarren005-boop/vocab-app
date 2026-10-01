@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of cause to stand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of cause to stand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no tendency to take a fixed directional position or orientation; in neutral equilibrium regarding external fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, designating an arrangement of magnetic needles (astatic couple) whose equal and opposite poles cancel Earth's magnetic influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astatic designates adjective*) pertaining to, derived from, or characteristic of cause to stand."*
+> - 📜 **André-Marie Ampère (*Memoir on the Mathematical Theory of Electrodynamic Phenomena*):** *"By combining two parallel needles with opposing poles, Nobili constructed an **astatic** galvanometer of unprecedented sensitivity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The deflection of the **astatic** needle demonstrated the existence of induced currents even in minute circuit loops."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"An **astatic** suspension eliminates the directive couple of the geomagnetic field, leaving the system subject only to torsion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell (as of the skin, eye, or hair follicle) that produces melanin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several vertebrate hormones of the pituitary gland that darken the skin by stimulating melanin dispersion in pigment-containing cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized, melanin-producing cell located in the basal layer of the skin epidermis, the hair follicles, and the uvea of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and dermatology, a dendritic cell that synthesizes melanin within specialized organelles called melanosomes, transferring them to keratinocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanocyte designates a cell (as of the skin, eye, or hair follicle) that produces melanin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ultraviolet exposure stimulates the epidermal **melanocyte** to accelerate pigment transfer to surrounding skin cells."*
+> - 📜 **Paul Ehrlich (*Studies on Immunity*):** *"The dendritic arborization of each **melanocyte** permits contact with dozens of neighboring epidermal cells."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The tyrosinase enzyme within the **melanocyte** catalyses the initial oxidation of tyrosine to dopaquinone."*

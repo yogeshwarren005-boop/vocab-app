@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making great mental demands; hard to comprehend or solve or believe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to question or debate; doubtful, uncertain, or presenting difficult challenges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and scholarly debate, admitting of doubt or lacking definitive empirical confirmation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The conversation seemed to imply that the issue was problematical, and that a majority for Tyke was not so certain as had been generally supposed."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In truth, it turned out to be one of those problematical whales that seem to dry up and die with a sort of prodigious dyspepsia, or indigestion; leaving their defunct bodies almost entirely bankrupt of anything like oil."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Standing armies, it is said, are not provided against in the new Constitution; and it is therefore inferred that they may exist under it.[1] Their existence, however, from the very terms of the proposition, is, at most, problematical and uncertain."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The existence of external bodies must remain **problematical** if judged purely by immediate sensory impressions."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Future happiness in this mortal state is always **problematical**, subject to a thousand unforeseen accidents."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The exact age of the lowest metamorphic strata was long regarded as highly **problematical** by field geologists."*

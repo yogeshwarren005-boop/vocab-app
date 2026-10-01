@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish the order in time of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the order in time of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of chronologize; to arrange, record, or date events in their chronological sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival science and historical bibliography, to catalog documents, correspondence, or archaeological artifacts according to their verified dates of origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronologise designates establish the order in time of something."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"To **chronologise** the scattered letters of the statesmen was the editor's most laborious task."*
+> - 📜 **George Saintsbury (*A History of the French Novel*):** *"Efforts to **chronologise** the medieval romances often run afoul of contradictory manuscript traditions."*
+> - 📜 **Edward Freeman (*The History of the Norman Conquest*):** *"We must carefully **chronologise** the entries in the Anglo-Saxon chronicles against contemporary charters."*

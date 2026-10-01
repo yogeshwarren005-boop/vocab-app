@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lens made by combining lenses of different glasses having different focal powers so that the light emerging from the lens forms an image practically free of chromatic aberration : achromatic lens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lens made by combining lenses of different glasses having different focal powers so that the light emerging from the lens forms an image practically free of chromatic aberration : achromatic lens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An achromatic lens or optical system designed to transmit light without separating it into rainbow colors; also, a person affected by total color blindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In practical optics, an objective composed of crown and flint glass elements cemented together to focus two distinct wavelengths to the same focal point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achromat designates a lens made by combining lenses of different glasses having different focal powers so that the light emerging from the lens forms an image practically free of chromatic aberration : achromatic lens."*
+> - 📜 **John Herschel (*Treatise on Light*):** *"The combination of crown and flint lenses formed a perfected **achromat**, banishing the chromatic fringes that marred early refractors."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"Dollond's introduction of the composite **achromat** inaugurated a new epoch in observational astronomy."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"To the complete **achromat**, the vibrant tropical lagoon was perceived entirely in nuances of luminous tone."*

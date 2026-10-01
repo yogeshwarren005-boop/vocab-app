@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic name and spelling for protactinium, the radioactive metallic chemical element of atomic number 91.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early radiochemistry, the parent radionuclide in the actinium decay chain, discovered by Otto Hahn and Lise Meitner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoactinium designates a short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead."*
+> - 📜 **Lise Meitner (*The Discovery of Protactinium*):** *"Otto Hahn and I succeeded in separating **protoactinium** from uranium pitchblende residues during the war years."*
+> - 📜 **Frederick Soddy (*The Interpretation of Radium*):** *"Calculations demonstrated that **protoactinium** decays by alpha emission directly into actinium."*
+> - 📜 **Marie Curie (*Radioactivity*):** *"The long-sought radioactive ancestor of actinium was designated **protoactinium** to denote its position in the decay lineage."*

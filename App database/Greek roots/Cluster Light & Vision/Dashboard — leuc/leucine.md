@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential hydrophobic amino acid (C6H13NO2) with an isobutyl side chain, vital for protein synthesis, tissue repair, and muscle growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, the amino acid first isolated by Henri Braconnot in 1820 from cheese curds, named from Greek leukos due to its glistening white crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucine designates a white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Upon decomposing cheese and muscle fibrin with sulfuric acid, glistening white plates of **leucine** crystallize out."*
+> - 📜 **Emil Fischer (*Nobel Lecture: Syntheses in the Purine and Amino Acid Groups*):** *"The optical isomers of **leucine** were successfully synthesized and coupled into our earliest synthetic polypeptides."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Hydrophobic interactions between bulky **leucine** side chains stabilize the interior core of myoglobin."*

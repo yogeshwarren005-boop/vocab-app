@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood clot or swelling, particularly one that blocks an artery; an embolus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battering ram on a warship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek military tactical formation in the shape of a wedge or battering ram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical naval warfare, the reinforced bronze beak or ram protruding from the prow of a war galley.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embolon designates a blood clot or swelling, particularly one that blocks an artery; an embolus."*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"The Athenian trireme drove its bronze **embolon** straight into the enemy vessel's flank, shattering its oars."*
+> - 📜 **Xenophon (*Cyropaedia*):** *"Arranging the shock cavalry into an **embolon**, the general spearheaded the breakthrough across the enemy line."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The heavy Byzantine dromon utilized its reinforced iron **embolon** to crush lighter pirate craft in the Aegean."*

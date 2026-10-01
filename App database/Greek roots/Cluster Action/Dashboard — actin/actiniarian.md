@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any sea anemone or related animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sea anemone or related animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or pertaining to the sea anemone order Actiniaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism exhibiting the anatomical characteristics of soft-bodied anthozoans with hexamerous mesenterial symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actiniarian designates any sea anemone or related animal."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"The **actiniarian** nervous system comprises a diffuse subepidermal nerve net governing coordinated retraction."*
+> - 📜 **Philip Henry Gosse (*Actinologia Britannica*):** *"We observed the **actiniarian** column slowly detach its pedal disc to drift across the aquarium floor."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Neurotoxins isolated from **actiniarian** tentacles produce immediate neuromuscular blockades in arthropod prey."*

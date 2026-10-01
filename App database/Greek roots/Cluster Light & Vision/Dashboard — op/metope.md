@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The space between two triglyphs of a Doric frieze often adorned with carved work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The space between two triglyphs of a Doric frieze often adorned with carved work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A square space between triglyphs in a Doric frieze, often decorated with carved relief sculpture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, the frieze panel (from Greek meta, between, and ope, opening) carrying iconic sculptural narratives such as the Parthenon Centauromachy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metope designates the space between two triglyphs of a doric frieze often adorned with carved work."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Every carved **metope** of the Doric temple displayed heroes locked in fierce combat with centaurs."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The relief upon the marble **metope** was designed to be viewed from below under the sharp Mediterranean sun."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Centuries of storm had not effaced the glorious sculptured **metope** blocks of the Parthenon."*

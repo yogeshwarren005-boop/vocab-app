@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A projector for images of opaque objects (such as photographs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A projector for images of opaque objects (such as photographs).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical projector that uses reflected light rather than transmitted light to project magnified images of opaque flat objects (such as drawings or printed book pages) onto a screen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical technology, an instrument using high-intensity lamps and concave mirrors to illuminate an opaque surface from above, reflecting the image through an objective lens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcope designates a projector for images of opaque objects (such as photographs)."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The classroom **episcope** rendered fragile historical manuscripts instantly visible to every spectator in the hall."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"By casting opaque diagrams upon the wall with an **episcope**, the physical contours of spacetime became tangible."*
+> - 📜 **Bertrand Russell (*Education and the Good Life*):** *"Visual demonstrations via the **episcope** awaken an inquisitive interest in children far more effectively than dry text."*

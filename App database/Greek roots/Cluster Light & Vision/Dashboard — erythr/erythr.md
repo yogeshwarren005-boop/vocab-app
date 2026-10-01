@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: red.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: erythrocyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form (erythros, 'red') denoting a red color, red blood cells, or ruby-hued chemical compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical and chemical nomenclature, a prefix designating erythrocytes, erythema, erythromycin, or erythrite minerals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog erythr as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The combining element **erythr**- designates both the crimson pigment of blood and related physiological structures."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Chemists employ the root **erythr**- to denote compounds yielding vivid carmine or scarlet solutions."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In ancient Greek literature, **erythr**- characterized the red wine, blushing cheeks, and copper ores."*

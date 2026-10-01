@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phosphorescent substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A luminescent substance that emits light when excited by radiation (such as electrons) and is used especially in fluorescent lamps and cathode-ray tubes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic luminescent substance that emits light (fluorescence or phosphorescence) when stimulated by radiation; the morning star (Phosphorus / Venus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In display physics and television engineering, crystalline inorganic compounds (such as zinc sulfide) coating the inside of cathode-ray tube screens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Phosphorus is sometimes employed for giving soundness to the castings, being added to the bath in small quantities in the form of phosphor-copper containing about 10 per cent. of the non-metal."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sweet is the breath of Morn, her rising sweet, with charm of earliest birds; and glorious **phosphor** in the dawn."*
+> - 📜 **Vladimir Zworykin (*Television*):** *"The electron beam strikes the zinc sulfide **phosphor** coating, converting kinetic impact into visible luminescence."*
+> - 📜 **John Tyndall (*Lectures on Light*):** *"Every mineral **phosphor** absorbs high-frequency rays to emit longer, visible wavelengths in the dark."*

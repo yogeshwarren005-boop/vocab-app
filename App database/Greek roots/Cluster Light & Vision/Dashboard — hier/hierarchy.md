@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of persons in authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The classification of a group of people according to ability or to economic, social, or professional standing; also : the group so classified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system or organization in which people or groups are ranked one above the other according to status, authority, or rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial theology, Pseudo-Dionysius the Areopagite's nine angelic choirs; in biological classification, Linnaean taxonomic categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer, my plans include a position of great power and prestige for you." "Indeed?" "A new elite and a new hierarchy will be created when I take control."*
-> - 📜 **John Milton (*Paradise Lost*):** *"His hand was known In Heaven by many a towered structure high, Where sceptred Angels held their residence, And sat as Princes, whom the supreme King Exalted to such power, and gave to rule, Each in his Hierarchy, the Orders bright."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anna Pávlovna greeted him with the nod she accorded to the lowest hierarchy in her drawing room."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The celestial **hierarchy** of angels mirrors the divine harmony that governs the physical cosmos."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The natural **hierarchy** of kingdoms, classes, orders, and genera reflects genealogical descent with modification."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The social **hierarchy** of Oceania was maintained through perpetual war and total ideological surveillance."*

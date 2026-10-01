@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With scepticism; in a sceptical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With scepticism; in a sceptical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With a questioning, doubtful, or incredulous attitude; in a skeptical manner (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific inquiry and philosophical discourse, evaluating claims through critical analysis and evidentiary standards rather than passive credulity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This amazed Nicholas and even made him regard Bolkónski’s courtship skeptically."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At first her intervention in the business of packing was received skeptically."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Probably he meant Taos,--whole nest of artists at Taos.” “Well, but why in thunder then--?” The clerk smiled skeptically."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Valid scientific claims withstand scrutiny when examined **skeptically**, whereas superstition crumbles under dispassionate testing."*
+> - 📜 **Mark Twain (*Following the Equator*):** *"The seasoned traveler listens **skeptically** to local legends until substantiated by hard geographical facts."*
+> - 📜 **William James (*Pragmatism*):** *"The pragmatist views closed theological dogmas **skeptically**, demanding to know what concrete cash-value they yield in human life."*

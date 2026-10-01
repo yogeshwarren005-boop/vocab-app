@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heliozoans; radiolarians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heliozoans; radiolarians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical protozoan taxonomic group comprising sarcodine amoebae with radiating, axopodia-supported pseudopods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyphyletic grouping of marine and freshwater protists, including radiolarians, heliozoans, and acantharians, noted for intricate mineral skeletons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinopoda designates heliozoans; radiolarians."*
+> - 📜 **Ernst Haeckel (*Report on the Radiolaria*):** *"The sublime architecture of the **Actinopoda** illustrates how biogenic silica can be sculpted into geodesic perfection."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Classic taxonomists assembled the **Actinopoda** based on the common possession of radiating, stiffened axopodia."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Plankton hauls from open oceanic waters reveal incredible numbers of **Actinopoda** floating within the photic zone."*

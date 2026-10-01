@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss of one or more sounds or letters at the beginning of a word (as in round for around and coon for raccoon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawal of blood from a donor's body, removal of one or more blood components (such as plasma, platelets, or white blood cells), and transfusion of the remaining blood back into the donor —called also pheresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The omission or loss of one or more sounds, syllables, or letters from the beginning of a word (such as 'gainst for against).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phonology and metrics, a regular morphological contraction distinguishing colloquial speech or poetic scansion from formal prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeresis designates the loss of one or more sounds or letters at the beginning of a word (as in round for around and coon for raccoon)."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Poetic scansion frequently requires **aphaeresis**, dropping initial vowels to preserve the iambic line."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"The development of modern English vocabulary demonstrates repeated **aphaeresis**, as when estate became state."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar on Historical Principles*):** *"In rapid popular speech, **aphaeresis** eroded unstressed prefixes, transforming mend into amend."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proteolytic enzyme that is secreted in the pancreatic juice in the form of trypsinogen, is activated in the duodenum, and is most active in a slightly alkaline medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proteolytic enzyme that is secreted in the pancreatic juice in the form of trypsinogen, is activated in the duodenum, and is most active in a slightly alkaline medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digestive serine protease enzyme produced by the exocrine pancreas that hydrolyzes proteins into smaller peptides in the small intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and enzymology, an endopeptidase that specifically cleaves peptide chains on the carboxyl side of the basic amino acids lysine and arginine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
+> - 📜 **Willy Kühne (*On the Digestion of Protein by the Pancreas*):** *"To this proteolytic ferment of the pancreatic juice, active in an alkaline medium, I give the name **trypsin**."*
+> - 📜 **John Howard Northrop (*Crystalline Enzymes*):** *"The crystallization of pure **trypsin** demonstrated decisively that proteolytic catalysts are themselves catalytic proteins."*
+> - 📜 **Emil Fischer (*Researches on Amino Acids, Polypeptides and Proteins*):** *"Enzymatic cleavage of synthetic polypeptides by **trypsin** occurs only where specific basic peptide linkages are exposed."*

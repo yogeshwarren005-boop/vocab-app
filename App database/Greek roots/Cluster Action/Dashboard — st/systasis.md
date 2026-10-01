@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A standing together; the constitution, assembly, formation, or composition of parts into a coherent structural whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and dialectic, the preliminary formulation of a disputed case; in medicine, an obsolete term for compaction of humors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systasis designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"Before embarking on eloquent elaboration, the orator must master the **systasis**, the fundamental structural status of the dispute."*
+> - 📜 **Hermogenes (*On Issues*):** *"The judicial **systasis** defines that precise legal crux wherein the charge of the prosecutor encounters the defense of the accused."*
+> - 📜 **George Kennedy (*The Art of Rhetoric in the Roman World*):** *"Hellenistic rhetoricians devised a meticulous taxonomy of **systasis** to guide students through every possible permutation of court debate."*

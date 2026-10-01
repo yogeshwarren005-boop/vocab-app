@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the number of white blood cells in the circulating blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An increase in the number of white blood cells in the circulating blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the number of white blood cells in the circulating blood, especially in response to infection, inflammation, or physical trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, a reactive elevation in leukocyte count above 11,000 cells/uL, characteristically showing a left shift with band neutrophils in acute infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukocytosis designates an increase in the number of white blood cells in the circulating blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A marked polymorphonuclear **leukocytosis** accompanies acute appendicitis, serving as a reliable surgical indicator."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Chemotactic substances released by damaged tissues enter the circulation and provoke rapid **leukocytosis** from the bone marrow."*
+> - 📜 **William Henry Welch (*General Pathology*):** *"The degree of **leukocytosis** reflects both the virulence of the pathogen and the reactive vigor of the host defense."*

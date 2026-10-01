@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intention, object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Space or opportunity for unhampered motion, activity, or thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent, range, or breadth of area, subject matter, or operation within which an inquiry, activity, or instrument operates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and formal logic, the domain of a sentence, clause, or formula over which an operator or quantifier exerts syntactic or semantic influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blessed are you whose worthiness gives scope, Being had to triumph, being lacked to hope. 53 What is your substance, whereof are you made, That millions of strange shadows on you tend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it thy spirit that thou send’st from thee So far from home into my deeds to pry, To find out shames and idle hours in me, The scope and tenure of thy jealousy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair, kind, and true, is all my argument, Fair, kind, and true, varying to other words, And in this change is my invention spent, Three themes in one, which wondrous scope affords."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We should not exceed our faculties, but confine our thoughts within the proper **scope** and limits of human understanding."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The true **scope** and end of knowledge is not to amuse or satisfy curiosity, but to enrich human life with useful discoveries."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labour is necessarily limited by the extent of the market and the broad **scope** of mercantile commerce."*

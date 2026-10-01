@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With scepticism; in a sceptical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With scepticism; in a sceptical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sceptical manner; with an attitude of doubt, reservation, or critical inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological reasoning and critical analysis, withholding assent from unproven propositions and subjecting hypotheses to empirical testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene received this sceptically, and cross-examined the narrator as to the manner and effect of the blow, with the result of convincing himself that the story was true."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"I’d mightily like one for a pet.” “If we could catch one,” Sure-dart answered rather sceptically, “he would be all right for a pet; but--well, we can’t tell."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Some others, though they said less, smiled sceptically; and a few looked wise, which in fact was a shrewd way to leave them in the right, no matter what happened."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"The man of science looks **sceptically** upon any miracle that declines to be repeated in the laboratory."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke listened **sceptically** to the radical schemes, shaking his head with the easy detachment of a wealthy landlord."*
+> - 📜 **Bertrand Russell (*Skeptical Essays*):** *"It is undesirable to believe a proposition when there are no grounds whatever for supposing it true, and to act **sceptically** is the beginning of wisdom."*

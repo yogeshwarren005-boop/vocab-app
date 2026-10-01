@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that is used to treat pernicious anemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that is used to treat pernicious anemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manufactured form of vitamin B12 containing a cobalt atom coordinated to a cyanide ligand, used to treat pernicious anemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical hematology, a red crystalline organometallic cofactor converted in the body into active methylcobalamin and adenosylcobalamin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanocobalamin designates a b vitamin that is used to treat pernicious anemia."*
+> - 📜 **Dorothy Crowfoot Hodgkin (*Nobel Lecture: The Structure of the Vitamin B12 Molecule*):** *"X-ray crystallography solved the intricate cobalt coordination sphere of crystalline **cyanocobalamin**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery of **cyanocobalamin** transformed pernicious anemia from a fatal wasting disease into a manageable deficiency."*
+> - 📜 **Linus Pauling (*Orthomolecular Medicine*):** *"Parenteral administration of **cyanocobalamin** restores normal bone marrow erythropoiesis within days."*

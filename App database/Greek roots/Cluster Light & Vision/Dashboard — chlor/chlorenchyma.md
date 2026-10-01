@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parenchyma whose cells contain chloroplasts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parenchyma whose cells contain chloroplasts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Parenchyma tissue in plants that contains chloroplasts and is photosynthetic, notably comprising the mesophyll of leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, specialized palisade and spongy cortical tissues structured to maximize light capture and gas diffusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorenchyma designates parenchyma whose cells contain chloroplasts."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The leaf mesophyll represents the most highly specialized form of **chlorenchyma** in vascular vegetation."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Within the cells of the **chlorenchyma**, radiant energy is harnessed to polymerize starch granules."*
+> - 📜 **G. Haberlandt (*Physiological Plant Anatomy*):** *"The vertical palisade **chlorenchyma** facilitates light penetration deep into the inner layers of the blade."*

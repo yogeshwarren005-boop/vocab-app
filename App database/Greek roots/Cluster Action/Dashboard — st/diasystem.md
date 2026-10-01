@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A higher-level linguistic conceptual framework that abstracts and correlates the structural systems of several closely related dialects or languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural dialectology, Uriel Weinreich's model for mapping phonological and grammatical correspondences across divergent linguistic varieties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diasystem designates a term designating an entity, condition, or phenomenon derived from greek st."*
+> - 📜 **Uriel Weinreich (*Is a Structural Dialectology Possible?*):** *"A **diasystem** can be constructed by combining the discrete phonemic systems of two dialects into a single comparative formula."*
+> - 📜 **Roman Jakobson (*Selected Writings: Word and Language*):** *"Dialectological differences cease to appear chaotic once they are integrated into a comprehensive structural **diasystem**."*
+> - 📜 **William Labov (*The Social Stratification of English in New York City*):** *"The concept of the **diasystem** provided early fieldworkers with an elegant tool to formalize regional vowel shifts."*

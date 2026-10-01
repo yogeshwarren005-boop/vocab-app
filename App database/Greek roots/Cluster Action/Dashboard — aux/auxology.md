@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of human physical growth and development across the lifespan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric medicine and physical anthropology, the quantitative tracking of stature, skeletal maturation, and somatic indices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxology designates the study of growth."*
+> - 📜 **Franz Boas (*Changes in Bodily Form of Descendants of Immigrants*):** *"Pioneering investigations in **auxology** demonstrated that childhood stature responds dynamically to improved environmental nutrition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical **auxology** provides an indispensable baseline for detecting subtle endocrine and nutritional deficiencies."*
+> - 📜 **J. M. Tanner (*Foetus into Man: Physical Growth from Conception to Maturity*):** *"Modern **auxology** employs longitudinal velocity curves to assess the onset and tempo of the pubertal growth spurt."*

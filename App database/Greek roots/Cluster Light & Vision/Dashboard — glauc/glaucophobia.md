@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glauc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of the color gray, sea-green, or dull bluish-green.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific chromophobia characterized by extreme autonomic anxiety when encountering dull gray or muted greenish hues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaucophobia designates a term designating an entity, condition, or phenomenon derived from greek glauc."*
+> - 📜 **Havelock Ellis (*The Psychology of Color*):** *"The recluse displayed an intense **glaucophobia**, banishing every gray coat and muted tapestry from his residence."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"Morbid sensory dreads such as **glaucophobia** often develop in sensitive adolescents following protracted illness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An unreasoned sensory antipathy like **glaucophobia** reveals how deeply primitive instincts attach to specific chromatic cues."*

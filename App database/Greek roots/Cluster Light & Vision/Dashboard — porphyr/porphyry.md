@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rock consisting of feldspar crystals embedded in a compact dark red or purple groundmass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An igneous rock of porphyritic texture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, dark red or purple igneous rock containing crystals of feldspar or quartz embedded in a fine-grained groundmass; imperial Egyptian red porphyry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history and classical sculpture, a royal stone quarried at Mons Porphyrites in Egypt, reserved exclusively for Roman emperors and Byzantine imperial sarcophagi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We were two hours getting to the summit of this peak, which was half porphyry and half basalt."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The geological formation is sometimes basaltic, at others slate, porphyry, etc."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One of these human deities resided at the village of Anabis, and burnt sacrifices were offered to him on the altars; after which, says Porphyry, he would eat his dinner just as if he were an ordinary mortal."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Byzantine princes were born in the purple chamber and buried in massive sarcophagi of imperial red **porphyry**."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Pillars of polished **porphyry** looted from eastern basilicas adorned the magnificent portal of St. Mark's."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The ancient red **porphyry** of Egypt consists of an aphanitic groundmass studded with white crystals of oligoclase feldspar."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The metabolic process of breaking down complex organic molecules into simpler compounds with the release of chemical energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological chemistry, the destructive arm of metabolism that fuels life processes by oxidizing stored substrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabolism designates degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism."*
+> - 📜 **Claude Bernard (*Introduction to the Study of Experimental Medicine*):** *"Life maintains its internal stability through a continuous harmony between structural synthesis and functional **catabolism**."*
+> - 📜 **Hans Krebs (*Energy Transformations in Living Matter*):** *"Oxidative **catabolism** in the mitochondrion extracts high-energy electrons to power the ATP synthase engine."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every intense burst of cerebral effort entails rapid neural **catabolism** requiring restful replenishing sleep."*

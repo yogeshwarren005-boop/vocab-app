@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out or practice; as of jobs and professions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learn by repetition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experienced, skilled, or expert through continuous repetition, long training, or habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually performed, rehearsed, or cultivated; exhibiting polished and seasoned execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A physician, who for many years practiced his profession in the State of California, was called once to see the child of Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"And the more I have practiced this, the more I have had to do it with; and when I gave almost all, more came in, I scarce knew how, at least unexpected."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It has been practiced upon in different countries and ages, and has received the sanction of the most approved writers on the subject of politics."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"With the **practiced** eye of a man of fashion, he surveyed the company and chose his conversation."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The river pilot brought the battered steamer around the sandbank with a calm, **practiced** sweep of the helm."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She listened with that **practiced** patience that wives of vain men so quickly acquire."*

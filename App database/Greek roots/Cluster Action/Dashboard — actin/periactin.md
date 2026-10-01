@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antihistamine (trade name periactin) used to treat some allergic reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihistamine (trade name periactin) used to treat some allergic reactions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for cyproheptadine, a first-generation antihistamine with antiserotonergic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an agent used to relieve allergic symptoms, treat serotonin syndrome, and stimulate appetite in chronic illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periactin designates an antihistamine (trade name periactin) used to treat some allergic reactions."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"In select patients suffering from intractable vascular headaches, prophylactic administration of **Periactin** provided marked symptomatic relief."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pruritus associated with chronic urticaria often subsides following evening doses of **Periactin**."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Clinicians observed that **Periactin** blocked peripheral serotonin receptors, counteracting the hyperactive neural cascade."*

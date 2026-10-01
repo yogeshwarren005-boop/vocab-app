@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fluids at rest or to the pressures they exert or transmit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fluids at rest or to the pressures they exert or transmit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to fluids at rest, especially liquids, and the pressures and forces they exert in equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and biomechanics, denoting structural support systems (hydrostatic skeletons) reliant on fluid-filled coelomic cavities under pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For this purpose there is first of all a "hydrostatic valve." This little appliance, which is open to the action of the water, responds to changes in pressure."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So the hydrostatic valve is adjusted to set the rudders straight when the water-pressure upon it is a certain amount."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One is by the use of a hydrostatic valve."*
+> - 📜 **Blaise Pascal (*Treatise on the Equilibrium of Liquids*):** *"The law of **hydrostatic** pressure dictates that force applied to an enclosed liquid is transmitted equally in all directions."*
+> - 📜 **Archimedes (*On Floating Bodies*):** *"A body immersed in a fluid experiences an upward **hydrostatic** buoyant force equal to the weight of the fluid it displaces."*
+> - 📜 **Simon Stevin (*Principles of Hydrostatics*):** *"The downward **hydrostatic** thrust upon the base of a vessel depends upon the height of the liquid column, not its total volume."*

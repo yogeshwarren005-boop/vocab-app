@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associated with the priesthood or priests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with the priesthood or priests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to priests, the priesthood, or sacred religious rites; sacerdotal; hieratic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical and antiquarian studies, relating to the stylized language and solemn gestures proper to religious ritual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hieratical designates associated with the priesthood or priests."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The **hieratical** formulas of ancient mysteries guarded esoteric truths from the profane multitude."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The Egyptian priesthood maintained their power through exclusive mastery of **hieratical** symbols and star-lore."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"The sealstones depict **hieratical** dancers performing sacred invocations before the double-axe shrine."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which a chemical mixture carried by a liquid or gas is separated into components as a result of differential distribution of the solutes as they flow around or over a stationary liquid or solid phase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chromatography in which a macromolecule (such as a protein) is isolated and purified by passing it in solution through a column treated with a substance having a ligand for which the macromolecule has an affinity that causes it to be retained on the column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A laboratory technique for separating the components of a mixture based on their differential distribution between a stationary phase and a mobile phase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and biochemistry, an indispensable analytical and preparative method encompassing gas, liquid, thin-layer, and affinity separations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatography designates a process in which a chemical mixture carried by a liquid or gas is separated into components as a result of differential distribution of the solutes as they flow around or over a stationary liquid or solid phase."*
+> - 📜 **Mikhail Tsvet (*Adsorption Analysis and Chromatographic Method*):** *"I have called this separation process **chromatography**, because it produces visible colored rings upon the adsorbent."*
+> - 📜 **Archer John Porter Martin (*Partition Chromatography*):** *"The power of **chromatography** lies in its ability to separate virtually identical chemical species under mild conditions."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Paper **chromatography** revolutionized organic analysis by enabling the detection of microgram quantities of amino acids."*

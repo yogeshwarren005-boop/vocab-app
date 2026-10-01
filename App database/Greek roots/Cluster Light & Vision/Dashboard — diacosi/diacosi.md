@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek diacosi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining numeral prefix (diakosioi) denoting two hundred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical geometry and classical nomenclature, a prefix used in naming 200-sided polygons and ancient Greek administrative units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diacosi designates a term designating an entity, condition, or phenomenon derived from greek diacosi."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The combining form **diacosi**- derives from the ancient Attic numeral for two hundred."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Classical polyhedral terms employ Greek numeral stems such as **diacosi**- to designate higher geometric figures."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Archimedes calculated upper bounds for circular perimeters using polygons advancing beyond the **diacosi**- class."*

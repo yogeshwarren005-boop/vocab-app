@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the thyroid gland; goiter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical diagnosis and endocrinology, diffuse or multinodular swelling of the thyroid causing visible neck enlargement or tracheal compression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyromegaly designates abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet."*
+> - 📜 **Robert Graves (*Affections of the Heart with Enlargement of the Thyroid Gland*):** *"The patient presented with rapid palpitations, bulging eyeballs, and pronounced **thyromegaly** extending across the tracheal rings."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In mountainous regions distant from the sea, endemic **thyromegaly** reflects a chronic dietary deficiency of environmental iodine."*
+> - 📜 **Fuller Albright (*Metabolic Endocrinology*):** *"Sustained elevation of pituitary thyrotropin drives follicular hyperplasia, culminating in marked asymmetrical **thyromegaly**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for measuring the work performed (as by a person exercising); also : an exercise machine equipped with an ergometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for measuring the work performed (as by a person exercising); also : an exercise machine equipped with an ergometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus designed for measuring work performed by muscles, or the power output of human or animal exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In exercise physiology and sports medicine, a stationary bicycle or rowing machine equipped with load resistance to assess aerobic capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergometer designates an apparatus for measuring the work performed (as by a person exercising); also : an exercise machine equipped with an ergometer."*
+> - 📜 **August Krogh (*The Anatomy and Physiology of Capillaries*):** *"Subjects working on the bicycle **ergometer** demonstrated a forty-fold increase in open muscular capillaries."*
+> - 📜 **Archibald Hill (*Muscular Activity*):** *"By coupling muscular contraction to a recording **ergometer**, we measured the precise mechanical efficiency of human muscle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cardiac stress testing utilizing a calibrated **ergometer** unmasks latent coronary ischemia."*

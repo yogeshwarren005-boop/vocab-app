@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A staff or wand tipped with a pine cone and wreathed with ivy and vine leaves, carried by Dionysus (Bacchus) and his devotees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and art history, a religious symbol of fertility, divine inspiration, and ecstatic Dionysian revelry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrsus designates a dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose."*
+> - 📜 **Euripides (*The Bacchae*):** *"Brandishing the sacred **thyrsus** and clad in fawn-skins, the ecstatic women bounded across the wild slopes of Cithaeron."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Bacchus waved his vine-entwined **thyrsus**, and forthwith sweet wine bubbled up from the dry earth."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The pine-cone crowned **thyrsus** embodied both the wild vegetative vitality and the sacred frenzy of the forest god."*

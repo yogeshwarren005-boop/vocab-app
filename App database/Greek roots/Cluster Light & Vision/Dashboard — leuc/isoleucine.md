@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential amino acid found in proteins; isomeric with leucine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential amino acid found in proteins; isomeric with leucine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential branched-chain amino acid (C6H13NO2) having a hydrocarbon side chain, an isomer of leucine necessary for protein synthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, one of the three branched-chain amino acids (BCAAs) with two chiral centers, vital for muscle metabolism and hemoglobin regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoleucine designates an essential amino acid found in proteins; isomeric with leucine."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The steric hindrance of the branched side chain in **isoleucine** influences the stability of the alpha-helix in globular proteins."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The genetic code maps specific nucleotide triplets to **isoleucine**, distinguishing it reliably from its isomer leucine."*
+> - 📜 **Emil Fischer (*Studies on Amino Acids and Polypeptides*):** *"Separating leucine from **isoleucine** was one of the most delicate triumphs of early protein hydrolysis."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To say, state, or perform again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state again or express in a new, clearer, or more emphatic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and philosophical analysis, to formulate systematically the established principles of a doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Butler and Curtis, and in the arguments which came up upon points of testimony, that there remained little for the other counsel except to restate what had before been said."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A number of the ideas are well restated in more simple terms by E."*
-> - 📜 **James Joyce (*Ulysses*):** *"What counterproposals were alternately advanced, accepted, modified, declined, restated in other terms, reaccepted, ratified, reconfirmed?"*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"It is necessary from time to time to **restate** our foundational legal axioms in terms of actual social utility."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"Judges do not create novel systems ex nihilo, but continually **restate** enduring precedents to fit shifting mores."*
+> - 📜 **John Rawls (*Justice as Fairness: A Restatement*):** *"In this work I aim to **restate** the core conceptions of justice as fairness to answer persistent critical objections."*

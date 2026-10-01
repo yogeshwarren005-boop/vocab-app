@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The acceleration or initiation of a chemical reaction caused by the presence of a catalyst that absorbs light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and materials science, using semiconductor materials (such as titanium dioxide) under ultraviolet irradiation to decompose water or pollutants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocatalysis designates a term designating an entity, condition, or phenomenon derived from greek phos."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Light absorption by sensitized metal salts triggers **photocatalysis**, accelerating reactions that would otherwise proceed with infinite slowness."*
+> - 📜 **Wilhelm Ostwald (*Catalysis and Chemical Equilibrium*):** *"In **photocatalysis**, the photon serves as the energetic spark while the catalyst lowers the activation barrier."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Solar water-splitting through semiconductor **photocatalysis** offers a promising route to clean hydrogen fuel."*

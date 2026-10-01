@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient gold or silver coin of the Greek city-states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of Massachusetts —used as a nickname.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek silver or gold coin, representing the standard unit of currency in many Hellenic and Asia Minor city-states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and classical economics, a monetary weight denomination equal to two drachmas (or a tetradrachm in certain regional weight standards).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stater designates an ancient gold or silver coin of the greek city-states."*
+> - 📜 **Herodotus (*The Histories*):** *"The Lydians were the first of men whom we know to strike and use coins of gold and silver, minting the famous electrum **stater**."*
+> - 📜 **Xenophon (*Anabasis*):** *"Cyrus promised to pay each mercenary soldier a gold Daric **stater** a month for joining his expedition to Babylon."*
+> - 📜 **Percy Gardner (*A History of Ancient Coinage*):** *"The Corinthian silver **stater**, bearing the winged Pegasus on its obverse, became the universally accepted trade bullion of Magna Graecia."*

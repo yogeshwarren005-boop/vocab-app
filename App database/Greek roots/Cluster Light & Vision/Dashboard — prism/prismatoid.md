@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron that has all of its vertices in two parallel planes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron that has all of its vertices in two parallel planes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron whose vertices all lie in two parallel planes; a general geometric solid including prisms, prismoids, pyramids, and frustums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid geometry and earthwork computation, a polyhedron whose volume is precisely calculated using the universal prismatoidal formula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prismatoid designates a polyhedron that has all of its vertices in two parallel planes."*
+> - 📜 **Augustus De Morgan (*The Elements of Arithmetic*):** *"The volume of any irregular **prismatoid** can be determined by applying Simpson's prismoidal rule to its cross-sections."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Greek geometers calculated the capacity of the **prismatoid** by resolving it into pyramids and wedges."*
+> - 📜 **William Kingdon Clifford (*Mathematical Papers*):** *"The geometric beauty of the **prismatoid** lies in its continuous transition between two planar vertex sets."*

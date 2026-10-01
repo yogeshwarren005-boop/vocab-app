@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erythr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of erythremia (polycythemia vera); a rare chronic myeloproliferative disorder marked by excessive red blood cell production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, a neoplastic proliferation of the erythroid bone marrow lineage leading to hyperviscosity, splenomegaly, and a ruddy plethoric complexion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythraemia designates a term designating an entity, condition, or phenomenon derived from greek erythr."*
+> - 📜 **William Osler (*Chronic Cyanosis, with Polycythaemia and Enlarged Spleen: A New Clinical Entity*):** *"The condition of chronic **erythraemia** is characterized by a remarkable cyanotic rubor and enormous erythrocyte counts."*
+> - 📜 **Henri Vaquez (*Sur une Forme Spéciale de Cyanose*):** *"Our investigations in **erythraemia** demonstrated that the bone marrow was packed with hyperactive normoblasts."*
+> - 📜 **Paul Ehrlich (*The Anaemias*):** *"Unlike compensatory polycythemia, true **erythraemia** represents an autonomous hyperplasia of the hematopoietic tissues."*

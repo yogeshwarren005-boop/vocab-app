@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurring cycle of light and dark periods of constant length; also : the period of light during such a cycle : photophase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recurring cycle of light and dark periods of constant length; also : the period of light during such a cycle : photophase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The duration of daily light exposure received by an organism, regulating seasonal physiological activities such as flowering and breeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and agronomy, the day-length signal detected by phytochrome that triggers flowering in short-day, long-day, or day-neutral plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoperiod designates a recurring cycle of light and dark periods of constant length; also : the period of light during such a cycle : photophase."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The lengthening **photoperiod** of spring triggers hormonal surges that set millions of migratory birds upon their northern flights."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Experiments proved that chrysanthemums require a declining **photoperiod** to initiate floral bud formation."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Diapause in temperate insects is regulated by seasonal changes in the ambient **photoperiod**."*

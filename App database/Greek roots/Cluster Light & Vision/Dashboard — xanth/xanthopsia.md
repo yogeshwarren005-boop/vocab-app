@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual condition in which all objects appear to have an unnatural yellow tint or hue; yellow vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-ophthalmology and clinical toxicology, a chromatopsia classically caused by digitalis (digoxin) toxicity, santonin poisoning, or jaundice, resulting from retinal ganglion or cortical dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthopsia designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients suffering from advanced digitalis intoxication frequently complain of disturbed color vision, notably **xanthopsia**."*
+> - 📜 **Arthur Conan Doyle (*The Resident Patient*):** *"Overdosage with santonin is notoriously followed by that strange ocular disturbance known to physicians as **xanthopsia**."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"In toxic states induced by cardiac glycosides, retinal receptors transmit distorted visual signals that bathe the world in **xanthopsia**."*

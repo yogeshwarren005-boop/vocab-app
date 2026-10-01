@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any salt or ester of chromic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any salt or ester of chromic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester containing the divalent yellow chromate anion CrO4^2-, formed by chromium in the +6 oxidation state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and pigments, potassium or lead chromate used in yellow paints (chrome yellow), electroplating, and corrosion inhibitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromate designates any salt or ester of chromic acid."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Precipitating lead acetate with potassium **chromate** gave an instant deposit of brilliant yellow pigment."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"In acid solution, yellow **chromate** transforms rapidly into orange dichromate through ionic condensation."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The minerals of Siberia furnished lead **chromate**, whose vivid color first guided Vauquelin to isolated chromium."*

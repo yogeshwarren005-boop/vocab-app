@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language related to ido.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language related to ido.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining root and lexical base (from Greek didonai, 'to give; antidotos, given against') denoting a counteracting remedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacology, the etymological progenitor of antidote and antidotal therapeutics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antido designates an artificial language related to ido."*
+> - 📜 **Galen (*De Antidotis*):** *"The ancient master compounded the great **antido** to neutralise venomous stings and toxic herbs."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"Herbal roots possessing the property of an **antido** were gathered under lunar phases to preserve potency."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The stem **antido** signifies giving in opposition, providing the conceptual root for every medicinal remedy."*

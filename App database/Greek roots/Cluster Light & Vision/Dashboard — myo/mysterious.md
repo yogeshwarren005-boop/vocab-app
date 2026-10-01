@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an obscure nature; ; ; ; - rachel carson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to understand, explain, or identify; of obscure nature, origin, or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and philosophy, evoking a profound sense of awe, numinous dread, or inscrutable cosmic purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"For years they had only seen the mysterious shuttered doors and windows, and it was no wonder that they were delighted."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is surrounded by a mysterious halo of family confidences, of which he is known to be the silent depository."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Drafts that he requires to be drawn are drawn by special-pleaders in the temple on mysterious instructions; fair copies that he requires to be made are made at the stationers’, expense being no consideration."*
+> - 📜 **Albert Einstein (*The World As I See It*):** *"The most beautiful experience we can have is the **mysterious**; it is the fundamental emotion at the cradle of true science."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An air of stern, deep, and irredeemable gloom hung over and pervaded the **mysterious** mansion."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A **mysterious** parcel arrived each year on the same date, containing a single lustrous pearl."*

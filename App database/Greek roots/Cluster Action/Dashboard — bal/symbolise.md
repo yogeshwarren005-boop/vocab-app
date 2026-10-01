@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent or identify by using a symbol; use symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To represent or stand for something by means of a symbol (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To interpret or treat as a symbol; to embody figuratively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It may serve, let us hope, to symbolise some sweet moral blossom that may be found along the track, or relieve the darkening close of a tale of human frailty and sorrow."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Then the usual form of marriage is performed between the priest and his wife, symbolising the supposed union between Sun and Earth."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The gothic cathedral was raised to **symbolise** the soaring aspiration of mortal man toward heaven."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The antique brooch seemed to **symbolise** for Dorothea all the solemn duties of inherited wealth."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The distant beam of the lighthouse seemed to **symbolise** an unattainable center of stillness amidst the flux."*

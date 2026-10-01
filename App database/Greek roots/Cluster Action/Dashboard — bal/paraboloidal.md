@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a paraboloid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a paraboloid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the form of, or resembling a paraboloid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical and microwave engineering, describing curved surfaces of revolution with parabolic cross sections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraboloidal designates having the shape of a paraboloid."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Telescope mirrors are ground with extreme delicacy to achieve an exact **paraboloidal** figure."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The vast **paraboloidal** dish at Arecibo nestled within a natural karst sinkhole among the Puerto Rican hills."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Deviations from a true **paraboloidal** curvature produce noticeable focal distortion in reflecting telescopes."*

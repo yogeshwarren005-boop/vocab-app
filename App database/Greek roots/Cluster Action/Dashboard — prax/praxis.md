@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action, practice: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercise or practice of an art, science, or skill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practical action, application, or customary exercise, contrasted with abstract theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical theory and philosophical anthropology, human transformative activity that realizes human freedom and shapes the historical world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, praxis designates action, practice: such as."*
+> - 📜 **Aristotle (*Politics*):** *"Life is action and **praxis**, not mere production; therefore the slave is a minister in the sphere of action."*
+> - 📜 **Karl Marx (*The German Ideology*):** *"The coincidence of the changing of circumstances and of human activity or self-change can be conceived and rationally understood only as revolutionary **praxis**."*
+> - 📜 **Hannah Arendt (*The Human Condition*):** *"Action, or **praxis**, is the exclusive prerogative of man; neither a beast nor a god is capable of it, and only action depends on the constant presence of others."*

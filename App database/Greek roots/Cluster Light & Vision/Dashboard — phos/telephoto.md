@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being a camera lens system designed to give a large image of a distant object; also : relating to or being photography in which a telephoto lens is used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephoto lens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A telephoto lens or camera system designed to magnify distant objects; or taken with such a lens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photographic optical engineering, a lens system whose physical length is shorter than its effective focal length, achieved via a rear diverging element.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephoto designates being a camera lens system designed to give a large image of a distant object; also : relating to or being photography in which a telephoto lens is used."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger fitted his long **telephoto** lens to photograph the pterodactyls nesting upon the distant basalt cliffs."*
+> - 📜 **John Muir (*The Yosemite*):** *"Through the **telephoto** glass, the leaping water of Upper Yosemite Fall resolved into countless glittering spray plumes."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Scout airplanes carried powerful **telephoto** cameras to survey troop concentrations along the frontier."*

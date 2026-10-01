@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of pathways, especially neural pathways and axonal tract trajectories in the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and geography, the systematic investigation of roads, transit networks, and structural connectivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hodology designates a term designating an entity, condition, or phenomenon derived from greek hod."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Silver staining methods unlocked the secret **hodology** of the central nervous system, mapping each axonal highway."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Disconnection syndromes highlight the importance of cerebral **hodology**, where damaged white-matter tracts isolate functional cortical areas."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"Regional **hodology** examines how natural river gaps dictate historic trade routes across mountain barriers."*

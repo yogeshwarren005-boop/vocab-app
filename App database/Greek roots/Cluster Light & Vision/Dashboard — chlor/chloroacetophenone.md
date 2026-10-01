@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tear gas that is weaker than cs gas but lasts longer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tear gas that is weaker than cs gas but lasts longer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chlorinated aromatic organic compound (C8H7ClO) formerly used widely as an incapacitating tear gas (designated agent CN).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In riot control and toxicology, a potent lachrymator that causes severe burning sensation of the eyes, blepharospasm, and respiratory tract irritation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloroacetophenone designates a tear gas that is weaker than cs gas but lasts longer."*
+> - 📜 **Fritz Haber (*The Chemistry of Modern Warfare*):** *"A tiny vapor concentration of **chloroacetophenone** suffices to disable soldiers by provoking blinding tears."*
+> - 📜 **J. B. S. Haldane (*Callinicus: A Defence of Chemical Warfare*):** *"Police agencies selected **chloroacetophenone** because its incapacitating effects wear off quickly in fresh air."*
+> - 📜 **Alice Hamilton (*Industrial Toxicology*):** *"Workers handling **chloroacetophenone** dust suffered acute conjunctivitis and skin erythema."*

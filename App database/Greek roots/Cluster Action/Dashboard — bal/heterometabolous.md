@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing incomplete or gradual metamorphosis without a pupal stage; hemimetabolous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, describing insects whose nymphal instars live in similar ecological niches as the mature imago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterometabolous designates (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"The **heterometabolous** habit allows true bugs to retain piercing-sucking mouthparts through every developmental instar."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Unlike holometabolous beetles, **heterometabolous** cicadas develop external wing pads over subterranean years."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Praying mantids are strictly **heterometabolous**, hunting small prey from the day they emerge from the ootheca."*

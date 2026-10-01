@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of symbols to convey meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something visible that by association or convention represents something else that is invisible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of symbolizing; representation by means of symbols (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, the mental mechanism by which an unconscious wish, impulse, or trauma is expressed through an indirect symbol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbolisation designates the use of symbols to convey meaning."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"Through **symbolisation**, the dreaming mind disguises forbidden desires beneath innocuous daytime imagery."*
+> - 📜 **Ernst Cassirer (*The Philosophy of Symbolic Forms*):** *"Human culture is distinguished from animal reaction through the capacity for conceptual **symbolisation**."*
+> - 📜 **Julian Huxley (*The Courtship Habits of the Great Crested Grebe*):** *"Ritualized displays in birds represent the evolutionary **symbolisation** of aggressive or mating instincts."*

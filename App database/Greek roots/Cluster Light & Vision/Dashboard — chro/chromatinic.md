@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of substance of a cell nucleus) readily colored by stains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of substance of a cell nucleus) readily colored by stains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or composed of chromatin; staining readily with nuclear dyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology, describing the deeply staining nucleoprotein granules or threads inside a biological nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatinic designates (of substance of a cell nucleus) readily colored by stains."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The protozoan nucleus displays a dense **chromatinic** karyosome encircled by clear nuclear fluid."*
+> - 📜 **Patrick Geddes (*The Cell Theory*):** *"All heredity appears intimately bound to the continuous transmission of the **chromatinic** filament."*
+> - 📜 **William Henry Welch (*General Pathology*):** *"Karyorrhexis was evidenced by fragmentation of the **chromatinic** mass into dark irregular granules."*

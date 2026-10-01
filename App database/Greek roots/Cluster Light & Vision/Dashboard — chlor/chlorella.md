@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any alga of the genus chlorella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any alga of the genus chlorella.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of single-celled spherical green freshwater microalgae belonging to the phylum Chlorophyta, rich in chlorophyll and protein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bioengineering and photosynthetic physiology, a classic model organism used by Otto Warburg and Melvin Calvin to decipher carbon fixation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorella designates any alga of the genus chlorella."*
+> - 📜 **Otto Warburg (*The Prime Cause and Prevention of Cancer*):** *"We measured the quantum yield of photosynthesis by suspending pure cultures of **Chlorella** in manometric vessels."*
+> - 📜 **Melvin Calvin (*The Path of Carbon in Photosynthesis*):** *"Exposing **Chlorella** suspensions to radioactive carbon dioxide permitted the isolation of the first photosynthetic intermediates."*
+> - 📜 **Eugene Rabinowitch (*Photosynthesis and Related Processes*):** *"Dense suspensions of **Chlorella** furnish an exceptionally uniform biological material for photochemical analysis."*

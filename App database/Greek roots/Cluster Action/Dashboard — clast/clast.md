@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fragment of rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fragment of rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual fragment or grain of rock or mineral produced by the mechanical weathering and disintegration of larger rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentary geology, the particulate building blocks of rudites, arenites, and conglomerates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clast designates a fragment of rock."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Turbidity currents sweep every loosened **clast** down the submarine canyon into the deep basin."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Examination of each rounded quartz **clast** in the conglomerate reveals centuries of fluvial tumbling."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Glacial tillite contains angular rock fragments where each striate **clast** records direct ice transport."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of an anecdote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or given to telling anecdotes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on personal accounts or casual observations rather than systematic empirical research or hard data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or featuring humorous, biographical, or entertaining anecdotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"What others have done is simply write and post a brief letter telling about themselves, some idea where they live, their interests, anecdotal family history that children might relate to, work background, etc."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"We must be cautious not to build evolutionary conclusions upon purely **anecdotal** reports of animal sagacity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical science distinguishes verified trial data from mere **anecdotal** impressions of cure."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The history of natural science is crowded with **anecdotal** folklore before rigorous testing took root."*

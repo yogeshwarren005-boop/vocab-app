@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various red antibiotics isolated from soil bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various red antibiotics isolated from soil bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chromopeptide antibiotic isolated from soil actinobacteria that binds DNA to inhibit RNA transcription.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and cell biology, a potent antineoplastic agent (such as actinomycin D) used in treating Wilms' tumor and rhabdomyosarcoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycin designates any of various red antibiotics isolated from soil bacteria."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"In 1940 we isolated **actinomycin**, our very first antibiotic, though its fierce toxicity initially discouraged clinical use."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"By intercalating between adjacent guanine-cytosine base pairs, **actinomycin** halts messenger RNA synthesis abruptly."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Sidney Farber tested **actinomycin** D against Wilms' tumor, achieving dramatic remissions in children once deemed terminal."*

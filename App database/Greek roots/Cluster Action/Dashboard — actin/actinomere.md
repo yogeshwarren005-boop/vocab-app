@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the radial segments making up the body of one of the Coelenterata or similar organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the radial segments making up the body of one of the Coelenterata or similar organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the radial segments or antimeres composing the body of a radiately symmetrical animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, a single repeating wedge-shaped unit containing corresponding internal viscera in coelenterates or echinoderms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomere designates one of the radial segments making up the body of one of the coelenterata or similar organism."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each repeating **actinomere** of the medusa carries an identical portion of the gastrovascular canal system."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"Radial differentiation organizes multiple homonomous units into a unified organism, each constituent piece being an **actinomere**."*
+> - 📜 **Ray Lankester (*Zoological Articles*):** *"Amputation of an individual **actinomere** in starfish triggers localized wound closure followed by coordinated regeneration."*

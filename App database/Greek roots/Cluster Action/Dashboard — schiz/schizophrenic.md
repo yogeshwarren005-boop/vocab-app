@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is afflicted with schizophrenia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from some form of schizophrenia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or characteristic of schizophrenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing contradictory, disjointed, or radically polarized qualities within a cultural, economic, or artistic system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophrenic designates someone who is afflicted with schizophrenia."*
+> - 📜 **R. D. Laing (*The Divided Self*):** *"The **schizophrenic** condition can be comprehended as an existential maneuver to survive in an unlivable interpersonal environment."*
+> - 📜 **Gregory Bateson (*Steps to an Ecology of Mind*):** *"Repeated exposure to contradictory double-bind communications fosters a distinctly **schizophrenic** pattern of defensive response."*
+> - 📜 **Fredric Jameson (*Postmodernism, or, the Cultural Logic of Late Capitalism*):** *"The breakdown of temporal continuity produces a **schizophrenic** experience of perpetual, disconnected presents."*

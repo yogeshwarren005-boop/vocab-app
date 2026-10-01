@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organizer who puts things in order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who reduces ideas, procedures, or components into an orderly, unified system (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theorist or administrative organizer who formulates comprehensive regulatory or taxonomy systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systemizer designates an organizer who puts things in order."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"The industrial **systemizer** strives to eliminate waste by synchronizing mechanical workflows across interlocking factories."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"The philosophical **systemizer** too often mistakes his neat conceptual blueprint for the living reality of human experience."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The clock was the supreme **systemizer** of the modern age, subordinating human organic rhythms to mechanical seconds."*

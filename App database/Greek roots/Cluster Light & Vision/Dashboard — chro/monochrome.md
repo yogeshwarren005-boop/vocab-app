@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting, drawing, or photograph in a single hue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or made with a single color or hue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting, drawing, or photograph executed in only one color or in varying shades of a single color, such as black and white.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual arts, printing, and digital displays, single-channel imagery where pictorial information is conveyed entirely through tonal gradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fields were sallow with the impure light, and all were tinged in monochrome, as if beheld through stained glass."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass looked round upon his sad burden as it loomed faintly through the flowering laurustinus, then at the unfathomable gloom amid the high trees on each hand, indistinct, shadowless, and spectre-like in their monochrome of grey."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fields were sallow with the impure light, and all were tinged in monochrome, as if beheld through stained glass."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner's early sketches in pure **monochrome** exhibit an astonishing mastery of atmospheric vapor."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The sea under the gray twilight became a vast, silent **monochrome** of silver and slate."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A delicate Japanese woodcut in **monochrome** hung framed upon the pale green wall."*

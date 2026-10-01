@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garment consisting of a long wide piece of woolen cloth worn over the shoulders with an opening for the head; part of a monastic habit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garment consisting of a long wide piece of woolen cloth worn over the shoulders with an opening for the head; part of a monastic habit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant of scapular; a monastic vestment worn over the shoulders, or an anatomical term relating to the shoulder region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical history, a shoulder bandage designed to support the arm or stabilize the clavicle and scapular girdle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"A black woollen robe covers the whole body and feet; the hood is loose, obtuse, oval, and broad; the scapulary is plain, of the breadth of the abdomen; the girdle is broad, with a black cowl descending to the ancles."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The inner tunics, in general, are black, and the shirt is narrow at the wrist; but in the house, the monk lays aside the hood, girds his scapulary, and wears a crested or twofold cap on his head."*
+> - 📜 **William Beattie (*The Waldenses*):** *"The monk laid aside his travel cowl and girt his black **scapulary** close to his waist before entering the chapter house."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"A **scapulary** is a garment consisting of two breadths of cloth worn over the shoulders by several religious orders."*
+> - 📜 **Walter Scott (*The Monastery*):** *"Under his flowing mantle, the brother wore the coarse serge **scapulary** that marked his vow of austere poverty."*

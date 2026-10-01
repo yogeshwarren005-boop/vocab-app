@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread throughout the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread throughout the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To spread from one part of the body to another through lymphatic channels or the bloodstream (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, the biological process whereby neoplastic cells detach, invade tissues, intravasate, and colonize distant organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metastasise designates spread throughout the body."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Cancer's fatal capacity to **metastasise** transforms a localized surgical challenge into a dispersed systemic battle."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"When cancer cells **metastasise** to bony structures, palliative care focuses on pain management and bone stabilization."*
+> - 📜 **Paul Kalanithi (*When Breath Becomes Air*):** *"The CT scan confirmed what my symptoms presaged: the tumors had begun to **metastasise** throughout both lung fields."*

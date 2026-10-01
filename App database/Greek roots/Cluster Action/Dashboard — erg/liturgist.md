@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority on liturgies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority on liturgies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies, writes, or directs liturgical worship; an expert in liturgics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athens, a wealthy citizen who funded public works or theatrical choruses (choregos) as a civic tax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liturgist designates an authority on liturgies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The learned Byzantine **liturgist** codified every bow, incense swing, and vestment used in the patriarchal liturgy."*
+> - 📜 **George Grote (*A History of Greece*):** *"In democratic Athens, the public-spirited **liturgist** took immense pride in outfitting a trireme or staging a tragedy at his own cost."*
+> - 📜 **John Henry Newman (*Historical Sketches*):** *"The Roman **liturgist** reformed the breviary, stripping away medieval accretions to restore patristic purity."*

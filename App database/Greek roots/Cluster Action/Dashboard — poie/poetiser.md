@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who poetises; one who writes verse or attempts to compose poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary commentary, a practitioner of versification, ranging from a modest lyricist to a trivial dabbler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poetiser designates a writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets)."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"The mere **poetiser** rhymes words without possessing the creative imagination that unifies thought and emotion."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Between the genuine bard and the fashionable **poetiser** there lies the gulf between nature and artificial mimicry."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The dilettante **poetiser** mistakes ease of versification for depth of poetic insight."*

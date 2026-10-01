@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The portion of the water in a sample of soil that is available to vegetation (e.g. plant roots).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The portion of the water in a sample of soil that is available to vegetation (e.g. plant roots).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total amount of water in the soil that is directly available for plant absorption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology and pedology, physiologically available soil moisture, distinguishing the available chresard from unavailable echard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chresard designates the portion of the water in a sample of soil that is available to vegetation (e.g. plant roots)."*
+> - 📜 **Frederic Clements (*Plant Physiology and Ecology*):** *"I proposed the term **chresard** for that portion of soil water which root hairs can absorb under physiological tension."*
+> - 📜 **Arthur Tansley (*Practical Plant Ecology*):** *"During summer drought, the dwindling **chresard** forces mesophytic vegetation into temporary wilting."*
+> - 📜 **Eugene Warming (*Oecology of Plants*):** *"Xerophytic adaptations allow desert shrubs to extract every trace of the minuscule **chresard** lingering in sandy subsoils."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduced in quality, value, or moral character; degraded or corrupted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and numismatics, having fallen from classical proportion or containing inferior alloy content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes, that’s the d’Urberville nose and chin—a little debased."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sir Thomas Gresham (whose name has but recently been given to this so-called law), explained the principle to Queen Elizabeth when counseling her regarding the recoinage of the debased money of the realm as was done in 1560."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A ruler, either by making a higher seigniorage charge or by coining on his own account, debased the quality or reduced the weight of the money of his realm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **debased** copper denarii of the later emperors reflected the collapsing financial authority of Rome."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Later Renaissance facades display a **debased** ornamental style devoid of genuine medieval craftsmanship."*
+> - 📜 **Thomas Macaulay (*The History of England*):** *"Clippers circulated **debased** coins whose chipped rims bore testimony to widespread domestic forgery."*

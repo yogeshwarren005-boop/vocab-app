@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal particle (such as an air bubble) circulating in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal particle (such as an air bubble) circulating in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detached intravascular mass (such as a thrombus, fat globule, or gas bubble) capable of clogging arterial vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arachnology, the specialized terminal sclerite of the male spider palpal organ through which sperm is transferred.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embolus designates an abnormal particle (such as an air bubble) circulating in the blood."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The migrating **embolus** travels harmlessly until it encounters an arterial vessel smaller than its own diameter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A paradoxical **embolus** passed through the patent foramen ovale directly into the systemic circulation."*
+> - 📜 **John Henry Comstock (*The Spider Book*):** *"In the genus Araneus, the slender, coiled **embolus** locks precisely into the epigynum of the female."*

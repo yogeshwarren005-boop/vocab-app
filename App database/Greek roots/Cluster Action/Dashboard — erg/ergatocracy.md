@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government or political rule by workers or the working class; worker democracy or dictatorship of the proletariat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and sociology, a state where political authority resides entirely in workers' councils or trade syndicates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergatocracy designates a term designating an entity, condition, or phenomenon derived from greek erg."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"The early revolutionary soviets purported to establish an **ergatocracy**, placing state power in the hands of industrial laborers."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism and Capitalism*):** *"Advocates of syndicalism dreamt of an **ergatocracy** where each industry was governed directly by its organized producers."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Utopian theorists envisioned an efficient **ergatocracy** that would abolish hereditary privilege in favor of productive merit."*

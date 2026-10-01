@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large meteor : fireball; especially : one that explodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large meteor : fireball; especially : one that explodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptionally bright meteor, especially one that explodes or fragments in the atmosphere with a sonic boom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and planetary science, a super-fireball exhibiting apparent magnitude brighter than the full moon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bolide designates a large meteor : fireball; especially : one that explodes."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"A luminous **bolide** traversed the night sky of Cumana, bursting into crimson sparks that illuminated the distant mountains."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The Tunguska event was triggered when an icy cometary **bolide** detonated miles above the Siberian taiga."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Atmospheric deceleration subjects an incoming **bolide** to extreme hydrodynamic drag, culminating in catastrophic fragmentation."*

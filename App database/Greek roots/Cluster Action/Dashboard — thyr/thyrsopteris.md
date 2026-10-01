@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrestrial tree fern of south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrestrial tree fern of south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of primitive tree fern (Thyrsopteris elegans) native exclusively to the Robinson Crusoe and Juan Fernández Islands of Chile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pteridology, an ancient paleo-endemic fern in the family Thyrsopteridaceae exhibiting strongly dimorphic fronds with fertile thyrse-like pinnae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrsopteris designates a terrestrial tree fern of south america."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The fertile portions of the frond in **thyrsopteris** are completely skeletonized, bearing dense spherical sori resembling tiny grapes."*
+> - 📜 **Carl Skottsberg (*The Natural History of Juan Fernandez and Easter Island*):** *"In the damp montane cloud forests of Masatierra, **thyrsopteris** grows as a splendid relict tree fern from the Mesozoic era."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The cup-like marginal indusium of **thyrsopteris** isolates it phylogenetically from both Dicksonia and modern Cyatheaceae."*

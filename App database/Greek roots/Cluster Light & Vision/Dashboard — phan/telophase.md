@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The final stage of mitosis and of the second division of meiosis in which the spindle disappears and the nucleus reforms around each set of chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final stage in the first division of meiosis that may be missing in some organisms and is characterized by the gathering at opposite poles of the cell of half of the original number of chromosomes including one from each homologous pair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The final stage of cell division (mitosis or meiosis), in which daughter chromosomes reach the spindle poles and new nuclear envelopes assemble around them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology, the terminal mitotic phase concurrent with cytokinesis, where chromosomes decondense back into diffuse euchromatin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telophase designates the final stage of mitosis and of the second division of meiosis in which the spindle disappears and the nucleus reforms around each set of chromosomes."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"During **telophase**, the nuclear membranes reconstruct around the daughter chromosomal clusters as cytokinesis cleaves the cell."*
+> - 📜 **Walther Flemming (*Cell Substance and Nuclear Division*):** *"At **telophase**, the tightly packed chromosomes begin to loosen and resume the granular appearance of the resting nucleus."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The completion of **telophase** marks the successful segregation of identical genetic complements into two daughter cells."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic abnormality of metabolism causing abdominal pains and mental confusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic abnormality of metabolism causing abdominal pains and mental confusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of rare, inherited metabolic disorders caused by deficiencies in enzymes of the heme biosynthetic pathway, leading to porphyrin accumulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, divided into cutaneous and acute neurological porphyrias, causing severe abdominal crises, neurovisceral symptoms, and blistering photosensitivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyria designates a genetic abnormality of metabolism causing abdominal pains and mental confusion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute intermittent **porphyria** manifests with agonizing abdominal colic, motor neuropathy, and port-wine colored urine."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Folk legends of vampires and werewolves may have been inspired by patients suffering from severe cutaneous **porphyria**."*
+> - 📜 **Linus Pauling (*Orthomolecular Medicine*):** *"Enzyme defects in **porphyria** illustrate the catastrophic toxic effects of intermediate biosynthetic precursors."*

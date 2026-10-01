@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African green snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African green snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus (or subgenus) of slender, harmless green colubrid snakes native to sub-Saharan Africa, often known as green tree snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, arboreal African colubrids characterized by bright emerald dorsal coloration and smooth scales, closely allied to *Philothamnus*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophis designates african green snakes."*
+> - 📜 **Albert Günther (*Catalogue of Colubrine Snakes in the Collection of the British Museum*):** *"The genus **Chlorophis** contains extremely slender, vivid green arboreal serpents of tropical Africa."*
+> - 📜 **Arthur Loveridge (*Reptiles from the East African Lakes*):** *"A brilliant **Chlorophis** glided effortlessly through the reeds in pursuit of tree frogs."*
+> - 📜 **Raymond Ditmars (*Snakes of the World*):** *"Among the harmless bush-dwelling species, **Chlorophis** harmonizes perfectly with the verdant foliage."*

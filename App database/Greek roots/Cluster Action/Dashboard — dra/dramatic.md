@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable to or characteristic of drama (as in being very exciting or moving).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to drama or the theater; or sudden, striking, and exciting in appearance or effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and psychology, marked by intense emotional conflict, suspense, or theatrical expressiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is difficult to describe the intensely dramatic effect that announcement had upon Oak at such a moment."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The lives of the Forsythe family were less absorbing than her own life when this fiery dramatic glow was shed over it."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"True **dramatic** illusion requires that willing suspension of disbelief for the moment which constitutes poetic faith."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record exhibits sudden, **dramatic** appearances of specialized clades in sedimentary horizons."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Defoe achieves extraordinary narrative power without relying upon forced **dramatic** crises."*

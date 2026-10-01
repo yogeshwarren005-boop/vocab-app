@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characteristic of phosphorus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characteristic of phosphorus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or derived from phosphorus, especially in its +5 oxidation state; phosphorescent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical industry, relating to phosphoric acid (H3PO4), widely used in rust-proofing metals, soft drinks, and manufacturing agricultural fertilizers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pool glittered like a dead man’s eye, and as the world awoke a breeze blew, shaking and elongating the reflection of the moon without breaking it, and turning the image of the star to a phosphoric streak upon the water."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was not a mere phosphoric phenomenon."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is only an agglomeration of phosphoric particles,” cried one of the officers."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Treating calcined bones with sulfuric acid yields soluble **phosphoric** acid, an incomparable fertilizer for roots."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white wake of the ship glowed with a pale, **phosphoric** gleam across the midnight sea."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Oxidizing red phosphorus with nitric acid forms dense syrupy **phosphoric** acid."*

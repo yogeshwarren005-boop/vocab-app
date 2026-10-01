@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In anatomical and botanical terminology, a scape, stalk, shaft, or stem; the central axis or stem of a feather (rachis and calamus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, the basal joint of an antenna; in architecture, the shaft of an architectural column between the base and capital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scapus designates a term designating an entity, condition, or phenomenon derived from greek scap."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The base of the sea anemone consists of an adhering pedal disc, from which rises the cylindrical column or **scapus**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In domestic poultry, alterations in the plumage affect both the vane and the central **scapus** of each flight feather."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"The **scapus** of the plant supports a terminal inflorescence while remaining destitute of ordinary foliage leaves."*

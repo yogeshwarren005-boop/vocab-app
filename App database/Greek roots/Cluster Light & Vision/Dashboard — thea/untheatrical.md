@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suited to or characteristic of the stage or theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suited to or characteristic of the stage or theater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not theatrical; natural, understated, simple, and devoid of exaggerated stage mannerisms or histrionic artifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical criticism and literary realism, dramatic performance or prose that deliberately avoids melodrama and artificial conventions in favor of psychological truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untheatrical designates not suited to or characteristic of the stage or theater."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The Salvation Army officer spoke with an earnest, **untheatrical** sincerity that moved the audience far more than any pulpit rhetoric."*
+> - 📜 **Anton Chekhov (*Letters on Literature*):** *"On the stage, life should be depicted as it is, simple and **untheatrical**, where people eat, drink, talk of the weather, and yet their fates are decided."*
+> - 📜 **Henry James (*The Scenic Art*):** *"Her acting gained extraordinary power from its quiet, **untheatrical** restraint, avoiding all the noisy claptrap of the melodramatic stage."*

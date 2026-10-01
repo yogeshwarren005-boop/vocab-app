@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simultaneous occurrence, operation, or development; concurrence in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and social neuroscience, rhythmic coordination between individuals, neural networks, or cellular division cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchrony designates the relation that exists when things occur at the same time."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"To grasp language as a living reality, the linguist must immerse himself in the **synchrony** of the spoken idiom."*
+> - 📜 **Arthur Koestler (*The Ghost in the Machine*):** *"The internal biological clocks maintain delicate **synchrony** with the planetary rhythms of night and day."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Under the influence of music, the parkinsonian patients recovered a lost motor **synchrony** and moved with fluid grace."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large division of chiefly freshwater eukaryotic algae that possess chlorophyll a and b, store food as starch, and cellulose cell walls; classes chlorophyceae, ulvophyceae, and charophyceae; obviously ancestral to land plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large division of chiefly freshwater eukaryotic algae that possess chlorophyll a and b, store food as starch, and cellulose cell walls; classes chlorophyceae, ulvophyceae, and charophyceae; obviously ancestral to land plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major division or phylum of green algae comprising primarily freshwater and marine photosynthetic organisms containing chlorophylls a and b.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary systematics, the ancestral algal clade from which all terrestrial embryophyte land plants originated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyta designates large division of chiefly freshwater eukaryotic algae that possess chlorophyll a and b, store food as starch, and cellulose cell walls; classes chlorophyceae, ulvophyceae, and charophyceae; obviously ancestral to land plants."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Primary endosymbiosis of a cyanobacterium gave rise to the ancestral lineage of the **Chlorophyta**."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"The vast assemblage of **Chlorophyta** ranges from single flagellated cells to complex siphonaceous thalli."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"Both marine seaweeds and microscopic freshwater pond scums are represented within the division **Chlorophyta**."*

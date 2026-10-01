@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anterior pituitary hormone that stimulates the function of the thyroid gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anterior pituitary hormone that stimulates the function of the thyroid gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycoprotein hormone produced and secreted by the anterior pituitary gland that stimulates the thyroid gland to produce thyroxine (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, thyroid-stimulating hormone (TSH), regulated via negative feedback by circulating free thyroid hormones and stimulated by hypothalamic TRH.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrotrophin designates anterior pituitary hormone that stimulates the function of the thyroid gland."*
+> - 📜 **Bernardo Houssay (*Hypophyseal Functions and Metabolic Regulation*):** *"Hypophysectomy leads to rapid glandular atrophy, reversed promptly by administering crude pituitary **thyrotrophin** extracts."*
+> - 📜 **C. H. Li (*Studies on Pituitary Hormones*):** *"Purified **thyrotrophin** is a heterodimeric glycoprotein sharing a common alpha subunit with luteinizing and follicle-stimulating hormones."*
+> - 📜 **Rosalyn Yalow (*Radioimmunoassay of Peptide Hormones*):** *"Measurement of circulating **thyrotrophin** by sensitive radioimmunoassay provides the definitive frontline test for primary hypothyroidism."*

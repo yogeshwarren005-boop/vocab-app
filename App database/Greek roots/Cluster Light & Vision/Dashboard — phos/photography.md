@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of producing images by the action of radiant energy and especially light on a sensitive surface (such as film or an optical sensor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which an image is obtained by application of a high-frequency electric field to an object so that it radiates a characteristic pattern of luminescence that is recorded on photographic film.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, application, and practice of creating durable images by recording light, either chemically by means of a light-sensitive material or electronically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, the visual technology born in the 1830s through Niepce, Daguerre, and Talbot, revolutionizing science, journalism, and the arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The several uses of gold are constantly competing for it: its uses for rings, pens, ornaments, championship cups, photography, dentistry, delicate instruments, and as a circulating medium."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Never was such a fellow for photography."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I thought of the assistant’s fondness for photography, and his trick of vanishing into the cellar."*
+> - 📜 **William Henry Fox Talbot (*The Pencil of Nature*):** *"The discovery of **photography** has armed science with an instrument of precision that records facts beyond human bias."*
+> - 📜 **Edgar Allan Poe (*The Daguerreotype*):** *"In truth, the plate of early **photography** is infinitely more accurate in its representations than any painting by human hand."*
+> - 📜 **Walter Benjamin (*A Short History of Photography*):** *"Early **photography** caught the fleeting aura of human faces before commercial studios mechanized the portrait."*

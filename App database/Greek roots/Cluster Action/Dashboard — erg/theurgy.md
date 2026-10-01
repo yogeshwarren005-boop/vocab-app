@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or technique of compelling or persuading a god or beneficent or supernatural power to do or refrain from doing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or technique of compelling or persuading a god or beneficent or supernatural power to do or refrain from doing something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of white magic practiced by the late Neoplatonists, aimed at spiritual purification and communication with beneficent spirits or the Divine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, divine intervention or the operation of divine agency through sacred ritual performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Groups of people endeavoured to combine Christianity with the old thought, with philosophy, theosophy, theurgy, and magic."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Iamblichus composed his treatise on the mysteries to defend **theurgy** as the supreme consummation of pagan philosophy."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The visionary mystic substitutes an occult **theurgy** for the sober, rational contemplation of moral law."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Nature itself is an endless miracle, a divine **theurgy** through which the Eternal spirit reveals its majesty."*

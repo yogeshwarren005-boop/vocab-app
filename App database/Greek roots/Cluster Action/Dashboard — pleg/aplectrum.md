@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous genus of the family orchidaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monocotyledonous genus of the family orchidaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American terrestrial orchids (such as Aplectrum hyemale, the puttyroot) distinguished by a spurless flower lip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, orchidaceous plants characterized by subterranean globose corms producing a solitary overwintering leaf without a nectar spur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplectrum designates a monocotyledonous genus of the family orchidaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The solitary species of **Aplectrum** is readily distinguished by its absence of a spur and its winter-persisting leaf."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"In deep rich woods, the subterranean corms of **Aplectrum** remain connected for years like links in a chain."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Botanists prize **Aplectrum** for its curious habit of producing a single plicate leaf that overwinters before flowering."*

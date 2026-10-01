@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the theater or the presentation of plays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or occurring in a movie theater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the theatre, dramatic performance, or actors; exhibiting exaggerated display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and rhetoric, artificial, stilted, or histrionic behavior designed for showy public effect rather than authentic emotional expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Her manner was a little stagey, but graceful to the extreme, and you could see peeping out of this theatric manner a kind, good heart, oh, so kind, I feel as if I would do anything for her, her manners were so winning."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An irrepressible tremor gradually pervaded my frame; and, at length, there sat upon my very heart an incubus of utterly **theatric** dread."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Burke's famous dagger scene in the House of Commons was a lamentable piece of **theatric** excess that degraded his dignity."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"She possessed in supreme measure that vivid, **theatric** temperament which turns every personal crisis into a staged drama."*

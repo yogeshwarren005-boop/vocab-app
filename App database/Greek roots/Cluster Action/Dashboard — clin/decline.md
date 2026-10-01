@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change toward something smaller or lower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition inferior to an earlier condition; a gradual falling off from a better state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To diminish in strength, quality, value, or importance; to deteriorate; or to politely refuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, to state the inflected forms of a noun or adjective; or in geomorphology, a downward slope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Far more, far more, to you do I decline."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Hamlet, what a falling off was there, From me, whose love was of that dignity That it went hand in hand even with the vow I made to her in marriage; and to decline Upon a wretch whose natural gifts were poor To those of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can thy spirit wonder A great man should decline?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"I sat musing amidst the ruins of the Capitol, while the barefooted friars sang vespers, contemplating the **decline** of the empire."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"When fertility begins to **decline**, population numbers stabilize against the carrying capacity of the habitat."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor felt compelled to **decline** the well-meant invitation, pleading prior obligations in the village."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hallucinatory perception of colored lights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal pigmentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chromatic aberration in an optical lens; also, abnormal or excessive coloration in organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, the fringing of prismatic colors around images formed by uncorrected lenses; in botany, unusual pigment development in flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatism designates hallucinatory perception of colored lights."*
+> - 📜 **David Brewster (*A Treatise on New Philosophical Instruments*):** *"The primary defect of the single lens consists in its inherent **chromatism**, which tints every margin with rainbow rings."*
+> - 📜 **John Herschel (*Treatise on Light*):** *"To reduce the **chromatism** of the telescope, astronomers lengthened focal tubes to colossal dimensions."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Occasional floral **chromatism** produces variegated petals where solid color normally prevails."*

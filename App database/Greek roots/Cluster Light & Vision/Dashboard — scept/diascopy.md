@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical diagnostic test in dermatology in which a transparent glass slide or plastic plate is pressed firmly against a skin lesion to observe changes in vascular coloration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical diagnostics, a procedure used to distinguish erythema (which blanches under pressure) from purpura (which does not blanch), and to reveal underlying granulomatous tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diascopy designates a term designating an entity, condition, or phenomenon derived from greek scept."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Application of **diascopy** to the suspicious facial nodule immediately exposes the translucent brown hue typical of lupus."*
+> - 📜 **Henry Radcliffe Crocker (*Diseases of the Skin*):** *"By means of **diascopy**, we squeeze out capillary blood and inspect the morbid infiltrate undisturbed by hyperemia."*
+> - 📜 **Norman Walker (*An Introduction to Dermatology*):** *"Simple **diascopy** with a microscope slide remains one of the readiest bedside aids in cutaneous diagnosis."*

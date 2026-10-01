@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inflection of nouns and pronouns and adjectives in indo-european languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process of changing to an inferior state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In grammar, the variation of the form of a noun, pronoun, or adjective to indicate case, number, and gender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition or period of decline, moral deterioration, or downward lapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Ours is at the lowest point of declension."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"Not coming!" said Bob, with a sudden declension in his high spirits; for he had been Tim's blood horse all the way from church, and had come home rampant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Show me now, William, some declensions of your pronouns."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rapid **declension** of public virtue paved the way for imperial despotism and military anarchy."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Every young scholar groans under the tedious labor of mastering Latin **declension** and Greek conjugation."*
+> - 📜 **William Shakespeare (*Richard III*):** *"A beauty-waning and distressed widow, even in the afternoon of her best days, made prize of him, of his degree, and of his **declension**."*

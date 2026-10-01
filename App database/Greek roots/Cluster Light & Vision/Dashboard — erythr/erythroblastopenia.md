@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erythr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe deficiency or absence of nucleated red blood cell precursors (erythroblasts) in the bone marrow; pure red cell aplasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, an isolated bone marrow failure state characterized by profound normocytic anemia with normal granulocyte and platelet counts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroblastopenia designates a term designating an entity, condition, or phenomenon derived from greek erythr."*
+> - 📜 **Maxwell Finland (*Hematological Complications in Clinical Medicine*):** *"A bone marrow aspirate demonstrating complete **erythroblastopenia** confirmed the diagnosis of pure red cell aplasia."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Acquired **erythroblastopenia** frequently resolves following surgical thymectomy or immunosuppressive therapy."*
+> - 📜 **Paul Ehrlich (*Studies on Blood Cell Genesis*):** *"When toxic agents selectively target the erythroid progenitor, total **erythroblastopenia** ensues without leukopenia."*

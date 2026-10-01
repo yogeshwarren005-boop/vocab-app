@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tryp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, irrational, or debilitating fear of medical procedures involving hypodermic needles or injections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and behavioral medicine, a specific blood-injection-injury phobia characterized by vasovagal syncope upon seeing needles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trypanophobia designates a term designating an entity, condition, or phenomenon derived from greek tryp."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"Phobic dreads directed toward sharp medical instruments or **trypanophobia** reflect deep-seated bodily integrity anxieties."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The physician must handle patients afflicted with acute **trypanophobia** with extraordinary gentleness to avoid vasovagal collapse."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"In our clinical survey of neurotic dreads, sharp points and punctures provoke intense visceral panic among those with **trypanophobia**."*

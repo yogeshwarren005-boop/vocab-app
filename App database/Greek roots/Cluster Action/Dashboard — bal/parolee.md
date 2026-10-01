@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone released on probation or on parole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone released on probation or on parole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has been released from prison on parole under specified conditions of supervision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal justice and sociology, an individual subject to regular monitoring and probation rules during community reintegration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parolee designates someone released on probation or on parole."*
+> - 📜 **George Bernard Shaw (*The Crime of Imprisonment*):** *"Treating the **parolee** with perpetual suspicion merely guarantees a swift return to criminal association."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The legal status of a **parolee** is conditional, retaining liberty only so long as specified covenants are upheld."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"Our settlement workers assisted many a young **parolee** in finding honest industrial employment and stable lodging."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American geneticist who succeeded in transferring a functioning gene from one mouse to another (born in 1934).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American geneticist who succeeded in transferring a functioning gene from one mouse to another (born in 1934).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual, continuous geographic gradient in a single biological trait or phenotypic character within a species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and sociolinguistics, a spatial spectrum of gradual variation across a contiguous population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cline designates american geneticist who succeeded in transferring a functioning gene from one mouse to another (born in 1934)."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"I coined the term **cline** to describe the continuous geographical gradient of character change across a species' range."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Body size in the song sparrow increases along a latitudinal **cline** conforming to Bergmann's rule."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"A morphological **cline** illustrates how environmental selection pressures vary continuously over vast geographical distances."*

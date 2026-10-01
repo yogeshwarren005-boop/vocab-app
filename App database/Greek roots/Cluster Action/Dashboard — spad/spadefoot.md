@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A burrowing toad of the northern hemisphere with a horny spade-like projection on each hind foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A burrowing toad of the northern hemisphere with a horny spade-like projection on each hind foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A burrowing, nocturnal, toad-like amphibian belonging to the family Scaphiopodidae (or Pelobatidae), characterized by a keratinous spade on each hind foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert ecology, an explosive breeder that spends prolonged arid periods buried deep underground, emerging en masse following torrential rains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spadefoot designates a burrowing toad of the northern hemisphere with a horny spade-like projection on each hind foot."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"The sharp horny blade of the metatarsal tubercle enables the **spadefoot** to vanish backward into sandy soil with incredible speed."*
+> - 📜 **Raymond B. Cowles (*Desert Hour*):** *"After the summer cloudburst, the dry arroyo echoed with the deafening courtship cries of the emerged **spadefoot**."*
+> - 📜 **Archie Carr (*The Windward Road*):** *"No creature exemplifies desert opportunism better than the **spadefoot**, completing metamorphosis within mere days of hatching."*

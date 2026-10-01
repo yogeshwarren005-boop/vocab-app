@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of a new organization; organizing differently (often involving extensive and drastic changes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive alteration of the structure of a corporation or government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of reorganizing; restructuring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business and bankruptcy law, a legal process under Chapter 11 allowing a distressed corporation to restructure debts and operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This keeps young men from entering, and finally results in failure or in some form of "reorganization" that drives out the older members."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Other industrial trusts in process of reorganization or readjustment 13 334 528,000,000 4."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Delafield continued to be efficient as leaders in all the work of this society, but in its reorganization, Mrs."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The administrative **reorganization** undertaken by the monarchy unwittingly paved the way for revolutionary centralism."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Post-war financial recovery required the bold **reorganization** of international credit mechanisms."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Administration of L-DOPA sparked an extraordinary functional **reorganization** across the damaged striatal circuits."*

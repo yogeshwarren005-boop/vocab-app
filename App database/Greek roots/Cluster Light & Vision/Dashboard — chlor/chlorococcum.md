@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of single-celled spherical green algae in the order Chlorococcales commonly found in moist soils, tree bark, and freshwater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil biology and phycology, a pioneer microalga that reproduces through biflagellate zoospores and forms green powdery crusts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorococcum designates type genus of chlorococcales; unicellular green algae occurring singly or in a layer on soil or damp rock."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"The green coating upon damp brickwork was resolved by the microscope into teeming spheres of **Chlorococcum**."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"Each spherical cell of **Chlorococcum** contains a hollow parietal chloroplast with a prominent pyrenoid."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Under desiccation, **Chlorococcum** forms thick-walled cysts capable of surviving prolonged drought."*

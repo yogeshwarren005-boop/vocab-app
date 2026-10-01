@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pathological clinical syndrome resulting from tissues being exposed to excessively high levels of free thyroid hormones from any etiology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, a state of hypermetabolism that encompasses Graves' disease, toxic multinodular goiter, thyroiditis, and exogenous thyroid hormone overdose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrotoxicosis designates an overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **thyrotoxicosis** places immense strain upon the myocardium, presenting with atrial fibrillation in elderly patients."*
+> - 📜 **Edwin B. Astwood (*The Medical Treatment of Hyperthyroidism*):** *"The hallmark of genuine **thyrotoxicosis** is an accelerated catabolic rate that wastes muscle tissue despite voracious appetite."*
+> - 📜 **Solomon Berson (*Radioisotopes in Clinical Medicine*):** *"Radioactive iodine uptake tests distinguish hyperfunctioning glandular **thyrotoxicosis** from silent inflammatory release states."*

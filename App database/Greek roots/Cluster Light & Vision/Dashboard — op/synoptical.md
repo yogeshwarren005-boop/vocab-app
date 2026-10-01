@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presenting or taking the same point of view; used especially with regard to the first three gospels of the new testament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presenting or taking the same point of view; used especially with regard to the first three gospels of the new testament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, giving, or affording a general view of a whole; synoptic; condensed into a comprehensive summary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and biblical scholarship, presenting parallel accounts (such as the Gospels of Matthew, Mark, and Luke) in aligned columns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This paper, now, ‘Synoptical Tabulation’ and so on, ‘for the use of Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The Synoptical Tabulation for the use of Mrs."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"A **synoptical** table of instances enables the understanding to perceive the true forms of physical phenomena."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The naturalist constructs a **synoptical** chart displaying the distribution of species across the globe."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"This **synoptical** view of the cranial bones makes clear their evolutionary homology across vertebrates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek verb meaning 'to look at, behold, inspect, examine, or contemplate', serving as the etymological root for numerous scientific observation terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and lexicography, the Greek etymon (skopein, σκοπεῖν) whence English derives combining forms such as -scope, -scopy, and skeptic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, skopein designates a term designating an entity, condition, or phenomenon derived from greek scop."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The primary signification of **skopein** is to look closely, to examine attentively, or to watch over with careful diligence."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the Greek stem of **skopein**, to view, we form the endless catalog of instruments designed to examine the minute or the remote."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The transition from the physical inspection of **skopein** to the intellectual doubt of skepticism reveals the figurative genius of Greek."*

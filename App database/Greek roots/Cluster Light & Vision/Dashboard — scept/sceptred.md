@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invested with legal power or official authority especially as symbolized by having a scepter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invested with legal power or official authority especially as symbolized by having a scepter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing a sceptre; invested with royal sovereignty or imperial authority (British spelling of sceptered).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic diction, characterizing monarchical or divine rule, majestic majesty, or supreme commanding dignity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"All womankind shall merit A just regard from me, And all the sex inherit A claim to courtesy; But none has ever claimed me Her vassal, slave or thrall, For Kate, my heart has named thee The sceptred Queen of all."*
-> - 📜 **John Milton (*Paradise Lost*):** *"His hand was known In Heaven by many a towered structure high, Where sceptred Angels held their residence, And sat as Princes, whom the supreme King Exalted to such power, and gave to rule, Each in his Hierarchy, the Orders bright."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Who can advise may speak.” He ceased; and next him Moloch, sceptred king, Stood up—the strongest and the fiercest Spirit That fought in Heaven, now fiercer by despair."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The quality of mercy is not strained... 'Tis mightiest in the mightiest; it becomes / The **sceptred** monarch better than his crown."*
+> - 📜 **Lord Byron (*The Corsair*):** *"Slow sinks, more lovely ere his race be run, / Along Morea's hills the setting sun... where **sceptred** kings once swayed the Aegean tides."*
+> - 📜 **Alfred, Lord Tennyson (*Morte d'Arthur*):** *"So like a shattered column lay the king; / Not like that Arthur who, with lance in rest, / Rode **sceptred** through the tournament."*

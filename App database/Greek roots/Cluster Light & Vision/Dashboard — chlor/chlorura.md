@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Towhees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Towhees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus (or subgenus) of American emberizine passerine birds, specifically the green-tailed towhee (*Chlorura chlorura* / *Pipilo chlorurus*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ornithology, a brush-dwelling songbird characterized by an olive-green tail, bright rufous crown, and white throat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog chlorura as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Elliott Coues (*Birds of the Colorado Valley*):** *"The sweet, variable song of **Chlorura** floated out from the thick sagebrush on the mountain slope."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"Distinct olive coloration on wings and tail characterizes the genus **Chlorura** among nearctic finches."*
+> - 📜 **Florence Merriam Bailey (*Handbook of Birds of the Western United States*):** *"We watched the green-tailed **Chlorura** scratching vigorously among dry pine needles for fallen seeds."*

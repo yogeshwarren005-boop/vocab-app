@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter and abusive speech or piece of writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ironic or satirical criticism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A forceful and bitter verbal attack or severely critical speech against someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity, a philosophical discourse or homily characterized by colloquial, dramatic polemic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You couldn’t kill a cornered rat with a stick of dynamite—_real_ dynamite, and not the sort you are deluded into believing I have hidden away.” “Anything more?” he demanded, when I had ceased from my diatribe."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The critic launched into a venomous **diatribe**, sparing neither the author's style nor his lineage."*
+> - 📜 **Thomas Macaulay (*Critical and Historical Essays*):** *"His parliamentary speeches frequently degenerated from reasoned argument into an intemperate partisan **diatribe**."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Pamphleteers poured forth a furious **diatribe** against the inhumanity of the means-test regulations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow-green algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow-green algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of predominantly freshwater algae in the division Heterokontophyta, commonly known as yellow-green algae, possessing photosynthetic pigments that impart a yellowish-green hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and protistology, photosynthetic stramenopiles lacking fucoxanthin but containing chlorophylls a and c, beta-carotene, and the xanthophyll diadinoxanthin, storing food reserves as chrysolaminarin and lipids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthophyceae designates yellow-green algae."*
+> - 📜 **Gilbert Morgan Smith (*The Fresh-Water Algae of the United States*):** *"The class **Xanthophyceae** differs from the green algae in lacking starch and possessing yellow-green discoid chloroplasts."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"Members of **Xanthophyceae**, such as Vaucheria and Botrydium, exhibit diverse vegetative habits ranging from unicellular flagellates to coenocytic siphons."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"In **Xanthophyceae**, the absence of fucoxanthin distinguishes their pale yellow-green plastids from those of the true Chrysophyceae."*

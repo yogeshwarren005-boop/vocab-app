@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic condition characterized by convulsions and possibly coma during or immediately after pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic condition characterized by convulsions and possibly coma during or immediately after pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious, potentially life-threatening complication of pregnancy characterized by generalized tonic-clonic seizures in a woman with preeclampsia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and maternal-fetal medicine, acute cerebral vasoconstriction, edema, and endothelial dysfunction managed urgently with magnesium sulfate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eclampsia designates a toxic condition characterized by convulsions and possibly coma during or immediately after pregnancy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Puerperal **eclampsia** strikes suddenly with violent convulsions, demanding prompt venesection and sedation."*
+> - 📜 **Robley Dunglison (*A Dictionary of Medical Science*):** *"The term **eclampsia** refers to the sudden flashing onset of epileptiform seizures in parturient women."*
+> - 📜 **Florence Nightingale (*Introductory Notes on Lying-In Institutions*):** *"Rigorous sanitary nursing and dietary vigilance significantly reduced fatal attacks of **eclampsia** in the lying-in ward."*

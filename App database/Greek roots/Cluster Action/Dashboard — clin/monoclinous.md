@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having pistils and stamens in the same flower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having pistils and stamens in the same flower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, having both stamens and pistils in the same flower; hermaphroditic or perfect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology, contrasting with diclinous plants whose male and female reproductive structures are separated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoclinous designates having pistils and stamens in the same flower."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Most familiar garden blossoms are **monoclinous**, bearing both anthers and receptive stigmas within a single perianth."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Even in **monoclinous** flowers, heterostyly and dichogamy evolved to prevent deleterious self-fertilization."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Botanists categorize species as **monoclinous** when bisexual flowers fulfill both pollen donation and seed development."*

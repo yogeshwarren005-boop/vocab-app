@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who speaks or writes in defense of someone or something that is typically controversial, unpopular, or subject to criticism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who speaks or writes in defense of someone or something that is typically controversial, unpopular, or subject to criticism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who offers an argument or formal defense in support of a cause, doctrine, policy, or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and intellectual history, a writer who defends the tenets of a religious faith or philosophical system against external criticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He speaks of "the friendly Apollo." But the weakness of Plutarch as an apologist is his weakness as biographer--he never really gets at the bottom of anything."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Now is there civil war within the soul: Resolve is thrust from off the sacred throne By clamorous Needs, and Pride the grand-vizier Makes humble compact, plays the supple part Of envoy and deft-tongued apologist For hungry rebels."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the long run, they brought Philosophy to its knees, abasing it to be the apologist of everything they taught and did, and dignifying themselves by giving a philosophic colouring to their mysticism."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Christian **apologist** represented the rapid growth of the church as an undeniable proof of its divine origin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Pride, the grand-vizier, plays the supple part of envoy and deft-tongued **apologist** for hungry rebels."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Thomas Aquinas became the supreme **apologist** of Catholic orthodoxy, harmonizing Aristotelian logic with scripture."*

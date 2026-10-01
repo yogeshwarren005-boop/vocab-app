@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a realistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a realistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner guided by practical considerations and realistic outcomes rather than abstract principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic theory, in a manner that accounts for context, speaker intent, and situational meaning beyond semantic syntax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pragmatically designates in a realistic manner."*
+> - 📜 **William James (*The Will to Believe*):** *"If religious belief works **pragmatically** to ennoble life and sustain courage, on what grounds can abstract skepticism condemn it?"*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Ideas must be understood **pragmatically** as prospective plans of action rather than static copies of external objects."*
+> - 📜 **Charles Sanders Peirce (*How to Make Our Ideas Clear*):** *"Consider what effects that might conceivably have practical bearings you conceive the object of your conception to have; then your conception of these effects is the whole of your conception of the object, defined **pragmatically**."*

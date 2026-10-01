@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive trivalent metallic element that resembles lanthanum in chemical properties and that is found especially in pitchblende.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive trivalent metallic element that resembles lanthanum in chemical properties and that is found especially in pitchblende.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, intensely radioactive, silvery-white metallic element of atomic number 89 (symbol Ac).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prototype element of the actinide series, occurring in trace quantities within uranium ores as a product of radioactive decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinium designates a radioactive trivalent metallic element that resembles lanthanum in chemical properties and that is found especially in pitchblende."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"André Debierne succeeded in isolating **actinium** from the pitchblende residues left behind after extracting polonium and radium."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"Emissions of alpha particles from **actinium** demonstrate a characteristic disintegration rate distinct from thorium."*
+> - 📜 **Frederick Soddy (*The Chemistry of the Radio-Elements*):** *"Decay products derived from **actinium** established an independent collateral radioactive series culminating in lead."*

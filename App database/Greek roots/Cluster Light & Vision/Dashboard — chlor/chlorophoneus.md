@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of malaconotinae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of malaconotinae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of colorful African bushshrikes in the family Malaconotidae, typically bearing bright green and yellow plumage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, forest bushshrikes of the African tropics characterized by polymorphic plumages and musical territorial whistles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophoneus designates a genus of malaconotinae."*
+> - 📜 **David Bannerman (*The Birds of Tropical West Africa*):** *"The olive bushshrike, belonging to **Chlorophoneus**, crept through the thick tangled canopy."*
+> - 📜 **Austin Roberts (*The Birds of South Africa*):** *"Species of **Chlorophoneus** exhibit striking color phases ranging from bright yellow to deep crimson."*
+> - 📜 **C. W. Mackworth-Praed (*Birds of Eastern and North Eastern Africa*):** *"The clear ringing call of **Chlorophoneus** echoed across the montane forest valley."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron sulfide mineral (Fe_{1-x}S) with a bronze-yellow to copper-red luster, exhibiting varying degrees of magnetic susceptibility; alternative name for pyrrhotite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century mineralogy, the magnetic pyrite group displaying non-stoichiometric defect structures with ordered vacancies in the iron sub-lattice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrrhotine designates a brownish iron sulfide mineral (fes) having weak magnetic properties."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The mineral **pyrrhotine** differs from ordinary iron pyrite both in its bronze hue and in its sensible magnetic attraction."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Grains of **pyrrhotine** frequently occur intergrown with chalcopyrite in primary magmatic sulfide deposits."*
+> - 📜 **William Phillips (*Elementary Introduction to Mineralogy*):** *"Upon cleavage surfaces, **pyrrhotine** exhibits a slight reddish tarnish that quickly identifies it from marcasite."*

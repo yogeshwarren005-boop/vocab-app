@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of origins and first things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of origins and first things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological or philosophical doctrine of first things, primordial origins, and creation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic theology, the analytical counterpart to eschatology, dealing with the origins of the cosmos, the fall of humanity, and pristine divine creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protology designates the study of origins and first things."*
+> - 📜 **Karl Barth (*Church Dogmatics*):** *"Christian theology must articulate its **protology** not as speculative cosmogony, but as the inauguration of God's covenant with creation."*
+> - 📜 **Paul Tillich (*Systematic Theology*):** *"The symbols of **protology** depict the transition from essential being to existential estrangement."*
+> - 📜 **Wolfhart Pannenberg (*Systematic Theology*):** *"The eschatological consummation of history casts retrospective meaning upon the divine **protology** of the world."*

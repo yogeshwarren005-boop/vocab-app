@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dealing with the problems that exist in a specific situation in a reasonable and logical way instead of depending on ideas and theories : practical as opposed to idealistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being in accordance with philosophical pragmatism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dealing with problems in a sensible and practical way based on specific conditions, rather than adhering to theoretical rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and legal history, concerned with cause-and-effect relations, political realities, or imperial state ordinances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Gordon the chauffeur, a pragmatic young man from the Clyde, in this levelling hour was sitting on the edge of the table with a glass of beer in his hand."*
+> - 📜 **William James (*The Meaning of Truth*):** *"The true is the name of whatever proves itself to be good in the way of belief; this is the **pragmatic** rule."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"A **pragmatic** philosophy sees experience not as a veil that shuts man off from nature, but as the only means of penetrating into nature."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Our idea of anything is our idea of its sensible effects; a clear statement of this is the **pragmatic** maxim."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of producing cyanide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of producing cyanide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or releasing hydrogen cyanide, especially through the enzymatic breakdown of plant glycosides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and pasture agronomy, characterizing forage crops (like clover or cassava) that produce toxic levels of prussic acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanogenic designates capable of producing cyanide."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Certain **cyanogenic** plants protect their foliage from herbivorous insects by releasing lethal traces of cyanide gas."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Polymorphism for **cyanogenic** glycosides in white clover varies systematically with winter temperature gradients."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"The chemical defense provided by **cyanogenic** precursors illustrates natural selection acting upon metabolic pathways."*

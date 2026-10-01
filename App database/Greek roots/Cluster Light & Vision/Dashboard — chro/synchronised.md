@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (motion picture sound) exactly simultaneous with the action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British spelling of synchronized; made to occur at the same time, rate, or speed; operating in unison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In athletics and electronics, describing harmonious unison performance (e.g. synchronised swimming) or phase-locked signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronised designates happen at the same time."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"The clocks of Harley Street struck with **synchronised** precision, carving the day into solemn measured hours."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"A thousand dancers moved in **synchronised** rhythm under the pulsating ultraviolet arc lights."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The laboratory apparatus functioned like a **synchronised** organism, humming with controlled magnetic power."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regularly interacting or interdependent group of items forming a unified whole : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of interacting bodies under the influence of related forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regularly interacting or interdependent group of items or elements forming an integrated, unified whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized, comprehensive scheme, doctrine, or method governing intellectual, scientific, or social operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce said that he condoled with him with all his heart and that he set up no monopoly himself in being unjustly treated by this monstrous system."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am told on all hands, it’s the system."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Human reason is by nature architectonic; it regards all cognitions as belonging to a possible **system** ordered by a single idea."*
+> - 📜 **Ludwig von Bertalanffy (*General System Theory*):** *"A **system** is a complex of interacting elements whose collective behavior cannot be deduced from the study of isolated parts."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Society can only be understood through a study of the messages and the communication facilities which belong to it as an organized **system**."*

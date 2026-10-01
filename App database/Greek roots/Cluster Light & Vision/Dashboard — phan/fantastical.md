@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in fancy only; - nathaniel hawthorne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ludicrously odd.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imaginative, fanciful, or bizarre; grotesque or extravagant in conception; unrealistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance and Jacobean drama, describing eccentric whims, supernatural apparitions, or capricious melancholy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er a fantastical knave of them all shall flout me out of my calling. [_Exit._] SCENE IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is all one, my fair, sweet, honey monarch; for, I protest, the schoolmaster is exceeding fantastical; too, too vain, too, too vain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good sir, why do you start and seem to fear Things that do sound so fair?—I’ th’ name of truth, Are ye fantastical, or that indeed Which outwardly ye show?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"My thought, whose murder yet is but **fantastical**, shakes so my single state of man."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholastic philosophy was corrupted by **fantastical** conceits that had no foundation in sensible nature."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The **fantastical** ice mast-high came floating by, as green as emerald."*

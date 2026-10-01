@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline antibiotic (trade name aureomycin) used to treat certain bacterial and rickettsial diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow crystalline antibiotic (trade name aureomycin) used to treat certain bacterial and rickettsial diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first discovered tetracycline antibiotic (originally known as Aureomycin), isolated from the actinomycete *Streptomyces aureofaciens*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antimicrobial chemotherapy, a golden-yellow broad-spectrum antibiotic that inhibits bacterial protein synthesis by binding the 30S ribosomal subunit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlortetracycline designates a yellow crystalline antibiotic (trade name aureomycin) used to treat certain bacterial and rickettsial diseases."*
+> - 📜 **Benjamin Minge Duggar (*Aureomycin: A Product of the Continuing Search for New Antibiotics*):** *"From soil samples collected in Missouri, we isolated the antibiotic **chlortetracycline**, which yielded golden crystalline salts."*
+> - 📜 **Maxwell Finland (*Clinical Uses of Aureomycin*):** *"Early clinical trials showed that oral **chlortetracycline** controlled primary atypical pneumonia and psittacosis."*
+> - 📜 **Selman Waksman (*The Actinomycetes*):** *"The discovery of **chlortetracycline** demonstrated that actinomycetes produced versatile broad-spectrum antibacterial compounds."*

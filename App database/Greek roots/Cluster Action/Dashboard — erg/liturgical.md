@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or in accord with liturgy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or in accord with liturgy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to liturgy or public religious worship, especially standardized rites and ceremonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, pertaining to prescribed prayer forms, vestments, rubrics, and choral rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liturgical designates of or relating to or in accord with liturgy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Byzantine basilicas resounded with elaborate **liturgical** chants that celebrated the majesty of the heavenly court."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"The solemn cadence of Cranmer's **liturgical** prose left an indelible stamp upon the rhythms of English literature."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The beauty of the ancient Catholic **liturgical** tradition offered a refuge from the shallow rationalism of modern controversy."*

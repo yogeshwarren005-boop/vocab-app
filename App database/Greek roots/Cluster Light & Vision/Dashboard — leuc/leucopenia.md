@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leuc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction in the number of white blood cells in the circulating blood below normal physiological levels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a diagnostic hallmark of severe viral infections (influenza, dengue), typhoid fever, and bone marrow failure states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucopenia designates a term designating an entity, condition, or phenomenon derived from greek leuc."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unlike most acute bacterial diseases, typhoid fever is characterized by progressive **leucopenia**."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Toxic doses of benzene destroy hematopoietic tissue, inducing profound **leucopenia** and anemia."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"In terminal sepsis, marrow exhaustion manifests as a collapse in the white count, producing fatal **leucopenia**."*

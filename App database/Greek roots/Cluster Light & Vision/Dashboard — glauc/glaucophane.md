@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glauc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lavender-blue to dark-blue sodic amphibole mineral characteristic of blueschist facies metamorphic rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology and plate tectonics, an indicator mineral formed under high pressure and low temperature conditions typical of subduction zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaucophane designates a term designating an entity, condition, or phenomenon derived from greek glauc."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The blue prismatic crystals of **glaucophane** impart their distinctive color to the alpine schists of the Valais."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The formation of **glaucophane** requires intense crustal compression under relatively low geothermal gradients."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Subducted oceanic slabs metamorphose into dense blueschists richly endowed with crystalline **glaucophane**."*

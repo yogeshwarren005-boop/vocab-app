@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental illness that is characterized by disturbances in thought (such as delusions), perception (such as hallucinations), and behavior (such as disorganized speech or catatonic behavior), by a loss of emotional responsiveness and extreme apathy, and by noticeable deterioration in the level of functioning in everyday life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contradictory or antagonistic qualities or attitudes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe chronic mental disorder characterized by disturbances in thought, perception, emotional responsiveness, and social functioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical psychiatry, Eugen Bleuler's conceptualization of a fundamental fragmentation and disharmony among psychic functions (the four A's).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophrenia designates a mental illness that is characterized by disturbances in thought (such as delusions), perception (such as hallucinations), and behavior (such as disorganized speech or catatonic behavior), by a loss of emotional responsiveness and extreme apathy, and by noticeable deterioration in the level of functioning in everyday life."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox or the Group of Schizophrenias*):** *"I call dementia praecox **schizophrenia** because the splitting of the different psychic functions is one of its most important characteristics."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"What Bleuler subsequently termed **schizophrenia** represents a tragic dissolution of emotional and volitional coherence in young adulthood."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"In **schizophrenia** we encounter a radical transformation of psychic life that defies intuitive empathic understanding."*

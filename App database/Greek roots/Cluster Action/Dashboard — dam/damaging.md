@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflict damage upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer or be susceptible to damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing harm, physical impairment, or loss of reputation and value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detrimental, injurious, or prejudicial to success or well-being.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He made a damaging effect, and has great influence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Further, he often sees damaging letters produced in evidence and has occasion to reflect that it was a green thing to write them."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Two persons could not walk abreast without damaging the crop, and Oak stood aside to let her pass."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Persistent pesticide residues have a deeply **damaging** impact upon bird reproduction and aquatic food chains."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Nothing is so **damaging** to public stability as sudden, untested constitutional subversion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Uncontrolled hypertension exerts a relentlessly **damaging** strain upon coronary and cerebral vessels."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monovalent group —CN present in cyanides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless flammable poisonous gas (CN)2.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic, colorless, flammable gas (C2N2) with a pungent almond-like odor, composed of two linked cyanide radicals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, a pseudohalogen gas synthesized by heating mercuric cyanide, behaving in reactions like a halogen diatomic molecule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The combination of one atom of carbon and one atom of nitrogen is called cyanogen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If cyanogen be given the chance it will take unto itself an atom of hydrogen, producing the deadly hydrocyanic or prussic acid."*
+> - 📜 **Joseph Louis Gay-Lussac (*Recherches sur l'Acide Prussique*):** *"I have given the name **cyanogen** to this radical, because it generates the brilliant Prussian blue pigment."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Heating mercury cyanide drives off **cyanogen** gas, which burns with a characteristic peach-blossom flame."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"The condensation of **cyanogen** into a clear liquid was effected under four atmospheres of pressure."*

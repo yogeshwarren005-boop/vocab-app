@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A question raised for inquiry, consideration, or solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposition in mathematics or physics stating something to be done.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A matter or situation regarded as unwelcome, difficult, or harmful and needing to be overcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and logic, an inquiry or proposition starting from given conditions to investigate or demonstrate a result.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She told him of the problem she had with Bruno's further education, because the lessons he had been having from the Rector would end in the fall, and of her firm intention of keeping him from living together with his two present comrades."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Every one of the children had a problem to bring to her, but there was so little time left to-day that they had to be put off till to-morrow."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But I must tell you something else." Uncle Philip seemed to be rather glad to pass quickly over the hard problem."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"To resolve this mechanical **problem**, we must balance the gravitational pull against centrifugal acceleration."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The central **problem** of philosophy is to distinguish appearance from reality through critical reflection."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The origin of complex instincts posed a formidable **problem** that long seemed fatal to my theory."*

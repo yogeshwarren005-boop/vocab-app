@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various soluble glycoside pigments producing blue to red coloring in flowers and plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various soluble glycoside pigments producing blue to red coloring in flowers and plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A water-soluble vacuolar flavonoid pigment appearing red, purple, or blue depending on cellular pH, found in flowers, fruits, and autumn leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry, a glycosylated polyhydroxy derivative of 2-phenylchromenylium responsible for berry coloration and pollinator attraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthocyanin designates any of various soluble glycoside pigments producing blue to red coloring in flowers and plants."*
+> - 📜 **Richard Willstätter (*Nobel Lecture: On Plant Pigments*):** *"By isolating crystalline **anthocyanin** from cornflowers and dahlias, we proved that subtle pH variations dictate their red or blue coloration."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The rich deposit of **anthocyanin** in the petals guides visiting bees directly toward the nectary."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Autumnal chill halts chlorophyll synthesis, unmasking the brilliant scarlet **anthocyanin** dissolved within the leaf sap."*

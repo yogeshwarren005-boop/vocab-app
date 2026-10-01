@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronologically misplaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronologically misplaced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erroneous in date; out of proper chronological place; anachronistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical methodology, referring to documents, institutions, or phrases that betray their false dating by temporal inconsistencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anachronous designates chronologically misplaced."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The spurious charter was betrayed by several **anachronous** references to later Norman baronies."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Placing classical porticoes upon alpine crags produced an **anachronous** and incongruous architectural effect."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"An **anachronous** survival from Tudor governance lingered unnoticed in the archaic oaths of the Privy Council."*

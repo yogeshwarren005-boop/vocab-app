@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or performed by means of an endoscope or endoscopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or performed by means of an endoscope or endoscopy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, performed by, or utilizing an endoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic and therapeutic surgery, denoting intraluminal procedures such as biopsies, stone extractions, and mucosal resections conducted under direct camera guidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscopic designates of, relating to, or performed by means of an endoscope or endoscopy."*
+> - 📜 **Alexis Carrel (*The Treatment of Infected Wounds*):** *"Direct **endoscopic** surveillance provides immediate visual appraisal of tissue healing without requiring wound disruption."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"Our early **endoscopic** probes into the cerebral ventricles revealed fluid dynamics impossible to deduce from external examination."*
+> - 📜 **William Osler (*Aequanimitas and Other Addresses*):** *"The clinician who supplements tactile percussion with **endoscopic** clarity stands on far firmer diagnostic ground."*

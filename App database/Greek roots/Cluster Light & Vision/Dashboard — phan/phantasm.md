@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of fantasy: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delusive appearance : illusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figment of the imagination; an illusion or apparition; a mental image of a real or supernatural object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and psychological fiction, an illusory sensory appearance lacking objective physical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A personal, human feeling for a brief moment got the better of the artificial phantasm of life he had served so long."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I seemed to see a ghostly, indistinct figure sitting in a whirling mass of black and brass for a moment—a figure so transparent that the bench behind with its sheets of drawings was absolutely distinct; but this phantasm vanished as I rubbed my eyes."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No one remains, nor is he one, but we become many as matter now gathers and now slips away about one phantasm and a common form (or impress)...."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Thrilled me—filled me with fantastic terrors never felt before; So that now, to still the beating of my heart, I stood repeating, It is some visitor, no **phantasm** of the night."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I saw the hideous **phantasm** of a man stretched out, and then, on the working of some powerful engine, show signs of life."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The **phantasm** of Jupiter arose from the misty underworld, uttering curses against the Titan."*

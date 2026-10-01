@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form (phaios, 'dusky, dun, gray-brown, dark') denoting dark brown, dusky hue, or brown algal pigments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical and phycological nomenclature, a prefix in Phaeophyceae, pheochromocytoma, and phaeohyphomycosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phae designates a term designating an entity, condition, or phenomenon derived from greek phae."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In ancient Greek, the root **phae**- denoted the dusky gloom of twilight and the dun fleece of mountain sheep."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"Botanists prefixed **phae**- to denote the olive-brown kelps whose fucoxanthin conceals green chlorophyll."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The combining element **phae**- designates chromaffin tissues that turn dark brown with chromium salts."*

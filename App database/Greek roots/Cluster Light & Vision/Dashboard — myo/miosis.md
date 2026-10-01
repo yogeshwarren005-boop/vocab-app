@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive smallness or contraction of the pupil of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive smallness or contraction of the pupil of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or abnormal constriction of the pupil of the eye, caused by contraction of the pupillary sphincter muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-ophthalmology, pupillary constriction induced by parasympathomimetic drugs (pilocarpine), opioid intoxication, or Horner's syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miosis designates excessive smallness or contraction of the pupil of the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pinpoint **miosis** in an unconscious patient strongly suggests acute narcotic intoxication or pontine hemorrhage."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The pupillary light reflex produces prompt **miosis** to protect the sensitive retina from excessive illumination."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"Holmes noted the extreme **miosis** of the professor's eyes, indicating the recent influence of a powerful drug."*

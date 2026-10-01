@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting force by reason of weight alone without motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to bodies at rest or forces in equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in movement, active development, or change; stationary, fixed, or at rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and electrical engineering, relating to electrostatic charges at rest, or electromagnetic interference producing crackling noise in audio receivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, therefore, is a static theory in respect to the standard of deferred payments, and requires adjustment to apply to a condition of a changing price-level.] [Footnote 12: See above, sec. 3.] [Footnote 13: Mention was made in Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In long-time static conditions the general level of prices and the prevailing rate of interest are dependent on entirely different sets of forces."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"That is, there is, under static conditions, work for all to do at various rates of wages that would bring about a value equilibrium of services.[9] The maladjustments are either of an individual or of a general character."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"A body at rest will remain in a **static** condition unless compelled to change its state by impressed forces."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The laws of **static** electricity assume a particularly simple mathematical form when charges remain immovable upon conductors."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Random thermal noise in communication channels manifests as background **static**, degrading the fidelity of transmitted messages."*

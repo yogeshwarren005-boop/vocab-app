@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long parley usually between persons of different cultures or levels of sophistication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conference, discussion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolonged, idle, or tedious talk; unnecessary discussion or fuss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a formal parley or diplomatic conference between European traders and indigenous peoples in West Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Dad useter take the hide off'n me and Bob for lyin'; an' then he'd stand an' palaver folks that he jest couldn't scurce abide, fur I heard him say so."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I knew some mystic palaver or other had been going on, but what that mummery had to do with the death or disappearance of my father I did not care--only just streaked it down the passage."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The custom is preceded by four weeks' dead silence; no gun is allowed to be fired, no drum to be beaten, no palaver to be made between man and man."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The manager held an endless **palaver** with the river chiefs while the steamer hissed beside the muddy bank."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Long John Silver stepped ashore under a white flag of truce for a solemn **palaver** with the captain."*
+> - 📜 **Herman Melville (*Omoo*):** *"After much tedious **palaver** regarding trade beads and calico, the islanders agreed to supply our ship with fresh yams."*

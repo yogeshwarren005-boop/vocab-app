@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chromatophore (pigment-bearing cell) in the dermal layer of cold-blooded animals containing yellow pteridine or carotenoid pigments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative histology and developmental physiology, a specialized pigment cell derived from the embryonic neural crest, found in the skin of reptiles, amphibians, and fishes, responsible for yellow coloration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthophore designates a term designating an entity, condition, or phenomenon derived from greek xanth."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"The brilliant golden patterning of the salamander is mediated by dermal layers of **xanthophore** cells overlying black melanophores."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"During fin regeneration in the goldfish, each **xanthophore** reorganizes its pteridine granules to restore the original yellow coloration."*
+> - 📜 **J. T. Bagnara (*Science: Pigment Cell Biology*):** *"Chromatophore units in the dermis consist of an uppermost **xanthophore**, an intermediate iridophore, and a basal melanophore."*

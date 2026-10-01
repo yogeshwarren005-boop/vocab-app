@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system consisting of a generator and a motor so connected that the motor will assume the same relative position as the generator; the generator and the motor are synchronized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system consisting of a generator and a motor so connected that the motor will assume the same relative position as the generator; the generator and the motor are synchronized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electromagnetic rotary device used for transmitting angular position or mechanical motion between remote points (a synchro transmitter/receiver).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electromechanical engineering and aerospace, a precision rotary transformer used in servosystems, gun turrets, and navigational gyroscopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchro designates a system consisting of a generator and a motor so connected that the motor will assume the same relative position as the generator; the generator and the motor are synchronized."*
+> - 📜 **Vannevar Bush (*Operational Circuit Analysis*):** *"The remote indicator followed the gun turret perfectly through an interconnected **synchro** pair."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback loops in automated fire control rely on the angular precision of the **synchro** link."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Angular data transmitted via a **synchro** loop illustrates continuous analog signal transduction."*

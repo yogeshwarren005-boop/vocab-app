@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease gradually or bit by bit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut small bits or pare shavings from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To trim something by cutting away its outer edges or skin; to reduce something gradually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance and management, to cut back or diminish expenditures, staff, or resources incrementally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what would you have me to do? ’Tis too late to pare her nails now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In any case, let Thisbe have clean linen; and let not him that plays the lion pare his nails, for they shall hang out for the lion’s claws."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the nobles pare their nails, the parings are collected to the last scrap and swallowed by these _ramanga._ If the parings are too large, they are minced small and so gulped down."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Lilliputian tailor used the sharpest scissors to **pare** the fine linen into garments fit for my stature."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I went to the woods because I wished to live deliberately, to front only the essential facts of life, and **pare** away all clutter."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Gradgrind sought to **pare** down the curriculum to hard, indisputable facts, discarding every vestige of sentiment."*

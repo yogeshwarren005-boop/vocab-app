@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea anemones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea anemones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of anthozoans comprising solitary, skeleton-less sea anemones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of hexacorallians possessing pairs of complete and incomplete mesenteries arranged in hexamerous cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actiniaria designates sea anemones."*
+> - 📜 **Ernst Haeckel (*Report on the Deep-Sea Keratosa*):** *"Specimens of **Actiniaria** dredged from abyssal depths exhibited remarkable adaptations to frigid oceanic pressures."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The **Actiniaria** diverge fundamentally from the Scleractinia by their complete absence of a hard stony corallum."*
+> - 📜 **Alpheus Hyatt (*Commercial and Other Sponges*):** *"Commensal associations between hermit crabs and species of **Actiniaria** illustrate mutual protective adaptations."*

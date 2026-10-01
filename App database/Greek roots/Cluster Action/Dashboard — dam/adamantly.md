@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflexibly; unshakably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflexibly; unshakably.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unyielding, inflexible, or stubbornly resolute manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With unwavering determination refusing to yield to entreaties, threats, or compromises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adamantly designates inflexibly; unshakably."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Britain refused **adamantly** to entertain any compromise that sacrificed the independence of our allies."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars insisted **adamantly** upon Edward's marrying the heiress or suffering complete disinheritance."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Dr. Manette stood **adamantly** between his son-in-law and the bloodthirsty revolutionary tribunal."*

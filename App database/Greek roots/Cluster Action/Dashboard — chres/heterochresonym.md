@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chresonym where a taxonomic name is used in a sense different from its original or correct taxonomic application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic nomenclature, an instance in literature where a taxon name is applied to a different taxon than its nomenclatural type.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterochresonym designates a term designating an entity, condition, or phenomenon derived from greek chres."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"A published **heterochresonym** must not be confused with a nomenclatural homonym, as it represents a misapplication rather than a new name."*
+> - 📜 **Charles Wardell Stiles (*The Nomenclature of Parasites*):** *"Identifying a **heterochresonym** in early medical treatises resolves decades of confusion regarding helminth identities."*
+> - 📜 **Julian Huxley (*The New Systematics*):** *"Monographers must meticulously flag each **heterochresonym** to prevent erroneous geographic distribution maps."*

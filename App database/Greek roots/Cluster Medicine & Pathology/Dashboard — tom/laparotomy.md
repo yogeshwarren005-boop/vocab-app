@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the abdominal wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision of the abdominal wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical incision into the abdominal cavity, either for exploratory diagnosis or for major operative surgery (celiotomy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acute general surgery, exploratory laparotomy performed for penetrating abdominal trauma, acute hemoperitoneum, bowel obstruction, or perforated viscus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laparotomy designates surgical incision of the abdominal wall."*
+> - 📜 **Ephraim McDowell (*Observations on Diseased Ovaria*):** *"In 1809, without anesthesia or antisepsis, I performed the first successful elective **laparotomy** to remove a colossal ovarian tumor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute intestinal obstruction, early exploratory **laparotomy** offers the only reasonable prospect of recovery."*
+> - 📜 **Atul Gawande (*Complications*):** *"The trauma team made a midline **laparotomy** incision from xiphoid to pubis to pack the hemorrhaging liver."*

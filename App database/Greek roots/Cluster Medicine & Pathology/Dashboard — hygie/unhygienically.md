@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unhygienic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unhygienic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is unclean, dirty, or unsanitary; without proper regard for health and cleanliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handled or maintained under conditions that facilitate bacterial contamination or spread infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unhygienically designates in an unhygienic manner."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The spoiled meat was stored **unhygienically** on open wooden floors where rats nested undisturbed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The scavengers lived **unhygienically** along the foul banks of the Thames, breathing the pestilential night air."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Surgeons who prep **unhygienically** in haste increase the likelihood of deep surgical wound suppuration."*

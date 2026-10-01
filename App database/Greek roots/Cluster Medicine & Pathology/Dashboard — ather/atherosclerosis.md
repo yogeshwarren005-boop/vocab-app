@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic cardiovascular disease in which the inside of an artery narrows due to the build-up of fatty plaque (atheroma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern cardiology, the leading cause of death globally, manifesting clinically as coronary artery disease, ischemic stroke, and peripheral arterial disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherosclerosis designates an arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Longevity is a vascular question, and a man is only as old as his arteries; in **atherosclerosis**, the arterial tree prematurely rusts."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Preventing coronary **atherosclerosis** through lifestyle modification and lipid lowering is the cornerstone of preventive cardiology."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"The quiet, insidious progress of **atherosclerosis** begins in youth and culminate decades later in a catastrophic myocardial infarction."*

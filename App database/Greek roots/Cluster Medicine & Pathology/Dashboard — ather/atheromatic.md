@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling atheroma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling atheroma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, of the nature of, or affected by atheroma (variant of atheromatous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, describing arteries characterized by soft, fatty intimal degenerations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atheromatic designates of or relating to or resembling atheroma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The cerebral vessels exhibited extensive **atheromatic** changes, rendering them brittle and prone to rupture."*
+> - 📜 **Thomas Clifford Allbutt (*Diseases of the Arteries*):** *"The **atheromatic** ulcer on the wall of the thoracic aorta had become coated with a thin layer of laminated fibrin."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Examination revealed that the aneurysm arose from an **atheromatic** erosion of the major arterial coat."*

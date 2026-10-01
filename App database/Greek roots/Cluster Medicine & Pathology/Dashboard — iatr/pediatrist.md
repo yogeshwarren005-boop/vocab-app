@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the care of babies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the care of babies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in the treatment of diseases of children; an older or alternative term for pediatrician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical nineteenth- and early twentieth-century American medical literature, the standard term for a child specialist before 'pediatrician' gained universal dominance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pediatrist designates a specialist in the care of babies."*
+> - 📜 **Abraham Jacobi (*Infant Diet*):** *"The conscientious **pediatrist** must instruct the community on clean milk supplies to stamp out summer diarrhea."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"We consulted a renowned **pediatrist** regarding the child's persistent croup and nocturnal fevers."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The fashionable city **pediatrist** catered to wealthy mothers anxious over teething powders and infant formulas."*

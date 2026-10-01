@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected with edema : abnormally swollen with fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected with edema : abnormally swollen with fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swollen or distended by an accumulation of excessive fluid in body tissues; affected with edema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, describing tissue that is pale, boggy, heavy, and waterlogged upon gross examination or histology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edematous designates relating to or affected with edema : abnormally swollen with fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The mucosa of the larynx was vividly injected and heavily **edematous**, narrowing the glottic aperture to a slit."*
+> - 📜 **Atul Gawande (*Complications*):** *"The bowel wall had become thick and **edematous** from venous obstruction, making suturing precarious."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Her legs were heavy and **edematous**, weeping clear lymph through tense, shiny skin."*

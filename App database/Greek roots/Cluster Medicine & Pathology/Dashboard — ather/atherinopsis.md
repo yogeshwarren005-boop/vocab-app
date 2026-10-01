@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of atherinidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of atherinidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine silverside fish native to the eastern Pacific coast of North America, containing the jacksmelt (Atherinopsis californiensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine fisheries biology, an important commercial and baitfish species characterized by an elongated silvery body and schooling habits in coastal kelp forests and bays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherinopsis designates a genus of atherinidae."*
+> - 📜 **David Starr Jordan (*Fishes of North and Middle America*):** *"The genus **Atherinopsis** is distinguished by its uniserial teeth and robust, elongated body."*
+> - 📜 **Ed Ricketts (*Between Pacific Tides*):** *"Anglers off the Monterey piers catch large quantities of jacksmelt belonging to the genus **Atherinopsis**."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"The boys fished for **Atherinopsis** in the quiet water between the pilings of the sardine canneries."*

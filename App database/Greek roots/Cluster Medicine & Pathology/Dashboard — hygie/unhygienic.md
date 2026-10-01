@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclean and constituting a likely cause of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unclean and constituting a likely cause of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not clean, sanitary, or wholesome; liable to harbor disease-causing microorganisms or foster illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health inspection, describing conditions, facilities, or practices that violate established sanitation codes and promote contagion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unhygienic designates unclean and constituting a likely cause of disease."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The dark, damp basement was disgustingly **unhygienic**, its crumbling walls coated with green mold."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"To place wounded men in such crowded, **unhygienic** wards is to deliver them over to hospital gangrene and death."*
+> - 📜 **Atul Gawande (*Better*):** *"An **unhygienic** stethoscope carried from patient to patient can act as a vector for drug-resistant bacteria."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of gill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of gill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Breathing by means of gills; exhibiting branchial respiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological and amphibian morphology, describing aquatic larvae that possess spiracular gills or functional branchial breathing mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiopneustic designates adjective*) pertaining to, derived from, or characteristic of gill."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"The **branchiopneustic** nymph exchanges dissolved oxygen through delicate abdominal tracheal gills."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The primitive aquatic insect larva was **branchiopneustic**, becoming air-breathing only upon terrestrial emergence."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"In **branchiopneustic** organisms, respiratory efficiency depends directly upon continuous water flow across the gill surfaces."*

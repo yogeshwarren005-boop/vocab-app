@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no gills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no gills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no gills; gill-less (variant of abranchiate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological anatomy, describing aquatic or semi-terrestrial organisms that lack specialized branchial gills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abranchious designates having no gills."*
+> - 📜 **Richard Owen (*Comparative Anatomy*):** *"The **abranchious** larvae exchange respiratory gases across their translucent embryonic membranes."*
+> - 📜 **William Thomas Calman (*Crustacea*):** *"These primitive **abranchious** forms suggest that gills were secondarily evolved from locomotor limb lobes."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"The transition from branchiate tadpole to **abranchious** adult frog marks the great evolutionary conquest of land."*

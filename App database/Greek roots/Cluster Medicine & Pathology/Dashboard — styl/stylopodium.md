@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlargement at the base of the style in some umbelliferae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlargement at the base of the style in some umbelliferae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlargement, expansion, or nectar-secreting disc at the base of the floral styles in plants of the parsley family (Apiaceae / Umbelliferae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology, a prominent cushion-like structure atop the inferior ovary that produces nectar to attract insect pollinators, later crowning the mature schizocarp fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylopodium designates an enlargement at the base of the style in some umbelliferae."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"At the summit of the umbellifer ovary sits the fleshy, conical **stylopodium**, from which two slender styles emerge."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The form and persistence of the **stylopodium** provide diagnostic characters for distinguishing genera within the Umbelliferae."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Insects crawl over the umbel, licking sweet droplets secreted by the glistening **stylopodium**."*

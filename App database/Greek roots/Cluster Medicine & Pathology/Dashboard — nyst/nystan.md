@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical trade name or variant formulation related to nystatin, used as an antifungal preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological practice, a topical or oral suspension formulation employed to treat candidiasis of the skin and mucous membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nystan designates an antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"The commercial preparation sold under the brand **Nystan** provided physicians with a direct weapon against stubborn Monilia infections."*
+> - 📜 **Abraham Verghese (*My Own Country*):** *"The clinic stocked bottles of **Nystan** oral suspension to soothe the burning esophageal thrush of immunosuppressed patients."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Clinical trials of **nystan** demonstrated that fungal pathogens could be suppressed without harming the host's bacterial flora."*

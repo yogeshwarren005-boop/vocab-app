@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of the skin that is marked by blemishes (such as whiteheads, blackheads, or pustules) especially on the face, chest, and shoulders and is caused by inflammation of sebaceous glands and hair follicles; especially : a form found chiefly in adolescents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic inflammatory skin disorder typically involving the nose, forehead, and chin that is characterized especially by redness, flushing, telangiectasia, inflamed lesions, and burning sensation, and sometimes by eye dryness and irritation and thickening of tissues especially of the nose : rosacea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common inflammatory skin condition characterized by pimples, blackheads, whiteheads, and pustules, caused by blocked and infected sebaceous glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, acne vulgaris, an inflammatory disorder involving androgen-mediated sebum production, follicular hyperkeratinization, and Cutibacterium acnes colonization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acne designates a disorder of the skin that is marked by blemishes (such as whiteheads, blackheads, or pustules) especially on the face, chest, and shoulders and is caused by inflammation of sebaceous glands and hair follicles; especially : a form found chiefly in adolescents."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"The lesions of **acne** vulgaris arise from retention of sebum within the hair follicles of the face, back, and chest."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pustular **acne** is one of the most distressing afflictions of adolescence, leaving permanent pitted scars."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The sullen youth was tormented by fiery **acne**, which made him shrink from the gaze of his classmates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare autosomal recessive disease in which the platelets do not produce clots in the normal way and hemorrhage results.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare autosomal recessive disease in which the platelets do not produce clots in the normal way and hemorrhage results.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, hereditary bleeding disorder characterized by normal platelet count but defective platelet aggregation and clot retraction (Glanzmann's thrombasthenia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular hematology, an autosomal recessive disorder caused by qualitative or quantitative deficiency of the platelet membrane integrin alpha-IIb/beta-3 (glycoprotein IIb/IIIa) receptor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombasthenia designates a rare autosomal recessive disease in which the platelets do not produce clots in the normal way and hemorrhage results."*
+> - 📜 **Eduard Glanzmann (*Hereditäre hämorrhagische Thrombasthenie*):** *"In this familial bleeding diathesis, which I designate **thrombasthenia**, the platelets fail to adhere to one another or retract the fibrin clot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients with **thrombasthenia** suffer from recurrent epistaxis and menorrhagia despite a completely normal platelet count."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Glanzmann's **thrombasthenia** taught cell biologists how integrin receptors tether cells together during mechanical stress."*

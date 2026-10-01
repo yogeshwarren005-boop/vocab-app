@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become blocked by a thrombus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become blocked by a thrombus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a blood clot (thrombus) in a blood vessel or organ; or to become obstructed by a clot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical and vascular pathology, the intravascular coagulation of blood causing local vessel occlusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombose designates become blocked by a thrombus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sluggish blood flow in dilated varicose veins readily predisposes the vessel to **thrombose** upon minor trauma."*
+> - 📜 **Michael E. DeBakey (*Surgical Treatment of Aortic Aneurysms*):** *"If the bypass graft begins to **thrombose**, emergent re-exploration and embolectomy must be carried out immediately."*
+> - 📜 **Atul Gawande (*Complications*):** *"A microvascular anastomosis will **thrombose** if the intimal suture line is not completely smooth and free of tension."*

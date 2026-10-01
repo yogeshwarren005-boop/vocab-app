@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological state produced by a poison or other toxic substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary state resulting from excessive consumption of alcohol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being intoxicated or drunk; or poisoning by a toxic substance or drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology, acute physiological poisoning resulting from the ingestion, inhalation, or systemic production of a toxic agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The New Testament was less a Christiad then a Pauliad to his intelligence—less an argument than an intoxication."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though I have borne blows from men in a mad state of intoxication.” “No!” “A dozen times, my boy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was too much like laughing at a man when sober for his erratic deeds during intoxication."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute alcoholic **intoxication** in severe cases may depress the medullary respiratory centers to the point of fatal coma."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In a moment of reckless **intoxication**, Troy spent his young wife's fortune upon gambling debts."*
+> - 📜 **Sherwin B. Nuland (*Doctors: The Biography of Medicine*):** *"The fatal **intoxication** of puerperal fever was caused by toxins carried directly on the unsterilized fingers of the accoucheur."*

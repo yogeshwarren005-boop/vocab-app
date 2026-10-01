@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being aseptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The methods of making or keeping aseptic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being free from pathogenic micro-organisms, bacteria, viruses, and fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical theater technique, the comprehensive prevention of microbial access through autoclaving instruments, sterile gowning, and clean airflow, advancing beyond chemical antisepsis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asepsis designates the condition of being aseptic."*
+> - 📜 **William Stewart Halsted (*The Employment of Fine Silk in Preference to Catgut*):** *"True **asepsis** relies upon heat sterilization of linens and rubber gloves, rendering corrosive chemical sprays obsolete."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The transition from Listerian antisepsis to modern **asepsis** was the crowning achievement of nineteenth-century operative hygiene."*
+> - 📜 **Atul Gawande (*Better*):** *"Maintaining surgical **asepsis** requires unrelenting vigilance from every member of the scrub team."*

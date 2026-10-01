@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone in love with themselves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone in love with themselves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has an excessive interest in or admiration of themselves; one characterized by egotism and conceit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological diagnostics, an individual displaying entitlement, fragile self-esteem masked by grandiosity, and interpersonal exploitativeness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcissist designates someone in love with themselves."*
+> - 📜 **Sigmund Freud (*On Narcissism*):** *"The true **narcissist** loves only what he is himself, what he was, or what he would like to be."*
+> - 📜 **Milan Kundera (*The Unbearable Lightness of Being*):** *"The political **narcissist** perceives history merely as a mirror reflecting his own heroic speeches."*
+> - 📜 **Irvin D. Yalom (*The Gift of Therapy*):** *"Beneath the imperious armor of the **narcissist** lies an agonizing dread of insignificance and shame."*

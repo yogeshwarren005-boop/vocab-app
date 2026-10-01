@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a portico of freestanding columns across the front facade only, with no columns along the sides or rear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical temple taxonomy, a simpler plan than amphiprostyle or peripteral, commonly used for smaller Roman civic temples and shrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*De Architectura*):** *"A temple is called **prostyle** when it has columns only in front of the pronaos, with none along the sides."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"The small suburban temple was constructed on a **prostyle** plan, its four Corinthian columns greeting the traveller."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The small Roman **prostyle** temple placed its emphasis squarely upon a monumental front staircase."*

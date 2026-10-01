@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhig.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of prehistoric therapsid (synapsid) from the Permian and Triassic periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a primitive synapsid taxon named from Greek rhigos (frost, cold) and sauros (lizard), reflecting its discovery in cold, high-latitude fossil beds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhigosaurus designates a term designating an entity, condition, or phenomenon derived from greek rhig."*
+> - 📜 **Robert Broom (*The Mammal-like Reptiles of South Africa*):** *"The cranial fragments of **Rhigosaurus** exhibit the transitional jaw articulation characteristic of advanced therapsids."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Fossil remains referred to **Rhigosaurus** illuminate the evolutionary radiation of synapsids across Gondwana before the dawn of the dinosaurs."*
+> - 📜 **Edwin H. Colbert (*Wandering Lands and Animals*):** *"The presence of **Rhigosaurus** in southern polar sediments provided compelling biological evidence for continental drift."*

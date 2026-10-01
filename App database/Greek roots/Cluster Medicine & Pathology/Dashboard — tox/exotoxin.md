@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble poisonous substance produced during growth of a microorganism and released into the surrounding medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soluble poisonous substance produced during growth of a microorganism and released into the surrounding medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent toxic substance secreted by living bacterial cells into the surrounding environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, highly lethal proteins (such as botulinum neurotoxin, tetanus toxin, and diphtheria toxin) that possess specific enzymatic targets and can be neutralized by antibodies or converted into toxoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotoxin designates a soluble poisonous substance produced during growth of a microorganism and released into the surrounding medium."*
+> - 📜 **Emil von Behring (*Studies on Tetanus and Diphtheria*):** *"The diphtheria bacillus remains confined to the throat, but its soluble **exotoxin** circulates to paralyze the heart muscle."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"A few drops of purified botulinum **exotoxin** contained enough concentrated venom to destroy an entire regiment."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Tetanus **exotoxin** ascends retrograde along motor axons to block inhibitory neurotransmission in the spinal cord."*

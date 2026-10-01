@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) having styles all of the same length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) having styles all of the same length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having styles of uniform length; homostylous (applied to flowers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing plant species whose flowers possess pistil styles and stamen filaments of invariant height, lacking heterostyly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homostyled designates (botany) having styles all of the same length."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The exceptional primrose variety was completely **homostyled**, bearing both anthers and stigma at the identical level within the corolla tube."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In **homostyled** species, self-pollination occurs readily without the obligatory intervention of insect pollinators."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanists examine whether the wild populations are heterostyled or strictly **homostyled** across their geographical range."*

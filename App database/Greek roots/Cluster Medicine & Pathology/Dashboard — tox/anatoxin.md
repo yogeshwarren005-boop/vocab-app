@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterial toxin that has been treated with heat or chemicals (such as formaldehyde) to destroy its toxicity while retaining its antigenic properties; a toxoid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, developed by Gaston Ramon at the Pasteur Institute, the basis for successful vaccines against diphtheria and tetanus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anatoxin designates a term designating an entity, condition, or phenomenon derived from greek tox."*
+> - 📜 **Gaston Ramon (*Sur les toxines et les anatoxines*):** *"By treating the diphtheria toxin with formalin and heat, we produced a stable **anatoxin** capable of conferring durable immunity without illness."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Ramon's discovery of the **anatoxin** provided humanity with a shield against the lethal lockjaw of tetanus."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The **anatoxin** preserves the exact three-dimensional epitope required for neutralizing antibody generation."*

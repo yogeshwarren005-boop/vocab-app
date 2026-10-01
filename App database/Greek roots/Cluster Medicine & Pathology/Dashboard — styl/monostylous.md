@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of column, pillar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of column, pillar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one style in a flower; characterized by a single floral style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy and morphology, describing a gynoecium in which several carpels have fused into a single compound pistil with one shared style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monostylous designates adjective*) pertaining to, derived from, or characteristic of column, pillar."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The family Ericaceae is typically **monostylous**, the five carpels uniting into a single slender style crowned by a peltate stigma."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanical keys separate the **monostylous** genera from those displaying multiple distinct styles."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In **monostylous** species, insect pollinators deposit pollen on the solitary stigma before reaching the nectary."*

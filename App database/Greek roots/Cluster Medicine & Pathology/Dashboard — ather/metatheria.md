@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pouched animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pouched animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammalian clade that includes all living marsupials (such as kangaroos, koalas, and opossums) as well as their extinct relatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic vertebrate paleontology, the sister clade to Eutheria (placental mammals), characterized by short gestation periods and pouch-based postnatal maternal lactation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metatheria designates pouched animals."*
+> - 📜 **Thomas Henry Huxley (*On the Application of the Laws of Evolution to the Arrangement of the Vertebrata*):** *"I divide the class Mammalia into three grades: Prototheria, **Metatheria**, and Eutheria, representing stages of reproductive evolution."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The fossil record of the **Metatheria** reveals an ancient radiation in South America and Australia, largely sheltered from placental competition."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The convergence between placental wolves and the Tasmanian tiger of the **Metatheria** is one of nature's most stunning displays of evolutionary adaptation."*

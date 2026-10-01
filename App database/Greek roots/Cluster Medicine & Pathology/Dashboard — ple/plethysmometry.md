@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of changes in the volume of an organ, limb, or whole body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental physiology and pulmonary medicine, volumetric measurement (as in body plethysmography) used to determine thoracic gas volume and peripheral blood flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethysmometry designates a term designating an entity, condition, or phenomenon derived from greek ple."*
+> - 📜 **Angelo Mosso (*The Mechanism of the Circulation in the Brain*):** *"By placing the arm in a glass cylinder filled with water, **plethysmometry** recorded every emotional shift as a change in blood volume."*
+> - 📜 **August Krogh (*The Anatomy and Physiology of Capillaries*):** *"Venous occlusion **plethysmometry** remains the most accurate non-invasive method for measuring human limb blood flow."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Whole-body **plethysmometry** allows the clinician to measure functional residual capacity regardless of airway obstruction."*

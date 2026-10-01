@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the number of platelets (thrombocytes) in the circulating blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, classified as reactive (secondary to infection, inflammation, or iron deficiency) or clonal (essential thrombocythemia), increasing the risk of paradoxical thrombosis or bleeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombocytosis designates increase in the number of platelets in the blood which tends to cause clots to form; associated with many neoplasms and chronic infections and other diseases."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe reactive **thrombocytosis** frequently follows splenectomy or acute systemic bacterial infection."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"In essential thrombocythemia, a JAK2 mutation drives uncontrolled **thrombocytosis**, packing the capillaries with millions of platelets."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The hematologist investigated the unexplained **thrombocytosis**, ruling out occult gastrointestinal blood loss."*

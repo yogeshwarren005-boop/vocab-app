@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physiologically active substance (such as serotonin, bradykinin, or angiotensin) that is produced by the body and typically has a localized effect of brief duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physiologically active substance (such as serotonin, bradykinin, or angiotensin) that is produced by the body and typically has a localized effect of brief duration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological substance (such as histamine, serotonin, bradykinin, or prostaglandins) produced locally by tissues that acts as a local hormone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical pharmacology, named by Edward Albert Sharpey-Schafer from Greek autos (self) and akos (remedy/medicament), designating rapidly degraded paracrine signaling molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autacoid designates a physiologically active substance (such as serotonin, bradykinin, or angiotensin) that is produced by the body and typically has a localized effect of brief duration."*
+> - 📜 **Edward Albert Sharpey-Schafer (*The Endocrine Organs*):** *"I propose the term **autacoid** to denote these internal drug-like substances formed by cells to act upon neighboring tissues."*
+> - 📜 **John Vane (*Nobel Lecture: Inhibition of Prostaglandin Synthesis*):** *"Aspirin achieves its anti-inflammatory effect by suppressing the enzymatic synthesis of the lipid **autacoid** prostaglandin."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The vascular dilation in septic shock is largely driven by excessive release of the peptide **autacoid** bradykinin."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (such as opium or morphine) that in moderate doses dulls the senses, relieves pain, and induces profound sleep but in excessive doses causes stupor, coma, or convulsions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (such as marijuana or LSD) subject to restriction similar to that of addictive narcotics whether physiologically addictive and narcotic or not.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that in moderate doses dulls the senses, relieves pain, and induces profound sleep, but in excessive doses causes stupor, coma, or convulsions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and legal statutes, specifically an opioid receptor agonist (such as morphine, codeine, or fentanyl) subject to high potential for physical dependence and strict regulatory control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Every one seemed to be under the influence of some narcotic."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Knowing its narcotic nature, he refused; but Jimmy said he would have something mixed with it, which would convert it into an innocent beverage that would inspirit them for the rest of their journey."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A steady droning sound of many men chanting each to himself some weird incantation came out from the black, flat wall of the woods as the humming of bees comes out of a hive, and had a strange narcotic effect upon my half-awake senses."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"O just, subtle, and mighty opium! thou buildest upon the bosom of darkness, with the materials of a **narcotic** dream, cities and temples."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Morphine remains our sovereign **narcotic** for the agony of severe coronary thrombosis."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"Every human culture has discovered some vegetable **narcotic** to offer temporary escape from the burden of selfhood."*

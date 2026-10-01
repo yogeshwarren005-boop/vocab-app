@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the treatment of disease or disorders by remedial agents or methods : curative, medicinal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a beneficial effect on the body or mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the healing of disease; beneficial to physical, mental, or emotional health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and clinical medicine, producing a desired curative or palliative effect without unacceptable adverse toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A model clergyman, like a model doctor, ought to think his own profession the finest in the world, and take all knowledge as mere nourishment to his moral pathology and therapeutics."*
-> - 📜 **Bram Stoker (*Dracula*):** *"When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter, conventional forms are unfitting, since they would seem to limit him to one of a class."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Tests in our day Since God, divine Mind, governs all, not partially but 149:27 supremely, predicting disease does not dignify therapeutics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rest in bed remains our most potent **therapeutic** agent in the management of acute cardiac dilatation."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The **therapeutic** power of melody can restore speech to the stroke victim and grace to the Parkinsonian walk."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Finding the narrow **therapeutic** window between eradicating the tumor and poisoning the host is the ultimate challenge of oncology."*

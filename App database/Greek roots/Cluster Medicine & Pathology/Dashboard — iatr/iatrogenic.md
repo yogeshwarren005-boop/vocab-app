@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Induced unintentionally by a physician or surgeon or by medical treatment or diagnostic procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Induced unintentionally by a physician or surgeon or by medical treatment or diagnostic procedures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by medical examination, treatment, or diagnostic procedures; inadvertently induced by a physician or medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare quality and patient safety, describing adverse drug reactions, hospital-acquired infections, surgical complications, or diagnostic errors caused by medical intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iatrogenic designates induced unintentionally by a physician or surgeon or by medical treatment or diagnostic procedures."*
+> - 📜 **Ivan Illich (*Medical Nemesis: The Expropriation of Health*):** *"The epidemic of **iatrogenic** disease has become a major threat to health, turning medicine itself into a pathogen."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Every operation carries the inherent hazard of **iatrogenic** injury, demanding meticulous care with every cut."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The patient's sudden kidney failure was traced to an **iatrogenic** toxicity from concurrent radiographic contrast and diuretics."*

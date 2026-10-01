@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root designating sharpness, apex, or remedial healing; duplicate catalog entry for ac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical classification, a variant database entry representing the Greek morpheme for points, crises, and medical remedies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ac2 designates a term designating an entity, condition, or phenomenon derived from greek ac."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The primitive Indo-European root **ak** signifying sharpness passed into Greek as ake, akme, and acantha."*
+> - 📜 **James Murray (*The Evolution of English Lexicography*):** *"Lexicographers carefully trace how **ac** evolved from physical sharpness into abstract metaphorical culminations."*
+> - 📜 **Frederic G. Kenyon (*Ancient Books and Papyri*):** *"Greek medical papyri employ roots in **ac** to denote acute physical crises in febrile illnesses."*

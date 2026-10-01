@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood poppies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wood poppies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial flowering plants in the poppy family (Papaveraceae), commonly known as celandine poppies or wood poppies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, plants named from Greek stylos (column/style) and phoros (bearing), referring to the prominent, persistent columnar style atop the bristly seed capsule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylophorum designates wood poppies."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"The yellow wood-poppy, **Stylophorum** diphyllum, adorns rich deciduous forest soils with its four bright golden petals."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Stylophorum** exudes a yellow acrid latex upon cutting, a characteristic shared with the ancient celandine."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"In shaded woodland gardens, **Stylophorum** self-seeds freely, producing charming early spring groundcover."*

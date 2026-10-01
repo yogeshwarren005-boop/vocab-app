@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hystricidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of hystricidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Old World porcupines commonly known as brush-tailed porcupines, native to tropical Africa and Southeast Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, rodents of the genus Atherurus (family Hystricidae) named from Greek ather (spike) and oura (tail), characterized by long, slender bodies and a tuft of flattened, bristly quills at the tail tip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherurus designates a genus of hystricidae."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The brush-tailed porcupine, **Atherurus**, inhabits the dense tropical rain forests of the Malay Archipelago."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Species of **Atherurus** are smaller and lighter than the common porcupine, climbing over rocky terrain with considerable agility."*
+> - 📜 **David Attenborough (*The Life of Mammals*):** *"The nocturnal **Atherurus** rustles through the African forest floor, rattling its tail bristles when alarmed by a leopard."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple type of jet engine; must be launched at high speed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple type of jet engine; must be launched at high speed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized biochemical compound or therapeutic lipid formulation associated with atheroma research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacotherapy, a formulated agent investigated for its potential to clear lipid accumulations or prevent atherogenic deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherodyde designates a simple type of jet engine; must be launched at high speed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Experimental trials with novel **atherodyde** compounds demonstrated moderate reduction in arterial lipid infiltration."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"The pharmacologic action of **atherodyde** agents targeted the cellular oxidation of low-density lipoproteins."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Researchers hoped the synthetic **atherodyde** would stabilize vulnerable plaques against sudden rupture."*

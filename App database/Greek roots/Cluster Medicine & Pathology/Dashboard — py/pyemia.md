@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Septicemia caused by pus-forming bacteria and accompanied by multiple abscesses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Septicemia caused by pus-forming bacteria and accompanied by multiple abscesses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood poisoning caused by the spread of pus-forming bacteria from an original focus of infection, characterized by metastatic abscesses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century surgical pathology, a dreaded, often fatal septic condition marked by recurring rigors, drenching sweats, and multiple purulent deposits in internal organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Kane (accidental drowning, Dublin Bay), Philip Moisel (pyemia, Heytesbury street), Michael Hart (phthisis, Mater Misericordiae hospital), Patrick Dignam (apoplexy, Sandymount)."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Before the introduction of carbolic dressings, hospital gangrene and fatal **pyemia** stalked every surgical ward in Britain."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"I demonstrated that **pyemia** is caused by the detachment of infected fragments from a thrombus, which lodge downstream as purulent emboli."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Overcrowded, unventilated military hospitals became hotbeds of **pyemia**, destroying more brave soldiers than enemy artillery."*

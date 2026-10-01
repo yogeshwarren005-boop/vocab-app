@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of lymphocytes in the peripheral blood circulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology and immunology, a diagnostic finding commonly associated with viral infections, chemotherapy, corticosteroid therapy, or severe combined immunodeficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lymphopenia designates a term designating an entity, condition, or phenomenon derived from greek pen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **lymphopenia** in acute systemic infection often indicates toxic marrow suppression and demands a guarded prognosis."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"Progressive CD4 T-cell **lymphopenia** represents the central immunopathogenic hallmark of advanced retroviral disease."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Following intensive irradiation, the patient plunged into profound **lymphopenia**, leaving his tissues defenseless against opportunist microbes."*

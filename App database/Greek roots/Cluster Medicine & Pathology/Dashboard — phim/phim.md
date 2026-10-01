@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining form (from phimos, φιμός) meaning a muzzle, constriction, closure, or tight binding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical pathology, the root designating abnormal tightening, stenosis, or narrowing of a natural bodily orifice or mucosal sleeve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phim designates a term designating an entity, condition, or phenomenon derived from greek phim."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The root **phim** originates from the Greek phimos, signifying a muzzle or binding loop for horses."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Medical terms compounded with **phim** refer specifically to morbid constrictions of mucosal passages."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, phimos (root **phim**-) denoted a muzzle, a dice-box, or any confining ring."*

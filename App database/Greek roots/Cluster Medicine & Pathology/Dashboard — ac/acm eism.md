@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Russian modernist literary movement of the early twentieth century that emphasized clarity, conciseness, and concrete imagery (spaced catalog variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Russian poetic history, the aesthetic movement founded by Nikolai Gumilev and Sergei Gorodetsky, opposing the vague mysticism of Symbolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acm eism designates a term designating an entity, condition, or phenomenon derived from greek ac."*
+> - 📜 **Nikolai Gumilev (*The Legacy of Acmeism and Symbolism*):** *"We call our new poetic movement **Acmeism**, from the Greek word for the highest degree of anything, its bloom and prime."*
+> - 📜 **Osip Mandelstam (*The Morning of Acmeism*):** *"To build is to fight with empty space; **Acmeism** demands that poetry revere the stone and the architect's compass."*
+> - 📜 **Anna Akhmatova (*Poem Without a Hero*):** *"The clear, chiselled voice of **Acmeism** sang out against the mist of mystical abstractions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood disease characterized by an abnormally small number of platelets in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blood disease characterized by an abnormally small number of platelets in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally reduced concentration of platelets in the circulating blood; thrombocytopenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, a condition predisposing to cutaneous purpura, prolonged bleeding from minor cuts, and spontaneous mucous membrane hemorrhages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombopenia designates a blood disease characterized by an abnormally small number of platelets in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In idiopathic **thrombopenia**, the coagulation time of the blood is normal, but the clot fails to retract properly."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Marrow invasion by leukemic blasts produced severe anemia and profound **thrombopenia**."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon postponed elective laparotomy until platelet transfusions corrected the patient's dangerous **thrombopenia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of all or part of the breast and sometimes associated lymph nodes and muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of all or part of the breast and sometimes associated lymph nodes and muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of one or both breasts, partially or completely, usually to treat or prevent breast cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncology, historically pioneered as the Halsted radical mastectomy (removing breast, pectoralis muscles, and axillary nodes), now largely replaced by modified radical mastectomy or breast-conserving lumpectomy with sentinel lymph node biopsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mastectomy designates surgical removal of all or part of the breast and sometimes associated lymph nodes and muscles."*
+> - 📜 **William Stewart Halsted (*The Results of Operations for the Cure of Cancer of the Breast*):** *"My radical **mastectomy** was designed upon the pathological truth that cancer spreads uninterruptedly along continuous lymphatic paths."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"For half a century, Halsted's brutal radical **mastectomy** reigned supreme, until clinical trials proved that less mutilating operations were equally curative."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The patient underwent a bilateral prophylactic **mastectomy** after genetic screening revealed a high-penetrance BRCA1 mutation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lancelets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lancelets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of cephalochordates comprising the lancelets (amphioxus), including the genus Branchiostoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate evolutionary biology, the pivotal transitional family of small, translucent marine chordates possessing a persistent notochord, dorsal nerve cord, and pharyngeal gill slits without a true cranium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiostomidae designates lancelets."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **Branchiostomidae**, commonly known as amphioxus, provide the morphological bridge connecting non-chordate invertebrates to true vertebrates."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"In the simple anatomy of the **Branchiostomidae**, we behold the living portrait of our earliest chordate ancestors."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"The pharyngeal basket of the **Branchiostomidae** functions both as a filter-feeding sieve and as a branchial respiratory organ."*

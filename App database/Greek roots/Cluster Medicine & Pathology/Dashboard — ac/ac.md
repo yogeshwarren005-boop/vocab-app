@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: account.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: acre.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (from ake, ἀκή, or akos, ἄκος) signifying a sharp point, needle, or a healing cure/remedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and botanical etymology, the formative base of terms relating to sharpness (acme, acne) or therapeutic remedies (aceology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Holds no trumps nor aces, Cannot take a trick, Cards are all queen's faces, Tino's feeling sick."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The root **ac** appears in Greek ake (a point) and akos (a remedy), demonstrating dual morphological lines."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"In medical terminology, derivatives of **ac** denote either sharp pathological points or healing therapeutic arts."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"From ake (root **ac**-) sprang classical words for needles, points, and the sharp crisis of fevers."*

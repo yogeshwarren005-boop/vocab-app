@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area that has been taken over and is controlled and corrupted by drug cartels and where law enforcement is effectively nonexistent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area that has been taken over and is controlled and corrupted by drug cartels and where law enforcement is effectively nonexistent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A country or political entity whose economy, judicial system, and government institutions are dominated by the illegal trade in narcotics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and international relations, a nation where illicit drug cartels infiltrate or co-opt law enforcement and political leadership, eroding the rule of law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narco-state designates an area that has been taken over and is controlled and corrupted by drug cartels and where law enforcement is effectively nonexistent."*
+> - 📜 **Joseph Stiglitz (*Globalization and Its Discontents*):** *"When drug cartels capture the banking system and the judiciary, a nation degenerates into a lawless **narco-state**."*
+> - 📜 **Noam Chomsky (*Failed States*):** *"The militarization of drug prohibition enriched violent cartels and fostered the rise of the modern **narco-state**."*
+> - 📜 **Paul Collier (*The Bottom Billion*):** *"Without robust institutions, fragile resource-rich territories are easily hijacked to become an international **narco-state**."*

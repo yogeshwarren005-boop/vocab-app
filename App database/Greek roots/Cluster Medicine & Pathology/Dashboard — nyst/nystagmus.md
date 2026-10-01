@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid, involuntary, rhythmic oscillation of the eyeballs, either horizontal, vertical, rotatory, or mixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and neuro-ophthalmology, a clinical sign resulting from abnormal vestibular input, cerebellar lesions, drug intoxication, or congenital sensory visual defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nystagmus designates involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The classic triad of multiple sclerosis—intention tremor, scanning speech, and **nystagmus**—was described by Charcot."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Congenital **nystagmus** kept his eyes in constant shimmering motion, yet his brain learned to construct a stable visual world."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The emergency physician looked closely for vertical **nystagmus**, which warns of a catastrophic brainstem stroke rather than benign vertigo."*

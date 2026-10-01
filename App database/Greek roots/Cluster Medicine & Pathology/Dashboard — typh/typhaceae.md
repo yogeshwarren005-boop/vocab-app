@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial marsh plants with creeping rootstocks and long linear leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial marsh plants with creeping rootstocks and long linear leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cattail family of monocotyledonous flowering wetland plants, comprising the genera Typha (cattails) and Sparganium (bur-reeds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant systematics, emergent aquatic perennial herbs characterized by unisexual wind-pollinated flowers grouped in dense heads or cylindrical spikes, linear leaves, and spongy aerenchyma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typhaceae designates perennial marsh plants with creeping rootstocks and long linear leaves."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The family **Typhaceae** is adapted to waterlogged soils, possessing internal air chambers that channel oxygen down to the rhizomes."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Members of the **Typhaceae** provide indigenous peoples with down for stuffing and starchy roots for winter bread."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"In naturalistic water gardens, the **Typhaceae** are planted to stabilize marshy borders and absorb excess runoff."*

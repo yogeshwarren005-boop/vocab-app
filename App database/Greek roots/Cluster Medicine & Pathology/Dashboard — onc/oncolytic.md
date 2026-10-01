@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of bulk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of bulk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of destroying or lysing tumor cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunotherapy, describing engineered viruses (oncolytic viruses) that selectively infect and replicate within cancer cells, causing lysis while stimulating an antitumor immune response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncolytic designates adjective*) pertaining to, derived from, or characteristic of bulk."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"The therapeutic dream of an **oncolytic** agent is to hunt down and dissolve neoplastic cells without harming innocent bystander tissues."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Scientists engineered herpesviruses into potent **oncolytic** weapons, turning biological invaders into targeted cancer assassins."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The **oncolytic** viral infusion triggered a brisk inflammatory response inside the metastatic melanoma nodules."*

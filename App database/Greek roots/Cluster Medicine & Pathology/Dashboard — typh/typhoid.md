@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typhoid fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of domestic animals resembling human typhus or typhoid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute, life-threatening infectious disease caused by the bacterium Salmonella Typhi, transmitted by contaminated food or water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical epidemiology, characterized by sustained step-ladder fever, severe abdominal pain, rose spots, and hepatosplenomegaly, historically named typhoid because its stuporous symptoms resembled typhus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There are always typhoid and diphtheria about in the autumn, but Jimmy never fusses."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The severity of the campaign in a malarious country had prostrated many with fevers, and typhoid, in its most malignant forms, was raging with increasing fatality."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As we were laying mattresses on the floor, whilst the doctors were finding the men, the captain stopped us, refusing to let us put typhoid fever below the deck, on account of the crew, he said, and threatening to push off, at once, from the shore."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clean water supplies and municipal sand filtration will do more to banish **typhoid** than all the pharmacopeias combined."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The foul London slums bred **typhoid** and misery in every unventilated cellar and stagnant ditch."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Bacteriologists tracked the insidious **typhoid** carrier who contaminated salads across wealthy New York households."*

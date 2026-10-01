@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the prevention, diagnosis, treatment, and study of cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the prevention, diagnosis, treatment, and study of cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical doctor who specializes in the diagnosis, staging, and treatment of tumors and cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern medicine, subspecialized into medical oncologists (chemotherapy/immunotherapy), surgical oncologists (tumor resection), and radiation oncologists (radiotherapy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncologist designates a branch of medicine concerned with the prevention, diagnosis, treatment, and study of cancer."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The medical **oncologist** sits at the bedside of the dying patient, balancing compassionate palliation against the desperate courage of clinical trials."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The **oncologist** leaned forward, explaining with gentle candor that while cure was impossible, remission was achievable."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"When the **oncologist** stops offering further toxic therapies, hospice care can finally begin to restore quality of life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in style or elegance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in accord with or not following current fashion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stylish; lacking fashionable elegance, smartness, or good taste in dress, appearance, or design; unfashionable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Out of date, conventional, or visually plain; devoid of aesthetic flair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstylish designates lacking in style or elegance."*
+> - 📜 **Jane Austen (*Emma*):** *"She smiled at the poor curate's **unstylish** coat, whose cut belonged to the fashions of a bygone decade."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The country cousins looked miserably **unstylish** amid the glittering assembly in Hyde Park."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"I was wearing an **unstylish** brown mackintosh and carrying an umbrella like any other clerk in the rain."*

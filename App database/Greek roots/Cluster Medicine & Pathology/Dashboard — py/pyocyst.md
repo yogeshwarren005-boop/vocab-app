@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek py.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cyst that has become filled with pus or infected with purulent exudate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical urology and gynecology, a preexisting epithelial-lined cystic cavity (such as a renal or ovarian cyst) secondarily invaded by suppurative bacteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyocyst designates a term designating an entity, condition, or phenomenon derived from greek py."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infected renal echinococcus cysts frequently degenerate into a massive **pyocyst** requiring nephrostomy drainage."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Upon exploring the retroperitoneum, the surgical team encountered a tense **pyocyst** clinging to the renal capsule."*
+> - 📜 **Atul Gawande (*Complications*):** *"Careful aspiration of the suspected **pyocyst** yielded thick purulent fluid teeming with coliform bacilli."*

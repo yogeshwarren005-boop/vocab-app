@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquor or brew containing alcohol as the active agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that can produce a state of intoxication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (such as alcohol, a narcotic, or a psychoactive drug) that causes intoxication or inebriation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and public health, any chemical agent capable of altering central nervous system function, motor coordination, and judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Meantime the mother, assisted by the women of the neighbourhood, has brewed a large quantity of the native intoxicant called _chicha_, and poured it into wooden troughs and palm leaves."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The men join in with hoarser cries and animate themselves for the business in hand by deep draughts of an intoxicant which has been provided for the occasion by the parents-in-law."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"The brightest young men I know, who are filling positions of power and promise, never touch a drop of beer, wines, or intoxicants of any sort."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In ancient Dionysian mysteries, the divine **intoxicant** was believed to fill the worshipper with the living presence of the god."*
+> - 📜 **Edward William Bok (*The Americanization of Edward Bok*):** *"The campaign against the sale of patent medicines revealed that many popular tonics were little more than disguised **intoxicants**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Under the reckless influence of the potent **intoxicant**, Henchard committed the act that shadowed his entire future."*

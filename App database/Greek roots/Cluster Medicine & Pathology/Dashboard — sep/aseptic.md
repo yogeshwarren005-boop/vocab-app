@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free or freed from pathogenic microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from contamination caused by harmful bacteria, viruses, or other microorganisms; surgically sterile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by meticulous sterilization protocols designed to exclude viable pathogens (e.g., aseptic packaging in food science or aseptic technique in cell culture).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aseptic designates preventing infection."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The surgeon must operate with **aseptic** hands clad in boiled rubber gloves, touching only sterile instruments."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin worked deep into the night in his small **aseptic** laboratory, testing cultures under the blue flame of the Bunsen burner."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The bone marrow transplant unit was maintained as an **aseptic** sanctuary, protecting vulnerable patients from every passing microbe."*

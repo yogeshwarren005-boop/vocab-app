@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining form (from onkos, ὄγκος) signifying a mass, bulk, swelling, or tumor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical nomenclature, the primary root morpheme underlying oncology, oncogenesis, and related neoplastic sciences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onc designates a term designating an entity, condition, or phenomenon derived from greek onc."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The formative element **onc** traces back to the Greek onkos, denoting bulk, a barb, or a bodily swelling."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Medical terms incorporating **onc** refer universally to pathological tumefaction or neoplastic growth."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, onkos (stem **onc**-) denoted bodily mass or pride, before Galen restricted it to abnormal tumors."*

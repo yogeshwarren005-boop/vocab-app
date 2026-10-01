@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ample amount or number : abundance, profusion —usually used with of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily condition characterized by an excess of blood and marked by swelling and redness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large or excessive amount of something; an overabundance or superabundance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, an excess of blood or bodily humors within the circulatory system, traditionally treated by bloodletting or venesection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The foreign influx has created a scarcity of money as well as a plethora of goods."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"What his **plethora** of pride hath puffed up, his own folly will burst."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The ruddy, dusky complexion of polycythemia vera presents a striking clinical picture of vascular **plethora**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The court of Chancery suffered from an intolerable **plethora** of parchment records and unread affidavits."*

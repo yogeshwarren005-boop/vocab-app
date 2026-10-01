@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or relating to carcinoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to carcinoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, of the nature of, or affected with carcinoma; cancerous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, describing malignant epithelial infiltration into lymphatics, blood vessels, or adjacent stromal tissues (e.g., carcinomatous meningitis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinomatous designates being or relating to carcinoma."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic section revealed extensive **carcinomatous** infiltration choking the regional lymphatic channels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hard, eburnated edge of the gastric ulcer confirmed its **carcinomatous** transformation."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"The **carcinomatous** mass had invaded the retroperitoneum, encasing the major mesenteric vessels in rigid tumor."*

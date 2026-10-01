@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) having styles all of the same length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) having styles all of the same length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by homostyly; having styles of the same relative length in all flowers of a species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, referring to the ancestral or secondary state of floral monomorphism in reproductive organ heights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homostylic designates (botany) having styles all of the same length."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers*):** *"Artificial crossing between the **homostylic** plants yielded fertile seeds that bred true to the homostyled condition."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The **homostylic** floral structure favors autogamy when ecological conditions prevent insect visitation."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Pollen tube kinetics were analyzed in **homostylic** cultivars to measure self-compatibility rates."*

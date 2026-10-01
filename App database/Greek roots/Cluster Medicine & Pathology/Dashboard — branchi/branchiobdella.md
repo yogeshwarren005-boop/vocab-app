@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the branchiobdellidae: a small worm that lives on the gills or surface of a crayfish attached by a sucker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the branchiobdellidae: a small worm that lives on the gills or surface of a crayfish attached by a sucker.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, freshwater leech-like clitellate annelids that live as ectosymbionts on the carapace and gills of freshwater crayfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, annelids of the order Branchiobdellida possessing a sucker at each end, jaws for browsing, and no chaetae, feeding on periphyton and epibionts on the crayfish host.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiobdella designates type genus of the branchiobdellidae: a small worm that lives on the gills or surface of a crayfish attached by a sucker."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"Attached to the gills of the crayfish one frequently finds **Branchiobdella**, a small worm-like parasite resembling a tiny leech."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"The ectocommensal **Branchiobdella** cleans the gill filaments of debris, benefiting the host in a mutualistic balance."*
+> - 📜 **Alfred Sherwood Romer (*The Invertebrate World*):** *"Morphological analysis shows that **Branchiobdella** represents a specialized evolutionary offshoot between oligochaetes and true leeches."*

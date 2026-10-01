@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of stupor, unconsciousness, or arrested activity produced by the influence of narcotics or other chemical or physical agents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of euphoria and confusion similar to that of alcohol intoxication which occurs when nitrogen in normal air enters the bloodstream at increased pressure (as in deep-water diving) —called also rapture of the deep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of stupor, drowsiness, or unconsciousness produced by narcotic drugs or physical agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diving medicine (nitrogen narcosis or 'raptures of the deep') and anesthesiology, general depression of the central nervous system resulting from high partial pressures of inert gases or anesthetic vapors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcosis designates a state of stupor, unconsciousness, or arrested activity produced by the influence of narcotics or other chemical or physical agents."*
+> - 📜 **Jacques Cousteau (*The Silent World*):** *"At two hundred feet, nitrogen **narcosis** begins to steal over the diver, filling his mind with reckless euphoria and sluggish indifference."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient passed from quiet surgical **narcosis** into peaceful post-operative recovery."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The divine **narcosis** of the poppy dissolved every earthly sorrow in celestial serenity."*

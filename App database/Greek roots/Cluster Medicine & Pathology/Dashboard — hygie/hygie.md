@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hygie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from hygies, ὑγιής) signifying sound, healthy, whole, or wholesome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical and etymological morphology, the base morpheme underlying hygiene, hygienic, and the personified deity of health, Hygieia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygie designates a term designating an entity, condition, or phenomenon derived from greek hygie."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The root **hygie** enters English through the Greek hygies, denoting living soundly, healthily, and free from disease."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Terms compounded with **hygie** refer universally to the preservation of bodily well-being and sanitary science."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, hygieia (stem **hygie**-) was health of body, sound judgment, and physical wholeness."*

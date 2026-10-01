@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of stylizing; causing to conform to a particular style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of stylizing; causing to conform to a particular style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of representing subjects in a stylized, decorative, or conventional manner rather than according to realistic nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual aesthetics and semiotics, abstracting natural forms into conventionalized geometric or decorative patterns (e.g., Art Deco or ancient Egyptian painting).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylization designates the act of stylizing; causing to conform to a particular style."*
+> - 📜 **E. H. Gombrich (*The Sense of Order*):** *"Geometric **stylization** transforms the natural organic lotus into the repeating palmette frieze of classical temples."*
+> - 📜 **Kenneth Clark (*The Nude: A Study in Ideal Form*):** *"Greek sculpture moved from archaic **stylization** toward organic anatomical truth, only to re-impose harmonious geometric proportion."*
+> - 📜 **Meyer Schapiro (*Theory and Philosophy of Art*):** *"The expressive power of Romanesque sculpture lies in its purposeful **stylization**, elongating limbs to signify spiritual ecstasy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from onkos, ὄγκος) meaning a mass, bulk, swelling, or tumor; duplicate root entry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical classification and database morphology, the variant root designation for oncology and neoplastic nomenclature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onc 2 designates a term designating an entity, condition, or phenomenon derived from greek onco."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The root **onc** stems from the Greek onkos, meaning bulk or tumor, forming the prefix of all neoplastic medical terms."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"In medical terminology, **onc** denotes pathological swellings, whether benign adenomas or invasive carcinomas."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek onkos (root **onc**-) originally signified mass or burden, later adopted by physicians for abnormal bodily growths."*

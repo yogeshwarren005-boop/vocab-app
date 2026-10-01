@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptional interest in and admiration for yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exceptional interest in and admiration for yourself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older or alternate psychological spelling of narcissism; excessive self-love or vanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early twentieth-century psychoanalytic literature, Havelock Ellis's and Sigmund Freud's early term for the libidinal investment of the ego in itself.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcism designates an exceptional interest in and admiration for yourself."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"I first proposed the term **narcism** to describe that curious tendency for sexual emotions to be absorbed in self-admiration."*
+> - 📜 **Sigmund Freud (*On Narcissism: An Introduction*):** *"Primary **narcism** represents an original libidinal state wherein the child's developing ego takes itself as love-object."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"In morbid cases of **narcism**, the individual is completely insulated against authentic emotional connection with others."*

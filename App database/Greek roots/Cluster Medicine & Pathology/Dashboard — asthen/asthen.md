@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek asthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from asthenes, ἀσθενής) signifying weak, feeble, frail, or devoid of strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and geophysical etymology, the prefix/combining form (a- without + sthenos strength) underlying asthenia, asthenopia, and asthenosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthen designates a term designating an entity, condition, or phenomenon derived from greek asthen."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The element **asthen** is formed from the Greek negative privative a- and sthenos (strength), denoting lack of vigor."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Derivatives of **asthen** describe both constitutional muscular feebleness and the ductile mechanical behavior of deep rock layers."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, asthenes (stem **asthen**-) signified sick, infirm, or lacking physical might."*

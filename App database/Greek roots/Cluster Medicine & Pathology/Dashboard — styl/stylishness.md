@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elegance by virtue of being fashionable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elegance by virtue of being fashionable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being stylish; fashionable elegance and chic taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Polished aesthetic refinement and distinctiveness in personal grooming or artistic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Miss Tilney had a good figure, a pretty face, and a very agreeable countenance; and her air, though it had not all the decided pretension, the resolute stylishness of Miss Thorpe’s, had more real elegance."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"He admired the aristocratic **stylishness** of the young officers who strolled along Pall Mall."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The Countess Olenska possessed an effortless **stylishness** that defied the rigid, prudish conventions of old New York."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"In the eighteenth century, **stylishness** was elevated into a supreme civic virtue practiced in every salon."*

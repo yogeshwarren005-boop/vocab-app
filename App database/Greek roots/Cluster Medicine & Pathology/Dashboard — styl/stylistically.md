@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhetorically stylistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhetorically stylistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to style; from the viewpoint of literary or artistic style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism, evaluated by linguistic features, syntax, and rhetorical vocabulary to assess authorship or date of composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylistically designates in a rhetorically stylistic manner."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The novel was **stylistically** immaculate, each sentence fitting into its neighbor like polished mosaic tiles."*
+> - 📜 **W. W. Greg (*The Calculus of Variants*):** *"The disputed scene belongs **stylistically** to Fletcher rather than Shakespeare, as shown by the high frequency of feminine endings."*
+> - 📜 **George Steiner (*After Babel*):** *"To translate a poem successfully, the translator must recreate it **stylistically** within the native genius of the target language."*

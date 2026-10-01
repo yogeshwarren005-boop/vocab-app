@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no gills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no gills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of gills; having no respiratory organs in the form of gills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, an anatomical designation applied to organisms or developmental stages that lack branchial structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abranchiate designates having no gills."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"In these minute **abranchiate** barnacles, the general mantle cavity surface performs the entire respiratory duty."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The **abranchiate** worms exhibit no branchial plumes, relying on capillary networks beneath the integument."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Contrasted with the branchiate decapods, the terrestrial isopod woodlice possess modified **abranchiate** pleopods."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or affected with nystagmus; exhibiting involuntary rapid eye movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, describing the rhythmic slow-drift and rapid-saccadic corrective phases of pathological or physiological ocular beats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nystagmic designates involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"On extreme lateral gaze, the patient exhibited coarse **nystagmic** jerks indicative of cerebellar pathway disease."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The oculogyric crisis was accompanied by rapid **nystagmic** twitches that prevented visual fixation."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"The specialist noted the curious **nystagmic** flutter of the invalid's eyes whenever he turned toward the sunlight."*

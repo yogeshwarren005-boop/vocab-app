@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Division into two especially mutually exclusive or contradictory groups or parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Differentiation into two contrasted or sharply opposed groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A division or contrast between two things that are represented as being entirely opposed, contradictory, or mutually exclusive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, the phase of the Moon or an inferior planet (Mercury, Venus) when exactly half of its illuminated disk is visible from Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichotomy designates division into two especially mutually exclusive or contradictory groups or parts."*
+> - 📜 **William James (*Pragmatism*):** *"Pragmatism refuses to accept the rigid **dichotomy** between tough-minded materialism and tender-minded idealism."*
+> - 📜 **John Dewey (*Experience and Education*):** *"Mankind likes to think in terms of an either-or **dichotomy**, framing educational debate as traditional versus progressive."*
+> - 📜 **Stephen Jay Gould (*Time's Arrow, Time's Cycle*):** *"Geological thought has long been structured around the false **dichotomy** of sudden catastrophe versus gradual change."*

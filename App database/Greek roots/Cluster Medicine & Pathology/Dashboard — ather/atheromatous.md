@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling atheroma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling atheroma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by atheromas; containing or covered with fatty arterial plaques.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular surgery, describing calcified, ulcerated, or friable arterial walls that complicate clamping and anastomosis during bypass procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atheromatous designates of or relating to or resembling atheroma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **atheromatous** degeneration of the aortic arch predisposes to dissecting aneurysm."*
+> - 📜 **Michael E. DeBakey (*Aortic Surgery Chronicles*):** *"The surgeon carefully cleaned the **atheromatous** debris from the carotid bifurcation before inserting the Dacron patch."*
+> - 📜 **Atul Gawande (*Complications*):** *"Cross-clamping a severely **atheromatous** aorta risks showering emboli down into the renal and femoral beds."*

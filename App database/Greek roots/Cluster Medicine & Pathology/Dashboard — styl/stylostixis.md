@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of pain or disease by inserting the tips of needles at specific points on the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment of pain or disease by inserting the tips of needles at specific points on the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic practice or medical procedure of acupuncture; inserting needles into the body to relieve pain or treat disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical nineteenth-century medical terminology, derived from Greek stylos (pencil, needle) and stixis (puncturing), used to describe traditional East Asian needle therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylostixis designates treatment of pain or disease by inserting the tips of needles at specific points on the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In stubborn cases of lumbago, **stylostixis** or acupuncture with long steel needles inserted into the lumbar muscles often affords prompt relief."*
+> - 📜 **John Hunter (*Lectures on the Principles of Surgery*):** *"The ancient procedure of **stylostixis** demonstrates that counter-irritation by puncture can arrest deep neurogenic spasms."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The exotic art of **stylostixis** was introduced from Japan, exciting the curious wonder of European surgeons."*

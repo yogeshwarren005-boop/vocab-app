@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in style or elegance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in style or elegance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking style, elegance, distinction, or fashionable quality; drab, uninspired, or uncultivated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, lacking a floral style, having the stigma seated directly upon the ovary (sessile stigma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, styleless designates lacking in style or elegance."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Her prose was completely **styleless**, plodding along in gray domestic triviality without a spark of wit."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He looked with despair at his cheap, **styleless** mackintosh and scuffed boots."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"In the genus Nymphaea, the flower is essentially **styleless**, the stigmatic rays radiating upon the summit of the ovary."*

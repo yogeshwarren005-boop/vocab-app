@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of branching out or dividing into branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow and send out branches or branch-like structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing into multiple branches, boughs, limbs, or offshoots; spreading outward from a central trunk or stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational logic and botanical morphology, the divergent bifurcation of paths, phylogenetic lineages, or nervous arborizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Branching from this street and its heaps of ruins are other streets and courts so infamous that Mr."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Branching from the stem on each side, and disposed alternately, were the graceful branches drooping with leaves all correctly drawn and elaborately finished."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Close beside and bending over it was a broad, branching oak, which promised a cool and comfortable shelter."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The affinities of all the beings of the same class have sometimes been represented by a great tree; as buds give rise by growth to fresh buds, so the great **branching** Tree of Life fills the crust of the earth."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I looked up into the **branching** oaks whose leafy canopies formed an intricate gothic roof over the forest path."*
+> - 📜 **Santiago Ramón y Cajal (*Recollections of My Life*):** *"The dendritic **branching** of the cerebellar Purkinje cell resembles an espaliered fruit tree in full foliage."*

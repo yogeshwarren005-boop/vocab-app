@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hygie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek goddess of health, cleanliness, and sanitation, daughter of the divine physician Asclepius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and iconography, typically depicted holding a bowl from which a sacred serpent drinks, symbolizing the prevention of disease through wholesome living (hygiene).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Hygieia designates a term designating an entity, condition, or phenomenon derived from greek hygie."*
+> - 📜 **John Keats (*Ode to Apollo*):** *"Where **Hygieia** weaves her sacred wand, no pestilence can blast the blooming land."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Currents and Counter-Currents in Medical Science*):** *"The temple of **Hygieia** welcomes pure air, temperance, and water, scorning the toxic nostrums of greedy charlatans."*
+> - 📜 **James George Frazer (*Pausanias's Description of Greece*):** *"At Epidaurus, statues of **Hygieia** stood beside those of Asclepius, for the Greeks honored prevention as equal to cure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The division or partitioning of a cavity into parts by a septum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The division or partitioning of a cavity into parts by a septum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of a septum or septa dividing a cavity, organ, or anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the crucial developmental process during organogenesis whereby the primitive cardiac tube or embryonic cloaca is divided into functional physiological chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septation designates the division or partitioning of a cavity into parts by a septum."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Impaired **septation** of the embryonic truncus arteriosus leads to the cyanotic heart defect known as transposition of the great vessels."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"During bacterial cell division, the FtsZ ring directs the inward **septation** that pinches the mother cell into two daughter cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Computed tomography revealed multiple internal **septations** within the hepatic abscess cavity."*

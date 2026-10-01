@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the structure of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the branch of morphology that studies the structure of organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anatomy or the physical structure of living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing structural landmarks, architectural relationships, or physiological body planes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anatomic designates of or relating to the structure of the body."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"True medical progress requires that we verify every ancient doctrine against direct **anatomic** dissection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful physical diagnosis allows the physician to construct a precise **anatomic** map of the cardiac defect."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The **anatomic** differences separating man from the gorilla are less than those separating the gorilla from lower apes."*

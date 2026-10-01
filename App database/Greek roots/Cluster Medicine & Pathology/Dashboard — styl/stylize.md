@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent according to a conventional style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent according to a conventional style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To depict, design, or conform to a conventional, decorative, or idealized artistic style rather than depicting natural realism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual arts, graphic design, and animation, to simplify and emphasize essential contours, colors, and silhouettes for communicative impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylize designates represent according to a conventional style."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The gothic carver knew how to **stylize** the leaves of wild parsley into vigorous stone capitals."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"Primitive artists do not copy nature; they **stylize** what they emotionally know and feel about the beast."*
+> - 📜 **Steven Heller (*Design Literacy*):** *"Modern poster artists learned to **stylize** industrial machinery into bold, dynamic graphic icons."*

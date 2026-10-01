@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an autacoid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an autacoid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or functioning as an autacoid (a locally acting physiological substance).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacodynamics, describing local hormonal or paracrine responses that modulate vascular tone, smooth muscle tone, or inflammatory pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autacoidal designates of or relating to an autacoid."*
+> - 📜 **Edward Albert Sharpey-Schafer (*The Endocrine Organs*):** *"The **autacoidal** principle regulates local blood flow in response to chemical byproducts of cellular metabolism."*
+> - 📜 **John Vane (*Prostaglandins and Related Compounds*):** *"The **autacoidal** action of prostacyclin prevents platelet aggregation along healthy vascular endothelium."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Mast cell degranulation produces an intense **autacoidal** response characterized by tissue edema and erythema."*

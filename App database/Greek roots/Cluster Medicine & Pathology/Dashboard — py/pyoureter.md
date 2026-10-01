@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek py.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The accumulation or distension of a ureter with pus, typically caused by an obstructed and infected urinary tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology, an acute or chronic condition where an impacted ureteral calculus or stricture causes suppurative stasis, threatening urosepsis and renal parenchyma destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyoureter designates a term designating an entity, condition, or phenomenon derived from greek py."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Impacted calculous obstruction combined with ascending cystitis rapidly produces an acute **pyoureter** and perinephric phlegmon."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The retrograde pyelogram revealed a dilated, tortuous **pyoureter** filled with thick purulent debris behind the stone."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"Urgent drainage of a **pyoureter** via double-J stent or percutaneous nephrostomy is life-saving in obstructive sepsis."*

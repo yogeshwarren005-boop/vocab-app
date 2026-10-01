@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or practicing oncology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or practicing oncology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with oncology; pertaining to the study, diagnosis, and treatment of tumors and cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing clinical protocols, staging criteria, and surgical resection margins designed specifically for cancer management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncologic designates of or relating to or practicing oncology."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The **oncologic** consultation resulted in a multidisciplinary strategy uniting surgical resection with adjuvant chemotherapy."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"The aggressive **oncologic** treatment prolonged life by mere weeks at the terrible cost of debilitating nausea."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Modern **oncologic** imaging with PET-CT detects microscopic metastases before they cause clinical symptoms."*

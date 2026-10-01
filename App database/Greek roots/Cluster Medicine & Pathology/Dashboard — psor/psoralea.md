@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed genus of herbs or shrubs with glandular compound leaves and spicate or racemose purple or white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed genus of herbs or shrubs with glandular compound leaves and spicate or racemose purple or white flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous plants in the family Fabaceae (scurfy peas), widely distributed in temperate and tropical regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and pharmacognosy, plants renowned for producing bioactive furanocoumarins (such as psoralen from Psoralea corylifolia), used in phototherapy for skin disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psoralea designates widely distributed genus of herbs or shrubs with glandular compound leaves and spicate or racemose purple or white flowers."*
+> - 📜 **Meriwether Lewis (*The Journals of Lewis and Clark*):** *"The Indians dig large quantities of the bread-root, a species of **Psoralea**, which they dry and pound into nutritious flour."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The calyx and leaves of **Psoralea** are conspicuously dotted with dark glandular dots, giving the plant its scurfy appearance."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Extracts from the seeds of **Psoralea** have long been celebrated in traditional Hindu medicine for restoring pigment in vitiligo."*

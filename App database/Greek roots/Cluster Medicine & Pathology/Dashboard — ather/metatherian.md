@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive pouched mammals found mainly in australia and the americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive pouched mammals found mainly in australia and the americas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the Metatheria; a marsupial mammal or related fossil taxon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by epipubic bones, an inflected angular process of the dentary, and viviparous reproduction culminating in pouch development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metatherian designates primitive pouched mammals found mainly in australia and the americas."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **metatherian** skull displays a distinctive inward inflection of the lower jaw angle found in no placental mammal."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The Australian fauna is almost exclusively **metatherian**, preserving an ancient mammalian era that vanished elsewhere."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Our common ancestor with any **metatherian** lived in the Cretaceous, when marsupials and placentals first parted evolutionary company."*

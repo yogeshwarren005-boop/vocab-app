@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek py.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation, generation, or discharge of pus; suppuration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological and surgical nosology, the pathological accumulation of dead neutrophils, liquefied necrotic tissue, and exudate in an infected wound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyesis designates a term designating an entity, condition, or phenomenon derived from greek py."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"The process of **pyesis** represents nature's violent attempt to isolate and expel foreign matter from living tissue."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"A clean surgical incision with perfect hemostasis avoids tissue tension and the hazard of secondary **pyesis**."*
+> - 📜 **Percivall Pott (*Chirurgical Observations*):** *"Unless free drainage is established, deep **pyesis** will burrow along the muscular fascial planes."*

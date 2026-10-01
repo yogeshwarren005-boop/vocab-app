@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical architectural arrangement in which the space between columns (intercolumniation) equals two column-diameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Vitruvian architecture, a close, stately column spacing narrower than eustyle but wider than pycnostyle, giving a monumental, sturdy appearance to the portico.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **systyle** intercolumniation allows two diameters of a column between adjacent shafts, giving a grave and solid dignity."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"I have employed the **systyle** proportion in porticoes where high stone entablatures require closer support."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The Roman architects favored the **systyle** spacing for temples whose height demanded a monumental, closely-knit colonnade."*

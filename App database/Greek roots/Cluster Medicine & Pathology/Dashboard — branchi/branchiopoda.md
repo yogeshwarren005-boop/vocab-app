@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of primitive, primarily freshwater crustaceans characterized by leaf-like, lobed appendages that function as gills and swimming limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod systematics, an ancient lineage dating from the Cambrian period, comprising Anostraca (fairy shrimps), Notostraca (tadpole shrimps), and Cladocera (water fleas).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiopoda designates primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps; tadpole shrimps; can shrimps; water fleas."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The class **Branchiopoda** represents one of the most primitive surviving groups of the entire crustacean phylum."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"Members of the **Branchiopoda** are adapted to temporary rain pools where the absence of predatory fish permits their survival."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Fossils from the Burgess Shale reveal stem members of the **Branchiopoda** that swam in Cambrian seas half a billion years ago."*

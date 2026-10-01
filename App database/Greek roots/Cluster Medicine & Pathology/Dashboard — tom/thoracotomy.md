@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the chest wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision of the chest wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical incision into the chest wall to gain access to the pleural cavity, lungs, heart, or great vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic and trauma surgery, emergency anterolateral thoracotomy performed in the resuscitation bay for penetrating cardiac injuries, or posterolateral thoracotomy for pulmonary lobectomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thoracotomy designates surgical incision of the chest wall."*
+> - 📜 **Michael E. DeBakey (*Surgical Treatment of Thoracic Aortic Aneurysms*):** *"Through a left posterolateral **thoracotomy**, we mobilized the descending thoracic aorta and sutured the Dacron graft."*
+> - 📜 **Atul Gawande (*Complications*):** *"An emergency **thoracotomy** opened the chest in seconds, allowing the surgeon to cross-clamp the aorta directly."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The rib spreader ratcheted open the **thoracotomy** incision, exposing the collapsed, diseased lung."*

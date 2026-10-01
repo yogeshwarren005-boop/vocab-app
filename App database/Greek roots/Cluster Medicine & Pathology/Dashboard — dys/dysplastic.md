@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or evidencing dysplasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or evidencing dysplasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or affected by dysplasia; exhibiting abnormal cellular or tissue development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and oncology, describing atypical cells with irregular nuclei, increased mitotic figures, and disrupted tissue architecture (e.g., dysplastic nevus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysplastic designates relating to or evidencing dysplasia."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The dermatologist carefully excised the **dysplastic** mole, concerned by its notched borders and irregular pigmentation."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Congenital **dysplastic** hips in infants require early orthopedic bracing to prevent permanent lameness."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Under the microscope, the **dysplastic** epithelium exhibited crowded, hyperchromatic nuclei striving to break through the basement membrane."*

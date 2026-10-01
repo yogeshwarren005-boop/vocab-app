@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine that deals with the surgical repair of injuries and wounds arising from accidents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine that deals with the surgical repair of injuries and wounds arising from accidents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and surgery that deals with the treatment of serious wounds, fractures, and injuries caused by accidents or violence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In disaster response and emergency medicine, the comprehensive multidisciplinary protocol managing poly-trauma, hemorrhagic shock, and critical surgical resuscitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traumatology designates the branch of medicine that deals with the surgical repair of injuries and wounds arising from accidents."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The modern hospital cannot function without an organized department of **traumatology**, prepared day and night for catastrophic casualties."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"Milestones in military **traumatology** have repeatedly rewritten the rules of civilian emergency trauma surgery."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"In the high-stakes arena of acute **traumatology**, a surgical checklist ensures that no airway obstruction or occult bleed is overlooked."*

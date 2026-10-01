@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that produces cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance that produces cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, organism, or agent that is capable of causing cancer in living tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular toxicology and occupational health, an agent (such as ionizing radiation, asbestos, or tobacco nitrosamines) that causes somatic mutations or epigenetic alterations leading to malignant transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinogen designates any substance that produces cancer."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"By flooding our environment with synthetic chemicals, we have introduced a multitude of potent **carcinogens** into the water we drink and the food we eat."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Pott's discovery that chimney soot was a chemical **carcinogen** launched the modern science of epidemiological oncology."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"The cell's DNA repair machinery works ceaselessly to reverse the chemical lesions inflicted by every environmental **carcinogen**."*

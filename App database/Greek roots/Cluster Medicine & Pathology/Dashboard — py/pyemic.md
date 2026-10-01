@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pyemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pyemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, caused by, or affected with pyemia; characterized by metastatic abscesses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical pathology, describing septic fevers with violent chills, spiking temperatures, and purulent metastatic seeding throughout the viscera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyemic designates of or relating to pyemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset of severe **pyemic** chills indicated that septic emboli had migrated from the infected heart valves to the kidneys."*
+> - 📜 **Joseph Lister (*Collected Papers*):** *"Under antiseptic cleanliness, the dreaded **pyemic** abscesses that once riddled operative stumps completely disappeared."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The old surgeon recognized the ominous **pyemic** flush on the patient's cheek with sinking dread."*

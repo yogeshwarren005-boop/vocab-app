@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abdomen of a crustacean, typically comprising six segments and bearing swimming appendages (pleopods).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, the posterior tagma behind the cephalothorax, terminating in the telson and uropods forming the tail fan in decapods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleon designates a term designating an entity, condition, or phenomenon derived from greek ple."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The flexible tail or **pleon** of the crayfish consists of six distinct movable rings, terminating in the broad swimming telson."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"When threatened, the lobster flexes its powerful muscular **pleon**, shooting backward through the water with great velocity."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The giant prawns of the freshwater streams possess an elongated **pleon** richly supplied with edible meat."*

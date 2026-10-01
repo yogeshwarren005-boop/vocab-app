@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided with gills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided with gills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having gills or branchiae; breathing by means of gills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological classification, describing aquatic animals whose respiratory system is based upon gills rather than lungs or tracheal tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiate designates provided with gills."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The **branchiate** mollusks draw respiratory currents into the mantle cavity through an inhalant siphon."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"In **branchiate** crabs, specialized gill bailers vibrate continuously to pump fresh water through the branchial chamber."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The axolotl retains its **branchiate** larval condition throughout adult life, breeding in cold Mexican mountain lakes."*

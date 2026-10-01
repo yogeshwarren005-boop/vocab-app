@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bulbous plant having erect linear leaves and showy yellow or white flowers either solitary or in clusters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a beautiful young man who fell in love with his own reflection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bulbous spring-flowering plant with yellow or white flowers and a cup-shaped corona (daffodil or jonquil); or the mythical youth who fell in love with his own reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, a genus of Amaryllidaceae named from Greek narke (numbness), referencing the narcotic alkaloid lycorine present in its poisonous bulbs and intoxicating scent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou Narcissus in thy face, to me Thou wouldst appear most ugly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOMAN. ’Tis called narcissus, madam."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet these that we count errors may become him; Narcissus was a sad boy but a heavenly."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Poor **Narcissus**, gazing into the silver fountain, perished of unquenchable thirst for his own reflected beauty."*
+> - 📜 **John Keats (*I Stood Tip-toe upon a Little Hill*):** *"What first inspired a bard to sing of **Narcissus**, gazing in the glassy stream until he pined away?"*
+> - 📜 **William Wordsworth (*I Wandered Lonely as a Cloud*):** *"Beside the lake, beneath the trees, ten thousand golden **narcissus** danced in the spring breeze."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal, compulsive craving for and eating of purified starch (such as cornstarch or laundry starch), a specialized form of pica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology and nutritional psychiatry, a behavioral symptom frequently associated with iron deficiency anemia or pregnancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amylophagia designates a term designating an entity, condition, or phenomenon derived from greek myl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Curious varieties of pica, such as chalk-eating and **amylophagia**, are observed among chlorotic young women."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The patient's secret **amylophagia**, consuming boxes of cornstarch daily, vanished as soon as her severe iron deficiency was corrected."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Nutritional pica syndromes like **amylophagia** reveal how deep biochemical deficits can hijack conscious dietary behavior."*

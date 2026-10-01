@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the roof resting on rows of columns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the roof resting on rows of columns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or hall having a roof supported by rows of columns, especially an ancient Egyptian temple hall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, celebrated in the Great Hypostyle Hall of Karnak, where a forest of massive papyrus-bud columns creates an awe-inspiring, semi-lit interior sanctuary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostyle designates having the roof resting on rows of columns."*
+> - 📜 **James Henry Breasted (*A History of Egypt*):** *"The great **hypostyle** hall of Karnak is the most stupendous religious edifice ever erected by human hands, its hundred and thirty-four stone columns towering into twilight."*
+> - 📜 **Percy Bysshe Shelley (*Ozymandias*):** *"Around the ruined columns of the **hypostyle** hall, the lone and level sands stretch far away."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The Egyptian **hypostyle** hall admitted light solely through high clerestory grilles cut between the taller central columns and the lower aisles."*

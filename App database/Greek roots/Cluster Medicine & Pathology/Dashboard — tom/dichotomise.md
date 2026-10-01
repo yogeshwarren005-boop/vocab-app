@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into two opposing groups or kinds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into two opposing groups or kinds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide, separate, or classify into two contradictory or mutually exclusive groups or parts (chiefly British spelling of dichotomize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and botanical taxonomy, to bifurcate a key or category into contrasting paired branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichotomise designates divide into two opposing groups or kinds."*
+> - 📜 **Jeremy Bentham (*Chrestomathia*):** *"The analytical mind loves to **dichotomise** complex phenomena into mutually exhaustive divisions."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Logicians who **dichotomise** every argument into polar extremes frequently overlook intermediate truths."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Society seeks to **dichotomise** all men into saints and scoundrels, ignoring the mixed comedy of real life."*

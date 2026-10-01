@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek py.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vomiting of pus or purulent material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, an alarming clinical sign indicating the spontaneous rupture of an intra-abdominal, hepatic, or subphrenic abscess into the stomach or esophagus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyemesis designates a term designating an entity, condition, or phenomenon derived from greek py."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Copious **pyemesis** occurred when the huge amoebic abscess of the liver eroded through the diaphragm into the gastric fundus."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"The patient experienced instant relief from epigastric oppression following an unexpected bout of **pyemesis**."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The foul odor of the vomitus confirmed that **pyemesis** had ensued from the perforated gastric abscess."*

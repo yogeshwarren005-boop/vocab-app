@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that induces vomiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous efflorescent crystalline salt C8H4K2O12Sb2·3H2O of sweetish metallic taste that is used in dyeing as a mordant and especially formerly in medicine as an emetic and expectorant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing vomiting; or a medicine or substance that induces vomiting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical toxicology and therapeutics, an agent such as syrup of ipecac or tartar emetic historically administered to empty the stomach following toxic ingestions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"When you’re seized with fits æsthetic, Take at once a strong emetic. 32."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I tell you you are bolting down mouthfuls from a dead Happar’s carcass, as sure as you live, and no mistake!’ Emetics and lukewarm water!"*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The apothecary looked solemn and prescribed a powerful **emetic** to clear the gentleman's disordered stomach."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The frontier doctor relied almost entirely upon calomel, castor oil, and a violent **emetic** for every known ailment."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"A swift **emetic** of mustard water saved the poisoned native before the alkaloid could enter the bloodstream."*

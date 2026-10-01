@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For therapeutic purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For therapeutic purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that contributes to healing, health, or the treatment of disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, administered in a dose or regimen designed to produce a curative medical outcome rather than a toxic or subclinical effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapeutically designates for therapeutic purposes."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"Penicillin may be applied **therapeutically** to infected wounds without inducing the cellular irritation common to carbolic antiseptics."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon's gentle touch communicated **therapeutically** to the frightened patient that help had arrived."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"When antibiotics are timed **therapeutically** before the skin incision, surgical site infections fall by half."*

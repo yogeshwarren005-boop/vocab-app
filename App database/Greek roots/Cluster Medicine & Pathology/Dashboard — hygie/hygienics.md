@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: hygiene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: hygiene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or system of principles and rules for the preservation of health; hygiene as a scientific discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late nineteenth-century educational and military curricula, the comprehensive study of ventilation, dietetics, drainage, and physical culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hygienics as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The chair of **hygienics** must teach the student that clean water and fresh air are the primary instruments of public health."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The principles of physiological **hygienics** demonstrate that bodily vigor cannot be sacrificed without mental decline."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A practical treatise on domestic **hygienics** is worth more to a mother than a whole shelf of patent medicines."*

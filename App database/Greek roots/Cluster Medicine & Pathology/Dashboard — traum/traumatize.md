@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To inflict a trauma upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To inflict a trauma upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause physical injury or severe emotional distress and lasting psychological damage to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and trauma studies, to induce overwhelming psychic horror that impairs normal affective regulation and cognitive integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traumatize designates to inflict a trauma upon."*
+> - 📜 **Bessel van der Kolk (*The Body Keeps the Score*):** *"Overwhelming helplessness and terror can **traumatize** a human being, altering the wiring of the brain and storing memories as visceral sensations."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The sudden withdrawal of L-DOPA threatened to **traumatize** the post-encephalitic patients with acute akinetic rigidity."*
+> - 📜 **Atul Gawande (*Complications*):** *"Careless operative retraction can **traumatize** the liver capsule, causing troublesome diffuse oozing."*

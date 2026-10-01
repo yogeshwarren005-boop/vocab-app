@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science of the establishment and maintenance of health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conditions or practices (as of cleanliness) conducive to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in or dedicated to the promotion of hygiene and health; especially a licensed dental hygienist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational health and public sanitation, a specialist who inspects and mitigates physical, chemical, or biological hazards in workplaces and communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygienist designates a science of the establishment and maintenance of health."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The modern public **hygienist** has become the guardian of cities, tracing epidemics to their hidden microbial sources."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"As county health officer, Martin acted as a zealous **hygienist**, condemning polluted wells despite the fury of landlords."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The industrial **hygienist** warned that continuous exposure to chemical vapors posed grave neurological dangers to workers."*

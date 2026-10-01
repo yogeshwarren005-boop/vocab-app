@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stylish manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stylish manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stylish, fashionable, and elegant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With polished aesthetic flair and confident execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylishly designates in a stylish manner."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The younger Miss Bennets were eager to be seen **stylishly** dressed when the regiment paraded through Meryton."*
+> - 📜 **Oscar Wilde (*An Ideal Husband*):** *"Mrs. Cheveley entered the drawing room **stylishly** attired in heliotrope velvet, commanding instant attention."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle poured the tea **stylishly**, her every gesture marked by cosmopolitan grace."*

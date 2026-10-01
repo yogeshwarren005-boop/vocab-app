@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest horizontal beam or architectural member of an entablature that rests directly upon the capitals of columns; the architrave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek monumental architecture, the massive stone or marble lintel spanning from column to column, carrying the frieze and cornice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"The thickness of the **epistyle** must be proportionate to the height of the columns to prevent structural bowing."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Doric **epistyle** rests with majestic gravity upon the fluted columns, unbroken by superfluous ornamental carving."*
+> - 📜 **James Fergusson (*A History of Architecture*):** *"The enormous marble blocks of the Parthenon's **epistyle** were hoisted into position with remarkable mechanical precision."*

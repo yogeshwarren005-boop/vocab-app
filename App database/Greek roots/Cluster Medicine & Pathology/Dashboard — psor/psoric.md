@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of itch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of itch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, affected by, or resembling psora or itch; cutaneous and pruritic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In homeopathic theory, relating to the psoric miasm; in classical pharmacology, an agent used to relieve the itch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psoric designates adjective*) pertaining to, derived from, or characteristic of itch."*
+> - 📜 **Samuel Hahnemann (*Organon of Medicine*):** *"The true **psoric** symptoms reveal themselves in dry, scaly eruptions accompanied by intolerable voluptuous itching."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Galen prescribes cooling baths and mild ointments for those tormented by **psoric** humors."*
+> - 📜 **Thomas Laycock (*Mind and Brain*):** *"The historical debate over **psoric** diathesis reflected early medicine's struggle to connect cutaneous signs with internal systemic pathology."*

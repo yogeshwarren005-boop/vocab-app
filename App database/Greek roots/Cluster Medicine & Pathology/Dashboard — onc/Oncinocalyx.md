@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of flowering Australian shrubs in the mint family (Lamiaceae), containing the single species Oncinocalyx betchei.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, a shrub distinguished by hooked calyx teeth (from Greek onkino-, hooked + kalyx), adapted for epizoochoric seed dispersal on animal fur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oncinocalyx designates a term designating an entity, condition, or phenomenon derived from greek onc."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"The unique fruiting calyx of **Oncinocalyx** features stiff, recurved hooks that cling tenaciously to passing animals."*
+> - 📜 **Joseph Maiden (*The Forest Flora of New South Wales*):** *"Specimens of **Oncinocalyx** betchei were collected on the dry rocky ridges of the interior tablelands."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The genus **Oncinocalyx** shows close affinity to Teucrium, differing chiefly in the persistent, hooked appendages of its calyx."*

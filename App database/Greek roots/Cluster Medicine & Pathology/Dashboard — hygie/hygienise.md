@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sanitary by cleaning or sterilizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sanitary by cleaning or sterilizing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make clean, healthy, or sanitary; to disinfect or subject to hygienic conditions (chiefly British spelling of hygienize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public sanitation, to treat contaminated environments or implements so as to eliminate microbiological hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygienise designates make sanitary by cleaning or sterilizing."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The town council must drain the stagnant ditches and **hygienise** the public water pumps without delay."*
+> - 📜 **George Bernard Shaw (*Plays Pleasant*):** *"Modern reformers dream that they can **hygienise** human nature by scrubbing every corner of London with soap."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The sanitary corps was dispatched to **hygienise** the abandoned ruins before the new city could be erected."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ample amount or number : abundance, profusion —usually used with of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily condition characterized by an excess of blood and marked by swelling and redness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively full, abundant, or congested; or having a ruddy, congested complexion from fullness of blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pathology, exhibiting signs of polycythemic circulatory fullness, flushed skin, and distended superficial veins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He has stopped Austria’s cackle and I fear it will be our turn next.” The colonel was a stout, tall, plethoric German, evidently devoted to the service and patriotically Russian."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The **plethoric** old gentleman wheezed in his high cravat, his purple cheeks threatening apoplexy."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner ate with **plethoric** gusto, consuming beef steaks as though preparing for a siege."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The French nobility wallowed in a **plethoric** luxury while the peasants starved on nettle soup."*

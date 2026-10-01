@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to anatomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to anatomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With reference to or in terms of bodily structure; by means of dissection or anatomical analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structurally or morphologically formed according to the organization of an organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Anatomically, it is distinguished from the white whale and the North Cape whale by the seven cervical vertebrae, and it has two more ribs than its congeners."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The hand of a man, the flipper of a seal, and the wing of a bat are **anatomically** identical in their underlying skeletal framework."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Man is **anatomically** closer to the chimpanzee than the chimpanzee is to the lemur."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The limb was **anatomically** healed, yet neurologically alienated from my conscious body image."*

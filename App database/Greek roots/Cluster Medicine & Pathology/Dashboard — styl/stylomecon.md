@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: wind poppy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: wind poppy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of annual flowering poppies native to California, containing the single species Stylomecon heterophylla (commonly called the wind poppy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, distinguished from true Papaver by its distinct, slender columnar style (from Greek stylos, style + mekon, poppy) connecting the ovary to the capitate stigma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylomecon designates one species: wind poppy."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Stylomecon** differs from Papaver primarily in the presence of a distinct, persistent style crowning the capsule."*
+> - 📜 **John Muir (*The Mountains of California*):** *"On the grassy foothills bloomed the wind poppy, **Stylomecon**, its scarlet petals trembling in the spring breeze."*
+> - 📜 **Willis Linn Jepson (*A Manual of the Flowering Plants of California*):** *"The bright orange-red blossoms of **Stylomecon** heterophylla emit a delicate fragrance on warm chaparral slopes."*

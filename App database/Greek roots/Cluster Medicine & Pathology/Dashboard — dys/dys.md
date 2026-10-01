@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: abnormal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: difficult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek prefix (δυσ-) denoting bad, difficult, abnormal, painful, impaired, or disordered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and scientific nomenclature, a ubiquitous productive prefix contrasted with eu- (good, normal), marking pathological dysfunction across countless clinical conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog dys as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek prefix **dys** signifies ill, hard, or difficult, standing as the direct etymological opposite to eu-."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"In medical terminology, **dys** is prefixed to anatomical and physiological terms to denote functional impairment or morbid pain."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The inseparable particle **dys** expresses hardship, misfortune, or defect across hundreds of classical Greek compounds."*

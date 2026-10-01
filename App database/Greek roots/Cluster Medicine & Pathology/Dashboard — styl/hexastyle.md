@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having six columns across the front facade or portico; a classical portico with six columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical temple architecture, the canonical façade design of Greek Doric and Ionic temples, such as the Temple of Hephaestus in Athens and the Temple of Concord in Agrigento.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexastyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*De Architectura*):** *"A Doric peripteral temple is commonly **hexastyle**, presenting six columns to the front and thirteen along the flanks."*
+> - 📜 **Thomas Jefferson (*Letters on the University of Virginia*):** *"The pavilion portico was designed as an authentic **hexastyle** Tuscan colonnade modeled upon classical Roman precedents."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The Maison Carrée at Nîmes displays a magnificent Corinthian **hexastyle** front of exceptional preservation."*

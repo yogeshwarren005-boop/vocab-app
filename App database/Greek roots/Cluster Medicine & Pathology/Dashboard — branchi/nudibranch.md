@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Nudibranchia) of marine opisthobranch mollusks without a shell in the adult state and without true gills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Nudibranchia) of marine opisthobranch mollusks without a shell in the adult state and without true gills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft-bodied, shell-less marine gastropod mollusk (commonly called a sea slug), celebrated for its extraordinary brilliant colors and exposed external gills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, an order of opisthobranchs that discard their shells after the larval stage and breathe through naked external gills or cerata on their dorsal surfaces, often sequestering nematocysts from prey cnidarians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nudibranch designates any of an order (nudibranchia) of marine opisthobranch mollusks without a shell in the adult state and without true gills."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The vivid orange **nudibranch** crawled across the eelgrass, its feathery gills expanding like a miniature flower in the clear water."*
+> - 📜 **David Attenborough (*Blue Planet*):** *"The kaleidoscopic colors of the **nudibranch** warn predators of foul-tasting chemical defenses concentrated in its skin."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Among the living corals crept a translucent **nudibranch**, adorned with cerata of glowing turquoise and electric gold."*

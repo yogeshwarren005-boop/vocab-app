@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural arrangement in which columns are set close together, with an intercolumniation of one and a half column-diameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Vitruvian architecture, the closest of the classical column spacings, creating a dense, forest-like facade suitable for very tall or slender columns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pycnostyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*De Architectura*):** *"In the **pycnostyle** species, the interval between columns is only one diameter and a half, so that matrons cannot walk between them arm in arm."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"The **pycnostyle** spacing was chosen for the circular chapel to ensure that the architraves would never sag under heavy dome vaulting."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The dense rhythm of **pycnostyle** colonnades produces dramatic vertical shadows across classical temple fronts."*

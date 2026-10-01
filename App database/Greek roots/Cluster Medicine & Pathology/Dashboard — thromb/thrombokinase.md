@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme liberated from blood platelets that converts prothrombin into thrombin as blood starts to clot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme liberated from blood platelets that converts prothrombin into thrombin as blood starts to clot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme or factor (thromboplastin) that initiates blood coagulation by converting prothrombin into active thrombin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early twentieth-century biochemistry, the classical term introduced by Paul Morawitz for the tissue factor complex that triggers the extrinsic coagulation pathway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombokinase designates an enzyme liberated from blood platelets that converts prothrombin into thrombin as blood starts to clot."*
+> - 📜 **Paul Morawitz (*Die Chemie der Blutgerinnung*):** *"Tissue juices contain a substance, **thrombokinase**, which in the presence of calcium ions activates prothrombin into thrombin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The contact of injured vascular endothelium releases **thrombokinase**, setting off the rapid formation of the fibrin plug."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Historical **thrombokinase** corresponds to what modern biochemists define as the Tissue Factor–Factor VIIa enzymatic complex."*

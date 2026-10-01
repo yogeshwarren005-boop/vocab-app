@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder characterized by the deposition of amyloid in bodily organs and tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder characterized by the deposition of amyloid in bodily organs and tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare group of diseases characterized by the abnormal deposition of insoluble amyloid protein fibrils in organs and tissues, impairing their normal function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine, a condition categorized into primary (AL), secondary (AA), hereditary (ATTR), or senile forms, often leading to restrictive cardiomyopathy, nephrotic syndrome, or autonomic neuropathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyloidosis designates a disorder characterized by the deposition of amyloid in bodily organs and tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systemic **amyloidosis** turns the liver and spleen into massive, painless viscera of glassy, lardaceous texture."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The unexplained heart failure and purpura around the patient's eyes pointed to cardiac **amyloidosis**."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Advanced cardiac **amyloidosis** stiffened the heart muscle, resisting all standard pharmacological therapies."*

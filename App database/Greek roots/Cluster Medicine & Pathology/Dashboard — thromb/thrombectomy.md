@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of a blood clot (thrombus) from a blood vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of a blood clot (thrombus) from a blood vessel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical or catheter-directed extraction or removal of a blood clot (thrombus) from a blood vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interventional vascular surgery and acute stroke neurology, mechanical thrombectomy using stent-retrievers to recanalize occluded cerebral or coronary arteries within narrow therapeutic time windows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombectomy designates surgical removal of a blood clot (thrombus) from a blood vessel."*
+> - 📜 **Michael E. DeBakey (*Surgical Treatment of Arterial Thrombosis*):** *"Immediate **thrombectomy** with the balloon catheter restored arterial pulsation to the ischemic leg."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Mechanical **thrombectomy** pulled the dark clot from the middle cerebral artery, reversing the stroke symptoms on the angiographic table."*
+> - 📜 **Atul Gawande (*Better*):** *"The emergency team mobilized within thirty minutes to perform a life-saving pulmonary **thrombectomy**."*

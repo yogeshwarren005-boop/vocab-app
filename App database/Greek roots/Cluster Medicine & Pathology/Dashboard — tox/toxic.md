@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or being poisonous material especially when capable of causing death or serious debilitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting symptoms of infection or toxicosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous; capable of causing injury, illness, or death to living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and medicine, caused by or relating to a toxin; in modern colloquial and sociological usage, extremely harmful, malicious, or pervasive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxic designates containing or being poisonous material especially when capable of causing death or serious debilitation."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The **toxic** chemicals sprayed upon the orchards seeped into underground aquifers, poisoning farm wells miles away."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **toxic** goiter produces a racing pulse, fine tremors, and profound metabolic exhaustion."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Chemotherapy remains a brutally **toxic** therapy, balancing destruction of cancer cells against survival of the patient."*

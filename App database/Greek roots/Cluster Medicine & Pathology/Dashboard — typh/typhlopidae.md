@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blind snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blind snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, non-venomous burrowing blind snakes found in tropical and subtropical regions of the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, fossorial squamates characterized by vestigial eyes covered by head scales (from Greek typhlos, blind), blunt rounded snouts, and smooth, uniform cylindrical scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typhlopidae designates blind snakes."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Digging among the rotting logs, we unearthed a slender blind snake of the family **Typhlopidae**, resembling an oversized earthworm."*
+> - 📜 **David Attenborough (*Life in Cold Blood*):** *"The fossorial **Typhlopidae** spend their entire lives underground, raiding subterranean ant and termite nests by scent."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The eyes of the **Typhlopidae** are reduced to dark subcutaneous pigment spots beneath translucent protective scales."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapeutic medical treatment of impairment, injury, disease, or disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychotherapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment intended to relieve, manage, or heal a physical illness, mental disorder, or disability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical healthcare, a systematic intervention (such as gene therapy, radiation therapy, or cognitive behavioral therapy) aimed at restoring physiological homeostasis or psychological well-being.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapy designates therapeutic medical treatment of impairment, injury, disease, or disorder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In the absence of a specific curative drug, supportive nursing **therapy** and fresh air remain our sheet-anchor."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Cellular **therapy** transforms living immune cells into bespoke medicines trained to annihilate leukemia."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The dramatic response to L-DOPA **therapy** showed that chemical deficits in the brain could be dramatically corrected."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of cure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of cure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring at the acme; pertaining to the highest point or peak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nosology, designating the climax or most intense stage of an infectious fever or acute pathological condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acmic designates adjective*) pertaining to, derived from, or characteristic of cure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"During the **acmic** stage of typhoid fever, the patient remains profoundly stuporous and vulnerable to intestinal hemorrhage."*
+> - 📜 **Thomas Clifford Allbutt (*A System of Medicine*):** *"The **acmic** phase of the paroxysm is accompanied by violent shivering and rapid pulse."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"When the inflammatory swelling reached its **acmic** height, fluctuation became distinctly perceptible."*

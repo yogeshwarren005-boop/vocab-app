@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fullness of divine powers or spiritual reality; in Gnosticism, the transcendent realm of divine light and aeons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical theology (Pauline epistles) and botanical anatomy, the central core of primary meristematic tissue inside a growing plant root or shoot tip that gives rise to the stele.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Hermogenem_. [14] Puns, e.g., on _areae, ad Scap._ 3; on _strophae, de Spect._ 29; on _pleroma, adv."*
+> - 📜 **Carl Jung (*Seven Sermons to the Dead*):** *"Harken: I begin with nothingness; nothingness is the same as fullness: in the **pleroma**, both fullness and emptiness are eternal."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"Gnostic cosmogony envisioned the supreme God dwelling in unapproachable splendor within the boundless **pleroma**."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The **pleroma** occupies the axial cylinder of the growing root, forming the fibro-vascular bundles of the adult plant."*

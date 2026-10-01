@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or causing putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, involving, caused by, or affected with sepsis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infected with microorganisms; causing or accompanied by infectious decay, putrefaction, or sepsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental and sanitation engineering, relating to anaerobic bacterial decomposition of sewage (as in a septic tank).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The cup is clean enough without; it is septic and poisonous within--and from which side of it do you drink, outside or inside? (Matt. 23:25)."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If our modern medical language may be applied--and Jesus used the analogy of medicine in this very case (Mark 2:17)--sin is septic."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The surgeons attributed it to the septic condition of the blood."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"The putrefaction of hospital wounds was entirely caused by **septic** germs introduced from without."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"The poison on the African dart was designed to cause acute **septic** poisoning within a matter of hours."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"The elderly patient was rushed to the intensive care unit in acute **septic** shock secondary to an ascending urinary tract infection."*

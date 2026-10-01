@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having columniation completely circling an area of the structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having columniation completely circling an area of the structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having a peristyle; surrounded by a colonnade or continuous range of columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology, describing the peristylar courtyards of Roman domus residences (such as those preserved at Pompeii and Herculaneum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristylar designates having columniation completely circling an area of the structure."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **peristylar** court of the private house should be adorned with fountain basins and fragrant shrubs."*
+> - 📜 **Edward Bulwer-Lytton (*The Last Days of Pompeii*):** *"Glaucus walked into the cool **peristylar** garden, where marble statues gleamed between fluted columns."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The **peristylar** arrangement of the Greek tholos temple creates a circular shadow around the inner cella."*

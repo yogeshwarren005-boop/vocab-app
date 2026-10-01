@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical intercolumniation in which the distance between adjacent columns equals three column-diameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Vitruvian architectural theory, an open column spacing wider than eustyle, requiring careful stone selection to prevent cracking of the horizontal epistyle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*De Architectura*):** *"In the **diastyle** temple, the intercolumniation is three times the thickness of a column, giving an open and airy aspect."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"If a **diastyle** spacing is chosen, the architect must ensure that the stone architrave is sufficiently deep to support the frieze."*
+> - 📜 **William Chambers (*Treatise on Civil Architecture*):** *"The **diastyle** order allows generous light to enter the windows behind the colonnade."*

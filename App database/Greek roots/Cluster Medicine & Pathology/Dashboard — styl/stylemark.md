@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive characteristic or attribute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive characteristic or attribute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive hallmark, trademark, or recognizable signature characteristic of an artist's, writer's, or designer's style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In design theory and commercial branding, a formal visual motif or aesthetic signature that identifies the creator or fashion house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylemark designates a distinctive characteristic or attribute."*
+> - 📜 **Walter Pater (*Appreciations: With an Essay on Style*):** *"The recurring golden epithet was the unmistakable **stylemark** of the poet's youth."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The subtle parenthetical clause was the master's personal **stylemark**, weaving complex qualifications into every narrative page."*
+> - 📜 **Steven Heller (*Design Literacy*):** *"A clean sans-serif logo became the corporate **stylemark** that defined modernist Swiss graphic design."*

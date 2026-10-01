@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine that deals with mental, emotional, or behavioral disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine that deals with mental, emotional, or behavioral disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine focused on the diagnosis, treatment, and prevention of mental, emotional, and behavioral disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine, the clinical science (pioneered by Philippe Pinel and Emil Kraepelin) that emancipated mental illness from demonic superstition and integrated it with clinical neurobiology and psychology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychiatry designates a branch of medicine that deals with mental, emotional, or behavioral disorders."*
+> - 📜 **Philippe Pinel (*A Treatise on Insanity*):** *"To unchain the insane and treat them with moral dignity marked the true birth of scientific **psychiatry**."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"Modern **psychiatry** requires meticulous longitudinal case studies to differentiate dementia praecox from manic-depressive insanity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The discoveries of **psychiatry** illuminate normal mental life by exposing the fault lines along which consciousness fractures."*

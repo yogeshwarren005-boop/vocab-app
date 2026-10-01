@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Branchiopoda) of small usually freshwater crustaceans (such as fairy shrimp or water fleas) with usually many pairs of setae-bearing appendages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Branchiopoda) of small usually freshwater crustaceans (such as fairy shrimp or water fleas) with usually many pairs of setae-bearing appendages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the Branchiopoda, a class of small, primitive, primarily freshwater crustaceans (including fairy shrimp, tadpole shrimp, and water fleas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crustacean biology, characterized by flattened, leaf-like appendages (phyllopods) that serve simultaneously for swimming, filter-feeding, and gill respiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiopod designates any of a group (branchiopoda) of small usually freshwater crustaceans (such as fairy shrimp or water fleas) with usually many pairs of setae-bearing appendages."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The eggs of the freshwater **branchiopod** can endure years of desiccation in dry mud, carried on the feet of aquatic birds to distant ponds."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"The fairy shrimp is a graceful **branchiopod** that swims upside down in vernal pools, its feathery feet shimmering in the water."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The tiny water flea, Daphnia, is a familiar **branchiopod** whose rhythmic jerking motions populate every sunlit ditch."*

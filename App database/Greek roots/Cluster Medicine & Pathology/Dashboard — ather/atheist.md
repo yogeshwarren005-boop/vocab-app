@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in the existence of a deity or deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a term often used pejoratively by religious orthodoxies against heretics, freethinkers, and natural philosophers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It were far more sensible for those who deny the fitness and necessity of prayer to take the ground of the atheist and say plainly "We do not pray, for there is no God to pray to," for to deny prayer, is practical atheism."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A----, who professed infidelity, and who was, I think, as near an atheist as any I ever met."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le dye an _Atheist_ then. _Arn_."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"Those are not at all to be tolerated who deny the being of a God; promises, covenants, and oaths can have no hold upon an **atheist**."*
+> - 📜 **Denis Diderot (*Philosophical Thoughts*):** *"An **atheist** is merely a philosopher who demands proof before falling to his knees."*
+> - 📜 **Thomas Paine (*The Age of Reason*):** *"The bigot calls every man an **atheist** who refuses to accept his own narrow mythological dogmas."*

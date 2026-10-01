@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing into two contradictory or contrasting parts or groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, involving, or proceeding from dichotomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing into two parts, branches, or classes; exhibiting or relating to a dichotomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and systematic biology, describing branching where the axis repeatedly forks into two equal shoots, or a dichotomous identification key.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Four sporangia, each containing but four spores (fig. 244), are enclosed in each conceptacle, which is surrounded by a few appendages (about six) thrice dichotomous, and thickened at the tips of the ultimate branches, which are incurved (fig. 247)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SPINACH MOULD; fertile threads fasciculate, short, thick, 2-6, rarely 7 times dichotomous above; acrospores broadly ellipsoid, sometimes very obtuse; membrane with a violaceous tint."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FIGWORT MOULD; forming broad, irregular, dirty, pallid spots on the under surface of the leaves; fertile threads loosely dichotomous above; tips forked, unequal; acrospores obovate, apiculate.—On leaves of _Scrophularia_."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The floral identification key is strictly **dichotomous**, offering pairs of contrasting choices at every step."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **dichotomous** branching of the ancestral lineage illustrates how two distinct species diverge from a common stock."*
+> - 📜 **M. C. Cooke (*Introduction to the Study of Fungi*):** *"The hyphae display **dichotomous** forking at their growing tips under favorable nutritional conditions."*

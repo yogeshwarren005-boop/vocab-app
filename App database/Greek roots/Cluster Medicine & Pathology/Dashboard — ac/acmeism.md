@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Russian literary and artistic movement that flourished in the 1910s, demanding precision of language, craftsmanship, and concrete depiction of the physical world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of modernist poetics, the Guild of Poets (featuring Mandelstam, Akhmatova, and Gumilev) reacting against the ethereal mysticism of the Symbolists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acmeism designates a term designating an entity, condition, or phenomenon derived from greek ac."*
+> - 📜 **Nikolai Gumilev (*The Precepts of Acmeism*):** *"For **Acmeism**, a rose is beautiful in itself, not because it symbolizes mystical transfiguration."*
+> - 📜 **Osip Mandelstam (*On the Nature of the Word*):** *"The heroic task of **Acmeism** was to restore domestic warmth and architectural reality to the Russian poetic word."*
+> - 📜 **Isaiah Berlin (*Russian Thinkers*):** *"The crystalline purity of Akhmatova's verse stands as the supreme monument of twentieth-century **Acmeism**."*

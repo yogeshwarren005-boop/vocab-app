@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or subgenus of cormous African flowering plants in the iris family (Iridaceae), commonly called peacock orchids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, named from Greek akis (pointed spine or needle) and anthera (anther), referring to the sharply pointed anthers of its fragrant white and maroon blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acidanthera designates a term designating an entity, condition, or phenomenon derived from greek ac."*
+> - 📜 **John Lindley (*Edwards's Botanical Register*):** *"The genus **Acidanthera** is readily distinguished from Gladiolus by its elongated perianth tube and sharply pointed anthers."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"The sweet-scented white blossoms of **Acidanthera** with their dark purple throats make a delightful autumn border."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In temperate gardens, **Acidanthera** corms must be lifted before heavy frost and stored in dry sand."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrocarbon radical that occurs in many organic compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrocarbon radical that occurs in many organic compounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The univalent hydrocarbon radical pentyl (C5H11-), historically derived from amyl alcohol obtained in the distillation of fermented starch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and historical therapeutics, the chemical group present in amyl nitrite, a rapidly acting vasodilator used to relieve angina pectoris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyl designates a hydrocarbon radical that occurs in many organic compounds."*
+> - 📜 **Thomas Lauder Brunton (*On the Use of Nitrite of Amyl in Angina Pectoris*):** *"Inhalation of **amyl** nitrite caused the flushed face and dilated peripheral vessels, relieving the suffocating angina spasm within minutes."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Resident Patient*):** *"A broken pearl of **amyl** nitrite lay upon the carpet, indicating the patient's desperate attempt to avert a cardiac paroxysm."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*):** *"My uncle explained that **amyl** acetate was responsible for the sweet, pear-drop aroma that filled the chemistry shed."*

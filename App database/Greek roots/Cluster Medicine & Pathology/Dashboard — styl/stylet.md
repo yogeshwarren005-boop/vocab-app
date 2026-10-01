@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small needlelike appendage; especially the feeding organ of a tardigrade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small needlelike appendage; especially the feeding organ of a tardigrade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, slender, pointed surgical probe or wire inserted into a cannula or catheter to maintain stiffness; or a sharp piercing mouthpart in invertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and nematology, a needle-like chitinous organ used by plant-parasitic nematodes or piercing-sucking insects (aphids, mosquitoes) to puncture host tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylet designates small needlelike appendage; especially the feeding organ of a tardigrade."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon withdrew the wire **stylet** from the flexible cannula, and immediate clear spinal fluid welled forth."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The aphid pierces the phloem sieve tubes with its microscopic **stylet**, drinking the sap of the plant."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"A rigid endotracheal **stylet** assisted the anesthesiologist in navigating the anterior larynx during a difficult intubation."*

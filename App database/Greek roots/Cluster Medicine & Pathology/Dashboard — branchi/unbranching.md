@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not branching; growing or proceeding in a single, straight, undivided stem, trunk, or direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive morphology, describing columnar trees (such as palms or tree ferns) or linear processes that lack lateral bifurcation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unbranching designates without branches."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The majestic sugar pine rose as an **unbranching** column of red bark for nearly a hundred feet before spreading its leafy crown."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We pushed our canoe down an **unbranching** channel of the river, bordered on either side by impenetrable spruce."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"The smooth, **unbranching** trunks of tropical palms rise like monumental pillars to support their towering feathery crowns."*

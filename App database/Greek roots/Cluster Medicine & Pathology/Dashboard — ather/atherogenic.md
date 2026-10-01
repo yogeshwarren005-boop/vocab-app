@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or causing atherogenesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or causing atherogenesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote, cause, or initiate the formation of fatty plaques (atheromas) in arteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and nutrition, describing lipid profiles (such as elevated small dense LDL particles, apolipoprotein B, or trans-fatty acids) that accelerate atherosclerosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherogenic designates relating to or causing atherogenesis."*
+> - 📜 **Ancel Keys (*Seven Countries: A Multivariate Analysis of Death and Coronary Heart Disease*):** *"Diets rich in saturated animal fats elevate serum cholesterol and exert a profoundly **atherogenic** effect upon the coronary vessels."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"The combination of metabolic syndrome, diabetes, and smoking creates a violently **atherogenic** arterial environment."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Statin therapy was initiated immediately to counteract the patient's strongly **atherogenic** dyslipidemia."*

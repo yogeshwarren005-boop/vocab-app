@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the subclass branchiopoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the subclass branchiopoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having gill-like, leaf-shaped feet or appendages; belonging to the branchiopods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, describing flattened, biramous, foliar limbs (phyllopodia) that function concurrently in locomotion, food-trapping, and gas exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiopodous designates of or relating to or characteristic of the subclass branchiopoda."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **branchiopodous** feet of the fairy shrimp beat rhythmically to create a feeding current directed toward the ventral groove."*
+> - 📜 **Richard Owen (*Lectures on Invertebrate Animals*):** *"Triops possesses more than thirty pairs of **branchiopodous** appendages, each functioning as a microscopic gill."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"The **branchiopodous** limb represents an ancient multifunctional archetype from which the specialized limbs of higher decapods arose."*

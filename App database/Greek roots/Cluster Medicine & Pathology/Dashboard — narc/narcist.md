@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone in love with themselves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone in love with themselves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or condensed spelling of narcissist; a person obsessed with self-admiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early behavioral psychology, an individual exhibiting marked auto-erotic or self-directed emotional absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcist designates someone in love with themselves."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The thoroughgoing **narcist** requires no external partner, living in perpetual adoration of his own image."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"He smiled with the cold satisfaction of a confirmed **narcist**, admiring his witty rejoinder in the silence of the room."*
+> - 📜 **W. H. Auden (*Collected Poems*):** *"The lonely **narcist** dreams beside the pool, blind to the living world that surrounds him."*

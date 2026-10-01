@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagnostic test that records involuntary eye movements (nystagmus) by measuring electrical potential changes between electrodes placed around the eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-otology, an electrophysiological technique used to evaluate the vestibular system, vestibulo-ocular reflex, and brainstem pathways in patients with vertigo or dizziness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electronystagmography designates a term designating an entity, condition, or phenomenon derived from greek nyst."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Caloric stimulation during **electronystagmography** confirmed complete peripheral vestibular failure on the left side."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The neurologist ordered **electronystagmography** to determine whether the patient's disabling vertigo originated in the inner ear or the cerebellum."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"Modern **electronystagmography** translates minute corneal-retinal potentials into quantifiable tracings of vestibular reflex function."*

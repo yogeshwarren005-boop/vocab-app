@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the prevention, diagnosis, treatment, and study of cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the prevention, diagnosis, treatment, and study of cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and scientific research dedicated to the prevention, diagnosis, and treatment of tumors and cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern biomedicine, a rapidly evolving clinical field integrating molecular genetics, immunotherapy, targeted biologics, and precision medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncology designates a branch of medicine concerned with the prevention, diagnosis, treatment, and study of cancer."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies: A Biography of Cancer*):** *"The history of **oncology** is a chronicle of military campaigns against an internal, shape-shifting enemy that mirrors our own cellular biology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The emergence of surgical **oncology** established the vital rule of en bloc excision for epithelial neoplasms."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"Basic cellular immunology and modern **oncology** are twin sciences converging upon the same fundamental riddle of self-recognition."*

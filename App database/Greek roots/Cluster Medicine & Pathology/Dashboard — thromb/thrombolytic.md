@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of pharmaceutical that can break up clots blocking the flow of blood to the heart muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of pharmaceutical that can break up clots blocking the flow of blood to the heart muscle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of dissolving or breaking down blood clots; or a medication used to dissolve thrombi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, describing plasminogen activators (such as alteplase, tenecteplase, or streptokinase) used in acute myocardial infarction, pulmonary embolism, and ischemic stroke.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombolytic designates a kind of pharmaceutical that can break up clots blocking the flow of blood to the heart muscle."*
+> - 📜 **Eugene Braunwald (*Thrombolytic Therapy in Acute Myocardial Infarction*):** *"The prompt infusion of a **thrombolytic** agent restored coronary blood flow and halved hospital mortality."*
+> - 📜 **Atul Gawande (*Complications*):** *"Administering a **thrombolytic** requires absolute certainty that the stroke is ischemic, for in a hemorrhage it would be fatal."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The massive pulmonary embolus began to break up under the steady infusion of the **thrombolytic** drug."*

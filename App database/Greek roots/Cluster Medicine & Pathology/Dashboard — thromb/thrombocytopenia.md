@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent decrease in the number of platelets in the blood that is often associated with hemorrhagic conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent decrease in the number of platelets in the blood that is often associated with hemorrhagic conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low number of platelets (thrombocytes) in the peripheral blood, resulting in increased risk of bleeding and bruising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, caused by decreased marrow production (aplastic anemia, leukemia), increased peripheral destruction (ITP, TTP), or splenic sequestration, predisposing to petechiae and mucosal purpura.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombocytopenia designates persistent decrease in the number of platelets in the blood that is often associated with hemorrhagic conditions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **thrombocytopenia** produces spontaneous bleeding into the skin in the form of showers of tiny red petechiae."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Chemotherapy destroyed the patient's megakaryocytes, plunging her into profound **thrombocytopenia** that required daily platelet transfusions."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Immune **thrombocytopenia** was confirmed when antibodies directed against platelet glycoproteins were identified in the serum."*

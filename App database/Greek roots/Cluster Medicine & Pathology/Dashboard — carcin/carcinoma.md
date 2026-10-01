@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor of epithelial origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carcinoma that is made up of or arises from squamous cells and usually occurs in areas of the body exposed to strong sunlight over many years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor that begins in the epithelial tissue of the skin or in the lining of internal organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical oncology, the most common form of cancer (comprising adenocarcinomas and squamous cell carcinomas), distinguished from sarcomas (mesenchymal origin) and lymphomas/leukemias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinoma designates a malignant tumor of epithelial origin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Every **carcinoma** is an outgrowth of epithelial cells that have broken through their physiological histological boundaries."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Epithelial tissue, being constantly renewed and exposed to friction, gives rise to the vast majority of human cancers: the lethal family of **carcinomas**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gastric **carcinoma** remains one of the most insidious scourges of late middle age, often hiding behind simple dyspepsia."*

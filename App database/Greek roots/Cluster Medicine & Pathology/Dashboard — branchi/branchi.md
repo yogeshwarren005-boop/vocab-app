@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek branchi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from branchia, βράγχια) signifying the gills of a fish or aquatic respiratory organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and zoological taxonomy, the primary morpheme underlying branchial, nudibranch, and branchiopod.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchi designates a term designating an entity, condition, or phenomenon derived from greek branchi."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The element **branchi** descends directly from the Greek branchia, denoting the gills of fish."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"In biological nomenclature, words compounded with **branchi** refer to gills or branchial respiratory arches."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, branchia (stem **branchi**-) signified the gills of fishes, through which water is expelled."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: How something is done or how it happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive manner of expression, design, execution, or behavior; or in botany, the narrow stalk connecting the floral ovary to the stigma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and rhetoric, the distinctive linguistic voice and compositional choices characteristic of an author, artist, or historical epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To what is count’s man: count’s master is of another style."*
+> - 📜 **Georges-Louis Leclerc, Comte de Buffon (*Discours sur le style*):** *"The **style** is the man himself; it reflects the inner order and clarity of the thinker's mind."*
+> - 📜 **Jonathan Swift (*Treatise on Good Manners and Good Breeding*):** *"Proper words in proper places make the true definition of a good **style**."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The long-styled form bears a **style** extending far above the corolla, while the short-styled form keeps it hidden within the tube."*

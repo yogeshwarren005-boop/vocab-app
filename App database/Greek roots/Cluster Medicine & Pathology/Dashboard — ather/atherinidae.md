@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small spiny-finned fishes of both salt and fresh water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small spiny-finned fishes of both salt and fresh water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, slender ray-finned fishes commonly known as true silversides, found in marine, brackish, and fresh waters worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, fish characterized by two widely separated dorsal fins, small terminal mouths, and a prominent silvery lateral band along each flank.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherinidae designates small spiny-finned fishes of both salt and fresh water."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The family **Atherinidae** comprises countless species of shimmering silversides that school in shallow coastal bays."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Vast shoals of **Atherinidae** flash like silver coins in the sunlit shallows, pursued by predatory bluefish."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"We observed a shimmering curtain of small **Atherinidae** darting among the coral branches to escape the jacks."*

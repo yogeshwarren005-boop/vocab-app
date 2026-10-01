@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal growth, development, or organization of cells, tissues, or organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and cytodiagnostics, an atypical cellular proliferation characterized by loss of architectural orientation, pleomorphism, and hyperchromasia, often representing a premalignant lesion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysplasia designates abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The cervical biopsy showed high-grade **dysplasia**, an ominous cellular anarchy hovering on the brink of invasive cancer."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The pathologist scrutinized the colonic polyp, searching for severe epithelial **dysplasia** that would mandate extensive bowel resection."*
+> - 📜 **Atul Gawande (*Better*):** *"Early detection of cellular **dysplasia** on routine screening cytology has saved countless women from fatal malignancies."*

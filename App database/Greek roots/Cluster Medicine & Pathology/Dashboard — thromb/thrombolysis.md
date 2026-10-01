@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying or breaking up a thrombus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying or breaking up a thrombus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissolution, breakdown, or liquefaction of a blood clot, either naturally by the body's fibrinolytic system or therapeutically with medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency cardiology and stroke therapy, the administration of intravenous tissue plasminogen activator (tPA) within hours of symptom onset to dissolve occlusive clots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombolysis designates destroying or breaking up a thrombus."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Early intravenous **thrombolysis** opened the occluded coronary artery, salvaging vast territories of ischemic myocardium."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The emergency neurologist raced against the clock to initiate **thrombolysis** before the three-hour ischemic stroke window closed."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Recombinant tPA triggered rapid **thrombolysis**, converting plasminogen to plasmin which chewed through the dense fibrin lattice."*

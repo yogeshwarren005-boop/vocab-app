@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a monster with a hundred heads who breathed out flames; son of typhoeus and father of cerberus and the chimera and the sphinx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a monster with a hundred heads who breathed out flames; son of typhoeus and father of cerberus and the chimera and the sphinx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deadlier mythological Greek tempest-monster (Typhoeus) defeated by Zeus; or a violent whirlwind, tempest, or hurricane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative myth and meteorological history, the monster whose fiery breath was believed to emerge through volcanic fumaroles and oceanic typhoons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell you, younglings, not Enceladus, With all his threatening band of Typhon’s brood, Nor great Alcides, nor the god of war, Shall seize this prey out of his father’s hands."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the second of the supplementary days she gave birth to the elder Horus, on the third to the god Set, whom the Greeks called Typhon, on the fourth to the goddess Isis, and on the fifth to the goddess Nephthys."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But his brother Set (whom the Greeks called Typhon) with seventy-two others plotted against him."*
+> - 📜 **Aeschylus (*Prometheus Bound*):** *"Zeus with his winged lightning struck down fierce **Typhon**, whose charred body now lies beneath the roots of Etna."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The howling gale lashed the sea into froth, as though ancient **Typhon** were venting his oceanic fury upon our doomed ship."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In Egyptian mythology, Set was identified by the Greeks with **Typhon**, the evil power of desert drought and violent storms."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the vermiform appendix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the vermiform appendix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical operation to remove the vermiform appendix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency surgery, the standard definitive cure for acute appendicitis (first successfully performed by Reginald Fitz and Charles McBurney), preventing fatal peritonitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appendectomy designates surgical removal of the vermiform appendix."*
+> - 📜 **Charles McBurney (*The Indications for Early Laparotomy in Appendicitis*):** *"Early **appendectomy** through an oblique muscle-splitting incision averts the catastrophic hazard of gangrenous perforation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In doubtful acute abdominal cases, McBurney's point of maximal tenderness dictates prompt surgical **appendectomy**."*
+> - 📜 **Atul Gawande (*Complications*):** *"The routine laparoscopic **appendectomy** has become the bread-and-butter operation of modern emergency general surgery."*

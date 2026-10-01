@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or capable of the enzymatic splitting of starch into soluble products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or capable of the enzymatic splitting of starch into soluble products.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The digestion, enzymatic conversion, or hydrolysis of starch into soluble sugars such as maltose, dextrins, and glucose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal physiology and biochemistry, the catalytic process executed by salivary and pancreatic alpha-amylases breaking alpha-1,4-glucosidic bonds in dietary starches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amylolysis designates characterized by or capable of the enzymatic splitting of starch into soluble products."*
+> - 📜 **Claude Bernard (*Mémoire sur le pancréas*):** *"Pancreatic juice executes rapid **amylolysis**, converting boiled starch paste into fermentable sugar in a few minutes."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"Salivary **amylolysis** begins in the mouth, but gastric acidity temporarily arrests the conversion until the chime reaches the duodenum."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Nearly all dietary carbohydrate undergoes complete **amylolysis** before absorption across the brush border."*

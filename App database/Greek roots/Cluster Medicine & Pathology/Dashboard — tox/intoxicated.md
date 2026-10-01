@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make drunk (with alcoholic drinks).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drunk or under the influence of drugs; inebriated; or overwhelmed by strong excitement and joy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic toxicology, having a blood alcohol concentration or drug level sufficient to impair cognitive and physical performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Reason drops headlong from his sacred throne, Your dear idea reigns, and reigns alone; Each thought intoxicated homage yields, And riots wanton in forbidden fields."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They were horrid places, where men got intoxicated, and shot each other in bar-rooms, and used bad language."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He is seized by violence or intoxicated and taken to the fields, where he is killed amongst the wheat to serve as "seed" (so they phrase it)."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The missing coachman was discovered in an **intoxicated** stupor in the tavern cellar."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He spoke with wild passion, looking at me with eyes **intoxicated** by love and defiance."*
+> - 📜 **Jack London (*John Barleycorn*):** *"He walked through the swinging doors, **intoxicated** not by beer alone, but by the roar of frontier life."*

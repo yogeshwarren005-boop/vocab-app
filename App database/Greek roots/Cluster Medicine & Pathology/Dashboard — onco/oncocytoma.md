@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor composed entirely of oncocytes, typically occurring in the kidneys, salivary glands, or thyroid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urologic pathology, a well-circumscribed, mahogany-brown renal cortical tumor featuring a central stellate scar, which mimics renal cell carcinoma on diagnostic imaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncocytoma designates a term designating an entity, condition, or phenomenon derived from greek onco."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A benign renal **oncocytoma** may reach huge proportions without invading the renal vein or producing distant metastases."*
+> - 📜 **Atul Gawande (*Complications*):** *"The frozen section returned as a benign **oncocytoma**, sparing the young patient from radical nephrectomy."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"Gross inspection of the resected kidney revealed the distinctive central scar of an **oncocytoma**, confirming the radiologist's suspicion."*

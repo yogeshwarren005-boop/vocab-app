@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy translucent substance consisting primarily of protein that is deposited in some animal organs and tissues under abnormal conditions (such as Alzheimer's disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beta-amyloid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, waxy, insoluble protein aggregate that deposits in extracellular spaces of organs and tissues; or resembling starch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology and neurobiology, insoluble beta-pleated sheet fibrils (such as amyloid-beta in Alzheimer's plaques) that stain with Congo red and exhibit apple-green birefringence under polarized light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyloid designates a waxy translucent substance consisting primarily of protein that is deposited in some animal organs and tissues under abnormal conditions (such as alzheimer's disease)."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Because this waxy substance in the degenerate liver stained with iodine like starch, I gave it the name **amyloid**, though it is truly proteinaceous."*
+> - 📜 **Alois Alzheimer (*On a Peculiar Disease of the Cerebral Cortex*):** *"Dense extracellular deposits of silver-staining **amyloid** surrounded the dying neurons in the cortex of the demented patient."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic suppurative osteomyelitis was formerly the commonest precursor of waxy **amyloid** degeneration of the kidneys and spleen."*

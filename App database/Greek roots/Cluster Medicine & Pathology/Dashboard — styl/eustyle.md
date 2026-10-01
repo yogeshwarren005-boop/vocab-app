@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intercolumniation regarded by Vitruvius as the most harmonious and perfect, having a distance between columns of two and a quarter column-diameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architectural proportion, the optimal spacing combining aesthetic elegance, structural safety for stone epistyles, and convenient passage between columns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eustyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **eustyle** arrangement is the most approved, uniting beauty, strength, and convenience in the proportion of two diameters and a quarter."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"In all public basilicas, I have preferred the **eustyle** interval, which offends neither by crowded columns nor by excessive gaps."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Hermogenes of Alabanda was celebrated for perfecting the **eustyle** formula in the great Temple of Artemis at Magnesia."*

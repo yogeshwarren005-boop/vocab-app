@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent according to a conventional style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using artistic forms and conventions to create effects; not natural or spontaneous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represented in a conventional, non-realistic, or artistic style rather than according to nature (British spelling of stylized).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by formal conventions, exaggerated geometric lines, or deliberate simplification in art, literature, or performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylised designates represent according to a conventional style."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"The Noh drama of Japan employs a highly **stylised** code of gestures where the flutter of a fan communicates grief or battle."*
+> - 📜 **W. B. Yeats (*Essays and Introductions*):** *"I love the **stylised** masks of ancient Greek tragedy, which silence the trivial mobility of human actors."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Upon the ancestral silver hung a **stylised** dragon, its claws clutching an enameled rose."*

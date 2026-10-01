@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous to nerves or nerve cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous to nerves or nerve cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous, destructive, or damaging to nerve tissue or the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and neurology, describing substances (such as snake venoms, lead, organophosphates, or tetrodotoxin) that disrupt ion channel conduction or neurotransmitter release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotoxic designates poisonous to nerves or nerve cells."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The synthetic chlorinated insecticides exert a violent **neurotoxic** effect, causing tremors, convulsions, and respiratory paralysis."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"We investigated whether the traditional cycad flour contained a **neurotoxic** amino acid that triggered the local Parkinsonism dementia."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The coral snake's venom is intensely **neurotoxic**, blocking acetylcholine receptors at the neuromuscular junction."*

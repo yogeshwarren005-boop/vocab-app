@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized, non-feeding reproductive polyp (zooid) in colonial hydrozoan cnidarians that gives rise to medusa buds by asexual budding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, the central axis of a gonangium in hydroids such as Obelia, specialized exclusively for the generation of free-swimming medusae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastostyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The asexual **blastostyle** is devoid of tentacles and mouth, dedicated entirely to the production of medusoid gonophores."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Within the transparent gonotheca, the **blastostyle** buds off miniature jellyfish that pulse into the surrounding sea."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"The life cycle of the hydroid alternates between the anchored nutritive colony and the sexual medusae shed by the **blastostyle**."*

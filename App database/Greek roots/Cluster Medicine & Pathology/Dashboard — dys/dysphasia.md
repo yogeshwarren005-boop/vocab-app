@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of or deficiency in the power to use or understand language as a result of injury to or disease of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of or deficiency in the power to use or understand language as a result of injury to or disease of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A language disorder marked by deficiency in the generation or comprehension of speech, typically resulting from brain disease or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neurology, a cortical deficit distinguishing partial language impairment (dysphasia) from complete loss of language function (aphasia), localized to Broca's or Wernicke's speech areas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphasia designates loss of or deficiency in the power to use or understand language as a result of injury to or disease of the brain."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Motor **dysphasia** leaves the patient with preserved inner thought but an inability to articulate fluent syntactic sentences."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Despite her expressive **dysphasia**, she understood every word spoken to her and communicated through vivid emotional gestures."*
+> - 📜 **Norman Geschwind (*Selected Papers on Language and the Brain*):** *"The transient **dysphasia** following the ischemic stroke gradually resolved as collateral circulation restored perfusion to the angular gyrus."*

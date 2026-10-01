@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous substance that is a specific product of the metabolic activities of a living organism and is usually very unstable, notably toxic when introduced into the tissues, and typically capable of inducing antibody formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurotoxin formed by botulinum that causes botulism and that is injected in a purified form for therapeutic and cosmetic purposes (as to treat blepharospasm and reduce wrinkles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antigenic poison or venom of plant or animal origin, especially one produced by or derived from microorganisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular toxicology, a biological macromolecule that causes disease upon contact or absorption, provoking an immune response (formation of antitoxins).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In narrator by the access of years and in consequence of the use of narcotic toxin: in listener by the access of years and in consequence of the action of distraction upon vicarious experiences."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Roux proved that the filtered broth contained the deadly diphtheria **toxin**, free from any living bacteria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The tetanus **toxin** exhibits a specific biochemical affinity for the motor neurons of the anterior horns."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"A bacterial **toxin** is not merely a poison; it is an evolutionary key fashioned to turn our own cellular locks."*

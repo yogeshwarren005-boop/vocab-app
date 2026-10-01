@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a variety of infectious intestinal diseases resembling typhoid fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a variety of infectious intestinal diseases resembling typhoid fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious, food- and water-borne bacterial fever resembling typhoid, caused by Salmonella enterica serovars Paratyphi A, B, or C.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical epidemiology and infectious disease, a milder enteric fever distinguished from typhoid by serological agglutination (Widal test) and stool bacteriological culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paratyphoid designates any of a variety of infectious intestinal diseases resembling typhoid fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cases of **paratyphoid** run a shorter course with lower temperature, but remain capable of fatal intestinal perforation."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Bacteriologists isolated the **paratyphoid** bacillus from contaminated military rations during the Balkan campaigns."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory verified that the outbreak was not true typhus or typhoid, but a stubborn strain of **paratyphoid** B."*

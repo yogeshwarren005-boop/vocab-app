@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek asthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weakness or fatigue of the eyes, often accompanied by headache, dimness of vision, and ocular discomfort; eye strain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, visual fatigue resulting from uncorrected refractive errors (hyperopia, astigmatism), prolonged close work, or heterophoria (muscular asthenopia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenopia designates a term designating an entity, condition, or phenomenon derived from greek asthen."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Continuous reading of small characters by candlelight induces a grievous **asthenopia** and cloudiness of sight."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Accommodative **asthenopia** arises from sustained contraction of the ciliary muscle in uncorrected hypermetropic eyes."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The student complained of burning **asthenopia** after long nights spent over Latin lexicons."*

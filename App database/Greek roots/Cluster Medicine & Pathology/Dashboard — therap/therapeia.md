@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek therap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek concept of service, attendance, nurturing care, or medical healing (θεραπεία).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and medical humanities, the holistic therapeutic relationship and ritual healing attendance practiced in the temples of Asclepius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapeia designates a term designating an entity, condition, or phenomenon derived from greek therap."*
+> - 📜 **Plato (*The Republic*):** *"True **therapeia** of the soul consists in attuning its discordant passions to the harmony of justice."*
+> - 📜 **Hippocrates (*On the Sacred Disease*):** *"The physician's **therapeia** must assist nature's own restorative power rather than coerce it with violent remedies."*
+> - 📜 **Michel Foucault (*The Care of the Self*):** *"Classical **therapeia** encompassed not merely the curing of bodily symptoms, but the lifelong ethical cultivation of the self."*

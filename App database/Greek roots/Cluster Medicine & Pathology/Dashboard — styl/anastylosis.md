@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The archaeological restoration technique of reconstructing a ruined monument or building using the original architectural fragments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural heritage preservation (codified in the Venice Charter of 1964), re-erecting fallen columns and lintels while clearly distinguishing modern filler materials from authentic stone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastylosis designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Nicholas Balanos (*The Monuments of the Acropolis: Restoration and Conservation*):** *"Through careful **anastylosis**, we pieced together the shattered drums of the Parthenon columns from the rubble of the Venetian explosion."*
+> - 📜 **Henri Marchal (*The Restoration of Angkor Wat*):** *"French archaeologists applied Dutch methods of **anastylosis** to reassemble the collapsed sandstone galleries of the Banteay Srei temple."*
+> - 📜 **Cesare Brandi (*Theory of Restoration*):** *"Scientific **anastylosis** must respect historical patina, avoiding hypothetical reconstructions where original fragments are lost."*

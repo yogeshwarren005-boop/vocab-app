@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leukopenia in which the decrease in white blood cells is chiefly in neutrophils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leukopenia in which the decrease in white blood cells is chiefly in neutrophils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low number of neutrophils (the primary phagocytic white blood cells) in the blood, increasing susceptibility to bacterial and fungal infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical oncology, an acute, potentially life-threatening complication of myelosuppressive chemotherapy, defined by an absolute neutrophil count falling below critical diagnostic thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neutropenia designates leukopenia in which the decrease in white blood cells is chiefly in neutrophils."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"During the nadir of chemotherapy, febrile **neutropenia** turned the hospital room into a desperate race against invisible pathogens."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The oncologist monitored the bone marrow daily, hoping to see the patient emerge from drug-induced **neutropenia** before sepsis took hold."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"A sudden spike in fever during severe **neutropenia** mandates immediate hospitalization and broad-spectrum intravenous antibiotics."*

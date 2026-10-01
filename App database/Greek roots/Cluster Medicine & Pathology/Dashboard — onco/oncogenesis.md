@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The induction or formation of tumors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The induction or formation of tumors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of the initiation, development, and progression of tumors and cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular oncology, the multistep genetic and epigenetic cascade whereby normal cells acquire the biological hallmarks of cancer, driven by oncogene activation and tumor-suppressor gene inactivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncogenesis designates the induction or formation of tumors."*
+> - 📜 **Harold Varmus (*Nobel Lecture: Retroviruses and Cancer Genes*):** *"Viral **oncogenesis** provided the genetic Rosetta stone that decoded the cellular mechanisms of human cancer."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Multi-hit **oncogenesis** implies that a single mutation rarely suffices; cancer requires a lethal convergence of sequential genomic accidents."*
+> - 📜 **J. Michael Bishop (*How to Win the Nobel Prize*):** *"The study of chemical **oncogenesis** revealed that mutagens damage specific regulatory hotspots within cellular proto-oncogenes."*

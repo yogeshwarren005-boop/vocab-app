@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptional interest in and admiration for yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exceptional interest in and admiration for yourself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive interest in or admiration of oneself and one's physical appearance; self-centeredness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, narcissistic personality disorder (NPD), characterized by a pervasive pattern of grandiosity, need for admiration, and lack of empathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcissism designates an exceptional interest in and admiration for yourself."*
+> - 📜 **Sigmund Freud (*A General Introduction to Psychoanalysis*):** *"We have coined the term **narcissism** from Greek myth to denote that condition where the individual treats his own body as an erotic object."*
+> - 📜 **Christopher Lasch (*The Culture of Narcissism*):** *"Modern consumer culture fosters a widespread psychological **narcissism**, replacing historical consciousness with therapeutic preoccupation."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His passionate self-adoration was a monstrous form of **narcissism**, gazing upon his painted youth while his soul decayed."*

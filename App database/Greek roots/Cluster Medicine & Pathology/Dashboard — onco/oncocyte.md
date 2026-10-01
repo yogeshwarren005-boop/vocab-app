@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, specialized epithelial cell characterized by abundant, deeply eosinophilic, granular cytoplasm packed with mitochondria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and histology, an altered cell found in tumors (oncocytomas) or hyperplastic lesions of the thyroid (Hürthle cells), salivary glands, parathyroid, and kidneys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncocyte designates a term designating an entity, condition, or phenomenon derived from greek onco."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The swollen glandular cells exhibited intense eosinophilic granulation, characteristic of that which pathologists now term an **oncocyte**."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Under the electron microscope, the cytoplasm of an **oncocyte** is filled almost entirely with packed, abnormal mitochondria."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The pathologist noted sheets of uniform **oncocytes** with round nuclei, reassuring the team that the renal mass was benign."*

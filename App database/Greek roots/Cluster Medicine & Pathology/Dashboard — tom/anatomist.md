@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in anatomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in anatomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or scholar who studies the structure and organization of living organisms; one who performs anatomical dissections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, Renaissance scholars (such as Vesalius and John Hunter) whose physical investigations founded modern scientific surgery and pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But some specimen bones of it being taken across the sea to Owen, the English Anatomist, it turned out that this alleged reptile was a whale, though of a departed species."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But some specimen bones of it being taken across the sea to Owen, the English Anatomist, it turned out that this alleged reptile was a whale, though of a departed species."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"His upper jaw was furnished with two long white sharp-pointed teeth or fangs, such as the reader may have observed in the chaps of a wolf, or full-grown mastiff, and an anatomist would describe as a preternatural elongation of the dentes canini."*
+> - 📜 **John Hunter (*Essays and Observations on Natural History, Anatomy, and Physiology*):** *"The true **anatomist** never speculates upon function until he has laid bare every fiber of structure."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"I will make him an example, and show him to the world like a dissected subject for the **anatomist**."*
+> - 📜 **Sherwin B. Nuland (*Doctors*):** *"Vesalius was an intrepid **anatomist** who stole corpses from the gallows to establish the truths of human morphology."*

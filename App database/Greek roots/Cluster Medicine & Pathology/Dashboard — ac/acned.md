@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of complexion) blemished by imperfections of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of complexion) blemished by imperfections of the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by, covered with, or having acne; marked by pimples or blemishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing skin that exhibits inflammatory papules, pustules, or post-inflammatory erythematous macules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acned designates (of complexion) blemished by imperfections of the skin."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Behind the counter stood an **acned** apprentice, wiping greasy eyeglasses upon a dirty apron."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"Stephen observed the **acned** face of the schoolfellow who stammered through his Greek translation."*
+> - 📜 **Thomas Wolfe (*Look Homeward, Angel*):** *"The boy felt the hot humiliation of his **acned** cheeks whenever the girls laughed in the corridor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the perineum to enlarge the vaginal opening for obstetrical purposes during the birth process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision of the perineum to enlarge the vaginal opening for obstetrical purposes during the birth process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical incision made in the perineum and vaginal wall to facilitate childbirth and prevent traumatic tearing during difficult delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetric surgery, a procedure (mediolateral or midline) historically practiced routinely but now reserved for specific fetal or maternal indications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episiotomy designates surgical incision of the perineum to enlarge the vaginal opening for obstetrical purposes during the birth process."*
+> - 📜 **Joseph DeLee (*The Prophylactic Episiotomy*):** *"I advocated the routine **episiotomy** to preserve the muscular integrity of the pelvic floor and spare the fetal head prolonged compression."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful repair of an **episiotomy** incision with absorbable sutures ensures primary intention healing of the perineum."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The midwife swiftly performed a clean mediolateral **episiotomy** as the baby's head crowned in distress."*

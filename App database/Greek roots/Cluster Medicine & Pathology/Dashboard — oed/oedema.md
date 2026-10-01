@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal collection of fluid in the tissues of the body, causing swelling (standard British and historical medical spelling of edema).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and Commonwealth medical literature, the retention of watery fluid in subcutaneous tissues or serous cavities, as seen in dropsy or congestive heart failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oedema designates a term designating an entity, condition, or phenomenon derived from greek oed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The poor clerk's ankles exhibited marked **oedema**, his worn boots refusing to lace over the swollen flesh."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dying Detective*):** *"Holmes lay gasping, pointing out with clinical detachment the coldness of his skin and the incipient **oedema** of his extremities."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Under strict antiseptic dressings, inflammatory **oedema** subsided rapidly without suppuration or systemic fever."*

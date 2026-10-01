@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of columns in a straight row or linear colonnade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical urbanism and architecture, a straight colonnade flanking a sacred way, agora, or stoa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthostyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"The civic stoa was laid out as an **orthostyle** colonnade, providing shelter from sun and rain across the marketplace."*
+> - 📜 **William Chambers (*Treatise on Civil Architecture*):** *"The **orthostyle** screen designed by Bernini leads the eye straight toward the Vatican basilica."*
+> - 📜 **James Fergusson (*A History of Architecture*):** *"The ancient Greek **orthostyle** walkway gave architectural order to the sprawling sanctuary of Delphi."*

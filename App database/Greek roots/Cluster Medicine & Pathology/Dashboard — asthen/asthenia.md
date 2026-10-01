@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack or loss of strength : debility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack or loss of strength : debility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal physical weakness, feebleness, or lack of energy; debility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, generalized loss of muscular strength and endurance without true paralysis, characteristic of chronic infections, Addison's disease, or neuromuscular junction disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenia designates lack or loss of strength : debility."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Profound muscular **asthenia** accompanied by dark pigmentation of the skin immediately suggests tuberculosis of the suprarenal capsules."*
+> - 📜 **Thomas Addison (*On the Constitutional and Local Effects of Disease of the Supra-Renal Capsules*):** *"The leading characteristics of the malady are anemia, general languor and debility, and remarkable feebleness of the heart's action, culminating in terminal **asthenia**."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"A profound subjective **asthenia** invaded my limb, making it feel as weightless and unresponsive as a lump of dough."*

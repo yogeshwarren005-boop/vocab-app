@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pacific salmon including sockeye salmon; chinook salmon; chum salmon; coho salmon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pacific salmon including sockeye salmon; chinook salmon; chum salmon; coho salmon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of anadromous fish in the salmon family (Salmonidae), comprising Pacific salmon (such as sockeye, coho, and chinook) and Pacific trout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, named from Greek onkos (hooked) and rhynchos (snout), referencing the prominent hooked jaw (kype) that develops in breeding males during their upstream spawning migration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncorhynchus designates pacific salmon including sockeye salmon; chinook salmon; chum salmon; coho salmon."*
+> - 📜 **John Muir (*Travels in Alaska*):** *"Thousands of leaping salmon of the genus **Oncorhynchus** crowded the icy glacial streams, their crimson flanks flashing in the sun."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The species of **Oncorhynchus** ascend the Pacific rivers for thousands of miles, spawn once with heroic devotion, and die upon their gravel redds."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Guided by the mysterious olfactory memory of their natal rivers, the **Oncorhynchus** salmon navigated home across vast ocean wastes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek py.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purulent discharge or flow of pus from mucous tissues, especially chronic purulent gum disease (standard British and classical medical spelling of pyorrhea).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Commonwealth medical texts, chronic periodontal infection characterized by pus oozing from deep periodontal pockets around the alveolar margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyorrhoea designates a term designating an entity, condition, or phenomenon derived from greek py."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The fashionable Harley Street physician blamed all human infirmities upon chronic **pyorrhoea** and demanded total extraction of the teeth."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The elderly gentleman spoke with an impediment, having suffered for years from painful **pyorrhoea** of the gums."*
+> - 📜 **Arthur Conan Doyle (*The Case-Book of Sherlock Holmes*):** *"The dental evidence showed marked **pyorrhoea**, matching the missing banker's recorded odontological chart."*

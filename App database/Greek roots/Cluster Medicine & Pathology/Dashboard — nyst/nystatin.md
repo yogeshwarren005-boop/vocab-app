@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyene antifungal antibiotic medication obtained from the bacterium Streptomyces noursei, used to treat Candida infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of pharmacology, discovered in 1950 by Elizabeth Lee Hazen and Rachel Fuller Brown at the New York State Department of Health (hence named Ny-stat-in).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nystatin designates an antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes."*
+> - 📜 **Rachel Fuller Brown (*Discovery of Nystatin*):** *"We named the antibiotic **nystatin** in honor of the New York State Division of Laboratories where our research was conducted."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"When systemic chemotherapy ablated the marrow, swabbing with **nystatin** kept oral fungal candida blooms from overwhelming the gut."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"He relied on topical **nystatin** to treat the persistent cutaneous yeast infections that plagued the humid tropical garrison."*

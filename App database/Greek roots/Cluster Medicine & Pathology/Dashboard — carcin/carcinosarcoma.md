@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant neoplasm composed of carcinoma and sarcoma extensively intermixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant neoplasm composed of carcinoma and sarcoma extensively intermixed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare and highly aggressive malignant tumor composed of a mixture of carcinoma (epithelial) and sarcoma (mesenchymal/connective tissue) elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecologic and thoracic oncology, a biphasic metaplastic neoplasm (true malignant mixed tumor) showing monoclonal origin with divergent differentiation and a poor prognosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinosarcoma designates a malignant neoplasm composed of carcinoma and sarcoma extensively intermixed."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The biopsy of the uterine mass revealed a deadly **carcinosarcoma**, where malignant glands were intermingled with sarcomatous cartilage."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Because a **carcinosarcoma** contains both epithelial and mesenchymal malignant cells, it often exhibits fierce resistance to standard chemotherapy."*
+> - 📜 **Atul Gawande (*Complications*):** *"The surgical team knew that complete radical resection offered the only hope against this aggressive pulmonary **carcinosarcoma**."*

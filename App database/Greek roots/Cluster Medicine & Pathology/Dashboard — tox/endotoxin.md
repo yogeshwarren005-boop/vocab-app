@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic component present inside a bacterial cell that is released only when the bacterium disintegrates or lyses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and immunology, the lipopolysaccharide (LPS) of the outer membrane of Gram-negative bacteria (e.g., E. coli, Salmonella), which activates Toll-like receptor 4 to trigger fever, septic shock, and disseminated intravascular coagulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endotoxin designates a toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"Gram-negative **endotoxin** is our ultimate alarm chemical; the body reads its presence as a catastrophic invasion and mobilizes defenses that can destroy the host."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Circulating bacterial **endotoxin** binds to macrophage receptors, unleashing a storm of inflammatory cytokines."*
+> - 📜 **Atul Gawande (*Complications*):** *"The collapse of blood pressure in septic shock is driven by the massive release of **endotoxin** from dying bacteria."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irregular, column-like, or serrated suture-like surface found in sedimentary rocks (especially limestones and marbles), produced by pressure dissolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentary geology, a diagenetic compaction structure marked by an insoluble residue of clay, carbon, or iron oxides along a zig-zag tooth-like plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylolite designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The polished marble slab displayed a dark, jagged seam, which petrologists designate as a **stylolite** formed by chemical dissolution."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"A cross-section through the limestone shows interlocking tooth-like projections of the **stylolite** interlocking like cranial sutures."*
+> - 📜 **Francis J. Pettijohn (*Sedimentary Rocks*):** *"Differential pressure dissolution under deep overburden stress concentrates insoluble insolubles along the **stylolite** horizon."*

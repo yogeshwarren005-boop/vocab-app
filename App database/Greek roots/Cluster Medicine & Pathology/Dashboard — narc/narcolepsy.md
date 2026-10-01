@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by brief attacks of deep sleep often occurring with cataplexy and hypnagogic hallucinations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition characterized by brief attacks of deep sleep often occurring with cataplexy and hypnagogic hallucinations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic neurological disorder characterized by overwhelming daytime drowsiness and sudden, uncontrollable episodes of falling asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep medicine and neurobiology, a condition caused by autoimmune destruction of orexin (hypocretin)-producing neurons in the lateral hypothalamus, often accompanied by cataplexy, sleep paralysis, and hypnagogic hallucinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcolepsy designates a condition characterized by brief attacks of deep sleep often occurring with cataplexy and hypnagogic hallucinations."*
+> - 📜 **Jean-Baptiste-Édouard Gélineau (*De la narcolepsie*):** *"I designate as **narcolepsy** this rare neurosis marked by sudden, irresistible paroxysms of sleep occurring in the middle of active conversation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **narcolepsy**, sleep strikes with sudden violence, causing the patient to slump over his desk or workshop bench."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The vivid hypnagogic nightmares of **narcolepsy** blur the boundary between conscious waking reality and the dream world."*

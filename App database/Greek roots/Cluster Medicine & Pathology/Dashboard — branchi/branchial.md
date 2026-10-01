@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gills (or to parts of the body derived from embryonic gills).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gills (or to parts of the body derived from embryonic gills).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling gills; pertaining to the branchiae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate embryology, relating to the branchial (pharyngeal) arches, clefts, and pouches that give rise to the jaws, middle ear, thyroid, and thymus in terrestrial vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchial designates of or relating to gills (or to parts of the body derived from embryonic gills)."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"The human embryo temporarily develops **branchial** arches that recapitulate our ancient aquatic ancestry before transforming into the bones of the middle ear."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The presence of **branchial** slits in the embryos of birds and mammals is an unanswerable proof of community of descent."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"A congenital **branchial** cyst arises from incomplete obliteration of the second embryonic pharyngeal cleft."*

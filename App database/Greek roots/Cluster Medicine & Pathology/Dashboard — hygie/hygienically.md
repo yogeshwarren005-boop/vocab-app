@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hygienic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hygienic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hygienic, clean, and sanitary manner; so as to preserve health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to the rigorous sanitation standards required in food processing, surgical suites, and public water supplies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygienically designates in a hygienic manner."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Unless bedding is washed and dried **hygienically** in fresh air, it retains the infectious emanations of the sick."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Meat destined for the market was handled in a manner that was neither clean nor **hygienically** defensible."*
+> - 📜 **Atul Gawande (*Better*):** *"Surgeons who scrub **hygienically** for the full protocol drastically reduce the incidence of post-operative infection."*

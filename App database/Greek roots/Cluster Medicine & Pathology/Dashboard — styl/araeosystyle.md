@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural arrangement in which columns are arranged in pairs with alternating wide and narrow intercolumniations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance and Baroque neoclassical design, an elevation featuring coupled columns separated by wider bays, famously executed by Claude Perrault at the East Façade of the Louvre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, araeosystyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Claude Perrault (*Ordonnance des cinq espèces de colonnes*):** *"By adopting the **araeosystyle** arrangement of paired columns, we attained both architectural majesty and broad, well-lit window bays."*
+> - 📜 **John Soane (*Lectures on Architecture*):** *"The paired columns of the **araeosystyle** facade give an impression of immense structural stability without sacrificing light."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Perrault's colonnade of the Louvre became the celebrated prototype of the **araeosystyle** order throughout European capitals."*

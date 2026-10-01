@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to atherosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to atherosclerosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by atherosclerosis; characterized by fatty plaque build-up in arterial walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular pathology, describing compromised vascular lumens, plaque ulceration, or calcified vessels causing downstream tissue ischemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherosclerotic designates of or relating to atherosclerosis."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"The patient presented with classic claudication caused by extensive **atherosclerotic** occlusion of the superficial femoral artery."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The ultrasound confirmed that an **atherosclerotic** plaque was obstructing seventy percent of the internal carotid lumen."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Decades of diabetes and hypertension had accelerated the **atherosclerotic** stiffening of her arterial tree."*

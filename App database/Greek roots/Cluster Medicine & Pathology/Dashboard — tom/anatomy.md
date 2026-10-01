@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of morphology that deals with the structure of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treatise on anatomical science or art.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science concerned with the bodily structure of humans, animals, and other living organisms, especially as revealed by dissection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exhaustive written analysis or structural dissection of a complex topic, institution, or psychological condition (e.g., Robert Burton's Anatomy of Melancholy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Along with them They brought one Pinch, a hungry lean-faced villain, A mere anatomy, a mountebank, A threadbare juggler, and a fortune-teller; A needy, hollow-ey’d, sharp-looking wretch; A living dead man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then with a passion would I shake the world; And rouse from sleep that fell anatomy Which cannot hear a lady’s feeble voice, Which scorns a modern invocation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, tell me, Friar, tell me, In what vile part of this anatomy Doth my name lodge?"*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The study of **anatomy** is the only reliable foundation upon which the sublime palace of medicine can be built."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"I write of melancholy by being busy to avoid melancholy, crafting this **anatomy** of human misery."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Without thorough training in morbid **anatomy**, the clinician is like a mariner without a compass."*

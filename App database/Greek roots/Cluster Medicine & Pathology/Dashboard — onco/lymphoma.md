@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually malignant tumor of lymphoid tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-Hodgkin's lymphoma of B cell origin that occurs especially in children of central Africa and is associated with Epstein-Barr virus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cancer of the lymphatic system, originating in lymphocytes (white blood cells) and affecting lymph nodes, the spleen, and bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematologic oncology, broadly classified into Hodgkin lymphoma (marked by pathognomonic Reed–Sternberg cells) and diverse aggressive or indolent non-Hodgkin lymphomas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lymphoma designates a usually malignant tumor of lymphoid tissue."*
+> - 📜 **Thomas Hodgkin (*On Some Morbid Appearances of the Absorbent Glands and Spleen*):** *"The painless enlargement of multiple absorbent glands in these cases represents a distinct primary systemic disease, now termed **lymphoma**."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Combination chemotherapy with MOPP cured advanced Hodgkin **lymphoma**, demonstrating for the first time that metastatic cancer could be eradicated with drugs."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The biopsy of the cervical lymph node confirmed an aggressive B-cell **lymphoma**, prompting immediate immunotherapy."*

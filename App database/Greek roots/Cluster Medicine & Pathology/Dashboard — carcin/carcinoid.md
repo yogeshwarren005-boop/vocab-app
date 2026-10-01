@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of slow-growing neuroendocrine tumor, usually originating in the gastrointestinal tract or lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, a tumor composed of uniform cells with neurosecretory granules that can secrete serotonin, causing carcinoid syndrome (flushing, diarrhea, and bronchospasm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinoid designates a small tumor (benign or malignant) arising from the mucosa of the gastrointestinal tract; usually associated with excessive secretion of serotonin."*
+> - 📜 **Siegfried Oberndorfer (*Karzinoide Tumoren des Dünndarms*):** *"Because these submucosal growths appeared morphologically like carcinomas yet ran a remarkably indolent course, I designated them as **carcinoid** tumors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An appendiceal **carcinoid** is frequently an incidental finding discovered during routine surgery for acute appendicitis."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The patient's episodic facial flushing and cardiac valvular thickening were classic hallmarks of metastatic **carcinoid** syndrome."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking columns or pillars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking columns or pillars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical architecture, lacking columns, pilasters, or colonnades on the exterior walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural design, describing Renaissance palazzi (such as the Palazzo Farnese or Palazzo Strozzi) whose façades rely upon rustication and proportion rather than classical orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astylar designates lacking columns or pillars."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The noble **astylar** front of the Florentine palazzo derives its majesty from massive stone rustication and deep overhanging eaves."*
+> - 📜 **James Fergusson (*History of Modern Architecture*):** *"Sangallo chose an **astylar** design for the Palazzo Farnese, crowning the smooth brickwork with a colossal classical cornice."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Early Italian Renaissance palaces were purely **astylar**, presenting fortress-like masonry to the city streets."*

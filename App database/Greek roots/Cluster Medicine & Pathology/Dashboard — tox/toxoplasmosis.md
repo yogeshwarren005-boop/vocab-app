@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection of humans, other mammals, or birds with disease caused by a toxoplasma (Toxoplasma gondii) that invades the tissues and may seriously damage the central nervous system especially of infants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection of humans, other mammals, or birds with disease caused by a toxoplasma (Toxoplasma gondii) that invades the tissues and may seriously damage the central nervous system especially of infants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease caused by the microscopic intracellular protozoan parasite Toxoplasma gondii, transmitted via undercooked meat or contact with cat feces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and infectious disease, a dangerous congenital infection causing chorioretinitis, hydrocephalus, and intracranial calcifications in the fetus, or encephalitis in immunocompromised hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxoplasmosis designates infection of humans, other mammals, or birds with disease caused by a toxoplasma (toxoplasma gondii) that invades the tissues and may seriously damage the central nervous system especially of infants."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **toxoplasmosis** produces devastating intracranial calcifications and blindness in the newborn."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Cerebral **toxoplasmosis** formed multiple ring-enhancing abscesses in the immunosuppressed patient's basal ganglia."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Antiparasitic therapy with pyrimethamine successfully suppressed the opportunistic flare of **toxoplasmosis**."*

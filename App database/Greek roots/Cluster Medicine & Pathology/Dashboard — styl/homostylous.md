@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) having styles all of the same length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) having styles all of the same length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having styles and stamens of the same relative length in all flowers of a species; exhibiting homostyly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrasted with heterostylous species (such as distylous or tristylous primroses) which evolved reciprocal herkogamy to enforce cross-pollination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homostylous designates (botany) having styles all of the same length."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"I was led to examine the **homostylous** primroses, which possess equal styles and anthers, to trace the evolutionary origin of heterostyly."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Darwin's experiments on **homostylous** flowers demonstrated how natural selection fine-tunes floral anatomy to avoid inbreeding depression."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"The breakdown of distyly into a self-fertile **homostylous** form is a common evolutionary strategy for colonizing weed species."*

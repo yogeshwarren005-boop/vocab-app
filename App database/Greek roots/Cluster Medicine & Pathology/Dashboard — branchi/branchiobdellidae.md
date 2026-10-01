@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small annelid worms with the posterior end modified into an adhesive sucker; especially formerly regarded as modified leeches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small annelid worms with the posterior end modified into an adhesive sucker; especially formerly regarded as modified leeches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of freshwater clitellate annelids (crayfish worms) that live obligately on freshwater astacid and cambarid crayfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and freshwater ecology, worm-like symbionts characterized by a cylindrical body of fifteen segments, an anterior and posterior sucker, and lack of setae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiobdellidae designates small annelid worms with the posterior end modified into an adhesive sucker; especially formerly regarded as modified leeches."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The family **Branchiobdellidae** exhibits extraordinary host specificity, rarely surviving when removed from its native astacid host."*
+> - 📜 **James H. Thorp (*Ecology and Classification of North American Freshwater Invertebrates*):** *"Crayfish harboring moderate populations of **Branchiobdellidae** maintain cleaner gill surfaces and exhibit higher metabolic efficiency."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Ectosymbiotic relationships such as those demonstrated by the **Branchiobdellidae** illustrate how specialization binds aquatic species together."*

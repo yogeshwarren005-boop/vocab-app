@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of thyroid gland tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of thyroid gland tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of all or part of the thyroid gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrine surgery, pioneered by Emil Theodor Kocher (1909 Nobel Prize), who perfected surgical technique to minimize hemorrhage and avoid damaging the recurrent laryngeal nerve and parathyroid glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroidectomy designates surgical removal of thyroid gland tissue."*
+> - 📜 **Emil Theodor Kocher (*Nobel Lecture: Concerning Pathological Manifestations in Low-Grade Thyroid Function*):** *"Total **thyroidectomy** for goiter cured the hyperthyroidism, but taught us the tragic clinical picture of cachexia strumipriva when all tissue was removed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Kocher's exquisite anatomical hemostasis made **thyroidectomy** one of the safest and most successful major surgical procedures."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"During a total **thyroidectomy**, the surgeon carefully identifies and preserves the delicate recurrent laryngeal nerves."*

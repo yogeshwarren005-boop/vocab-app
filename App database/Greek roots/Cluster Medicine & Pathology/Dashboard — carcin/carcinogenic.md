@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or tending to produce cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or tending to produce cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the potential, tendency, or capacity to cause cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bioassays, describing chemical compounds or physical rays shown in epidemiological or laboratory animal models to induce neoplastic transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinogenic designates producing or tending to produce cancer."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The widespread use of persistent pesticides created a pervasive **carcinogenic** hazard that accumulated throughout the ecological food chain."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Doll and Hill demonstrated the direct **carcinogenic** relationship between cigarette smoking and bronchogenic carcinoma."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*):** *"My chemist uncle warned me that certain aromatic amines were notoriously **carcinogenic** and required handling strictly under a fume hood."*

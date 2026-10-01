@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek traum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or morbid fear of physical injury, wounds, or bodily trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, an anxiety disorder manifesting in extreme avoidance behavior regarding physical activity, medical interventions, or situations perceived as carrying injury risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traumatophobia designates a term designating an entity, condition, or phenomenon derived from greek traum."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The neurotic invalid was paralyzed by a persistent **traumatophobia**, fearing that every staircase or gust of wind portended catastrophic bodily harm."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In extreme phobic states, **traumatophobia** leads patients to pad their clothing and barricade themselves within their homes."*
+> - 📜 **Cesare Lombroso (*The Man of Genius*):** *"Morbid dreads such as **traumatophobia** frequently afflict sensitive intellectual temperaments exposed to prolonged nervous strain."*

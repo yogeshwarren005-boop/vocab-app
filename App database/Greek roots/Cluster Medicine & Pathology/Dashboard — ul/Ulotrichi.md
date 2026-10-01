@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ul.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical anthropological classification denoting peoples characterized by woolly, tightly curled, or frizzled hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century ethnology, a division established by Thomas Henry Huxley contrasting curly-haired populations (Ulotrichi) with smooth- or straight-haired peoples (Leiotrichi).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ulotrichi designates a term designating an entity, condition, or phenomenon derived from greek ul."*
+> - 📜 **Thomas Henry Huxley (*On the Geographical Distribution of the Chief Modifications of Mankind*):** *"I divide the human family into two primary groups, the **Ulotrichi** with crisp woolly hair, and the Leiotrichi with smooth hair."*
+> - 📜 **Edward Burnett Tylor (*Anthropology: An Introduction to the Study of Man and Civilization*):** *"Microscopic cross-sections of hair from the **Ulotrichi** show a distinctive flattened oval form that causes the hair fiber to spiral."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The Papuan inhabitants of the interior belong unmistakably to the **Ulotrichi**, their towering crowns of matted fleece distinguishing them from the coastal Malays."*

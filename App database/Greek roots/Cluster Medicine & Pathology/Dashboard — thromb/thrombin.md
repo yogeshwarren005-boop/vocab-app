@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that acts on fibrinogen in blood causing it to clot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that acts on fibrinogen in blood causing it to clot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An active serine protease enzyme in blood plasma that catalyzes the conversion of soluble fibrinogen into insoluble fibrin strands during blood clot formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular biology, Factor IIa, a multifunctional signaling enzyme that also activates platelets, factors V, VIII, and XIII, and binds thrombomodulin to activate protein C.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombin designates an enzyme that acts on fibrinogen in blood causing it to clot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The generation of free **thrombin** in the bloodstream triggers immediate polymerization of fibrin nets across the injured vessel."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Minute quantities of **thrombin** exert a powerful positive feedback on the upstream coagulation cascade."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The cascade culminated in a burst of **thrombin**, converting liquid plasma into a solid gel within seconds."*

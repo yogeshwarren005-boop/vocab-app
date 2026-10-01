@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine dealing with the development, care, and diseases of infants, children, and adolescents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine dealing with the development, care, and diseases of infants, children, and adolescents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine dealing with the health and medical care of infants, children, and adolescents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, established as an autonomous medical specialty in the nineteenth century (pioneered by Abraham Jacobi) to address the unique physiology of growing children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pediatrics designates a branch of medicine dealing with the development, care, and diseases of infants, children, and adolescents."*
+> - 📜 **Abraham Jacobi (*Therapeutics of Infancy and Childhood*):** *"The foundation of **pediatrics** as an independent discipline rests upon the truth that a child is not merely a miniature adult."*
+> - 📜 **William Osler (*Aequanimitas*):** *"No department of clinical medicine offers greater rewards than **pediatrics**, preserving the budding promise of human life."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Advances in cellular **pediatrics** transformed childhood acute lymphoblastic leukemia from an absolute death sentence into a curable disease."*

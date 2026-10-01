@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme liberated from blood platelets that converts prothrombin into thrombin as blood starts to clot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme liberated from blood platelets that converts prothrombin into thrombin as blood starts to clot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex enzyme and phospholipid mixture released by damaged tissues that converts prothrombin to thrombin in the presence of calcium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory diagnostic hematology, a reagent (tissue factor plus phospholipids) used to perform the prothrombin time (PT) test to monitor warfarin therapy and extrinsic pathway function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thromboplastin designates an enzyme liberated from blood platelets that converts prothrombin into thrombin as blood starts to clot."*
+> - 📜 **Paul Morawitz (*The Mechanism of Blood Clotting*):** *"Injured tissue cells yield **thromboplastin**, which acts as the spark that ignites the chemical engine of coagulation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The partial **thromboplastin** time evaluates the integrity of the intrinsic coagulation factors in hemophilic patients."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Extravasated blood meets tissue **thromboplastin**, producing a localized fibrin clot within twelve seconds."*

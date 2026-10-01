@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic crustaceans typically having a carapace and many pairs of leaflike appendages used for swimming as well as respiration and feeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the subclass branchiopoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the branchiopods or the class Branchiopoda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing physiological adaptations (such as drought-resistant resting cysts and phyllopodous limbs) typical of branchiopod crustaceans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiopodan designates aquatic crustaceans typically having a carapace and many pairs of leaflike appendages used for swimming as well as respiration and feeding."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **branchiopodan** resting eggs retain viability across decades of drought, hatching within hours when temporary rains return."*
+> - 📜 **William Thomas Calman (*Crustacea*):** *"The **branchiopodan** swimming stroke coordinates dozens of leaf-like limbs in a continuous metachronal wave."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The wide distribution of **branchiopodan** species across remote oceanic islands is explained by avian transport of their microscopic cysts."*

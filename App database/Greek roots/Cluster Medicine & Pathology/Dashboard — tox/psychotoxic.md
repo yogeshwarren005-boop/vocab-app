@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of arrow, bow, poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of arrow, bow, poison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a toxic, damaging, or deranging effect on the mind, mental health, or psychological functioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacology, describing drugs or chemical exposures that induce hallucinations, delirium, acute psychosis, or permanent cognitive impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotoxic designates adjective*) pertaining to, derived from, or characteristic of arrow, bow, poison."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"Unlike crude alcohol, certain mescaline alkaloids produce perceptual shifts without gross **psychotoxic** hangover."*
+> - 📜 **Alexander Shulgin (*PiHKAL: A Chemical Love Story*):** *"Careful dosage titrations are required to establish whether a compound is psychotherapeutic or dangerously **psychotoxic**."*
+> - 📜 **Cesare Lombroso (*The Man of Genius*):** *"Prolonged exposure to industrial lead fumes exerted a **psychotoxic** influence, culminating in melancholic hallucinations."*

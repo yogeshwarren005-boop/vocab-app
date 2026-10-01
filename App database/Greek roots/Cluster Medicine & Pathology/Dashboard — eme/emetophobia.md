@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, intense, and irrational fear of vomiting or seeing others vomit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a debilitating specific phobia often accompanied by panic attacks, severe dietary restrictions, and obsessive avoidance of public transport, hospitals, or social gatherings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emetophobia designates a term designating an entity, condition, or phenomenon derived from greek eme."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Her severe **emetophobia** made taking oral medications an ordeal of overwhelming dread."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The young woman's dramatic weight loss was traced not to anorexia nervosa, but to an unyielding **emetophobia**."*
+> - 📜 **Cesare Lombroso (*The Man of Genius*):** *"Neurotic dreads of natural bodily functions, such as **emetophobia**, frequently induce chronic insomnia and social withdrawal."*

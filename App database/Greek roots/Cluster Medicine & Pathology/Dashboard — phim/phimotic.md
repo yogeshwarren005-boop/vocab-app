@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of muzzle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of muzzle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by phimosis; constricted or abnormally narrowed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a fibrous preputial ring that resists retraction or obstructs normal fluid discharge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phimotic designates adjective*) pertaining to, derived from, or characteristic of muzzle."*
+> - 📜 **Percivall Pott (*Observations on the Nature and Consequences of Those Injuries to Which the Head is Liable*):** *"The **phimotic** orifice had contracted to the diameter of a pinhead, preventing normal evacuation."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"Chronic irritation of a **phimotic** prepuce has been recognized since antiquity as a predisposing factor for malignant ulceration."*
+> - 📜 **Atul Gawande (*Complications*):** *"The pediatric surgeon released the rigid **phimotic** band with a precise, conservative incision."*

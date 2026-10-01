@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pnig.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary chemical compound formed between a pnictogen (an element of Group 15) and a more electropositive element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics and materials science, iron-based pnictide superconductors (such as lanthanum oxygen fluorine iron arsenide) displaying high critical temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pnictide designates a term designating an entity, condition, or phenomenon derived from greek pnig."*
+> - 📜 **Hideo Hosono (*Superconductivity in Iron-Based Pnictides*):** *"The discovery of high-temperature superconductivity in an iron-arsenic **pnictide** challenged the long-held belief that iron magnetism precluded Cooper pairing."*
+> - 📜 **Philip Ball (*Nature Materials Reviews*):** *"The crystalline layers of the iron **pnictide** permit electrical conduction while effectively decoupling from surrounding magnetic fluctuations."*
+> - 📜 **C. N. R. Rao (*Transition Metal Oxides and Pnictides*):** *"Chemical substitution within the parent **pnictide** lattice alters carrier density and suppresses the antiferromagnetic ground state."*

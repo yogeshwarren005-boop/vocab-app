@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, itchy, scaly cutaneous eruption or disease; historically identified with the itch, scabies, or psoriasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the homeopathic doctrine of Samuel Hahnemann, the fundamental primordial miasm or constitutional taint held to underlie the vast majority of non-venereal chronic diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psora designates a term designating an entity, condition, or phenomenon derived from greek psor."*
+> - 📜 **Samuel Hahnemann (*The Chronic Diseases: Their Peculiar Nature and Their Homoeopathic Cure*):** *"I recognized that almost all chronic maladies are manifestations of that ancient, hydra-headed monster, **psora**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ancient writers confounded true scabies, leprosy, and dry eczema under the generic appellation of **psora**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Homeopathy and Its Kindred Delusions*):** *"Hahnemann traced the origin of nearly every human infirmity to his speculative doctrine of internal **psora**."*

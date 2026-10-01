@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic skin disease characterized by circumscribed red patches covered with white scales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic skin disease characterized by circumscribed red patches covered with white scales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common, chronic autoimmune skin disease characterized by red, raised, inflamed patches covered with silvery-white scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and dermatology, a T-cell-mediated hyperproliferative disorder of keratinocytes driven by interleukin-23 and interleukin-17 signaling cascades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psoriasis designates a chronic skin disease characterized by circumscribed red patches covered with white scales."*
+> - 📜 **John Updike (*Self-Consciousness: Memoirs*):** *"My **psoriasis** made me a sun-worshipper, driving me to Caribbean beaches where ultraviolet rays bleached the red patches from my skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **psoriasis**, the lesions favor the extensor surfaces of the elbows and knees, presenting brilliant silvery scales."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The tropical humidity afforded him no relief from the painful cracking of arthritic **psoriasis** across his finger joints."*

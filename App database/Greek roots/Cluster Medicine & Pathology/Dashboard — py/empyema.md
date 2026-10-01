@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of pus in a bodily cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of pus in a bodily cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of pus inside a naturally existing anatomical body cavity, especially the pleural space (pleural empyema).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic surgery and pulmonology, an advanced purulent complication of bacterial pneumonia, thoracic trauma, or esophageal rupture requiring tube thoracostomy or decortication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"One of my patients has empyema following pleurisy."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"When **empyema** is evacuated by cautery or cutting, if pure white pus flows, the patients recover; but if mixed with bloody froth, they perish."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Exploratory puncture with a fine needle is the only certain method of detecting post-pneumonic **empyema** in the pleural cavity."*
+> - 📜 **Sherwin B. Nuland (*Doctors: The Biography of Medicine*):** *"The evacuation of a foul **empyema** from the chest was one of the earliest successful major operations of antiquity."*

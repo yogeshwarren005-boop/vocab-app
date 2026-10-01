@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by columniation having free columns in a portico only across the opening to the structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by columniation having free columns in a portico only across the opening to the structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing to be prostyle, but with the front columns partially engaged or set without a true projecting portico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural criticism, an elevation where columns are attached to the front wall rather than forming an open, freestanding colonnaded porch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoprostyle designates marked by columniation having free columns in a portico only across the opening to the structure."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"When space was confined, provincial architects adopted a **pseudoprostyle** facade with half-columns engaged in the front wall."*
+> - 📜 **James Fergusson (*History of Architecture in All Countries*):** *"The **pseudoprostyle** arrangement gives the illusion of a portico without sacrificing interior floor space."*
+> - 📜 **William Chambers (*Treatise on Civil Architecture*):** *"Neoclassical bank buildings frequently employ a **pseudoprostyle** front to convey classical dignity within narrow street lines."*

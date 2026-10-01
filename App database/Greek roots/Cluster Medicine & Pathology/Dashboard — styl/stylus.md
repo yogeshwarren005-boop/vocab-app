@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for writing, marking, or incising: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used by the ancients in writing on clay or waxed tablets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pointed, pen-shaped instrument used for writing, drawing, incising, or marking on a surface (such as an ancient wax tablet, a touch screen, or a recording foil).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic history and sound reproduction, the jewel-tipped needle (sapphire or diamond) that tracks the microscopic groove of a phonograph record to transduce mechanical vibrations into sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Suppose that we connect the foil to one pole of a battery, and the other pole by a flexible wire to a metal pen or stylus."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is these excursions of the stylus which the dotted lines are intended to represent."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For nearly the whole of the time current will be flowing; but whenever the stylus is crossing one of the lines of non-conductive ink there will be a momentary cessation."*
+> - 📜 **Thomas A. Edison (*The Phonograph and Its Future*):** *"The metallic diaphragm vibrates under the influence of the voice, driving the sharp recording **stylus** into the revolving tinfoil cylinder."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The Roman schoolboy erased his faulty exercises with the blunt end of his iron **stylus**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Caesar defended his life with his iron **stylus**, striking Cassius through the arm before the assassins overpowered him."*

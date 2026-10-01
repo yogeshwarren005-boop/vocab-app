@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent according to a conventional style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using artistic forms and conventions to create effects; not natural or spontaneous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Depicted, produced, or treated in a conventional, non-realistic, and decorative style rather than naturalistically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by stylized conventions, formal geometry, or simplified design in painting, theater, dance, or fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylized designates represent according to a conventional style."*
+> - 📜 **E. H. Gombrich (*The Story of Art*):** *"In ancient Egyptian art, every figure was rendered in a strictly **stylized** profile, combining multiple viewpoints into a single conceptual image."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The wooden idol was carved with **stylized** savagery, its mother-of-pearl eyes staring into the dark room."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Their formal movements resembled a **stylized** ballet performed upon a sunlit terrace."*

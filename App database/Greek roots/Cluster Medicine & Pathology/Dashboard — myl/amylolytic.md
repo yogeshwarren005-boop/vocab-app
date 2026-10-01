@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the process of amylolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the process of amylolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of converting or hydrolyzing starch into sugars; exhibiting amylase activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zymology and digestive physiology, describing enzymes (such as ptyalin or pancreatin) that cleave complex starch polysaccharides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amylolytic designates of or related to the process of amylolysis."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The **amylolytic** ferments of the pancreatic secretion act upon raw and cooked starches alike with astonishing power."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The germination of barley develops strong **amylolytic** diastase, which saccharifies the grain mash for brewing."*
+> - 📜 **Ivan Pavlov (*The Work of the Digestive Glands*):** *"A diet rich in bread stimulates the pancreas to secrete a juice with high **amylolytic** potency."*

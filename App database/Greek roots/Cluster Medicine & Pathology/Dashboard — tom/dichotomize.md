@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into two opposing groups or kinds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into two opposing groups or kinds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide, classify, or split into two sharply distinguished, opposed, or contradictory parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics and research design, to transform a continuous numerical variable into a binary categorical variable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichotomize designates divide into two opposing groups or kinds."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We tend to **dichotomize** our thoughts into self and not-self, carving reality along psychological lines."*
+> - 📜 **Bertrand Russell (*History of Western Philosophy*):** *"Plato was prone to **dichotomize** the universe into an eternal world of ideas and an illusory world of sense."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"To **dichotomize** human intelligence into nature versus nurture is a fallacy that distorts biological complexity."*

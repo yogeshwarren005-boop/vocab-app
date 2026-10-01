@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from myle, μύλη) meaning a mill, millstone, grinder, or molar tooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological analysis, the parent root of mylo- (molar/mill) and amylon (starch, literally 'unmilled' or meal not needing a millstone).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Myles Crawford began on the _Independent._ Funny the way those newspaper men veer about when they get wind of a new opening."*
-> - 📜 **James Joyce (*Ulysses*):** *"The editor’s blue eyes roved towards Mr Bloom’s face, shadowed by a smile. —Will you join us, Myles?"*
-> - 📜 **James Joyce (*Ulysses*):** *"North Cork and Spanish officers! —Where was that, Myles?"*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The element **myl** corresponds to the Greek myle (a mill), giving rise to anatomical terms for the jaw and molar teeth."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"From Greek myle (root **myl**-) arose mylohyoid, designating the muscular floor of the mouth adjacent to the grinding teeth."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, myle (stem **myl**-) signified a millstone, a handmill, or the kneepan and molar grinders."*

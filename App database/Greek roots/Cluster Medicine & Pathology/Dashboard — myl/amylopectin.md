@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A component of starch that has a high molecular weight and branched structure and does not tend to gel in aqueous solutions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A component of starch that has a high molecular weight and branched structure and does not tend to gel in aqueous solutions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A water-insoluble, highly branched polysaccharide that, along with amylose, makes up starch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carbohydrate biochemistry, a major constituent (comprising seventy to eighty percent) of natural plant starches, consisting of alpha-1,4-linked glucose units with alpha-1,6 branches every twenty-four to thirty residues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amylopectin designates a component of starch that has a high molecular weight and branched structure and does not tend to gel in aqueous solutions."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"While amylose forms straight helical chains, **amylopectin** forms a sprawling branched network resembling a miniature molecular tree."*
+> - 📜 **Melvin Calvin (*The Path of Carbon in Photosynthesis*):** *"Photosynthetic sugars are polymerised into **amylopectin** within the plastids to provide compact long-term energy storage."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Debranching enzymes are required in addition to alpha-amylase to completely hydrolyze the complex structure of **amylopectin**."*

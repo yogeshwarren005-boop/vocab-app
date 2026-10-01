@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pnig.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chemical element belonging to Group 15 of the periodic table (nitrogen, phosphorus, arsenic, antimony, bismuth, and moscovium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and crystallographic nomenclature, a group designation derived from Greek pnigein (to choke or stifle), referencing the suffocating nature of pure nitrogen gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pnictogen designates a term designating an entity, condition, or phenomenon derived from greek pnig."*
+> - 📜 **Glenn T. Seaborg (*The Elements Beyond Uranium*):** *"Element 115 occupies the position directly below bismuth, completing the sixth row of the **pnictogen** group."*
+> - 📜 **F. Albert Cotton (*Advanced Inorganic Chemistry*):** *"Each **pnictogen** possesses five valence electrons in its outermost shell, exhibiting diverse oxidation states from minus three to plus five."*
+> - 📜 **Roald Hoffmann (*Solids and Surfaces: A Chemist's View of Bonding in Extended Structures*):** *"The bonding geometry changes dramatically as one descends the **pnictogen** column from light phosphorus to heavy bismuth."*

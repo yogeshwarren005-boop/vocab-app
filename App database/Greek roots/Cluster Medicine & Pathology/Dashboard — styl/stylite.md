@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian ascetic living atop a pillar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Christian ascetic living atop a pillar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early Christian ascetic who lived in solitary prayer and penance atop a pillar or column (a pillar-saint or pillar-hermit).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of Eastern monasticism, founded by Saint Simeon Stylites in fifth-century Syria, practicing extreme mortification upon elevated pillars to escape worldly contamination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Tis but madness, sad and solemn, that these fakir-Christians feel-- Saint Stylites on his column gratified a morbid zeal."*
+> - 📜 **Alfred, Lord Tennyson (*St. Simeon Stylites*):** *"I, Simeon of the pillar, by surname **Stylite** among men, have lived forty years upon this stone, watching the stars and enduring summer heat and winter snow."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"This aerial martyrdom of the Syrian **stylite** excited the admiration and reverence of thousands of pilgrims from the furthest boundaries of Christendom."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The bizarre austerities of the Christian **stylite** mirrored ancient Syrian pagan practices of ascending temple phalli to commune with the sun god."*

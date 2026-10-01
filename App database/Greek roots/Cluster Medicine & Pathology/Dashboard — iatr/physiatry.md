@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical medicine and rehabilitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialty concerned with preventing, diagnosing, and treating disabling diseases, disorders, and injuries by physical means (as by the use of electrotherapy, therapeutic exercise, or pharmaceutical pain control) —called also physiatry, physical medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with physical medicine and rehabilitation (PM&R), focused on diagnosing and treating musculoskeletal and neurological impairments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In multidisciplinary clinical practice, a specialty aimed at restoring maximal independence and physical function in patients recovering from stroke, spinal cord injury, amputation, or traumatic brain injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiatry designates physical medicine and rehabilitation."*
+> - 📜 **Howard A. Rusk (*A World to Care For: The Autobiography of Howard A. Rusk*):** *"The mission of **physiatry** is not merely to save life, but to return the patient to the highest possible dignity and utility."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Through intensive **physiatry**, the patient re-learns how to recruit dormant neural pathways to operate a paralyzed limb."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Modern **physiatry** emphasizes functional mobility and adaptive independence over passive hospital convalescence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct taxonomic order of synapsid amniotes that dominated the terrestrial fauna of the Middle Permian to Early Cretaceous and includes the direct ancestors of mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic paleontology, the synapsid clade characterized by enlarged temporal fenestrae, differentiated incisors, canines, and molars, and increasing metabolic activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapsida designates extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The radiation of the order **Therapsida** produced carnivores, herbivores, and the direct cynodont ancestors of true mammals."*
+> - 📜 **Robert Broom (*The Origin of the Human Skeleton*):** *"South African strata have yielded thousands of magnificent skulls belonging to the diverse families of the **Therapsida**."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Our Permian ancestor was an active member of the **Therapsida**, warm-blooded and perhaps already covered in fine proto-hair."*

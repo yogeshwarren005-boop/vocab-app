@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ul.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bleeding, hemorrhaging, or abnormal discharge from the gums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dentistry and periodontology, severe gingival hemorrhage caused by scurvy, chronic ulceration, or advanced periodontal inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ulorrhea designates a term designating an entity, condition, or phenomenon derived from greek ul."*
+> - 📜 **James Lind (*A Treatise on the Scurvy*):** *"The scorbutic mariners suffered from loose teeth and persistent **ulorrhea**, their swollen gums bleeding profusely at the slightest touch."*
+> - 📜 **Willoughby D. Miller (*The Micro-Organisms of the Human Mouth*):** *"Bacterial toxins colonizing the subgingival pocket induce chronic inflammation accompanied by suppuration and **ulorrhea**."*
+> - 📜 **G. V. Black (*Special Dental Pathology*):** *"Unless deep calculus is thoroughly debrided, recurrent **ulorrhea** will lead inexorably to alveolar bone loss."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek iatr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from iatros, ἰατρός) meaning a physician, healer, or medical treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical nomenclature, a prolific combining form underlying iatrogenic, pediatrics, psychiatry, and physiatry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iatr designates a term designating an entity, condition, or phenomenon derived from greek iatr."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The root **iatr** descends directly from the Greek iatros, a healer or physician, from iasthai (to heal)."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Scientific terms ending in -iatry or incorporating **iatr** denote specialized branches of the medical healing art."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In Homeric times, iatros (stem **iatr**-) was honoured as a man worth many warriors for his skill in cutting out arrows and soothing wounds."*

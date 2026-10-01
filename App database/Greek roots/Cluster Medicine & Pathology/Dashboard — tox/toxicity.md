@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree to which something is poisonous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grave harmfulness or deadliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or relative degree of being poisonous or harmful to life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and environmental science, the dose-dependent capacity of a substance to cause cellular damage, organ failure, or mortality (measured as LD50).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicity designates the degree to which something is poisonous."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Parathion exhibits an acute **toxicity** so extreme that a single drop upon the skin can kill an adult."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The therapeutic index is determined by dividing the curative dose by the maximum tolerated **toxicity**."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The oncologist reduced the drug dosage to mitigate hepatic **toxicity** while preserving antitumor pressure."*

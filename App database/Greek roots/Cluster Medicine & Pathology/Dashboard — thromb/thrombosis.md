@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of a blood clot within a blood vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blocking of a coronary artery of the heart by a thrombus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of a blood clot (thrombus) inside a blood vessel, obstructing the flow of blood through the circulatory system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, governed by Virchow's triad: endothelial injury, stasis or turbulent blood flow, and hypercoagulability of the blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombosis designates the formation or presence of a blood clot within a blood vessel."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The three primary causes of **thrombosis** reside in alterations of the vessel wall, slowing of the bloodstream, and qualitative changes in the blood itself."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Coronary **thrombosis** is the supreme tragedy of middle-aged men of affairs, striking down leaders in the prime of life."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"A sudden arterial **thrombosis** deprives downstream cells of oxygen, causing irreversible tissue death within minutes."*

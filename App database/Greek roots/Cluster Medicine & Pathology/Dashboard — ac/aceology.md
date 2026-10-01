@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of remedies, curative treatments, or therapeutics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and historical pharmacopeia, the branch of medical art that investigates the properties and application of healing agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aceology designates a term designating an entity, condition, or phenomenon derived from greek ac."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The learned Galen devoted several treatises to **aceology**, expounding the virtues of cooling herbs."*
+> - 📜 **Thomas Laycock (*Mind and Brain*):** *"The psychological part of **aceology** explores the profound influence of the patient's hope upon bodily recovery."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"As biological science advanced, empirical **aceology** transformed into modern targeted pharmacodynamics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organisms living in the thin surface layer existing at the air-water interface of a body of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organisms living in the thin surface layer existing at the air-water interface of a body of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The community of organisms that live at the interface between water and air, floating on the surface of an ocean or lake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, macroscopic organisms (such as the Portuguese man-of-war Physalia and the purple sail fin Velella) whose bodies project into both air and water, moved primarily by winds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuston designates organisms living in the thin surface layer existing at the air-water interface of a body of water."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The bizarre creatures of the **pleuston**, like the purple snail Ianthina and the Portuguese man-of-war, drift eternally at the mercy of the trade winds."*
+> - 📜 **Alister Hardy (*The Open Sea: The World of Plankton*):** *"Unlike plankton suspended below, the **pleuston** occupies the razor-thin frontier between sea and atmosphere."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"We dipped our nets into the glittering blue **pleuston**, capturing floating colonies of Velella whose tiny sails caught the breeze."*

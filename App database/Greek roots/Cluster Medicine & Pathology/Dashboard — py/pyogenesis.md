@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek py.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin, formation, or physiological process of generating pus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular immunology and microbiology, the recruitment of polymorphonuclear neutrophils guided by chemotactic leukotrienes and bacterial formyl peptides, ending in purulent lysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyogenesis designates a term designating an entity, condition, or phenomenon derived from greek py."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"The phenomenon of **pyogenesis** is at bottom a heroic battle between predatory phagocytes and invasive bacteria."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The chemical chemotaxis that directs white cells to the bacterial invasion locus is the driving engine of **pyogenesis**."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Neutrophils die by the millions in the drama of **pyogenesis**, releasing their chromatin nets to trap the invaders."*

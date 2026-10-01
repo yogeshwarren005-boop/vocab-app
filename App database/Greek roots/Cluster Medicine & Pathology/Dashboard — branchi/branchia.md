@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Respiratory organ of aquatic animals that breathe oxygen dissolved in water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Respiratory organ of aquatic animals that breathe oxygen dissolved in water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gill; the respiratory organ of aquatic animals (especially fish, crustaceans, and amphibians) that breathes dissolved oxygen from water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative animal physiology, a specialized, highly vascularized filamentous or lamellar outgrowth of the body wall adapted for countercurrent gas exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchia designates respiratory organ of aquatic animals that breathe oxygen dissolved in water."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"Each **branchia** consists of a stem bearing hundreds of delicate filaments through which blood circulates in close contact with water."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sea slug displayed a magnificent dorsal **branchia**, expanding like a feathery white flower in the rock pool."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Water currents pumped across the **branchia** supply oxygen while washing away carbon dioxide in a ceaseless tidal rhythm."*

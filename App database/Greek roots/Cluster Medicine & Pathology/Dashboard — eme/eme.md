@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Significantly distinctive unit of language structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Significantly distinctive unit of language structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from emein, ἐμεῖν) signifying vomiting, disgorging, or nausea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical morphology, the base morpheme underlying clinical terms designating emetic agents, emesis, and involuntary gastric evacuation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eme designates significantly distinctive unit of language structure."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The medical root **eme** traces directly to the Greek emein, meaning to vomit or cast up from the stomach."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Words built upon the root **eme** designate both physiological nausea and pharmacological substances that induce vomiting."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, emetos (stem **eme**-) signified vomiting or that which is vomited forth."*

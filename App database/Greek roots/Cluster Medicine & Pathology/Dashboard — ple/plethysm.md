@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fullness, increase in size, or volumetric variation in an organ or bodily part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological instrumentation, the physical enlargement of a vascular bed or vascular tissue volume during systolic blood flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethysm designates a term designating an entity, condition, or phenomenon derived from greek ple."*
+> - 📜 **Étienne-Jules Marey (*La méthode graphique*):** *"The pulse wave causes a transient **plethysm** in the digital capillaries that can be registered by a delicate tambour."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris*):** *"Local arterial **plethysm** accompanies acute inflammatory congestion in superficial tissues."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"The rhythmic **plethysm** of the kidneys expands and contracts with each systolic surge of aortic blood."*

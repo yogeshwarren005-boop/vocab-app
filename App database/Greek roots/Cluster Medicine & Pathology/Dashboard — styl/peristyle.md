@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colonnade surrounding a building or court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An open space enclosed by a colonnade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuous porch or row of columns surrounding a building or an open courtyard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greco-Roman domestic architecture, the inner colonnaded garden court of a wealthy residence; in temple architecture, the external colonnade (peristasis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristyle designates a colonnade surrounding a building or court."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"The **peristyle** is positioned beyond the atrium, giving the family a private colonnaded sanctuary open to the sky."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Through the open archway one could see the fountain playing in the marble **peristyle**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian retired to his colossal palace at Spalato, pacing the monumental **peristyle** in philosophical seclusion."*

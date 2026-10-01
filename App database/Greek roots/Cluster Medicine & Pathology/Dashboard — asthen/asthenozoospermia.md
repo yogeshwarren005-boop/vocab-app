@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek asthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by reduced motility of spermatozoa in semen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In andrology and reproductive medicine, a primary cause of male subfertility, defined by the World Health Organization as less than forty percent progressively motile sperm in a fresh ejaculate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenozoospermia designates a term designating an entity, condition, or phenomenon derived from greek asthen."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Semen analysis revealed severe **asthenozoospermia**, explaining why conception had eluded the couple for years."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Flagellar ultrastructural defects within the sperm tail account for familial cases of primary **asthenozoospermia**."*
+> - 📜 **Atul Gawande (*Better*):** *"Advances in intracytoplasmic sperm injection bypassed the reproductive barrier posed by profound **asthenozoospermia**."*

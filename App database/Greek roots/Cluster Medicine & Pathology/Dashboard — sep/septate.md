@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a septum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a septum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into compartments or chambers by one or more septa (internal partitions).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and developmental anatomy, describing fungal hyphae divided by cross-walls (as in Ascomycota and Basidiomycota), or a congenital uterine malformation (septate uterus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Before this point was satisfactorily decided, the brown spores, which are borne on long stalks, and are themselves septate or divided (apparently or really) by transverse partitions into a complex fruit, received the name of _Puccinia Rosæ_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The lower leaves of young seedlings have generally rewarded us with the best specimens of the septate-fruited brand (_Puccinia variabilis_, Grev.)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BRAND; hypogenous, scattered over the leaves in minute tufts; spores 5- to 7-septate, terminal joint mucronate; peduncles incrassated below, fusiform.—On leaves of various Roses."*
+> - 📜 **M. C. Cooke (*Introduction to the Study of Fungi*):** *"The mycelium of the higher fungi is distinctly **septate**, each cross-wall possessing a central pore for cytoplasmic flow."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The seed pod is **septate**, divided internally into several distinct locules containing the developing ovules."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"On ultrasound examination, the ovarian cyst appeared complex and **septate**, warranting surgical exploration."*

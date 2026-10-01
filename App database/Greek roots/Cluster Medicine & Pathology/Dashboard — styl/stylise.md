@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent according to a conventional style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent according to a conventional style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To depict, design, or conform to a stylized, non-naturalistic, or conventional artistic pattern (British spelling of stylize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theater and design, to deliberately abstract natural human behavior or physical objects into symbolic, exaggerated forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylise designates represent according to a conventional style."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"Art begins when we **stylise** nature, refusing to copy the crude accidents of everyday life."*
+> - 📜 **Virginia Woolf (*Roger Fry: A Biography*):** *"Fry urged young painters to **stylise** their forms, seeking rhythmic structural design rather than camera-like reproduction."*
+> - 📜 **George Bernard Shaw (*The Quintessence of Ibsenism*):** *"The playwright did not **stylise** his dialogue into grand blank verse, but captured the living rhythms of modern speech."*

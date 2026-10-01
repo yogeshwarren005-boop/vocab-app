@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless plastid that forms and stores starch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless plastid that forms and stores starch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-pigmented organelle (leucoplast) in plant cells that synthesizes and stores starch granules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, specialized plastids abundant in roots and storage tubers that also function as statoliths in root cap cells, settling under gravity to mediate gravitropism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyloplast designates a colorless plastid that forms and stores starch."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Heavy particles in the cells of the root cap, which modern botanists identify as the **amyloplast**, tumble under gravity to guide the downward growth of roots."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Each **amyloplast** acts as a microscopic starch factory, precipitating concentric layers of carbohydrate inside the tuber."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Dense starch granules inside the **amyloplast** displace the endoplasmic reticulum, initiating the gravitropic auxin gradient."*

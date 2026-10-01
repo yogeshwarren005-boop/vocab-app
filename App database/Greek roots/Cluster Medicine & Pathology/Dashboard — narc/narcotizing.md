@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer narcotics to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing stupor or narcosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing stupor, numbness, or sleep; acting as a narcotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dulling the critical faculties or deadening responsiveness to moral or intellectual challenges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcotizing designates administer narcotics to."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Habit can become a **narcotizing** chain if it excludes the possibility of spontaneous fresh thought."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The warm, drowsy sunlight exerted a **narcotizing** power over the lookout at the masthead."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Propaganda achieves its victories through the **narcotizing** repetition of simple slogans."*

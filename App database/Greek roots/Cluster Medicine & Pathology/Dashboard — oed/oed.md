@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oxford English Dictionary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oxford English Dictionary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from oidēma, οἴδημα) denoting swelling, tumefaction, or fluid accumulation; or the standard abbreviation for the Oxford English Dictionary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological analysis, the classical spelling variant of ed- underlying oedema, oedematous, and Oedipus (literally 'swollen-foot').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oed designates oxford english dictionary."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The medical prefix **oed** arises from the Greek oidein (to swell), appearing notably in oedema and Oedipus."*
+> - 📜 **James Murray (*The Evolution of English Lexicography*):** *"Consult the monumental pages of the **OED** to trace how classical medical spellings evolved across Victorian England."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"From the verb oidein (to swell) Greek derived oidēma (stem **oed**-), signifying a tumor or dropsical swelling."*

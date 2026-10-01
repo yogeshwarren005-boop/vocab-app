@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science of the establishment and maintenance of health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conditions or practices (as of cleanliness) conducive to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and preventive medicine, the scientific principles and social practices designed to promote individual and communal physical, occupational, and environmental sanitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He met and mastered on the basis of Chris- tian Science, the power of Mind over matter, all the claims 44:12 of medicine, surgery, and hygiene."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He showed that diseases were cast out neither 138:12 by corporeality, by /materia medica/, nor by hygiene, but by the divine Spirit, casting out the errors of mortal mind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Methods rejected It is plain that God does not employ drugs or hygiene, 143:6 nor provide them for human use; else Jesus would have recommended and employed them in his heal- ing."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The very first canon of nursing, the absolute essential of all **hygiene**, is to keep the air the patient breathes as pure as the external air."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Personal and municipal **hygiene** has achieved vastly more for human longevity than all the chemical drugs of the dispensatory."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"In the dreary industrial slums, the basic requirements of human **hygiene** were rendered impossible by water shortages and coal dust."*

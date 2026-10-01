@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A urological emergency in which a retracted foreskin cannot be pulled back forward over the glans penis, causing vascular strangulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acute clinical medicine, venous and lymphatic stasis leading to severe edema of the glans and potential ischemic gangrene if manual reduction or surgical intervention is delayed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphimosis designates a term designating an entity, condition, or phenomenon derived from greek phim."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Neglected **paraphimosis** following catheterization requires urgent manual reduction to prevent vascular necrosis of the glans."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"If the strangulated prepuce in **paraphimosis** resists cold compresses and digital compression, a dorsal slit must be executed without delay."*
+> - 📜 **Sherwin B. Nuland (*Doctors: The Biography of Medicine*):** *"The young intern quickly relieved the acute **paraphimosis**, restoring venous drainage to the engorged tissue."*

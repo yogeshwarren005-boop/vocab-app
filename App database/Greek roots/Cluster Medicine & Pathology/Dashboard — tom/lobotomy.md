@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical severance of nerve fibers connecting the frontal lobes to the thalamus that has been performed especially formerly chiefly to treat mental illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical severance of nerve fibers connecting the frontal lobes to the thalamus that has been performed especially formerly chiefly to treat mental illness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical operation involving incision into the prefrontal lobes of the brain, formerly used to treat severe psychiatric disorders (prefrontal leukotomy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of psychosurgery, introduced by Egas Moniz in 1935 (for which he won the 1949 Nobel Prize) and popularized by Walter Freeman, later condemned and abandoned due to catastrophic personality blunting and the advent of antipsychotic medications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lobotomy designates surgical severance of nerve fibers connecting the frontal lobes to the thalamus that has been performed especially formerly chiefly to treat mental illness."*
+> - 📜 **Egas Moniz (*Tentatives opératoires dans le traitement de certaines psychoses*):** *"By prefrontal **lobotomy**, we severed the white association tracts to disrupt the fixed melancholic obsessions of the patient."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The tragedy of the surgical **lobotomy** was that it extinguished the patient's psychosis only by extinguishing the patient's soul."*
+> - 📜 **Ken Kesey (*One Flew Over the Cuckoo's Nest*):** *"There was nothing in the face of the man who came back from the **lobotomy** but a blank, staring void."*

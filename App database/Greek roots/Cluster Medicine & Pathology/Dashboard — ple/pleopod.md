@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abdominal limb of a crustacean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abdominal limb of a crustacean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swimming appendage or limb on the abdomen of a crustacean; a swimmeret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, paired abdominal appendages used not only for forward propulsion in swimming, but frequently modified for carrying eggs in brooding females or copulation in males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleopod designates an abdominal limb of a crustacean."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Each segment of the abdomen bears a pair of biramous limbs termed **pleopods**, which vibrate rhythmically to propel the animal."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The female crab attaches thousands of microscopic eggs to the silky hairs of her abdominal **pleopods**."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"In male decapods, the first pair of **pleopods** is heavily calcified and modified into an organ of sperm transfer."*

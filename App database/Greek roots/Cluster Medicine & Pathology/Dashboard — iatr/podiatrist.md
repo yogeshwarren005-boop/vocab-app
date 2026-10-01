@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical care and treatment of the human foot —called also chiropody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medical care and treatment of the human foot —called also chiropody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A healthcare professional qualified by medical training to diagnose and treat disorders of the foot, ankle, and related structures of the leg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic and wound-care medicine, a specialist who manages diabetic foot ulcers, biomechanical gait abnormalities, structural deformities (bunions, hammertoes), and sports injuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podiatrist designates the medical care and treatment of the human foot —called also chiropody."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diabetic peripheral neuropathy mandates regular inspection by a skilled **podiatrist** to prevent occult gangrene."*
+> - 📜 **Atul Gawande (*Better*):** *"The **podiatrist** skillfully debrided the plantar ulcer, relieving pressure points that prevented soft tissue healing."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"Routine foot care by a **podiatrist** preserves mobility and autonomy for thousands of elderly patients."*

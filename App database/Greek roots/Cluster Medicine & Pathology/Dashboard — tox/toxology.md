@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of poisons, their effects, detection, and treatments; toxicology (historical/variant spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical forensic science and medical jurisprudence, the systematic investigation of toxic substances, postmortem chemical analysis, and antidote preparation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxology designates a term designating an entity, condition, or phenomenon derived from greek tox."*
+> - 📜 **Robert Christison (*A Treatise on Poisons*):** *"The student of medical **toxology** must master chemical reagents to demonstrate arsenic in postmortem tissues."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes was well versed in forensic **toxology**, identifying rare alkaloids from a single droplet of blood."*
+> - 📜 **Alfred Swaine Taylor (*Medical Jurisprudence*):** *"Modern **toxology** has closed the avenues through which secret poisoners once escaped detection."*

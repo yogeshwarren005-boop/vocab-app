@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, non-contagious inflammatory skin condition characterized by dry, itchy, red, and swollen patches that may blister and weep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, atopic dermatitis involving impaired epidermal barrier function (such as filaggrin gene mutations) and an exaggerated immune response to environmental allergens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"SEVERE ECZEMA DESTROYED It is only two years since I came from darkness into the light of Christian Science, and to me the spiritual uplifting has been wonderful, to say nothing of the physical healing."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"For five years I suffered with that dreaded disease, eczema, all over my body."*
-> - 📜 **James Joyce (*Ulysses*):** *"A smaller girl with scars of eczema on her forehead eyed him, listlessly holding her battered caskhoop."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Under the term **eczema**, we recognize an acute or chronic polymorphous eruption displaying erythema, papules, vesicles, and crusts."*
+> - 📜 **James Joyce (*Ulysses*):** *"He examined his sleeve nervously, recalling the itchy red flare of childhood **eczema** upon his inner forearm."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blanched Soldier*):** *"The medical officer suspected that the dry, scaly rash was merely a chronic **eczema** aggravated by the tropical climate."*

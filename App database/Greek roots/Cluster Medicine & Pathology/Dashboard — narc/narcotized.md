@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer narcotics to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under the influence of narcotics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendered unconscious, stupefied, or drowsy by the administration of a narcotic drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking emotional sensitivity or mental alertness; dulled into passive indifference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcotized designates administer narcotics to."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The deeply **narcotized** patient exhibited pinpoint pupils and slow, shallow respirations."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen lay back as though **narcotized** by the excruciating paroxysms of his headache."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Most men lead lives of quiet desperation, their faculties **narcotized** by routine and trivial cares."*

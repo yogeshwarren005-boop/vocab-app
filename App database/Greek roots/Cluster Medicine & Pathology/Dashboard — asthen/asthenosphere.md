@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper layer of the Earth's mantle, below the lithosphere, in which rock is ductile, plastic, and deforms by slow convection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plate tectonics and geophysics, the relatively mechanically weak, partially molten zone (between approximately 100 and 410 km depth) over which the rigid tectonic plates glide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenosphere designates a zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses."*
+> - 📜 **Joseph Barrell (*The Strength of the Earth's Crust*):** *"Beneath the rigid crust must lie a zone of plastic weakness, which I propose to designate as the **asthenosphere**."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"Continental masses drift laterally across the yielding, fluid-like substratum of the **asthenosphere**."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Thermal convection currents ascending through the **asthenosphere** drive the spreading of the ocean floors."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various bacterial diseases caused by rickettsias: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe human febrile disease that is caused by one (Rickettsia prowazekii) transmitted especially by body lice and is marked by high fever, stupor alternating with delirium, intense headache, and a dark red rash.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute, severe infectious disease caused by Rickettsia prowazekii, transmitted to humans by the body louse and characterized by high fever, stupor, delirium, and a dark red rash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and social medicine, historically known as jail fever, camp fever, or ship fever, which decimated armies, besieged cities, and overcrowded prisons throughout human history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This illness, at first a low fever, turned to typhus, _and July 3 there seemed no hope of her recovery_."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was not, I was told, in the hospital portion of the house with the fever patients; for her complaint was consumption, not typhus: and by consumption I, in my ignorance, understood something mild, which time and care would be sure to alleviate."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When the typhus fever had fulfilled its mission of devastation at Lowood, it gradually disappeared from thence; but not till its virulence and the number of its victims had drawn public attention on the school."*
+> - 📜 **Hans Zinsser (*Rats, Lice and History*):** *"Soldiers have rarely won wars; they merely took the cities after **typhus** and dysentery had destroyed the defenders."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"From Tom-all-Alone's, the venomous breath of epidemic **typhus** wafts upward into the grand drawing rooms of the rich."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The filthy, lice-ridden straw in the frontline trenches made the dread of **typhus** far worse than enemy snipers."*

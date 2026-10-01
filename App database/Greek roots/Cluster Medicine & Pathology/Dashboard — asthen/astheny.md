@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal loss of strength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal loss of strength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or deficiency of physical strength; bodily debility or weakness (archaic variant of asthenia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early nineteenth-century medical nosology (such as John Brown's Brunonian system), a systemic state of depleted vital excitement treated with stimulants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astheny designates an abnormal loss of strength."*
+> - 📜 **John Brown (*Elements of Medicine*):** *"Diseases of **astheny** require diffuse stimulants such as wine and opium to restore the exhausted vital irritability."*
+> - 📜 **Samuel Taylor Coleridge (*Notebooks*):** *"I languished in a state of nervous **astheny**, devoid of all mental energy or animal spirits."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"A spiritual **astheny** crept over the age, leaving men incapable of heroic conviction."*

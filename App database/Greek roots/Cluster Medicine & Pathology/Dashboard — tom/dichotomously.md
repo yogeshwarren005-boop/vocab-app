@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dichotomous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dichotomous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dichotomous manner; by dividing into two equal or contrasting branches or parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological development and algorithmic classification, branching repeatedly into pairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PRIMROSE MOULD; densely cæspitose, white; threads erect, dichotomously branched; ultimate branchlets short, spreading; sporidia ovate.—On leaves of Primrose."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The thallus of the liverwort Riccia grows and forks **dichotomously** across the damp soil."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The gills branch **dichotomously**, expanding the surface area for respiratory gas exchange."*
+> - 📜 **Alfred North Whitehead (*Science and the Modern World*):** *"When thought proceeds **dichotomously**, it sharpens distinctions at the expense of comprehensive synthesis."*

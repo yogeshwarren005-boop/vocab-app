@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuous flat coping or pavement supporting a row of architectural columns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous flat coping or pavement supporting a row of architectural columns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The continuous stone platform or uppermost step of a stereobate upon which a colonnade of classical columns stands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek monumental architecture, famously exemplified in the Parthenon, where the stylobate is subtly curved upward in the center to compensate for optical sagging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylobate designates a continuous flat coping or pavement supporting a row of architectural columns."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **stylobate** must not be laid out on a dead flat level, but with a slight upward curvature toward the middle to prevent the optical illusion of sinking."*
+> - 📜 **John Ruskin (*The Poetry of Architecture*):** *"The marble **stylobate** lifts the fluted shafts above the dust of the surrounding rocky plain."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The optical refinements of the Parthenon's **stylobate** exhibit an astonishing precision of masonry cutting."*

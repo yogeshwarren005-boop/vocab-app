@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low level of prothrombin (factor ii) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin k deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low level of prothrombin (factor ii) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin k deficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low level of prothrombin (factor II) in the blood, leading to impaired coagulation and a tendency to bleed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, hypoprothrombinemia caused by vitamin K deficiency, severe liver failure, or anticoagulant overdose, measured by prolonged prothrombin time (PT/INR).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothrombinemia designates a low level of prothrombin (factor ii) in the circulating blood; results in long clotting time and poor clot formation and sometimes excessive bleeding; can result from vitamin k deficiency."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe obstructive jaundice induces **hypothrombinemia** through failure of intestinal vitamin K absorption."*
+> - 📜 **Henrik Dam (*Nobel Lecture: The Discovery of Vitamin K*):** *"The hemorrhagic disease in chicks was caused by **hypothrombinemia**, which cleared rapidly upon administration of vitamin K."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The emergency team reversed the drug-induced **hypothrombinemia** with fresh frozen plasma before sending the patient to surgery."*

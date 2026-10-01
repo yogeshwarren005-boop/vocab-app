@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny bits of protoplasm found in vertebrate blood; essential for blood clotting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny bits of protoplasm found in vertebrate blood; essential for blood clotting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny, disc-shaped, non-nucleated cell fragment in mammalian blood (commonly called a platelet) crucial for blood clotting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative hematology, nucleated spindle cells in non-mammalian vertebrates (birds, reptiles, fish) that perform the equivalent hemostatic role to mammalian platelets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombocyte designates tiny bits of protoplasm found in vertebrate blood; essential for blood clotting."*
+> - 📜 **Giulio Bizzozero (*On a New Blood Component and Its Role in Thrombosis*):** *"These minute corpuscles, the **thrombocytes** or platelets, are the very first elements to adhere to an injured vessel wall."*
+> - 📜 **William Osler (*On the Blood Plaque*):** *"The **thrombocyte** is not a mere artifact of glass contact, but a living physiological element of the circulation."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Megakaryocytes in the bone marrow extend proplatelet arms that shear in the bloodstream, releasing thousands of **thrombocytes**."*

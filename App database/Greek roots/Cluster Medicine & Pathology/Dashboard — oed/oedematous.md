@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of swell, swollen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of swell, swollen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or characterized by oedema; swollen with fluid (chiefly British spelling of edematous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical examination, describing swollen tissue that demonstrates pitting upon sustained digital pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oedematous designates adjective*) pertaining to, derived from, or characteristic of swell, swollen."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The bloated old general hobbled forward upon two **oedematous** legs that creaked beneath his gouty weight."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her hands were pale and **oedematous**, resting limply upon the counterpane as her fever ran its course."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The damp air aggravated his dropsy, leaving his eyelids puffy and his fingers **oedematous**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (such as a government agent) who investigates narcotics crimes : narco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who informs on another especially to the authorities : snitch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from narke, νάρκη) meaning numbness, torpor, or stupor; or informal slang for a narcotics enforcement officer or police informant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical etymology, the base morpheme underlying narcosis, narcolepsy, and narcotics, denoting agents or conditions that induce sensory insensibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narc designates a person (such as a government agent) who investigates narcotics crimes : narco."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The root **narc** ascends to the Greek narke, signifying cramp, numbness, or deadness of feeling."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"In pharmacopeias, words formed on **narc** designate substances that blunt pain and induce deep slumber."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, narke (stem **narc**-) denoted the electric ray or torpedo fish whose touch caused instantaneous numbness."*

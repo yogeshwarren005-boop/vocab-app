@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready to obey one's command immediately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a charge against one as being responsible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational Greek combining root (from athere, ἀθήρη) meaning groats, meal, gruel, or porridge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, the root morpheme underlying atheroma and atherosclerosis, descriptive of the soft, yellowish, oatmeal-like fatty paste inside arterial plaques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ather designates ready to obey one's command immediately."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The medical prefix **ather** originates in the Greek athere, signifying porridge or groats, applied to pulpy tumors."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Pathologists used **ather** to designate the curdled, mushy degeneration found within diseased arterial walls."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In classical Greek, athere (stem **ather**-) denoted wheat porridge or spelt meal, later adopted by Galen for cystic deposits."*

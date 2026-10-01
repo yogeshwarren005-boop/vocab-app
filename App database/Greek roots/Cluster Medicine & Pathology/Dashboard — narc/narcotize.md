@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer narcotics to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer narcotics to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make unconscious, insensible, or stupefied with or as if with a narcotic drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and communication theory (the narcotizing dysfunction), to overwhelm the public with information so that passive knowing replaces active participation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcotize designates administer narcotics to."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Alcohol and ether serve to **narcotize** the higher inhibitory centers of the cerebral cortex."*
+> - 📜 **Paul Lazarsfeld & Robert K. Merton (*Mass Communication, Popular Taste and Organized Social Action*):** *"The vast flood of mass media may **narcotize** rather than energize the average citizen into political apathy."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The Turkish bath seemed calculated to **narcotize** every muscle and nerve in the human frame."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek py.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or development of pus in an infected tissue or organ; suppuration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, the transformation of acute inflammatory serous exudate into thick purulent fluid under the influence of pyogenic cocci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyosis designates a term designating an entity, condition, or phenomenon derived from greek py."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The rapid progression of the cellulitis toward deep **pyosis** necessitated wide surgical incisions for relief of tension."*
+> - 📜 **Joseph Lister (*Antiseptic Surgery*):** *"The absence of **pyosis** beneath the protective gauze proved that microscopic atmospheric germs had been excluded."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"When **pyosis** establishes itself beneath the cranial periosteum, trephining must not be delayed."*

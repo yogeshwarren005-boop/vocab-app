@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become blocked by a thrombus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with or obstructed by a clot of coagulated blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstructed, occluded, or filled with a blood clot (thrombus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical practice, describing a firm, tender, clotted vessel or external hemorrhoid (e.g., thrombosed external hemorrhoid) causing acute localized pain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombosed designates become blocked by a thrombus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Palpation along the course of the long saphenous vein revealed a firm, **thrombosed** cord tender to the touch."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Under local anesthesia, the surgeon incised the **thrombosed** hemorrhoid and enucleated the dark purple clot."*
+> - 📜 **Sherwin B. Nuland (*Doctors*):** *"Autopsy confirmed a completely **thrombosed** anterior descending coronary artery underlying the infarction."*

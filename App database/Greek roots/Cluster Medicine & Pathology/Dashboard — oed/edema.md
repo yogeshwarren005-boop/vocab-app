@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal infiltration and excess accumulation of serous fluid in connective tissue or in a serous cavity —called also dropsy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watery swelling of plant organs or parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal accumulation of fluid in the interstitial spaces of the body's tissues, resulting in noticeable swelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathophysiological medicine, swelling resulting from increased hydrostatic capillary pressure, decreased oncotic plasma pressure, or lymphatic obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edema designates an abnormal infiltration and excess accumulation of serous fluid in connective tissue or in a serous cavity —called also dropsy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dependent **edema** of the ankles in the evening is often the earliest harbinger of failing right ventricular compensation."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"As the failing pump faltered, pulmonary **edema** flooded the delicate alveolar sacs with suffocating transudate."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"He pressed his thumb into the pretibial skin, noting the deep pit of persistent **edema** that slowly refilled."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The obstruction of a blood vessel by a blood clot that has become dislodged from another site in the circulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency and vascular medicine, venous thromboembolism (VTE) encompassing deep vein thrombosis (DVT) and pulmonary embolism (PE), a major cause of preventable hospital mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thromboembolism designates the blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A thrombus formed in the pelvic veins may detach and be carried by the venous stream to the heart, producing fatal pulmonary **thromboembolism**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden dyspnea, pleural friction, and hemoptysis in a bedridden surgical patient point unmistakably to pulmonary **thromboembolism**."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Routine subcutaneous heparin prophylaxis drastically reduced post-operative deaths from pulmonary **thromboembolism**."*

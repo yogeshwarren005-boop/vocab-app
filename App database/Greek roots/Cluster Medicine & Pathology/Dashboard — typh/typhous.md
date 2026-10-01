@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of smoke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of smoke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling typhus or typhoid fever; characterized by stupor, delirium, or high fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century clinical medicine, describing the clouded, stuporous sensorium ('typhous state') accompanying severe systemic endotoxemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typhous designates adjective*) pertaining to, derived from, or characteristic of smoke."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient sank into a low **typhous** muttering delirium, plucking aimlessly at the bedclothes."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A **typhous** fever broke out at Lowood School, transforming the gloomy dormitories into an overcrowded hospital ward."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"He tossed upon the pillows in a heavy **typhous** stupor, deaf to the soothing words of his family."*

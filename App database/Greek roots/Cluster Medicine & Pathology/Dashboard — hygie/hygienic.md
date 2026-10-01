@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hygiene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing good hygiene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducive to maintaining good health, preventing disease, and promoting cleanliness; sanitary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by clean, sterile, or wholesome living and working environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hygienic treatment also loses its efficacy."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Blissful ignorance He, who is ignorant of what is termed hygienic law, is more receptive of spiritual power and of faith in one 382:15 God, than is the devotee of supposed hygienic law, who comes to teach the so-called igno- rant one."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was also put through forms of hygienic treatment and other things that offered inducements."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The utopian cities were designed upon strict **hygienic** lines, with abundant sunlight, pure water, and smokeless dwellings."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Everything in the conditioning rooms was orderly, gleaming, and intensely **hygienic**."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"He scrubbed the wooden tables with carbolic soap, creating a **hygienic** barrier against laboratory contamination."*

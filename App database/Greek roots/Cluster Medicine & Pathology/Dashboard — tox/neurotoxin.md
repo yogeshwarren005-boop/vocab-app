@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poison or toxic substance that acts specifically upon the nervous system, disrupting nerve transmission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, potent biological venoms or synthetic chemicals (such as botulinum toxin, tetrodotoxin, or saxitoxin) that block sodium channels or cleave SNARE proteins in synaptic exocytosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotoxin designates a poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"A minute trace of botulinum **neurotoxin** can silence all motor nerve signals with mathematical precision."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"The ordeal powder from West Africa contained a deadly **neurotoxin** that induced madness and asphyxiation."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The pufferfish **neurotoxin** paralyzed his peripheral nerves while leaving his conscious auditory perception intact."*

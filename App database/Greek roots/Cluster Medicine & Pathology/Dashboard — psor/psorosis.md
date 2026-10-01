@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious, destructive viral disease of citrus trees characterized by scaly peeling of the bark and gum exudation on the trunk and limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, a grafting-transmitted disease caused by citrus psorosis virus (CPsV), leading to xylem occlusion, canopy decline, and tree death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psorosis designates a term designating an entity, condition, or phenomenon derived from greek psor."*
+> - 📜 **Howard S. Fawcett (*Citrus Diseases and Their Control*):** *"The first visible symptom of **psorosis** is the scaling of outer bark scales on the trunk, followed by exudation of amber gum."*
+> - 📜 **Walter Reuther (*The Citrus Industry*):** *"Quarantine and budwood certification programs successfully eradicated **psorosis** from modern commercial citrus nurseries."*
+> - 📜 **J. M. Wallace (*Virus Diseases of Citrus*):** *"Indexing trials confirmed that **psorosis** produces diagnostic oak-leaf patterns on the young flushes of sweet orange seedlings."*

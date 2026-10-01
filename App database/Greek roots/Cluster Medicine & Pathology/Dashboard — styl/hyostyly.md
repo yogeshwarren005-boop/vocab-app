@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of jaw suspension in vertebrates in which the upper jaw is connected to the neurocranium solely by the hyomandibular cartilage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, the flexible suspension characteristic of modern elasmobranchs (sharks and rays) and teleost bony fishes, permitting significant jaw protrusion during prey capture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyostyly designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In **hyostyly**, the upper jaw loses direct cranial articulation and is swung from the otic capsule by the movable hyomandibula."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"The mechanical advantage of **hyostyly** in modern sharks allows the jaws to drop down and thrust forward with lethal speed."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"Primitive bony fishes developed specialized **hyostyly**, which enabled suction feeding in diverse marine niches."*

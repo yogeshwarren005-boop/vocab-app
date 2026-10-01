@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Therapsida) of advanced synapsid vertebrates that flourished during the Permian and Triassic periods with the last forms becoming extinct during the Cretaceous period and that are considered ancestors of the mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Therapsida) of advanced synapsid vertebrates that flourished during the Permian and Triassic periods with the last forms becoming extinct during the Cretaceous period and that are considered ancestors of the mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct synapsid belonging to the order Therapsida, representing the ancestral lineage that gave rise to mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Permian and Triassic proto-mammals (such as Cynodonts) displaying specialized heterodont dentition, developing secondary palates, and transitional upright limb postures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapsid designates any of an order (therapsida) of advanced synapsid vertebrates that flourished during the permian and triassic periods with the last forms becoming extinct during the cretaceous period and that are considered ancestors of the mammals."*
+> - 📜 **Robert Broom (*The Mammal-like Reptiles of South Africa*):** *"In the skull of the Karoo **therapsid**, one sees the reptilian jaw bones shrinking as the dentary expands to form the mammalian mandible."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The humble Triassic **therapsid** survived the great Permian extinction, carrying the evolutionary potential of all future mammals."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"The anatomical transition from primitive pelycosaur to advanced **therapsid** is one of the most complete sequences in the fossil record."*

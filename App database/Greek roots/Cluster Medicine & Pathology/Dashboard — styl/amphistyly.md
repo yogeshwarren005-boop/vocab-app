@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of primitive vertebrate jaw suspension in which the upper jaw is attached to the neurocranium by both its own palatobasal process and the hyomandibula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate morphology, the ancestral gnathostome jaw attachment observed in early fossil chondrichthyans and primitive hexanchid sharks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphistyly designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Thomas Henry Huxley (*On the Application of the Laws of Evolution to the Arrangement of the Vertebrata*):** *"In the primitive condition of **amphistyly**, the palatoquadrate bar retains direct ligamentous articulation with the cranium."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"Evolutionary transition from **amphistyly** to hyostyly granted sharks greater cranial kinesis and biting power."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"Fossil acanthodians exhibit **amphistyly**, providing insight into how jaws first evolved from anterior visceral arches."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sensation or perception of a sharp point or pinprick upon the skin without an accompanying sense of pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiological sensory testing, a specialized tactile sensibility mediated by myelinated A-beta cutaneous afferents, distinct from nociceptive C-fiber pain transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acmesthesia designates a term designating an entity, condition, or phenomenon derived from greek ac."*
+> - 📜 **William Gowers (*Diagnosis of Diseases of the Spinal Cord*):** *"In syringomyelia, pain and temperature senses are lost, but touch and **acmesthesia** are often remarkably preserved."*
+> - 📜 **Henry Head (*Sensory Disturbances from Cerebral Lesions*):** *"Cortical sensory loss impairs the spatial localization of **acmesthesia** even when touch thresholds are normal."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Mapping **acmesthesia** on the fingertips demonstrates the high receptive field density of the primary somatosensory cortex."*

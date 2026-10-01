@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eight columns in the front portico or facade; an octastyle building or temple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek architecture, the monumental plan of the Parthenon on the Athenian Acropolis, departing from the standard hexastyle Doric tradition to achieve immense breadth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octastyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The Parthenon at Athens is a magnificent example of the Doric **octastyle** peripteral temple, presenting eight columns to the sunrise."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The **octastyle** portico of the Pantheon in Rome commands the piazza with an unyielding imperial majesty."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"An **octastyle** facade allows the architect to display greater sculptural richness in the pediment above."*

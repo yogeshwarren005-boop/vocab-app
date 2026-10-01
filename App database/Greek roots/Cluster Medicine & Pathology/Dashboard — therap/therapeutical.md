@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involved in therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involved in therapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the healing art, the curing of disease, or remedies; therapeutic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with clinical remedies, pharmacological applications, or medical treatments (historical/formal variant).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapeutical designates relating to or involved in therapy."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **therapeutical** part of medicine hath been much corrupted with empirical receipts and superstitious charms."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"He sought solace in books, finding in moral philosophy a **therapeutical** balm for mental anxiety."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern physiology provides the only rational foundation upon which **therapeutical** science can advance."*

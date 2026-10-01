@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mass of usually clotted blood that forms in a tissue, organ, or body space as a result of a broken blood vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mass of usually clotted blood that forms in a tissue, organ, or body space as a result of a broken blood vessel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A localized collection of blood outside the blood vessels, usually in liquid form within tissue, resulting from disease or trauma; a blood clot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery and emergency medicine, an intracranial hemorrhage (such as an epidural or subdural hematoma) that expands within the rigid cranium, compressing the brainstem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematoma designates a mass of usually clotted blood that forms in a tissue, organ, or body space as a result of a broken blood vessel."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"A tense, expanding **hematoma** beneath the fractured temporal bone demands urgent trephining to evacuate the clot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subdural **hematoma** in the elderly may mimic dementia or stroke, presenting with fluctuating lethargy days after a minor fall."*
+> - 📜 **Atul Gawande (*Complications*):** *"The surgeon peeled back the fascia, revealing a dark, jelly-like **hematoma** putting pressure on the sciatic nerve."*

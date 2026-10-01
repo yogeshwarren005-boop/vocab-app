@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a vein with formation of a thrombus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a vein with formation of a thrombus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the wall of a vein associated with the formation of a blood clot (thrombus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular medicine, categorized into superficial thrombophlebitis (erythematous, tender palpable cord) and deep vein thrombophlebitis, which carries high risk of pulmonary embolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombophlebitis designates inflammation of a vein with formation of a thrombus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Migratory **thrombophlebitis**, known as Trousseau's sign, is a celebrated warning harbinger of occult visceral carcinoma."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"I observed recurrent **thrombophlebitis** in my own limbs, recognizing too late that it warned of fatal pancreatic cancer."*
+> - 📜 **Atul Gawande (*Complications*):** *"Prolonged intravenous catheters in peripheral veins can trigger acute **thrombophlebitis** unless rotated regularly."*

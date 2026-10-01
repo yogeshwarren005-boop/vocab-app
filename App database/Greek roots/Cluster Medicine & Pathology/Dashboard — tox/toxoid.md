@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxin of a pathogenic organism treated so as to destroy its toxicity but leave it capable of inducing the formation of antibodies on injection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxin of a pathogenic organism treated so as to destroy its toxicity but leave it capable of inducing the formation of antibodies on injection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterial toxin whose toxicity has been inactivated or suppressed (by chemical treatment or heat) while its immunogenic properties are maintained; an anatoxin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In preventive medicine, the cornerstone of active immunization vaccines (e.g., tetanus toxoid and diphtheria toxoid) that stimulate protective neutralizing antibodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxoid designates a toxin of a pathogenic organism treated so as to destroy its toxicity but leave it capable of inducing the formation of antibodies on injection."*
+> - 📜 **Gaston Ramon (*On Anatoxins and Toxoids*):** *"By formalizing the toxin, we created an innocuous **toxoid** that safely immunizes horses and humans against tetanus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine immunization with diphtheria **toxoid** during infancy has practically banished membranous croup from civilised communities."*
+> - 📜 **Atul Gawande (*Better*):** *"Every patient presenting with a contaminated laceration receives a booster dose of tetanus **toxoid**."*

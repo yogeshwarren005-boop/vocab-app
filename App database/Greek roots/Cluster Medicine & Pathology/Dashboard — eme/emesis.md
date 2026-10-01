@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or instance of vomiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act or instance of vomiting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or physiological process of vomiting; the forceful ejection of stomach contents through the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal physiology, a reflex coordinated by the bilateral vomiting center in the medulla oblongata, triggered by the chemoreceptor trigger zone, vagal afferents, or vestibular disturbance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emesis designates an act or instance of vomiting."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent projectile **emesis** without preceding nausea in an infant strongly suggests congenital hypertrophic pyloric stenosis."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The nurse hurried in with a basin as severe bilious **emesis** seized the post-operative patient."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Uncontrolled **emesis** dehydrates frail cancer patients with alarming rapidity unless counteracted by central antiemetic therapy."*

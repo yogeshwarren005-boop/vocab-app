@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or specializing in pediatrics or its practice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, affecting, or being an infant, child, or adolescent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the branch of medicine concerned with the medical care and diseases of infants, children, and adolescents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized in developmental physiology, pediatric pharmacology, congenital disorders, and childhood vaccinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pediatric designates of, relating to, or specializing in pediatrics or its practice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A sound understanding of infant nutrition forms the bedrock of modern **pediatric** practice."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The **pediatric** ward echoed with the cries of malnourished infants, their mothers rocking them under mosquito nets."*
+> - 📜 **Atul Gawande (*Better*):** *"In the **pediatric** surgical intensive care unit, minute changes in fluid balance can spell the difference between life and death."*

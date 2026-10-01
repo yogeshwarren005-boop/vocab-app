@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek iatr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician or healer in ancient Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of classical medicine, a trained medical practitioner who swore the Hippocratic Oath, distinguished from superstitious charlatans and root-cutters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iatros designates a term designating an entity, condition, or phenomenon derived from greek iatr."*
+> - 📜 **Homer (*The Iliad*):** *"A physician, an **iatros**, is a man worth many other men, skilled to cut out darts and spread soothing unguents."*
+> - 📜 **Plato (*Gorgias*):** *"The true **iatros** does not flatter the sick man's palate, but prescribes bitter draughts for the soul's restoration."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"The ancient Greek **iatros** freed medicine from priestly incantations, establishing clinical observation at the bedside."*

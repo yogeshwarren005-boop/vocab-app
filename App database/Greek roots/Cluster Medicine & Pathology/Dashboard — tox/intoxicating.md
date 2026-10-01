@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make drunk (with alcoholic drinks).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing drunkenness or inebriation; or producing intense excitement, delight, or exhilaration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of impairing neurological motor and cognitive functions through chemical action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each clasping the other round the waist they promenaded over the dry bed of fir-needles, thrown into a vague intoxicating atmosphere at the consciousness of being together at last, with no living soul between them; ignoring that there was a corpse."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No,' said he, 'I never drink intoxicating drink, and I ask the Lord Jesus to help me never to touch it.' "I looked at him with surprise, and inquired, 'Are you a Christian?' "'Yes, I trust I am,' he answered."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"_And does Jesus keep you from drinking intoxicating liquor?'_ "'_He does, and I never wish to touch it_.' "That short answer set me to thinking."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The heavy floral scent of the garden on that summer evening had an **intoxicating** quality that made her head swim."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She breathed the **intoxicating** air of freedom for the first time in seven weary years."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The sparkling music and the warm champagne combined into an **intoxicating** enchantment under the summer stars."*

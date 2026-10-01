@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflict a trauma upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflict a trauma upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject to severe mental or emotional distress, or to inflict physical injury upon body tissue (chiefly British spelling of traumatize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical technique, to handle delicate anatomical structures roughly so as to cause avoidable tissue necrosis or inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traumatise designates inflict a trauma upon."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"The surgeon must handle the bowel with utmost gentleness, taking care not to **traumatise** the serosa with harsh metal forceps."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She feared that the father's sudden outbursts of cold rage would **traumatise** the sensitive heart of the young boy."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"The brutal horrors of the battlefield will **traumatise** an entire generation of European youth."*

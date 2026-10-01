@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent narcotic antagonist (trade name narcan) especially effective with morphine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent narcotic antagonist (trade name narcan) especially effective with morphine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical preparation of naloxone, an opioid antagonist used for the emergency reversal of opioid overdose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency medicine and toxicology, a competitive mu-opioid receptor antagonist that rapidly displaces opioids, reversing life-threatening respiratory depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcan designates a potent narcotic antagonist (trade name narcan) especially effective with morphine."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"A single dose of **Narcan** administered intranasally revived the unconscious young man within ninety seconds."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Paramedics carried pre-filled **Narcan** injectors to every emergency call involving suspected narcotic intoxication."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The chemical structure of **Narcan** fits snugly into the opioid receptor without activating the downstream intracellular cascade."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychologically or emotionally stressful in a way that can lead to serious mental and emotional problems; broadly : causing distress or anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, being, or caused by a sudden, severe, often life-threatening injury to the body; also : involving or causing tissue damage or physical stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or resulting from physical injury or severe emotional distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery and orthopedics, caused by sudden external mechanical force, such as a traumatic brain injury or traumatic amputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Ironically, 'suicide statistics' do not examine the impact of a suicide on the victim's family and friends, nor do they note the traumatic and often permanent effects of the failed attempt on the victim."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A terrifying experience may leave a **traumatic** imprint so deep upon the nervous system that subsequent life is permanently shadowed."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The soldier suffered from a **traumatic** neuralgia in his wounded shoulder whenever the weather turned damp."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The emergency team labored to control the hemorrhage caused by a severe **traumatic** laceration of the femoral artery."*

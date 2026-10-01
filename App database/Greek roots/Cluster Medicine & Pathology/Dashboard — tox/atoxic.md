@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing or resulting from poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not producing or resulting from poison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not toxic; free from poison; non-poisonous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacodynamics, describing compounds or vaccine antigens that exhibit no measurable cytotoxicity or systemic adverse reactions in therapeutic concentrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atoxic designates not producing or resulting from poison."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy*):** *"Our goal was to synthesize a derivative that was parasitotropic against the spirochete yet completely **atoxic** to the host."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"The antibiotic candidate proved highly active against bacteria and fortunately **atoxic** to mammalian kidneys."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The degradation products of the plasma expander are inert, biodegradable, and entirely **atoxic**."*

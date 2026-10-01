@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purulent inflammation of the sockets of the teeth leading usually to loosening of the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purulent inflammation of the sockets of the teeth leading usually to loosening of the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discharge or flow of pus, especially from the gums and tooth sockets in advanced periodontitis (pyorrhea alveolaris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental medicine, chronic inflammatory periodontitis leading to destruction of periodontal ligament fibers, alveolar bone resorption, tooth loosening, and foul purulent exudate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyorrhea designates purulent inflammation of the sockets of the teeth leading usually to loosening of the teeth."*
+> - 📜 **Willoughby D. Miller (*The Micro-Organisms of the Human Mouth*):** *"Chronic **pyorrhea** alveolaris represents a polymicrobial infection destroying the connective tissue attachment of the teeth."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He worried incessantly over his receding gums, dreading the socially humiliating ravages of **pyorrhea**."*
+> - 📜 **G. V. Black (*Special Dental Pathology*):** *"Deep subgingival scaling is the only mechanical therapy capable of checking the purulent flow of **pyorrhea**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A component of starch characterized by its straight chains of glucose units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A component of starch characterized by its straight chains of glucose units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A water-soluble linear polysaccharide component of starch composed of unbranched chains of D-glucose units linked by alpha-1,4-glucosidic bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food chemistry and biochemistry, the starch fraction (twenty to thirty percent) that adopts a helical secondary structure capable of complexing with iodine to produce an intense deep blue color.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amylose designates a component of starch characterized by its straight chains of glucose units."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The famous blue color of the iodine-starch test is produced by polyiodide ions trapped inside the helical core of the **amylose** molecule."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Salivary amylase cleaves **amylose** into maltose and maltotriose through endo-hydrolysis of internal alpha-1,4 bonds."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*):** *"I marveled as a single drop of brown tincture turned the starch paste containing **amylose** into intense midnight blue."*

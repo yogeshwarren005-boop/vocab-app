@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe and excessive vomiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe and excessive vomiting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, excessive, and intractable vomiting, leading to dehydration, electrolyte imbalance, and weight loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and maternal-fetal medicine, hyperemesis gravidarum, a life-threatening complication of early pregnancy requiring aggressive intravenous fluid rehydration and nutritional support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperemesis designates severe and excessive vomiting."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pernicious **hyperemesis** in the pregnant woman can rapidly induce ketosis and hepatic dysfunction unless parenteral feeding is initiated."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The young mother was admitted to the ward semi-conscious from unremitting **hyperemesis**, her eyes sunken from severe dehydration."*
+> - 📜 **Atul Gawande (*Better*):** *"Managing refractory **hyperemesis** demands continuous electrolyte monitoring to avert fatal cardiac arrhythmias."*

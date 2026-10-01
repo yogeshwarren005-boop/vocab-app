@@ -53,7 +53,10 @@
     "Greek roots: Cluster Art, Craft & Design",
     "Greek roots: Cluster Nature & Cosmos",
     "Greek roots: Cluster Speech & Language",
-    "Greek roots: Cluster Cognition & Mind"
+    "Greek roots: Cluster Cognition & Mind",
+    "Greek roots: Cluster Beginning & Primacy",
+    "Greek roots: Cluster Writing & Script",
+    "Greek roots: Cluster Medicine & Pathology"
   ],
   "stats": {
     "totalWordFiles": 47447,
@@ -62,8 +65,8 @@
     "englishVocabMasterClusters": 30,
     "englishVocabMasterWords": 514,
     "englishVocabMasterIssuesRemaining": 0,
-    "greekRootsClustersCompleted": 12,
-    "greekRootsWordsCurated": 2334,
+    "greekRootsClustersCompleted": 15,
+    "greekRootsWordsCurated": 3377,
     "greekRootsClusterPowerStrengthDominionIssues": 0,
     "greekRootsClusterScienceInquiryIssues": 0,
     "greekRootsClusterSelfIdentityIssues": 0,
@@ -75,6 +78,9 @@
     "greekRootsClusterArtCraftDesignIssues": 0,
     "greekRootsClusterNatureCosmosIssues": 0,
     "greekRootsClusterSpeechLanguageIssues": 0,
-    "greekRootsClusterCognitionMindIssues": 0
+    "greekRootsClusterCognitionMindIssues": 0,
+    "greekRootsClusterBeginningPrimacyIssues": 0,
+    "greekRootsClusterWritingScriptIssues": 0,
+    "greekRootsClusterMedicinePathologyIssues": 0
   }
 }

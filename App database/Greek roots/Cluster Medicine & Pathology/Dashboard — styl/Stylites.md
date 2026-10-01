@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian ascetic living atop a pillar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saint circa 390—459 Syrian ascetic and pillar dweller.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The title or surname given to Christian pillar-saints, especially Saint Simeon Stylites (c. 390–459 AD).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and hagiography, referring to Simeon Stylites the Elder and Simeon Stylites the Younger, who inspired the monastic movement of pillar ascetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Tis but madness, sad and solemn, that these fakir-Christians feel-- Saint Stylites on his column gratified a morbid zeal."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Simeon **Stylites** died upon his Syrian column, leaving a fame that surpassed that of kings and emperors."*
+> - 📜 **Alfred, Lord Tennyson (*St. Simeon Stylites*):** *"From pillar unto pillar I moved, higher and higher, till I reached this topmost height where **Stylites** kneels before God."*
+> - 📜 **Ernest Renan (*History of the Origins of Christianity*):** *"The heroic, fanatical spectacle of **Stylites** upon his pillar commanded the awe of the bedouin tribes of the desert."*

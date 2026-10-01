@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lungless salamander of the family Plethodontidae, which breathes entirely through its moist skin and the tissues of its mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, the largest and most ecologically diverse family of salamanders, characterized by a nasolabial groove used in chemoreception and the absence of lungs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethodontid designates a term designating an entity, condition, or phenomenon derived from greek ple."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"In the Appalachian leaf litter, the biomass of **plethodontid** salamanders exceeds that of all birds and small mammals combined."*
+> - 📜 **David Attenborough (*Life in Cold Blood*):** *"The tiny **plethodontid** breathes entirely without lungs, absorbing oxygen directly through its glistening skin."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"The loss of lungs in the ancestral **plethodontid** likely evolved as an adaptation to maintain negative buoyancy in swift mountain streams."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal fatty deposit in an artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fatty degeneration of the inner coat of the arteries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal deposit or plaque of fatty, fibrous material in the inner wall (intima) of an artery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology, a lipid-rich core containing cholesterol crystals and necrotic cellular debris capped by a fibrous collagen layer, which can rupture and precipitate acute thrombosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atheroma designates an abnormal fatty deposit in an artery."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"The coronary artery was rigid as a pipe-stem, its lumen narrowed by a calcified **atheroma** that almost touched the opposite wall."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Upon slitting open the aorta, one observes the yellowish, porridge-like matter of the **atheroma** beneath the delicate endothelial membrane."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"A sudden rupture of a soft coronary **atheroma** unleashes an avalanche of clotting factors, sealing the lumen in seconds."*

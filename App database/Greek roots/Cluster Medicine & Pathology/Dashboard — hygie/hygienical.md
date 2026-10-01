@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote or preserve health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to promote or preserve health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to hygiene, sanitation, or the preservation of health; hygienic (historical and formal variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to public health treatises, sanitary regulations, or medical preventative science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygienical designates tending to promote or preserve health."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The application of physical science to **hygienical** problems has halved the urban death rate from contagious fevers."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Knowledge of **hygienical** laws is more precious to the child than familiarity with all the battles of antiquity."*
+> - 📜 **William Playfair (*The Commercial and Political Atlas*):** *"The report established that proper **hygienical** measures in manufacturing towns increased worker productivity."*

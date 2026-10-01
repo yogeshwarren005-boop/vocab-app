@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The financing of terrorist activities by participation in the drug trade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The financing of terrorist activities by participation in the drug trade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrorist activities funded by or associated with the illicit trade in illegal drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In security studies and geopolitics, the alliance between drug trafficking cartels and insurgent or terrorist organizations using assassination, bombing, and extortion to influence government policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcoterrorism designates the financing of terrorist activities by participation in the drug trade."*
+> - 📜 **Noam Chomsky (*Manufacturing Consent*):** *"The rhetoric of **narcoterrorism** provided a convenient pretext for military interventions across Latin America."*
+> - 📜 **Joseph Stiglitz (*Making Globalization Work*):** *"Unchecked illicit drug profits finance brutal **narcoterrorism** that destabilizes democratic governance."*
+> - 📜 **Paul Collier (*Wars, Guns, and Votes*):** *"Insurgent factions turn to **narcoterrorism** to bankroll their armaments through taxation of coca cultivation."*

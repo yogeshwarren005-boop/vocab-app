@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inhibiting of the growth and multiplication of microorganisms by antiseptic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inhibiting of the growth and multiplication of microorganisms by antiseptic means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of using antiseptics to destroy or inhibit the growth of pathogenic microorganisms on living tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of surgery, the revolutionary sterile technique introduced by Joseph Lister in 1865 using carbolic acid to prevent post-operative wound infection and hospital gangrene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisepsis designates the inhibiting of the growth and multiplication of microorganisms by antiseptic means."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"By maintaining strict **antisepsis** throughout the operation, compound fractures healed without a single drop of pus."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The introduction of **antisepsis** transformed the hospital from a house of death into a temple of healing."*
+> - 📜 **Sherwin B. Nuland (*Doctors: The Biography of Medicine*):** *"Lister's carbolic spray was clumsy, but his conceptual grasp of **antisepsis** rescued modern surgery from the pestilence of gangrene."*

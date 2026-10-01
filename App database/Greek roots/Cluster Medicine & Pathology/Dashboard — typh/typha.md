@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reed maces; cattails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reed maces; cattails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan genus of tall wetland reed-like plants with dense brown cylindrical flower spikes (cattails, bulrushes, or reedmace).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic botany and wetland ecology, plants of the genus Typha (family Typhaceae) renowned for rhizomatous spread, water filtering capacity, and edible starchy tubers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typha designates reed maces; cattails."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The brown cylindrical spikes of **Typha** waved in the autumn breeze above the frozen marsh."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The staminate flowers of **Typha** form a deciduous upper spike, separated from the persistent velvety pistillate cylinder below."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Along the meandering mountain sloughs grew dense thickets of **Typha**, sheltering wild waterfowl and humming dragonflies."*

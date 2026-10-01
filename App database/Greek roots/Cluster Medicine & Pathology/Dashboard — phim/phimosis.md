@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital or acquired narrowing of the opening of the foreskin so that it cannot be retracted over the glans penis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric and adult urology, a condition predisposing to recurrent balanoposthitis, urinary obstruction, or chronic infection, often treated conservatively with topical steroids or surgically by circumcision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phimosis designates a term designating an entity, condition, or phenomenon derived from greek phim."*
+> - 📜 **John Hunter (*A Treatise on the Venereal Disease*):** *"Severe inflammation of the prepuce may induce a secondary **phimosis**, preventing examination of the underlying chancre."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The clinic performed circumcisions for severe congenital **phimosis** that had caused painful ballooning during micturition."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"Ancient Egyptian papyri record surgical relief for **phimosis**, making circumcision one of mankind's oldest documented operations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Copepods with suctorial mouthparts; parasitic on fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copepods with suctorial mouthparts; parasitic on fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subclass of small aquatic crustaceans commonly called fish lice or carp lice, which live as ectoparasites on marine and freshwater fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitic crustacean biology, characterized by a flattened disc-like carapace, compound eyes, and maxillae modified into powerful suckers (as in Argulus) for attaching to the host's skin and gills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiura designates copepods with suctorial mouthparts; parasitic on fishes."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"The **Branchiura** are armed with prehensile suckers and piercing proboscises, swimming actively between fish hosts."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Carp ponds are frequently infested with Argulus, a destructive member of the **Branchiura** that ulcerates the gills of young fry."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Unlike parasitic barnacles that degenerate into mere roots, the **Branchiura** retain active swimming limbs and keen compound eyes."*

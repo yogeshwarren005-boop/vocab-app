@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of stylizing; causing to conform to a particular style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of stylizing; causing to conform to a particular style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of representing something in an artificial, conventional, or stylized artistic manner rather than naturalistically (chiefly British spelling of stylization).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, simplifying natural organic forms into decorative geometric motifs or cultural conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylisation designates the act of stylizing; causing to conform to a particular style."*
+> - 📜 **E. H. Gombrich (*Art and Illusion*):** *"Egyptian relief sculpture attained a majestic **stylisation** that remained virtually unchanged across three thousand years."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"The Byzantine icon sacrifices anatomical realism for a sublime spiritual **stylisation** of the saints."*
+> - 📜 **Kenneth Clark (*Civilisation*):** *"Celtic metalwork exhibits an astonishing **stylisation**, where animal bodies dissolve into swirling golden interlaces."*

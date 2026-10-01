@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of the tonsils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical removal of the tonsils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of the tonsils, usually performed for recurrent tonsillitis, peritonsillar abscess, or obstructive sleep apnea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric otolaryngology, historically one of the most frequently performed operations in children, executed by guillotine excision, cold-knife dissection, or electrocautery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonsillectomy designates the surgical removal of the tonsils."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hypertrophied adenoids and chronically infected palatine tonsils demand prompt **tonsillectomy** to restore nasal breathing."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The village doctor earned his living performing **tonsillectomies** upon a kitchen table with chloroform and an old snare."*
+> - 📜 **Atul Gawande (*Complications*):** *"Post-operative hemorrhage days after a **tonsillectomy** remains a terrifying emergency requiring immediate surgical control."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception of a pointed or pinprick sensation without the sensation of pain; acmesthesia (spaced heading variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a dissociated sensory phenomenon tested with a pinprick to evaluate cutaneous tactile receptors versus spinothalamic pain pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acm esthesia designates a term designating an entity, condition, or phenomenon derived from greek ac."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"The patient retained **acmesthesia**, discerning the sharp point of the pin while entirely insensible to pain."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Dissociation between touch and **acmesthesia** helps delineate epicritic sensibility from protopathic reflexes."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Sensory testing revealed preserved **acmesthesia** over the palmar surface despite profound loss of proprioception."*

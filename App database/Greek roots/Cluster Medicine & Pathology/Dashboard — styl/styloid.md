@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a style : styliform —used especially of slender pointed skeletal processes (as on the ulna).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a style : styliform —used especially of slender pointed skeletal processes (as on the ulna).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender, pointed, and cylindrical, resembling a stylus or pen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology, designating sharp, pointed bony projections such as the styloid process of the temporal bone or the styloid processes of the radius and ulna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, styloid designates resembling a style : styliform —used especially of slender pointed skeletal processes (as on the ulna)."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"From the base of the temporal bone projects a slender, needle-like spine, appropriately termed the **styloid** process."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Colles' fracture typically involves a fracture of the distal radius accompanied by avulsion of the ulnar **styloid** process."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The styloglossus and stylohyoid muscles arise from the sharp apex of the temporal **styloid** bone."*

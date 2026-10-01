@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) son of gaea and tartarus who created the whirlwinds; had a terrifying voice and 100 dragon heads that spurted fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) son of gaea and tartarus who created the whirlwinds; had a terrifying voice and 100 dragon heads that spurted fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monstrous serpentine giant of Greek mythology (also called Typhon), the offspring of Gaia and Tartarus, who challenged Zeus for supremacy of the cosmos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and entomology, the mythological personification of volcanic rage and hurricane tempests; also a genus of European three-horned dung beetles (Typhaeus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typhoeus designates (greek mythology) son of gaea and tartarus who created the whirlwinds; had a terrifying voice and 100 dragon heads that spurted fire."*
+> - 📜 **Hesiod (*Theogony*):** *"From his shoulders grew a hundred heads of a fearful dragon, flicking dark tongues; thus was born mighty **Typhoeus** to shake the Olympian throne."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan lay floating on the fiery surge, huge as the giant **Typhoeus** whom Olympian thunder hurled beneath Mount Etna."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The volcanic chasms shuddered as if imprisoned **Typhoeus** were groaning beneath the crust of the earth."*

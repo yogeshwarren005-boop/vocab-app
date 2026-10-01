@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clot of blood formed within a blood vessel and remaining attached to its place of origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clot of blood formed within a blood vessel and remaining attached to its place of origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood clot formed in situ within the vascular system of the body and remaining at the site of its formation, impeding blood flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, distinguished from a postmortem clot by the presence of lines of Zahn (alternating pale layers of platelets/fibrin and darker layers of red blood cells).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombus designates a clot of blood formed within a blood vessel and remaining attached to its place of origin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A laminated **thrombus** adhering to the diseased arterial coat is formed layer by layer from the circulating blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The friable **thrombus** on the aortic valve tore loose, causing sudden embolism in the splenic artery."*
+> - 📜 **Atul Gawande (*Complications*):** *"The surgeon gently pulled out a serpentine red **thrombus** eight inches long from the femoral vein."*

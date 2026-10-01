@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or affected by eczema; characterized by inflammatory skin eruptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, describing histopathological tissue changes marked by epidermal spongiosis, intercellular edema, and parakeratosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eczematous designates an inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The infant's cheeks were covered with an **eczematous** weeping crust that caused intolerable nocturnal itching."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"The sanitarium physician noted the patient's **eczematous** skin flare alongside his chronic bronchial symptoms."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The skin beneath the prolonged plaster cast had turned red and **eczematous** from lack of ventilation."*

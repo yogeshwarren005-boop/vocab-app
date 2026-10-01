@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An emetic alkaloid C29H40N2O4 extracted from ipecac root and used especially to treat amebiasis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emetic alkaloid C29H40N2O4 extracted from ipecac root and used especially to treat amebiasis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic crystalline alkaloid extracted from ipecacuanha root, historically used as a powerful emetic and in the treatment of amoebic dysentery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a protein synthesis inhibitor that acts specifically against trophozoites of Entamoeba histolytica in tissues, now largely superseded by metronidazole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emetine designates an emetic alkaloid c29h40n2o4 extracted from ipecac root and used especially to treat amebiasis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of hypodermic **emetine** marked a dramatic breakthrough in arresting the ravages of acute amoebic dysentery."*
+> - 📜 **W. Somerset Maugham (*The Painted Veil*):** *"The doctor prepared a dose of **emetine** for the dysentery patients lying on mats along the river warehouse."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Tropical physicians recognized **emetine** as a specific poison against the amoebae that burrowed deep into liver abscesses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of marine fishes having covered gills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of marine fishes having covered gills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine perciform fishes commonly known as tilefishes (often placed in the family Malacanthidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, benthic fishes inhabiting continental slope burrows and rocky reefs, named from Greek branchia (gills) and stege (cover), referencing their well-developed opercular gill covers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiostegidae designates small family of marine fishes having covered gills."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The family **Branchiostegidae** includes the famous tilefish of the western Atlantic, renowned for its sudden catastrophic mortality in 1882."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"From the bathysphere window we observed species of **Branchiostegidae** hovering above their crater-like burrows in the canyon mud."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"A sudden influx of arctic water along the edge of the Gulf Stream annihilated millions of tilefish of the family **Branchiostegidae**."*

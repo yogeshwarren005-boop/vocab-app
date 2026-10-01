@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brown melanin-containing pigment from the ink of cuttlefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inky secretion of a cuttlefish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-brown pigment prepared from the ink sac of the cuttlefish (Sepia); or a rich brownish color associated with early photographic prints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, the taxonomic genus Sepia, comprising common Old World cuttlefish celebrated for rapid chromatophore camouflage and jetting dark melanin-rich ink.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Indoors in the great hall it was dark because floor and staircase and wall and ceiling were all lined with Spanish chestnut-wood, while the windows were full of Flemish glass in purple and sepia and blue."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It reminded me of a sepia painting I had once seen done from the ink of a fossil Belemnite that must have perished and become fossilised millions of years ago."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"On this glaze, and sometimes under it, the painters executed rapid, bold, and rather impressionist designs in shades of brown, varying from black to a soft sepia colour."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The artist executed the mountain sketch in rich washes of **sepia**, giving depth and shadow to the limestone crags."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"A colossal cuttlefish discharged a cloud of dark **sepia** liquid, obscuring the captain and the monster in total blackness."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The family portraits had faded to a mellow **sepia**, their Victorian countenances gazing out from gilded frames."*

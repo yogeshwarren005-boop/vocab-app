@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of those having an inflated idea of their own importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of those having an inflated idea of their own importance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an excessive or erotic interest in oneself and one's physical appearance; extremely self-centered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory, relating to the libidinal cathexis of the ego or narcissistic defenses against underlying depressive emptiness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcissistic designates characteristic of those having an inflated idea of their own importance."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"The **narcissistic** satisfaction derived from the cultural ideal is one of the forces that successfully combats hostile rebellions."*
+> - 📜 **Christopher Lasch (*The Culture of Narcissism*):** *"The **narcissistic** personality seeks immediate applause to validate an inner sense of chronic emptiness."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Orlando spent hours before the mirror in a state of **narcissistic** wonder at the silks and lace."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor of fatty tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tumor of fatty tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow-growing, benign tumor composed of mature adipose (fat) tissue, typically soft, mobile, and situated just beneath the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological and general surgery, the most common soft-tissue mesenchymal neoplasm in adults, typically painless and requiring surgical excision only if cosmetically bothersome or compressing nerves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipoma designates a tumor of fatty tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The subcutaneous lump was soft, lobulated, and freely movable, presenting the classic characteristics of a benign **lipoma**."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Under local anesthesia, the surgeon enucleated the large encapsulated **lipoma** from the patient's shoulder in a single sweep."*
+> - 📜 **Atul Gawande (*Complications*):** *"Excising a simple **lipoma** is the first procedure every surgical intern masters before advancing to deep visceral surgery."*

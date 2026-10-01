@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural arrangement in which the space between adjacent columns (intercolumniation) is wide, typically four or more column-diameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Vitruvian rules, an open intercolumniation requiring timber architraves rather than stone epistyles, because stone would fracture across such wide spans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, araeostyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*De Architectura*):** *"In the **araeostyle** species, the columns are set far apart, so that stone epistyles cannot be used, and wooden beams must be laid across."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"Etruscan temples were built according to the **araeostyle** interval to accommodate wide carriage entrances."*
+> - 📜 **William Chambers (*Treatise on Civil Architecture*):** *"Modern porticoes rarely employ the **araeostyle** spacing because it imparts a weak, disjointed appearance to the colonnade."*

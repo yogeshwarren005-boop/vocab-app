@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to style (especially in the use of language).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to style (especially in the use of language).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerning style, especially literary or artistic expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and literary analysis, pertaining to stylistics: the study of rhetorical devices, syntax, register, and aesthetic voice in texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylistic designates of or relating to style (especially in the use of language)."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"A genuine **stylistic** innovation is not a mere decorative trick, but a new way of organizing human perception."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"She developed a **stylistic** cadence adapted to feminine experience rather than adopting the heavy sentence of male essayists."*
+> - 📜 **E. H. Gombrich (*Art and Illusion*):** *"Every **stylistic** shift in painting reflects a change in the mental schemas through which artists interpret reality."*

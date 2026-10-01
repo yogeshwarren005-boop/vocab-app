@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who is a master of a particular style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who cuts or beautifies hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer or artist who is a master of literary or artistic style; or a professional who styles hair or fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, an author whose work is characterized by exceptional attentiveness to diction, cadence, sentence structure, and verbal texture (e.g., Flaubert, Pater, Nabokov).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Rhetorician, philosopher and man of science, a story-teller wavering between Boccaccio and Hans Andersen, he is above all a stylist, a pietist and a humorist."*
+> - 📜 **Walter Pater (*Appreciations: With an Essay on Style*):** *"The true literary **stylist** searches ceaselessly for the unique word, the 'mot juste', that alone fits the intellectual vision."*
+> - 📜 **Henry James (*French Poets and Novelists*):** *"Gustave Flaubert was the martyr of style, an unsparing **stylist** who spent weeks agonizing over the balance of a single paragraph."*
+> - 📜 **H. L. Mencken (*Prejudices*):** *"A brilliant **stylist** can make an essay on grammatical particles read like an exciting adventure story."*

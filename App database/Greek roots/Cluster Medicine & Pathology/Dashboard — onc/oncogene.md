@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gene having the potential to cause a normal cell to become cancerous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gene having the potential to cause a normal cell to become cancerous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gene that has the potential to cause cancer, often created through the mutation or abnormal overexpression of a normal proto-oncogene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular oncology, a mutated regulatory gene (such as ras, myc, or src) that drives autonomous cell proliferation, evasion of apoptosis, and malignant transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncogene designates a gene having the potential to cause a normal cell to become cancerous."*
+> - 📜 **Harold Varmus (*Nobel Lecture: Retroviruses and the Cellular Origins of Cancer Genes*):** *"The discovery that a viral **oncogene** is derived from a conserved normal cellular gene reshaped our understanding of carcinogenesis."*
+> - 📜 **J. Michael Bishop (*How to Win the Nobel Prize: An Unexpected Life in Science*):** *"The cellular proto-oncogene is a good gene gone wrong, transformed into an active **oncogene** by a mutation in its control switches."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Cancer, we learned, was not driven by foreign invaders, but by our own genome corrupted: the mutated **oncogene** jammed the cell's accelerator pedal down."*

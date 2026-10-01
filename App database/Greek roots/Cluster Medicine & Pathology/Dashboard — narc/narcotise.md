@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer narcotics to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer narcotics to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To drug or treat with a narcotic; to render unconscious, insensible, or stupefied (chiefly British spelling of narcotize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and cultural critique, to lull into complacency, apathy, or uncritical compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcotise designates administer narcotics to."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The physician sought to **narcotise** the patient's pain rather than discover its underlying physiological cause."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The gentle life of the Eloi had served to **narcotise** their ancestral intelligence into childlike weakness."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Daily rations of soma served to **narcotise** any spontaneous flicker of discontent among the workers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a septum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a septum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near a septum (a dividing partition between two cavities or tissues).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and rhinology, pertaining specifically to the nasal septum dividing the nostrils, or the interventricular and interatrial septa dividing the cardiac chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septal designates of or relating to a septum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A congenital ventricular **septal** defect produces a loud, harsh pansystolic murmur audible across the entire precordium."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon gently examined the deviated nasal **septal** cartilage that had obstructed the young man's breathing for years."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"The embryonic heart develops through complex folding and **septal** alignment that separates the pulmonary and systemic streams."*

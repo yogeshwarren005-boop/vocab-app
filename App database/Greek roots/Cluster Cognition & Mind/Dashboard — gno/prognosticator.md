@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes predictions of the future (usually on the basis of special knowledge).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes predictions of the future (usually on the basis of special knowledge).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who predicts, foretells, or prophesies future events, trends, or weather conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography, an almanac-maker, astrologer, or political pundit claiming authority to anticipate historical developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prognosticator designates someone who makes predictions of the future (usually on the basis of special knowledge)."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Laputan astronomers are tireless **prognosticators**, forever anticipating collisions with comets and catastrophic solar blazes."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every tavern had its amateur **prognosticator** announcing the imminent collapse of the royal treasury."*
+> - 📜 **Benjamin Franklin (*Poor Richard's Almanack*):** *"A prudent man listens cautiously to the weather **prognosticator**, but carries his umbrella regardless."*

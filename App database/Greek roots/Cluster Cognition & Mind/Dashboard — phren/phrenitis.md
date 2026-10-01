@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient and historical medical diagnosis denoting acute inflammation of the brain accompanied by raging fever and violent delirium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine (Hippocrates to the 18th century), an acute febrile encephalopathy roughly corresponding to modern acute encephalitis or meningitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phrenitis designates a term designating an entity, condition, or phenomenon derived from greek phren."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"In cases of **phrenitis**, acute fever coupled with picking at bedclothes and violent muttering portends a fatal crisis."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"**Phrenitis** is an inflammation of the brain’s meninges, driving the patient to furious shouting and frantic delirium."*
+> - 📜 **Thomas Willis (*Cerebri Anatome*):** *"Our post-mortem dissections demonstrate that the fatal distemper formerly termed **phrenitis** leaves severe swelling of the cerebral vessels."*

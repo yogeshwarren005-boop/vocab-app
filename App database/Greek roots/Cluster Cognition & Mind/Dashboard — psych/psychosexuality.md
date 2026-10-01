@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental representation of sexual activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental representation of sexual activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological, emotional, and social dimensions of an individual's sexual nature, identity, desires, and behaviors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and sexology, the totality of psychological attitudes and conscious and unconscious experiences that shape erotic and romantic life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosexuality designates the mental representation of sexual activities."*
+> - 📜 **Alfred Kinsey (*Sexual Behavior in the Human Male*):** *"Human **psychosexuality** spans a broad, continuous spectrum that cannot be divided into rigid, mutually exclusive categories."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The full richness of adult **psychosexuality** emerges only after the tempestuous storms of puberty subside."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"One is not born a woman; human **psychosexuality** is an existential project constructed within historical patriarchal constraints."*

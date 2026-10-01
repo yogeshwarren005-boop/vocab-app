@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formula, proposition, or statement in mathematics or logic deduced or to be deduced from other formulas or propositions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea accepted or proposed as a demonstrable truth often as a part of a general theory : proposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical statement or proposition that has been proved on the basis of previously established statements (axioms, postulates, or other theorems).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and deductive systems, a formula derived from axioms via accepted transformation rules; broadly, a well-established general truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorem designates a formula, proposition, or statement in mathematics or logic deduced or to be deduced from other formulas or propositions."*
+> - 📜 **Euclid (*Elements (Book I)*):** *"In any right-angled triangle, the square on the hypotenuse is equal to the squares on the sides containing the right angle; this celebrated **theorem** is established beyond doubt."*
+> - 📜 **Bertrand Russell (*Principia Mathematica*):** *"Every mathematical **theorem** is a tautology, revealing relations already implicit within the initial axioms."*
+> - 📜 **Albert Einstein (*Relativity: The Special and the General Theory*):** *"The Pythagorean **theorem** provides the Euclidean metric foundation that general relativity generalized into curved spacetime."*

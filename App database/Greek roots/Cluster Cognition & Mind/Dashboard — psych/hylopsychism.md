@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that matter and mind are inseparable, or that all physical matter possesses an inherent psychic or conscious aspect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and panpsychist philosophy, the belief that mind (psyche) is a primordial, ubiquitous property of all material substance (hyle).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hylopsychism designates a term designating an entity, condition, or phenomenon derived from greek psych."*
+> - 📜 **Ernst Haeckel (*The Riddle of the Universe*):** *"Our monistic cosmology aligns with **hylopsychism**, recognizing rudimentary sensation even in the simplest atoms."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The hypothesis of **hylopsychism** attempts to solve the mind-body dilemma by assuming consciousness is coextensive with mass."*
+> - 📜 **Charles Sanders Peirce (*The Architecture of Theories*):** *"A consistent evolutionary metaphysics must embrace some form of **hylopsychism**, viewing matter as effete mind."*

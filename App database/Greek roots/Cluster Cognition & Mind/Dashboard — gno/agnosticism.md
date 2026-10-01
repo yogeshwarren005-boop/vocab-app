@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agnostic quality, state, or attitude:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The view that any ultimate reality (such as a deity) is unknown and probably unknowable : a philosophical or religious position characterized by uncertainty about the existence of a god or any gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that the existence of God, divine attributes, or the ultimate nature of reality is unknown and inherently unknowable to human reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In secular philosophy and scientific methodology, the epistemological discipline of suspending belief on propositions that cannot be empirically verified or logically demonstrated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In this age of professed and often, no doubt, affected, agnosticism and pessimism, Browning is the foremost apostle of Hope."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A RESTLESS SENSE OF EXISTENCE DESTROYED Through reading Science and Health and the illumination which followed, I was healed of ulceration of the stomach and kindred troubles, a restless sense of existence, agnosticism, etc."*
+> - 📜 **Thomas Henry Huxley (*Agnosticism and Christianity*):** *"**Agnosticism** is not a creed, but a method, the essence of which lies in the rigorous application of a single principle: do not pretend that conclusions are certain which are not demonstrated."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Healthy skepticism and scientific **agnosticism** are the best armor against superstition and unfounded claims."*
+> - 📜 **W. K. Clifford (*The Ethics of Belief*):** *"The stern discipline of **agnosticism** forbids us to accept comforting dogmas without sufficient evidence."*

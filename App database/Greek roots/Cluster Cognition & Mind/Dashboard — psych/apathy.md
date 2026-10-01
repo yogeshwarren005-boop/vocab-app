@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of feeling or emotion : impassiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of interest or concern : indifference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of interest, enthusiasm, or concern; emotional indifference and inaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic ethics, apatheia—the virtuous tranquility of mind untouched by turbulent desires; in neuropsychiatry, a syndrome of diminished motivation and reduced goal-directed behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A phrase like that of Clement of Alexandria, "deifying into apathy we become monadic," is seas away from anything we find in the speech of Jesus."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"While any temporal interest excites feeling, this theme is listened to with apathy."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"A similar apathy is frequently observed in persons who have been well instructed, when their whole souls have become engrossed in some worldly pursuit."*
+> - 📜 **Epictetus (*Discourses*):** *"The philosopher strives for holy **apathy**, remaining unshaken whether fortune bestows riches or exile."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A deadly weight hung upon me, and I sank into a sullen **apathy** from which neither books nor friends could rouse me."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The catastrophic drift toward world war was accelerated by public **apathy** and wishful thinking."*

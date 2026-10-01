@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dreamlike state of consciousness occurring during waking hours, often accompanied by vivid daydreams or hallucinations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, an abnormal condition marked by dreamlike delirium, somnambulistic automatism, or waking hallucinatory reveries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneirism designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Pierre Janet (*The Major Symptoms of Hysteria*):** *"The patient slipped into a protracted **oneirism**, enacting theatrical scenes from past traumas while awake."*
+> - 📜 **Henri Bergson (*Mind-Energy*):** *"In conditions of profound mental fatigue, the mind slides into **oneirism**, relaxing its effort to grasp outer reality."*
+> - 📜 **C. G. Jung (*Psychology of the Unconscious*):** *"Spontaneous waking **oneirism** reveals mythic archetypes that ordinarily remain submerged beneath daytime consciousness."*

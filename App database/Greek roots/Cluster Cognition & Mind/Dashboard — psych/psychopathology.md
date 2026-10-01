@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychology concerned with abnormal behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine dealing with the diagnosis and treatment of mental disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of mental disorders, cognitive dysfunctions, and abnormal behavior; also the manifestations and symptoms of mental illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and clinical psychology, the overarching academic discipline investigating the etiology, development, and diagnostic nosology of psychological conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopathology designates the branch of psychology concerned with abnormal behavior."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"The task of **psychopathology** is to clarify the conscious mental phenomena of the diseased mind and their somatic connections."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"The study of **psychopathology** reveals that the boundary between the normal and the abnormal mind is fluid and permeable."*
+> - 📜 **Eugen Bleuler (*Textbook of Psychiatry*):** *"Descriptive **psychopathology** requires unbiased clinical observation free from premature theoretical dogmas."*

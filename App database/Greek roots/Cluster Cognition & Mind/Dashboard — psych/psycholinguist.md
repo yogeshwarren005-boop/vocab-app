@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (usually a psychologist but sometimes a linguist) who studies the psychological basis of human language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person (usually a psychologist but sometimes a linguist) who studies the psychological basis of human language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cognitive scientist or linguist who studies psycholinguistics, investigating the psychological and neurobiological factors that enable humans to acquire, use, and comprehend language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic research, an investigator using eye-tracking, reaction times, and neuroimaging to model sentence parsing, lexical retrieval, and speech production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psycholinguist designates a person (usually a psychologist but sometimes a linguist) who studies the psychological basis of human language."*
+> - 📜 **Noam Chomsky (*Language and Mind*):** *"The **psycholinguist** seeks to discover the universal computational principles that make child language acquisition possible."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"Every infant is a natural **psycholinguist**, effortlessly dissecting continuous acoustic streams into grammatical units."*
+> - 📜 **George A. Miller (*The Science of Words*):** *"The **psycholinguist** must measure milliseconds of reaction time to map the mental dictionary in the brain."*

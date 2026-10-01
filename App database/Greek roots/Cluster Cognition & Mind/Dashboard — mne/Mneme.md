@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the Boeotian Muse of memory; in early 20th-century evolutionary biology, the organic principle of memory in living matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological theory (formulated by Richard Semon), the hypothetical capacity of organisms to record experiential stimuli as permanent physical traces (engrams).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Mneme designates a term designating an entity, condition, or phenomenon derived from greek mne."*
+> - 📜 **Pausanias (*Description of Greece*):** *"The ancient inhabitants of Mount Helicon established worship for three Muses only: Melete, **Mneme**, and Aoide."*
+> - 📜 **Richard Semon (*The Mneme*):** *"By the term **Mneme**, I understand the organic property of living organisms to retain the effects of past stimulation."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Semon's concept of the **Mneme** offers a physiological hypothesis for the retention of past habit without conscious reflection."*

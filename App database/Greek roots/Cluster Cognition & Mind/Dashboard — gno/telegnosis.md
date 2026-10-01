@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gno.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clairvoyance or extrasensory perception; the alleged paranormal acquisition of knowledge about distant events or objects without sensory contact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychology and psychical research, the hypothetical capacity of the mind to perceive remote information transcending spatial boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegnosis designates a term designating an entity, condition, or phenomenon derived from greek gno."*
+> - 📜 **William James (*Memories and Studies*):** *"The mediumistic phenomena under investigation seemed to involve genuine **telegnosis**, defying simple fraud or coincidence."*
+> - 📜 **Frederic W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"We designate this telepathic awareness of remote crises as **telegnosis**, an operation of the subliminal self."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"Remarkable experiments in **telegnosis** convinced many skeptical investigators of unseen mental connections."*

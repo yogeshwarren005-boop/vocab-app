@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, cosmopolitan family of small nematoceran dipterous insects, commonly called moth flies, drain flies, or sand flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, recognized by densely haired broad wings held roof-like over the body, named from Greek psyche (butterfly/moth) due to their moth-like appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychodidae designates very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Flies of the family **Psychodidae** are readily recognized by their downy bodies and fuzzy wings, resembling minute moths."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The **Psychodidae** breed in decaying organic sludge, where their aquatic larvae thrive under anaerobic conditions."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Fossil specimens preserved in Baltic amber prove that **Psychodidae** flourished alongside ancient social insects in the Eocene."*

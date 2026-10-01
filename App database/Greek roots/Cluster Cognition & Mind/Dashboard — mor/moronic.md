@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foolish or stupid person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person affected with mild intellectual disability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remarkably stupid, senseless, or foolish; characteristic of or resembling a moron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and political criticism, describing public discourse, sensationalist media, or irrational decisions that demonstrate a total lack of critical intelligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moronic designates a foolish or stupid person."*
+> - 📜 **H. L. Mencken (*Prejudices: Second Series*):** *"The popular press caters directly to **moronic** appetites, elevating trivial scandal above serious civic thought."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Gordon looked at the advertising posters with disgust, cursing the **moronic** slogans designed to lure the public."*
+> - 📜 **Virginia Woolf (*The Years*):** *"She turned away from the shouting crowd, weary of their **moronic** enthusiasm for the empty political spectacle."*

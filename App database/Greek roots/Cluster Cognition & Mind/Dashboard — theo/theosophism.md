@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in theosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in theosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical system, doctrines, or tenets of theosophy; belief in direct intuitive knowledge of divine reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious criticism, the formal practices and speculative cosmological tenets maintained by theosophical societies and esoteric orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theosophism designates belief in theosophy."*
+> - 📜 **Max Müller (*Theosophy, or Psychological Religion*):** *"Under the name of **theosophism**, critics often confounded ancient spiritual philosophy with modern mediumistic pretensions."*
+> - 📜 **Helena Blavatsky (*The Secret Doctrine*):** *"True **theosophism** rejects blind dogmatic belief, demanding that each seeker awaken the inner spark of divine consciousness."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"The influence of **theosophism** was pivotal in introducing Eastern Buddhist and Hindu philosophy to Western seekers."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government of a state by immediate divine guidance or by officials who are regarded as divinely guided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state governed by a theocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of government in which priests rule in the name of God or a god; a state governed by immediate divine guidance or official religious law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history (term coined by Josephus to describe the Jewish polity), a commonwealth where civil and religious authority are fused under divine covenant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the latter case they are kings as well as gods, and the government is a theocracy."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jew offered the pattern of a theocracy, and the Roman of a hierarchy of officials, but it took two centuries to produce the church of Cyprian."*
+> - 📜 **Flavius Josephus (*Against Apion*):** *"Our lawgiver had no regard to monarchies or oligarchies, but ordained that our government should be what may be called a **theocracy**."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"Under the ancient Hebrew commonwealth, God Himself was the king in that sacred **theocracy**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The early Puritan settlements in Massachusetts resembled a strict **theocracy**, enforcing moral law by civil magistrate."*

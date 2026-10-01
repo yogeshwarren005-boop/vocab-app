@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to sophists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible but misleading.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of sophists or sophistry; plausible yet specious and deceptively subtle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of rhetoric (the First and Second Sophistic), referring to influential cultural movements celebrating oratorical virtuosity and public performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Since I myself have been an inmate of a lunatic asylum, I cannot but notice that the sophistic tendencies of some of its inmates lean towards the errors of _non causa_ and _ignoratio elenchi_.” I positively opened my eyes at this new development."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The **sophistic** art promises to teach political mastery, yet those who teach it have never governed a single city."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Beware of that **sophistic** dexterity which excuses vice under the attractive title of worldly wisdom."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"During the Second Sophistic, rhetoricians were showered with imperial honors for their dazzling **sophistic** declamations."*

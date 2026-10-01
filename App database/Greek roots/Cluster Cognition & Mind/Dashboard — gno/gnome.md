@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legendary creature resembling a tiny old man; lives in the depths of the earth and guards buried treasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short pithy saying expressing a general truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short, pithy saying that expresses a general truth or moral maxim; also, a diminutive legendary earth-dwelling creature in folklore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and Greek literature, an aphoristic moral judgment; in Renaissance folklore (originated by Paracelsus), an elemental spirit presiding over subterranean riches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And, Miss Eyre, so much was I flattered by this preference of the Gallic sylph for her British gnome, that I installed her in an hotel; gave her a complete establishment of servants, a carriage, cashmeres, diamonds, dentelles, &c."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"We were still gazing at the ruins, when the owner, clad in the brief garment of night-wear, came spluttering through the roof, like a very dirty gnome discharged by a mud-volcano."*
-> - 📜 **James Joyce (*Ulysses*):** *"On a step a gnome totting among a rubbishtip crouches to shoulder a sack of rags and bones."*
+> - 📜 **Aristotle (*Rhetoric*):** *"A **gnome** is an assertion not about particulars, but about universals, concerning things that are to be chosen or avoided in human action."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Solomon gathered moral wisdom into concise **gnomes** that pierce the understanding like sharp nails."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"Swift on his sooty pinions flits the **gnome**, / And in a vapor reaches Umbriel's dome."*

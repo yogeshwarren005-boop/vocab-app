@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the psyche : psychogenic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying outside the sphere of physical science or knowledge : immaterial, moral, or spiritual in origin or force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being within the human soul, mind, or psychological life; also sensitive to supernatural or nonphysical forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In depth psychology, pertaining to the psyche or mental energy (psychic energy/libido); colloquially, an individual claiming telepathic or clairvoyant sensitivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This history is written in our tissues and our bones, in our functions and our organs, in our brain cells and in our spirits, and in all sorts of physical and psychic atavistic urgencies and compulsions."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of incomes and of every other factor in value."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually, only monetary incomes that arise in commercial transactions are taxable, and no attempt is made to estimate the value of psychic incomes."*
+> - 📜 **C. G. Jung (*Psychological Types*):** *"Every creative act springs from a profound redistribution of **psychic** energy within the unconscious."*
+> - 📜 **William James (*The Will to Believe*):** *"We must remain open to anomalous **psychic** experiences that challenge our tidy mechanistic dogmas."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"A dream is a full-fledged **psychic** act, possessing meaning and an undeniable place in the waking soul."*

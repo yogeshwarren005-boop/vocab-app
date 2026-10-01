@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the powerful tranquilizers (such as the phenothiazines and butyrophenones) used especially to treat psychosis and believed to act by blocking dopamine nervous receptors —called also neuroleptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the powerful tranquilizers (such as the phenothiazines and butyrophenones) used especially to treat psychosis and believed to act by blocking dopamine nervous receptors —called also neuroleptic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication used to treat psychosis, schizophrenia, and severe mood disorders; also having the property of counteracting psychotic symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychopharmacology, neuroleptic agents (such as chlorpromazine, haloperidol, or atypical agents) that modulate central dopamine and serotonin receptor activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipsychotic designates any of the powerful tranquilizers (such as the phenothiazines and butyrophenones) used especially to treat psychosis and believed to act by blocking dopamine nervous receptors —called also neuroleptic."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The introduction of modern **antipsychotic** compounds revolutionized psychiatric wards in the mid-twentieth century."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"She struggled with the heavy sedative side effects of the prescribed **antipsychotic** medication."*
+> - 📜 **Paul Kalanithi (*When Breath Becomes Air*):** *"In the emergency department, acute agitation was carefully managed with low-dose **antipsychotic** therapy."*

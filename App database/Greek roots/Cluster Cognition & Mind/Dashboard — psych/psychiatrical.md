@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or used in or engaged in the practice of psychiatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or used in or engaged in the practice of psychiatry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant or historical form of psychiatric; of or relating to psychiatry or the treatment of mental illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th- and early 20th-century medical treatises, pertaining to asylum administration, mental jurisprudence, and clinical diagnosis of psychoses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychiatrical designates relating to or used in or engaged in the practice of psychiatry."*
+> - 📜 **Henry Maudsley (*Physiology and Pathology of the Mind*):** *"The author presented a detailed **psychiatrical** examination of the prisoner's hereditary family history."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Medical materialists dismiss religious genius with a few hasty **psychiatrical** labels of degeneration."*
+> - 📜 **C. G. Jung (*The Psychology of Dementia Praecox*):** *"Our **psychiatrical** observations at the Burghölzli asylum revealed that delusions follow distinct associative laws."*

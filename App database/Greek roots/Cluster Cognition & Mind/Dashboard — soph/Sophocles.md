@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the great tragedians of ancient greece (496-406 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the great tragedians of ancient greece (496-406 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of classical Athens' three great tragic dramatists (c. 496–406 BCE), renowned for authoring Oedipus Rex, Antigone, and Electra (from Greek sophos wise + kleos fame).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic theory and literary history, the master playwright who introduced a third actor, expanded scene painting, and perfected tragic irony and heroic characterization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley's was identified by a copy of Sophocles in one coat-pocket and the Keats in another."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The line comes from a play of Sophocles, fr. 695."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"I can only compare these lines to that famous passage of Sophocles where the lamentations of the dying Oedipus are interrupted by the impatient summons of an unseen accompanying god."*
+> - 📜 **Aristotle (*Poetics*):** *"In dramatic construction, the recognition and reversal in the Oedipus of **Sophocles** represent the pinnacle of tragic art."*
+> - 📜 **Matthew Arnold (*To a Friend*):** *"Be his / My special thanks, whose even-balanced soul, / From first youth tested up to extreme old age, / Business could not make dull, nor passion wild; / Who saw life steadily, and saw it whole; / The mellow glory of the Attic stage, / Singer of sweet Colonus, and its child: **Sophocles**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She read the choruses of **Sophocles** with that solemn awe which profound ancient poetry inspires in youthful minds."*

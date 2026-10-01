@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Philosopher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of ancient Greek teachers of rhetoric, philosophy, and the art of successful living.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paid teacher of philosophy and rhetoric in ancient Greece; in modern usage, a person who uses clever but misleading or fallacious arguments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy (Protagoras, Gorgias), an early intellectual humanist focusing on rhetoric, relativism, and political persuasion, criticized by Plato for valuing victory over truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CASSIUS, ” ” ” CASCA, ” ” ” TREBONIUS, ” ” ” LIGARIUS,” ” ” DECIUS BRUTUS, ” ” ” METELLUS CIMBER, ” ” ” CINNA, ” ” ” FLAVIUS, tribune MARULLUS, tribune ARTEMIDORUS, a Sophist of Cnidos."*
-> - 📜 **John Keats (*Lamia*):** *"My sweet bride withers at their potency." "Fool!" said the sophist, in an under-tone Gruff with contempt; which a death-nighing moan From Lycius answer'd, as heart-struck and lost, He sank supine beside the aching ghost."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Talk about better and wiser, Wiser and worse are one, The sophist is the despiser Of all things under the sun; Is nothing real but confusion?"*
+> - 📜 **Plato (*Sophist*):** *"The **sophist** is a hunter after wealthy young men, a merchant of knowledge for the soul, and an imitator of true wisdom."*
+> - 📜 **Friedrich Nietzsche (*The Will to Power*):** *"The Greek **sophists** were fearless realists, recognizing that culture is created by human conventions rather than divine decrees."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The age of chivalry is gone; that of **sophists**, economists, and calculators has succeeded, and the glory of Europe is extinguished forever."*

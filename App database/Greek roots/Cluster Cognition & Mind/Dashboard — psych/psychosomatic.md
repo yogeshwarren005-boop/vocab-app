@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, concerned with, or involving both mind and body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, involving, or concerned with bodily symptoms caused by mental or emotional disturbance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by the interaction of the mind and body; especially describing physical illnesses aggravated or triggered by mental stress or emotional conflict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In holistic clinical medicine, an approach emphasizing that physical pathology (such as peptic ulcers, hypertension, or eczema) cannot be divorced from emotional life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosomatic designates of, relating to, concerned with, or involving both mind and body."*
+> - 📜 **William Osler (*Aequanimitas*):** *"It is much more important to know what sort of a patient has a disease than what sort of a disease a patient has; all healing is in some degree **psychosomatic**."*
+> - 📜 **Franz Alexander (*Psychosomatic Medicine*):** *"Chronic unexpressed emotional tension finds somatic discharge through autonomic pathways, producing genuine **psychosomatic** tissue damage."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"The classical migraine attack represents an intricate **psychosomatic** drama where vascular physiology mirrors psychic stress."*

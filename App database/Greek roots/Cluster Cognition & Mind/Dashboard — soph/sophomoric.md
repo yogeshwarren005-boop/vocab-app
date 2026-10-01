@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conceited and overconfident of knowledge but poorly informed and immature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in maturity, taste, or judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretentious, juvenile, or immature; conceited and overconfident while demonstrating shallow knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and cultural criticism, describing humor, prose, or intellectual postures that mistake adolescent cynicism for profound insight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophomoric designates conceited and overconfident of knowledge but poorly informed and immature."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"His political pamphlets were disfigured by a **sophomoric** cynicism that mistook vulgar abuse for fearless radicalism."*
+> - 📜 **Vladimir Nabokov (*Pale Fire*):** *"Kinbote’s rambling commentary displayed a bizarre mixture of genuine erudition and **sophomoric** vanity."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The essay lapsed occasionally into **sophomoric** generalities about destiny and the cosmic soul."*

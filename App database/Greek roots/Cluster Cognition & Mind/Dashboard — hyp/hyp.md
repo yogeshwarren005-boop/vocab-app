@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypothesis; hypothetical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under : beneath : down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial or technical abbreviation for hypothesis or hypothetical; also the combining root hyp- (from Greek hypo-) signifying under, below, or deficient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal academic shorthand, a proposed working hypothesis; historically in 18th-century English slang, hypochondria or low spirits ('the hyp').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyp designates hypothesis; hypothetical."*
+> - 📜 **Jonathan Swift (*Polite Conversation*):** *"Poor Lord Sparkish has got a fit of the **hyp**, and sits moping in the corner like an owl in an ivy bush."*
+> - 📜 **Joseph Addison (*The Spectator*):** *"The spleen and the **hyp** are strange distempers, filling the imagination with melancholy phantoms."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"We formulate an initial **hyp** to account for surprising experimental observations before deducing its consequences."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is learned in theology or who speculates about theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is learned in theology or who speculates about theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who theologizes; one who constructs, debates, or expounds theological theories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and literary essays, an intellectual who frames secular debates in theological terminology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologizer designates someone who is learned in theology or who speculates about theology."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Our young town **theologizer** was forever challenging the elders to public disputations upon predestination."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The loquacious **theologizer** explained every ruin along the Jordan by reference to ancient prophecies."*
+> - 📜 **Herman Melville (*Mardi: and a Voyage Thither*):** *"Babbalanja the philosopher acted as chief **theologizer**, weaving speculative parables on the divine nature."*

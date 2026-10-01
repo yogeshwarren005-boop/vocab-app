@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to ideology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to ideology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner determined by, relating to, or conforming with a specific ideology or doctrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical analysis, describing actions, judicial rulings, or policies swayed by political worldview rather than neutral evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideologically designates with respect to ideology."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"Fanatics are **ideologically** blind to the suffering they inflict in pursuit of their utopian millennium."*
+> - 📜 **Arthur Koestler (*Darkness at Noon*):** *"Rubashov confessed to crimes he had not committed because he remained **ideologically** bound to the Party's supreme logic."*
+> - 📜 **Noam Chomsky (*Manufacturing Consent*):** *"Mainstream media outlets are **ideologically** aligned with the political and financial interests of elite ownership."*

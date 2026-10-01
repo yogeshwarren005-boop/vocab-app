@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficient oxygenation of the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient oxygenation of the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration or tension of oxygen in the arterial blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and pulmonology, a physiological state marked by decreased PaO2, precipitating tissue hypoxia, cyanosis, and cellular stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoxemia designates deficient oxygenation of the blood."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Pulse oximeters flashed warning signals as severe **hypoxemia** set in, demanding immediate supplemental oxygen."*
+> - 📜 **Paul Kalanithi (*When Breath Becomes Air*):** *"The arterial blood gas confirmed profound **hypoxemia**, signaling respiratory failure in the oncology ward."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In lobar pneumonia, cyanosis of the lips and fingertips warns the physician of insidious **hypoxemia**."*

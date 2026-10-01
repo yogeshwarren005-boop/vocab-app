@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practical wisdom, prudence, or sound moral judgment; the capacity to deliberate well about human conduct and flourishing in classical ethics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian moral philosophy, the intellectual virtue governing practical action (distinguished from theoretical sophia and technical techne).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phronesis designates a term designating an entity, condition, or phenomenon derived from greek phren."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"**Phronesis** is a true and reasoned state of capacity to act with regard to the things that are good or bad for man."*
+> - 📜 **Hans-Georg Gadamer (*Truth and Method*):** *"The hermeneutic experience of historical understanding is fundamentally a form of Aristotelian **phronesis** rather than abstract scientific techne."*
+> - 📜 **Alasdair MacIntyre (*After Virtue*):** *"Without **phronesis**, none of the other moral virtues can be properly exercised, for it dictates the golden mean in particular circumstances."*

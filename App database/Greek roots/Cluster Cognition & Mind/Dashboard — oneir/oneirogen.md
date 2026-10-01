@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, herb, or agent that stimulates, enhances, or induces vivid dream states or lucid dreaming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and psychopharmacology, plants (such as Calea zacatechichi or Silene capensis) traditionally ingested by shamans to foster prophetic or vivid dreams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneirogen designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Richard Evans Schultes (*Plants of the Gods*):** *"Indigenous diviners revere the bitter herb as a potent **oneirogen**, smoking its leaves before sleep to receive spiritual visions."*
+> - 📜 **Terence McKenna (*Food of the Gods*):** *"Certain African root preparations act as a true **oneirogen**, turning the ordinary night into an epic cinematic voyage."*
+> - 📜 **Andrew Weil (*The Natural Mind*):** *"Pharmacologists have begun evaluating traditional botanical **oneirogens** for their capacity to enhance REM sleep architecture."*

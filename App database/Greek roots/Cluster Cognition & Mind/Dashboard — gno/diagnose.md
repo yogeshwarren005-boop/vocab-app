@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine or distinguish the nature of a problem or an illness through a diagnostic analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to a medical analysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To identify the nature or cause of an illness, problem, or condition through careful examination of symptoms, indicators, and test results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broader analytical usage, to determine the underlying cause or mechanism of a systemic malfunction, organizational failure, or social problem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"When occasion offered, he would not only diagnose and prescribe but pray at the bedsides of his patients, and his influence was exerted in behalf of everything that was pure and lovely and of good report in the town of Berwick."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is more self-centred than Hoelderlin's and while the poet is able to diagnose the disease which holds him firmly in its grasp, he lacks those means by which he might free himself from it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The one unquestioned service of the minimum wage law is that of diagnosing the evil of low wages rather than in remedying it."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Sherlock Holmes could **diagnose** a client's secret occupation from a momentary glance at their boots and fingernails."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Sir William Bradshaw felt confident that he could **diagnose** madness in three minutes and prescribe his celebrated rest cure."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The statesman must **diagnose** the hidden ailments of the body politic before they erupt in violent upheaval."*

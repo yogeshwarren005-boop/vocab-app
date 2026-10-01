@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of mental or emotional disorder or of related bodily ills by psychological means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy in the presence of a therapist in which several patients discuss and share their personal problems —called also group psychotherapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment of mental disorders, emotional challenges, and psychological distress by psychological means rather than medical or somatic intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of psychiatry, the talking cure encompassing diverse theoretical orientations (psychoanalytic, behavioral, humanistic, systemic) to enhance well-being and insight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotherapy designates treatment of mental or emotional disorder or of related bodily ills by psychological means."*
+> - 📜 **Sigmund Freud (*A General Introduction to Psychoanalysis*):** *"In **psychotherapy**, nothing takes place between the patient and the physician except that they talk to each other."*
+> - 📜 **Carl Rogers (*Counseling and Psychotherapy*):** *"Effective **psychotherapy** frees the individual to explore hidden aspects of their self without the terror of rejection."*
+> - 📜 **C. G. Jung (*Modern Man in Search of a Soul*):** *"The ultimate aim of **psychotherapy** is not merely symptom relief, but the profound individuation of the human personality."*

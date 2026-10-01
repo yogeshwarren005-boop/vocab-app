@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from amnesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by amnesia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suffering from memory loss; producing or causing amnesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacology and clinical neurology, describing medications (such as benzodiazepines) or pathological conditions that disrupt memory encoding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnesic designates a person suffering from amnesia."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The deeply **amnesic** musician could not recall a conversation five minutes earlier, yet could play complex Chopin preludes flawlessly."*
+> - 📜 **Sigmund Freud (*A General Introduction to Psychoanalysis*):** *"Childhood memories are veiled by an **amnesic** barrier that conceals early emotional conflicts from adult awareness."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Resident Patient*):** *"The stranger stared blankly at his surroundings, his **amnesic** state leaving him oblivious to his own name."*

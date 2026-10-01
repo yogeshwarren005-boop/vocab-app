@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the diaphragm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the diaphragm in anatomy (as the phrenic nerve); also of or relating to the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, specifically referring to the bilateral phrenic nerves arising from cervical roots C3–C5 that provide motor innervation to the diaphragm for respiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phrenic designates of or relating to the diaphragm."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **phrenic** nerve descends through the thorax to supply motor innervation to the respiratory diaphragm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Irritation of the **phrenic** nerve commonly induces intractable hiccups and diaphragmatic spasms."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The anatomist must trace the **phrenic** pathway with delicate care during dissection of the anterior neck."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philosophy or philosophers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or devoted to the study of the fundamental nature of knowledge, reality, and existence; maintaining composure and stoic calm in difficulties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In everyday usage, meeting misfortune, delay, or disappointment with equanimity and resigned good humor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The one grand recipe remains for you—the profound philosophical prescription—the be-all and the end-all of your strange existence upon earth."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For the first five years of his ministry Cairns devoted himself entirely to the work which it entailed upon him, and steadily refused to be drawn aside to the literary and philosophical tasks which many of his friends urged him to undertake."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The value of **philosophical** study lies largely in its uncertainty, freeing our thoughts from the tyranny of custom."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth tried to be **philosophical** about her disappointment, observing that human life was made of such small trials."*
+> - 📜 **Francis Bacon (*The Essays: Of Truth*):** *"A little **philosophical** inquiry inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion."*

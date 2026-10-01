@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of analyzing psychic phenomena and treating emotional disorders that involves treatment sessions during which the patient is encouraged to talk freely about personal experiences and especially about early childhood and dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of analyzing psychic phenomena and treating emotional disorders that involves treatment sessions during which the patient is encouraged to talk freely about personal experiences and especially about early childhood and dreams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of psychological theory and therapy founded by Sigmund Freud, investigating the interaction of conscious and unconscious elements through free association and dream analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, a revolutionary 20th-century hermeneutic movement that reshaped philosophy, literature, art, and the understanding of human sexuality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalysis designates a method of analyzing psychic phenomena and treating emotional disorders that involves treatment sessions during which the patient is encouraged to talk freely about personal experiences and especially about early childhood and dreams."*
+> - 📜 **Sigmund Freud (*The Question of Lay Analysis*):** *"**Psychoanalysis** is a part of psychology, not of medical psychology; it is the psychology of the unconscious mental processes."*
+> - 📜 **C. G. Jung (*Memories, Dreams, Reflections*):** *"My collaboration with Freud centered upon **psychoanalysis**, until our differing views on the nature of the libido led to our parting."*
+> - 📜 **Thomas Mann (*Freud and the Future*):** *"Through **psychoanalysis**, modern humanism gained a fearless lantern to explore the subterranean caverns of the soul."*

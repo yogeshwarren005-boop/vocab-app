@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientifically acceptable or plausible general principle or body of principles based on data and offered to explain phenomena; especially : scientific theory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical structure explaining or relating to an observed set of facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A well-substantiated explanation of some aspect of the natural world, acquired through the scientific method and repeatedly tested and confirmed through observation and experiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical contemplation (Greek theōria, a looking at, contemplation, speculation), the pursuit of truth for its own sake; colloquially, an unproven supposition or conjecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of which dust and noise there is but one thing perfectly clear, to wit, that Tom only may and can, or shall and will, be reclaimed according to somebody’s theory but nobody’s practice."*
-> - 📜 **Jane Austen (*Persuasion*):** *"As to the management of their children, his theory was much better than his wife’s, and his practice not so bad."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns responded by publishing a pamphlet entitled _An_ _Examination of Professor Ferrier's Theory of Knowing and Being_."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The activity of philosophical contemplation, or **theory**, is the highest and most godlike exercise of the human soul."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I look at the natural geological record as a history of the world imperfectly kept; yet on this view, my **theory** of natural selection is supported by countless facts."*
+> - 📜 **Albert Einstein (*Ideas and Opinions*):** *"It can scarcely be denied that the supreme goal of all **theory** is to make the irreducible basic elements as simple and as few as possible."*

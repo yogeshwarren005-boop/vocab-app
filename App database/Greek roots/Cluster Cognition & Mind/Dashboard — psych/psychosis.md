@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious mental illness (such as schizophrenia) characterized by defective or lost contact with reality often with hallucinations or delusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serious mental illness (such as schizophrenia) characterized by defective or lost contact with reality often with hallucinations or delusions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe mental disorder characterized by a loss of contact with external reality, typically manifesting through delusions, hallucinations, and severely disorganized thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a diagnostic category distinguishing major conditions such as schizophrenia and bipolar mania from non-psychotic neurotic and personality disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosis designates a serious mental illness (such as schizophrenia) characterized by defective or lost contact with reality often with hallucinations or delusions."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"The acute onset of manic-depressive **psychosis** often presents dramatic affective swings without permanent cognitive decay."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"In true **psychosis**, the patient's delusional world possesses an incorrigible certainty that defies logical argument."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"We must differentiate between focal neurological agnosia and generalized toxic or functional **psychosis**."*

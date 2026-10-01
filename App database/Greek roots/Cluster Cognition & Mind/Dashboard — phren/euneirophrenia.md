@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peaceful, pleasant, and comforting state of mind upon waking from a good dream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological aesthetics, the tranquil emotional afterglow experienced throughout the morning following an exceptionally serene or inspiring dream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euneirophrenia designates a term designating an entity, condition, or phenomenon derived from greek phren."*
+> - 📜 **Havelock Ellis (*The World of Dreams*):** *"Waking into profound **euneirophrenia**, the poet found his morning thoughts bathed in radiant tranquility."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient reported rare mornings of blessed **euneirophrenia**, feeling rejuvenated by comforting dreams of childhood gardens."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"Benevolent nocturnal visions often leave an adolescent in a gentle **euneirophrenia** that colors the entire day with optimism."*

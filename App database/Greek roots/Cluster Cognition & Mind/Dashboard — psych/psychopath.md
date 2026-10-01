@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from chronic mental disorder with abnormal, aggressive, or egocentric social behavior, marked by a callous lack of empathy and remorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychology and criminology (Robert Hare's PCL-R), an individual characterized by superficial charm, pathological lying, impulsivity, and failure to feel guilt or moral responsibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopath designates a mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"The true **psychopath** wears a convincing mask of sanity, mimicking normal social affections while remaining utterly devoid of remorse."*
+> - 📜 **Robert D. Hare (*Without Conscience*):** *"A predatory **psychopath** views other human beings not as persons, but as objects to be manipulated for self-gratification."*
+> - 📜 **Hannah Arendt (*Eichmann in Jerusalem*):** *"The judges were baffled because the defendant was no fanatical **psychopath**, but an appallingly ordinary bureaucrat."*

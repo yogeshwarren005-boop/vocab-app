@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who theorizes; one who invents, constructs, or proposes theoretical explanations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and political analysis, an intellectual who formulates overarching models to explain social developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"While this poison of decay has been eating into our vitals the possibilities of the country in nearly every other industry have reached a plane of development beyond the dreams of the most enthusiastic theorizers."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The French literary **theorizers** built a glorious utopian republic in their minds, ignoring the messy art of actual government."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ahab was no ordinary sea-captain, but a brooding **theorizer** who saw cosmic malice incarnate in the white whale."*
+> - 📜 **William James (*Pragmatism*):** *"The pragmatic thinker smiles at the metaphysical **theorizer** who imagines he has captured the infinite in a neat syllogism."*

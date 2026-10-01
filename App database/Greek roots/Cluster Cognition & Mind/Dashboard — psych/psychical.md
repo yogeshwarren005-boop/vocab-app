@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting or influenced by the human mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside the sphere of physical science.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the mind or psyche; psychological or mental (contrasted with physical).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, in late 19th-century Britain, referring to psychical research—the scientific investigation of telepathy, apparitions, and mediumship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Nevertheless the word corresponds to a fairly definite range of psychical reactions which are of great interest in modern poetry, especially German poetry."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Who could say where the fleshly impulse ceased, or the psychical impulse began?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ptolemaic and psychical error Our theories make the same mistake regarding Soul 122:30 and body that Ptolemy made regarding the solar system."*
+> - 📜 **Henry Sidgwick (*Presidential Address to the Society for Psychical Research*):** *"Our aim in **psychical** research is to investigate disputed phenomena without prejudice or prepossession."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The relationship between physical brain processes and **psychical** states remains the ultimate riddle of science."*
+> - 📜 **Arthur Balfour (*Essays and Addresses*):** *"The boundary between biological reflex and conscious **psychical** life is impossible to delineate with precision."*

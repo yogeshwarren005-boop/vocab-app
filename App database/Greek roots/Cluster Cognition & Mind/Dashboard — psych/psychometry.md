@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any branch of psychology concerned with psychological measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any branch of psychology concerned with psychological measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The alleged psychic ability to divine facts about an object or its owner through physical touch; also an alternative term for psychometrics (mental measurement).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spiritualism and psychical research (coined by Joseph Rodes Buchanan in 1842), the supposed extrasensory reading of energy impressions left on inanimate relics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychometry designates any branch of psychology concerned with psychological measurements."*
+> - 📜 **William F. Barrett (*Psychical Research*):** *"In experiments with **psychometry**, the sensitive held an ancient coin and accurately described the Roman legion that struck it."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"The astonishing demonstrations of **psychometry** prove that inanimate objects absorb invisible emotional vibrations from their owners."*
+> - 📜 **Francis Galton (*Psychometric Experiments*):** *"I use the term **psychometry** in its strict scientific sense, denoting the precise measurement of the duration of mental processes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meteorological instrument used to measure relative humidity and atmospheric moisture, consisting of a dry-bulb thermometer and a wet-bulb thermometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics and HVAC engineering, calculating relative humidity from the evaporative cooling differential between the wet and dry bulbs (from Greek psychros cold, NOT psyche soul!).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychrometer designates a hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere."*
+> - 📜 **Robert FitzRoy (*The Weather Book: A Manual of Practical Meteorology*):** *"By comparing the two mercurial tubes of the **psychrometer**, the mariner computes the atmospheric dew point and predicts approaching fog."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"We carried a portable sling **psychrometer** across the Llanos, recording the extraordinary dryness of the tropical desert winds."*
+> - 📜 **Cleveland Abbe (*Treatise on Meteorological Apparatus and Methods*):** *"The ventilated **psychrometer** devised by Assmann eliminates radiant heat errors, providing precise humidity measurements."*

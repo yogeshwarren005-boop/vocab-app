@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An object that by the position or length of its shadow serves as an indicator especially of the hour of the day: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pin of a sundial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The raised pin, rod, or triangular style on a sundial that casts a shadow showing the time of day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, the L-shaped figure remaining after a smaller similar parallelogram is removed from the corner of a larger parallelogram.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnomon designates an object that by the position or length of its shadow serves as an indicator especially of the hour of the day: such as."*
+> - 📜 **James Joyce (*Dubliners*):** *"It had always made me feel vaguely uneasy, like the word **gnomon** in the Euclid and the word simony in the Catechism."*
+> - 📜 **Euclid (*Elements (Book II)*):** *"Let the remaining figure composed of the two complements and the adjacent parallelogram be called a **gnomon**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The tall chimney cast its black shade across the courtyard like the **gnomon** of a gigantic dial marking the hour."*

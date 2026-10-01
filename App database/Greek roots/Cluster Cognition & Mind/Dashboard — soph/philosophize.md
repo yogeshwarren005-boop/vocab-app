@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To reason in the manner of a philosopher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To expound a moralizing and often superficial philosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speculate, theorize, or deliberate about fundamental questions of life, reality, and morals; to think or speak like a philosopher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In everyday conversation, to indulge in abstract or moralistic reflection, sometimes to the point of impractical musing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are to use abstract terms and philosophize his thought a little, we may agree that the four facts Jesus notes in Nature are its mystery, its regularity, its impartiality, and its peacefulness[11]."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"My dear friend, I entreat you, don’t philosophize, don’t doubt, marry, marry, marry...."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Why could they not philosophize and say nothing? he asked."*
+> - 📜 **Montaigne (*Essays*):** *"To **philosophize** is nothing other than to prepare oneself for death."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"To be a philosopher is not merely to have subtle thoughts, but so to love wisdom as to live according to its dictates; to **philosophize** is to live a life of simplicity, independence, magnanimity, and trust."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom began to **philosophize** upon the great law of human action: that in order to make a man covet a thing, it is only necessary to make the thing difficult to attain."*

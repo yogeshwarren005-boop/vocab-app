@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mind / soul / vital breath / spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mind / soul / vital breath / spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the interaction between biological organismic processes and psychological or mental phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and neuropsychology, describing organismic evolution where physiological vitality and cognitive consciousness develop reciprocally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopsychic designates adjective*) pertaining to, derived from, or characteristic of mind / soul / vital breath / spirit."*
+> - 📜 **Julian Huxley (*Evolution in Action*):** *"Human evolution marks the transition from purely biological selection to a self-conscious **biopsychic** phase."*
+> - 📜 **C. G. Jung (*The Structure and Dynamics of the Psyche*):** *"Archetypes are fundamentally **biopsychic** instincts, rooting conscious symbols in somatic heritage."*
+> - 📜 **Pierre Teilhard de Chardin (*The Phenomenon of Man*):** *"The planetary web of life represents a continuous **biopsychic** ascent toward greater complexity and consciousness."*

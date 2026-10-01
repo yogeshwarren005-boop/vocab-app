@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychobiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychobiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychology that studies the biological and physiological bases of behavior, emotion, and mental processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience, the empirical discipline investigating how genetics, neural circuits, endocrine systems, and neurotransmitters mediate cognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopsychology designates psychobiology."*
+> - 📜 **Donald O. Hebb (*The Organization of Behavior*):** *"Modern **biopsychology** bridges the conceptual gap between subjective consciousness and synaptic plastic changes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every psychological fact is anchored in somatic physiology, forming the true foundation of **biopsychology**."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Through cellular **biopsychology**, we traced the biochemical mechanisms of memory storage in simple marine mollusks."*

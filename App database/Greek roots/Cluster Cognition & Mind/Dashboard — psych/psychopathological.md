@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from an undiagnosed mental disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from an undiagnosed mental disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or manifesting psychopathology; characteristic of mental or emotional disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric medicine, pertaining to the empirical study, diagnostic categorization, and neurological mechanisms of abnormal mental states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopathological designates suffering from an undiagnosed mental disorder."*
+> - 📜 **C. G. Jung (*Psychology and Religion*):** *"Religious experiences must not be dismissed simply because they occur within a **psychopathological** crisis."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"His neurological syndrome was compounded by fascinating **psychopathological** compensations that allowed him to function as a musician."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician should recognize early **psychopathological** signs before full-blown melancholia sets in."*

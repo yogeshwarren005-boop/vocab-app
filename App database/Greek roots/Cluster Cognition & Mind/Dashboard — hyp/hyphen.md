@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark - used especially to divide or to compound words, word elements, or numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punctuation mark - used especially to divide or to compound words, word elements, or numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark (-) used to divide or compound words, word elements, or syllables, derived from Greek hyph' hen meaning 'under one' or 'together'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and lexicography, a connecting glyph that clarifies syntactic relationships between words, prevents ambiguous misreading, or manages justification margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Because sections of this book were written by different people, accent, spelling and hyphen usage is inconsistent."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Because sections of this book were written by different people, accent, spelling and hyphen usage is inconsistent."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"For this e-text, short dashes are shown as separated hyphens, while longer dashes are shown as connected hyphens: D - - - n _Molley H----ns_ for her Pride."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The **hyphen** has always been an unstable element in American orthography, continually dropped as compounds fuse into single words."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"A subtle **hyphen** linked their names in the society columns, implying an intimacy that words dared not confess."*
+> - 📜 **George Orwell (*The English People*):** *"The British national character is a curious compound, requiring no awkward **hyphen** to bind its diverse traditions."*

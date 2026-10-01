@@ -1,7 +1,7 @@
 # Vocabulary Database & Mobile UI Upgrade — Master Progress Log
 
 **Started At:** 2026-09-30T17:10:00+08:00  
-**Last Updated:** 2026-10-01T13:13:00+08:00  
+**Last Updated:** 2026-10-01T14:12:00+08:00  
 **Workspace:** `c:\Users\user\Desktop\Vocab app`  
 **Database Root:** `c:\Users\user\Desktop\Vocab app\App database`  
 **Checkpoint State File:** `c:\Users\user\Desktop\Vocab app\Instructions for Agent\checkpoint_state.json`
@@ -35,6 +35,8 @@
   - Cluster 8: `Cluster Sound & Auditory` (247 words) — 100% Pristine (0 issues)
   - Cluster 9: `Cluster Art, Craft & Design` (296 words) — 100% Pristine (0 issues)
   - Cluster 10: `Cluster Nature & Cosmos` (308 words) — 100% Pristine (0 issues)
+  - Cluster 11: `Cluster Speech & Language` (311 words) — 100% Pristine (0 issues)
+  - Cluster 12: `Cluster Cognition & Mind` (315 words) — 100% Pristine (0 issues)
 - [ ] **Milestone 5: Individualized Curation — `Latin roots` (28,608 Words across 18 Clusters)**
   - Root-by-root and cluster-by-cluster curation of Latin derivatives, eliminating duplicate Primary/Secondary definitions, single-author repeats, and synthetic placeholders.
 - [ ] **Milestone 6: Full Verification, Re-Index, Android Sync & GitHub Commit**
@@ -63,4 +65,5 @@
 | 2026-10-01 13:33 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Art, Craft & Design` (296 word notes across 17 dashboards: `tetart`, `scyph`, `ap`, `thaumat`, `perdic`, `cosmet`, `hyph`, `orches`, `parthen`, `mim`, `chore`, `cal`, `plec`, `techn`, `arti`, `plast`, `mer`). Disambiguated agricultural `reap`/`reaper`, mythological `perdic` vs `perdition`, optical `cal` vs `decal`/`deceive`/`decor`/`epic`, and chemical polymers vs `dim`/`dimly`/`emmer`/`trim`. Verified 0 issues via `audit-roots.mjs`. | 296 | ✅ Completed |
 | 2026-10-01 13:45 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Nature & Cosmos` (308 word notes across 15 dashboards: `zephyr`, `styg`, `bront`, `ere`, `bore`, `nemat`, `selen`, `galact`, `uran`, `anem`, `chaet`, `cosm`, `trich`, `heli`, `aer`). Disambiguated Greek rowers vs `deere`/`ere`, bloodless `anemia` vs wind `anemos`, chlorines in `trichloride`/`chloroethane` vs hair `trich`, helical screws in `helicopter`/`helicon` vs sun `helios`, and anatomical `aorta` vs atmosphere `aer`. Verified 0 issues via `audit-roots.mjs`. | 308 | ✅ Completed |
 | 2026-10-01 13:58 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Speech & Language` (311 word notes across 13 dashboards: `siop`, `hermeneu`, `lex`, `ep`, `etym`, `onomat`, `phem`, `myth`, `herm`, `stell`, `gloss`, `onym`, `log`). Disambiguated Greek sending/contraction (*stellein*) vs Latin star (*stella*) and Georg Wilhelm Steller, German proper names (`herman`, `hermann`, `hermannia`, `hermosillo`), nudibranchs (`hermissenda`), liturgical dialogues (`dialogue doxology`), and timber vs event records (`log`, `logger`, `logging`). Verified 0 issues via `audit-roots.mjs`. | 311 | ✅ Completed |
+| 2026-10-01 14:12 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Cognition & Mind` (315 word notes across 15 dashboards: `aret`, `gno`, `hyp`, `ide`, `mancy`, `mn`, `mne`, `mor`, `oneir`, `phren`, `psych`, `soph`, `theo`, `theor`, `theori`). Disambiguated Greek virtue *arete* vs French glacial ridge *arête*, Greek aphorism *gnome* vs Paracelsian folklore creature, pea-family genus *Sophora* (Arabic *sufayra*) vs wisdom *sophia*, humidity meter *psychrometer* (Greek *psychros* cold) vs soul *psyche*, and butterfly orchids *Psychopsis* / moth flies *Psychodidae* (Greek *psyche* butterfly). Verified 0 issues via `audit-roots.mjs`. | 315 | ✅ Completed |
 

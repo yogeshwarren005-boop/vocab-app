@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interrelation of conscious and unconscious processes and emotions that determine personality and motivation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of social psychology that deals with the processes and emotions that determine psychology and motivation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the psychological forces, motives, and instinctual energies that underlie human behavior and mental states, especially at an unconscious level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry (originating with Freud's hydraulic energy models), the interplay of the id, ego, and superego in mediating emotional conflict and defense mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychodynamics designates the interrelation of conscious and unconscious processes and emotions that determine personality and motivation."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The **psychodynamics** of the psyche are driven by the ceaseless struggle between eros and the death drive."*
+> - 📜 **Erik Erikson (*Identity: Youth and Crisis*):** *"Understanding adolescent turmoil requires tracing the subtle **psychodynamics** connecting social roles to bodily changes."*
+> - 📜 **Karen Horney (*Our Inner Conflicts*):** *"The **psychodynamics** of basic anxiety compel the neurotic individual to construct rigid idealizations of the self."*

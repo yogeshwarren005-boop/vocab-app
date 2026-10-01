@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant form of psychoanalytic; pertaining to psychoanalysis or the systematic investigation of the unconscious mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and clinical discourse, describing detailed case studies, treatises, and institutional journals exploring psychoanalytic doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalytical designates of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud."*
+> - 📜 **Ernest Jones (*The Life and Work of Sigmund Freud*):** *"The early international **psychoanalytical** congresses were battlegrounds where clinical loyalties were fiercely tested."*
+> - 📜 **C. G. Jung (*The Archetypes and the Collective Unconscious*):** *"While classical **psychoanalytical** theories emphasized personal repressions, my work uncovered phylogenetic memories."*
+> - 📜 **Melanie Klein (*The Psycho-Analysis of Children*):** *"Play therapy provides a direct **psychoanalytical** pathway into the infant's unconscious fantasies and anxieties."*

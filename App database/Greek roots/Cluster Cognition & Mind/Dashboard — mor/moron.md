@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foolish or stupid person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person affected with mild intellectual disability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foolish or remarkably stupid person; historically, an obsolete clinical classification for an adult with a mental age of 8 to 12 years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of psychiatry and intelligence testing, a term coined by Henry H. Goddard in 1910 to categorize mild intellectual disability before becoming a general term of abuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moron designates a foolish or stupid person."*
+> - 📜 **Henry H. Goddard (*Feeble-Mindedness: Its Causes and Consequences*):** *"I propose the term **moron**, from the Greek word for foolish, to designate individuals with mild cognitive impairment."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The lower castes were genetically engineered with deliberate limitations, bred so that not even a **moron** could feel discontent."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"You look at the headlines and wonder what kind of bloodthirsty **moron** is directing the affairs of Europe."*

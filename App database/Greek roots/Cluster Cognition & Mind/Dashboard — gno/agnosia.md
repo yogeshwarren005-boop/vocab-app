@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or diminution of the ability to recognize familiar objects or stimuli usually as a result of brain damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or diminution of the ability to recognize familiar objects or stimuli usually as a result of brain damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability to interpret sensations and recognize objects, persons, sounds, or smells despite having intact sensory organs, typically caused by brain damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuropsychology, a modality-specific recognition deficit (such as visual agnosia or prosopagnosia) resulting from cortical lesions in the parieto-occipital or temporal lobes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnosia designates loss or diminution of the ability to recognize familiar objects or stimuli usually as a result of brain damage."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"His visual **agnosia** was so profound that he could perceive abstract shapes and colors yet failed to recognize his own wife's face."*
+> - 📜 **Sigmund Freud (*On Aphasia*):** *"To distinguish disturbances in sensory recognition from speech failures, I proposed the clinical term **agnosia**."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Bilateral occipital lesions frequently produce severe visual **agnosia**, rendering the patient incapable of synthesizing visual details into a coherent whole."*

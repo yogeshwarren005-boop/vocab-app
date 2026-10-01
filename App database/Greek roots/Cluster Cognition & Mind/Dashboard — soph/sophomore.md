@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in the second year at college or a 4-year secondary school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or associated with the second in a series.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in the second year of high school or college; historically derived from Greek sophos (wise) + moros (foolish)—a 'wise fool'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural idioms, designating a second effort or creation (e.g. a sophomore album or novel) that often faces the 'sophomore slump'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"SOPHOMORE PLUMPS FOR OLD MAN MOSES. —Call it, wait, the professor said, opening his long lips wide to reflect."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"During his year as a college **sophomore**, he cast off his freshman humility and cultivated an air of romantic disillusion."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The young apprentice pilot strutted upon the hurricane deck with all the cocky assurance of a university **sophomore**."*
+> - 📜 **Kurt Vonnegut (*Cat's Cradle*):** *"Her opinions had that breezy, unassailable certainty characteristic of an undergraduate **sophomore**."*

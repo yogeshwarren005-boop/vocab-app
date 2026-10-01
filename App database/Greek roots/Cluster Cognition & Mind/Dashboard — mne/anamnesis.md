@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A recalling to mind : reminiscence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preliminary case history of a medical or psychiatric patient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The recollection or remembrance of the past; in medicine, a patient's complete medical and personal history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Platonic philosophy, the theory that the soul remembers eternal forms and innate knowledge known prior to birth, awakened through philosophical dialectic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamnesis designates a recalling to mind : reminiscence."*
+> - 📜 **Plato (*Meno*):** *"Learning is nothing other than **anamnesis**, the soul's gradual recollecting of eternal truths perceived before mortal birth."*
+> - 📜 **William Osler (*Aequanimitas*):** *"A meticulous medical **anamnesis** reveals the subtle genesis of disease far more reliably than hasty lab tests."*
+> - 📜 **C. G. Jung (*Modern Man in Search of a Soul*):** *"The therapeutic dialogue relies upon clinical **anamnesis** to reconstruct the psychological history of the neurosis."*

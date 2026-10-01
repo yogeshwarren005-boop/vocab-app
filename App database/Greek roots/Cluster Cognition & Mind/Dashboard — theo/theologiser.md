@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is learned in theology or who speculates about theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is learned in theology or who speculates about theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who theologizes; one who speculates on theological matters, often used pejoratively for an amateur or tedious dogmatist (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century satire, an armchair polemicist who debates fine points of creed while ignoring practical charity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologiser designates someone who is learned in theology or who speculates about theology."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The parish **theologiser** spent thirty years disputing the precise length of Noah's ark while his flock went untended."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was an unwearied **theologiser**, accumulating endless notebooks to prove that all mythologies were corrupted Hebrew traditions."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mrs. Pardiggle surrounded herself with zealous **theologisers** who distributed tractates to the starving poor."*

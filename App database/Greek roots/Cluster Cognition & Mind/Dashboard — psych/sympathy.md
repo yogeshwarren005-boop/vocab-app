@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or expression of sincere concern for someone who is experiencing something difficult or painful; also : the capacity for this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of entering into or sharing the feelings or interests of another : empathy; also : the capacity for this.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of pity, sorrow, and compassion for someone else's misfortune; harmony or agreement in feeling between people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century moral philosophy (David Hume, Adam Smith), the natural human propensity to mirror and participate in the sentiments and passions of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be what it is, The action of my life is like it, which I’ll keep, if but for sympathy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, then, there’s sympathy."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"No quality of human nature is more remarkable, both in itself and in its consequences, than that propensity we have to **sympathy** with others, and to receive by communication their inclinations and sentiments."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"O, I have suffered / With those that I saw suffer: a brave vessel, / Who had, no doubt, some noble creature in her, / Dash'd all to pieces. O, the cry did knock / Against my very heart! Poor souls, they perish'd. / Had I been any god of power, I would / Have sunk the sea within the earth or ere / It should the good ship so have swallow'd and / The fraughting souls within her; mine eyes felt true **sympathy**."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"We are drawn to genuine friends by an instinctive **sympathy** that bypasses all calculated social advantage."*

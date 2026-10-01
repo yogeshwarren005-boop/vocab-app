@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by aphorism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to the composition of gnomic writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressed in or consisting of short, pithy, and wise maxims or aphorisms; of or relating to gnomes (wise sayings).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and grammar, denoting a tense (especially the gnomic aorist or present) used to state timeless, universal truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If before going to the d’Urbervilles’ she had vigorously moved under the guidance of sundry gnomic texts and phrases known to her and to the world in general, no doubt she would never have been imposed on."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Heraclitus and the ancient Seven Sages spoke in **gnomic** fragments that linger in the memory like sacred oracles."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The early Greek poets cultivated a **gnomic** style, distilling ancestral ethical experience into memorable couplets."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Joubert’s prose possesses that refined, **gnomic** quality that compresses a lifetime of reflection into a solitary sentence."*

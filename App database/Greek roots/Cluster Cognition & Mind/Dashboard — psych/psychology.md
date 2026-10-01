@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of mind and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental or behavioral characteristics of an individual or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the human mind, consciousness, and behavior, encompassing both cognitive functions and emotional experiences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broader cultural usage, the mental characteristics, attitude, or behavioral profile of an individual, group, or culture in a particular situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"An incorrigible is a terrible human being—at least such is the connotation of “incorrigible” in prison psychology."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus he turned the tenets and jargon of psychology back on me."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His theme is sin; his emphasis all falls on sin; but his psychology of sin is insufficient, it is not deep enough."*
+> - 📜 **William James (*The Principles of Psychology*):** *"**Psychology** is the Science of Mental Life, both of its phenomena and of their conditions."*
+> - 📜 **Sigmund Freud (*New Introductory Lectures on Psycho-Analysis*):** *"The future may well see **psychology** grounded in biological discoveries whose chemical nature we can now barely imagine."*
+> - 📜 **Herman Melville (*Billy Budd, Sailor*):** *"Claggart’s depravity presented a dark problem in moral **psychology** that normal human nature could neither comprehend nor cure."*

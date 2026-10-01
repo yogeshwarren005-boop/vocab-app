@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subtly deceptive reasoning or argumentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subtly deceptive reasoning or argumentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of fallacious arguments, especially with the intention of deceiving; specious, deceptively plausible reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and moral debate, the art of dressing up falsehood or injustice in appealing, high-sounding language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, it is not true!” “It is true.” “Every word?” “Every word.” He looked at her imploringly, as if he would willingly have taken a lie from her lips, knowing it to be one, and have made of it, by some sort of sophistry, a valid denial."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This bald sophistry, or self-deception, was easily possible by confusing the word "socialist" as relating to the abstract principle of social action, with socialist as applied to their own party organization."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Upon my word, I must take Ladislaw’s part until I hear more harm of him.” “Humphrey, that is all sophistry, and you know it,” said his wife."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men have entangled truth in the cobwebs of **sophistry**, mistaking dispute for knowledge."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Political language is designed to make lies sound truthful and murder respectable, relying on pure **sophistry**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"They tore down ancestral institutions with the ruthless **sophistry** of metaphysical dogmatists."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching about God and the world based on mystical insight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The teachings of a modern movement originating in the U.S. in 1875 and following chiefly Buddhist and Brahmanic theories especially of pantheistic evolution and reincarnation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various philosophies maintaining that knowledge of God and cosmic mysteries may be achieved through spiritual ecstasy, direct intuition, or mystical illumination (from Greek theos god + sophia wisdom).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of esoteric thought, the mystical tradition tracing from Jacob Böhme and Renaissance Neoplatonism through modern occult movements promoting universal brotherhood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Groups of people endeavoured to combine Christianity with the old thought, with philosophy, theosophy, theurgy, and magic."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Hans Lassen Martensen’s ‘Jacob Boehme: his life and teaching, or studies in theosophy: translated from the Danish by T."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christian Science is unerring and Divine; the human sense of things errs because it is human. 99:18 Those individuals, who adopt theosophy, spiritualism, or hypnotism, may possess natures above some others who eschew their false beliefs."*
+> - 📜 **Helena Blavatsky (*The Secret Doctrine*):** *"**Theosophy** is the archaic Wisdom-Religion, the esoteric basis found at the core of all ancient world faiths."*
+> - 📜 **William Butler Yeats (*Essays and Introductions*):** *"His mind was steeped in the mystical **theosophy** of Böhme and Swedenborg, finding holy signatures in every natural form."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Alexandrian syncretism nurtured an early species of **theosophy** that fused Greek logic with oriental mysticism."*

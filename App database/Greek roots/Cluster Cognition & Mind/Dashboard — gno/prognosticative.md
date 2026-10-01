@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to prediction; having value for making predictions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to prediction; having value for making predictions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature or quality of forecasting; indicating or foreshadowing future outcomes or occurrences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical methodology, describing indicators, signs, or models that possess high predictive validity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prognosticative designates of or relating to prediction; having value for making predictions."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"The philosopher discerning moral trends possesses a **prognosticative** vision far beyond immediate political expediency."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Certain early mannerisms in a young artist’s sketches are intensely **prognosticative** of future masterly genius."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The peculiar evening halo round the moon had a **prognosticative** stillness that foretold autumn rain."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diagnosis, prognosis, or psychological evaluation of an individual's health and state of mind through the examination of their dreams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine (Hippocratic and Galenic traditions), the clinical practice of inspecting dream content for early physiological signs of bodily illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneiroscopy designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Galen (*On Diagnosis from Dreams*):** *"Medical **oneiroscopy** reveals impending bodily humors, as dreams of swimming in icy water forewarn of phlegmatic fevers."*
+> - 📜 **Hippocrates (*On Regimen in Health*):** *"The prudent physician employs **oneiroscopy** to detect subtle bodily imbalances before overt physical symptoms appear."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Ancient medical **oneiroscopy** contained an intuitive truth: somatic irritations often announce themselves first in dream imagery."*

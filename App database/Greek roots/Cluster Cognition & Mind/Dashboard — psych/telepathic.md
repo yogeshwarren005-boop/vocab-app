@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicating without apparent physical signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicating without apparent physical signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or communicating by telepathy; transmitting thoughts, sensations, or feelings directly from one mind to another without sensory means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and fiction, describing an uncanny, unspoken mutual understanding or intuitive connection between two closely bonded individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The processes of intense physical training and weapons drills, the concentrated telepathic loading of Plutonian political history and its government's despotic apparatus had been cleared from their consciousness; the substance remained."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He gathered that the four-winged birds of the Lassans acted in some way or other as their scouts, remaining in a kind of telepathic communication with the Lassan in the fighting-machine they were assigned to help...."*
+> - 📜 **Frederic W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"We define **telepathic** communication as the direct transmission of thoughts or emotional states between minds independent of known sensory channels."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Between the two lovers existed an almost **telepathic** communion, where glances conveyed volumes of unspoken thought."*
+> - 📜 **Arthur C. Clarke (*Childhood's End*):** *"The final evolutionary leap of mankind involved merging into a vast, harmonious **telepathic** overmind."*

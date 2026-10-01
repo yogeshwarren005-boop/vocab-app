@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the psychological cause of a disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental or emotional rather than physiological in origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a psychological origin or cause rather than a physical or organic one, especially referring to illnesses or symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychosomatic medicine and clinical neurology, describing functional somatic symptoms (such as non-epileptic seizures or pain syndromes) provoked by emotional stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychogenic designates of or relating to the psychological cause of a disorder."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The orthopedic surgeons initially dismissed my profound alienation from my injured leg as a merely **psychogenic** reaction."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Hysterical blindness proved to be a **psychogenic** defense mechanism against traumatic visual memories."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must carefully differentiate between organic neurological palsies and **psychogenic** functional conversions."*

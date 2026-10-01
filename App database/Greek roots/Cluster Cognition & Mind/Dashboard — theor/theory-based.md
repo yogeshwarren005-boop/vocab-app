@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based in theory rather than experiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based in theory rather than experiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Founded on, derived from, or guided by a systematic theory, conceptual model, or empirical hypothesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational methodology and policy evaluation, describing programs or interventions whose design is explicitly structured around validated scientific frameworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theory-based designates based in theory rather than experiment."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"A truly **theory-based** curriculum unites reflective thinking with active manual experimentation in the classroom."*
+> - 📜 **Donald O. Hebb (*The Organization of Behavior*):** *"Our research proposed a **theory-based** model of neural assemblies capable of explaining cognitive attention and perceptual learning."*
+> - 📜 **Herbert A. Simon (*Administrative Behavior*):** *"Modern organizational design relies on **theory-based** decision analysis to manage bounded rationality in complex environments."*

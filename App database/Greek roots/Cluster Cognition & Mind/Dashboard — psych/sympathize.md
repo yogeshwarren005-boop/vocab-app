@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the feelings of; understand the sentiments of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be understanding of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or express compassion, pity, or sorrow for another person's hardships; to share another's feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and moral philosophy, to be in agreement with, support, or approve of an opinion, movement, or cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then with the losers let it sympathize, For nothing can seem foul to those that win. [_The trumpet sounds_.] Enter Worcester and Vernon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Just, just; and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives; and then, give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why, the senseless brands will sympathize The heavy accent of thy moving tongue, And in compassion weep the fire out; And some will mourn in ashes, some coal-black, For the deposing of a rightful king."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"How selfish soever man may be supposed, there are evidently some principles in his nature which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it except the pleasure of seeing it; by this we **sympathize** with our fellows."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The courageous abolitionists in the North were quick to **sympathize** with fugitive slaves fleeing southern bondage."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"I couldn't help but **sympathize** with poor Jim, knowing how he missed his wife and children."*

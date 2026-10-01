@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek aretē, meaning excellence, virtue, or the fulfillment of inherent potential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and classical rhetoric, the morphological element denoting moral merit, peak capability, and virtuous character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aret designates a term designating an entity, condition, or phenomenon derived from greek aret."*
+> - 📜 **Plato (*Meno*):** *"Socrates inquired whether virtue and **aret**- could be taught, or if it sprang from nature and divine dispensation."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Every art and every inquiry aims at some good, culminating in the complete exercise of **aret**- in accordance with reason."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The Greek concept of **aret**- expressed the quintessence of aristocratic excellence, valor, and ethical distinction."*

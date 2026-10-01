@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctively characteristic of a particular disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctively characteristic of a particular disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Specifically, decisively characteristic or indicative of a particular disease or pathological condition, allowing definitive diagnosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical semiotics, a clinical sign or symptom so uniquely bound to an etiology that its presence alone confirms the diagnosis without ambiguity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"In your case,” he continued, “the _pathognomonic,_ if you will excuse medical slang, was every now and then broken by the intrusion of altogether foreign symptoms.” I listened with breathless attention."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Koplik spots appearing upon the buccal mucosa are considered virtually **pathognomonic** of early measles."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The pathologist must search for changes that are truly **pathognomonic** rather than secondary inflammatory reactions."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dying Detective*):** *"Holmes noted the dark facial blotches with grim satisfaction, knowing them to be **pathognomonic** of the deadly Sumatra poison."*

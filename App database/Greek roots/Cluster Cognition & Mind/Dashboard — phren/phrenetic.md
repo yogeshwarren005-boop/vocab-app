@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of frenetic; wildly excited, frantic, or suffering from mental delirium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and Renaissance English prose, describing violent intellectual passion, manic enthusiasm, or feverish mental agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phrenetic designates adjective*) pertaining to, derived from, or characteristic of mind."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"A **phrenetic** man runs naked through the streets, crying that his brain is consumed by wildfire."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"His argument lacked philosophical calm, rushing onward in a **phrenetic** torrent of vehement indignation."*
+> - 📜 **William Hazlitt (*The Spirit of the Age*):** *"The political orator’s speech was marked by **phrenetic** energy that electrified the crowd without convincing their reason."*

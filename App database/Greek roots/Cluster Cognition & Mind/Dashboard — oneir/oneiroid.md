@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to dream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to dream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a dream; dreamlike; in psychiatry, describing an oneiroid state characterized by hallucinatory, dreamlike clouding of consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, an acute twilight state in which the patient experiences elaborate, theatrical hallucinations while maintaining partial orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneiroid designates adjective & noun*) resembling, having the physical form of, or akin to dream."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"In the **oneiroid** state, patients experience catastrophic or cosmic adventures as if watching a living, vivid dream."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox or the Group of Schizophrenias*):** *"An **oneiroid** episode may herald acute psychosis, where the external world dissolves into fantastic imagery."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"The delirium presented an **oneiroid** coloring, with visions of celestial pageants shifting across the ceiling."*

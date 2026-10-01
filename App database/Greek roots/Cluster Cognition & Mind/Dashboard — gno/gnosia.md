@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gno.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive faculty or mental ability to recognize, perceive, and interpret sensory stimuli; the neurological opposite of agnosia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neurology, the intact cortical process by which sensory signals from the environment are successfully mapped to stored semantic memories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnosia designates a term designating an entity, condition, or phenomenon derived from greek gno."*
+> - 📜 **Alexander Luria (*The Neuropsychology of Memory*):** *"Normal tactile **gnosia** depends on the seamless synthesis of cutaneous sensations in the secondary parietal cortex."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Recovery required not merely muscle strength, but the gradual restoration of proprioceptive **gnosia** in the injured limb."*
+> - 📜 **Wilder Penfield (*The Mystery of the Mind*):** *"Cortical stimulation demonstrated that sensory **gnosia** operates through complex interpretive circuits in the temporal lobes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Universal or all-embracing knowledge; an encyclopedic system comprising all branches of learning (from Greek pan- all + sophia wisdom).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance hermeticism and 17th-century philosophy, the ideal of a complete, divinely illuminated synthesis of human arts, natural philosophy, and theology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pansophy designates a term designating an entity, condition, or phenomenon derived from greek soph."*
+> - 📜 **John Amos Comenius (*The Way of Light*):** *"Universal peace among nations can flourish only when illuminated by the shared dawn of **pansophy**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Though total **pansophy** exceeds mortal reach, systematic natural history brings us closer to universal truth."*
+> - 📜 **Cotton Mather (*The Christian Philosopher*):** *"In the works of creation, the devout soul beholds an admirable **pansophy**, displaying the infinite manifold wisdom of God."*

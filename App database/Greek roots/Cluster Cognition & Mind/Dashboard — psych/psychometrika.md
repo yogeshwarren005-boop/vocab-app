@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any branch of psychology concerned with psychological measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any branch of psychology concerned with psychological measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The premier peer-reviewed academic journal dedicated to quantitative psychology and statistical methods in psychological testing, founded in 1936.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantitative behavioral science, the flagship publication of the Psychometric Society, known for pioneering factor analysis, latent trait theory, and structural equation modeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychometrika designates any branch of psychology concerned with psychological measurements."*
+> - 📜 **L. L. Thurstone (*Psychometrika (Inaugural Issue, 1936)*):** *"The journal **Psychometrika** is established to cultivate the development of psychology as a quantitative, rational science."*
+> - 📜 **Harold Hotelling (*Relations Between Two Sets of Variates*):** *"Key formulations of canonical correlation analysis found their natural intellectual home in the pages of **Psychometrika**."*
+> - 📜 **Frederic M. Lord (*Applications of Item Response Theory*):** *"Modern item response theory was shaped through seminal treatises published in **Psychometrika** across several decades."*

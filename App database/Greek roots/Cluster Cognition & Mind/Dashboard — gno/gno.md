@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Girls' night out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Girls' night out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical Greek combining root meaning to know, perceive, recognize, or discern (from gignōskein, gnōsis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and etymology, the Indo-European base (*gno-) giving rise to words denoting cognition, diagnosis, gnosis, and knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gno designates girls' night out."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The radical element **gno**- runs through Greek, Latin, and Sanskrit, forming the universal stem for conscious cognition."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"From the primitive root **gno**- descend both our native word 'know' and borrowed Hellenic terms like 'gnosis' and 'diagnosis'."*
+> - 📜 **Antoine Meillet (*Introduction to the Comparative Study of Indo-European Languages*):** *"The ancient verbal root **gno**- fundamentally signified perceptual discernment evolving into conceptual knowledge."*

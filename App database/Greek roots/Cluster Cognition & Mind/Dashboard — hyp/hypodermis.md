@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Layer of cells that secretes the chitinous cuticle in e.g. arthropods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Layer of cells that secretes the chitinous cuticle in e.g. arthropods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An epidermal layer of cells that secretes the chitinous cuticle in arthropods; also the subcutaneous tissue in human anatomy or plant stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, the innermost layer of the integumentary system containing adipocytes and connective tissue, anchoring the dermis to underlying fascia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypodermis designates layer of cells that secretes the chitinous cuticle in e.g. arthropods."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"During ecdysis, the living **hypodermis** detaches from the old exoskeleton and secretes a fresh cuticle."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Subcutaneous fat deposited in the **hypodermis** provides both thermal insulation and metabolic reserves."*
+> - 📜 **G. F. Ferris (*The Principles of Systematic Entomology*):** *"Microscopic examination of the **hypodermis** reveals specialized glandular ducts opening upon the body surface."*

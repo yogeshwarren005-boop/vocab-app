@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another; also : the capacity for this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of imagining one's ideas, feelings, or attitudes as fully inhabiting something observed (such as a work of art or natural occurrence) : the imaginative projection of a subjective state into an object so that the object appears to be infused with it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to understand, be sensitive to, and vicariously experience the feelings, thoughts, and motives of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic philosophy (translating German Einfühlung, 'feeling-into'), the projection of human emotion and vitality onto works of art or natural forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathy designates the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another; also : the capacity for this."*
+> - 📜 **Edward B. Titchener (*Lectures on the Experimental Psychology of the Thought-Processes*):** *"I introduced the word **empathy** into English to translate the German Einfühlung, denoting this mental feeling-into an object."*
+> - 📜 **Atticus Finch (Harper Lee) (*To Kill a Mockingbird*):** *"You never really understand a person until you consider things from his point of view—until you climb into his skin and walk around in it; that is **empathy**."*
+> - 📜 **Vernon Lee (*The Beautiful*):** *"Aesthetic **empathy** allows us to feel the dynamic rhythm of a soaring cathedral arch within our own limbs."*

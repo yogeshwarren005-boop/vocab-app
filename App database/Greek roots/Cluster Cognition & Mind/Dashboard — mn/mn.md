@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: manganese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: magnetic north.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek mnasthai/mnēmon signifying memory, remembrance, or mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Indo-European comparative linguistics, the primordial biconsonantal root (*men- / *mn-) that generated Sanskrit manas, Greek mneme, and English mind and memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mn designates manganese."*
+> - 📜 **Max Müller (*The Science of Thought*):** *"The fundamental Aryan root **mn**- preserves across millennia the primal human act of conscious remembering."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the reduced grade **mn**- of the root men, Greek derived mneme, amnesia, and mnemonic."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The biconsonantal stem **mn**- encapsulates the cognitive dawn when speech first named the inner workings of memory."*

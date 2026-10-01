@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of know.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of know.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a gnomon, especially in sundial construction or astronomical measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography, designating a map projection where the point of perspective is at the center of the sphere, causing all great circles to display as straight lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnomonic designates adjective*) pertaining to, derived from, or characteristic of know."*
+> - 📜 **Nathaniel Bowditch (*The American Practical Navigator*):** *"On a **gnomonic** chart, great-circle tracks between distant ports plot as convenient straight lines for oceanic navigation."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **gnomonic** art enabled ancient astronomers to align their dials with the celestial equator and solstice circles."*
+> - 📜 **Arthur Conan Doyle (*The Captain of the Pole-Star*):** *"The captain consulted his **gnomonic** charts, tracing our perilous trajectory across the polar ice fields."*

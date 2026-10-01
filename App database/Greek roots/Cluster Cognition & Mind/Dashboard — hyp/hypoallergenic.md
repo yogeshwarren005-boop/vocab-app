@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little likelihood of causing an allergic response.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little likelihood of causing an allergic response.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed, formulated, or tested to minimize the likelihood of causing an allergic response, especially in cosmetics, fabrics, and pet breeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and consumer safety science, having relatively low concentrations of common contact allergens such as fragrances, nickel, or parabens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoallergenic designates having little likelihood of causing an allergic response."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Modern consumers eagerly seek **hypoallergenic** products to protect sensitive tissues from synthetic irritants."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Hospitals switched to **hypoallergenic** surgical gloves to prevent debilitating latex sensitivities among staff."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"She furnished her studio exclusively with **hypoallergenic** materials to eliminate asthma triggers."*

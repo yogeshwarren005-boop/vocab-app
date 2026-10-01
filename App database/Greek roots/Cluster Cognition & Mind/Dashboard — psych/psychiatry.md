@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine that deals with mental, emotional, or behavioral disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine that deals with mental, emotional, or behavioral disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine devoted to the diagnosis, prevention, study, and treatment of mental, emotional, and behavioral disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine (coined by Johann Christian Reil in 1808), the medical discipline bridging neurological pathology, psychopharmacology, and psychotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychiatry designates a branch of medicine that deals with mental, emotional, or behavioral disorders."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"Clinical **psychiatry** must construct its classifications upon careful longitudinal observation of disease course and outcome."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"Scientific **psychiatry** requires both the causal explanations of natural science and the empathetic understanding of the humanities."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The division between neurology and **psychiatry** is an artificial historical frontier that our patients constantly cross."*

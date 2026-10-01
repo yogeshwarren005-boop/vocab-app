@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted for use in or administered by injection beneath the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parts beneath the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the parts beneath the skin; an instrument or injection introduced beneath the skin into subcutaneous tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and medical technology, a hollow needle and syringe designed to deliver liquid medication directly into systemic circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sedatives valueless 416:6 A hypodermic injection of morphine is administered to a patient, and in twenty minutes the sufferer is qui- etly asleep."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"At one time I was in bed eleven weeks, suffering intensely all the time except when relieved by hypodermic injections."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Sherlock Holmes took his bottle from the corner of the mantelpiece and his **hypodermic** syringe from its neat morocco case."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Dr. Seward administered a **hypodermic** injection of morphia to soothe the agitated patient."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin grasped the sterile **hypodermic** syringe, preparing to inoculate the guinea pigs with the new antitoxin."*

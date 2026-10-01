@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an anamnesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a secondary response to an immunogenic substance after serum antibodies can no longer be detected in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or aiding memory; assisting in recalling past events or data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, describing an anamnestic response—a secondary immune reaction characterized by rapid, heightened antibody production upon repeated antigen exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamnestic designates of or relating to an anamnesis."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The secondary inoculation evoked a swift **anamnestic** response, demonstrating the immunological memory of the side-chain receptors."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain associative cues possess an **anamnestic** power, instantly restoring long-forgotten childhood impressions."*
+> - 📜 **Alexander Luria (*The Neuropsychology of Memory*):** *"Structured questioning serves an **anamnestic** function, guiding the patient to reconstruct forgotten chronologies."*

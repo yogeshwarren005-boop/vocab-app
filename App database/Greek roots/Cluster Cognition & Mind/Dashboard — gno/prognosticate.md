@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a prediction about; tell in advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To forecast, prophesy, or predict future events or outcomes based on present signs, data, or symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical astrology and political commentary, to issue formal predictions concerning the fate of rulers, states, or harvests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Various magic ceremonies were then celebrated to counteract the influence of witches and demons, and to prognosticate to the young their success or disappointment in the matrimonial lottery."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The colours of the paper prognosticate the character of the coming year; if red prevails, there will be many fires; if white, there will be floods and rain; and so with the other colours."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"His ensigns were known by the inscription, Liberty of Conscience, and the Protestant Succession; and the people saluted him as he passed with repeated cheers, that seemed to prognosticate success."*
+> - 📜 **William Shakespeare (*Sonnet 14*):** *"Not from the stars do I my judgment pluck; / And yet methinks I have astronomy, / But not to tell of good or evil luck, / Of plagues, of dearths, or seasons' quality; / Nor can I fortune to brief minutes true, / Pointing to each his thunder, rain and wind, / Or say with princes if it shall go well / By oft predict that I in heaven find: / But from thine eyes my knowledge I derive, / And, constant stars, in them I read such art / As truth and beauty shall together thrive, / If from thyself to store thou wouldst convert; / Or else of thee this I **prognosticate**: / Thy end is truth's and beauty's doom and date."*
+> - 📜 **Jonathan Swift (*Bickerstaff Papers*):** *"I take upon me to **prognosticate** the death of the almanac-maker John Partridge on the twenty-ninth of March."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"Impostors and quacks went about the streets pretending to **prognosticate** who should survive the pestilence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As regards theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a theological manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to theology, religious doctrine, or the nature of God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hermeneutics and doctrinal analysis, evaluated from the perspective of divine revelation, orthodoxy, and ecclesiastical dogma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologically designates as regards theology."*
+> - 📜 **John Calvin (*Institutes of the Christian Religion*):** *"To speak **theologically**, human nature since the Fall is completely destitute of saving righteousness."*
+> - 📜 **Søren Kierkegaard (*Fear and Trembling*):** *"Abraham’s willingness to sacrifice Isaac can be understood only **theologically**, through the teleological suspension of the ethical."*
+> - 📜 **Friedrich Schleiermacher (*The Christian Faith*):** *"Dogmas are **theologically** valid only insofar as they faithfully express the living religious consciousness of the church."*

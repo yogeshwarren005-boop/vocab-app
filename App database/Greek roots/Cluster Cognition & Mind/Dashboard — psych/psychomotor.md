@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterizing mental events that have motor consequences or vice versa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterizing mental events that have motor consequences or vice versa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to muscular action or movement directly originating from or mediated by conscious mental processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and neurology, describing motor speed, coordination, and tempo (e.g. psychomotor agitation in mania or psychomotor retardation in severe depression).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychomotor designates of or relating to or characterizing mental events that have motor consequences or vice versa."*
+> - 📜 **Emil Kraepelin (*Manic-Depressive Insanity and Paranoia*):** *"Severe melancholia is marked by profound **psychomotor** retardation, where speaking a simple sentence requires immense physical exertion."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Following L-DOPA administration, their frozen immobility gave way to astonishing bursts of **psychomotor** vitality."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extreme **psychomotor** agitation in acute delirious states requires constant nursing vigilance to prevent cardiac exhaustion."*

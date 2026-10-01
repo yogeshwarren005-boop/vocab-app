@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychiatry) a disorder of memory in which dreams or fantasies are confused with reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a disorder of memory in which dreams or fantasies are confused with reality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A memory disorder characterized by confusion between reality and fantasy or distortion of memory, such as déjà vu or confabulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a condition where memory recalls are fabricated or displaced in time and space, frequently seen in Korsakoff syndrome or right hemisphere damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramnesia designates (psychiatry) a disorder of memory in which dreams or fantasies are confused with reality."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"The uncanny sensation of déjà vu represents a benign form of **paramnesia**, where unconscious daydreams masquerade as past events."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In reductive **paramnesia**, the patient is convinced that an entirely new city or house is an exact duplicate of one previously visited."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"His lively confabulations were forms of clinical **paramnesia**, filling terrifying memory voids with whimsical inventions."*

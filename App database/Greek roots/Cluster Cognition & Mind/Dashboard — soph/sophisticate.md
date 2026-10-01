@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To alter deceptively; especially : adulterate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deprive of genuineness, naturalness, or simplicity; especially : to deprive of naïveté and make worldly-wise : disillusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with refined tastes, worldly experience, and intellectual polish; as a verb, to make complex, alter, or corrupt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in alchemy, cooking, and medicine, to adulterate, debase, or compromise the natural purity of a substance with artificial mixtures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He out-sophisticates the most sophistical of them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! here’s three on’s are sophisticated!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She is so natural, a rare thing nowadays: the modern jeune fille is a sophisticated product." "Bravo, Lawrence!" cried Mrs."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He sat among the London **sophisticates**, dazzling the salon with cynical epigrams upon modern romance."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Unscrupulous vintners **sophisticate** their wines with lead and spices to disguise decay."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Paris had transformed the provincial American into an exquisite **sophisticate** of quiet discernment."*

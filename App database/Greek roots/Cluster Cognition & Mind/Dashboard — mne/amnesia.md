@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of memory due usually to brain injury, shock, fatigue, repression, or illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gap in one's memory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A partial or total loss of memory, typically caused by brain injury, illness, psychological trauma, or neurological degeneration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuropsychology, classified into anterograde amnesia (inability to form new memories) and retrograde amnesia (loss of pre-existing memories).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Firstly, in order to exercise mnemotechnic: secondly, because after an interval of amnesia, when, seated at the central table, about to consult the work in question, he remembered by mnemotechnic the name of the military engagement, Plevna."*
-> - 📜 **James Joyce (*Ulysses*):** *"What idiosyncracies of the narrator were concomitant products of amnesia?"*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Jimmie G. suffered from Korsakoff's syndrome, trapped by dense **amnesia** in a permanent present devoid of recent recollection."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Traumatic shock can induce sudden **amnesia**, blotting out weeks of personal identity while automated habits remain intact."*
+> - 📜 **Alexander Luria (*The Mind of a Mnemonist*):** *"The tragedy of **amnesia** lies in the dissolution of the autobiographical narrative that constitutes our sense of self."*

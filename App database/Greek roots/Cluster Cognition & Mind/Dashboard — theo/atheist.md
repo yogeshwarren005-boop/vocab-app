@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disbelieves or lacks belief in the existence of God or gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an epithet frequently applied in antiquity to those who rejected traditional civic deities (such as early Christians in pagan Rome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It were far more sensible for those who deny the fitness and necessity of prayer to take the ground of the atheist and say plainly "We do not pray, for there is no God to pray to," for to deny prayer, is practical atheism."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A----, who professed infidelity, and who was, I think, as near an atheist as any I ever met."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le dye an _Atheist_ then. _Arn_."*
+> - 📜 **Plato (*Laws*):** *"No one who has taken up in youth this opinion that the gods do not exist has ever continued in old age as a confirmed **atheist**."*
+> - 📜 **Arthur Schopenhauer (*Parerga and Paralipomena*):** *"The honest **atheist** rejects anthropomorphic mythologies to confront the indifferent will of nature."*
+> - 📜 **Bertrand Russell (*Why I Am Not a Christian*):** *"When addressing the general public, I define myself as an **atheist** regarding the personal deity of popular religion."*

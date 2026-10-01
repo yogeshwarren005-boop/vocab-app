@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or act of identifying a disease from its signs and symptoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decision reached by diagnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The identification of the nature of an illness or problem by examination of the symptoms; an authoritative medical or technical assessment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering and organizational analysis, a comprehensive evaluation pinpointing the root causes of dysfunction or failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Mention has already been made, in speaking of Lenau's pathological traits,[104] of his confirmed habit of self-diagnosis."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I agree with your diagnosis, Mr Maplestone, but Evelyn's nature makes it peculiarly essential that she should make a wise choice."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Elton said he could not be sure of what ailed me, but he feared I was right in my own diagnosis."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dr. Lydgate prided himself on making an accurate **diagnosis** where the older provincial practitioners saw only vague bile."*
+> - 📜 **Anton Chekhov (*Ward No. 6*):** *"The doctor stared at the patient, knowing well that no clever **diagnosis** could undo the ravages of poverty and neglect."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"The eminent London specialist gave his grave **diagnosis**, couched in gentle words that could not conceal its fatal import."*

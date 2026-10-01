@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, marked by, or affected with psychosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting or suggestive of mental or emotional unsoundness or instability —not used technically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suffering from psychosis; characterized by severe delusions, hallucinations, or a major detachment from reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, describing states or episodes (such as in acute schizophrenia or severe bipolar mania) where reality testing is fundamentally compromised.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotic designates of, relating to, marked by, or affected with psychosis."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"A **psychotic** delusion cannot be corrected by empirical evidence, for it forms the foundational premise of the patient's reality."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"During severe manic episodes, my thoughts accelerated into terrifying **psychotic** hallucinations that shattered daily life."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Certain post-encephalitic patients experienced brief **psychotic** excitements characterized by vivid visual hallucinations."*

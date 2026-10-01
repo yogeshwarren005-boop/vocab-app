@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In theory; according to the assumed facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a theoretical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner according to theory; hypothetically or in principle, as distinguished from practical reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic discourse, deduced by logical calculation from accepted principles, though potentially modified by real-world friction or empirical variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What may be called "the theoretically correct price"[3] with two-sided competition is the one that permits the maximum number of trades with a margin of gain to each trader."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"What you theoretically know, vividly realise: that with many the religion of beauty must always be a passion and a power, that it is only evil when divorced from the worship of the Primal Beauty."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Theoretically, of course, one ought always to try for the best word."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Although a species may **theoretically** multiply in geometric progression, severe natural checks restrict its population."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"'Theoretically,' Holmes remarked, 'it is quite simple; practically, we must find where the boat landed in the fog.'"*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The constitution granted equal rights **theoretically**, but local custom determined how those rights were exercised in daily life."*

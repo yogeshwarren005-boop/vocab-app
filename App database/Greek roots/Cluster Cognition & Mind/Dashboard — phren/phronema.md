@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mindset, spiritual outlook, or disposition of the mind (Greek phrónēma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eastern Orthodox Christian theology, the collective mind, spiritual ethos, and living consensus of the Church handed down across generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phronema designates a term designating an entity, condition, or phenomenon derived from greek phren."*
+> - 📜 **Apostle Paul (*Epistle to the Romans (8:6)*):** *"For the **phronema** of the flesh is death, but the **phronema** of the Spirit is life and peace."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The consensus of the faithful preserves that inward **phronema** that guards traditional dogma against novel heresies."*
+> - 📜 **Georges Florovsky (*Bible, Church, Tradition*):** *"True theological fidelity requires not mechanical quoting of texts, but acquiring the living **phronema** of the holy Fathers."*

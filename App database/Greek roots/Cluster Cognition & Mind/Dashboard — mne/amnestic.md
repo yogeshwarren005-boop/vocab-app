@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by amnesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by amnesia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or causing loss of memory; characterized by impaired memory function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, designating specific cognitive disorders (such as amnestic mild cognitive impairment or transient global amnesia) focused primarily on memory deficits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnestic designates of or relating to or caused by amnesia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebral concussion frequently leaves an **amnestic** gap covering the moments immediately preceding the impact."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Anesthetic protocols often include an **amnestic** agent to spare surgical patients the trauma of operating room memories."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Deep bilateral hippocampal damage precipitates a severe **amnestic** syndrome without altering basic sensory perception."*

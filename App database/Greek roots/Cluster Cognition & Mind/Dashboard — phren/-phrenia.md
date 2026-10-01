@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disordered condition of mental functions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disordered condition of mental functions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining suffix derived from Ancient Greek phrēn (mind, heart, diaphragm) denoting a mental disorder, state of mind, or intellectual condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric nosology, forming diagnostic categories such as schizophrenia, hebephrenia, oligophrenia, and cyclophrenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, -phrenia designates disordered condition of mental functions."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox or the Group of Schizophrenias*):** *"I coined the term schizophrenia, utilizing the Greek suffix -**phrenia** to emphasize the fundamental splitting of psychic functions."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"Conditions ending in -**phrenia** denote primary disturbances of the mental faculties rather than focal sensorimotor lesions."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"The historical evolution of terms ending in -**phrenia** reflects changing theories regarding the organic basis of madness."*

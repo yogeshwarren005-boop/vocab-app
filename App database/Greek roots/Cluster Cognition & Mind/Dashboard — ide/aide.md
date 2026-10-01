@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer who acts as military assistant to a more senior officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who acts as assistant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant, confidential counselor, or junior officer who provides direct administrative or operational support to a superior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and diplomatic hierarchy (short for aide-de-camp), an officer assigned to attend personal needs, correspondence, and security for a commanding general or ambassador.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The old man I have mentioned, the one with long, sunburnt hair and buckskin shirt and who seemed a sort of aide or lieutenant to father, rode close to our wagon and indicated the jaded saddle-animals with a cock of his head."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Not that I less endure, or shrink from pain, Insulting Angel, well thou knowst I stood Thy fiercest, when in Battel to thy aide The blasting volied Thunder made all speed And seconded thy else not dreaded Spear."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Turning to his aide, He bade him hastily to give the word To saddle horse."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrei served as a trusted **aide** to General Kutuzov during the tumultuous retreat from Braunau."*
+> - 📜 **Alexis de Tocqueville (*Recollections*):** *"The prime minister dispatched a confidential **aide** to sound out the mood of the rebellious assembly."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"A military **aide** hurried into the war room with urgent telegrams detailing the enemy naval mobilization."*

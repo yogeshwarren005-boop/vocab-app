@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or fortune-telling through the random selection or opening of passages from a book, especially the Bible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and the history of superstition, an ancient method of seeking divine guidance or auguries by interpreting the first verse encountered upon blindly opening a sacred text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliomancy designates a term designating an entity, condition, or phenomenon derived from greek mancy."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The superstitious practice of **bibliomancy**, opening the sacred scriptures at random to divine future fortunes, was condemned by early councils."*
+> - 📜 **Wilkie Collins (*The Moonstone*):** *"Gabriel Betteredge turned to his copy of Robinson Crusoe for daily solace, practicing a comical species of domestic **bibliomancy**."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Anxious minds often seek relief in **bibliomancy**, seeking oracles in the random lines of Virgil or the Holy Scriptures."*

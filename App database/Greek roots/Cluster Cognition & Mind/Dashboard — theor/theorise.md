@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To believe especially on uncertain or tentative grounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a theory or theories about something; to speculate or develop conceptual explanations (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific inquiry, to propose hypotheses that connect disparate observations into a coherent predictive structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is a capital mistake to theorise before one has data."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I was very tired and sleepy, and soon my theorising passed into dozing."*
-> - 📜 **James Joyce (*Ulysses*):** *"Was he here? —The bard’s fellowcountrymen, John Eglinton answered, are rather tired perhaps of our brilliancies of theorising."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"It is a capital mistake to **theorise** before one has data; insensibly one begins to twist facts to suit theories, instead of theories to suit facts."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"How odd it is that anyone should not see that all observation must be for or against some view if it is to be of any service! How can one not **theorise**?"*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The natural philosopher is compelled to **theorise**, but must be ready to slay his pet hypothesis the moment a contrary fact appears."*

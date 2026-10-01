@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plant eyebright (Euphrasia officinalis), traditionally used in folk herbal medicine to treat eye complaints and metaphorically to clear spiritual vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and poetical usage, a botanical metaphor for purging clouded vision, spiritual blindness, or intellectual darkness (from Greek euphrasia, gladness of mind).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"But to nobler sights Michael from Adam’s eyes the film removed, Which that false fruit that promised clearer sight Had bred; then purged with euphrasy and rue The visual nerve, for he had much to see; And from the well of life three drops instilled."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Michael purged with **euphrasy** and rue / The visual nerve, for he had much to see, / And from the well of life three drops instilled."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"No magical **euphrasy** was needed to clear his vision, for nature herself opened his eyes to transcendent beauty."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Herbals celebrate **euphrasy** for its singular virtue in brightening dim and rheumy eyes."*

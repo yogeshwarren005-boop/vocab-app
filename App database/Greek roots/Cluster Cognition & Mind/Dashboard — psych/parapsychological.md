@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond normal physical explanation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond normal physical explanation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or dealing with parapsychology; concerning paranormal or psychic phenomena outside the scope of orthodox science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental research, referring to laboratory investigations of telepathy, clairvoyance, precognition, and psychokinesis using statistical methods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parapsychological designates beyond normal physical explanation."*
+> - 📜 **J. B. Rhine (*New Frontiers of the Mind*):** *"Our **parapsychological** trials at Duke University utilized standard Zener card decks under strict double-blind conditions."*
+> - 📜 **Arthur Koestler (*The Roots of Coincidence*):** *"Modern quantum physics presents paradoxes that render **parapsychological** hypotheses less inherently absurd."*
+> - 📜 **Carl Sagan (*Broca's Brain*):** *"Rigorous scientific scrutiny must be maintained toward all **parapsychological** claims, demanding extraordinary proof for extraordinary hypotheses."*

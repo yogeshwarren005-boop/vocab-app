@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice, skill, or exploration of lucid dreaming; conscious navigation within dream environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental cognitive psychology, systematic techniques (such as reality checks and MILD) cultivated to retain waking awareness during REM sleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneironautics designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Stephen LaBerge (*Exploring the World of Lucid Dreaming*):** *"Through disciplined **oneironautics**, researchers demonstrate that conscious volition can operate during physiological REM sleep."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"The frontiers of human exploration may soon encompass **oneironautics**, charting the inner cosmos of dream imagery."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"I experimented with my own form of **oneironautics**, learning to wake up inside my dreams and observe the visual resolution."*

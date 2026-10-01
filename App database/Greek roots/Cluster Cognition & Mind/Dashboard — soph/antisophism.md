@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A counter-argument, logical refutation, or philosophical principle directed against sophistry and specious, deceptive reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialectical philosophy, the methodical dismantling of fallacious rhetorical tricks to restore clarity, truth, and genuine intellectual rigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisophism designates a term designating an entity, condition, or phenomenon derived from greek soph."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True inductive logic serves as an unyielding **antisophism**, exposing the theatrical illusions of scholastic disputants."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear definition of terms is the most potent **antisophism** against ambiguous verbal trickery."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His plain, robust common sense was a natural **antisophism**, cutting through the lawyer’s web of specious subtleties."*

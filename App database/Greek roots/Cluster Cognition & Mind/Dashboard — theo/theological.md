@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or concerning theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or concerning theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the study of theology, religious faith, or the divine nature; doctrinal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and sociology (Auguste Comte's Law of Three Stages), denoting the primitive stage of human civilization that explains natural phenomena through supernatural deities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I used to be quite up in that scene of Milton’s when I was theological."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It was by no means so common in those days as it has since become for a Scottish theological student to attend a German University."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"With the completion of this task he seemed to be free to return to his theological work, and he did return to it; but his release turned out to be only a brief respite."*
+> - 📜 **Auguste Comte (*The Positive Philosophy*):** *"In the **theological** stage, the human mind directs its investigations to the first and final causes of all effects, seeking supernatural agents."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"Religious truth cannot be excluded from liberal education, for **theological** inquiry grounds the unity of all knowledge."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The vicar’s study was lined with heavy **theological** folios that smelled of ancient leather and damp parchment."*

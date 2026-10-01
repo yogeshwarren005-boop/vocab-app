@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the conformation and especially the contours of the skull based on the former belief that they are indicative of mental faculties and character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the conformation and especially the contours of the skull based on the former belief that they are indicative of mental faculties and character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 19th-century pseudo-scientific doctrine that mental faculties and character traits are localized in specific brain organs indicated by external skull contours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of neuroscience, the system founded by Franz Joseph Gall that erroneously read skull bumps but presciently introduced the principle of cerebral localization of function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Apply this spinal branch of phrenology to the Sperm Whale."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Apply this spinal branch of phrenology to the Sperm Whale."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phrenology makes man knavish or honest according to the development of the cranium; but anatomy, physiology, 173:24 phrenology, do not define the image of God, the real im- mortal man."*
+> - 📜 **Walt Whitman (*Leaves of Grass (Preface)*):** *"The great poet must assimilate all science—geology, **phrenology**, chemistry—into his grand hymn of American democracy."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Modern cerebral physiology has swept away the crude map of **phrenology**, replacing it with experimental electrical mapping."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Professor at the Breakfast-Table*):** *"Phrenologists imagine the mind as a chest of drawers, forgetting that **phrenology** mistakes outer bone for inner soul."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deify or glorify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deify or glorify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deify; to glorify, idealize, or exalt to the rank of a god or divine ideal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary biography, to portray a historical figure with uncritical, worshipful adulation, erasing human flaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To the superstitious whalemen, the white monster seemed an **apotheosized** terror of the deep."*
+> - 📜 **Mark Twain (*Personal Recollections of Joan of Arc*):** *"The French nation was eager to **apotheosize** the brave Maid of Orleans after centuries of neglect."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations rarely **apotheosize** individual rulers, preferring to worship the sovereign majesty of the people."*

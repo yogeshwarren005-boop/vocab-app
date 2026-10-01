@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of virtue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of virtue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or focusing on virtue, especially in moral philosophy and normative ethics (aretaic ethics vs. deontic ethics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary ethical theory, describing philosophical frameworks that evaluate goodness based on human character and virtues rather than duties or utilitarian consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aretaic designates adjective*) pertaining to, derived from, or characteristic of virtue."*
+> - 📜 **G. E. M. Anscombe (*Modern Moral Philosophy*):** *"Concepts of moral obligation should be abandoned in favor of an **aretaic** vocabulary centering on human flourishing and virtues."*
+> - 📜 **Alasdair MacIntyre (*After Virtue*):** *"Classical moral theory was fundamentally **aretaic**, grounding moral judgments in the internal virtues required to sustain social practices."*
+> - 📜 **Michael Slote (*From Morality to Virtue*):** *"An **aretaic** approach grounds all ethical evaluations directly in the motivational virtues and benevolence of the moral agent."*

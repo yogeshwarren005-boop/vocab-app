@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of dream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of dream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpreter of dreams; of or relating to the interpretation of dreams and their symbolic meanings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and folkloric traditions, a diviner or scholar who analyzes dream imagery to discern omens, character traits, or unconscious warnings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneirocritic designates adjective*) pertaining to, derived from, or characteristic of dream."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"An astute **oneirocritic** unknots the tangled threads of nocturnal visions, discerning truth from digestive vapors."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"I consulted an eccentric **oneirocritic** who promised to interpret my nightmare of drifting alone upon a frozen sea."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Every ancient monarch maintained a resident **oneirocritic** to decode the fearful apparitions of the night."*

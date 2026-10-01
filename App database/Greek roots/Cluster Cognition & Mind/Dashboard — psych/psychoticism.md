@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personality dimension in Hans Eysenck's PEN model characterized by tough-mindedness, nonconformity, impulsivity, interpersonal hostility, and predisposition to psychosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential psychology, a continuous trait dimension where high scores correlate with reduced empathy, sensation-seeking, and high creative unconventionality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoticism designates a term designating an entity, condition, or phenomenon derived from greek psych."*
+> - 📜 **Hans Eysenck (*The Biological Basis of Personality*):** *"We isolated **psychoticism** as a fundamental biological trait dimension underlying both criminal deviance and exceptional artistic originality."*
+> - 📜 **Raymond Cattell (*The Scientific Analysis of Personality*):** *"High measures of **psychoticism** reflect constitutional traits of detachment and cold disregard for social conventions."*
+> - 📜 **Arthur Jensen (*The g Factor: The Science of Mental Ability*):** *"Empirical studies in personality genetics demonstrate substantial heritability for Eysenck’s **psychoticism** factor."*

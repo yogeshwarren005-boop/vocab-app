@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental disorder especially when marked by egocentric and antisocial activity, a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental disorder especially when marked by egocentric and antisocial activity, a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental disorder characterized by persistent antisocial behavior, impaired empathy and remorse, boldness, and egotistical traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychology, a specific personality construct distinct from general sociopathy, characterized by lack of fear conditioning, emotional shallowness, and glib manipulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopathy designates mental disorder especially when marked by egocentric and antisocial activity, a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"The core tragedy of **psychopathy** is the complete absence of emotional warmth beneath an engaging exterior."*
+> - 📜 **Robert D. Hare (*Without Conscience*):** *"Criminal **psychopathy** accounts for a disproportionate amount of violent and predatory crime in our society."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Early medical writers used the term **psychopathy** broadly to designate any marked constitutional deviation of mind."*

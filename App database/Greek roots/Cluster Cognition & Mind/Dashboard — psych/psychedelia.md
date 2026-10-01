@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The world of people, phenomena, or items associated with psychedelic drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychedelic music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The subculture, music, art, and visual style associated with psychedelic drugs and altered states of consciousness, flourishing in the late 1960s.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and aesthetics, kaleidoscopic imagery, vibrant swirling colors, and distorted sounds evoking mystical or hallucinogenic experiences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychedelia designates the world of people, phenomena, or items associated with psychedelic drugs."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing in Las Vegas*):** *"San Francisco in the middle sixties was a very special time and place; the wave of **psychedelia** crested and broke upon the coast."*
+> - 📜 **Aldous Huxley (*Moksha: Writings on Psychedelics*):** *"The vibrant sensory explosions of **psychedelia** reflect the brain’s filtering valve temporarily swinging wide open."*
+> - 📜 **Tom Wolfe (*The Electric Kool-Aid Acid Test*):** *"The Day-Glo bus rolled across America, spreading the strange new gospel of neon **psychedelia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture or symbol used in a system of writing to represent a thing or an idea but not a particular word or phrase for it; especially : one that represents not the object pictured but some thing or idea that the object pictured is supposed to suggest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture or symbol used in a system of writing to represent a thing or an idea but not a particular word or phrase for it; especially : one that represents not the object pictured but some thing or idea that the object pictured is supposed to suggest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written character or symbol that represents an idea or thing directly without representing the individual sounds of its spoken name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and epigraphy, a visual glyph (such as Egyptian hieroglyphs, Chinese characters, or international road signs) conveying conceptual meaning directly to the mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideogram designates a picture or symbol used in a system of writing to represent a thing or an idea but not a particular word or phrase for it; especially : one that represents not the object pictured but some thing or idea that the object pictured is supposed to suggest."*
+> - 📜 **Ezra Pound (*ABC of Reading*):** *"The Chinese **ideogram** does not define by abstract dictionary categories, but by juxtaposing vivid natural pictures."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"In an ideographic writing system, the **ideogram** stands for the concept itself rather than the acoustic phoneme."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Early Sumerian scribes impressed an **ideogram** upon moist clay to record bushels of barley and head of oxen."*

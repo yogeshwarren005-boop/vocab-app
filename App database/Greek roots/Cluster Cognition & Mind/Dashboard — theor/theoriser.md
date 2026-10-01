@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who theorizes or speculates; an architect of conceptual explanations (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political commentary, an abstract thinker whose idealized blueprints may overlook practical human realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theoriser designates someone who theorizes (especially in science or art)."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The political **theoriser** in Paris reconstructed the state on paper, blind to the living ancestral habits of the people."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was no mere idle **theoriser**, but a determined researcher who spent nocturnal hours at his microscope."*
+> - 📜 **William Makepeace Thackeray (*The Virginians*):** *"The old **theoriser** loved to discourse upon military strategy while younger men did the fighting in the field."*

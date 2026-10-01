@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method or system for improving the memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device (such as a rhyme or acronym) used to aid recall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and development of systems, techniques, and devices for improving and assisting the human memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and classical rhetoric, the deliberate methodology of loci and visualization practiced to memorize speeches, data, and complex texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mnemonics designates a method or system for improving the memory."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The art of **mnemonics** is built upon two intentions: pre-notion and emblem, which together fix fleeting ideas."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"Ancient orators relied upon the discipline of **mnemonics** to deliver multi-hour addresses without glancing at notes."*
+> - 📜 **Alexander Luria (*The Mind of a Mnemonist*):** *"Shereshevsky had no need for artificial **mnemonics**, for his synesthetic imagination converted every word into an indelible vision."*

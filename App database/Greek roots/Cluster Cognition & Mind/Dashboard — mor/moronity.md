@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mild mental retardation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mild mental retardation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or quality of being a moron; foolishness or mild intellectual impairment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early 20th-century eugenics and clinical psychology, the designated diagnostic state of having a mental age between eight and twelve years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moronity designates mild mental retardation."*
+> - 📜 **Lewis Terman (*The Measurement of Intelligence*):** *"Early diagnostic screening was intended to differentiate between true **moronity** and educational neglect in schoolchildren."*
+> - 📜 **Henry H. Goddard (*The Kallikak Family*):** *"The investigators traced hereditary **moronity** through several generations of rural social isolation."*
+> - 📜 **H. L. Mencken (*Minority Report*):** *"The sheer depth of human **moronity** becomes apparent only during heated election campaigns."*

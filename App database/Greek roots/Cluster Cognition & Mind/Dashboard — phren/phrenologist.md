@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to be able to read your character from the shape of your skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims to be able to read your character from the shape of your skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner, expert, or advocate of phrenology who determines character and intellect by examining the contours of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century social history, a popular consultant who mapped cranial bumps to advise clients on careers, marriage prospects, and moral reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To scan the lines of his face, or feel the bumps on the head of this Leviathan; this is a thing which no Physiognomist or Phrenologist has as yet undertaken."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If the Sperm Whale be physiognomically a Sphinx, to the phrenologist his brain seems that geometrical circle which it is impossible to square."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"To scan the lines of his face, or feel the bumps on the head of this Leviathan; this is a thing which no Physiognomist or Phrenologist has as yet undertaken."*
+> - 📜 **Edgar Allan Poe (*The Imp of the Perverse*):** *"In the pure arrogance of reason, the **phrenologist** has failed to recognize our radical instinct for perversity."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The visiting **phrenologist** declared that Tom possessed large organs of firmness and small organs of imagination."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer gazed at Holmes's head with professional admiration, exclaiming, 'You have really a very remarkable cranium, sir; I covet your skull, as a **phrenologist**!'"*

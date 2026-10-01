@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp-crested ridge in rugged mountains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp-crested ridge in rugged mountains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excellence, moral virtue, or the realization of one's full potential and purpose in Greek philosophy; also (as arête) a sharp mountain ridge in physical geography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenic philosophy, the cultivation of peak intellectual and moral perfection; in geomorphology, a narrow serrated crest formed by glacial erosion on adjacent cirques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arete designates a sharp-crested ridge in rugged mountains."*
+> - 📜 **Aristotle (*Eudemian Ethics*):** *"True happiness consists in the complete activity of the soul in accordance with perfect **arete**."*
+> - 📜 **Robert M. Pirsig (*Zen and the Art of Motorcycle Maintenance*):** *"The ancient Greeks called Quality **arete**, meaning excellence and the duty to live up to one's highest potential."*
+> - 📜 **John Tyndall (*The Glaciers of the Alps*):** *"We ascended along the icy **arete**, where a razor-like ridge of rock dropped sheer on either side into bottomless gulfs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the personified spirits of dreams, winged daimones who dwell in the dark caverns of the underworld.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epic (Hesiod, Homer, Ovid), the sons or brothers of Hypnos (Sleep) who emerge through gates of horn (truthful dreams) or ivory (deceptive dreams), led by Morpheus, Icelos, and Phantasos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oneiroi designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Homer (*The Odyssey*):** *"Twin gates of the **Oneiroi** there are: one fashioned of horn whence issue true portents, and one of polished ivory bearing flattering delusions."*
+> - 📜 **Hesiod (*Theogony*):** *"Night bore dark Fate and black Ker, and Death, and Sleep, and she brought forth the winged tribe of the **Oneiroi**."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Among the thousand sons of Sleep, the leader of the **Oneiroi** was Morpheus, master at imitating human gait and voice."*

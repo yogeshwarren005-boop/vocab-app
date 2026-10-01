@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soundness of mind, mental poise, or wisdom combined with intellectual temperance (from Greek sophos wise + phren mind).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical ethics and humanistic psychology, the harmonious integration of intellect and emotion producing stable mental equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophrenia designates a term designating an entity, condition, or phenomenon derived from greek phren."*
+> - 📜 **Plato (*Charmides*):** *"The philosopher sought to discover whether true **sophrenia** consists in knowing one's own limits and exercising mental restraint."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"The ideal Hellenic citizen balanced athletic vigor against that inward **sophrenia** that preserves civic order."*
+> - 📜 **Robert Bridges (*The Testament of Beauty*):** *"Above the storm of sensual impulse rises that quiet **sophrenia**, wherein reason and feeling dwell in peace."*

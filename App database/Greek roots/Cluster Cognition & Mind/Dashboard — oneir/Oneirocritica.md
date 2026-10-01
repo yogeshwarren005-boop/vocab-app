@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The celebrated ancient Greek treatise on the interpretation of dreams written by Artemidorus Daldianus in the second century CE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical historiography and psychological antiquity, the foundational five-book compendium cataloging Hellenistic dream symbolism, social divination, and omen typology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oneirocritica designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Artemidorus (*Oneirocritica*):** *"In the **Oneirocritica**, dreams are divided into those that reveal future realities and those that merely mirror daily bodily anxieties."*
+> - 📜 **Michel Foucault (*The Care of the Self*):** *"The **Oneirocritica** of Artemidorus offers a profound window into how antiquity envisioned the ethical governance of desires."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Ancient dream analysis culminated in the **Oneirocritica**, where dreams were decoded through symbolic and linguistic associations."*

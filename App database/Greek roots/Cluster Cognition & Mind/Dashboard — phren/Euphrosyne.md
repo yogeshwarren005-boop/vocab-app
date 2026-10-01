@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three sister goddesses (known as the three Graces) who are the givers of charm and beauty in Greek mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three sister goddesses (known as the three Graces) who are the givers of charm and beauty in Greek mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, one of the three Graces (Charites), the personification of joy, cheerfulness, and lighthearted merriment (from eu- well + phren mind).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and astronomy, the goddess who gladdens the heart and mind; also a large carbonaceous main-belt asteroid discovered in 1854.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Euphrosyne designates one of the three sister goddesses (known as the three graces) who are the givers of charm and beauty in greek mythology."*
+> - 📜 **John Milton (*L'Allegro*):** *"Heart-easing Mirth, whom lovely Venus bore / To ivy-crowned Bacchus, or whether more / Sing of **Euphrosyne** by Zephyr begot."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"These three on Men all gracious gifts bestow: / Aglaia, Thalia, and fair **Euphrosyne**, / Handmaids of Venus radiant and free."*
+> - 📜 **Pindar (*Olympian Odes*):** *"O queenly Aglaia and song-loving **Euphrosyne**, daughters of Zeus, give ear unto our prayer."*

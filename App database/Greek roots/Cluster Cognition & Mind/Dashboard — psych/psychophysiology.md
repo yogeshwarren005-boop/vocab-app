@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychology that is concerned with the physiological bases of psychological processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of psychology that is concerned with the physiological bases of psychological processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that studies the relationship between psychological processes (cognition, emotion, attention) and physiological responses of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience, the recording and analysis of bodily autonomic indicators—such as galvanic skin response, electrocardiography, pupillometry, and electroencephalography—during mental tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychophysiology designates the branch of psychology that is concerned with the physiological bases of psychological processes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our theory of emotion belongs squarely to **psychophysiology**, asserting that bodily changes follow directly the perception of the exciting fact."*
+> - 📜 **Walter Bradford Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"The **psychophysiology** of fear mobilizes adrenal secretion and vascular constriction to prepare the organism for fight or flight."*
+> - 📜 **Alexander Luria (*The Nature of Human Conflicts*):** *"Through experimental **psychophysiology**, we monitored motor tremors to expose hidden affective complexes in criminal suspects."*

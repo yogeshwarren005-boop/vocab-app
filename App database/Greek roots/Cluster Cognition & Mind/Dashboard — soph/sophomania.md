@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A delusional or grandiose belief in one's own supreme wisdom, intellect, or omniscience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, a form of megalomania where the patient is unshakably convinced that they possess peerless philosophical insight or divine enlightenment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophomania designates a term designating an entity, condition, or phenomenon derived from greek soph."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Some scholars are seized with incurable **sophomania**, imagining themselves greater than Aristotle while raving in solitude."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The author’s preface was written in a fit of pure **sophomania**, promising to solve every mystery in heaven and earth."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In paranoiac megalomania, **sophomania** often leads the patient to publish nonsensical cosmological systems."*

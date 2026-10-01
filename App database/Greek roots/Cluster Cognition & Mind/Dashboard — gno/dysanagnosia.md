@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gno.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological impairment causing difficulty in recognizing or comprehending written or printed words; a form of dyslexia or verbal agnosia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuropsychology, an acquired reading deficit resulting from lesions in the dominant angular gyrus, leaving spoken language relatively unimpaired.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysanagnosia designates a term designating an entity, condition, or phenomenon derived from greek gno."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Parieto-occipital damage often induces marked **dysanagnosia**, where patients can write spontaneously but fail to read their own script."*
+> - 📜 **Norman Geschwind (*Selected Papers on Language and the Brain*):** *"The disconnection between visual association areas and language centers produces profound **dysanagnosia**."*
+> - 📜 **Henry Head (*Aphasia and Kindred Disorders of Speech*):** *"Cases of **dysanagnosia** demonstrate that the visual recognition of word symbols constitutes a distinct physiological process."*

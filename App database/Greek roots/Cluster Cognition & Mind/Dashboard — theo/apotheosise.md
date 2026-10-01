@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deify or glorify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deify or glorify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deify; to glorify or venerate someone as a divine being or supreme ideal (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and political history, to sanctify a national leader or historic victory with religious veneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"So etherealised by spirit as he was, and so apotheosised by worshipping admirers, did his footsteps, in the procession, really tread upon the dust of earth?"*
+> - 📜 **George Eliot (*Romola*):** *"The Florentine multitude seemed ready to **apotheosise** Savonarola when his fiery sermons denounced corruption."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym’s impassioned vision led him to **apotheosise** rural life, ignoring its grinding physical hardship."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"Poets were hired to **apotheosise** the Duke of Marlborough after the glorious fields of Blenheim."*

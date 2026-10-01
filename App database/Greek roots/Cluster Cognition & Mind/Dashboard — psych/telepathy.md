@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication from one mind to another by extrasensory means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communication from one mind to another by extrasensory means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct communication of thoughts, feelings, or mental states from one person to another without using speech, writing, or physical senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychical research (term coined by Frederic W. H. Myers in 1882), anomalous extrasensory mental transference investigated through card-guessing and distance experiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Conceal it as he might try, a mysterious telepathy was between them...."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whatever doubts science may entertain as to the possibility of action at a distance, magic has none; faith in telepathy is one of its first principles."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I will now give some instances of this magical telepathy both in its positive and in its negative aspect."*
+> - 📜 **Frederic W. H. Myers (*Proceedings of the Society for Psychical Research*):** *"I have proposed the word **telepathy** to designate the communication of impressions of any kind from one mind to another, independently of the recognized channels of sense."*
+> - 📜 **Sigmund Freud (*Dreams and Occultism*):** *"If **telepathy** be a real process, it may well represent the archaic, original means of communication between individuals."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"Evidence for spontaneous **telepathy** during moments of mortal crisis is backed by hundreds of authenticated affidavits."*

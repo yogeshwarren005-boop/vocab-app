@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in theosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in theosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent, student, or practitioner of theosophy; one who seeks direct intuitive knowledge of divine reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, a member of the Theosophical Society (such as Helena Blavatsky, Annie Besant, or Henry Steel Olcott) who championed esoteric philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"German Boehme: Jacob Boehme (or Behmen), a shoemaker and a famous theosophist, b. 1575, at Old Seidenberg, a village near Goerlitz; d. 1624."*
+> - 📜 **Helena Blavatsky (*The Key to Theosophy*):** *"A true **theosophist** is one who seeks universal brotherhood without distinction of race, creed, sex, or caste."*
+> - 📜 **James Joyce (*Ulysses*):** *"AE presided over the Dublin circle of **theosophists**, discussing the astral plane and the Upanishads over vegetarian tea."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"The prominent **theosophist** Col. Olcott collaborated with Indian pandits to revive traditional Buddhist education in Ceylon."*

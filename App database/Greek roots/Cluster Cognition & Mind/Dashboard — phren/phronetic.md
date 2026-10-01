@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by practical wisdom (phronesis); guided by prudent moral judgment in human action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary social science (Bent Flyvbjerg's phronetic social science), an approach focusing on contextual values, power dynamics, and practical social praxis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phronetic designates adjective*) pertaining to, derived from, or characteristic of mind."*
+> - 📜 **Bent Flyvbjerg (*Making Social Science Matter*):** *"A **phronetic** social science does not seek universal natural laws, but clarifies practical values and power in real-world contexts."*
+> - 📜 **Richard J. Bernstein (*Beyond Objectivism and Relativism*):** *"The moral agent exercises **phronetic** insight, applying broad ethical principles to concrete historical situations."*
+> - 📜 **Martha Nussbaum (*The Fragility of Goodness*):** *"Deliberation in Greek tragedy is intensely **phronetic**, wrestling with irreducible, conflicting goods."*

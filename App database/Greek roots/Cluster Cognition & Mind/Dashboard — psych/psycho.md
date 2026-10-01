@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychopath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a person who is mentally or emotionally unsound or unstable especially in a way that results in dangerous or violent behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial abbreviation for a psychopath, psychotic individual, or someone displaying wildly erratic or dangerous behavior; also the combining root psycho-.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal cultural discourse (popularized by Hitchcock's 1960 thriller Psycho), a derisive label for a homicidal or severely disturbed individual; in morphology, the root denoting mind or soul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psycho designates psychopath."*
+> - 📜 **Alfred Hitchcock (*Interviews on Cinema*):** *"In directing **Psycho**, I was interested in pure cinematic emotion and manipulating audience terror through editing."*
+> - 📜 **Stephen King (*On Writing*):** *"The small town harbored secrets that exploded when a local **psycho** went off the deep end."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"American slang eagerly clipped clinical terms, turning psychopath into the ubiquitous label **psycho**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From a psychic point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From a psychic point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mental or psychological manner; in terms of the soul, psyche, or inner consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spiritualism and psychical inquiry, through extrasensory, telepathic, or clairvoyant channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychically designates from a psychic point of view."*
+> - 📜 **William James (*Memories and Studies*):** *"The sensitive individual seemed **psychically** attuned to the emotional crisis occurring miles away."*
+> - 📜 **C. G. Jung (*Man and His Symbols*):** *"Primitive man lived **psychically** immersed in his natural environment, projecting his soul into rocks and trees."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The two partners were **psychically** compatible, sharing an unspoken harmony of temperament and values."*

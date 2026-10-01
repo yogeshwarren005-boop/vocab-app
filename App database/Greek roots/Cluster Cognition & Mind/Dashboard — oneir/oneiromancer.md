@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who divines through the interpretation of dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who divines through the interpretation of dreams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diviner or fortune-teller who predicts the future through the interpretation of dreams; an oneirocritic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mythological and historical narratives, a seer consulted by kings, generals, and pilgrims to reveal the hidden will of the gods through dream omens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneiromancer designates someone who divines through the interpretation of dreams."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The superstitious emperor summoned an Egyptian **oneiromancer** to interpret his nocturnal vision of a falling star."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The Arab **oneiromancer** bowed low, professing to read the destiny of empires in the fleeting images of sleep."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Frightened souls run to the astrologer and the **oneiromancer**, seeking peace from phantom omens."*

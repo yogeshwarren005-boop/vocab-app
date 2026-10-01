@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identifying the nature or cause of some phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine or distinguish the nature of a problem or an illness through a diagnostic analysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or ongoing process of identifying and evaluating the nature of an illness, mechanical fault, or systemic defect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical practice, the methodical synthesis of patient history, laboratory findings, and physical examination into an accurate diagnostic judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The one unquestioned service of the minimum wage law is that of diagnosing the evil of low wages rather than in remedying it."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Again and again he runs through the gamut of his own painful emotions and experiences, diagnosing and dissecting each one, and always with the same gloomy result."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Different opinions were given by them, as to the nature of the trouble, some diagnosing it as an abnormal growth, etc."*
+> - 📜 **William Osler (*Aequanimitas*):** *"In **diagnosing** obscure fevers, the physician must cultivate patience and keen observation rather than hasty guesswork."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Complex cases often lead teams astray, making structured protocols essential when **diagnosing** acute distress."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The art of **diagnosing** human infirmity requires both scientific precision and compassionate insight."*

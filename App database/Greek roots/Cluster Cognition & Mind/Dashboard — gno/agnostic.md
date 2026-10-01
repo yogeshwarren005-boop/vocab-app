@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds the view that any ultimate reality (such as a supreme being) is unknown and probably unknowable; broadly : one who is not committed to believing in either the existence or the nonexistence of God or any gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is unwilling to commit to an opinion about something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that nothing is known or can be known of the existence or nature of God, the ultimate reality, or anything beyond material phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and computing, refusing to commit to an unproven dogma; in software architecture, describing components designed to operate independently of specific platforms or protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnostic designates a person who holds the view that any ultimate reality (such as a supreme being) is unknown and probably unknowable; broadly : one who is not committed to believing in either the existence or the nonexistence of god or any gods."*
+> - 📜 **Thomas Henry Huxley (*Agnosticism*):** *"I invented the word **agnostic** to denote someone who confesses that ultimate truth lies beyond the reach of human intellect."*
+> - 📜 **Bertrand Russell (*What Is an Agnostic?*):** *"An **agnostic** thinks it impossible to know the truth in matters such as God and the future life with which Christianity concerns itself."*
+> - 📜 **Clarence Darrow (*Why I Am an Agnostic*):** *"I am an **agnostic** because I do not pretend to know what many ignorant men claim to know with absolute certainty."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by psychopathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychopath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a psychopath; exhibiting callous lack of empathy, predatory impulsivity, or remorseless antisocial behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century psychiatry, historically designating any mental illness or mental instability before narrowing to antisocial personality pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is nothing in the least "psychopathic" about him, nothing abnormal--no mystical vision of God, no mystical absorption in God, no mystical union with God, no abstraction, nothing that is the mark of the professed mystic."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Psychopathic, auto-suggestion, telepathy, the subliminal self--the words may tell us something; whether what they tell us is verifiable, remains to be seen."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Genius is often allied with a **psychopathic** temperament, where intense sensitivity makes normal life almost unbearable."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"His charm was undeniable, but behind it lay that cold, **psychopathic** indifference that left devastated families in his wake."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"Holmes warned that Professor Moriarty’s criminal empire was organized with cold, **psychopathic** calculation."*

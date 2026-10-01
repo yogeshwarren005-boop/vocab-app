@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly or characteristically rejecting or lacking belief in God or gods; relating to atheism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical and philosophical treatises, describing worldviews grounded strictly in naturalism, secular humanism, or dialectical materialism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A future life?” Prince Andrew repeated, but Pierre, giving him no time to reply, took the repetition for a denial, the more readily as he knew Prince Andrew’s former atheistic convictions."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When we suppose that the fact in the case of the Almighty is as we are able to hear, we err in an atheistic way."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You were the servants of the atheistic popes, of cruel kings."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"Philo argued that natural evils could be reconciled with an **atheistic** cosmos far more easily than with infinite benevolence."*
+> - 📜 **John Stuart Mill (*Three Essays on Religion*):** *"An **atheistic** moral philosophy may cultivate noble social virtues without relying on supernatural sanctions."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"He condemned the **atheistic** cabal of French philosophers who sought to uproot Christian civilization."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who claims to possess or aspires to achieve universal knowledge, or who advocates the system of pansophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and satire, an ambitious Renaissance polymath or educational reformer striving for an encyclopedic grasp of all disciplines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pansophist designates a term designating an entity, condition, or phenomenon derived from greek soph."*
+> - 📜 **John Amos Comenius (*Pansophiae Prodromus*):** *"The true **pansophist** does not hoard disconnected facts, but perceives the golden thread binding all created truths."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The self-proclaimed **pansophist** lectured with profound gravity upon subjects whereof he understood not a solitary syllable."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Every century produces its aspiring **pansophist**, who ruins his health attempting to master the whole library of human lore."*

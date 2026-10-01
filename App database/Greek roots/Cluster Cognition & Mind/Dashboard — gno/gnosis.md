@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Esoteric knowledge of spiritual truth held by the ancient Gnostics to be essential to salvation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Esoteric knowledge of spiritual truth held by the ancient Gnostics to be essential to salvation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Esoteric, experiential, or intuitive knowledge of spiritual truths and divine mysteries, especially as emphasized by ancient Gnostics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and mysticism, transformative direct apprehension of the divine, contrasted with intellectual belief or scholastic dogma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Buddhism, whose awakening is placed under the shelter of the bo or bodhi-tree (_ficus religiosa_), the Buddhist tree of knowledge, bases its existence on gnosis."*
+> - 📜 **Elaine Pagels (*The Gnostic Gospels*):** *"To know oneself at the deepest level is to attain **gnosis**, discovering simultaneously the secret origin of the divine soul."*
+> - 📜 **C. G. Jung (*Mysterium Coniunctionis*):** *"The ancient seekers after **gnosis** projected their unconscious psychological individuation onto cosmic mythologies."*
+> - 📜 **Aldous Huxley (*The Perennial Philosophy*):** *"True **gnosis** is not speculative theory, but immediate, unitive awareness of the eternal ground of being."*

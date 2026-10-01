@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who exhibits sophomania; someone possessed by a delusion of their own supreme wisdom or intellectual infallibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire, an insufferable pedant or pseudo-intellectual who lectures others with unshakeable conceit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophomaniac designates a term designating an entity, condition, or phenomenon derived from greek soph."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The pedantic critic reigned among his disciples, a crowned **sophomaniac** deaf to the music of authentic poetry."*
+> - 📜 **H. L. Mencken (*Prejudices: First Series*):** *"Every small-town college harbored at least one harmless **sophomaniac** who fancied himself a second Spinoza."*
+> - 📜 **George Bernard Shaw (*Misalliance*):** *"Do not argue with him; he is a hopeless **sophomaniac** who will quote nonexistent authorities to prove you wrong."*

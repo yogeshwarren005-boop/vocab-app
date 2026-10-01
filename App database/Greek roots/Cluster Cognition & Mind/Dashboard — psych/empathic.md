@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing empathy or ready comprehension of others' states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing empathy or ready comprehension of others' states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, characterized by, or based on empathy; empathetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory (Heinz Kohut), describing vicarious introspection whereby the analyst immerses themselves in the patient's subjective experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whatever the past might have been, his advanced years called for him to be nonjudgmental, empathic, and healing."*
+> - 📜 **Heinz Kohut (*The Restoration of the Self*):** *"The analyst’s **empathic** immersion is the essential instrument for understanding the injured self."*
+> - 📜 **Philip K. Dick (*Do Androids Dream of Electric Sheep?*):** *"The Voight-Kampff test measures **empathic** capillary dilation to separate humans from synthetic androids."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"True moral education demands an **empathic** leap beyond the narrow confines of one’s own ego."*

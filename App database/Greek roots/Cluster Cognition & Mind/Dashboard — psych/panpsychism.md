@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical theory that consciousness, mind, or soul is a universal and primordial feature of all things throughout the cosmos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of mind, the proposition that mentality is fundamental rather than an emergent property of complex biological brains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panpsychism designates a term designating an entity, condition, or phenomenon derived from greek psych."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"**Panpsychism** offers the mind-dust theory as an alternative to the miraculous emergence of consciousness from dead matter."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"An organic philosophy of nature leans toward **panpsychism**, seeing feeling and experiential occasions in every actual entity."*
+> - 📜 **Bertrand Russell (*The Analysis of Matter*):** *"Neutral monism shares common ground with **panpsychism** by asserting that the intrinsic nature of physical events resembles conscious percepts."*

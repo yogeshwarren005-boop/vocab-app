@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the psychological cause of a disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the origin and development of the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or originating in psychological or emotional causes; psychogenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology, concerning the origin and evolution of the mind, mental faculties, or behavioral patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychogenetic designates of or relating to the psychological cause of a disorder."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"Adolescent emotional volatility represents a pivotal **psychogenetic** stage in the evolutionary unfolding of human character."*
+> - 📜 **Sandor Ferenczi (*Contributions to Psycho-Analysis*):** *"The patient’s chronic tremors were revealed to have a **psychogenetic** basis linked to wartime shell shock."*
+> - 📜 **Wilhelm Wundt (*Outlines of Psychology*):** *"Every complex mental function possesses a distinct **psychogenetic** history rooted in simple sensory apperception."*

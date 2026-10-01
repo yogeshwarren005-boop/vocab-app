@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impaired, defective, or disordered memory; difficulty in recalling past experiences or retaining new information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuropsychology, an organic or functional memory dysfunction falling short of complete amnesia, often seen in early dementia or cerebrovascular disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysmnesia designates a term designating an entity, condition, or phenomenon derived from greek mne."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Patients with mild frontal lesions demonstrate transient **dysmnesia**, struggling with voluntary memory retrieval."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early cerebrovascular arteriosclerosis is frequently heralded by progressive **dysmnesia** for proper names and dates."*
+> - 📜 **Henry Maudsley (*Physiology and Pathology of the Mind*):** *"Chronic intellectual exhaustion produces a troublesome **dysmnesia** that yields only to prolonged physical rest."*

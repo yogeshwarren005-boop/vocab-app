@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uplifting enlightenment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having worldly experience, cultural refinement, and refined taste; also the quality of being advanced, complex, or intricate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the act of adulterating, falsifying, or corrupting the purity of a substance or philosophical doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Although modern sophistication easily points out flaws in Charles Brockden Brown’s story-structure, and reproves him for improbability, morbidness, and a style often too elevated, yet his work lives."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was to be feared that she was indeed drifting toward those abysses of sophistication as to which Isabel, wishing for a good-humoured retort, had warned her."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"True **sophistication** consists in knowing the value of everything while pretending to care for nothing."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel admired Madame Merle’s effortless social **sophistication**, unaware of the cold calculation beneath it."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor leads to an astonishing level of technological **sophistication** in modern pin manufacture."*

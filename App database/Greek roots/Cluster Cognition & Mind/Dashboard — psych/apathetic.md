@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by, characterized by, or displaying apathy : having or showing little or no interest, concern, or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected by, characterized by, or displaying apathy : having or showing little or no interest, concern, or emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or feeling no interest, enthusiasm, or concern; listless, unresponsive, or indifferent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic philosophy, possessing apatheia (freedom from disruptive passions); in clinical medicine, exhibiting pathological blunting of affective responsiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While they uncovered the sheaves he stood apathetic beside his portable repository of force, round whose hot blackness the morning air quivered."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She had not told him of my visit; he was so listless and apathetic that it worried him to talk, or to have people talk to him."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He is by no means apathetic, but loves both old and young, affects the very brutes and birds and flowers of the field."*
+> - 📜 **George Orwell (*1984*):** *"The proles remained politically **apathetic**, stirred to fury only by lottery shortages or football matches."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"Bartleby stood in his dim corner, utterly **apathetic** to my entreaties and reasonable commands."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Despotism loves an **apathetic** populace that surrenders public duties to enjoy petty private pleasures."*

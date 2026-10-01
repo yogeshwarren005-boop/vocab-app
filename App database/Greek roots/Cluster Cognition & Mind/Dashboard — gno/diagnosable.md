@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being diagnosed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being diagnosed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being identified, classified, or distinguished through clinical examination, symptoms, or diagnostic testing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and psychiatric nosology, meeting established clinical criteria sufficient to warrant an official categorical identification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diagnosable designates capable of being diagnosed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The malady presents clearly marked symptoms that render it readily **diagnosable** in its early stages."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Beneath the bizarre physical complaints lay a **diagnosable** neurosis rooted in repressed trauma."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Even with modern magnetic imaging, certain atypical abdominal conditions remain barely **diagnosable** until surgical exploration."*

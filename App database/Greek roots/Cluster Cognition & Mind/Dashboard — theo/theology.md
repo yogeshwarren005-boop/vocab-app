@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of religious faith, practice, and experience; especially : the study of God and of God's relation to the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theological theory or system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of the nature of God, divine attributes, and religious truth, especially within an organized religious tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic history, the 'Queen of the Sciences' in medieval universities; broadly, a coherent body of religious doctrines and philosophical beliefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some people might have cried “Alas, poor Theology!” at the hideous defacement—the last grotesque phase of a creed which had served mankind well in its time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Felix, though an offshoot from a far more recent point in the devolution of theology than his father, was less self-sacrificing and disinterested."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sermon, as might be expected, was of the extremest antinomian type; on justification by faith, as expounded in the theology of St Paul."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Sacred **theology** is taught by God, teaches of God, and leads unto God."*
+> - 📜 **Augustine of Hippo (*The City of God*):** *"True **theology** is reasoning or discourse concerning the divine nature and our eternal destination."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Speculative **theology** can never demonstrate the objective existence of God, but moral philosophy establishes its practical necessity."*

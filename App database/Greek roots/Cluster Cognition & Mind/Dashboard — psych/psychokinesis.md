@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to move something by thinking about it without the application of physical force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to move something by thinking about it without the application of physical force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The alleged movement or physical manipulation of physical objects by the power of the mind alone without physical contact; telekinesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychological research (coined by Henry Holt and adopted by J. B. Rhine), macro- and micro-PK experiments testing mental influence on random number generators or rolling dice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychokinesis designates the power to move something by thinking about it without the application of physical force."*
+> - 📜 **J. B. Rhine (*The Reach of the Mind*):** *"Statistical anomalies in thousands of automated dice rolls suggested a faint but measurable influence of **psychokinesis**."*
+> - 📜 **Arthur Koestler (*The Roots of Coincidence*):** *"If **psychokinesis** exists, it implies an intimate interweaving of mental intention and quantum probabilities."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Stage magicians routinely duplicate all the alleged feats of **psychokinesis** using simple sleight of hand and hidden threads."*

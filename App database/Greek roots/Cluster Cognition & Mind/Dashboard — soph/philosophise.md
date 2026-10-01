@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason philosophically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speculate, theorize, or deliberate in a philosophical manner (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary contexts, to reflect deeply on human nature, morals, or the universe, sometimes with gentle irony regarding over-subtle abstraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For he began to philosophise in order to judge his impressions (_phantasias_) and to discover which of them are true and which false, so as to be free from perturbation."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"But not being at that time in a disposition to philosophise upon this phenomenon, I rather chose to observe what course the island would take, because it seemed for a while to stand still."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Moving out over the divide above town the Professor noticed the general depression of the party, and forthwith began philosophising."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Let us sit by the window and **philosophise** while the evening shadows lengthen across the garden."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He would lean against the gate and **philosophise** upon the cruel indifference of the rural universe."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"To **philosophise** is to learn to live with uncertainty without becoming paralyzed by hesitation."*

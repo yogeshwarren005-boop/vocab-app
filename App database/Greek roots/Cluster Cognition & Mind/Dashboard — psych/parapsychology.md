@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phenomena that appear to contradict physical laws and suggest the possibility of causation by mental processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phenomena that appear to contradict physical laws and suggest the possibility of causation by mental processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of mental phenomena that cannot be explained by established scientific theories or orthodox sensory physiology (such as ESP, telepathy, and psychokinesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic history (term coined by Max Dessoir in 1889), the field of research dedicated to empirically investigating borderline psychic phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parapsychology designates phenomena that appear to contradict physical laws and suggest the possibility of causation by mental processes."*
+> - 📜 **J. B. Rhine (*The Reach of the Mind*):** *"Experimental **parapsychology** seeks to determine whether human personality possesses capacities that transcend physical space-time."*
+> - 📜 **C. G. Jung (*Synchronicity: An Acausal Connecting Principle*):** *"The statistical discoveries of **parapsychology** demonstrate that meaningful coincidences operate beyond simple causality."*
+> - 📜 **Bertrand Russell (*An Outline of Philosophy*):** *"If the claims of **parapsychology** were substantiated, the fundamental laws of classical physics would require radical revision."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from neurosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with emotional disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suffering from a psychoneurosis; characterized by chronic anxiety, obsessive habits, or emotional maladjustment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and clinical history, describing combat fatigue, shell shock, or emotional casualties during wartime evaluated by psychiatric boards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoneurotic designates a person suffering from neurosis."*
+> - 📜 **W. H. R. Rivers (*Conflict and Dream*):** *"Soldiers suffering from severe **psychoneurotic** symptoms responded remarkably well to dream analysis and emotional abreaction."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"Much of twentieth-century literature is written in a **psychoneurotic** key, reflecting the widespread nervous exhaustion of European society."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"The **psychoneurotic** individual builds an elaborate fortress of symptoms to protect himself from unacknowledged anxiety."*

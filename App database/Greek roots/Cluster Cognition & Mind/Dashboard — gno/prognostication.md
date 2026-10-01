@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign of something about to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement made about the future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of prophesying, forecasting, or predicting future events; a prediction or forecast based on observed signs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern print culture, an astrological almanac or formal treatise foretelling weather, harvests, and political fortunes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, if an oily palm be not a fruitful prognostication, I cannot scratch mine ear."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"VIII, p. 354.] [Footnote 271: Cf. his vulgar prognostication of Germany's future, Kaput XXVI of the "Wintermaerchen," Werke, Vol."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"In vain were the well-meant condescensions of Sir Thomas, and all the officious prognostications of Mrs."*
+> - 📜 **Francis Bacon (*The Essays: Of Prophecies*):** *"Men mark when such an astrological **prognostication** hits, but ignore the hundreds of times it misses."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"His gloomy **prognostication** of shipwreck proved all too accurate as the gale battered the northern coast."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"My somber **prognostication** concerning the French assemblies was drawn from the immutable laws of human nature."*

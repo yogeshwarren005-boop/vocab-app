@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertain of all claims to knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertain of all claims to knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of agnosticism; skeptical regarding dogmatic claims about transcendent or unprovable matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and theological criticism, describing an attitude of reserved suspended judgment toward metaphysical doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnostical designates uncertain of all claims to knowledge."*
+> - 📜 **Leslie Stephen (*An Agnostic's Apology*):** *"Our **agnostical** stance does not spring from indifference, but from reverence for verifiable truth over baseless dogma."*
+> - 📜 **William James (*The Will to Believe*):** *"The purely **agnostical** mind insists that where evidence is insufficient, belief must remain forever suspended."*
+> - 📜 **Arthur Balfour (*The Foundations of Belief*):** *"He approached theological disputes with an **agnostical** detachment that exasperated dogmatists on both sides."*

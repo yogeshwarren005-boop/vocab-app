@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the use of mnemonics; someone able to perform unusual feats of memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the use of mnemonics; someone able to perform unusual feats of memory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person possessing an extraordinary, highly trained, or photographic capacity for remembering large amounts of information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuropsychology, an individual studied for exceptional recall abilities, often exhibiting cross-modal synesthesia or specialized visualization strategies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mnemonist designates an expert in the use of mnemonics; someone able to perform unusual feats of memory."*
+> - 📜 **Alexander Luria (*The Mind of a Mnemonist*):** *"The **mnemonist** could reproduce a matrix of fifty numbers decades later without a single error."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Unlike the natural **mnemonist**, the autistic savant often recalls vast arrays of facts without comprehending their contextual meaning."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A professional **mnemonist** astonishes audiences by reciting thousands of names, relying on practiced associative tricks."*

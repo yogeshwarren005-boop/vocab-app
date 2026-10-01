@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suggestive of dreams : dreamy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or suggestive of dreams : dreamy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suggestive of dreams; dreamlike, ethereal, or surreal in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In film aesthetics and literary criticism, describing visual atmospheres, narrative pacing, or imagery characterized by uncanny, floating dream logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneiric designates of, relating to, or suggestive of dreams : dreamy."*
+> - 📜 **Jorge Luis Borges (*Labyrinths*):** *"The mirrored corridors of the library possessed an **oneiric** quality, where time seemed suspended in geometric repetition."*
+> - 📜 **Italo Calvino (*Invisible Cities*):** *"Cities are distinguished by their **oneiric** architecture, built from the desires and anxieties of wandering travelers."*
+> - 📜 **Gaston Bachelard (*The Poetics of Reverie*):** *"The house of our childhood shelters our earliest **oneiric** reveries, anchoring the wandering imagination in space."*

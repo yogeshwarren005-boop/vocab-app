@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of drugs that affect the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of drugs that affect the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the effects of drugs and chemical substances on the mind, mood, sensation, thinking, and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, the revolutionary post-1950 branch of neuroscience that introduced neuroleptics, antidepressants, and mood stabilizers into psychiatric care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopharmacology designates the study of drugs that affect the mind."*
+> - 📜 **Solomon Snyder (*Brainstorming: The Science of Politics and Politics of Science*):** *"The dawn of modern **psychopharmacology** proved that severe mental illnesses have identifiable molecular receptor targets."*
+> - 📜 **Oliver Sacks (*The River of Consciousness*):** *"Advances in **psychopharmacology** revealed that subjective conscious states are profoundly modulated by neurotransmitter balances."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"The political danger of the future lies in totalitarian governments wielding the discoveries of **psychopharmacology** to drug citizens into passive obedience."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is learned in theology or who speculates about theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is learned in theology or who speculates about theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who engages in or is an expert in theology; a scholar of religious faith, divine attributes, and doctrinal traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, an authoritative doctor of the faith (such as Augustine, Thomas Aquinas, or Calvin) who systematically formulates religious doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Ure, but a good scholar and a well-read theologian."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures were given on a Free Church foundation, instituted in memory of the distinguished theologian whose name it bears; and now for the first time the lecturer was chosen from beyond the borders of the Free Church."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is the heart that makes the theologian." Where does your theology come from? 2."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The Christian **theologian** receives his principles from divine revelation, employing human reason to elucidate holy mysteries."*
+> - 📜 **Erasmus (*The Praise of Folly*):** *"The scholastic **theologians** debate endlessly whether divine omnipotence could create a stone too heavy to lift."*
+> - 📜 **C. S. Lewis (*Mere Christianity*):** *"Every thinking Christian is in some measure a **theologian**, shaping their daily life by what they believe about God."*

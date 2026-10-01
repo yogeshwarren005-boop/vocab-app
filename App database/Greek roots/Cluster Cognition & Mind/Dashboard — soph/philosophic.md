@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philosophy or philosophers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or appropriate to philosophy or philosophers; calm, stoic, and rational in the face of misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and literature, denoting a calm reflective temper that views transient human troubles within a vast cosmic perspective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A _snell_ remark of his brother William suggesting some new and comic association with a philosophic term dropped in the course of the discussion, would bring him back with a roar of laughter to the actual world and to more sublunary themes."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen myself that one man contemplated by Pascal’s philosophic eye."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Well,” continued her philosophic mother, “I am glad I did not know of your journey at the time; but now it is all over, perhaps there is no great harm done."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Marcus Aurelius preserved a **philosophic** serenity upon the throne, meditating upon the vanity of earthly pomp."*
+> - 📜 **William Wordsworth (*Ode: Intimations of Immortality*):** *"In the soothing thoughts that spring / Out of human suffering; / In the faith that looks through death, / In years that bring the **philosophic** mind."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh contemplated the clothes of mankind with a profound and detached **philosophic** humor."*

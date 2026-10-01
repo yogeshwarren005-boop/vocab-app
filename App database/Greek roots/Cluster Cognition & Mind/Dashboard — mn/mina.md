@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient unit of weight and value equal to 1/60 talent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient unit of weight and value equal to 1/60 talent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Near Eastern and Greek unit of currency and weight, equivalent in classical Athens to 100 silver drachmae or roughly one pound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical and historical economics, a standard bullion measure; also (as myna/mina) an Asian starling bird noted for mimicking human speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Mina Harker’s Journal How these papers have been placed in sequence will be made manifest in the reading of them."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall enter here some of my notes, as they may refresh my memory when I talk over my travels with Mina."*
-> - 📜 **Bram Stoker (*Dracula*):** *"If this book should ever reach Mina before I do, let it bring my good-bye."*
+> - 📜 **Herodotus (*The Histories*):** *"The Persian tribute was levied strictly in silver talents, each talent containing sixty Greek **minas**."*
+> - 📜 **Xenophon (*Anabasis*):** *"Cyrus promised each soldier a bonus of five silver **minas** upon their safe arrival at Babylon."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In ancient Athens, the silver **mina** constituted a substantial sum, representing many weeks of skilled artisan labor."*

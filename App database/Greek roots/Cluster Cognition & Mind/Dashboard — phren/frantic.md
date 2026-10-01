@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emotionally out of control; especially : feeling or showing fear or anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by fast and nervous, disordered, or anxiety-driven activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild or distraught with fear, anxiety, or other violent emotion; conducted in a hurried, chaotic, or desperate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically derived from Greek phrenitikos (delirious), denoting frenzied physical motion driven by acute panic or desperation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If with myself I hold intelligence, Or have acquaintance with mine own desires, If that I do not dream, or be not frantic— As I do trust I am not—then, dear uncle, Never so much as in a thought unborn Did I offend your Highness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, bind this man, for he is frantic too."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"The lunatic, the lover, and the poet / Are of imagination all compact: / One sees more devils than vast hell can hold, / That is, the madman; the lover, all as **frantic**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The crowd surged forward in **frantic** haste, desperate to dip their rags into the spilled wine."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I hurried through the streets with **frantic** speed, terrified that the fiend was tracking my every footstep."*

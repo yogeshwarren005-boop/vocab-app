@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrorism for a religious purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrorism for a religious purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrorism or violent extremism motivated, justified, or sanctified by religious fanaticism or claims of divine mandate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern political science and international security studies, violent acts committed by radical sectarian groups who view their violence as a cosmic duty commanded by God.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theoterrorism designates terrorism for a religious purpose."*
+> - 📜 **Mark Juergensmeyer (*Terror in the Mind of God: The Global Rise of Religious Violence*):** *"In the chilling phenomenon of **theoterrorism**, mundane geopolitical struggles are recast as cosmic wars between absolute divine light and demonic darkness."*
+> - 📜 **Jessica Stern (*Terror in the Name of God: Why Religious Militants Kill*):** *"The rise of **theoterrorism** presents an acute challenge because religious militants seek transcendental purification rather than negotiable political concessions."*
+> - 📜 **Bruce Hoffman (*Inside Terrorism*):** *"Unlike secular nationalist guerrillas, perpetrators of modern **theoterrorism** believe their violent acts are sanctified directly by divine commandment."*

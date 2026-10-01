@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being a theocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being a theocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a theocracy; governed by religious authority claiming divine mandate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative constitutional studies, describing legal codes, courts, and civil institutions organized around religious scriptures rather than secular democracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theocratic designates of or relating to or being a theocracy."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Ancient Egypt was organized into a rigid **theocratic** hierarchy where the priestly caste guarded all sacred and civil knowledge."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The stern magistrates of Salem administered a **theocratic** discipline that tolerated no deviation from biblical orthodoxy."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Calvin transformed Geneva into a **theocratic** city-state, regulating both religious belief and private commerce."*

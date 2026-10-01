@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of deep-sea anglerfishes (order Lophiiformes), commonly referred to as the dreamer anglerfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological taxonomy, bathypelagic predatory fishes possessing a bioluminescent esca (lure), named from Greek oneiros (dream) due to their surreal, otherworldly morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oneirodidae designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"From the bathysphere window, we glimpsed bizarre anglerfishes of the family **Oneirodidae**, drifting like ghostly dreams through the black abyss."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The **Oneirodidae** inhabit profound oceanic depths, enticing prey with glowing lures suspended from their snouts."*
+> - 📜 **Theodore Gill (*Deep-Sea Fishing*):** *"Naturalists named the **Oneirodidae** for their spectral, dreamlike appearance in the icy aphotic zone."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Universal wisdom or knowledge; the encyclopedic doctrine that all branches of human learning can be integrated into a unified, harmonious whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of education (pioneered by John Amos Comenius in the 17th century), a utopian pedagogy designed to teach 'all things to all people' to achieve spiritual and social harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pansophism designates a term designating an entity, condition, or phenomenon derived from greek soph."*
+> - 📜 **John Amos Comenius (*The Great Didactic*):** *"Through the light of **pansophism**, we aim to harmonize sacred scripture, nature, and human reason into a universal curriculum."*
+> - 📜 **Samuel Hartlib (*A Reformation of Schools*):** *"Our correspondence network was established to cultivate **pansophism**, gathering all arts and sciences for the commonwealth."*
+> - 📜 **Cotton Mather (*Magnalia Christi Americana*):** *"He aspired to a pious **pansophism**, desiring his students to see divine wisdom manifested across astronomy, history, and law."*

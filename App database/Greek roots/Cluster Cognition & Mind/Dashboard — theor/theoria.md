@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek theor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek philosophy, the act of viewing, contemplation, or speculative reflection upon truth and cosmic reality (contrasted with praxis and poiesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and mystical traditions (especially Christian Neoplatonism and Eastern Orthodoxy), the direct spiritual vision or contemplation of God and divine energies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theoria designates a term designating an entity, condition, or phenomenon derived from greek theor."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The activity of God, which surpasses all others in blessedness, must be the contemplative activity of **theoria**."*
+> - 📜 **Hans-Georg Gadamer (*Truth and Method*):** *"**Theoria** is not a detached stance, but a genuine participation in the spectacle, where the spectator is completely absorbed in what is seen."*
+> - 📜 **Gregory Palamas (*The Triads*):** *"True **theoria** is not abstract syllogistic reasoning about the divine, but the luminous vision of uncreated divine light."*

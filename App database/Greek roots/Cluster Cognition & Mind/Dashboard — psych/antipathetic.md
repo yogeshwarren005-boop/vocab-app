@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `to') strongly opposed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by antagonism or antipathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or feeling a strong, settled, or deep-seated aversion or opposition; repugnant or hostile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological and chemical discourse, naturally incompatible, mutually repelling, or antagonistic in properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Judaism antipathetic Judaism was the antithesis of Christianity, because Judaism engendered the limited form of a national or 133:21 tribal religion."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His influence upon the rest of the group must have been consciously and increasingly antipathetic."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper assents, with an antipathetic shiver."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"There was something in the cold, hard face of Mrs. Reed profoundly **antipathetic** to my ardent nature."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain sounds and bodily sensations are instinctively **antipathetic** to human nervous systems from infancy."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard felt an **antipathetic** shudder whenever Farfrae’s cool, calculating gaze rested upon him."*

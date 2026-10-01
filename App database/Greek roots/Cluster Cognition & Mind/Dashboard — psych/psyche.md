@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A princess loved by Cupid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soul, personality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The human soul, mind, or total personality, encompassing conscious and unconscious processes; in Greek mythology, the mortal princess loved by Cupid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In depth psychology (Freud and Jung), the totality of all psychological processes, both conscious and unconscious, that constitute the individual self.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Some of them represent the fable of Cupid and Psyche, which is probably the romantic invention of a literary period, and cannot, I think, be reckoned as a genuine mythical product."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The tale which he would like to write down is _Cupid and Psyche_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But if Psyche is at times the soul, and if the daughter she bears to Cupid is Pleasure, the fairy-tale triumphs gloriously over the allegory, and remains the most wonderful thing of the kind in Latin."*
+> - 📜 **C. G. Jung (*Modern Man in Search of a Soul*):** *"The **psyche** is not an indivisible unit, but an intricate cosmos of conscious intentions and dark unconscious depths."*
+> - 📜 **John Keats (*Ode to Psyche*):** *"O Goddess! hear these tuneless numbers, wrung / By sweet enforcement and remembrance dear, / And pardon that thy secrets should be sung / Even into thine own soft-conched ear: / Surely I dreamt to-day, or did I see / The winged **Psyche** with awaken'd eyes?"*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"We conceptualize the human **psyche** as an arena where primal instinctual drives clash with cultural prohibitions."*

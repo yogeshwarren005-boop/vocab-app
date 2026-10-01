@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gods of a people; especially : the officially recognized gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temple dedicated to all the gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All the gods of a people or religion collectively; a magnificent temple dedicated to all the gods; a group of particularly respected, illustrious, or famous figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, the celebrated circular Roman temple built by Hadrian; in cultural history, a national mausoleum or hall of fame honoring heroes (e.g. the Panthéon in Paris).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for an onset, Titus, to advance Thy name and honourable family, Lavinia will I make my empress, Rome’s royal mistress, mistress of my heart, And in the sacred Pantheon her espouse."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He would not allow Jesus to be put into that pantheon, nor would he worship the gods himself, not even the "genius" of the Emperor, his guardian spirit."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such an enterprise would seem almost as hopeful as for Lavater to have scrutinized the wrinkles on the Rock of Gibraltar, or for Gall to have mounted a ladder and manipulated the Dome of the Pantheon."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Simple, erect, severe, austere, sublime— / Shrine of all saints and temple of all gods, / From Jove to Jesus—spared and blest by time; / Looking tranquility, while falls or nods / Arch, empire, each thing round thee, and man plods / His way through thorns to leap into a chasm; / Pride of Rome! / Relic of nobler days, and noblest arts! / Despoiled yet perfect, art and death's pride, / **Pantheon**! pride of Rome!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The magnificent portico of the Roman **Pantheon** still displays the proud inscription of Marcus Agrippa."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"France entombed her great men within the **Panthéon**, fulfilling the republic's debt to eternal genius."*

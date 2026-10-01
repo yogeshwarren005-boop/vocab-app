@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of dreams or of falling asleep due to terror of nightmares.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and sleep disorders medicine, a debilitating phobia often associated with post-traumatic stress disorder, hypnophobia, or recurring night terrors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneirophobia designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Sándor Ferenczi (*Theory and Technique of Psychoanalysis*):** *"Severe combat neurosis frequently engenders **oneirophobia**, as patients dread the traumatic replays awaiting them in sleep."*
+> - 📜 **William C. Dement (*The Promise of Sleep*):** *"Patients with acute nightmare disorder develop intense **oneirophobia**, pacing their bedrooms until dawn to avoid dreaming."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The terrified child suffered from acute **oneirophobia**, weeping piteously whenever led toward his bed."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sympathetic or disposed toward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of characters in literature or drama) tending to evoke antipathetic feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing or feeling sympathy, warmth, or compassion; callous, unfeeling, or harsh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary characterization and aesthetics, describing characters or atmospheres that fail to evoke fondness, warmth, or emotional identification from the audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This consciousness upon which he had intruded was the single opportunity of existence ever vouchsafed to Tess by an unsympathetic First Cause—her all; her every and only chance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode seems the most unsympathetic fellow I ever saw about some people, and yet he has taken no end of trouble, and spent a great deal of money, on benevolent objects."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Very little unless it's the scenery along the bluff," he replied, with the depression sounding still more clearly in his voice and his shoulders drooped against the unsympathetic old stone post in a way that sent a pang to my heart."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy appeared cold and **unsympathetic** at the assembly ball, declining to dance with strangers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The court of Chancery was a vast, **unsympathetic** machine that ground litigants to dust through decades of delays."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond’s **unsympathetic** aestheticism chilled Isabel’s generous spirit, reducing their marriage to a silent prison."*

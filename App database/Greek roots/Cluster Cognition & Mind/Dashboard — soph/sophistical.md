@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausible but misleading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible but misleading.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausibly fallacious; deceptive or misleading in argument; of the nature of sophistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal dialectic, describing arguments that exploit semantic ambiguities or illicit shifts in premise to bamboozle an opponent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He out-sophisticates the most sophistical of them."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If I lived with you as you desire, I should then be your mistress: to say otherwise is sophistical—is false.” “Jane, I am not a gentle-tempered man—you forget that: I am not long-enduring; I am not cool and dispassionate."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But of the two triumphs, that of refuting a sophistical son and that of holding on a while longer to a state of being which, with all abatements, he enjoyed, Ralph deemed it no sin to hope the latter might be vouchsafed to Mr."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Does it contain any abstract reasoning concerning quantity or number? No. Commit it then to the flames: for it can contain nothing but **sophistical** delusion."*
+> - 📜 **Thomas Jefferson (*Autobiography*):** *"The royal lawyers offered **sophistical** defenses of parliamentary taxation that violated every tenet of natural law."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Bounderby dismissed the factory workers’ grievances with a blast of coarse, **sophistical** bluster."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production or use of theories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production or use of theories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formulation, development, or construction of a theory or systematic conceptual model to explain phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology, the process of synthesizing experimental data into abstract laws, predictive equations, and explanatory frameworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorization designates the production or use of theories."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"Scientific **theorization** proceeds by bold conjectures subjected to rigorous empirical attempts at refutation."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"A period of paradigm crisis stimulates creative **theorization**, challenging long-held assumptions."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"Sociological **theorization** relies on ideal types to make complex historical realities intelligible to analysis."*

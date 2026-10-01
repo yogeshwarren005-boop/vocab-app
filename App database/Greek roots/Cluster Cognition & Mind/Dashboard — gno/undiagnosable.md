@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possible to diagnose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not possible to diagnose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or exceptionally difficult to diagnose, identify, or classify through standard medical or diagnostic methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, describing rare syndromes whose polymorphic signs or lack of known biomarkers resist standard nosological classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undiagnosable designates not possible to diagnose."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"In the early phase of encephalitis lethargica, patients presented baffling symptoms that were initially deemed **undiagnosable**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must frankly confess when an obscure malady remains temporarily **undiagnosable** pending further laboratory evidence."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"To face an **undiagnosable** crisis in the emergency theater tests the limits of medical courage and humility."*

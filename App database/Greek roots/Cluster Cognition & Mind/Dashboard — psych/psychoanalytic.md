@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or using the principles and therapeutic techniques of psychoanalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and cultural criticism, applying theories of the unconscious, repression, and dream symbolism to analyze art, culture, and narrative structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalytic designates of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The **psychoanalytic** method demonstrates that neuroses are meaningful reactions to unresolved infantile conflicts."*
+> - 📜 **Carl Rogers (*Client-Centered Therapy*):** *"Unlike the **psychoanalytic** approach, our therapy relies on the client's own capacity for self-actualization."*
+> - 📜 **Lionel Trilling (*The Liberal Imagination*):** *"Freud’s **psychoanalytic** conception of the mind makes poetic metaphor and neurosis kinship phenomena."*

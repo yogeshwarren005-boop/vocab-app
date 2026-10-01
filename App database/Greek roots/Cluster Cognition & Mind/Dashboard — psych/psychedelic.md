@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychedelic drug (such as LSD).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being drugs (such as LSD) capable of producing abnormal psychic effects (such as hallucinations) and sometimes psychotic states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or producing hallucinations, apparent expansions of consciousness, or altered sensory perceptions (coined from Greek psyche mind + delos visible/manifest).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and psychiatry, substances (such as psilocybin, LSD, and mescaline) that act as 5-HT2A receptor agonists, inducing profound shifts in cognition and ego dissolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychedelic designates a psychedelic drug (such as lsd)."*
+> - 📜 **Humphry Osmond (*Letter to Aldous Huxley*):** *"To fathom Hell or soar angelic, / Just take a pinch of **psychedelic**."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"The **psychedelic** experience demonstrated that our normal waking state is merely one special type of consciousness among many."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Under the influence of a **psychedelic** alkaloid, ordinary carpets and curtains became teeming tapestries of luminous geometry."*

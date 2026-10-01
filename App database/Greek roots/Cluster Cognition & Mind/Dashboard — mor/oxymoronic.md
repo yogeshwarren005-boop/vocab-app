@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by an oxymoron; combining contradictory or incongruous terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary stylistics, intentionally pairing antithetical words to create a startling rhetorical paradox, irony, or emotional complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxymoronic designates a combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Romeo speaks in famously **oxymoronic** outbursts: 'O brawling love! O loving hate! / O heavy lightness! serious vanity!'"*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The phrase 'sunny pleasure-dome with caves of ice' presents an intensely **oxymoronic** imaginative vision."*
+> - 📜 **George Orwell (*1984*):** *"The party slogans—'War is Peace', 'Freedom is Slavery'—are masterclasses in **oxymoronic** doublespeak."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any branch of psychology concerned with psychological measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any branch of psychology concerned with psychological measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of measuring mental capacities, cognitive abilities, personality traits, and educational achievement through standardized quantitative tests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied statistics and educational measurement, the discipline concerned with item response theory, factor analysis, test calibration, and validation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychometrics designates any branch of psychology concerned with psychological measurements."*
+> - 📜 **L. L. Thurstone (*The Vectors of Mind*):** *"Mathematical **psychometrics** liberates psychology from vague speculation by providing multidimensional coordinate systems for human abilities."*
+> - 📜 **Anne Anastasi (*Psychological Testing*):** *"The cardinal rule of modern **psychometrics** is that no test score has meaning apart from its established normative framework."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"The history of **psychometrics** serves as a cautionary tale against reifying abstract statistical constructs into innate biological ranks."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who theorizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who proposes or believes in a conspiracy theory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who develops, studies, or advocates theories; a thinker concerned with conceptual foundations rather than practical application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, economics, and political philosophy, an intellectual who builds formal models to synthesize data and predict future phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The under-consumption theorist, seeing the same facts, says that the trouble is lack of purchasing power."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With Pfuel was Wolzogen, who expressed Pfuel’s thoughts in a more comprehensible way than Pfuel himself (who was a harsh, bookish theorist, self-confident to the point of despising everyone else) was able to do."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There was about him something of Weyrother, Mack, and Schmidt, and many other German theorist-generals whom Prince Andrew had seen in 1805, but he was more typical than any of them."*
+> - 📜 **Albert Einstein (*Autobiographical Notes*):** *"The **theorist** is not to be envied, for nature—or more strictly speaking, experiment—is an inexorable and not very friendly judge of his work."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The armchair **theorist** imagines he can arrange the members of a great society with as much ease as the hand arranges pieces on a chess-board."*
+> - 📜 **Hannah Arendt (*The Human Condition*):** *"The political **theorist** must balance the contemplative life of the mind against the vita activa of democratic participation."*

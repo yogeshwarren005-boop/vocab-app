@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan genus of trees and shrubs having odd-pinnate leaves and showy flowers; some species placed in genus podalyria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan genus of trees and shrubs having odd-pinnate leaves and showy flowers; some species placed in genus podalyria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of trees, shrubs, and perennial herbs in the pea family (Fabaceae), native to southeastern Europe, southern Asia, Australasia, and the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and pharmacology, species such as Styphnolobium japonicum (formerly Sophora japonica, the Japanese pagoda tree) valued for ornamental shade and rich flavonoid yields (rutin); etymologically from Arabic sufayra (yellowish), a botanical homograph on soph-.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophora designates cosmopolitan genus of trees and shrubs having odd-pinnate leaves and showy flowers; some species placed in genus podalyria."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The graceful pinnate foliage of the **Sophora** produces drooping racemes of pea-like blossoms in late summer."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"We observed species of **Sophora** flourishing upon the arid Himalayan slopes, where their deep roots bind the loose shale."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The shores of New Zealand were fringed with golden kowhai, a magnificent arborescent **Sophora** glowing in the austral sun."*

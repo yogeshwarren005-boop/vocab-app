@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parasympathetic nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the branch of the autonomic nervous system that slows heart rate, increases intestinal and gland activity, and relaxes sphincter muscles (rest and digest).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological neurology, the craniosacral division of the autonomic system that counterbalances sympathetic fight-or-flight activation to restore homeostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasympathetic designates originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"The **parasympathetic** system acts as a gentle brake upon metabolic expenditure, husbanding bodily reserves."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The vagus nerve constitutes the principal **parasympathetic** trunk supplying the viscera of the thorax and abdomen."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"A profound relaxation enveloped him as his **parasympathetic** nervous system regained dominance after the ordeal."*

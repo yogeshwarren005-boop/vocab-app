@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting the mind or behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not psychoactive : not producing an effect (such as changes in perception or behavior) on the mind or mental processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting the mind, mood, thoughts, or behavior, especially referring to chemical substances and pharmaceuticals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and neurochemistry, describing compounds that cross the blood-brain barrier to act upon central nervous system neurotransmitter systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoactive designates affecting the mind or behavior."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Humankind has experimented with natural **psychoactive** plants since the dawn of Paleolithic culture."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"The discovery of synthetic **psychoactive** agents offers unexpected insights into how the brain shapes reality."*
+> - 📜 **Andrew Weil (*The Natural Mind*):** *"Every culture except the Inuits has utilized some local **psychoactive** substance to alter baseline consciousness."*

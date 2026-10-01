@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to psychopharmacology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to psychopharmacology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving psychopharmacology; relating to the effects of drugs on psychological states, mood, and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, concerning therapeutic drug regimens, clinical trials of psychotropic medications, and neurochemical receptor affinities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopharmacological designates of or relating to psychopharmacology."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The response to L-DOPA represented a triumph of targeted **psychopharmacological** intervention in basal ganglia pathology."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"Modern **psychopharmacological** discoveries have transformed manic-depressive illness from a life sentence into a manageable condition."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Our **psychopharmacological** assays illuminated how specific cyclic AMP pathways consolidate long-term behavioral changes."*

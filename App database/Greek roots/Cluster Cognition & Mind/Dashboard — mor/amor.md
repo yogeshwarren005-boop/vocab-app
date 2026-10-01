@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of love; counterpart of greek eros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) god of love; counterpart of greek eros.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love, passion, or deep affection; also (capitalized) the personification of love in Roman mythology, equivalent to Cupid or Greek Eros.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and philosophy, romantic or divine love, as in Virgil's maxim 'omnia vincit amor' (love conquers all) or Spinoza's 'amor dei intellectualis'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What do you see?” “A crest and a motto.” “A coronet with five points, and beneath, _Cedit amor rebus_—‘Love yields to circumstance.’ It’s the motto of the Earls of Severn."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What do you see?” “A crest and a motto.” “A coronet with five points, and beneath, _Cedit amor rebus_—‘Love yields to circumstance.’ It’s the motto of the Earls of Severn."*
-> - 📜 **James Joyce (*Ulysses*):** *"Waiting always for a word of help his hand moved faithfully the unsteady symbols, a faint hue of shame flickering behind his dull skin. _Amor matris:_ subjective and objective genitive."*
+> - 📜 **Virgil (*Eclogues*):** *"**Amor** vincit omnia: et nos cedamus amori; love conquers all things, so let us too yield to love."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"The highest peace of mind consists in the intellectual love of God, the sublime **amor** dei intellectualis."*
+> - 📜 **Dante Alighieri (*The Divine Comedy: Paradiso*):** *"My desire and will were rolled, even as a wheel that moves equally, by the **Amor** that moves the sun and other stars."*

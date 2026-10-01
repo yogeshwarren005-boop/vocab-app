@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deify or glorify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deify or glorify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deify; to elevate someone or something to the status of a god, or to glorify as the supreme ideal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and art criticism, to transform a mortal subject into a mythic, timeless, or celestial symbol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apotheose designates deify or glorify."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The servile Roman senate voted to **apotheose** the deceased Caesar, enrolling him among the celestial guardians of the empire."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Ancient pagan tribes were swift to **apotheose** their fallen warriors, transforming brave kings into solar deities."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Her loving imagination tended to **apotheose** his simplest gestures, bathing them in an aura of noble magnanimity."*

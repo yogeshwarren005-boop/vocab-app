@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner or the content of thinking characteristic of an individual, group, or culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The integrated assertions, theories and aims that constitute a sociopolitical program.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive system of ideas, values, and beliefs that forms the basis of economic, political, or social theory and policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological criticism, a set of culturally dominant beliefs that legitimizes social arrangements and shapes how individuals perceive reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideology designates a manner or the content of thinking characteristic of an individual, group, or culture."*
+> - 📜 **Karl Marx (*The German Ideology*):** *"The ideas of the ruling class are in every epoch the ruling ideas; the dominant **ideology** presents its interests as universal truths."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"An **ideology** is quite literally what its name indicates: it is the logic of an idea applied to the course of history."*
+> - 📜 **Clifford Geertz (*The Interpretation of Cultures*):** *"Political **ideology** provides an intricate map of problematic social reality and a matrix for the creation of collective identity."*

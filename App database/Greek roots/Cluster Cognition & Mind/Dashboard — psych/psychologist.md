@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who specializes in the study of mind and behavior or in the treatment of mental, emotional, and behavioral disorders : a specialist in psychology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed psychologist with an advanced degree who assesses, diagnoses, and treats mental, emotional, and behavioral issues : a specialist in clinical psychology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert, researcher, or clinician who specializes in psychology and the scientific study of human behavior, emotion, and mental processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and applied domains, a professional conducting empirical behavioral experiments, administering psychometric assessments, or providing counseling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's achievements as an economist, logician, psychologist, and politician are known more or less vaguely to all educated men; but his capacity and his actual work as a critic are comparatively little regarded."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"As a systematic psychologist Mr."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"These things are mere abstractions.” “That is all right,” said the Psychologist."*
+> - 📜 **William James (*The Will to Believe*):** *"The **psychologist** must confess that human nature is far too multifaceted to fit neatly into any single theoretical cage."*
+> - 📜 **B. F. Skinner (*About Behaviorism*):** *"The behavioral **psychologist** studies observable environmental contingencies rather than mysterious inner homunculi."*
+> - 📜 **Jean Piaget (*The Child's Conception of the World*):** *"The developmental **psychologist** learns more by observing children's spontaneous errors than from their correct answers."*

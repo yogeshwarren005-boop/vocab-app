@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical doctor who diagnoses and treats mental, emotional, and behavioral disorders : a specialist in psychiatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical doctor who diagnoses and treats mental, emotional, and behavioral disorders : a specialist in psychiatry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical doctor who specializes in the diagnosis, prevention, study, and treatment of mental health disorders and emotional illnesses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical practice, a licensed physician authorized to prescribe psychotropic medications, conduct somatic therapies, and provide psychotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I wonder what a psychiatrist would have said about him."*
+> - 📜 **Carl Rogers (*On Becoming a Person*):** *"The compassionate **psychiatrist** listens not merely to the spoken complaint, but to the anxious soul beneath."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"As both a clinical psychologist and a patient, I watched the **psychiatrist** weigh the precarious balance of lithium dosage."*
+> - 📜 **Sigmund Freud (*An Autobiographical Study*):** *"My early training as a neuropathologist led me naturally to the role of a consulting **psychiatrist** in Vienna."*

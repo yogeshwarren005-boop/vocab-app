@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to psychology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of psychology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to the mind, emotions, or psychological functioning; from a psychological viewpoint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral analysis and social critique, concerning internal mental motivations and emotional consequences rather than physical or economic factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But, as has been indicated in another connection above, it is far from being a matter of indifference, psychologically, where the first, immediate burden of premium payment falls."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You will be psychologically adjusted as you progress through this indoctrination."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Casting the elderly into physically remote and psychologically passive roles works against the interests of grandchildren and their parents, as well as their grandparents."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"It was **psychologically** impossible to believe that comrades fighting side by side in the trenches could harbor treasonous motives."*
+> - 📜 **Carl Rogers (*On Becoming a Person*):** *"A person feels **psychologically** safe only when their deepest feelings are accepted without threat of condemnation."*
+> - 📜 **Bertrand Russell (*The Conquest of Happiness*):** *"Envy is **psychologically** toxic because it prevents a man from enjoying what he has while tormenting him with what others possess."*

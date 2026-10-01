@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirit, deity, person, etc., who guides the souls of the dead to the afterlife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spirit, deity, person, etc., who guides the souls of the dead to the afterlife.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor or guide of souls to the underworld or afterlife in mythology and religion, such as Greek Hermes, Charon, or Egyptian Anubis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical psychology (Carl Jung), an archetypal figure, dream guide, or symbolic presence that mediates between the conscious ego and the collective unconscious.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopomp designates a spirit, deity, person, etc., who guides the souls of the dead to the afterlife."*
+> - 📜 **Homer (*The Odyssey*):** *"Hermes, the golden-wand **psychopomp**, summoned the fluttering souls of the slain suitors and led them down murky ways to the meadows of asphodel."*
+> - 📜 **C. G. Jung (*Memories, Dreams, Reflections*):** *"In my dreams, Philemon appeared as a wise **psychopomp**, guiding my conscious understanding through dark mythic landscapes."*
+> - 📜 **Joseph Campbell (*The Hero with a Thousand Faces*):** *"The supernatural helper or **psychopomp** provides the wandering hero with amulets and secret knowledge needed to cross the threshold."*

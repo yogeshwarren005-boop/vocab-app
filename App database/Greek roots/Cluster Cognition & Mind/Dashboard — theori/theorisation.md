@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production or use of theories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production or use of theories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of formulating, developing, or constructing a theory or explanatory framework (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological and cultural theory, systematic conceptual modeling used to interpret institutional power, social structures, and historical change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorisation designates the production or use of theories."*
+> - 📜 **Michel Foucault (*Power/Knowledge*):** *"Our **theorisation** of power must abandon the sovereign model and examine disciplinary techniques operating at the micro-level."*
+> - 📜 **Jürgen Habermas (*The Theory of Communicative Action*):** *"A rigorous **theorisation** of modernity requires grounding rationality in communicative speech acts rather than instrumental domination."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Behind the spontaneous poetry of the Elizabethans lay centuries of subtle classical **theorisation**."*

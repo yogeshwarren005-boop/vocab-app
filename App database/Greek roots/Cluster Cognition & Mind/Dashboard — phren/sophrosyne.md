@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek concept of ideal character excellence and soundness of mind, characterized by moderation, self-control, temperance, and balance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, the cardinal virtue that prevents hubris through self-knowledge, emotional restraint, and harmonious living within natural limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophrosyne designates a term designating an entity, condition, or phenomenon derived from greek phren."*
+> - 📜 **Plato (*Republic*):** *"**Sophrosyne** is like a kind of harmony, spreading through the whole state and bringing the rulers and the ruled into concord."*
+> - 📜 **Aristotle (*Rhetoric*):** *"**Sophrosyne** is the virtue by which men are disposed to obey the law in the matter of bodily pleasures."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"Apollonian culture erected the glorious monument of **sophrosyne** as a defensive rampart against the chaotic Dionysian abyss."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hypodermis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the hypodermis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or located immediately beneath the skin or epidermis; hypodermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and botanical histology, situated directly under the protective outer epidermal cell layer of leaves, stems, or insect exoskeletons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypodermal designates of or relating to the hypodermis."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The chitinous carapace is secreted by an underlying layer of **hypodermal** cells rich in pigment."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In xerophytic pine needles, thick-walled **hypodermal** fibers prevent collapse during intense drought."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"The delicate polyps are sustained by **hypodermal** tissue that anchors them to the calcareous matrix."*

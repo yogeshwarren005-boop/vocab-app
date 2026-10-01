@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of dreams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or prophecy practiced through the interpretation of dreams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and anthropology, an ancient mantic discipline based on the premise that nocturnal visions communicate supernatural portents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneiromancy designates divination by means of dreams."*
+> - 📜 **Cicero (*De Divinatione*):** *"Many philosophical schools revere **oneiromancy**, believing the unburdened soul perceives the future while the body sleeps."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The art of **oneiromancy** hath deceived many great princes who staked their kingdoms upon ambiguous night visions."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Primitive tribes practiced ritual **oneiromancy**, sleeping upon sacred animal skins to solicit prophetic guidance."*

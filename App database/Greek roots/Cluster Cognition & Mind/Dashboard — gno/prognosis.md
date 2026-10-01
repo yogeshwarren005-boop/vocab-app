@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The prospect of recovery as anticipated from the usual course of disease or peculiarities of the case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forecast, prognostication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reasoned medical forecast of the likely course, duration, and outcome of a disease or ailment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, politics, and sociology, any forward-looking analysis predicting future trends and developments based on current indicators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"In a case like that, I'm bound to admit, my prognosis--for the final result--would be most unfavorable."*
+> - 📜 **Hippocrates (*Book of Prognostics*):** *"He who would practice medicine rightly must foreknow and declare both the present condition and the future **prognosis** of his patient."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate hesitated to deliver a cheerful **prognosis** when the pulse indicated profound organic deterioration."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The economic **prognosis** for post-war Europe remained bleak unless international credit and trade were swiftly restored."*

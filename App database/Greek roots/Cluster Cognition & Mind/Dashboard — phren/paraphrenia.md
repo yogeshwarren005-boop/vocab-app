@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic psychotic disorder characterized by elaborate, well-organized paranoid delusions and hallucinations with relatively preserved intellectual functioning and personality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European psychiatric nosology (formulated by Kraepelin), a late-onset paranoid condition distinguished from dementia praecox by the absence of dementia or emotional blunting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphrenia designates a form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"We distinguish **paraphrenia** from dementia praecox by the remarkable preservation of personality despite fantastic paranoid systems."*
+> - 📜 **Sigmund Freud (*On Narcissism*):** *"In **paraphrenia**, the libido is withdrawn from the external world and redirected entirely upon the ego."*
+> - 📜 **Eugen Bleuler (*Textbook of Psychiatry*):** *"Patients with late **paraphrenia** can manage everyday business affairs while harboring grandiose delusions of royal descent."*

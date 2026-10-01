@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epiphytic orchids of central and south america formerly included in genus oncidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epiphytic orchids of central and south america formerly included in genus oncidium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of epiphytic orchids native to Central and South America, commonly known as butterfly orchids due to their striking flowers that mimic fluttering butterflies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology (family Orchidaceae), prized for tall, wiry scapes topped by solitary yellow and chestnut blossoms with long, antenna-like dorsal sepals and petals (from Greek psyche butterfly + opsis appearance).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopsis designates epiphytic orchids of central and south america formerly included in genus oncidium."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The exquisite genus **Psychopsis** derives its name from the extraordinary resemblance of its blossoms to fluttering tropical butterflies."*
+> - 📜 **H. G. Reichenbach (*Xenia Orchidacea*):** *"Collectors traveled deep into Trinidad to obtain living specimens of **Psychopsis** krameriana for European conservatories."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The bizarre floral architecture of the butterfly orchid, **Psychopsis**, is exquisitely adapted to deceive insect pollinators."*

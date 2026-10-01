@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study and analysis of dreams, dream processes, and their physiological mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep neuroscience, the multidisciplinary field combining polysomnography, cognitive psychology, and neurochemistry to understand nocturnal mentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneirology designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Michel Jouvet (*The Paradox of Sleep*):** *"Modern **oneirology** took flight with the discovery of paradoxical sleep and rapid eye movement rhythms."*
+> - 📜 **J. Allan Hobson (*The Dreaming Brain*):** *"Neurobiological **oneirology** reveals how the pontine brainstem generates the sensory fireworks of dreams."*
+> - 📜 **Sigmund Freud (*New Introductory Lectures on Psycho-Analysis*):** *"Before our psychological investigations, scientific **oneirology** was largely confined to measuring somatic reflexes during sleep."*

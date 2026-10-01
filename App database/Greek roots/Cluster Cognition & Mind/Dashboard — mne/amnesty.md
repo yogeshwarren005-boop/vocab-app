@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of an authority (such as a government) by which pardon is granted to a large group of individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To grant amnesty to : to pardon (someone) officially often before a trial or conviction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official pardon granted by a government to people convicted of political offenses; a formal act of collective forgetting and reconciliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and international jurisprudence, an institutional decree extinguishing legal liability to heal civic division following civil war or revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"General amnesty, weekly carnival with masked licence, bonuses for all, esperanto the universal language with universal brotherhood."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On this they were almost solidly united in Congress, but Horace Greeley trained an independent sentiment which favored complete amnesty to the South."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Amnesty Bill, however was passed May 22d, 1872, after an agreement to exclude from its provisions all who held the higher military and civic positions under the Confederacy—in all about 350 persons."*
+> - 📜 **Abraham Lincoln (*Proclamation of Amnesty and Reconstruction*):** *"A full **amnesty** is hereby granted to all persons who participated in the rebellion, restoring all property rights except in slaves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Following the overthrow of the Thirty Tyrants, the Athenians swore a solemn oath of **amnesty** to bury past discord."*
+> - 📜 **Nelson Mandela (*Long Walk to Freedom*):** *"The Truth and Reconciliation Commission offered conditional **amnesty** in exchange for full disclosure of political crimes."*

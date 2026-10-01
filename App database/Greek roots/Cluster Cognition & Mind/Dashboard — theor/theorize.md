@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a theory : speculate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To form a theory about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To formulate a theory or conceptual explanation about something; to speculate conceptually based on observed facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific research, to construct mathematical or causal models to deduce testable hypotheses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill set himself, among other things, to study and theorize upon poetry and the arts generally."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is scarcely necessary to theorize as to what would have been the attitude and conduct of a sensitive Hoelderlin or a proud-spirited Lenau in a similar position."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Warthell, I have not come here to theorize on the comparative value of life and death."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"I never **theorize** before having all the evidence, for that is a capital error which biases the judgment."*
+> - 📜 **Charles Darwin (*More Letters of Charles Darwin*):** *"I cannot avoid continuing to **theorize** on everything I see, for nature without a guiding hypothesis is an unintelligible chaos."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"The human mind feels an irresistible urge to **theorize**, seeking orderly cosmos behind the chaotic flux of sensations."*

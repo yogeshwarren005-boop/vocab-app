@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to phrenology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to phrenology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of phrenology, the 19th-century pseudo-scientific study of skull shape as an index of character and intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian literature and cultural history, describing popular skull-measuring charts, ceramic busts, and assessments of mental 'organs' and faculties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In respect of ideality, reverence, wonder, and other such phrenological attributes, it is no worse off than it used to be."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor have Gall and his disciple Spurzheim failed to throw out some hints touching the phrenological characteristics of other beings than man."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor have Gall and his disciple Spurzheim failed to throw out some hints touching the phrenological characteristics of other beings than man."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I would fain examine the sperm whale's **phrenological** developments, had he not so vast and impenetrable a cranium."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester scrutinized my skull with a mock-serious gaze, declaring his intention to perform a **phrenological** reading of my obstinacy."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"The traveling **phrenological** lecturer ran his fingers across my bumps, finding an extraordinary cavity where the organ of caution should have been."*

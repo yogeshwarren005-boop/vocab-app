@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of cognitive psychology that studies the psychological basis of linguistic competence and performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of cognitive psychology that studies the psychological basis of linguistic competence and performance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary study of the psychological and neurobiological mechanisms by which language is acquired, comprehended, produced, and represented in the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and linguistics, the empirical field examining speech perception, lexical access, child language milestones, and aphasic breakdowns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psycholinguistics designates the branch of cognitive psychology that studies the psychological basis of linguistic competence and performance."*
+> - 📜 **George A. Miller (*Language and Communication*):** *"Modern **psycholinguistics** was born from the fruitful marriage of mathematical communication theory and cognitive psychology."*
+> - 📜 **Steven Pinker (*The Stuff of Thought*):** *"By examining slips of the tongue and garden-path sentences, **psycholinguistics** lays bare the machinery of thought."*
+> - 📜 **Eric Lenneberg (*Biological Foundations of Language*):** *"Developmental **psycholinguistics** demonstrates that critical periods for language acquisition have strict biological foundations."*

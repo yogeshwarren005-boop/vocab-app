@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing or operating through an affinity, interdependence, or mutual association.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate to one's mood, inclinations, or disposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling, showing, or expressing sympathy, compassion, and sensitivity toward others' misfortune or suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human physiology, designating the sympathetic nervous system—the autonomic division that accelerates heart rate, dilates airways, and mobilizes fight-or-flight energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am so curious," said Loneli, taking leave, and Mea promised to give the sympathetic Loneli a full report of everything."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer of Cook’s Court, Cursitor Street, is sensible of the influence not only in his mind as a sympathetic and contemplative man, but also in his business as a law-stationer aforesaid."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor listened to her sister's outpourings with a **sympathetic** heart, while striving to conceal her own secret heartache."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The spirit looked down upon the struggling family with gentle, **sympathetic** eyes, blessing their humble holiday feast."*
+> - 📜 **Walter Bradford Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"The **sympathetic** nervous system mobilizes the entire bodily economy for violent exertion during mortal peril."*

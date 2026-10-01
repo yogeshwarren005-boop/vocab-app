@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling : suffering : perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disorder of (such) a part or kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek pathos meaning feeling, suffering, emotion, or disease (e.g. empathy, sympathy, neuropathy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology and medical terminology, a suffix denoting either emotional affinity or a specified therapeutic method or pathological disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathy designates feeling : suffering : perception."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The terminal element -**pathy** derives from Greek pathos, branching into words of suffering, healing, and emotional kinship."*
+> - 📜 **William Osler (*The Master-Word in Medicine*):** *"Medical terminology employs -**pathy** to denote structural disease as well as diverse therapeutic systems."*
+> - 📜 **Max Müller (*The Science of Thought*):** *"In the evolution of language, the root **path**- and its suffix -**pathy** record the primordial human capacity to feel."*

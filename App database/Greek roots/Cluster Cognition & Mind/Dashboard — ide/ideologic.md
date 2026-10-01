@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or suggestive of ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or suggestive of ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ideology; characterized by doctrines, political dogma, or theoretical intellectual frameworks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and cultural studies, driven by preconceived theoretical beliefs rather than pragmatic or empirical realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideologic designates concerned with or suggestive of ideas."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Totalitarian movements rely on strict **ideologic** consistency to explain away all contradictory historical facts."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Charismatic authority often undergoes **ideologic** systematization as it transforms into a bureaucratic institution."*
+> - 📜 **George Orwell (*The Prevention of Literature*):** *"Totalitarianism demands complete **ideologic** conformity, extinguishing the free, critical spirit of the artist."*

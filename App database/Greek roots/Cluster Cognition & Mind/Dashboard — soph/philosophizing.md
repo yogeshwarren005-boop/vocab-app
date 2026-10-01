@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exposition (often superficially) of a particular philosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of engaging in philosophical thought, discourse, or speculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personal essay writing, reflective contemplation on the meaning of experience, often contrasted with immediate emotional reaction or practical action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why,” thought Prince Andrew, “that’s the captain who stood up in the sutler’s hut without his boots.” He recognized the agreeable, philosophizing voice with pleasure."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dimmler struck a chord and, turning to Natásha, Nicholas, and Sónya, remarked: “How quiet you young people are!” “Yes, we’re philosophizing,” said Natásha, glancing round for a moment and then continuing the conversation."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"P.” Philosophizing thus, he presently sent the Green Imp at her quietest pace in at the home driveway."*
+> - 📜 **William James (*Pragmatism*):** *"Our **philosophizing** must not remain in the thin air of abstraction, but step down into the muddy streets of actual life."*
+> - 📜 **Friedrich Nietzsche (*Twilight of the Idols*):** *"I take up the hammer to test idols; this is how one conducts **philosophizing** with a hammer."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"Levin grew weary of endless theoretical **philosophizing** about agrarian reform that bore no fruit on his fields."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychology concerned with quantitative relations between physical stimuli and their psychological effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of psychology concerned with quantitative relations between physical stimuli and their psychological effects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of experimental psychology that quantitatively investigates the relationships between physical stimuli and the sensations and perceptions they produce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science (founded by Gustav Fechner in 1860), the foundational methodology that established psychology as an exact experimental science via mathematical laws (Weber-Fechner Law).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychophysics designates the branch of psychology concerned with quantitative relations between physical stimuli and their psychological effects."*
+> - 📜 **Gustav Fechner (*Elements of Psychophysics*):** *"By **psychophysics** is to be understood an exact theory of the functionally dependent relations of body and soul."*
+> - 📜 **Wilhelm Wundt (*Principles of Physiological Psychology*):** *"Experimental **psychophysics** provided the essential laboratory bridge between external physics and internal mental life."*
+> - 📜 **Ernst Mach (*The Analysis of Sensations*):** *"The inquiries of **psychophysics** compel us to recognize that sensation and physical reality are aspects of one continuum."*

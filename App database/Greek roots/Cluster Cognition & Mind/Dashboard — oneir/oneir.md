@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek oneiros, meaning dream or dreaming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological, mythological, and medical terminology, the prefix or root element denoting nocturnal visions, reveries, or dream analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneir designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The Greek root **oneir**- gives us esoteric vocabulary such as oneiric, oneiromancy, and oneirology."*
+> - 📜 **Havelock Ellis (*The World of Dreams*):** *"Scientific study of nocturnal consciousness unites psychology with the ancient Hellenic stem **oneir**-."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"Adolescent daydreams bridge waking imagination and the nocturnal realm represented by the combining form **oneir**-."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Ancient Greek phrēn, meaning mind, intellect, heart, or anatomical diaphragm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physiology and medicine, reflecting the archaic Homeric belief that the respiratory diaphragm and midriff were the physical seat of emotion and thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phren designates a term designating an entity, condition, or phenomenon derived from greek phren."*
+> - 📜 **Homer (*The Iliad*):** *"Grief gripped Achilles deep within his **phren**, and he poured black ashes over his golden head."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"From Greek **phren**, meaning both diaphragm and intellect, modern medicine inherited phrenic, frenzy, and schizophrenia."*
+> - 📜 **C. G. Jung (*Psychology and Religion*):** *"The archaic identification of the **phren** with both breathing and mental life reveals the somatopsychic roots of consciousness."*

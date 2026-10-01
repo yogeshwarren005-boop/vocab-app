@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of dream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of dream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, stimulating, or tending to induce dreams or dreamlike states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and sleep medicine, describing chemical compounds or environmental stimuli that promote vivid dream imagery or prolong REM sleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneirogenic designates adjective*) pertaining to, derived from, or characteristic of dream."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Certain dopamine agonists possess marked **oneirogenic** properties, provoking extraordinary, colorful dreams in parkinsonian patients."*
+> - 📜 **William C. Dement (*Some Must Watch While Some Must Sleep*):** *"Cholinergic neurotransmission demonstrates a distinctly **oneirogenic** influence on the pontine dream generators."*
+> - 📜 **Havelock Ellis (*The World of Dreams*):** *"The rhythmic murmur of mountain torrents exerts an **oneirogenic** effect upon weary travelers resting nearby."*

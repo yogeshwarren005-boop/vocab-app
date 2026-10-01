@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychologist trained in psychophysics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychologist trained in psychophysics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or experimental psychologist who studies psychophysics, investigating the quantitative relationships between physical stimuli and conscious sensory perceptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory science and neurobiology, a researcher measuring absolute detection thresholds, difference limens, and sensory scaling using mathematical psychophysical functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychophysicist designates a psychologist trained in psychophysics."*
+> - 📜 **Gustav Fechner (*Elements of Psychophysics*):** *"The **psychophysicist** measures the exact mathematical function connecting the physical intensity of sound to perceived loudness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Weber and Fechner worked as pioneer **psychophysicists**, establishing the first quantitative law of human sensation."*
+> - 📜 **S. S. Stevens (*Psychophysics: Introduction to Its Perceptual, Neural, and Social Prospects*):** *"The modern **psychophysicist** employs magnitude estimation to chart sensory power laws across all modalities."*

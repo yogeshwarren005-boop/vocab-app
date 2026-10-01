@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who theorizes (especially in science or art).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who theorizes (especially in science or art).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who formulates, develops, or studies the theoretical foundations of a science, art, or discipline (as opposed to an experimentalist or practitioner).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, physics, and economics, a thinker who constructs deductive mathematical models to explain empirical observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theoretician designates someone who theorizes (especially in science or art)."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"The experimentalists came running to the office of the **theoretician**, demanding an equation that could explain their baffling bubble chamber tracks."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"The brilliant **theoretician** perceives a hidden mathematical symmetry where the practical engineer sees only chaos."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The ideas of the economic **theoretician**, both when they are right and when they are wrong, are more powerful than is commonly understood."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed, crystallized, or lying at depths below the earth's surface : plutonic —used of various rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed, crystallized, or lying at depths below the earth's surface : plutonic —used of various rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed, crystallized, or originating deep beneath the earth's surface by subterranean heat and pressure, such as plutonic or metamorphic rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology and mineralogy (coined by Charles Lyell), contrasting with epigene rocks and weathering processes occurring at the surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogene designates formed, crystallized, or lying at depths below the earth's surface : plutonic —used of various rocks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"I propose the term **hypogene** for all rocks formed beneath the surface, whether by volcanic or metamorphic agencies."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The core of the immense Andean cordillera is composed of coarse **hypogene** granite uplifted in antiquity."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Mineral veins deposited by ascending hydrothermal solutions represent characteristic **hypogene** formations."*

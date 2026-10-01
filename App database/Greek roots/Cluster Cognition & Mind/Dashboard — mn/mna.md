@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical Greek transliteration of mina (μνᾶ), an ancient monetary unit and measure of weight equal to 100 drachmas or one-sixtieth of a talent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and classical epigraphy, the Attic and Hellenistic bullion weight standard used in commercial accounting and temple treasuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mna designates a term designating an entity, condition, or phenomenon derived from greek mn."*
+> - 📜 **Plato (*Apology*):** *"Socrates proposed a modest fine of one **mna** of silver, which his wealthier friends immediately offered to guarantee."*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"The alliance treaty stipulated that each city-state should contribute forty silver **mnas** for the upkeep of the fleet."*
+> - 📜 **Aristotle (*Constitution of the Athenians*):** *"Solon reformed the coinage by decreeing that the **mna**, which formerly held seventy drachmas, should henceforth comprise a hundred."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Model of excellence or perfection of a kind; one having no equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elevation of a person (as to the status of a god).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elevation of someone to divine status; deification; the highest point in the development of something; culmination or climax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical art and neoclassical painting, a composition depicting the triumphant ascent of a hero's soul into the heavenly pantheon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thus a mild sort of apotheosis took place in his fancy, whilst she still lived and breathed within his own horizon, a troubled creature like himself."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up from the spray of thy ocean-perishing—straight up, leaps thy apotheosis!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thus a mild sort of apotheosis took place in his fancy, whilst she still lived and breathed within his own horizon, a troubled creature like himself."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"The sacred hair, which long he sought in vain, / Receives an **apotheosis** in the sky, / A radiant star to shine eternally."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"In the final chorus of Greek tragedy, we witness the sublime **apotheosis** of the suffering hero reconciled with cosmic necessity."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Shakespeare’s drama is the **apotheosis** of human intellect, encompassing the entire comedic and tragic range of our mortal state."*

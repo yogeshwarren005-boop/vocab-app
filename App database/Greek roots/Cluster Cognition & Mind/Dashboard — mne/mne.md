@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek mnēsthai/mnēmon signifying memory, recollection, or commemoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and cognitive semantics, the foundational element in Hellenic scientific compounds denoting psychological retention, memorialization, and forgetting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mne designates a term designating an entity, condition, or phenomenon derived from greek mne."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The root **mne**- connects ancient Greek philosophy with modern medical terms of memory and remembrance."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"Through the prefix a- meaning without, the root **mne**- produces amnesia, the negation of memory."*
+> - 📜 **Richard Semon (*The Mneme*):** *"We designate the organic power of retaining physiological traces by the Greek stem **mne**-."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oneir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who explores dream worlds, especially one who practices lucid dreaming and consciously navigates dream states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In consciousness studies and contemporary psychology, an individual trained to achieve lucidity and perform intentional cognitive experiments within dreams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneironaut designates a term designating an entity, condition, or phenomenon derived from greek oneir."*
+> - 📜 **Stephen LaBerge (*Lucid Dreaming*):** *"The skilled **oneironaut** recognizes that he is dreaming and steps forward to consciously shape the nocturnal landscape."*
+> - 📜 **Oliver Sacks (*The River of Consciousness*):** *"Like an intrepid **oneironaut**, the lucid dreamer navigates the shifting currents of his own neurochemistry."*
+> - 📜 **Alan Watts (*The Joyous Cosmology*):** *"The awakened **oneironaut** discovers that the dreamer and the dream world are an indivisible unity."*

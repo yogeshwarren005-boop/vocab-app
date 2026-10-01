@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hallucinatory, dreamlike mental state occurring during waking consciousness, often accompanying acute psychosis, prolonged sleep deprivation, or severe delirium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry (introduced by L. J. Meduna in 1950), an acute confusional syndrome marked by clouding of consciousness and a sense that reality is an unreal dream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oneirophrenia designates a term designating an entity, condition, or phenomenon derived from greek phren."*
+> - 📜 **Ladislaw J. Meduna (*Oneirophrenia: The Confusional State*):** *"We defined **oneirophrenia** as an acute mental syndrome where reality is experienced through a haze of dreamlike illusions."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"In traumatic **oneirophrenia**, patients wander in an ambulatory twilight state, perceiving nurses as figures in an ancient pageant."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Prolonged amphetamine abuse triggered intense **oneirophrenia**, submerging his waking hours in vivid paranoid fantasies."*

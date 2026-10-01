@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An argument apparently correct in form but actually invalid; especially : such an argument used to deceive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An argument apparently correct in form but actually invalid; especially : such an argument used to deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clever but fallacious argument, especially one deliberately used to deceive, mislead, or win a debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dialectic and formal logic, a deceptive syllogism or reasoning trick that appears sound on the surface while concealing a fatal fallacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There is a well-known, so-called sophism of the ancients consisting in this, that Achilles could never catch up with a tortoise he was following, in spite of the fact that he traveled ten times as fast as the tortoise."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s to make you independent that I want to marry you.” “That’s a beautiful sophism,” said the girl with a smile more beautiful still."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Happily for mankind, stupendous fabrics reared on the basis of liberty, which have flourished for ages, have, in a few glorious instances, refuted their gloomy sophisms."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The subtle disputants of the schools entangled truth in a labyrinth of verbal **sophisms**."*
+> - 📜 **Thomas Paine (*Common Sense*):** *"No political **sophism** can reconcile the natural rights of free men with hereditary tyranny."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A well-trained mind detects the hidden **sophism** beneath the orator's flowery eloquence."*

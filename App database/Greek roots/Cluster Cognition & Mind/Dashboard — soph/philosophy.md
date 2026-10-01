@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discipline comprising primarily logic, aesthetics, ethics, metaphysics, and epistemology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sciences and liberal arts exclusive of medicine, law, and theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of fundamental questions regarding existence, knowledge, values, reason, mind, and language (literally 'love of wisdom').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personal and organizational life, a coherent set of guiding principles, values, or practical rules of conduct governing behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast any philosophy in thee, shepherd?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Preach some philosophy to make me mad, And thou shalt be canoniz’d, cardinal; For, being not mad but sensible of grief, My reasonable part produces reason How I may be deliver’d of these woes, And teaches me to kill or hang myself."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There are more things in heaven and earth, Horatio, / Than are dreamt of in your **philosophy**."*
+> - 📜 **Aristotle (*Metaphysics*):** *"It is through wonder that men now begin and at first began to cultivate **philosophy**."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Better to be Socrates dissatisfied than a fool satisfied; the pursuits of genuine **philosophy** bring higher pleasures."*

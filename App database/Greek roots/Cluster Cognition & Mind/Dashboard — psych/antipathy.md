@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong feeling of dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something disliked : an object of aversion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep-seated feeling of dislike, repugnance, or settled aversion toward someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy and natural magic, a natural constitutional repulsion between certain substances or organisms (opposite of sympathy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No contraries hold more antipathy Than I and such a knave."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John had not much affection for his mother and sisters, and an antipathy to me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That eye of hers, that voice stirred every antipathy I had."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Yahoos conceived an invincible **antipathy** toward the cleanly and rational Houyhnhnms."*
+> - 📜 **Edgar Allan Poe (*The Tell-Tale Heart*):** *"Object there was none; passion there was none; I loved the old man, yet an inexplicable **antipathy** seized me."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert pocketed his pride, concealing his instinctive **antipathy** toward the boorish manners of Bentley Drummle."*

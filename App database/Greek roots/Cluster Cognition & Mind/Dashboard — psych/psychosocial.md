@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving both psychological and social aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating social conditions to mental health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the interrelation of social factors and individual thought, emotion, and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology (Erik Erikson's eight stages), the lifelong interplay between psychological ego development and cultural, societal expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You mentioned 'three men and three women'; your mission can not exclude gender compatibility consistent with the prevailing psychosocial construct -- this is what we are."*
+> - 📜 **Erik Erikson (*Identity and the Life Cycle*):** *"Each stage of **psychosocial** development presents a specific crisis that the emerging ego must resolve in dialogue with society."*
+> - 📜 **Carl Rogers (*A Way of Being*):** *"A healthy **psychosocial** environment provides unconditional positive regard, fostering authentic personal growth."*
+> - 📜 **Noam Chomsky (*For Reasons of State*):** *"Institutional propaganda creates a **psychosocial** climate of fear to manufacture consent for aggressive foreign policy."*

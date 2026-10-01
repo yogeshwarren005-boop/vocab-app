@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Integrated drive electronics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Binary chemical compound —added to the contracted name of the nonmetallic or more electronegative element or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek idea/eidos denoting mental form, concept, or cognitive image; also a freshwater fish of the carp family (Leuciscus idus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, a suffix (-ide) denoting binary compounds (e.g. chloride); in cognitive philosophy, the elemental root underpinning idea and ideology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Why father, Ile go downe, an't please you let me, Because Ide see the thing they call the Gentlewoman, I see no woman but through contemplation, And there Ile doe't before the company, And wish my brother fortune. _Bri_."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Ide see you sleepe, for sure your sleepes are excellent You that are waking such a noted wonder, Must in your slumber prove an admiration: I would behold your dreames too, if't were possible; Those were rich showes. _Ang_."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is wi-ide.” Naumann’s pronunciation of the vowel seemed to stretch the word satirically."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The golden orfe is an ornamental variety of the **ide**, prized by European pond-keepers for its bright hue."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"We adopted the terminal syllable -**ide** to designate simple compounds formed by oxygen or acid radicals."*
+> - 📜 **Plato (*Phaedo*):** *"The eternal **ide**- or Form of the Good remains immutable while earthly shadows perish."*

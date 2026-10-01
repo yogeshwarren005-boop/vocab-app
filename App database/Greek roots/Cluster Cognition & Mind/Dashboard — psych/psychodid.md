@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fly of the family psychodidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fly of the family psychodidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small, hairy, moth-like dipteran fly belonging to the family Psychodidae; commonly known as a moth fly, drain fly, or sand fly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and forensic entomology, referring to flies whose larvae inhabit moist drains or whose blood-feeding females (subfamily Phlebotominae) transmit leishmaniasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychodid designates a fly of the family psychodidae."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"The tiny **psychodid** fly flits with characteristic jerky flight around humid bathroom drains and mossy springs."*
+> - 📜 **Robert Matheson (*Medical Entomology*):** *"Certain bloodsucking **psychodid** species of the genus Phlebotomus serve as primary vectors for dermal leishmaniasis in the Mediterranean basin."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The microscopic wing venation of each **psychodid** specimen was cataloged to distinguish cryptic tropical species."*

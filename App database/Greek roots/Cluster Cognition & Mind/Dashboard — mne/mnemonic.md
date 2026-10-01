@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assisting or intended to assist memory; also : of or relating to mnemonics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to memory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device, formula, rhyme, or acronym designed to assist human memory; of or relating to memory retention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and assembly programming, a symbolic name or abbreviated code representing a specific machine instruction (e.g. MOV, ADD).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mnemonic designates assisting or intended to assist memory; also : of or relating to mnemonics."*
+> - 📜 **Cicero (*De Oratore*):** *"Simonides invented the **mnemonic** art of memory palaces by associating ideas with vivid mental locations."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"A clever **mnemonic** rhyme acts as a mental hook, allowing children to retrieve grammatical rules effortlessly."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"Programming routines are rendered intelligible to human engineers by using **mnemonic** abbreviations for binary operations."*

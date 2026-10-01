@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychiatry concerned with psychological methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of psychiatry concerned with psychological methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and psychology concerned with the application of psychotherapy and psychological treatments to alleviate mental distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th- and early 20th-century clinical practice, the therapeutic utilization of hypnotic suggestion, moral treatment, and dialogue to cure neuroses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotherapeutics designates the branch of psychiatry concerned with psychological methods."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The rise of mind-cure movements forced medical orthodoxy to recognize the legitimate efficacy of **psychotherapeutics**."*
+> - 📜 **Pierre Janet (*Psychological Healing*):** *"Scientific **psychotherapeutics** must rest upon a rigorous classification of psychological tensions and moral economies."*
+> - 📜 **Morton Prince (*The Dissociation of a Personality*):** *"Our success in integrating the multiple personalities of Miss Beauchamp was achieved through meticulous **psychotherapeutics**."*

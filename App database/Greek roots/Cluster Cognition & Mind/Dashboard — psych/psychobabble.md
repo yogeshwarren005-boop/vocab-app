@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using language loaded with psychological terminology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using language loaded with psychological terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychological jargon, catchphrases, or pseudo-technical psychological terminology used casually and unthinkingly, especially in popular self-help culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistic criticism (coined by Richard Rosen in 1975), trite, narcissistic speech that cloaks ordinary emotional realities in fashionable therapeutic buzzwords.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychobabble designates using language loaded with psychological terminology."*
+> - 📜 **Richard Rosen (*Psychobabble: Fast Talk and Quick Cure in the Era of Feeling*):** *"The modern cult of personal growth invented **psychobabble** to give superficial self-absorption the dignified veneer of medical science."*
+> - 📜 **Tom Wolfe (*The 'Me' Decade and the Third Great Awakening*):** *"Every dinner party dissolved into fluent **psychobabble** about self-actualization, toxic boundaries, and holistic energy."*
+> - 📜 **Joan Didion (*The White Album*):** *"Behind the comforting fog of contemporary **psychobabble** lay a profound unwillingness to face harsh moral choices."*

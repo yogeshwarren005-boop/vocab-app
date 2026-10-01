@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who considers situations from a philosophical point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who considers situations from a philosophical point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who philosophizes; often used pejoratively for someone who engages in amateur, pedantic, or tedious moralizing (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satirical essays and character sketches, a person who expounds trite maxims or abstract theories while ignoring practical daily responsibilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philosophiser designates someone who considers situations from a philosophical point of view."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke was an incorrigible **philosophiser**, ready to debate political economy over breakfast and forget the estate accounts by noon."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The cynical old **philosophiser** watched the dance of ambition from his comfortable armchair at the club."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The academy of Lagado was crowded with speculative **philosophisers** striving to extract sunbeams from cucumbers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: sophomore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: sophomore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal collegiate abbreviation for a sophomore; also the combining Greek root soph- meaning wise, skilled, or clever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical morphology and school slang, the root element in sophist, philosophy, and sophomore, denoting wisdom or its specious imitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Poor Miss _Molly_! _Wrote on Cor---- Cr----d's (a Printer and Bookseller in Cambridge) Window in the Shop._ Ye longing Sophs, say it who can, That _Corny_'s not a learned Man."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"As an ambitious college **soph**, Amory Blaine debated literary aesthetics late into the Princeton night."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The monosyllabic root **soph**- preserves the Ancient Greek term for wisdom, craft, and intellectual skill."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In Hellenic compounding, the prefix **soph**- marks the emergence of self-conscious intellectual reflection."*

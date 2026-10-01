@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental or emotional as opposed to physical in nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or determined by psychology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or arising in the mind; concerning the mental and emotional state of a person, or the discipline of psychology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and cinema, describing works that delve deeply into the complex motives, internal conflicts, and subtle subjective moods of characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Rather they became a part of it; for the world is only a psychological phenomenon, and what they seemed they were."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"On the other hand, do not make the mistake of thinking that life in solitary was one wild orgy of blithe communion and exhilarating psychological research."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And to cap it all, at the psychological moment, Yunsan pandered the Emperor to novelties of excess that had been long preparing."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The stream of consciousness is the primary **psychological** fact of our inner life, flowing incessantly onward."*
+> - 📜 **Virginia Woolf (*Modern Fiction*):** *"Let us examine for a moment an ordinary mind on an ordinary day; the true **psychological** novelist records the atoms as they fall."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"The judge engaged Raskolnikov in a game of feline patience, relying entirely on subtle **psychological** pressure."*

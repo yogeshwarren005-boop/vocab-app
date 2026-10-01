@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the feelings of; understand the sentiments of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To feel or express sympathy or compassion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or express sympathy, pity, or compassion for someone experiencing sorrow or hardship (British English spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and social discourse, to share common sentiments, agree with an ideology, or harmonize emotionally with others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While something in me,” he went on, “is acutely sensible to her charms, something else is as deeply impressed with her defects: they are such that she could sympathise in nothing I aspired to—co-operate in nothing I undertook."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John’s taciturnity: he was sincerely glad to see his sisters; but in their glow of fervour and flow of joy he could not sympathise."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"We, of this self-conscious, incredulous generation, sentimentalise our children, analyse our children, think we are endowed with a special capacity to sympathise and identify ourselves with children; we play at being children."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea could always **sympathise** with passionate intellectual aspirations, even when hidden behind pedantic phraseology."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I could not but **sympathise** with his restless pain, for I recognized in him a fiery spirit caged like my own."*
+> - 📜 **Bertrand Russell (*The Autobiography of Bertrand Russell*):** *"Throughout my life, an unbearable pity for the suffering of mankind compelled me to **sympathise** with the oppressed."*

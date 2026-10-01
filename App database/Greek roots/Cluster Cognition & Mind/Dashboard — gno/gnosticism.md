@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thought and practice especially of various cults of late pre-Christian and early Christian centuries distinguished by the conviction that matter is evil and that emancipation comes through gnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thought and practice especially of various cults of late pre-Christian and early Christian centuries distinguished by the conviction that matter is evil and that emancipation comes through gnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent religious and philosophical movement of the Hellenistic and early Christian eras holding that redemption is achieved through esoteric knowledge (gnosis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of ideas, a worldview marked by metaphysical dualism between the spiritual realm and an imperfect material world created by a demiurge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Docetism, with its phantom Christ, and Gnosticism with its antithesis of the just God and the good God, were not likely to satisfy mankind."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Gnosticism and Gnostics, 263, see Marcion and Valentinus."*
+> - 📜 **Hans Jonas (*The Gnostic Religion*):** *"**Gnosticism** articulated an existential crisis of antiquity, depicting humanity as alienated aliens stranded in a dark cosmos."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Early church fathers waged fierce polemical warfare against **gnosticism** to establish uniform orthodoxy."*
+> - 📜 **C. G. Jung (*Memories, Dreams, Reflections*):** *"My study of ancient **gnosticism** revealed striking archetypal parallels to the spontaneous symbols produced by modern patients."*

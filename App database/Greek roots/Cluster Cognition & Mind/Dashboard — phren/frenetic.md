@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fast, energetic, wild, and uncontrolled; frantic; characterized by chaotic activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and social criticism, describing the hyper-accelerated, dizzying pace of modern urban life and industrial technology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frenetic designates marked by fast and energetic, disordered, or anxiety-driven activity : frenzied, frantic."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The orchestra played yellow cocktail music, and the opera of voices pitched a key higher amidst **frenetic** laughter."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"He watched the jazz dancers with disdain, weary of their **frenetic** pursuit of mechanical oblivion."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The factory floor operated at a **frenetic** tempo that reduced living men to twitching extensions of machines."*

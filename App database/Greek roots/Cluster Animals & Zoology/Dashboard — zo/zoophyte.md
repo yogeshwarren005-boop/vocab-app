@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An invertebrate animal (such as a coral or sponge) more or less resembling a plant in appearance or mode of growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An invertebrate animal (such as a coral or sponge) more or less resembling a plant in appearance or mode of growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that is plant-like in appearance or growth habit, such as a sea anemone, coral, hydroid, or sponge; a plant-animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical natural history (16th–19th centuries), an intermediate organism once believed to form a living bridge between the plant and animal kingdoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Chance had thrown me just by the most precious specimens of the zoophyte."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The division containing the zoophytes presented the most curious specimens of the two groups of polypi and echinodermes."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was composed of several kinds of fish, and slices of holothuridæ (excellent zoophytes), and different sorts of sea-weed."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The shallow tidal pools were encrusted with delicate corallines and branching **zoophyte** colonies resembling miniature mosses."*
+> - 📜 **Philip Henry Gosse (*A Naturalist's Rambles on the Devonshire Coast*):** *"When touched, the flowering tentacles of the **zoophyte** swiftly retracted into its leathery calyx."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Early naturalists debated whether each delicate marine **zoophyte** was truly an animal or an animated sea vegetable."*

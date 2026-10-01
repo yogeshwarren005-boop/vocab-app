@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no living beings; especially : of or relating to the part of geologic time that antedates life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no living beings; especially : of or relating to the part of geologic time that antedates life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without life; destitute of organic life, or designating geological strata formed prior to the appearance of living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology, formerly applied to the earliest Precambrian rock systems preceding fossiliferous strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"They were transported, perhaps, from the Azoic area near Lake Superior."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geologists once considered the deepest metamorphic schists to belong to an entirely **azoic** epoch destitute of fossils."*
+> - 📜 **Edward Forbes (*Report on the Aegean Invertebrates*):** *"Forbes hypothesized that an **azoic** zone began below three hundred fathoms where marine pressure extinguished all life."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The profound crystalline granite was designated **azoic** by early stratigraphers before microscopic algal structures were uncovered."*

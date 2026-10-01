@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hadr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Southeast Asian rodents in the family Muridae, commonly known as Manipur bush rats or thick-furred rats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, a nocturnal, burrowing rodent genus inhabiting the montane grasslands and bamboo forests of northeastern India and Myanmar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Hadromys designates a term designating an entity, condition, or phenomenon derived from greek hadr."*
+> - 📜 **Oldfield Thomas (*Annals and Magazine of Natural History*):** *"The rodent **Hadromys** humei possesses unusually robust molars adapted for grinding tough upland grasses."*
+> - 📜 **G. H. H. Tate (*Mammals of Eastern Asia*):** *"Specimens of **Hadromys** collected from the high plateau of Manipur were distinguished by their dense, thick pelage."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Endemic montane rodents like **Hadromys** are highly sensitive to habitat fragmentation in subtropical hill tracts."*

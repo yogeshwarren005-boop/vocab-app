@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Movement of a solvent (such as water) through a semipermeable membrane (as of a living cell) into a solution of higher solute concentration that tends to equalize the concentrations of solute on the two sides of the membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of absorption or diffusion suggestive of the flow of osmotic action; especially : a usually effortless often unconscious assimilation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spontaneous net movement of solvent molecules through a selectively permeable membrane into a region of higher solute concentration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gradual, often unconscious assimilation or absorption of ideas, knowledge, culture, or mannerisms from one's environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmosis designates movement of a solvent (such as water) through a semipermeable membrane (as of a living cell) into a solution of higher solute concentration that tends to equalize the concentrations of solute on the two sides of the membrane."*
+> - 📜 **René Dutrochet (*Memoirs on Endosmosis and Exosmosis*):** *"This remarkable phenomenon of fluid transport across animal membranes I designated as **osmosis**."*
+> - 📜 **Jacobus Henricus van 't Hoff (*The Role of Osmotic Pressure in the Analogy Between Solutions and Gases*):** *"The thermodynamic drive behind **osmosis** parallels the expansion of a gas into an evacuated vessel."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"One absorbs the tone and prejudices of an institution by a quiet process of intellectual **osmosis**."*

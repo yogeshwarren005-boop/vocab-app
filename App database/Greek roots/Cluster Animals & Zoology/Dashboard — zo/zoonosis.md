@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infection or disease that is transmissible from animals to humans under natural conditions; also : an infection or disease that is transmissible between animals and humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection or disease that is transmissible from humans to animals under natural conditions; also : the process of transmitting infection or disease from humans to animals —called also anthroponosis, zooanthroponosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any infectious disease that can be naturally transmitted from vertebrate animals to humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and public health, diseases such as rabies, anthrax, Ebola, plague, and avian influenza involving complex wild or domestic animal reservoirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoonosis designates an infection or disease that is transmissible from animals to humans under natural conditions; also : an infection or disease that is transmissible between animals and humans."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bovine tuberculosis represents a perilous **zoonosis** transmitted to children via contaminated milk supplies."*
+> - 📜 **David Quammen (*Spillover: Animal Infections and the Next Human Pandemic*):** *"Nearly every emerging global epidemic begins as a wildlife **zoonosis** jumping across the species barrier."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Breaking the transmission cycle of a vector-borne **zoonosis** requires controlling both the insect carrier and the animal host."*

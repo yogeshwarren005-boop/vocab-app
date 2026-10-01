@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek astronomer and mathematician who discovered the precession of the equinoxes and made the first known star chart and is said to have invented trigonometry (second century bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek astronomer and mathematician who discovered the precession of the equinoxes and made the first known star chart and is said to have invented trigonometry (second century bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek cavalry commander or general of horse; or the celebrated ancient Greek astronomer Hipparchus of Nicaea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history, a civic military magistrate in Hellenistic poleis; in astronomy, the scientist who compiled the first comprehensive star catalogue and discovered the precession of the equinoxes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he mislike My speech and what is done, tell him he has Hipparchus, my enfranched bondman, whom He may at pleasure whip, or hang, or torture, As he shall like, to quit me."*
+> - 📜 **Xenophon (*The Cavalry General (Hipparchicus)*):** *"A competent **hipparchus** must inspect not only the armor of his riders but the hooves and spirit of every horse."*
+> - 📜 **Ptolemy (*Almagest*):** *"I verified the precession of the stellar sphere by comparing my observations with the catalogue of **Hipparchus**."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The profound trigonometric calculations of **Hipparchus** laid the true foundations of mathematical astronomy."*

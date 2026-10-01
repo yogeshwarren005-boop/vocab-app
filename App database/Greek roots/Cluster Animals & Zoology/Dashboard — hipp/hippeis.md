@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hipp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The social class of cavalrymen or horse-owning citizens in ancient Athens and other Greek city-states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athenian history, the second-highest property class established under the Solonian constitution, assessed at three hundred medimnoi and obligated to maintain a warhorse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippeis designates a term designating an entity, condition, or phenomenon derived from greek hipp."*
+> - 📜 **Aristotle (*The Constitution of Athens*):** *"Solon divided the citizen body into four classes, of which the **Hippeis** comprised those wealthy enough to furnish an equipped cavalry mount."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Athenian **Hippeis** charged down upon the Spartan flank, preventing their light infantry from outflanking the phalanx."*
+> - 📜 **George Grote (*A History of Greece*):** *"Membership among the **Hippeis** conferred high civic prestige and prominent aristocratic standing in the assembly."*

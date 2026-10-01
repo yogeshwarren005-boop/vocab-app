@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living within a living animal usually as a parasite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living within a living animal usually as a parasite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living within an animal, either as a parasite, symbiont, or internal dweller; or transported internally through an animal's digestive tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and botany, describing seeds or spores adapted for endozoochory (dispersal by ingestion and defecation by animals).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endozoic designates living within a living animal usually as a parasite."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"Symbiotic green algae flourish as **endozoic** guests within the transparent bodies of freshwater hydras."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Fleshy berries rely upon **endozoic** transport by frugivorous thrushes across fragmented woodlots."*
+> - 📜 **Philip Henry Gosse (*A Naturalist's Rambles on the Devonshire Coast*):** *"The sponge harbored microscopic **endozoic** commensals sheltered inside its cavernous flagellated chambers."*

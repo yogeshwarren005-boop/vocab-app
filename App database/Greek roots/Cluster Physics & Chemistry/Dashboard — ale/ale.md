@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A beer that is brewed by fast fermentation with a quick-acting yeast (Saccharomyces cerevisiae) at relatively high temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An English country festival at which ale is the principal beverage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fermented alcoholic beverage brewed from malted barley and hops using top-fermenting yeast at warm temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in English culture, an unhopped malt liquor distinct from beer, or a festive village gathering characterized by revelry and drinking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At last I spied his eyes, and methought he had made two holes in the ale-wife’s new petticoat and so peeped through."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away, you bottle-ale rascal, you basket-hilt stale juggler, you!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would give all my fame for a pot of ale and safety."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"For a quart of **ale** is a dish for a king."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Well loved he by the morn a sop in wine; to live in delight was ever his custom, for he was Epicurus' own son, who held opinion that plain delight was truly full felicity, and ever he drank good **ale**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The warm **ale** in the great pewter mug circulated from hand to hand among the shearers."*

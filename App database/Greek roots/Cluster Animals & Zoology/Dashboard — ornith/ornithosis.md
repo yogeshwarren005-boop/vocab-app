@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psittacosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease of birds caused by a bacterium (Chlamydia psittaci synonym Chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious zoonotic disease of birds and humans caused by the bacterium Chlamydia psittaci (psittacosis when contracted from parrots).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology and infectious disease, an atypical pneumonia transmitted by inhaling dried bird droppings or feather dust from infected turkeys, pigeons, and waterfowl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithosis designates psittacosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A severe epidemic of pulmonary **ornithosis** was traced to contact with newly imported aviary parrots."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Pigeon fanciers and poultry workers are particularly susceptible to occupational outbreaks of acute **ornithosis**."*
+> - 📜 **Hans Zinsser (*Rats, Lice and History*):** *"The intracellular parasite responsible for **ornithosis** bridges the biological gap between filtrable viruses and bacteria."*

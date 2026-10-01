@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make magnetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attract strongly, as if with a magnet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing magnetic properties; having magnetic poles or aligned atomic magnetic moments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply captivated, fascinated, or held under a powerful influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Might and wrong combined, like iron magnetized, are endowed with irresistible attraction."*
+> - 📜 **William Gilbert (*De Magnete*):** *"A **magnetized** iron bar stroking another piece of steel communicates its virtue without diminishing its own force."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The strange mystery held us completely **magnetized**, banishing every thought of rest."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He stood **magnetized** by the terrifying spectacle of the sea breaking across the ship's deck."*

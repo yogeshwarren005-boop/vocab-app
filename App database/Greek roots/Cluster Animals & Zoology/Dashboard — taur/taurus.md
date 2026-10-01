@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in taurus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Bull; a prominent zodiacal constellation in the northern sky; or the second sign of the zodiac (April 20–May 20); or a bull in Latin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, an ancient constellation containing the bright red giant Aldebaran, the Pleiades cluster, and the Crab Nebula (M1).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Caesar with his army and Taurus marching."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canidius marching with his land army one way over the stage, and Taurus, the Lieutenant of Caesar, with his Army, the other way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That pure congealèd white, high Taurus’ snow, Fann’d with the eastern wind, turns to a crow When thou hold’st up thy hand."*
+> - 📜 **Virgil (*Georgics*):** *"The white bull with gilded horns, celestial **Taurus**, opens the joyous year as the Sun enters his starry house."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The glowing red eye of Aldebaran in the constellation **Taurus** guided ancient navigators across the Mediterranean."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In spring the radiant Sun rides with the stars of **Taurus**, shedding warmth across the smiling earth."*

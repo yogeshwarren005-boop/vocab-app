@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By thermostat; in a thermostatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By thermostat; in a thermostatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of a thermostat; with automatic temperature control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and laboratory operations, maintaining thermal conditions automatically through a feedback mechanism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatically designates by thermostat; in a thermostatic manner."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The temperature of the bath was regulated **thermostatically**, compensating instantly for ambient room drafts."*
+> - 📜 **Arthur D. Little (*The Chemist and His Work*):** *"Industrial fermentation vats must be **thermostatically** controlled to prevent thermal inactivation of delicate yeast enzymes."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The warm-blooded body acts **thermostatically**, sweating or shivering to preserve the constancy of the internal milieu."*

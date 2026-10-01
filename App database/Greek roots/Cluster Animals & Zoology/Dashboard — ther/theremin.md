@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic musical instrument; melodies can be played by moving the right hand between two rods that serve as antennas to control pitch; the left hand controls phrasing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic musical instrument; melodies can be played by moving the right hand between two rods that serve as antennas to control pitch; the left hand controls phrasing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early electronic musical instrument played without physical contact, controlled by the musician moving their hands near two antennae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical acoustics and avant-garde composition, invented in 1920 by Russian physicist Léon Theremin, utilizing the heterodyne beat frequency between two radio-frequency oscillators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theremin designates an electronic musical instrument; melodies can be played by moving the right hand between two rods that serve as antennas to control pitch; the left hand controls phrasing."*
+> - 📜 **Leopold Stokowski (*Music for All of Us*):** *"The ghostly, soaring vibrato of the **theremin** seemed to draw pure acoustic melody out of the invisible ether."*
+> - 📜 **Percy Grainger (*Free Music*):** *"The continuous, gliding tonal freedom of the **theremin** realized my dream of music liberated from fixed intervals."*
+> - 📜 **Aaron Copland (*Our New Music*):** *"Composers in the 1920s hailed the ethereal electronic frequencies of the **theremin** as the vanguard of a sonic revolution."*

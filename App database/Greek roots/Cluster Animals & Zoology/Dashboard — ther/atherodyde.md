@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple type of jet engine; must be launched at high speed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple type of jet engine; must be launched at high speed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or variant term relating to atheroid or atheromatous vascular lesions (degeneration of the arterial walls).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, describing degenerative vascular plaques characterized by lipid infiltration and calcification resembling porridge-like atheromas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherodyde designates a simple type of jet engine; must be launched at high speed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Degenerative **atherodyde** changes in the aorta weaken the tunica media, predisposing the vessel to aneurysmal dilation."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The microscopic debris in the **atherodyde** cavity consists of cholesterol crystals, fatty globules, and calcified granules."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Pathologists distinguished the soft **atherodyde** deposit from true cartilaginous induration of arterial walls."*

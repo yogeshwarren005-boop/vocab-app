@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Only the giant panda: in some classifications considered a genus of the separate family ailuropodidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Only the giant panda: in some classifications considered a genus of the separate family ailuropodidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian genus containing the giant panda (Ailuropoda melanoleuca), literally 'cat-footed'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and mammalogy, an ursid genus exhibiting specialized bamboo-crushing bunodont dentition and an enlarged radial sesamoid false thumb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailuropoda designates only the giant panda: in some classifications considered a genus of the separate family ailuropodidae."*
+> - 📜 **Armand David (*Journal de mon troisieme voyage d'exploration*):** *"I secured a magnificent black and white bear in Sichuan, which Milne-Edwards later classified under **Ailuropoda**."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The taxonomic affinities of **Ailuropoda** sparked immense debate between adherents of ursid and procyonid lineages."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The radial sesamoid of **Ailuropoda** demonstrates how natural selection can fashion a functional thumb out of an ordinary wrist bone."*

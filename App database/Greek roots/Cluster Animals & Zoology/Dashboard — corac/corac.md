@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek corac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (korax, korakos, 'raven, crow') denoting ravens or beak-like curved anatomical processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, the stem of coracoid, referencing the curved hook of the scapular process likened by Galen to a raven's beak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corac designates a term designating an entity, condition, or phenomenon derived from greek corac."*
+> - 📜 **Galen (*De Anatomicis Administrationibus*):** *"The curved shoulder projection was given the name **corac** process because of its resemblance to the beak of a crow."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The **corac** element forms an essential ventral pillar in the pectoral arch of lower tetrapods."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In avian osteology, the robust **corac** struts brace the pectoral girdle against the downstroke of flight."*

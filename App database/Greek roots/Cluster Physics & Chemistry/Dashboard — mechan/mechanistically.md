@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mechanistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mechanistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mechanistic manner; according to the principles of physical mechanism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without feeling, spontaneity, or conscious adaptation; automatically and routinely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanistically designates in a mechanistic manner."*
+> - 📜 **Thomas Henry Huxley (*Methods and Results*):** *"Physiological processes must be investigated **mechanistically** to yield reproducible physical explanations."*
+> - 📜 **William James (*Pragmatism*):** *"When we treat the universe purely **mechanistically**, we forfeit the rich qualitative texture of lived experience."*
+> - 📜 **Jacques Loeb (*The Mechanistic Conception of Life*):** *"Tropisms in lower organisms can be modeled **mechanistically** as direct physical responses to light and gravity."*

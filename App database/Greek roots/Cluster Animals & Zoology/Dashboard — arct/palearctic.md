@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a biogeographic region or subregion that includes Europe, Asia north of the Himalayas, and Africa north of the Sahara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a biogeographic region or subregion that includes Europe, Asia north of the Himalayas, and Africa north of the Sahara.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or designating the biogeographical realm encompassing Europe, Asia north of the Himalayas, and northern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical zoogeography, Sclater and Wallace's major biogeographic realm characterized by temperate and boreal faunas across northern Eurasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palearctic designates of, relating to, or being a biogeographic region or subregion that includes europe, asia north of the himalayas, and africa north of the sahara."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The **Palearctic** region encompasses the vast contiguous landmass of northern Eurasia, bounded by oceans and deserts."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Many bird genera distribute continuously across the **Palearctic** forest belt from Scandinavia to eastern Siberia."*
+> - 📜 **Philip Lutley Sclater (*On the General Geographical Distribution of the Members of the Class Aves*):** *"I defined the **Palearctic** avifauna as one of the six primary zoological divisions of the globe."*

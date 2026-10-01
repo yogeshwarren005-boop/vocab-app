@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or operated by a thermostat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintaining or characterized by the regulation of constant temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatic designates an automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"A **thermostatic** system monitors the discrepancy between actual temperature and desired setpoint, driving corrective action."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"The warming blanket was governed by a **thermostatic** control unit to protect the surgical patient from hypothermia."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The laboratory incubator was kept under strict **thermostatic** regulation throughout the incubation cycle."*

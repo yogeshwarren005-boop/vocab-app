@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling atheroma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling atheroma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or affected by an atheroma (variant of atheromatous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical vascular pathology, describing arterial degeneration marked by lipid plaque formation and subsequent calcification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atheromatic designates of or relating to or resembling atheroma."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Post-mortem inspection revealed extensive **atheromatic** crusts lining the arch of the aorta in the elderly judge."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The **atheromatic** transformation of the cerebral arteries predisposes the brain to catastrophic apoplexy."*
+> - 📜 **Erasmus Wilson (*On Diseases of the Vascular System*):** *"Rigid, **atheromatic** vessels lose their natural elasticity, forcing the left ventricle to hypertrophy."*

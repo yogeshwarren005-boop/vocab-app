@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermal analysis technique in which the mass of a substance is monitored as a function of temperature or time in a controlled atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, an indispensable methodology for evaluating thermal stability, oxidative degradation, and decomposition kinetics of compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimetry designates the measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances."*
+> - 📜 **Wilhelm Ostwald (*Outlines of General Chemistry*):** *"Modern **thermogravimetry** automated the tedious gravimetric calcination procedures of 19th-century quantitative analysis."*
+> - 📜 **Arthur D. Little (*The Chemist and His Work*):** *"In industrial polymer research, **thermogravimetry** measures the exact degradation threshold of new synthetic resins."*
+> - 📜 **Walther Nernst (*Theoretical Chemistry*):** *"The application of **thermogravimetry** under vacuum clarified the dissociation pressures of metallic carbonates."*

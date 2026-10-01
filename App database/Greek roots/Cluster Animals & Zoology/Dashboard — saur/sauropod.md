@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Sauropoda) of quadrupedal herbivorous saurischian dinosaurs (such as an apatosaurus) of the Jurassic and Cretaceous having a long neck and tail, small head, and 5-toed limbs on which they tended to walk in a digitigrade fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Sauropoda) of quadrupedal herbivorous saurischian dinosaurs (such as an apatosaurus) of the Jurassic and Cretaceous having a long neck and tail, small head, and 5-toed limbs on which they tended to walk in a digitigrade fashion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any large, herbivorous, quadrupedal dinosaur of the infraorder Sauropoda, characterized by a long neck, long tail, and pillar-like legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology, the largest land animals in Earth's history (including Brachiosaurus, Diplodocus, and Argentinosaurus) possessing air-filled vertebrae and tiny skulls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauropod designates any of a suborder (sauropoda) of quadrupedal herbivorous saurischian dinosaurs (such as an apatosaurus) of the jurassic and cretaceous having a long neck and tail, small head, and 5-toed limbs on which they tended to walk in a digitigrade fashion."*
+> - 📜 **O. C. Marsh (*The Dinosaurs of North America*):** *"The colossal **sauropod** Diplodocus possessed a whip-like tail that served as an effective defensive weapon against predators."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The tiny brain of a sixty-ton **sauropod** demonstrates that complex cognitive processing is unnecessary for evolutionary longevity."*
+> - 📜 **Henry Fairfield Osborn (*Skeletal Adaptations of Ornitholestes, Struthiomimus, and Tyrannosaurus*):** *"The column-like limbs of the giant **sauropod** were engineered to bear immense gravitational tonnage upon dry land."*

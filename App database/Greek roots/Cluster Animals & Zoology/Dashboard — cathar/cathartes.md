@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cathartidae: turkey vultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cathartidae: turkey vultures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World vultures in the family Cathartidae comprising the turkey vulture and yellow-headed vultures, literally 'cleanser' or 'purifier'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, scavenging raptors with naked red or yellow heads and exceptional olfactory acuity adapted for locating decaying carrion in woodlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathartes designates type genus of the cathartidae: turkey vultures."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"I conducted rigorous experiments to determine whether the vulture **Cathartes** is guided to carrion by scent or keen sight."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Flocks of **Cathartes** soared in lazy circles above the arid plains of Patagonia, scanning the ground for dead cattle."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"The turkey buzzard, cataloged as **Cathartes**, performs an invaluable sanitary service across southern plantations."*

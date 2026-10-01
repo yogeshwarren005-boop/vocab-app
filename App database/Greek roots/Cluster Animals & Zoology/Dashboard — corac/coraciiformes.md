@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rollers; kingfishers; hornbills; hoopoes; motmots; bee eaters; todies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rollers; kingfishers; hornbills; hoopoes; motmots; bee eaters; todies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diverse order of predominantly colorful, carnivorous or insectivorous birds including rollers, kingfishers, bee-eaters, and motmots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern avian taxonomy, an order characterized by syndactyly (fusion of the third and fourth forward toes) and cavity-nesting behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coraciiformes designates rollers; kingfishers; hornbills; hoopoes; motmots; bee eaters; todies."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Radiation within the **Coraciiformes** produced exquisite adaptations for dive-fishing in kingfishers and aerial hawking in bee-eaters."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The belted kingfisher is the solitary North American representative of the otherwise largely tropical order **Coraciiformes**."*
+> - 📜 **W. H. Hudson (*Birds of La Plata*):** *"The dazzling jewel-like brilliance of tropical **Coraciiformes** brightens the shadowed streams of the interior forest."*

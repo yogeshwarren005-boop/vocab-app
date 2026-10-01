@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oni.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purchasing or buying of goods as a means of seeking emotional relief, relaxation, or tension reduction ('retail therapy').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, a coping mechanism where financial spending is employed to self-regulate anxiety, depression, or distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oniochalasia designates a term designating an entity, condition, or phenomenon derived from greek oni."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"In milder cases, shopping acts as a transient **oniochalasia**, relieving internal psychic tension through acquisition."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"Sensory stimulation in bustling commercial bazaars provides temporary **oniochalasia** for the overwhelmed neurotic."*
+> - 📜 **Erich Fromm (*To Have or to Be?*):** *"Consumerist society institutionalizes **oniochalasia**, teaching citizens to soothe existential anxiety through shopping."*

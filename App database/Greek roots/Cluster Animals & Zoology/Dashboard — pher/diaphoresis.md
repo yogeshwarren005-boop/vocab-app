@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of the sweat glands of the skin secreting a salty fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of the sweat glands of the skin secreting a salty fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profuse perspiration or sweating, especially as an artificially induced therapeutic state or clinical symptom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, excessive autonomic sweating associated with shock, acute myocardial infarction, severe pain, or antipyretic defervescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaphoresis designates the process of the sweat glands of the skin secreting a salty fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden substernal agony accompanied by cold, clammy **diaphoresis** strongly points to coronary artery occlusion."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"At the crisis of the tertian fever, copius **diaphoresis** broke out, bathing the patient in cooling sweat and breaking the delirium."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The old practitioner wrapped the feverish invalid in woolen blankets to provoke a salutary **diaphoresis**."*

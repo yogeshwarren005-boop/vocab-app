@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large moths whose larvae produce silk of high quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large moths whose larvae produce silk of high quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large wild silkmoths in the family Saturniidae, including the tussar, muga, and Chinese oak silkmoths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sericulture and entomology, robust nocturnal moths whose large caterpillars spin durable, golden-colored wild silk harvested across Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheraea designates large moths whose larvae produce silk of high quality."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The magnificent wild silkmoth **Antheraea** rested upon the tree trunk, its broad wings marked with transparent talc-like windows."*
+> - 📜 **W. J. Holland (*The Moth Book*):** *"Caterpillars of **Antheraea** polyphemus feed ravenously upon oak leaves before spinning dense oval silken cocoons."*
+> - 📜 **J. H. Fabre (*The Life of the Caterpillar*):** *"The nocturnal emergence of **Antheraea** from its tough cocoon is accomplished by secreting an alkaline fluid to soften the silk."*

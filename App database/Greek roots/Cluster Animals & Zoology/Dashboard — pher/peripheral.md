@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) electronic equipment connected by cable to the cpu of a computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or near an edge or constituting an outer boundary; the outer area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated on, or forming the outer edge or boundary (periphery); of secondary or minor importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, designating the peripheral nervous system (outside the brain and spinal cord); in computer science, auxiliary hardware devices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*
+> - 📜 **Santiago Ramon y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"Sensory nerve fibers terminate in **peripheral** receptors situated in the epithelial and muscular layers."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"While fluctuations in trade appear **peripheral**, their cumulative drag on employment is profound."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Conscious attention focuses upon a vivid center while sensations fade gradually into a hazy **peripheral** fringe."*

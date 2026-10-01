@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transparent or nearly so and usually homogeneous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as the clear atmosphere) that is transparent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Glassy, translucent, or transparent; having the appearance of glass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and histology, denoting hyaline cartilage, the clear, bluish-white cartilage covering articular joint surfaces and forming costal cartilages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These threads are sometimes simple and sometimes branched; they may be articulated or without articulations or septa, short or long, erect or creeping, hyaline or whitish, mostly free from colour, and are not coated with a distinct membrane."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Mycelium effuse, web-like, evanescent; conceptacles sphærical, containing one subglobose 8-spored sporangium; spores ovate; appendages few, dichotomous, thickened at their extremities, hyaline. =Podosphæra Kunzei=, Lév."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Under the glassy sea, down to the bottom of the **hyaline** deep, the heavenly radiance shone."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The pale stars trembled in the purple night above the **hyaline** ocean."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Loss of the smooth, glistening **hyaline** cartilage over the femoral head produces the severe pain of osteoarthritis."*

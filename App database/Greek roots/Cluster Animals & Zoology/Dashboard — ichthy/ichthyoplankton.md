@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ichthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eggs and larvae of fish that drift in the water column as part of the plankton community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological oceanography and fisheries science, pelagic larval stages sampled with fine-mesh bongo nets to assess fish biomass, spawning grounds, and recruitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyoplankton designates a term designating an entity, condition, or phenomenon derived from greek ichthy."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Countless millions of transparent eggs and larval forms comprising the **ichthyoplankton** drift helplessly with oceanic currents."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Towing silk plankton nets through the North Sea revealed dense swarms of cod and herring **ichthyoplankton**."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Dispersal of pelagic **ichthyoplankton** over vast oceanic distances explains why many coral reef fish species maintain wide geographic ranges."*

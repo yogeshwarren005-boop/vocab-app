@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical inspection and diagnostic examination of the feces (coproscopy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical laboratory medicine, microscopic and chemical stool evaluation for occult blood, fat globules, helminth ova, and protozoan cysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatoscopy designates a term designating an entity, condition, or phenomenon derived from greek scat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine **scatoscopy** in suspected typhoid cases revealed characteristic pea-soup stools containing necrotic sloughs."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Rigorous microscopic **scatoscopy** remains the gold standard for detecting the ova of Schistosoma and hookworms."*
+> - 📜 **Aldo Castellani (*Manual of Tropical Medicine*):** *"Diagnostic **scatoscopy** distinguishes amoebic dysentery from acute bacillary infections by cellular exudate."*

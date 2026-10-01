@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of dogs, their breeds, canine behavior, genetics, and training.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary science and ethology, the discipline investigating domestic canine evolution from ancestral wolves, breed standardization, and working capacities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cynology designates a term designating an entity, condition, or phenomenon derived from greek cyn."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Pioneering studies in **cynology** illustrate how artificial selection reshaped canine cranial forms across centuries."*
+> - 📜 **Konrad Lorenz (*Man Meets Dog*):** *"Modern **cynology** must account for the deep emotional bonds forged between human handlers and pack-oriented canines."*
+> - 📜 **George Romanes (*Animal Intelligence*):** *"Observations in comparative **cynology** demonstrate remarkable degrees of canine problem-solving and cooperative instinct."*

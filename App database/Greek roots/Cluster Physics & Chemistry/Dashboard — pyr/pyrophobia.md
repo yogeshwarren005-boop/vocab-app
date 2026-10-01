@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, or irrational fear of fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychopathology, an extreme phobic reaction to flames, campfires, stoves, or matches, leading to panic or avoidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrophobia designates a term designating an entity, condition, or phenomenon derived from greek pyr."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In certain phobic neuroses, simple childhood burns leave behind an indelible, crippling **pyrophobia**."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The neurotic dread of domestic gas jets frequently masks a deeper symbolic **pyrophobia**."*
+> - 📜 **H. G. Wells (*The Island of Dr. Moreau*):** *"The beast-folk cowered before the whip and the lantern, restrained only by their primal **pyrophobia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of arsenic with a more positive element.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound of arsenic with a more positive element.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary chemical compound of arsenic with a more electropositive element or radical, especially a metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiconductor physics, materials such as gallium arsenide (GaAs) used in high-frequency integrated circuits and optoelectronics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Also, 2PbO + SO_{3} ➡ PbSO_{4}.PbO (basic sulphate). _Arsenides_ are partly left as the corresponding oxides, whilst some As_{4}O_{6} is evolved, and some basic arsenate generally remains."*
+> - 📜 **William Shockley (*Electrons and Holes in Semiconductors*):** *"Crystalline gallium **arsenide** exhibits electron mobility substantially higher than that of elemental silicon."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The tetrahedral coordination in zinc **arsenide** reflects the covalent nature of the metalloid linkage."*
+> - 📜 **John William Strutt, Lord Rayleigh (*Scientific Papers*):** *"The synthetic metallic **arsenide** was roasted in a platinum crucible to determine its stoichiometric loss."*

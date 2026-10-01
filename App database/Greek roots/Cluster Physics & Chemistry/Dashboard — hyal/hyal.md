@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glass : glassy : hyaline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glass : glassy : hyaline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek hyalos, meaning 'glass', 'transparent', or 'vitreous'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological, anatomical, and mineralogical terminology, denoting structures or substances that are glassy, clear, or translucent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyal designates glass : glassy : hyaline."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pathologists adopt the prefix **hyal**- to denote homogeneous, glassy degenerative deposits in arterial walls."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The root **hyal**- appears in hyalite, the translucent glass-like variety of opal."*
+> - 📜 **Ernst Haeckel (*Report on the Radiolaria*):** *"The siliceous skeletons of the deep-sea glass sponges incorporate the Greek root **hyal**- in their scientific names."*

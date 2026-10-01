@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small Old World lacertid lizards commonly known as snake-eyed lizards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, diurnal ground-dwelling lizards inhabiting arid scrub of southern Europe, Africa, and Asia, having transparent lower eyelids fused over the eyes like a snake's brille.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ophisops designates a term designating an entity, condition, or phenomenon derived from greek ophi."*
+> - 📜 **W. T. Blanford (*The Fauna of British India: Reptilia and Batrachia*):** *"The little sand lizard **Ophisops** darts across hot stony plains, its transparent spectacle shielding the eye from drifting dust."*
+> - 📜 **Albert Gunther (*The Reptiles of British India*):** *"I examined species of **Ophisops** whose eyelids are completely confluent, leaving no palpebral fissure."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The snake-like gaze of **Ophisops** illustrates how identical ocular adaptations arose independently in lizards and snakes."*

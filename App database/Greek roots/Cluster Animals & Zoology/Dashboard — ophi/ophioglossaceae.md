@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of succulent ferns of order ophioglossales; cosmopolitan in distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of succulent ferns of order ophioglossales; cosmopolitan in distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The adder's-tongue family of primitive eusporangiate ferns, including Ophioglossum and Botrychium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, an archaic fern lineage characterized by subterranean gametophytes dependent upon mycorrhizal fungi, fleshy roots, and single fertile spikes resembling a snake's tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophioglossaceae designates a family of succulent ferns of order ophioglossales; cosmopolitan in distribution."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Ophioglossaceae** occupies an isolated position among ferns, producing thick-walled eusporangia without an annulus."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The anatomical simplicity of the fertile spike in **Ophioglossaceae** provides vital clues regarding primitive land plant morphology."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Ophioglossaceae** inhabit moist meadows and rich woods, emerging with a solitary vegetative frond each season."*

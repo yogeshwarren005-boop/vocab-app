@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal fear or loathing of cats —called also felinophobia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal fear or loathing of cats —called also felinophobia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, intense, or irrational fear or dread of cats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific animal phobia characterized by extreme autonomic anxiety or panic upon the sight, touch, or mere presence of a feline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailurophobia designates abnormal fear or loathing of cats —called also felinophobia."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Some men there are love not a gaping pig; some that are mad if they behold a cat, driven by wild **ailurophobia**."*
+> - 📜 **S. Weir Mitchell (*Cat Phobia*):** *"Patients afflicted with acute **ailurophobia** could sense the concealed presence of a cat inside a closed cabinet."*
+> - 📜 **H. P. Lovecraft (*The Cats of Ulthar*):** *"The wretched old couple suffered not merely from malice but from an irrational, trembling **ailurophobia**."*

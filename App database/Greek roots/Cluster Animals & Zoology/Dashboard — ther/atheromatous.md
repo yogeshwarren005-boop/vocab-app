@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling atheroma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling atheroma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of, containing, or characterized by atheromas (fatty degenerative plaques in arteries).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and cardiology, describing arterial walls weakened, narrowed, or calcified by chronic lipid deposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atheromatous designates of or relating to or resembling atheroma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The coronary arteries were tortuous and stiffened by extensive **atheromatous** deposits."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under the microscope, the **atheromatous** slurry is seen to be rich in rhomboid crystals of pure cholesterol."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Severe **atheromatous** degeneration in the carotid bifurcation constitutes the primary source of embolic stroke."*

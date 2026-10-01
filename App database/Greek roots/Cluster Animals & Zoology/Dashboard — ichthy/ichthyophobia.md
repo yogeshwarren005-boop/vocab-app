@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ichthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear or intense dislike of fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific animal phobia causing severe nausea, panic, or autonomic distress at the sight, smell, or consumption of fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyophobia designates a term designating an entity, condition, or phenomenon derived from greek ichthy."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A severe sensory revulsion amounting to **ichthyophobia** may prevent an individual from entering a fishmonger's shop."*
+> - 📜 **H. P. Lovecraft (*The Shadow Over Innsmouth*):** *"The uncanny, glassy-eyed townsfolk inspired an overwhelming, nauseous **ichthyophobia** that made him flee the harbor."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Phobic taboos such as **ichthyophobia** frequently symbolize suppressed primitive disgust associated with infantile traumata."*

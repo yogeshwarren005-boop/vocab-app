@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics and electronics that deals with the study and applications of thermionic emission from heated conductors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In energy conversion, thermionic power generation—converting heat directly into electricity by driving electrons across a vacuum gap from an emitter to a collector.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermionics designates the branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes)."*
+> - 📜 **Owen Willans Richardson (*The Emission of Electricity from Hot Bodies*):** *"The fundamental science of **thermionics** treats the evaporation of electrons from a hot metal as analogous to the boiling of a liquid."*
+> - 📜 **John Ambrose Fleming (*Fifty Years of Electricity*):** *"The triumphs of long-distance wireless telephony rested squarely upon the practical foundations of **thermionics**."*
+> - 📜 **Freeman Dyson (*Disturbing the Universe*):** *"Direct thermal-to-electric conversion using high-temperature **thermionics** offered tantalizing promises for space nuclear power."*

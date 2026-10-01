@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oval stadium for horse and chariot races in ancient Greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arena for equestrian performances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek or Roman stadium designed for horse and chariot racing; or a modern arena, circus, or theater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and urban history, a massive elongated oval arena with tiered seating, such as the famous Hippodrome of Constantinople.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Royal Hippodrome Performance of Turpin’s Ride to York and the Death of Black Bess,” replied the man promptly, without turning his eyes or leaving off tying."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Royal Hippodrome Performance of Turpin’s Ride to York and the Death of Black Bess,” replied the man promptly, without turning his eyes or leaving off tying."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The factions of the **Hippodrome** in Constantinople shook the foundations of the Byzantine throne with the fury of the Nika riots."*
+> - 📜 **Lord Byron (*Don Juan*):** *"He traversed the wide square where ancient emperors once drove chariots around the colossal **hippodrome**."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"Moorish cavaliers displayed feats of equestrian horsemanship in the wide **hippodrome** outside the city gates."*

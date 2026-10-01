@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning this or that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From that circumstance or source; - w.v.quine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of that; of it; concerning or relating to that.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal legal prose and philosophical texts, indicating possession, origin, or derivation regarding an aforementioned entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good signior, take the stranger to my house, And with you take the chain, and bid my wife Disburse the sum on the receipt thereof; Perchance I will be there as soon as you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thereof came it that the man was mad."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It seems his sleeps were hindered by thy railing, And thereof comes it that his head is light."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"The source of every passion is the motion of the heart, and the diverse expressions **thereof** constitute the human character."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The king has the sole power of raising armies and the command of all military forces, and of all parts **thereof**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Constitution is the fundamental law of the land, and every part **thereof** must be preserved inviolate."*

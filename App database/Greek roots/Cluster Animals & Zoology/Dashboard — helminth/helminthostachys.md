@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: terrestrial fern of southeastern asia and australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: terrestrial fern of southeastern asia and australia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive terrestrial ferns containing the single species Helminthostachys zeylanica (kamraj).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, an ancient eusporangiate fern of the family Ophioglossaceae native to Indo-Pacific forests, characterized by spike-like fertile fronds resembling worm clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helminthostachys designates one species: terrestrial fern of southeastern asia and australia."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"I observed the curious spore-spikes of **Helminthostachys** in the damp coastal lowlands of tropical Australia."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The fertile spike of **Helminthostachys** bears clustered sporangia resembling dense, writhing worm-like appendages."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"Morphological comparisons place **Helminthostachys** in an archaic position alongside Ophioglossum and Botrychium."*

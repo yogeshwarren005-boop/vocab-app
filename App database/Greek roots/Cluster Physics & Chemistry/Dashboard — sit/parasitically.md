@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a parasitic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a parasitic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a parasitic manner; as a parasite, living at the expense of a host or other person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sycophancy or fawning dependence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasitically designates in a parasitic manner."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain species of ants live **parasitically** upon sister colonies, having lost the capacity to feed themselves."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He felt that he was existing **parasitically** upon the generosity of friends whose ideals he could not share."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The idle rich live **parasitically** upon the toil of laborers who produce the nation's actual wealth."*

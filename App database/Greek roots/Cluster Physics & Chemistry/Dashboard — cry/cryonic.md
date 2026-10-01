@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cryonics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cryonics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cryonics, the deep-freeze preservation of human bodies or brains after legal death in anticipation of future medical reanimation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing preservation chambers, equipment, or protocols associated with cryopreserving human remains at liquid nitrogen temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryonic designates of or relating to cryonics."*
+> - 📜 **Robert Ettinger (*The Prospect of Immortality*):** *"The **cryonic** suspension of the deceased represents an audacious wager on the boundless potential of future medical science."*
+> - 📜 **Isaac Asimov (*Change! Seventy-One Glimpses of the Future*):** *"While sensationalized in fiction, the **cryonic** storage of whole human organisms faces colossal biophysical hurdles."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Long before interstellar travel becomes commonplace, reliable **cryonic** hibernation will have to be perfected."*

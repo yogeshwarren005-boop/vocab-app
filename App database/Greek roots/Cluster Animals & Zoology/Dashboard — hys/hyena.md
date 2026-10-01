@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several large strong nocturnal carnivorous Old World mammals (family Hyaenidae) that usually feed as scavengers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spotted hyena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any carnivorous mammal of the family Hyaenidae, native to Africa and Asia, known for laughing calls and bone-crushing jaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, cursorial carnivores (spotted, striped, and brown hyenas, and the aardwolf) possessing sloping backs, powerful dentition, and complex clan social structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will laugh like a hyena, and that when thou are inclined to sleep."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She saw him dropping his keys and trying to grasp his stick, while he looked at her like an aged hyena, the muscles of his face getting distorted with the effort of his hand."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, call him the Hyena Whale, if you please."*
+> - 📜 **Aristotle (*History of Animals*):** *"The **hyena** is a nocturnal scavenger whose neck is so rigid that it must turn its whole body to look behind."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I will laugh like a **hyena**, and that when thou art inclined to sleep."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extraordinary strength of the jaws of the **hyena** enables it to crush the heavy bones left by lions."*

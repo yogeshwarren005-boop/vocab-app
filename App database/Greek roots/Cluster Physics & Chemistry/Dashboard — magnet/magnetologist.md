@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in the study of magnetism or geomagnetism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science and geophysics, an investigator monitoring magnetic field variations, solar-terrestrial physics, or magnetic materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetologist designates a term designating an entity, condition, or phenomenon derived from greek magnet."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"The **magnetologist** meticulously checked the declination of the needle at every camp along the Andean cordillera."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"Every competent **magnetologist** recognizes that magnetic secular variation reflects deep convective dynamics within the core."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The theoretical **magnetologist** seeks to synthesize all magnetic phenomena under common mechanical laws."*

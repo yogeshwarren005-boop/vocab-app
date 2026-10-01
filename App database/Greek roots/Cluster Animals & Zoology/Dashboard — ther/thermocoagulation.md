@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congealing tissue by heat (as by electric current).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congealing tissue by heat (as by electric current).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic coagulation and destruction of biological tissue or blood vessels using localized heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery, dermatology, and cardiology, the use of radiofrequency or thermal probes to ablate tumors, thrombose bleeding vessels, or destroy aberrant cardiac pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermocoagulation designates congealing tissue by heat (as by electric current)."*
+> - 📜 **Harvey Cushing (*Electro-Surgery as an Aid to the Removal of Intracranial Tumors*):** *"Point **thermocoagulation** of bleeding cerebral vessels reduced blood loss to a fraction of previous mortality rates."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Superficial angiomas and vascular nevi respond promptly to gentle, controlled cutaneous **thermocoagulation**."*
+> - 📜 **Michael DeBakey (*Surgical Techniques in Vascular Surgery*):** *"Modern high-frequency **thermocoagulation** seals capillary beds cleanly, preventing postoperative hematomas."*

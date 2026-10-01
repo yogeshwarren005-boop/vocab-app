@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or resulting from thermoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or resulting from thermoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermoelectricity; thermoelectric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing circuits, instrumentation, or energy conversion systems based on thermal-electrical coupling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoelectrical designates involving or resulting from thermoelectricity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **thermoelectrical** currents obtained by Melloni were sufficiently sensitive to detect the warmth of a candle across the room."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The **thermoelectrical** diagram invented by Tait exhibits the electromotive force as an area between characteristic curves."*
+> - 📜 **Lord Kelvin (William Thomson) (*Reprint of Papers on Electrostatics and Magnetism*):** *"A complete **thermoelectrical** analysis must account for the convective Thomson heat absorbed along the conductor."*

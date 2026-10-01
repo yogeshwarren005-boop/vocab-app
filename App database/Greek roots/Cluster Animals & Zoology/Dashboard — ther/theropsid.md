@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ther.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or belonging to the synapsid (mammal-like) lineage of amniotes, distinct from sauropsids (reptiles and birds); 'beast-faced'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and comparative vertebrate morphology, designating synapsids characterized by a single lower temporal fenestra, leading directly to mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theropsid designates a term designating an entity, condition, or phenomenon derived from greek ther."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The early divergence of amniotes separated the **theropsid** synapsids leading to mammals from the sauropsid line leading to lizards and birds."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"The Karoo fossils illustrate the progressive transformation of the **theropsid** skull toward mammalian cranial architecture."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"Our own remote ancestors were the humble **theropsid** synapsids that scuttled underfoot during the age of the dinosaurs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ornith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or augury by observing the flight, cries, or feeding behavior of birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and historical anthropology, sacred divination practiced by Roman augurs and ancient Greek seers to ascertain divine favor before civic or military actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithomancy designates a term designating an entity, condition, or phenomenon derived from greek ornith."*
+> - 📜 **Cicero (*De Divinatione*):** *"The Roman commonwealth never undertook any momentous enterprise without first consulting **ornithomancy** through the flight of eagles."*
+> - 📜 **Homer (*The Odyssey*):** *"Halitherses was skilled above all his peers in ancient **ornithomancy**, reading the omen of the twin eagles tearing at each other's throats."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Practices of **ornithomancy** rested upon the primitive belief that birds, as creatures of the upper air, were messengers of celestial gods."*

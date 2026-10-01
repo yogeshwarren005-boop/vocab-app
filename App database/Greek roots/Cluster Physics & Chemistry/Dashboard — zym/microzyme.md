@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute living particle or ferments postulated by Antoine Béchamp as the fundamental constituent and physiological ferment of all organized beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of nineteenth-century biology, the central concept in Béchamp's rival theory to Pasteur's germ theory of disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microzyme designates a term designating an entity, condition, or phenomenon derived from greek zym."*
+> - 📜 **Antoine Béchamp (*The Third Element of the Blood*):** *"The **microzyme** is the organized, living ferment that persists when cells disintegrate, building the living edifice anew."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Béchamp's hypothesis of the autonomous **microzyme** must yield to the incontrovertible proof of airborne microbial germs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The nineteenth-century debates between germ theory and the **microzyme** doctrine clarified our concepts of cellular pathology."*

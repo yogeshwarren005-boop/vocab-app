@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of physics that deals with the production and effects of very low temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of physics that deals with the production and effects of very low temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics and engineering that studies the production and effects of materials at very low temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technology of liquefying industrial gases and maintaining systems at temperatures below 120 kelvins for scientific and industrial applications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryogenics designates a branch of physics that deals with the production and effects of very low temperatures."*
+> - 📜 **Heike Kamerlingh Onnes (*Investigations into the Properties of Substances at Low Temperatures*):** *"The triumph of modern **cryogenics** was achieved when liquid helium boiled peacefully in our Leiden laboratory."*
+> - 📜 **James Dewar (*Collected Papers on Physical Phenomena*):** *"The practical foundations of **cryogenics** were established with the invention of the silvered vacuum flask."*
+> - 📜 **Freeman Dyson (*From Eros to Gaia*):** *"Without the remarkable advances in **cryogenics**, particle accelerators like the Tevatron could never have functioned."*

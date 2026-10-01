@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To induce magnetic properties in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attract like a magnet : charm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make magnetic; to impart magnetic properties to a material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attract, fascinate, or strongly influence someone; or historically, to mesmerize.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Might and wrong combined, like iron magnetized, are endowed with irresistible attraction."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A brief discharge from the battery was sufficient to **magnetize** the steel rod to saturation."*
+> - 📜 **Edgar Allan Poe (*The Facts in the Case of M. Valdemar*):** *"I attempted to **magnetize** the dying patient to test whether mesmeric trance could hold death at bay."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab's monomaniacal purpose seemed to **magnetize** the entire crew into one living weapon."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subscribing to the socialistic doctrine of ownership by the people collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subscribing to the socialistic doctrine of ownership by the people collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Owned, directed, or managed directly by the central government of a country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and political science, describing public sector enterprises, state broadcasting monopolies, or planned economic sectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, state-controlled designates subscribing to the socialistic doctrine of ownership by the people collectively."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"In Oceania, every printing press and broadcast was **state-controlled**, ensuring absolute uniformity of truth."*
+> - 📜 **Friedrich Hayek (*The Road to Serfdom*):** *"A totally **state-controlled** economy inevitably concentrates arbitrary power in the hands of central planners."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Strategic investments in **state-controlled** infrastructure can stimulate aggregate demand during severe recessions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mechan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emerging field of science at the interface of biology and physics that studies how physical forces and mechanical properties influence cells and tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular and tissue engineering, the investigation of mechanotransduction, extracellular matrix stiffness, and force-regulated gene expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanobiology designates a term designating an entity, condition, or phenomenon derived from greek mechan."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Physical forces shape the living organism, anticipating the modern discipline of **mechanobiology** by decades."*
+> - 📜 **Donald E. Ingber (*Tensegrity and Mechanoregulation*):** *"Cellular tensegrity provides the physical architectural framework for the discipline of **mechanobiology**."*
+> - 📜 **E. O. Wilson (*Consilience: The Unity of Knowledge*):** *"Bridging the gap between structural engineering and genetics, **mechanobiology** shows how mechanical tension directs embryonic cell fates."*

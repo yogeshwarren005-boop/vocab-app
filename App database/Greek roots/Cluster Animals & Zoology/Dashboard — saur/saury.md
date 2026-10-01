@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender long-beaked fish of temperate atlantic waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender long-beaked fish of temperate atlantic waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any slender, predatory marine fish of the family Scomberesocidae (especially the Atlantic or Pacific saury), having beak-like jaws and small finlets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelagic oceanography, fast-swimming epipelagic schooling fishes that leap across the ocean surface to escape tuna, dolphins, and seabirds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saury designates slender long-beaked fish of temperate atlantic waters."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Schools of glittering **saury** skittered across the surface of the Pacific, pursued by marauding albacore tuna."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The Pacific **saury**, Scomberesox saurus, is equipped with a slender bill and dorsal finlets resembling those of miniature swordfishes."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"In offshore waters, oceanic birds plunge from great heights into dense migratory shoals of **saury**."*

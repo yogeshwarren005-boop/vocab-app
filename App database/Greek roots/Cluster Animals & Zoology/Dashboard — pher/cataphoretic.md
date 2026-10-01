@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electrophoresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to electrophoresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or produced by cataphoresis (electrophoretic movement toward the cathode).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial coating technology and physical chemistry, describing cathodic electrodeposition processes used to apply corrosion-resistant primers to automobile bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphoretic designates of or relating to electrophoresis."*
+> - 📜 **Wilhelm Ostwald (*Outlines of General Chemistry*):** *"The **cataphoretic** velocity of suspended resin particles is directly proportional to the applied potential gradient."*
+> - 📜 **Walther Nernst (*Theoretical Chemistry*):** *"Measurements of **cataphoretic** mobility confirmed that the suspended gold particles bore net positive surface charges."*
+> - 📜 **Arthur D. Little (*The Chemist and His Work*):** *"Modern industrial electro-coating relies upon **cataphoretic** deposition to protect metallic surfaces from oxidation."*

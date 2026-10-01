@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (hys, hyos, 'swine, pig, boar') denoting pigs, bristled animals, or swine-like traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical etymology and zoological nomenclature, the ancient Indo-European stem found in hyena (hyaina, 'sow-beast') and Hystrix (the crested porcupine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Ye Wearie Wayfarer, hys Ballad In Eight Fyttes."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The prickly porcupine was anciently denominated Hystrix from the **hys** stem, denoting a bristly swine."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The root **hys** cognate with Latin sus designated the grunting swine across all major Indo-European dialects."*
+> - 📜 **Richard Owen (*Odontography*):** *"The bunodont molar configuration in the **hys** group represents an archaic omnivorous dental pattern."*

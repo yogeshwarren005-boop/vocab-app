@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal fear of snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal fear of snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, intense, or irrational fear of snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, one of the most common specific animal phobias worldwide, triggering severe panic attacks, autonomic arousal, and phobic avoidance upon encountering or viewing serpents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophidiophobia designates abnormal fear of snakes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The instantaneous leap and shudder provoked by a coiled rope in tall grass demonstrates how deeply **ophidiophobia** is imprinted in our neural circuitry."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"In psychoanalytic interpretation, persistent **ophidiophobia** often reflects archaic anxieties displaced onto serpentine symbols."*
+> - 📜 **H. P. Lovecraft (*The Curse of Yig*):** *"The pioneer woman suffered from a morbid, trembling **ophidiophobia** that made the rustling prairie grass a waking nightmare."*

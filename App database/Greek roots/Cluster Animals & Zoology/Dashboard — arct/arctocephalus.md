@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fur seals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fur seals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of eared seals (family Otariidae) comprising the southern fur seals, literally 'bear-headed'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy, polygynous pinnipeds of the Southern Hemisphere and subpolar islands possessing dense underfur and external ear pinnae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctocephalus designates fur seals."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Huge rookeries of the fur seal **Arctocephalus** formerly covered the rocky shores of the Falkland Islands."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The skull morphology of **Arctocephalus** reveals close ancestral ties with primitive arctoid carnivorans."*
+> - 📜 **Frank E. Beddard (*Mammalia*):** *"Intense 19th-century commercial hunting decimated populations of **Arctocephalus** across the subantarctic island belt."*

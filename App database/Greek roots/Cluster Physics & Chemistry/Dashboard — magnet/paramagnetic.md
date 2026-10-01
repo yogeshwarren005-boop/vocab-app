@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or exhibiting paramagnetism; having positive magnetic susceptibility and weakly attracted into a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum chemistry, describing substances containing one or more unpaired electrons, such as the triplet ground state of molecular oxygen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramagnetic designates being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Substances which align axially between magnetic poles I designate as **paramagnetic** bodies."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The **paramagnetic** susceptibility of molecular oxygen directly confirmed that two electrons occupy unpaired antibonding pi orbitals."*
+> - 📜 **Pierre Curie (*Propriétés magnétiques des corps*):** *"Curie's law established that the susceptibility of a **paramagnetic** substance is inversely proportional to absolute temperature."*

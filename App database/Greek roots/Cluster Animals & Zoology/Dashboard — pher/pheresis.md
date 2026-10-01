@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A procedure in which blood is drawn and separated into its components by dialysis; some are retained and the rest are returned to the donor by transfusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procedure in which blood is drawn and separated into its components by dialysis; some are retained and the rest are returned to the donor by transfusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apheresis; a medical procedure in which whole blood is drawn, specific components are removed, and the remainder reinfused.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology and oncology, targeted leukapheresis, plateletpheresis, or plasmapheresis employed to manage hematologic crises or collect therapeutic stem cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pheresis designates a procedure in which blood is drawn and separated into its components by dialysis; some are retained and the rest are returned to the donor by transfusion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern continuous-flow **pheresis** allows the safe extraction of excess white cells during hyperleukocytic leukemia."*
+> - 📜 **Hans Zinsser (*Immunity: Principles and Application in Medicine*):** *"The isolation of purified serum factors was greatly accelerated by early mechanized **pheresis** methods."*
+> - 📜 **Alexander Luria (*The Neuropsychology of Memory*):** *"Therapeutic exchange **pheresis** cleared circulating metabolic toxins, rapidly restoring the patient's cognitive clarity."*

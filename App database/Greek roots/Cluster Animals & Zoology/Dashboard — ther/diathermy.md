@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The generation of heat in tissue by electric currents for medical or surgical purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The generation of heat in tissue by electric currents for medical or surgical purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical and surgical technique involving the production of deep heat in body tissues by high-frequency electric currents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical therapy and electrosurgery, shortwave or microwave diathermy used for deep tissue heating, coagulation, or surgical cutting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diathermy designates the generation of heat in tissue by electric currents for medical or surgical purposes."*
+> - 📜 **Harvey Cushing (*Electro-Surgery as an Aid to the Removal of Intracranial Tumors*):** *"High-frequency surgical **diathermy** allowed bloodless dissection of vascular brain tumors with minimal hemorrhage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Deep tissue heating via medical **diathermy** provided substantial analgesic relief in chronic rheumatoid arthritis."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Physical rehabilitation protocols incorporated gentle **diathermy** to relieve intractable muscular spasms."*

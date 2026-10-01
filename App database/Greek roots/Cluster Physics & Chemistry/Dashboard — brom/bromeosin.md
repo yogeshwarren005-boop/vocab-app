@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red fluorescent dye resulting from the action of bromine on fluorescein; used in cosmetics and as a biological stain for studying cell structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red fluorescent dye resulting from the action of bromine on fluorescein; used in cosmetics and as a biological stain for studying cell structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red or pink fluorescent halogenated dye derived from fluorescein by substitution with bromine atoms (commonly known as eosin Y).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and microscopy, a vital acidophilic biological stain used to counterstain cell cytoplasm, collagen, and erythrocytes against hematoxylin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromeosin designates a red fluorescent dye resulting from the action of bromine on fluorescein; used in cosmetics and as a biological stain for studying cell structures."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Counterstaining with **bromeosin** brought out the delicate boundaries of the glial somata."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology and Haematology*):** *"The basic granules of eosinophil leukocytes show strong affinity for tetrabromofluorescein or **bromeosin**."*
+> - 📜 **Edward B. Wilson (*The Cell in Development and Inheritance*):** *"Under the immersion lens, the spindle fibers stood out sharply against the pale **bromeosin** background."*

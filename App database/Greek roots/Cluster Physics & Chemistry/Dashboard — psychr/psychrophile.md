@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of cold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of cold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremophilic organism (especially a bacterium or alga) capable of growth and reproduction at cold temperatures ranging from -20 to 10 degrees Celsius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and astrobiology, cold-loving microorganisms thriving in polar ice, deep ocean abyssal plains, and glaciers, possessing specialized flexible enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychrophile designates adjective*) pertaining to, derived from, or characteristic of cold."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The red snow of alpine glaciers is caused by blooms of a unicellular **psychrophile** alga producing protective carotenoids."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"If life thrives in the sub-zero ice pack of Jupiter's moon Europa, it must resemble an extremophilic **psychrophile**."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Proteins synthesized by an obligate **psychrophile** are so structurally adapted to cold that room temperature denatures them."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On that.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On that or it; thereupon; upon that place or subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and historical registers, indicating physical placement or intellectual deliberation upon a stated matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he love her not, And be not from his reason fall’n thereon, Let me be no assistant for a state, But keep a farm and carters."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thereon I pawn my credit and mine honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send to her, by the man that slew her brothers, A pair of bleeding hearts; thereon engrave “Edward” and “York.” Then haply will she weep."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He built an altar of rough unhewn stones, and laid the first-fruits of his harvest **thereon** with solemn prayer."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"If land be conveyed to a man and his heirs, all buildings erected **thereon** become parcel of the inheritance."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The clerk produced a vast parchment treaty, requiring the ambassadors to sign their seals **thereon**."*

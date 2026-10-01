@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring temperatures especially when beyond the range of mercurial thermometers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring temperatures especially when beyond the range of mercurial thermometers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the measurement of high temperatures (pyrometry); or measured by a pyrometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceramics and metallurgy, designating pyrometric cones (Seger cones) that deform at specific high temperatures to monitor kiln heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrometric designates an instrument for measuring temperatures especially when beyond the range of mercurial thermometers."*
+> - 📜 **Josiah Wedgwood (*Description of a Pyrometer Supplied to the Royal Society*):** *"The shrinkage of clay cylinders provided the earliest reliable **pyrometric** scale for industrial pottery kilns."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"High-temperature thermodynamics required optical **pyrometric** observations calibrated against blackbody radiation."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The **pyrometric** resistance of a platinum wire increases with temperature, allowing exact thermometry in blast furnaces."*

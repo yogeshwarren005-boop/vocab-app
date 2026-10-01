@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rented car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rented car.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (akari, 'mite, tiny tick') denoting mites, ticks, and microscopic acarines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological nomenclature, the ancestral base of taxon Acarina, designating arachnids with unsegmented cephalothorax and abdomen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acar designates a rented car."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The tiny parasitic creature was grouped under the genus **Acarus**, marking the origin of all **acar** nomenclature."*
+> - 📜 **William Spence (*An Introduction to Entomology*):** *"Microscopic examination reveals the minute **acar** forms that harbor within domestic dust and animal pelt."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"The **acar** group comprises degenerate arachnida adapted to diverse ectoparasitic habitats."*

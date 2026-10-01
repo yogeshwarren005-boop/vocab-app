@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pleuronectidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of pleuronectidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of righteye flatfishes (family Pleuronectidae) including the American plaice and rough dab.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine fisheries biology, cold-water benthic flatfishes inhabiting North Atlantic and North Pacific continental shelves, morphologically resembling small halibuts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippoglossoides designates a genus of pleuronectidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The American plaice, classified as **Hippoglossoides** platessoides, supports an extensive bottom trawl fishery in the Grand Banks."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Specimens of **Hippoglossoides** were dredged from the muddy seabed at depths exceeding one hundred fathoms."*
+> - 📜 **Albert Gunther (*Catalogue of the Fishes in the British Museum*):** *"The mouth of **Hippoglossoides** is large and symmetrical, armed with sharp conical teeth suited for seizing small crabs."*

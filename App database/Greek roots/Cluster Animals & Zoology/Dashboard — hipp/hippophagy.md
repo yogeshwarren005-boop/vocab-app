@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hipp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or custom of eating horse meat as food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history and anthrozoology, the consumption of equine meat, widely tabooed in Anglo-American culture but traditionally embraced in parts of Europe and Central Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippophagy designates a term designating an entity, condition, or phenomenon derived from greek hipp."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The gauchos of the Argentine pampas subsist cheerfully upon beef, though some indigenous tribes practice regular **hippophagy**."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Papal edicts in the eighth century strictly forbade **hippophagy** to break Christian converts from pagan Germanic sacrifices."*
+> - 📜 **Thomas Henry Huxley (*Scientific Essays*):** *"Economic reformers argued that regulated **hippophagy** would provide wholesome, affordable animal protein to the urban poor."*

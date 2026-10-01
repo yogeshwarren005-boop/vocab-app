@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender, eel-like marine fishes commonly known as snake blennies (family Clinidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, cryptic benthic blennies endemic to the temperate rocky reefs and kelp beds of southern Australia, possessing elongated bodies and minute scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ophiclinus designates a term designating an entity, condition, or phenomenon derived from greek ophi."*
+> - 📜 **Castelnau (*Contribution to the Ichthyology of Australia*):** *"I established the genus **Ophiclinus** for these curious, elongated blennies that wriggle like little vipers among coastal seaweeds."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The snake blennies of **Ophiclinus** hide in tidal rockpools, matching the reddish-brown hues of coralline turf."*
+> - 📜 **Albert Gunther (*Catalogue of the Fishes in the British Museum*):** *"The dorsal and anal fins of **Ophiclinus** extend along nearly the entire length of the serpentiform body."*

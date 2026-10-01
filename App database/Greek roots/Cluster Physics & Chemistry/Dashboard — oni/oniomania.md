@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oni.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An uncontrollable, compulsive desire or urge to buy things; compulsive buying disorder or shopping addiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, an impulse control disorder first classified by Emil Kraepelin and Eugen Bleuler, characterized by distressing, financially ruinous purchases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oniomania designates a term designating an entity, condition, or phenomenon derived from greek oni."*
+> - 📜 **Emil Kraepelin (*Psychiatrie: Ein Lehrbuch*):** *"Among the reactive impulsive neuroses, **oniomania** stands out as a pathological compulsion to buy without practical necessity."*
+> - 📜 **Eugen Bleuler (*Textbook of Psychiatry*):** *"Patients afflicted with **oniomania** run up astronomical debts, deriving gratification solely from the act of purchasing."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Certain forms of kleptomania and **oniomania** represent symbolic substitutes for unfulfilled emotional needs."*

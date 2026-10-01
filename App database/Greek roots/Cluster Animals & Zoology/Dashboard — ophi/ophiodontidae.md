@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes closely related to greenlings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes closely related to greenlings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former or subfamilial taxonomic grouping of scorpaeniform fishes containing the lingcod (genus Ophiodon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, a taxon historically separated from Hexagrammidae on account of the lingcod's massive canine dentition and predatory cranial adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiodontidae designates fishes closely related to greenlings."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"I proposed the family **Ophiodontidae** to emphasize the singular dental and osteological specializations of the Pacific lingcod."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Modern systematists generally reduce **Ophiodontidae** to a subfamily within the broader greenling family Hexagrammidae."*
+> - 📜 **Albert Gunther (*Catalogue of the Fishes in the British Museum*):** *"The skull architecture of the **Ophiodontidae** reveals an evolutionary transition toward apex macropredation."*

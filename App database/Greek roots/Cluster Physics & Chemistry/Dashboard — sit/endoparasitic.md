@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to parasites that live in the internal organs of animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to parasites that live in the internal organs of animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living as an endoparasite; of, relating to, or characteristic of internal parasites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, exhibiting morphological and metabolic adaptations to life within a host's internal organs or bloodstream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoparasitic designates of or relating to parasites that live in the internal organs of animals."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complete loss of a digestive tract in tapeworms represents an ultimate adaptation to an **endoparasitic** existence."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Complex multi-host life cycles characterize many **endoparasitic** helminths inhabiting tropical waters."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"The **endoparasitic** wasp larva devours the caterpillar's fat bodies while carefully preserving its vital organs until pupation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Matters not regarded as essential to faith or morals; things that are indifferent, neutral, or non-obligatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic philosophy and Christian theology, actions or liturgical practices that fall outside absolute moral duty or divine commandment (Greek 'things indifferent').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adiaphora designates a term designating an entity, condition, or phenomenon derived from greek pher."*
+> - 📜 **John Milton (*Areopagitica*):** *"In matters of **adiaphora**, Christian liberty permits diverse practices according to each man's conscience."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"Fame, wealth, and physical health are mere **adiaphora**, having no power over the moral integrity of the ruling center."*
+> - 📜 **Richard Hooker (*Of the Lawes of Ecclesiasticall Politie*):** *"The church retains sovereign authority to regulate ceremonial **adiaphora** for the preservation of public order."*

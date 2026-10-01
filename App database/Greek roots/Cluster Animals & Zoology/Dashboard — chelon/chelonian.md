@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile of the order chelonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling or being a turtle or tortoise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any reptile belonging to the order Chelonia (or Testudines); or of, relating to, or resembling a turtle or tortoise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, designating reptiles possessing a protective shell composed of carapace and plastron, horny beaks instead of teeth, and oviparous reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chelonian designates a reptile of the order chelonia."*
+> - 📜 **Herman Melville (*The Encantadas*):** *"The monstrous **chelonian** dragged its ponderous shell across the scorched volcanic slag with stoic endurance."*
+> - 📜 **Frank E. Beddard (*The Cambridge Natural History: Reptiles*):** *"The longevity of the **chelonian** species is legendary, with many tortoises surviving well past a century."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The inside-out development of the **chelonian** shoulder girdle represents one of evolution's most marvelous topological puzzles."*

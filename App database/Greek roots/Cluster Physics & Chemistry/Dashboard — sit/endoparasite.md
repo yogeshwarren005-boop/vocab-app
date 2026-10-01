@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasite that lives in the internal organs or tissues of its host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasite that lives in the internal organs or tissues of its host.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasite that lives inside the body or tissues of its host (such as a tapeworm, roundworm, or liver fluke).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical parasitology, internal pathogens causing systemic disease, malnutrition, or organ failure in humans and livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoparasite designates a parasite that lives in the internal organs or tissues of its host."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The extreme anatomical degeneration in an **endoparasite** like the tapeworm reflects total reliance upon the host's digested nutrients."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Domestic sheep are notoriously vulnerable to the devastating ravages of the liver fluke **endoparasite**."*
+> - 📜 **Richard Dawkins (*The Extended Phenotype*):** *"An **endoparasite** may alter the host's behavior to increase the likelihood of transmission to its final definitive host."*

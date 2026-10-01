@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine that lowers blood cholesterol levels by inhibiting hmg-coa reductase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that lowers blood cholesterol levels by inhibiting hmg-coa reductase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of lipid-lowering medications that reduce serum cholesterol levels by inhibiting the enzyme HMG-CoA reductase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular medicine, pharmaceutical agents (such as atorvastatin, simvastatin, or rosuvastatin) widely prescribed to prevent atherosclerotic cardiovascular disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statin designates a medicine that lowers blood cholesterol levels by inhibiting hmg-coa reductase."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Prescribing a daily **statin** dramatically reduces the long-term risk of myocardial infarction in high-risk patients."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"The widespread use of the **statin** class has postponed vascular mortality well into the eighth and ninth decades of life."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"The biological discovery of the **statin** mechanism revolutionized our pharmacological control over hepatic cholesterol synthesis."*

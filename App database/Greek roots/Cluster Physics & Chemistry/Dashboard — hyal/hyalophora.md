@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American silkworm moth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American silkworm moth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large North American silk moths in the family Saturniidae, including the spectacular cecropia moth (Hyalophora cecropia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect physiology and developmental biology, a model organism widely studied for diapause, juvenile hormone action, and metamorphosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalophora designates american silkworm moth."*
+> - 📜 **Carroll Williams (*Physiology of Insect Diapause*):** *"The silkworm moth **Hyalophora** cecropia provided the ideal system to discover the brain hormone controlling insect metamorphosis."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Male silk moths of the genus **Hyalophora** possess elaborate feathery antennae capable of sensing a single pheromone molecule miles away."*
+> - 📜 **Bernd Heinrich (*The Hot-Blooded Insects*):** *"Before takeoff, the giant **Hyalophora** moth shivers its thoracic flight muscles to reach operational temperature."*

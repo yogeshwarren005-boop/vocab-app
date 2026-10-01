@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Only sauries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Only sauries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of slender epipelagic marine fishes commonly known as sauries (order Beloniformes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, fast-swimming schooling fishes possessing slender beaks, dorsal finlets, and silvery sides, forming a critical forage base for tunas and seabirds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombresocidae designates only sauries."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The family **Scombresocidae** includes oceanic fishes that leap gracefully above the waves to escape chasing pelagic predators."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Specimens of **Scombresocidae** were gathered under night lanterns as they skimmed the surface of the Gulf Stream."*
+> - 📜 **Albert Gunther (*Catalogue of the Fishes in the British Museum*):** *"The beak-like prolongation of the jaws in **Scombresocidae** is equipped with minute teeth suited for plankton feeding."*

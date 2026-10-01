@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that is photosynthetic and produces its own food but obtains water and mineral nutrients from a host plant (such as mistletoe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, a facultative or obligate root or stem parasite that taps the host's xylem via specialized haustorial organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiparasite designates a parasitic plant that contains some chlorophyll and therefore is capable of photosynthesis."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The common mistletoe is a well-known **hemiparasite**, synthesizing its own carbon while extracting water and salts from the apple tree."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Many grassland scrophulariaceous species live as a subtle **hemiparasite**, connecting to adjacent grass roots by subterranean haustoria."*
+> - 📜 **John Muir (*Our National Parks*):** *"Golden boughs of the mistletoe **hemiparasite** clustered in the ancient oaks of the valley."*

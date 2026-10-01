@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the sense of smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the sense of smell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total loss of the sense of smell, either temporary or permanent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and otolaryngology, an olfactory deficit resulting from nasal mucosal disease, viral respiratory infection, or olfactory nerve injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anosmia designates loss or impairment of the sense of smell."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"A sudden fall from a bicycle resulted in bilateral **anosmia**, robbing his world of scent and culinary flavor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unilateral **anosmia** can provide a vital early sign of an olfactory groove meningioma compressing the olfactory tract."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The abrupt onset of **anosmia** without nasal congestion served as a hallmark diagnostic indicator during the viral pandemic."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of osmosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of osmosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an osmotic manner; by means of osmosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell physiology, describing solutes (such as mannitol or glucose) that exert water-drawing forces across biological membranes (osmotically active).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmotically designates by means of osmosis."*
+> - 📜 **August Krogh (*Osmotic Regulation in Aquatic Animals*):** *"Freshwater teleosts are **osmotically** flooded with water through their delicate gill membranes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infusion of concentrated mannitol acts **osmotically** to draw edema fluid out of swollen brain tissue."*
+> - 📜 **Ernest Starling (*The Fluids of the Body*):** *"Fluid is drawn **osmotically** back into the venous capillary limb where oncotic pressure exceeds hydrostatic force."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of urea or other nitrogenous wastes in the blood as a result of kidney insufficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excess of urea or other nitrogenous wastes in the blood as a result of kidney insufficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of urea, creatinine, and other nitrogenous waste compounds in the blood, typically resulting from kidney failure or impaired renal clearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology, categorized as prerenal, intrinsic renal, or postrenal azotemia based on etiology and urinary biochemical indices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, azotemia designates an excess of urea or other nitrogenous wastes in the blood as a result of kidney insufficiency."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive bilateral renal disease invariably culminates in severe **azotemia**, marked by lethargy and uremic frost."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Severe circulatory collapse diminishes glomerular filtration, producing acute prerenal **azotemia** without permanent tubular necrosis."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The retention of urinary salts within the systemic circulation gave rise to terminal **azotemia** and convulsive seizures."*

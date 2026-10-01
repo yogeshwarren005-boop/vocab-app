@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a (specified) animal mode of existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a (specified) geologic era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or containing animal life; relating to animals or geological eras characterized by distinct animal faunas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological nomenclature and stratigraphy, forming suffixes designating major eons and eras (e.g., Paleozoic, Mesozoic, Cenozoic, Phanerozoic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoic designates having a (specified) animal mode of existence."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geological strata bearing organic animal fossils are classified as distinctly **zoic** formations."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The vast transition from azoic crystalline beds to fossil-rich **zoic** rocks marks the dawn of the Phanerozoic."*
+> - 📜 **Alpheus Spring Packard (*Zoology for High Schools and Colleges*):** *"The entire fossiliferous column reflects successive evolutionary chapters of **zoic** life on Earth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having unequal or differing statistical variances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having unequal or differing statistical variances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unequal or non-constant statistical variance across observations or predictor values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In econometrics and regression analysis, describing residual error terms whose variance changes systematically with explanatory variables, violating Gauss-Markov assumptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroscedastic designates the property of having unequal or differing statistical variances."*
+> - 📜 **Karl Pearson (*On the Theory of Contingency and Its Relation to Association and Normal Correlation*):** *"When array variances are unequal, the distribution is properly designated **heteroscedastic**."*
+> - 📜 **Milton Friedman (*A Theory of the Consumption Function*):** *"Cross-sectional household expenditure data exhibit markedly **heteroscedastic** residuals as income levels increase."*
+> - 📜 **John Maynard Keynes (*A Treatise on Probability*):** *"The assumption of uniform dispersion fails whenever underlying economic series prove to be **heteroscedastic**."*

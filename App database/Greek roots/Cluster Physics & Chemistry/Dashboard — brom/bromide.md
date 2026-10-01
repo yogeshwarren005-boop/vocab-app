@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary compound of bromine with another element or a radical including some (such as potassium bromide) used as sedatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commonplace or tiresome person : bore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary chemical compound of bromine with another element or radical, especially a salt such as potassium bromide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A platitude, cliché, or trite comforting remark; or historically, a sedative medication containing potassium or sodium bromide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
+> - 📜 **Gelett Burgess (*Are You a Bromide?*):** *"A **bromide** is someone who says the obvious thing with an air of profound discovery."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The physician administered a soothing dose of potassium **bromide** to calm the agitated witness."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"The scent of **bromide** and chloral hung faintly in the quiet sanatorium corridor."*

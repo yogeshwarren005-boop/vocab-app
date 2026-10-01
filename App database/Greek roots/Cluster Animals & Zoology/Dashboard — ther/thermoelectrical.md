@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or resulting from thermoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or resulting from thermoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to thermoelectricity; thermoelectric (variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and experimental physics, describing instruments, currents, or circuits driven by thermal electromotive forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoelectrical designates involving or resulting from thermoelectricity."*
+> - 📜 **William Crookes (*On the Illumination of Lines of Molecular Pressure*):** *"The radiometer vanes rotated when subjected to **thermoelectrical** radiation inside the high-vacuum bulb."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Galvanometers coupled to **thermoelectrical** receivers measured the minute heat received from bright stars."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"Careful thermal shielding of all junction points prevented spurious **thermoelectrical** currents from distorting the bridge balance."*

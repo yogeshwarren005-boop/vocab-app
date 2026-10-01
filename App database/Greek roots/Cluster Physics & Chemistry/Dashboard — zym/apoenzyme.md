@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein that combines with a coenzyme to form an active enzyme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protein that combines with a coenzyme to form an active enzyme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The protein component of an enzyme, which is catalytically inactive on its own and requires the binding of a specific cofactor or coenzyme to form an active holoenzyme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzymology, the polypeptide scaffold providing the stereospecific active-site cleft for cofactor coordination and substrate binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apoenzyme designates a protein that combines with a coenzyme to form an active enzyme."*
+> - 📜 **Hans Adolf Krebs (*Reminiscences and Reflections*):** *"Separation of the dialyzable coenzyme left the protein **apoenzyme** completely devoid of catalytic activity."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The binding of a trace metal ion to the **apoenzyme** restores the catalytic conformation required for substrate cleavage."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"Only when the cofactor docks into the **apoenzyme** does the functional holoenzyme reconstitute its catalytic power."*

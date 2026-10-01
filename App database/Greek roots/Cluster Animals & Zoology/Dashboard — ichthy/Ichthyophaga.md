@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ichthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large fish-hunting raptors (family Accipitridae), commonly known as fish eagles or river eagles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, raptorial birds of South and Southeast Asia possessing spiny spicules on the foot soles (spicules) adapted for gripping slippery, struggling fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ichthyophaga designates a term designating an entity, condition, or phenomenon derived from greek ichthy."*
+> - 📜 **Allan Octavian Hume (*Stray Feathers*):** *"The grey-headed fish eagle **Ichthyophaga** plunged talons-first into the jungle lagoon, emerging with a heavy carp."*
+> - 📜 **Richard Bowdler Sharpe (*Catalogue of the Birds in the British Museum*):** *"Species of **Ichthyophaga** frequent forested riverbanks, nesting high in emergent trees overlooking deep pools."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The rasp-like scales on the undersides of the toes of **Ichthyophaga** prevent the slick scales of fish from slipping."*

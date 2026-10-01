@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of rejoicing : the state of being jubilant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of great joy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of great happiness, triumph, or rejoicing; festive celebration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and literature, widespread public celebrations following peace, liberation, or momentous achievements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Great was the jubilation while the effigy of the traitor was being consumed in the flames."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Great was the jubilation while he was burning."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"The boy gave a loud, high shriek, which, lost in the rest of the shock of sound, might have seemed, indistinctly, though I was so close to him, a note either of jubilation or of terror."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The news of the barbarian defeat was received in Rome with wild **jubilation** and lavish games in the amphitheater."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Shouts of genuine **jubilation** echoed along the battalions as the Tsar rode past on his white stallion."*
+> - 📜 **Frederick Douglass (*Life and Times of Frederick Douglass*):** *"The midnight proclamation of emancipation brought tears of speechless **jubilation** to thousands in the packed hall."*

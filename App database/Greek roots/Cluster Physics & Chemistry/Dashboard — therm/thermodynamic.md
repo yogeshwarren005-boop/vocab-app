@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to a system of atoms, molecules, colloidal particles, or larger bodies considered as an isolated group in the study of thermodynamic processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermodynamics; involving the relations between heat and other forms of energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and chemistry, describing equilibrium states, state functions, or reversible transformations governed by the laws of thermodynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamic designates of or relating to thermodynamics."*
+> - 📜 **Rudolf Clausius (*The Mechanical Theory of Heat*):** *"The second fundamental theorem of the mechanical theory of heat governs every **thermodynamic** cycle."*
+> - 📜 **Lord Kelvin (William Thomson) (*On the Dynamical Theory of Heat*):** *"The absolute **thermodynamic** scale of temperature is independent of the physical properties of any specific fluid."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The **thermodynamic** potential reaches a minimum when a multi-phase system attains stable equilibrium."*

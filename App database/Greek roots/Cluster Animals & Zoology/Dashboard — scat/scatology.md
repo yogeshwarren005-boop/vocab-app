@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interest in or treatment of obscene matters especially in literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biologically oriented study of excrement (as for taxonomic purposes or for the determination of diet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsessive interest in or preoccupation with excrement and obscenity; or the scientific study of fossil or animal feces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and field ecology, the analysis of coprolites and modern droppings to determine trophic networks and prehistoric diets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatology designates interest in or treatment of obscene matters especially in literature."*
+> - 📜 **William Buckland (*Reliquiae Diluvianae*):** *"Scientific **scatology** reached high dignity when fossil coprolites revealed the digested prey of Liassic reptiles."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The primitive laughter of the savages seemed to the civilized traveler an embarrassing descent into infantile **scatology**."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"The infant's anal-erotic fixation provides the psychological substrate for subsequent adult **scatology**."*

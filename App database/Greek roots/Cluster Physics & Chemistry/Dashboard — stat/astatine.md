@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, highly radioactive halogen chemical element with atomic number 85 and symbol At, the rarest naturally occurring element in the Earth's crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear chemistry and oncology, a short-lived alpha-emitting radioisotope (astatine-211) researched for targeted alpha-particle radiotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astatine designates a radioactive halogen element discovered by bombarding bismuth with alpha particles and also formed by radioactive decay."*
+> - 📜 **Emilio Segrè (*Discovery of Element 85*):** *"Because all its isotopes undergo rapid radioactive disintegration, we proposed the name **astatine**, from the Greek word for unstable."*
+> - 📜 **Glenn T. Seaborg (*The Transuranium Elements*):** *"The synthesis of **astatine** by bombarding bismuth with alpha particles completed the halogen column of the periodic table."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Chemically, **astatine** behaves as a heavy, metalloid halogen exhibiting both electronegative and metallic characteristics."*

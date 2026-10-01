@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek capn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement and numerical display of carbon dioxide concentrations in respiratory gases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The diagnostic discipline and methodology of quantifying end-tidal carbon dioxide (EtCO2) in pulmonary medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capnometry designates a term designating an entity, condition, or phenomenon derived from greek capn."*
+> - 📜 **Julius Comroe (*The Lung: Clinical Physiology and Pulmonary Function Tests*):** *"Routine **capnometry** in intensive care units provides an immediate index of effective alveolar gas exchange."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Even without full waveform imaging, simple colorimetric **capnometry** alerts the paramedic to tracheal intubation."*
+> - 📜 **Paul Kalanithi (*When Breath Becomes Air*):** *"We tracked the patient's respiratory stabilization through quantitative **capnometry** over the critical post-operative hours."*

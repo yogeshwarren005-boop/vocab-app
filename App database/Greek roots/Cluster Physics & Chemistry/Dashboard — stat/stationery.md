@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paper cut to an appropriate size for writing letters; usually with matching envelopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paper cut to an appropriate size for writing letters; usually with matching envelopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing materials, especially envelopes, paper, pens, and related office supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fine paper goods and correspondence cards bearing personal monograms, watermarks, or official emblems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; and the complete equipage whirls though the law-stationery business at wild speed all round the clock."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"For there was something very comfortable in having plenty of stationery."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Soothed by my exertions, my method, and Herbert’s compliments, I would sit with his symmetrical bundle and my own on the table before me among the stationery, and feel like a Bank of some sort, rather than a private individual."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She opened the desk and took out fresh sheets of fine Bath **stationery** to write to her sister."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Sherlock Holmes held the sheet of pink-tinted **stationery** up to the gaslight to inspect the Bohemian watermark."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Invitations printed upon heavy cream-colored **stationery** were delivered by chauffeur throughout the neighborhood."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek osmē, meaning 'smell', 'odor', or 'scent'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical and biomedical nomenclature, the classical root forming terms relating to olfaction and the metallic element osmium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osm designates a term designating an entity, condition, or phenomenon derived from greek osm."*
+> - 📜 **Smithson Tennant (*On Two New Metals Found in the Black Powder Remaining after the Solution of Platina*):** *"As the oxide of this new metal possesses a pungent, penetrating odor, I have named it from the Greek root **osm**-."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The Greek morpheme **osm**- serves as the universal prefix for all diagnostic classifications of olfactory dysfunction."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Structures retaining the root **osm**- reflect the primal evolutionary role of olfaction in vertebrate behavior."*

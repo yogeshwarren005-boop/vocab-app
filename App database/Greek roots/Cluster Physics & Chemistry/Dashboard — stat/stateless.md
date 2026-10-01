@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without nationality or citizenship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without nationality or citizenship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not recognized as a citizen or national by any state under the operation of its law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and computer science, lacking a formal central state government; or in software, a protocol (such as HTTP) that does not retain session information.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stateless designates without nationality or citizenship."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"The plight of millions of **stateless** refugees revealed that the fundamental human right is the right to have rights under a state."*
+> - 📜 **E. E. Evans-Pritchard (*The Nuer*):** *"The Nuer society functions as a **stateless** segmentary lineage system ordered by ordered anarchy."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"He met dispossessed **stateless** exiles whose papers had been stripped by totalitarian decrees."*

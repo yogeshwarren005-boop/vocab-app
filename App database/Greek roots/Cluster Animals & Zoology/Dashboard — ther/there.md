@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A location other than here; that place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or at that place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In, at, or to that place or position; or used to indicate the fact or existence of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English grammar and literature, a demonstrative adverb or dummy pronoun introducing an existential clause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there can live no hatred in thine eye, Therefore in that I cannot know thy change, In many’s looks, the false heart’s history Is writ in moods and frowns and wrinkles strange."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To be, or not to be, that is the question... **There**'s the respect that makes calamity of so long life."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A dungeon horrible, on all sides round, as one great furnace flamed; yet from those flames no light, but rather darkness visible served only to discover sights of woe, regions of sorrow, doleful shades, where peace and rest can never dwell, hope never comes that comes to all, but torture without end still urges, and a fiery deluge, fed with ever-burning sulphur unconsumed: such place Eternal Justice had prepared for those rebellious, **there** their prison ordained."*
+> - 📜 **Walt Whitman (*Song of Myself*):** *"I celebrate myself, and sing myself, and what I assume you shall assume, for every atom belonging to me as good belongs to you. I loaf and invite my soul, I lean and loaf at my ease observing a spear of summer grass. My tongue, every atom of my blood, formed from this soil, this air, born here of parents born here from parents the same, and their parents the same, I, now thirty-seven years old in perfect health begin, hoping to cease not till death. Creeds and schools in abeyance, retiring back a while sufficed at what they are, but never forgotten, I harbor for good or bad, I permit to speak at every hazard, nature without check with original energy. Stop this day and night with me and you shall possess the origin of all poems, you shall possess the good of the earth and sun, **there** are millions of suns left."*

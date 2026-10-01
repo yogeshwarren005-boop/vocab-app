@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who spends money prodigally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who spends money prodigally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who squanders or spends money recklessly; a spendthrift or prodigal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional folklore and literature, an extravagant heir who dissipates accumulated wealth through reckless generosity or gambling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scattergood designates someone who spends money prodigally."*
+> - 📜 **William Makepeace Thackeray (*The Virginians*):** *"Young Harry was a notorious **scattergood**, distributing gold guineas among stable-boys and gaming companions."*
+> - 📜 **Benjamin Franklin (*Poor Richard's Almanack*):** *"A frugal father too often rears a careless **scattergood** son who empties the coffers in a single season."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The old squire sighed over the eccentric whims of his nephew, whom the village gossips dubbed a charming **scattergood**."*

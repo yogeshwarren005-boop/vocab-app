@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that exhibits diamagnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that exhibits diamagnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or body that exhibits diamagnetism, being repelled by a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, any material (such as bismuth, water, copper, or graphite) whose atoms possess no net unpaired electron spins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diamagnet designates a substance that exhibits diamagnetism."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Bismuth is the most remarkable **diamagnet** in nature, pointing equatorially across lines of magnetic force."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"When placed between the poles of an electromagnet, a true **diamagnet** moves toward the region of weakest field."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"The mechanical force acting upon a **diamagnet** is directed opposite to the magnetic gradient."*

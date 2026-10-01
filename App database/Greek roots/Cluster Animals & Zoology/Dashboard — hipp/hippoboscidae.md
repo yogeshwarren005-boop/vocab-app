@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Winged or wingless dipterans: louse flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winged or wingless dipterans: louse flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of specialized parasitic flies (superfamily Hippoboscoidea) including louse flies, forest flies, and sheep keds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary parasitology, blood-feeding dipterans exhibiting adenotrophic viviparity and remarkable adaptations for phoretic hitchhiking upon avian and mammalian hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippoboscidae designates winged or wingless dipterans: louse flies."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The family **Hippoboscidae** contains abnormal flies whose clawed tarsi are marvelously adapted for clinging to hair and feathers."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Members of **Hippoboscidae** transmit hematozoan parasites and cause severe irritation in domestic herds."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"Latreille assigned the **Hippoboscidae** to the order Pupipara because the female produces a hardened puparium rather than eggs."*

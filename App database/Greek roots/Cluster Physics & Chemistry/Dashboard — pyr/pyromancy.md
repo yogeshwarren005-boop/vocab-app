@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of fire or flames.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of fire or flames.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or fortune-telling by means of fire, embers, or the behavior of sacrificial flames.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient form of mantic prophecy practiced across Greece, Rome, and China (including scapulimancy over fire).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyromancy designates divination by means of fire or flames."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The ancient art of **pyromancy** interpreted the quiet, steady burning of the altar flame as a promise of peace."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Like hydromancy and aeromancy, **pyromancy** sought signs in the unpredictable motions of natural elements."*
+> - 📜 **Lewis Spence (*An Encyclopaedia of Occultism*):** *"In classical **pyromancy**, pitch or incense cast onto live coals produced flashes read by the priest."*

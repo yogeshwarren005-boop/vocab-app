@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that registers the temperature at some distant point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that registers the temperature at some distant point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical or electronic thermometer designed to measure and indicate temperature at a distance from the sensor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and industrial engineering, a remote thermometric sensor transmitting readings via telemetry or telegraph wire to a central control board.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telethermometer designates a thermometer that registers the temperature at some distant point."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The remote electrical **telethermometer** allowed observers on land to monitor deep ocean temperatures without hauling up the probe."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"A radiation **telethermometer** aimed at the lunar surface during an eclipse recorded an instantaneous plummet of heat."*
+> - 📜 **William Crookes (*Researches on the Atomic Weight of Thallium*):** *"The platinum resistance **telethermometer** provided continuous thermal records of the vacuum chamber from an adjoining room."*

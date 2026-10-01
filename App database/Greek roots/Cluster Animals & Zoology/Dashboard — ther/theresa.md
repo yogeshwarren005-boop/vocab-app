@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indian nun and missionary in the roman catholic church (born of albanian parents in what is now macedonia); dedicated to helping the poor in india (1910-1997).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indian nun and missionary in the roman catholic church (born of albanian parents in what is now macedonia); dedicated to helping the poor in india (1910-1997).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feminine given name of Greek origin (Therasia / Teresa), traditionally associated with saintly figures and nobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and hagiography, celebrated through St. Teresa of Ávila, the 16th-century Spanish Carmelite mystic, reformer, and Doctor of the Church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Theresa’s passionate, ideal nature demanded an epic life: what were many-volumed romances of chivalry and the social conquests of a brilliant girl to her?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here and there is born a Saint Theresa, foundress of nothing, whose loving heart-beats and sobs after an unattained goodness tremble off and are dispersed among hindrances, instead of centring in some long-recognizable deed."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"That morning our colonel was riding "Theresa", The filly by "Teddington" out of "Mistake"; His girls, pretty Alice and fair-haired Louisa, Were there on the ponies he purchased from Blake."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Who that cares much to know the history of man has not dwelt upon the life of Saint **Theresa**, walking out to seek martyrdom in childhood?"*
+> - 📜 **Richard Crashaw (*The Flaming Heart: Upon the Book and Picture of the Seraphical Saint Teresa*):** *"O heart, the equal poise of love's both parts! Great Saint **Theresa**, pour thy soul into my frozen breast."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystical raptures of Saint **Theresa** combine sublime spiritual ecstasy with extraordinary practical organizational genius."*

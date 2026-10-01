@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pogon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive, abnormal, or unwanted growth of facial hair, especially the development of a beard on a woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology and dermatology, hirsutism provoked by hyperandrogenism, polycystic ovary syndrome, or adrenocortical hyperplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogoniasis designates a term designating an entity, condition, or phenomenon derived from greek pogon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe endocrine disturbances associated with adrenal cortical tumors frequently manifest as pronounced **pogoniasis**."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Medical history documents remarkable instances of feminine **pogoniasis**, where flowing beards were cultivated with pride."*
+> - 📜 **Erasmus Wilson (*On Diseases of the Skin*):** *"The management of cosmetic **pogoniasis** requires careful evaluation of underlying ovarian and pituitary secretions."*

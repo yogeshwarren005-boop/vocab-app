@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any baryon that is not a nucleon; unstable particle with mass greater than a neutron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any baryon that is not a nucleon; unstable particle with mass greater than a neutron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any subatomic baryon composed of three quarks, containing one or more strange quarks but no charm, bottom, or top quarks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-energy particle physics, an unstable hadron (such as Lambda, Sigma, Xi, or Omega) having mass greater than a nucleon and decaying predominantly via the weak interaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperon designates any baryon that is not a nucleon; unstable particle with mass greater than a neutron."*
+> - 📜 **Murray Gell-Mann (*The Eightfold Way*):** *"The symmetrical arrangement of each known **hyperon** within the baryon octet confirmed the underlying SU(3) flavor group."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"A strange particle like the lambda **hyperon** is produced rapidly by the strong force, yet decays slowly through the weak interaction."*
+> - 📜 **Enrico Fermi (*Elementary Particles*):** *"Cosmic ray bubble-chamber tracks revealed the creation of a massive neutral **hyperon** accompanied by a strange meson."*

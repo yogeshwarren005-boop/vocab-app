@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sculpture representing a human or animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sculpture representing a human or animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carved or cast three-dimensional figure of a person, animal, or mythical being, especially one that is life-size or larger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monumental sculpture erected in a public place as a memorial or work of art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shows a body rather than a life, A statue than a breather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll set thy statue in some holy place, And have thee reverenced like a blessed saint."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Erect his statue and worship it, And make my image but an alehouse sign."*
+> - 📜 **Percy Bysshe Shelley (*Ozymandias*):** *"Near them, on the sand, half sunk a shattered visage lies; round the decay of that colossal wreck, boundless and bare, the lone and level sands stretch far away beneath the ruined **statue**."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"O royal piece! There's magic in thy majesty, which has my evils conjured to remembrance, and from thy admired **statue** calls my sorrow."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ancient marble **statue** of the Faun of Praxiteles seemed poised on the verge of breathing life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antacid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antacid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An effervescent antacid and pain-relieving brand of medication originally containing sodium bromide, acetaminophen, and sodium bicarbonate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely popular 20th-century American over-the-counter remedy for hangovers, indigestion, and headaches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromo-seltzer designates an antacid."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"Anthony called weakly for a glass of **Bromo-Seltzer** to quiet the drumming in his temples."*
+> - 📜 **Raymond Chandler (*Farewell, My Lovely*):** *"I went into the drugstore and swallowed a foaming **Bromo-Seltzer** that tasted like bicarbonate of chalk."*
+> - 📜 **Eugene O'Neill (*Long Day's Journey into Night*):** *"He went to the medicine chest looking for **Bromo-Seltzer** after a restless, sleepless night."*

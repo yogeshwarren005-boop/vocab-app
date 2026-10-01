@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oryz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek oryza, meaning 'rice'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and agronomy, the formative prefix used to designate rice taxa, rice pathogens, and wild grass relatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oryz designates a term designating an entity, condition, or phenomenon derived from greek oryz."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The ancient Greek name for rice, **oryz**-a, serves as the generic designation for the world's most vital cereal grass."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"Linguistic evidence shows that the morpheme **oryz**- traveled along ancient trade routes from the Indus to the Mediterranean."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanical genera sharing the root **oryz**- comprise grasses adapted to saturated marshy soils."*

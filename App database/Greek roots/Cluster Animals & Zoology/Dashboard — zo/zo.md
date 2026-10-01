@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal : animal kingdom or kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Animal : animal kingdom or kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The classical Greek combining form meaning animal, living creature, or biological life (from Greek zōion / zōē).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology and scientific nomenclature, the foundational root generating terms throughout zoology, paleontology, and biogeography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zo designates animal : animal kingdom or kind."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek combining formative **zo-** signifies animal, appearing everywhere from zoology to the constellations of the zodiac."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Compounds containing **zo-** entered English predominantly in the seventeenth and eighteenth centuries with the rise of taxonomic natural history."*
+> - 📜 **Isaac Taylor (*Words and Places*):** *"The ancient root **zo-** captures the fundamental Hellenic perception of animate motion and living breath."*

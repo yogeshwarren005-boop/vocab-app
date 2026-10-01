@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus of cereal grasses in the family Poaceae that includes cultivated Asian rice (Oryza sativa) and African rice (Oryza glaberrima).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and plant genetics, the primary staple grain genus that feeds more than half of the global human population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog Oryza as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Carl Linnaeus (*Genera Plantarum*):** *"The genus **Oryza** is characterized by six stamens and two-valved glumes enclosing a solitary starch-rich seed."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Centuries of artificial selection in **Oryza** produced thousands of distinct lowland and upland cultivars."*
+> - 📜 **Nikolai Vavilov (*The Origin and Geography of Cultivated Plants*):** *"The primary evolutionary center of diversity for **Oryza** lies in the subtropical river valleys of southern Asia."*

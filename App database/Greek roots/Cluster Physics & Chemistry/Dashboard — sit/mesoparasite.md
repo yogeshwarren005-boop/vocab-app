@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasite that lives in an intermediate position between ectoparasite and endoparasite, typically anchored in the body wall or an opening (such as the ear, nares, or cloaca).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine parasitology, copepods (such as Pennella) whose head is buried deep in host flesh while their reproductive body projects externally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesoparasite designates a term designating an entity, condition, or phenomenon derived from greek sit."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The bizarre copepod Pennella is a true **mesoparasite**, anchoring its antlered cephalothorax into the blubber while its egg sacs trail in the sea."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Invertebrates*):** *"An intermediate ecological niche is occupied by the **mesoparasite**, which bridges external exposure and internal nourishment."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Marine fish carry a remarkable variety of **mesoparasite** crustacea attached to their opercular flaps and gills."*

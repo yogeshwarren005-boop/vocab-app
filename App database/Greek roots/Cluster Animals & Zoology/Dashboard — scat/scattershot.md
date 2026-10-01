@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covering a wide range in a haphazard way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covering a wide range in a haphazard way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covering a broad range in an indiscriminate, random, or haphazard manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications and military strategy, firing widely dispersed projectiles or disseminating uncoordinated arguments without focused aim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scattershot designates covering a wide range in a haphazard way."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The enemy launched a hurried **scattershot** volley of shrapnel into the hillside olive orchard."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing on the Campaign Trail '72*):** *"The panicked candidate delivered a **scattershot** speech, striking out blindly at opponents on every side."*
+> - 📜 **Joan Didion (*The White Album*):** *"Her reporting avoided tidy conclusions, presenting instead a **scattershot** collage of cultural fragments."*

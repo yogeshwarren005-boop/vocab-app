@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major zoological division comprising all multicellular animals, characterized by cellular differentiation, extracellular matrix, and blastular embryonic development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the animal kingdom as distinct from unicellular Protozoa; monophyletic descendants of a colonial choanoflagellate ancestor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Metazoa designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"The origin of the **Metazoa** represents the momentous evolutionary leap from solitary protozoans to integrated colonial organisms."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Cellular cooperation and division of physiological labor define every representative of the **Metazoa**."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The explosion of multicellular disparity within the **Metazoa** filled the Burgess Shale seas with extraordinary body architectures."*

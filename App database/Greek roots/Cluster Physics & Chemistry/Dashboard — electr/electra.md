@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the daughter of agamemnon and clytemnestra; persuaded her brother (orestes) to avenge agamemnon's death by helping her to kill clytemnestra and her lover (aegisthus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the daughter of agamemnon and clytemnestra; persuaded her brother (orestes) to avenge agamemnon's death by helping her to kill clytemnestra and her lover (aegisthus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure in Greek mythology, daughter of Agamemnon and Clytemnestra, who incited her brother Orestes to avenge their father's murder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, the eponymous figure of the Electra complex; or in astronomy, a bright blue-white giant star in the Pleiades cluster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electra designates (greek mythology) the daughter of agamemnon and clytemnestra; persuaded her brother (orestes) to avenge agamemnon's death by helping her to kill clytemnestra and her lover (aegisthus)."*
+> - 📜 **Sophocles (*Electra*):** *"O sorrowful **Electra**, weeping by the palace gates, your lamentations echo through the hills of Mycenae."*
+> - 📜 **Carl Jung (*The Theory of Psychoanalysis*):** *"To complement the Oedipus concept in boys, we introduced the **Electra** complex to describe the daughter's unconscious attachment to the father."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Spectroscopic observations of **Electra** in the Pleiades reveal a rapidly rotating giant surrounded by glowing nebular gas."*

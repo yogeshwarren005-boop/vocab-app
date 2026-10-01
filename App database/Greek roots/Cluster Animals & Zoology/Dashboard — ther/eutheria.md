@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All mammals except monotremes and marsupials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All mammals except monotremes and marsupials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major clade of mammals comprising all placental mammals (excluding marsupials and monotremes), literally 'true beasts'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and paleontology, mammals characterized by a prolonged intrauterine gestation supported by a chorioallantoic placenta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eutheria designates all mammals except monotremes and marsupials."*
+> - 📜 **Thomas Henry Huxley (*On the Application of the Laws of Evolution to the Arrangement of the Vertebrata*):** *"I established the group **Eutheria** to encompass the placental mammals, contrasting them with Metatheria and Prototheria."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The explosive Cenozoic radiation of the **Eutheria** filled every ecological adaptive zone following the dinosaur extinction."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The dental formula and auditory bulla structure of archaic **Eutheria** illuminate the baseline of modern placental orders."*

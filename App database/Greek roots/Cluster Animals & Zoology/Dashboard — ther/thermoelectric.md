@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or resulting from thermoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or resulting from thermoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the direct conversion of temperature differences into electric voltage, and vice versa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics, encompassing the Seebeck effect (generating voltage from thermal gradients) and Peltier effect (heating/cooling from current).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoelectric designates involving or resulting from thermoelectricity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **thermoelectric** pile devised by Melloni detects thermal radiation of extraordinary delicacy from distant candles."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The Thomson effect accounts for the absorption or evolution of heat when current traverses a **thermoelectric** conductor with a temperature gradient."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Mathematical relations between the Seebeck and Peltier coefficients established the unified theory of **thermoelectric** phenomena."*

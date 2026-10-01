@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Near that time or date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near that place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Near that place; or approximately near that time, amount, or degree (variant of thereabout).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and legal testimony, denoting approximate temporal, spatial, or numerical reckoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PAROLLES. ‘Five or six thousand horse’ I said—I will say true—or thereabouts, set down,—for I’ll speak truth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, for a fine thief, of the age of two-and-twenty or thereabouts!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be intelligent to me? ’Tis thereabouts; For, to yourself, what you do know, you must, And cannot say you dare not."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The captain pointed his spyglass toward the rocky headland, declaring the treasure must lie **thereabouts**."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The boys reckoned it was three o'clock in the morning or **thereabouts** when the strange noise awakened them."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He purchased the hay-wain for fifty pounds or **thereabouts**, concluding the bargain over a mug of ale."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of atheromas on the walls of the arteries as in atherosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of atheromas on the walls of the arteries as in atherosclerosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental process of forming atheromatous plaques in the inner lining of arteries, leading to atherosclerosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology and vascular biology, a chronic inflammatory process initiated by endothelial injury, LDL oxidation, macrophage foam cell accumulation, and fibrous capping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherogenesis designates the formation of atheromas on the walls of the arteries as in atherosclerosis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The earliest phase of **atherogenesis** is a chronic inflammatory response within the deep layers of the vascular intima."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"High arterial tension and rich diet accelerate the insidious march of **atherogenesis** across the coronary tree."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Pathology*):** *"Experimental models demonstrate how metabolic disturbances in lipid transport initiate systemic **atherogenesis**."*

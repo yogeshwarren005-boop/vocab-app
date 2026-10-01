@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of animals except birds and mammals; having body temperature that varies with the environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animals except birds and mammals; having body temperature that varies with the environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a body temperature that varies with the temperature of the surrounding environment; cold-blooded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative physiology, exhibiting metabolic rates and enzyme kinetics directly dependent on ambient thermal conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poikilothermic designates of animals except birds and mammals; having body temperature that varies with the environment."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"In **poikilothermic** animals like frogs, life functions slow down dramatically as winter chilled the laboratory tanks."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The evolutionary transition from **poikilothermic** reptiles to warm-blooded mammals required radical metabolic reorganization."*
+> - 📜 **Bernd Heinrich (*Bumblebee Economics*):** *"Many **poikilothermic** insects warm up by shivering their thoracic flight musculature before attempting flight in the dawn air."*

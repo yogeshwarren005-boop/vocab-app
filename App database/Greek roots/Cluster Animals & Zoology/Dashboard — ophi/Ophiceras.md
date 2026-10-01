@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of early Triassic ammonoid cephalopods with slender, serpent-like coiled shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology and biostratigraphy, an index fossil whose appearance in marine sedimentary strata marks the base of the Induan stage following the end-Permian extinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ophiceras designates a term designating an entity, condition, or phenomenon derived from greek ophi."*
+> - 📜 **Carl Diener (*The Cephalopoda of the Muschelkalk*):** *"The discovery of **Ophiceras** beds in the high Himalayas provided decisive evidence for dating the earliest Triassic marine recovery."*
+> - 📜 **Alpheus Hyatt (*Genera of Fossil Cephalopods*):** *"The slender, many-whorled discoidal shell of **Ophiceras** resembles a coiled snake with smooth outer venters."*
+> - 📜 **Amadeus William Grabau (*Principles of Stratigraphy*):** *"The global distribution of the **Ophiceras** fauna serves as a benchmark for correlating post-Paleozoic boundary strata."*

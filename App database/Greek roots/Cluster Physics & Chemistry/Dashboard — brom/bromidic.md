@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to uttering bromides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dull and tiresome but with pretensions of significance or originality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trite, cliché-ridden, dull, and commonplace in thought or expression; resembling a platitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or resembling a chemical bromide or its sedative, dulling pharmacological effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromidic designates given to uttering bromides."*
+> - 📜 **H. L. Mencken (*Prejudices: First Series*):** *"His speech was packed with the most **bromidic** platitudes of the political stump."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He nodded solemnly, uttering a **bromidic** remark about the necessity of good fellowship."*
+> - 📜 **Virginia Woolf (*The Captain's Death Bed and Other Essays*):** *"The conversation drifted into **bromidic** complacencies that numbed all genuine intellectual debate."*

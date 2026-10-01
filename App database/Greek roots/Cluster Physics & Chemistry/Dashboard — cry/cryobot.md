@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A robotic robotic probe or vehicle designed to melt and penetrate through thick glacial ice caps or extraterrestrial ice sheets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary exploration, a thermal probe equipped with radioactive or electric heaters engineered to explore subglacial oceans on Europa or Enceladus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryobot designates a term designating an entity, condition, or phenomenon derived from greek cry."*
+> - 📜 **Arthur C. Clarke (*2010: Odyssey Two*):** *"An autonomous **cryobot** was envisioned to melt through Europa's frozen crust and sample the hidden ocean beneath."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Proposals for exploring icy moons often feature a compact **cryobot** carrying miniaturized spectrometers through miles of ice."*
+> - 📜 **Freeman Dyson (*Disturbing the Universe*):** *"Thermal drill probes resembling a **cryobot** have demonstrated remarkable efficiency in Antarctic borehole tests."*

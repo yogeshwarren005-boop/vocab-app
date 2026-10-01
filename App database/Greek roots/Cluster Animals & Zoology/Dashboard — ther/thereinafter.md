@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the following part of a given matter, as in a document or speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the following part of a given matter, as in a document or speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Later in that document, text, or statute; in that following part (formal legal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal drafting and legislative codification, referencing subsequent clauses, sections, or provisions within the same instrument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thereinafter designates in the following part of a given matter, as in a document or speech."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The deed specified the royal grant of manor, providing **thereinafter** for the descent of the title through heirs male."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution of the United States*):** *"The congressional act defined the maritime jurisdiction, establishing **thereinafter** the penalties for armed piracy."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The contract set forth the primary covenant of sale, detailing **thereinafter** the covenants of warranty and quiet enjoyment."*

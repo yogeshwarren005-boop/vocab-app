@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By electronic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By electronic means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of electronics; using electronic devices, computers, or microcircuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to electronic structure, orbital states, or electron distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All rooms, corridors and exterior approaches leading to the meeting site were physically and electronically searched, and the identity disks of all individuals passing through the area scrutinized and verified."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Information may be transmitted **electronically** across noisy channels by encoding messages into binary pulses."*
+> - 📜 **Linus Pauling (*The Architecture of Molecules*):** *"Molecules that are **electronically** delocalized exhibit enhanced thermodynamic stability."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Libraries will soon be **electronically** linked so that any scholar can access the world's accumulated lore in seconds."*

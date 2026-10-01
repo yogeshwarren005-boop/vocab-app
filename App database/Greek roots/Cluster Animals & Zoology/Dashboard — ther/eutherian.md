@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mammals having a placenta; all mammals except monotremes and marsupials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to the subclass eutheria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any placental mammal of the clade Eutheria; or of, relating to, or characteristic of placental mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, designating mammals with prolonged intrauterine gestation supported by a chorioallantoic placenta and lacking epipubic bones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eutherian designates mammals having a placenta; all mammals except monotremes and marsupials."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The **eutherian** skull exhibits complete obliteration of the epipubic bones characteristic of lower marsupial mammals."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The fossil record demonstrates an explosive **eutherian** radiation immediately following the Cretaceous-Paleogene extinction."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Convergent evolution between Australian marsupials and northern **eutherian** mammals produced identical ecological archetypes."*

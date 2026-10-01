@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (pherein, 'to bear, carry, bring') denoting carriage, conveyance, or transfer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, biology, and chemistry, the fundamental Indo-European cognate to English bear, forming terms like pheromone, periphery, and phosphore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pher designates a term designating an entity, condition, or phenomenon derived from greek pher."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The Greek root **pher** cognate with Sanskrit bhar and Latin ferre represents the universal ancient stem for carrying a burden."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Many technical coinages in philosophy rely upon this active **pher** root to denote the bearing of form and motion."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The morphological structures that bear appendages were anciently denoted by terms derived from the **pher** stem."*

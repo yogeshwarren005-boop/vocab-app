@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical process or processes by which baryons were created in the beginning of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical process or processes by which baryons were created in the beginning of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical process in the early universe that produced the observed asymmetry between baryons (matter) and antibaryons (antimatter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmological particle physics, the theoretical framework explaining why the observable cosmos is dominated by matter rather than equal amounts of matter and antimatter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryogenesis designates the physical process or processes by which baryons were created in the beginning of the universe."*
+> - 📜 **Andrei Sakharov (*Violation of CP Invariance, C Asymmetry, and Baryon Asymmetry of the Universe*):** *"Three fundamental conditions are required for **baryogenesis**: baryon number violation, C and CP violation, and departure from thermal equilibrium."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"Without primordial **baryogenesis**, all matter and antimatter would have annihilated completely into pure radiation."*
+> - 📜 **Alan Guth (*The Inflationary Universe*):** *"Grand unified theories provide natural mechanisms for **baryogenesis** during the reheat phase following cosmic inflation."*

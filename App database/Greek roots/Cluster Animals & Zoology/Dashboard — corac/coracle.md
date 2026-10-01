@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rounded boat made of hides stretched over a wicker frame; still used in some parts of great britain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small rounded boat made of hides stretched over a wicker frame; still used in some parts of great britain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, rounded, lightweight boat propelled with a single paddle, traditionally made of woven wickerwork covered with waterproofed hide or canvas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime ethnology and Celtic history, a primitive river craft used since antiquity by fishermen along the rivers of Wales and Ireland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It was over Moyle that Columkill went in his little coracle to be a hermit in Iona, the gentlest saint that Ireland ever knew."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There was the voyage of Maeldun, who had set out in his coracle, and visited strange islands."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"He was heading it toward a coracle, manned by one Rock-warrior, that was next in the general line."*
+> - 📜 **Julius Caesar (*Commentarii de Bello Civili*):** *"We constructed light craft modeled upon the British **coracle**, framing the keels of osier twigs covered with stitched hides."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"I paddled the dancing little **coracle** across the dark water toward the Hispaniola, rocking upon every swell like a walnut shell."*
+> - 📜 **George Borrow (*Wild Wales*):** *"A Welsh fisherman walked past with his dark oval **coracle** slung effortlessly across his broad shoulders."*

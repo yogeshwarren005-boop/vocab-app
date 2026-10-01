@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glass lizards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glass lizards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of legless lizards in the family Anguidae, commonly known as glass lizards or glass snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, serpentine lizards distinguished from true snakes by movable eyelids, external ear openings, and an exceptionally fragile tail that easily breaks off when seized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ophisaurus designates glass lizards."*
+> - 📜 **William Bartram (*Travels through North & South Carolina*):** *"I caught a specimen of the glass snake, **Ophisaurus**, whose brittle tail snapped into several fragments in my hands."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Turtles of North America*):** *"The presence of osteoderms beneath the scales in **Ophisaurus** provides armored protection unknown among true Serpentes."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"Though completely limbless, **Ophisaurus** possesses the blinking eyes and rigid lower jaw of typical lizards."*

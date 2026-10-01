@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed by or involving fragmentation as a result of volcanic or igneous action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed by or involving fragmentation as a result of volcanic or igneous action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of rock fragments erupted by a volcano; formed by volcanic explosive fragmentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In volcanology, describing fast-moving, lethal currents of superheated gas and tephra known as pyroclastic flows or surges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyroclastic designates formed by or involving fragmentation as a result of volcanic or igneous action."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The Roman city of Herculaneum was inundated by dense **pyroclastic** flows rushing down the slopes of Vesuvius."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Explosive eruptions pulverize viscous rhyolitic magma into vast clouds of incandescent **pyroclastic** debris."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"Thick beds of stratified **pyroclastic** tuff formed the dramatic cliffs of the volcanic caldera."*

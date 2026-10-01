@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thermometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or measured by a thermometer or thermometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical metrology, designating thermometric fluids (such as mercury or toluene) or fixed thermometric scale points (such as the ice and steam points).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometric designates of or relating to thermometry."*
+> - 📜 **Daniel Gabriel Fahrenheit (*Philosophical Transactions*):** *"The **thermometric** scale was divided into equal degrees between the freezing mixture of sal-ammoniac and human blood heat."*
+> - 📜 **Lord Kelvin (William Thomson) (*On an Absolute Thermometric Scale*):** *"An absolute **thermometric** scale must be grounded in the Carnot cycle rather than the expansion of a contingent fluid."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"A sensitive **thermometric** column was inserted into the calorimeter to record the warmth of respiration."*

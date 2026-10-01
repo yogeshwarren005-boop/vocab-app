@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermal hydrometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thermal hydrometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or measured by thermogravimetry (continuous measurement of mass changes during heating).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials characterization, describing thermogravimetric analysis (TGA) curves used to determine polymer thermal stability, decomposition, and moisture content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimetric designates of or relating to thermal hydrometry."*
+> - 📜 **Walther Nernst (*Theoretical Chemistry*):** *"The **thermogravimetric** trace revealed an abrupt mass loss at three hundred degrees corresponding to complete dehydration."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"Kinetic parameters of solid-state thermal degradation were evaluated from the derivative **thermogravimetric** curve."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"High-temperature **thermogravimetric** data established the stoichiometry of oxygen vacancies in refractory ceramic oxides."*

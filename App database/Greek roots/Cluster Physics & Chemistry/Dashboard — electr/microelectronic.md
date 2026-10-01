@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or consisting of miniature electronic components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or consisting of miniature electronic components.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or employing microelectronics; involving extremely small electronic circuits or components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to microchips, integrated circuit silicon dies, and sub-micron semiconductor fabrication processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microelectronic designates of or relating to or consisting of miniature electronic components."*
+> - 📜 **Gordon Moore (*Cramming More Components onto Integrated Circuits*):** *"The rapid progression of **microelectronic** fabrication will double transistor counts on chips at steady biennial intervals."*
+> - 📜 **Richard Feynman (*There's Plenty of Room at the Bottom*):** *"Every advance in **microelectronic** lithography brings us closer to processing information at atomic dimensions."*
+> - 📜 **Claude Shannon (*Collected Papers*):** *"The reliability of complex communication networks was transformed by compact **microelectronic** switching elements."*

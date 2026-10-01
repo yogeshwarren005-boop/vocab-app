@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing barium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing barium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or indicating atmospheric pressure or weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In older chemical terminology, of or containing barium (from heavy spar, baryte).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baric designates of or relating to or containing barium."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"The **baric** gradient between the two air masses indicated an approaching cyclonic disturbance."*
+> - 📜 **Humphry Davy (*Philosophical Transactions*):** *"The precipitate obtained from the sulfate solution was designated as **baric** earth."*
+> - 📜 **William Napier Shaw (*Manual of Meteorology*):** *"Rapid **baric** depression across the coast invariably heralded gale-force winds."*

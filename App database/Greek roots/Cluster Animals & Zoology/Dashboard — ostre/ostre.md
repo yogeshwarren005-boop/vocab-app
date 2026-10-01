@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ostre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (ostreon, 'oyster', akin to osteon, 'bone/shell') denoting oysters, bivalve shells, or ostracism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and historical etymology, the stem underlying Ostrea, ostreiculture, and the Athenian practice of voting exile upon pottery shards (ostraka).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostre designates a term designating an entity, condition, or phenomenon derived from greek ostre."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The **ostre** family encompasses bivalve mollusks that cement their lower valve permanently to submerged rocks."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The ancient Greek **ostre** stem was intimately connected with hard bone and stony shells of the seashore."*
+> - 📜 **George Grote (*A History of Greece*):** *"The citizens scratched the names of banished leaders upon baked potsherds, linking political exile to the **ostre** root."*

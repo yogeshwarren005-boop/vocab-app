@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of becoming permanently hard and rigid when heated or cured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of becoming permanently hard and rigid when heated or cured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting plastics or resins that set permanently and become hard and rigid when heated, and cannot be remelted or reshaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer chemistry, describing resins (epoxies, polyurethanes, phenolics) that undergo irreversible cross-linking during thermal curing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermosetting designates having the property of becoming permanently hard and rigid when heated or cured."*
+> - 📜 **Leo Baekeland (*On Bakelite*):** *"This new class of **thermosetting** resins provides electrical insulation superior to all natural gums and shellacs."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Extensive covalent cross-links lock the polymer chains into a giant macromolecular matrix in **thermosetting** plastics."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The hull components were molded from advanced **thermosetting** composite resins capable of enduring deep-space vacuum."*

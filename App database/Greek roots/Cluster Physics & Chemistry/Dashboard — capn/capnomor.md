@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek capn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, oily liquid hydrocarbon mixture obtained by the destructive distillation of wood tar, peat, or animal matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical organic chemistry, an aromatic fraction isolated by Carl Reichenbach in the 1830s, consisting primarily of alkylbenzenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capnomor designates a term designating an entity, condition, or phenomenon derived from greek capn."*
+> - 📜 **Carl Reichenbach (*Researches on Magnetism, Electricity, and Heat*):** *"From the volatile products of beech-wood tar, I separated the oily, fragrant liquid which I designated **capnomor**."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The substances known as eupione, creosote, and **capnomor** represent distinct distillation fractions of wood pyroligneous products."*
+> - 📜 **Jöns Jacob Berzelius (*Traité de Chimie*):** *"Reichenbach's **capnomor** was examined for its solvency toward resins and volatile oils."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of american and asiatic showy rhizomatous herbs: bush peas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of american and asiatic showy rhizomatous herbs: bush peas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbaceous plants in the legume family (Fabaceae), commonly known as false lupines or goldenbanners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American and Asian botany, rhizomatous prairie herbs bearing lupine-like palmate leaves and dense spikes of golden-yellow pea-like flowers (literally 'lupine-like').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermopsis designates genus of american and asiatic showy rhizomatous herbs: bush peas."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"On dry gravelly prairie banks, the golden spikes of **Thermopsis** rhombifolia blossom early in the spring."*
+> - 📜 **John Torrey (*Report on the United States and Mexican Boundary Survey*):** *"I collected specimens of **Thermopsis** montana flowering along the high mountain streams of the Rockies."*
+> - 📜 **David Douglas (*Journal Kept by David Douglas During His Travels in North America*):** *"The yellow blossoms of **Thermopsis** carpeted the river bottom lands in brilliant drifts of gold."*

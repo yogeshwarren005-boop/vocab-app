@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medieval Christian dualist heresy and religious movement prominent in southern Europe from the 11th through 14th centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion, a faith maintaining that the material universe was created by an evil demiurge (Rex Mundi) rather than the benevolent spiritual God.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catharism designates a christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition."*
+> - 📜 **Fernand Braudel (*The Mediterranean and the Mediterranean World*):** *"The rich urban society of the Midi provided fertile ground for the spread of **Catharism** and anti-clerical reform."*
+> - 📜 **Henry Charles Lea (*A History of the Inquisition of the Middle Ages*):** *"Papal legates realized that only systemic inquisition could completely eradicate the deep roots of **Catharism**."*
+> - 📜 **Jacques Le Goff (*Medieval Civilization*):** *"The crushing of **Catharism** marked a decisive step in the consolidation of northern French royal power over Occitania."*

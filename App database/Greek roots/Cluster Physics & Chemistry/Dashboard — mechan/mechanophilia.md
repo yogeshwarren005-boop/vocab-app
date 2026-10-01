@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mechan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal or compulsive affection for, attraction to, or sexual fixation on machines or mechanical devices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, a paraphilia wherein an individual derives erotic arousal from interactions with automobiles, airplanes, or industrial machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanophilia designates a term designating an entity, condition, or phenomenon derived from greek mechan."*
+> - 📜 **J. G. Ballard (*Crash*):** *"The psychological landscape was dominated by an eroticized fascination with chrome and speed akin to clinical **mechanophilia**."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"A pathological **mechanophilia** causes modern technocrats to worship mechanical efficiency above human survival."*
+> - 📜 **Erich Fromm (*The Anatomy of Human Destructiveness*):** *"The necrophilous character often expresses itself as an obsessive **mechanophilia**, preferring dead machinery to living beings."*

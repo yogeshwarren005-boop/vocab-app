@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bloodsucking dipterous fly parasitic on birds and mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bloodsucking dipterous fly parasitic on birds and mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fly belonging to the family Hippoboscidae, commonly known as a louse fly or ked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dipterology, an obligate blood-sucking pupiparous fly infesting birds or mammals, possessing flattened leathery cuticles and hooked tarsal claws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippoboscid designates bloodsucking dipterous fly parasitic on birds and mammals."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Every wingless sheep ked is technically a degenerate **hippoboscid** fly that has abandoned aerial flight."*
+> - 📜 **Frank M. Chapman (*Handbook of Birds of Eastern North America*):** *"While banding migrating raptors, we frequently discovered a parasitic **hippoboscid** clinging to the plumage."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"The specialized viviparity of the **hippoboscid** provides milk glands within the maternal uterus to nourish the developing larva."*

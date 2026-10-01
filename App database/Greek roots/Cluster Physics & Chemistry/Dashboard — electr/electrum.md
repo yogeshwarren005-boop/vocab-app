@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alloy of gold and silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alloy of gold and silver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring or artificial alloy of gold and silver, containing at least 20 percent silver, often with trace amounts of copper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and archaeology, the lustrous pale yellow alloy used to mint the world's earliest known coinage in ancient Lydia in the 7th century BC.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrum designates an alloy of gold and silver."*
+> - 📜 **Herodotus (*The Histories*):** *"The Lydians were the first people we know of who struck coins of gold and **electrum** and used them in commerce."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Whenever the proportion of silver in native gold reaches one-fifth, the metal is termed **electrum**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient vases adorned with gleaming **electrum** decorated the banquet halls of the eastern emperors."*

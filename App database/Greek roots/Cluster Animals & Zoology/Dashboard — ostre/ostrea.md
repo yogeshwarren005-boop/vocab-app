@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family ostreidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family ostreidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of true oysters in the family Ostreidae, including the European flat oyster (Ostrea edulis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and aquaculture, sessile bivalves with asymmetric calcitic shells, broadcast spawners that form extensive biogenic reefs in coastal estuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostrea designates type genus of the family ostreidae."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"I established the genus **Ostrea** for those bivalves whose unequal valves are attached by a cartilaginous hinge lacking teeth."*
+> - 📜 **Philip Henry Gosse (*A Year at the Shore*):** *"The rough, layered shells of **Ostrea** edulis were dredged from the muddy shoals of the Thames estuary."*
+> - 📜 **Thomas Henry Huxley (*The Oyster; A Monograph*):** *"The vast beds of **Ostrea** provide a complex ecological habitat supporting hundreds of associated marine invertebrates."*

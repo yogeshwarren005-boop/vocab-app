@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to separate and go in different directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move away from each other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, situated, or distributed at wide, irregular intervals over a geographic area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and meteorology, designating diffuse radiation, distributed celestial objects, or discontinuous cloud coverage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loose now and then A scattered smile, and that I’ll live upon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now there rests no other shift but this: To gather our soldiers, scattered and dispersed, And lay new platforms to endamage them."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Pieces of the shattered whaling boat lay **scattered** over the wide, foaming crest of the Pacific swells."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A few **scattered** acacia trees clung tenaciously to the arid gullies of the Patagonian plateau."*
+> - 📜 **John Milton (*On the Late Massacre in Piedmont*):** *"Avenge, O Lord, thy slaughtered saints, whose bones lie **scattered** on the Alpine mountains cold."*

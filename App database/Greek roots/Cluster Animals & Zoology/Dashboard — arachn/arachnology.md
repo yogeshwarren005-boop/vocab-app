@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who specializes in the study of spiders and other arachnids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who specializes in the study of spiders and other arachnids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of spiders and related arachnids such as scorpions, pseudoscorpions, and harvestmen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In specialized entomological science, the research field focusing on arachnid taxonomy, silk biophysics, venom chemistry, and mating ethology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnology designates a person who specializes in the study of spiders and other arachnids."*
+> - 📜 **E. O. Wilson (*Naturalist*):** *"Pioneering field work in **arachnology** demonstrated how intricate web architectures evolved through adaptive radiation."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Taxonomic revisions within **arachnology** revealed remarkable cryptic species distinguished only by genitalic morphology."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"Classic investigations in **arachnology** proved the extraordinary tactile sensitivity of the spider's pedipalps."*

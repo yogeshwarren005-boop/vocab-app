@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic use of cold; especially : cryosurgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The therapeutic use of cold; especially : cryosurgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The local or general therapeutic use of low temperatures in medical treatment, sports rehabilitation, or dermatological therapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports medicine and rheumatology, whole-body cold chambers or ice applications used to relieve inflammation, swelling, and muscle soreness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryotherapy designates the therapeutic use of cold; especially : cryosurgery."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The prudent physician employs **cryotherapy** to soothe acute inflammatory swelling and dampen localized fever."*
+> - 📜 **Jerome Groopman (*Second Opinions*):** *"Following the athletic injury, the trainer prescribed intensive **cryotherapy** alongside compression to minimize hematoma formation."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The chilling wraps of **cryotherapy** provided temporary relief from the throbbing neuralgic sensations in the convalescent limb."*

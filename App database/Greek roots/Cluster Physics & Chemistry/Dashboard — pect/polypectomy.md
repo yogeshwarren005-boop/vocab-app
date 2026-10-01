@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of a polyp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of a polyp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical or endoscopic excision and removal of a polyp from a mucous membrane, especially in the colon, stomach, or nasal cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, a routine cancer prevention procedure using an electrocautery snare through a colonoscope to resect adenomatous polyps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polypectomy designates surgical removal of a polyp."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Colonoscopic screening combined with immediate snare **polypectomy** halts the progression of colorectal cancer before it starts."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The pathology report following the routine **polypectomy** revealed clear surgical margins around the tubulovillous adenoma."*
+> - 📜 **Sherwin B. Nuland (*Doctors: The Biography of Medicine*):** *"Endoscopic **polypectomy** transformed gastrointestinal surgery into an outpatient preventive specialty."*

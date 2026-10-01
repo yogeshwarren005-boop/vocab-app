@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the superorders (Acariformes and Parasitiformes); especially : any of a family (Acaridae) of mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the superorders (Acariformes and Parasitiformes); especially : any of a family (Acaridae) of mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small arachnid belonging to the family Acaridae or the order Acarina, including mites and ticks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acarology, a member of the astigmatan mites commonly infesting stored grain, flour, dried foods, and organic matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarid designates any of the superorders (acariformes and parasitiformes); especially : any of a family (acaridae) of mites."*
+> - 📜 **Philip Henry Gosse (*Evenings at the Microscope*):** *"A minute speck on the decaying cheese resolved itself under the lens into an active, bristling **acarid**."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The structure of the minute **acarid** demonstrates a remarkable reduction of typical arachnid segmentation."*
+> - 📜 **E. Ray Lankester (*Extinct Animals*):** *"Fossilized amber frequently preserves an ancestral **acarid** clinging to the leg of a prehistoric beetle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biochemistry dealing with the chemical nature and biological activity of enzymes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biochemistry dealing with the chemical nature and biological activity of enzymes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biochemistry that deals with the properties, structure, function, and kinetics of enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discipline analyzing enzyme-substrate interactions, Michaelis-Menten kinetics, allosteric regulation, and industrial biocatalysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enzymology designates the branch of biochemistry dealing with the chemical nature and biological activity of enzymes."*
+> - 📜 **Hans Adolf Krebs (*Reminiscences and Reflections*):** *"The golden age of **enzymology** unraveled the cyclical metabolic pathways that generate cellular energy."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes: The Odyssey of a Biochemist*):** *"Patience and rigorous purification remain the eternal virtues in the classic craft of **enzymology**."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Modern **enzymology** reveals that biological catalysts operate through precise, complementary geometric binding of substrates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American black bears; in some classifications not a separate genus from ursus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American black bears; in some classifications not a separate genus from ursus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subgenus of bears (family Ursidae) commonly applied to the American black bear (Ursus americanus), meaning 'true bear'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogical systematics, a taxon separating smaller, forest-dwelling omnivorous bears with shorter claws from the brown and polar bears.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euarctos designates american black bears; in some classifications not a separate genus from ursus."*
+> - 📜 **C. Hart Merriam (*Preliminary Synopsis of the American Bears*):** *"I proposed elevating **Euarctos** to generic rank to distinguish the forest black bears from the massive grizzly group."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Most modern taxonomists retain **Euarctos** as a useful subgenus within the comprehensive genus Ursus."*
+> - 📜 **Ernest Thompson Seton (*Lives of Game Animals*):** *"The agile climbing habits and short curved claws of **Euarctos** reflect millions of years of woodland adaptation."*

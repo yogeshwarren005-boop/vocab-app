@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with zoology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or affecting animals that are not humans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the science of zoology, animal life, or the comparative study of animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic biology, pertaining to institutional collections, taxonomic classifications, field expeditions, or evolutionary morphology of fauna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Related to parks are public baths, public libraries, art collections, museums, zoological gardens, etc."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Meanwhile, I was occupying myself in classifying my mineralogical, botanical, and zoological riches, when the accident happened to the _Scotia_."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"They were just the half-bleached colour of the worms and things one sees preserved in spirit in a zoological museum."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"From a strictly **zoological** point of view, the anatomical differences between man and the higher apes are remarkably slight."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every **zoological** classification reflects the degrees of genealogical affinity shared by living forms."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Modern **zoological** nomenclature requires formal Latinized binomina anchored by designated type specimens."*

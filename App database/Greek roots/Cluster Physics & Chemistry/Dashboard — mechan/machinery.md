@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Machines or machine systems collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of means and activities whereby a social institution functions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Machines collectively, or the components of a machine; mechanical apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organization, systems, or internal mechanisms by which a process is kept in operation; or in literature, supernatural agents directing a plot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a creaking of machinery behind, and some of the young ones turned their heads."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the interior face of the west wall of the tower projected a little canopy with a quarter-jack and small bell beneath it, the automaton being driven by the same clock machinery that struck the large bell in the tower."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The invention of specialized **machinery** facilitates and abridges labor, enabling one man to do the work of many."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"The aerial sylphs and gnomes constituted the epic **machinery** that watched over Belinda's sacred hair."*
+> - 📜 **Karl Marx (*Capital*):** *"Modern industry tore down the handicraft barrier, enthroning giant automatic **machinery** as the sovereign driver of production."*

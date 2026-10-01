@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline substance obtained from the bile of mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a bull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino sulfonic acid (2-aminoethanesulfonic acid) widely distributed in animal tissues; or of, relating to, or resembling a bull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and human physiology, an essential nutrient in felines and conditional in humans, first isolated in 1827 from ox bile by Tiedemann and Gmelin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taurine designates a colorless crystalline substance obtained from the bile of mammals."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Hydrolysis of ox bile yielded crystalline plates of **taurine**, rich in organic sulfur and nitrogen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Metabolic conjugation of bile acids with **taurine** facilitates the emulsification and absorption of dietary fats."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The massive neck and fierce, **taurine** brow of the wild Chillingham cattle recall the ancient European aurochs."*

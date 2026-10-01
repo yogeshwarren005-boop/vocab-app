@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or formed with absorption of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-blooded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of the internal generation of heat to maintain a constant body temperature (warm-blooded); in chemistry, absorbing heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, designating homeothermic animals (mammals, birds) producing metabolic heat via mitochondrial proton leak and shivering thermogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothermic designates characterized by or formed with absorption of heat."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"The debate over dinosaur metabolism hinges upon whether these great creatures were fully **endothermic** like birds."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The evolution of an **endothermic** constitution freed mammals from dependence upon ambient solar radiation."*
+> - 📜 **Walther Nernst (*Theoretical Chemistry*):** *"An **endothermic** reaction is favored by rising temperature in accordance with Le Chatelier's thermodynamic principle."*

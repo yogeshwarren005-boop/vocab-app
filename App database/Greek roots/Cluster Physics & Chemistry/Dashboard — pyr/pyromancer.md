@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices pyromancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices pyromancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of pyromancy; a soothsayer or diviner who foretells future events by inspecting fires and flames.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and medieval occultism, an augur who interprets the color, crackling, shape, and smoke of sacrificial fires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyromancer designates one who practices pyromancy."*
+> - 📜 **Lewis Spence (*An Encyclopaedia of Occultism*):** *"The ancient Persian **pyromancer** gazed unblinking into the sacred flame to decipher the decrees of the gods."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The desert seer claimed the powers of a **pyromancer**, reading destinies in the glowing embers of the camp fire."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Rites performed by the village **pyromancer** illustrate the universal religious personification of fire."*

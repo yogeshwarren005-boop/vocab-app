@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to mite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to mite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a mite in morphology; or relating to the resin derived from Australian grass trees (Xanthorrhoea).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and pharmacognosy, designating resinous gums containing xanthoresinotannol, or microscopic structures mimicking acarine parasites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acaroid designates adjective & noun*) resembling, having the physical form of, or akin to mite."*
+> - 📜 **Sir William Jackson Hooker (*Companion to the Botanical Magazine*):** *"The trunk exuded a fragrant **acaroid** resin that hardened into amber-colored masses upon the bark."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica and Therapeutics*):** *"Yellow **acaroid** gum from Botany Bay was historically employed in varnishes and medicinal tinctures."*
+> - 📜 **Alpheus Hyatt (*Genera of Fossil Cephalopods*):** *"The embryonic shell presented an **acaroid** contour before developing its distinct cephalic whorls."*

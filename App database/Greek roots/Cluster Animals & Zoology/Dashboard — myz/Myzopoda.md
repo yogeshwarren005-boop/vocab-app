@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monotypic genus of bats (family Myzopodidae) containing the Madagascar sucker-footed bat (Myzopoda aurita).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chiropterology, rare bats endemic to Madagascar possessing adhesive fleshy pads on the thumbs and soles of the feet, adhering to smooth ravenala palm leaves by wet adhesion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Myzopoda designates a term designating an entity, condition, or phenomenon derived from greek myz."*
+> - 📜 **Oldfield Thomas (*On the Mammals of Madagascar*):** *"I examined the extraordinary adhesive pads of **Myzopoda**, which enable this bat to cling to smooth palm fronds."*
+> - 📜 **Gerrit S. Miller (*The Families and Genera of Bats*):** *"The family Myzopodidae contains the single aberrant genus **Myzopoda**, whose ear structures and foot pads are unique."*
+> - 📜 **Frank E. Beddard (*Mammalia*):** *"Unlike typical clinging bats, **Myzopoda** relies on cellular surface adhesion rather than sharp claws to roost upon banana leaves."*

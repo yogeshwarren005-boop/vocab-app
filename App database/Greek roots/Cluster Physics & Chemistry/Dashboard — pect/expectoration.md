@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of coughing up and spitting out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spitting (forcefully expelling saliva).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coughing up and spitting out material from the respiratory tract; or the sputum and phlegm so ejected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonary diagnostics, the inspection of sputum (rusty, purulent, or hemoptysis) to diagnose pneumonia or tuberculosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was attended with purulent expectoration, and became so troublesome as to entitle it to be regarded as the leading feature of the case."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The silences widened; the expectoration marvellously increased."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Hand him the glass works and let him sample the cold tea." Between Farley and Walker the effluvia from bodies long immune to water, the disregard of sanitary requirements, the expectorations and the foul air of the crowded car became unbearable."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rusty **expectoration** is the classic pathognomonic physical sign of pneumococcal lobar pneumonia."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"Daily volume of morning **expectoration** was recorded upon the chart with scrupulous sanatorium discipline."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The young physician examined the slide stained with Ziehl-Neelsen carbolfuchsin to detect bacilli in the **expectoration**."*

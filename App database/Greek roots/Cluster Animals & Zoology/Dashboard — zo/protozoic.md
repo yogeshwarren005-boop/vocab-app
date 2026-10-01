@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the protozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the protozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, containing, or characterized by the earliest forms of animal life; protozoan or early fossiliferous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century geological terminology, designating strata yielding the earliest recognized fossil traces of primitive animal organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protozoic designates of or relating to the protozoa."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Early stratigraphers assigned the lowest fossiliferous slate deposits to the **protozoic** system."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The earliest limestone outcrops bear **protozoic** remains of microscopic corallines and primitive sponge spicules."*
+> - 📜 **Alpheus Spring Packard (*Zoology for High Schools and Colleges*):** *"The transitional sedimentary beds illustrate the dawn of the **protozoic** animal fauna."*

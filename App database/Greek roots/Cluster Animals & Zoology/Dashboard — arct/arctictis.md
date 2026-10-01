@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Binturongs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Binturongs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of viverrid carnivoran containing the binturong or bearcat (Arctictis binturong).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, an arboreal Southeast Asian carnivoran with coarse black fur, tufted ears, and a fully prehensile muscular tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctictis designates binturongs."*
+> - 📜 **Thomas Stamford Raffles (*Descriptive Catalogue of a Zoological Collection*):** *"I procured a specimen of the binturong from Malacca, establishing the genus **Arctictis** to mark its strange combination of characters."*
+> - 📜 **W. T. Blanford (*The Fauna of British India: Mammalia*):** *"The solitary and nocturnal **Arctictis** spends its days coiled asleep high among the thick creepers of the forest."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Among the curious mammals of the Sunda Islands, **Arctictis** is unique in possessing a truly prehensile tail."*

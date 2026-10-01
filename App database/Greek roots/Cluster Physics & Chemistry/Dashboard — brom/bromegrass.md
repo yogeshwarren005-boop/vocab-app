@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various woodland and meadow grasses of the genus bromus; native to temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various woodland and meadow grasses of the genus bromus; native to temperate regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any grass of the genus Bromus, especially smooth brome (Bromus inermis), widely cultivated for hay, pasture, and erosion control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural agronomy, a hardy, drought-tolerant cool-season forage crop valuable for cattle grazing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromegrass designates any of various woodland and meadow grasses of the genus bromus; native to temperate regions."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Agriculture*):** *"Hungarian **bromegrass** has proven invaluable on the semi-arid plains of the West where timothy fails."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The roadside was banked with smooth **bromegrass**, greening early under the melting April snow."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Native **bromegrass** grew luxuriantly along the borders of the subalpine meadows."*

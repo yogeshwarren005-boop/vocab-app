@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By that means or because of that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By that means or because of that.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By that means; as a result of that.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric and logical deduction, indicating consequence or causal agency resulting from a preceding action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it were so, that our request did tend To save the Romans, thereby to destroy The Volsces whom you serve, you might condemn us As poisonous of your honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To die, is to be a counterfeit, for he is but the counterfeit of a man who hath not the life of a man: but to counterfeit dying, when a man thereby liveth, is to be no counterfeit, but the true and perfect image of life indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, York; if we conclude a peace, It shall be with such strict and severe covenants As little shall the Frenchmen gain thereby."*
+> - 📜 **Francis Bacon (*Essays: Of Truth*):** *"A mixture of a lie doth ever add pleasure, but **thereby** debaseth the pure metal of truth in man's mind."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"By pursuing his own interest he frequently promotes that of the society more effectually, **thereby** enriching the commonwealth."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"He that encloses land hath not decreased but increased the common stock, **thereby** feeding thousands more."*

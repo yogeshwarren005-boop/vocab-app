@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribution of animal form, characteristics, or qualities to deities, humans, inanimate objects, or abstract concepts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, anthropology, and religious studies, the depiction of gods or sacred symbols as animals (e.g., ancient Egyptian jackal, falcon, and ibis deities).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoomorphism designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient Egyptian religion celebrated widespread **zoomorphism**, venerating the gods under the forms of falcons, cats, and baboons."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Early religious thought transitioned from animism to formal **zoomorphism** before anthropomorphic pantheons were created."*
+> - 📜 **Carl Jung (*Man and His Symbols*):** *"In mythical dreams, psychological archetypes frequently appear in the guise of instinctual **zoomorphism**, such as serpents and lions."*

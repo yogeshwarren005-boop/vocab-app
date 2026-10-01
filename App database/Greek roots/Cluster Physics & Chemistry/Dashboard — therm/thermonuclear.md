@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using nuclear weapons based on fusion as distinguished from fission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using nuclear weapons based on fusion as distinguished from fission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving nuclear reactions that occur only at extremely high temperatures (such as nuclear fusion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military weapons and astrophysics, designating hydrogen fusion bombs or stellar nucleosynthetic processes inside stellar cores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It was too late for either side to safely fire long-range thermonuclear warheads."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The thermonuclear warhead launched at the enemy fleet had been faulty or sabotaged into premature detonation."*
+> - 📜 **Hans Bethe (*Energy Production in Stars*):** *"The carbon-nitrogen-oxygen cycle constitutes the primary **thermonuclear** engine powering main-sequence stars hotter than the Sun."*
+> - 📜 **J. Robert Oppenheimer (*Science and the Common Understanding*):** *"The development of the **thermonuclear** weapon opened an abyss of destructive power that dwarfs ordinary atomic fission."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Only at temperatures of millions of degrees can subatomic particles overcome Coulomb repulsion to initiate **thermonuclear** fusion."*

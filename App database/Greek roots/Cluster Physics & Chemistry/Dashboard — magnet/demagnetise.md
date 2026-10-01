@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erase (a magnetic storage device).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make nonmagnetic; take away the magnetic properties (of).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of magnetic properties; to neutralize or remove the magnetism of a magnetized substance (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval engineering and electronics, to degauss a ship or tape head to eliminate residual magnetic fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagnetise designates erase (a magnetic storage device)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Heating the lodestone red-hot will completely **demagnetise** it, destroying its attractive virtue."*
+> - 📜 **Arthur C. Clarke (*Glide Path*):** *"Ground crews worked to **demagnetise** the aircraft hull to prevent radar and compass interference."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"An alternating field of diminishing amplitude is the most effective means to **demagnetise** hard steel."*

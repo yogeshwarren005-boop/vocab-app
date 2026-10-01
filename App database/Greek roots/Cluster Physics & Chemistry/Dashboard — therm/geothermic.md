@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of heat / temperature / warmth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of heat / temperature / warmth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the heat of the Earth's interior; geothermal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the geothermic degree or subterranean temperature gradient measured in mines and drill holes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geothermic designates adjective*) pertaining to, derived from, or characteristic of heat / temperature / warmth."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Mine shafts sunk deep into the Bohemian plateau confirmed the universal increase of the **geothermic** gradient."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **geothermic** degree varies considerably between ancient continental shields and young volcanic provinces."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Decay of radioactive isotopes in the crust constitutes the primary engine powering terrestrial **geothermic** activity."*

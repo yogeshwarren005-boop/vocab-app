@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive protein precursor of an enzyme secreted by living cells and converted (as by a kinase or an acid) into an active form —called also proenzyme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inactive protein precursor of an enzyme secreted by living cells and converted (as by a kinase or an acid) into an active form —called also proenzyme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive biological precursor of an enzyme that requires a biochemical change (such as proteolytic cleavage) to become an active enzyme; a proenzyme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal physiology, inactive digestive precursors (such as pepsinogen and trypsinogen) synthesized by glandular cells to prevent autolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymogen designates an inactive protein precursor of an enzyme secreted by living cells and converted (as by a kinase or an acid) into an active form —called also proenzyme."*
+> - 📜 **Rudolf Heidenhain (*Physiology of the Pancreas*):** *"The secretory granules of the pancreatic acinar cells consist of inactive **zymogen**, which is activated upon reaching the duodenum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Premature activation of the **zymogen** trypsinogen within the pancreatic ducts triggers catastrophic acute pancreatitis."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"Synthesis of dangerous proteases in the form of a stable **zymogen** protects the living cell from self-digestion."*

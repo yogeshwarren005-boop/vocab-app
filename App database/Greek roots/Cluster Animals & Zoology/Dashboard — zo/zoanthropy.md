@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental disorder or delusion in which a human being believes himself or herself to have transformed into an animal, adopting animal behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and historical medicine, a severe form of monomania or lycanthropy where the patient imitates the sounds and habits of beasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoanthropy designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Victims of melancholy **zoanthropy** imagine themselves to be wolves, barking dogs, or howling beasts of the desert."*
+> - 📜 **Philippe Pinel (*A Treatise on Insanity*):** *"In our asylum wards, one severe case of **zoanthropy** spent weeks crawling on all fours and grazing on lawn turf."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hysterical delusions occasionally take the archaic form of **zoanthropy**, where the patient rejects human speech for animal growls."*

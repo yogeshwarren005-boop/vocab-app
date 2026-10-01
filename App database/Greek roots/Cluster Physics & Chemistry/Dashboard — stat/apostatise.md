@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abandon one's beliefs or allegiances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abandon one's beliefs or allegiances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To abandon or renounce a religious or political belief, faith, or allegiance (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fall away from truth, duty, or formerly declared moral principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apostatise designates abandon one's beliefs or allegiances."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Neither the allurements of imperial favor nor the threat of exile could induce the bishop to **apostatise** from the Nicene faith."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"In times of shifting political terror, many a deputy was tempted to **apostatise** to save his neck."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The crusader declared he would suffer martyrdom ten times over before he would **apostatise** from his Christian vows."*

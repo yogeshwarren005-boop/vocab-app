@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psychr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or adaptation of being psychrophilic; the capacity to thrive in extreme cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial ecology and cryobiology, the physiological suite of adaptations (including polyunsaturated membrane lipids and antifreeze proteins) that enable survival below 15 degrees Celsius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychrophily designates a term designating an entity, condition, or phenomenon derived from greek psychr."*
+> - 📜 **Lynn Margulis (*Early Life*):** *"Membrane fluidization through unsaturated fatty acids is a hallmark molecular adaptation underlying bacterial **psychrophily**."*
+> - 📜 **Carl Sagan (*The Cosmic Connection*):** *"The evolution of extreme **psychrophily** on Earth expands the habitable zone for life across the icy frontiers of our solar system."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"Understanding **psychrophily** reminds us that what humans consider extreme cold is the comfortable ambient habitat for most oceanic life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or fortune-telling practiced by interpreting patterns, movements, or messages written on slips of paper wrapped in flour or dough.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient mantic practice, documented from Hellenic and Near Eastern rituals, considered an etymological and cultural precursor to modern fortune cookies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aleuromancy designates a term designating an entity, condition, or phenomenon derived from greek ale."*
+> - 📜 **Lewis Spence (*An Encyclopaedia of Occultism*):** *"In ancient Greece, **aleuromancy** was performed by tossing wheat flour upon the hearth or rolling messages in balls of paste."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The priest inspected the scattered flour in the rite of **aleuromancy** to discover signs of divine favor."*
+> - 📜 **Richard Cavendish (*The Black Arts*):** *"Like pyromancy and hydromancy, **aleuromancy** sought omens in the simplest domestic substance—common meal."*

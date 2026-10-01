@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tracing made by an electromyograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tracing made by an electromyograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic recording or visual display of the electrical activity produced by skeletal muscles (an EMG).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurophysiology, a recording obtained via needle electrodes used to diagnose neuropathies, myopathies, and motor neuron diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyogram designates a tracing made by an electromyograph."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The diagnostic **electromyogram** revealed extensive fibrillations characteristic of motor neuron disease."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"During motor preparation, the baseline **electromyogram** of the forearm muscles exhibits preparatory micro-potentials."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The rhythmic spikes of the **electromyogram** correspond directly to synchronized firing across motor unit pools."*

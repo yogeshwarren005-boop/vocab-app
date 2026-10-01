@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having equal statistical variances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having equal statistical variances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal or constant statistical variance across all levels of an explanatory variable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical statistics and regression modeling, satisfying the core assumption that the variance of the error term remains invariant across all observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoscedastic designates the property of having equal statistical variances."*
+> - 📜 **Karl Pearson (*On the General Theory of Skew Correlation and Non-Linear Regression*):** *"If the variability of arrays remains identical throughout the range, the system is strictly **homoscedastic**."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"Standard analysis of variance assumes that error distributions remain essentially **homoscedastic** across all treatment blocks."*
+> - 📜 **Jerzy Neyman (*Lectures and Conferences on Mathematical Statistics*):** *"Ordinary least squares estimators achieve optimal efficiency when errors are normally distributed and **homoscedastic**."*

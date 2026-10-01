@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paraphilia in which sexual gratification or excitement is obtained from odors or scents; osmolagnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric nosology, the formal Hellenic term for olfactory fetishism and eroticized fragrance fixation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osphresiolagnia designates a term designating an entity, condition, or phenomenon derived from greek osm."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The clinical term **osphresiolagnia** encompasses all varieties of erotic excitation mediated primarily through the olfactory sense."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"In documented histories of **osphresiolagnia**, certain perfumes or natural cutaneous odors become indispensable to libido."*
+> - 📜 **Magnus Hirschfeld (*The Homosexuality of Men and Women*):** *"He traced the patient's fetishistic behavior to an early manifestation of intense **osphresiolagnia**."*

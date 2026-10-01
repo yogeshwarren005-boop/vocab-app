@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of jaundice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of jaundice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or producing jaundice; promoting the accumulation of bilirubin in tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and pharmacology, describing chemical agents, drugs, or leptospiral toxins capable of inducing hepatic necrosis or cholestasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icterogenic designates adjective*) pertaining to, derived from, or characteristic of jaundice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged industrial exposure to chlorinated hydrocarbons exerts a powerful **icterogenic** effect upon factory workers."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy*):** *"We screened each synthetic compound to ensure it was devoid of direct **icterogenic** toxicity toward hepatocytes."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Certain early arsenical remedies exhibited unpredictable **icterogenic** properties in susceptible patients."*

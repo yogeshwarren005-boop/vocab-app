@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to hog.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to hog.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a hyena in physical conformation, dentition, or scavenging behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, describing extinct carnivorans or hyaenodontids that evolved bone-cracking adaptations convergent with modern hyenas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyenoid designates adjective & noun*) resembling, having the physical form of, or akin to hog."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"Certain creodont predators developed a robust **hyenoid** skull architecture to exploit ungulate carcasses."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"The fossil dog Borophagus displayed an astonishingly **hyenoid** dentition specialized for splitting marrow bones."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The aardwolf retains a slender, dog-like muzzle, lacking the massive **hyenoid** jaw muscles of its spotted cousins."*

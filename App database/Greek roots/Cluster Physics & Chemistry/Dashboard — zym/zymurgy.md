@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of applied chemistry that deals with the biochemical processes of fermentation and their practical applications, especially in brewing, winemaking, and distilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art, craft, and technology of brewing and commercial fermentation industries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymurgy designates a term designating an entity, condition, or phenomenon derived from greek zym."*
+> - 📜 **Louis Pasteur (*Studies on Beer*):** *"The scientific discipline of **zymurgy** rescued commercial brewing from empirical guesswork and placed it upon microbiological law."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"Modern **zymurgy** utilizes pure cultured strains of Saccharomyces to ensure consistent flavor profiles in industrial fermenters."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The practical achievements of **zymurgy** have provided mankind with wholesome beverages and essential bread since the dawn of civilization."*

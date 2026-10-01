@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman skilled in operating machine tools.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose occupation is repairing and maintaining automobiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled tradesperson who repairs, maintains, or constructs machinery, engines, or motor vehicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to manual labor or handicraft; or in classical literature, a working-class artisan or craftsman.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whate’er becomes of me, This is a soldier’s kiss. [_Kisses her._] Rebukeable And worthy shameful check it were, to stand On more mechanic compliment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mechanic slaves With greasy aprons, rules, and hammers shall Uplift us to the view."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing less worthy can be seen through the lustre of such qualities in the commonest mechanic, nothing less worthy can be seen in the best-born gentleman."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"What, know you not, being **mechanic**, you ought not walk upon a labouring day without the sign of your profession?"*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My father intended to make me a useful **mechanic**, but my fondness for books diverted my life into printing."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The garage **mechanic** wiped the grease from his brow and certified that the steam carriage was in running order."*

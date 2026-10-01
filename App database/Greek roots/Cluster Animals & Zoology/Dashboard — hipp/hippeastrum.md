@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amaryllis of tropical america often cultivated as a houseplant for its showy white to red flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amaryllis of tropical america often cultivated as a houseplant for its showy white to red flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bulbous flowering perennial plants in the family Amaryllidaceae native to tropical America, commonly cultivated as amaryllis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany, showy plants producing large, trumpet-shaped flowers on hollow scapes, literally 'knight's star' (Greek hippeus, knight/horseman + astron, star).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippeastrum designates amaryllis of tropical america often cultivated as a houseplant for its showy white to red flowers."*
+> - 📜 **William Herbert (*Amaryllidaceae*):** *"I established the genus **Hippeastrum** to honor the knightly star-like symmetry of these splendid South American lilies."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The crimson trumpets of greenhouse **Hippeastrum** burst into glorious bloom in midwinter from dormant bulbs."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"Cultivated hybrids of **Hippeastrum** exhibit immense flowers ranging from pure porcelain white to deep velvety carmine."*

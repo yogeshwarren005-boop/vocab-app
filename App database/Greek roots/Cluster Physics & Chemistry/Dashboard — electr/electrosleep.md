@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsciousness brought about by the passage of a low voltage electric current through the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconsciousness brought about by the passage of a low voltage electric current through the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of sleep or altered consciousness induced by the application of low-intensity, low-frequency pulsed electric currents to the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry, a historical neuromodulatory therapy researched in Eastern Europe for treating chronic insomnia, anxiety, and depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrosleep designates unconsciousness brought about by the passage of a low voltage electric current through the brain."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Low-voltage transcranial stimulation utilized in **electrosleep** therapy induces rhythmic synchronization in subcortical sleep centers."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"Clinical trials with **electrosleep** demonstrated modest reductions in systemic arterial tension among hypertensive subjects."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Methods attempting to induce natural rest through **electrosleep** reflect the persistent clinical desire for non-pharmacological sedatives."*

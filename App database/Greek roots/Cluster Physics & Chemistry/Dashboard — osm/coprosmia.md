@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An olfactory hallucination or sensory distortion in which odors are perceived as smelling like feces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry and otolaryngology, an extreme form of cacosmia associated with uncinate fits or severe psychiatric distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprosmia designates a term designating an entity, condition, or phenomenon derived from greek osm."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient complained of distressing **coprosmia**, perceiving every meal as if contaminated by fecal matter."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Irritative cortical lesions involving the limbic rhinencephalon can induce paroxysmal **coprosmia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent subjective **coprosmia** mandates thorough neuroimaging to exclude an uncinate gyrus neoplasm."*

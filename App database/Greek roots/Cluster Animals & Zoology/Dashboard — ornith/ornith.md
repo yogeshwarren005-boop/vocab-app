@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: bird.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: bird.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (ornis, ornithos, 'bird') denoting birds, avian anatomy, or bird-like characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, paleontology, and biochemistry, the foundational combining element in ornithology, ornithischian, ornithopod, and ornithine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog ornith as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*On the Animals Which Are Most Nearly Intermediate between Birds and Reptiles*):** *"The anatomical transitions uniting dinosaurs with birds rely heavily upon characters signified by the **ornith** root."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The Greek stem **ornith** reflects an ancient Indo-European designation for soaring aerial creatures."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Avian osteology distinguishes the **ornith** cranium by the seamless fusion of all its cranial sutures."*

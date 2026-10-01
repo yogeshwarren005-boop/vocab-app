@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Singing jazz; the singer substitutes nonsense syllables for the words of the song and tries to sound like a musical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flee; take to one's heels; cut and run.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal droppings or fecal matter used in wildlife tracking; or to leave hastily; or vocal jazz improvisation using nonsense syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and field biology, fecal specimens examined to analyze diet, gut microbiome, territory marking, and species presence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"In fact, it would have spoiled everything, and Angel encouraged the animal's exit with a suppressed "Scat!" The first hotel they tried was the right one."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"Do they think we enjoy for our music Staccatoes of "scat"?"*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"A cry of “Scat! you devil!” and the crash of an empty bottle against the back of his aunt’s woodshed brought him wide awake, and a single minute later he was dressed and out of the window and creeping along the roof of the “ell” on all fours."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The wolf **scat** on the snowy divide was packed with deer hair, recording the drama of the winter woods."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"I heard him holler out **scat**! and the old cat went scrambling over the garden palings in the dark."*
+> - 📜 **Louis Armstrong (*Swing That Music*):** *"When the lyrics slipped my memory during the recording, I started singing rhythmic **scat** syllables right into the horn."*

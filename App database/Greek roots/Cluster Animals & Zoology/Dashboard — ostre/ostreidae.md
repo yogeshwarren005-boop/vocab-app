@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oysters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oysters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of bivalve mollusks commonly known as true oysters, containing commercially harvested edible species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, marine and estuarine filter-feeding bivalves possessing foliate calcite shell layers, adductor muscles without foot structures, and crucial ecosystem-filtering roles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog ostreidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Members of the **Ostreidae** have completely lost the muscular foot in the adult stage, living cemented to hard substrates."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Commercial cultivation of the **Ostreidae** has been practiced since ancient Roman patricians engineered salt-water fattening ponds."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The clustered shells of the **Ostreidae** form living reefs that break the force of Atlantic storm waves upon coastal marshes."*

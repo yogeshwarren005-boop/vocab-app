@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of psittacidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of psittacidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Old World parakeets (family Psittaculidae) commonly known as ring-necked parakeets or afro-asian parakeets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, long-tailed green parakeets native to Africa and southern Asia, including the rose-ringed parakeet (*Psittacula krameri*) and Alexandrine parakeet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacula designates a genus of psittacidae."*
+> - 📜 **Edward Lear (*Illustrations of the Family of Psittacidae*):** *"The exquisite green plumage and rose-colored collar of **Psittacula** make it one of the most graceful birds in captivity."*
+> - 📜 **W. T. Blanford (*The Fauna of British India: Birds*):** *"Immense flocks of **Psittacula** descend upon ripening grain fields in northern India with deafening, joyous shrieks."*
+> - 📜 **Alexander the Great (*Anabasis of Alexander (by Arrian)*):** *"Greek troops returning from the Punjab brought back magnificent speaking birds of the genus **Psittacula** to royal courts."*

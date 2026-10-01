@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shotgun; or characterized by a wide-ranging, haphazard, or indiscriminate approach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and tactical history, a smoothbore firearm dispersing lead pellets over an expanding cone; metaphorically, unfocused effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scattergun designates firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges."*
+> - 📜 **Theodore Roosevelt (*The Rough Riders*):** *"The frontier scouts were armed with carbines and the deadly double-barrel **scattergun** for close thicket fighting."*
+> - 📜 **Jack London (*The Son of the Wolf*):** *"The trapper kept his loaded **scattergun** leaning against the cabin log door, ready for marauding wolves."*
+> - 📜 **H. L. Mencken (*Prejudices: Fourth Series*):** *"The reformer fired a noisy **scattergun** blast of accusations, hoping that at least some pellets would find a mark."*

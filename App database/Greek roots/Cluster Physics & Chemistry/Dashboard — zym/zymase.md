@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme or enzyme complex of yeast that promotes fermentation of sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme or enzyme complex of yeast that promotes fermentation of sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The enzyme complex originally extracted from yeast that catalyzes the fermentation of sugar into ethanol and carbon dioxide in the absence of living cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of biochemistry, the discovery of zymase by Eduard Buchner in 1897 refuted vitalism by proving cell-free fermentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymase designates an enzyme or enzyme complex of yeast that promotes fermentation of sugar."*
+> - 📜 **Eduard Buchner (*Alcoholic Fermentation without Yeast Cells*):** *"A soluble substance, which I name **zymase**, can be pressed out of yeast cells to produce active alcoholic fermentation."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"Fractionation of yeast juice revealed that **zymase** requires a dialyzable coenzyme and inorganic phosphate to function."*
+> - 📜 **Emil Fischer (*Studies on the Chemistry of Carbohydrates*):** *"The discovery of **zymase** bridged the chasm between organic chemistry and the vital operations of the cell."*

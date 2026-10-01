@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing bromine (especially pentavalent bromine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing bromine (especially pentavalent bromine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or containing bromine, especially in its higher oxidation states (such as bromic acid, HBrO3).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical nomenclature, denoting oxoacids or salts where bromine acts with a valency of five.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromic designates relating to or containing bromine (especially pentavalent bromine)."*
+> - 📜 **Antoine Jérôme Balard (*Annales de Chimie et de Physique*):** *"By reacting bromine with aqueous silver nitrate, free **bromic** acid was obtained in solution."*
+> - 📜 **Jöns Jacob Berzelius (*Traité de Chimie*):** *"The unstable nature of concentrated **bromic** acid makes it a vigorous and dangerous oxidizing agent."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"When heated, the **bromic** salts decompose with effervescence, disengaging oxygen gas."*

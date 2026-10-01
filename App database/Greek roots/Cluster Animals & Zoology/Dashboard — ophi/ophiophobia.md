@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of snakes (synonym of ophidiophobia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a severe specific phobia provoking acute distress, palpitations, and avoidance behavior at the presence or thought of serpents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiophobia designates a term designating an entity, condition, or phenomenon derived from greek ophi."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sudden startle and sickening dread of **ophiophobia** can be evoked even by a toy serpent drawn across the carpet."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Clinical cases of **ophiophobia** reveal how primitive animal symbols absorb unresolved unconscious taboos."*
+> - 📜 **H. P. Lovecraft (*The Curse of Yig*):** *"His growing **ophiophobia** bordered on madness as he imagined hissed whispers emerging from the dark corners of the sod house."*

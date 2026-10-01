@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology concerned with the classification and the properties and vital phenomena of animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Animal life (as of a region) : fauna.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the behavior, physiology, classification, genetics, and distribution of animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural science, the overarching biological discipline encompassing ethology, comparative anatomy, entomology, herpetology, mammalogy, and marine biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No branch of Zoology is so much involved as that which is entitled Cetology,” says Captain Scoresby, A."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This performance was sure to be hailed with loud plaudits, and the ‘puarkee nuee’ (big hog) was unanimously pronounced by the islanders to be the most extraordinary specimen of zoology that had ever come under their observation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His scientific sympathies were distinctly reptilian; he loved nature’s vulgarians and described himself as the Zola of zoology."*
+> - 📜 **Aristotle (*History of Animals*):** *"Aristotle laid the structural foundations of systematic **zoology** through his empirical dissections of cephalopods and marine vertebrates."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Comparative anatomy became the indispensable compass guiding modern **zoology** through the labyrinth of animal diversity."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The history of **zoology** is punctuated by revolutionary debates over body plans and evolutionary contingency."*

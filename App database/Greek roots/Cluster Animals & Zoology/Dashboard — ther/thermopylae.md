@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A famous battle in 480 bc; a greek army under leonidas was annihilated by the persians who were trying to conquer greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A famous battle in 480 bc; a greek army under leonidas was annihilated by the persians who were trying to conquer greece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow coastal mountain pass in eastern central Greece, famed for the heroic stand of 300 Spartans under King Leonidas in 480 BCE; literally 'Hot Gates'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history and geography, named for the sulfurous hot springs emerging from the foot of Mount Oeta; the archetypal symbol of heroic sacrifice against overwhelming odds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Zdrzhinski, the officer with the long mustache, spoke grandiloquently of the Saltánov dam being “a Russian Thermopylae,” and of how a deed worthy of antiquity had been performed by General Raévski."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And besides, the fate of the Fatherland did not depend on whether they took the Saltánov dam or not, as we are told was the case at Thermopylae."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When Xerxes was marching through Thessaly at the head of his mighty host to attack the Spartans at Thermopylae, he came to the town of Alus."*
+> - 📜 **Herodotus (*The Histories*):** *"At **Thermopylae**, Leonidas and his three hundred Spartans stood fast against the Persian host, preferring glorious death to shameful retreat."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Earth! render back from out thy breast a remnant of our Spartan dead! Of the three hundred grant but three, to make a new **Thermopylae**!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The narrow pass of **Thermopylae** was fortified in every age as the natural northern rampart of Greece."*

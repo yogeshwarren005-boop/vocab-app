@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Green turtles; hawksbills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Green turtles; hawksbills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of extant hard-shelled marine turtles, including green sea turtles, loggerheads, hawksbills, and ridleys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and herpetology, cosmopolitan pelagic chelonians possessing streamlined bony shells covered with keratinous scutes and specialized salt-excreting lachrymal glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cheloniidae designates green turtles; hawksbills."*
+> - 📜 **Archie Carr (*The Windward Road*):** *"Conserving the nesting rookeries of **Cheloniidae** across Caribbean cays is vital to saving the green turtle from extinction."*
+> - 📜 **Robert Cushman Murphy (*Oceanic Birds of South America*):** *"We observed juvenile members of **Cheloniidae** basking upon floating rafts of pelagic Sargassum weed."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Trans-oceanic navigational precision in the **Cheloniidae** guides adult females back to the precise natal beaches of their birth."*

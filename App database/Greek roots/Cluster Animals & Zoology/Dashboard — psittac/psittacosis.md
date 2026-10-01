@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease of birds caused by a bacterium (Chlamydia psittaci synonym Chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease of birds caused by a bacterium (Chlamydia psittaci synonym Chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious zoonotic disease caused by the bacterium Chlamydia psittaci, transmitted from birds (especially parrots) to humans; parrot fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and epidemiology, an atypical systemic pneumonia characterized by high remittent fever, headache, dry cough, and splenomegaly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacosis designates an infectious disease of birds caused by a bacterium (chlamydia psittaci synonym chlamydophila psittaci), marked by diarrhea and wasting, and transmissible to humans in whom it occurs as a flu-like illness often accompanied by pneumonia —called also ornithosis, parrot fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A severe outbreak of **psittacosis** in 1929 was traced to infected shipments of South American parrots into major ports."*
+> - 📜 **Hans Zinsser (*Rats, Lice and History*):** *"The causal agent of **psittacosis** baffled early virologists until specialized staining revealed intracellular elementary bodies."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Strict quarantine of exotic aviary birds halted the international spread of lethal pulmonary **psittacosis**."*

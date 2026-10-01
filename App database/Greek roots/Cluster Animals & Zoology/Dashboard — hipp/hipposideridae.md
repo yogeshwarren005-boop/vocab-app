@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world leafnose bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world leafnose bats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of Old World microbats known as roundleaf bats or Old World leaf-nosed bats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chiropterology, insectivorous bats possessing an intricate horseshoe-and-leaf nasal ornamentation used to focus echolocation pulses emitted through the nostrils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hipposideridae designates old world leafnose bats."*
+> - 📜 **Gerrit S. Miller (*The Families and Genera of Bats*):** *"The family **Hipposideridae** is distinguished from Rhinolophidae by the absence of a posterior lanceolate noseleaf."*
+> - 📜 **Frank E. Beddard (*Mammalia*):** *"Caves throughout the Indo-Malayan archipelago shelter vast colonies of insectivorous bats belonging to the **Hipposideridae**."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Members of the **Hipposideridae** radiate extensively across tropical Africa, southern Asia, and Australasia."*

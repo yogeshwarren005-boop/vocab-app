@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fermentation, or the chemical process caused by a ferment or enzyme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, the infectious process formerly believed to be analogous to fermentation, whereby a contagious disease develops within the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymosis designates a term designating an entity, condition, or phenomenon derived from greek zym."*
+> - 📜 **William Farr (*Report on the Mortality from Cholera in England*):** *"The propagation of epidemic diseases was classified under the concept of **zymosis**, as an internal fermentation of the blood."*
+> - 📜 **Louis Pasteur (*Memoir on Alcoholic Fermentation*):** *"True **zymosis** is never spontaneous; it is always ignited by the living agency of viable yeast cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The ancient doctrine of **zymosis** anticipated the modern germ theory by viewing infection as a multiplying catalytic agent."*

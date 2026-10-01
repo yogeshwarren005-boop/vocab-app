@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For therapeutic purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For therapeutic purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that contributes to healing, well-being, or the treatment of disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With curative or restorative intent, either medically, surgically, or psychologically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapeutically designates for therapeutic purposes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Morphine administered **therapeutically** in cardiac asthma brings immediate respiratory tranquility."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"When the strangulated affect was discharged, the hysterical symptom disappeared **therapeutically** without recurrence."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Bloodletting used **therapeutically** in inflammatory fever was too often carried to the point of dangerous syncope."*

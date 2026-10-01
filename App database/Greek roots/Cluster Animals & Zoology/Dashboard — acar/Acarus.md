@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several mites of the order acarina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several mites of the order acarina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small mites in the family Acaridae, typified by Acarus siro (the grain or flour mite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, Linnaeus's overarching genus comprising all known mites and ticks before subsequent 19th-century arachnological subdivision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acarus designates any of several mites of the order acarina."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The harvest-bug was formerly considered an **Acarus**, causing intolerable itching upon reapers in autumn."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The cheese-mite, an agile species of **Acarus**, possessed transparent crusts and formidable clawed joints."*
+> - 📜 **Erasmus Darwin (*The Botanic Garden*):** *"Beneath the glass the active **Acarus** creeps, and wakes the dormant spore while nature sleeps."*

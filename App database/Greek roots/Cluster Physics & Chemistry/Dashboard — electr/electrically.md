@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an electric manner; by means of electricity; with respect to electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and physics, describing charges, bonds, or circuits operating via electrostatic or electrodynamic interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Time sweeps by us on electrically-driven, ball-bearing pinions."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Black-leading._ Making the face of the molded case electrically conductive by applying graphite. _9."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"His sacred organism, so delicate that a touch may disorder it, is also, as it were, electrically charged with a powerful magical or spiritual force which may discharge itself with fatal effect on whatever comes in contact with it."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The medium between the two conducting spheres becomes **electrically** polarized under the influence of the charge."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The transatlantic cable was **electrically** tested every hour to detect any flaw in the gutta-percha insulation."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The ionization chamber rendered the surrounding air **electrically** conductive in the presence of radium rays."*

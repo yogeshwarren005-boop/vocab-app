@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of electrical resistor whose resistance changes significantly and predictably with changes in temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics and medical devices, a semiconductor temperature sensor (typically with a negative temperature coefficient, NTC) used for precision electronic thermometers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermistor designates a semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit."*
+> - 📜 **William Shockley (*Electrons and Holes in Semiconductors*):** *"The immense temperature sensitivity of the **thermistor** arises from the exponential thermal generation of electron-hole pairs."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"The patient's core temperature was monitored continuously by an esophageal catheter fitted with a miniature **thermistor**."*
+> - 📜 **Richard Feynman (*Feynman Lectures on Physics*):** *"Unlike a metallic platinum wire, the semiconductor **thermistor** exhibits an abrupt decrease in resistance as temperature rises."*

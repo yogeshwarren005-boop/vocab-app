@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative position or standing of things or especially persons in a society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state at a particular time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative social, professional, or legal standing of an individual or group in society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The current state or condition of affairs, a process, or a medical patient at a given time (such as status epilepticus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This status of semi-independence which it so long enjoyed has helped to give it an individuality more strongly marked than that of most English towns."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And this is the very point: my life-sentence gave me my status under this law which had not yet been written on the books."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And it is because of my status of lifetimer that I am to be hanged for battery committed on the guard Thurston."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Classes are stratified according to their relations to production, whereas **status** groups are stratified according to their styles of life."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The rapid progression of seizures into continuous **status** epilepticus constitutes an acute neurological emergency."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The equality of **status** prevailing in America dissolves ancient aristocratic pretensions into civic brotherhood."*

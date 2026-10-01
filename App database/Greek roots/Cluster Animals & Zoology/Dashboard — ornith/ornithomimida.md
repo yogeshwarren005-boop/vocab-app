@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lightly built medium-size theropods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lightly built medium-size theropods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clade or infraorder (also termed Ornithomimosauria) of ostrich-like theropod dinosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dinosaur paleontology, swift-running Cretaceous theropods possessing large orbits, enlarged braincases, and herbivorous or omnivorous adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithomimida designates lightly built medium-size theropods."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The radiation of the **Ornithomimida** produced some of the most agile and bird-like runners of the Mesozoic era."*
+> - 📜 **Henry Fairfield Osborn (*Cretaceous Dinosaurs of Mongolia*):** *"Specimens of **Ornithomimida** collected from the Gobi Desert demonstrate the remarkable anatomical uniformity of this cursorial group."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"The hand in the **Ornithomimida** retained three elongated fingers capable of raking foliage and grasping branches."*

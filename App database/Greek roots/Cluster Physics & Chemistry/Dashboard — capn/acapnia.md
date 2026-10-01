@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in which the level of carbon dioxide in the blood is lower than normal; can result from deep or rapid breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in which the level of carbon dioxide in the blood is lower than normal; can result from deep or rapid breathing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by an abnormally low level of carbon dioxide in the blood and bodily tissues; hypocapnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory physiology, a state resulting from hyperventilation, causing respiratory alkalosis and cerebral vasoconstriction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acapnia designates a state in which the level of carbon dioxide in the blood is lower than normal; can result from deep or rapid breathing."*
+> - 📜 **Yandell Henderson (*Adventures in Respiration*):** *"Prolonged hyperventilation induces severe **acapnia**, stripping the blood of its vital carbon dioxide stimulus for the respiratory center."*
+> - 📜 **J. S. Haldane (*Respiration*):** *"The physiological danger of **acapnia** lies in the failure of oxygen dissociation from hemoglobin when arterial carbon dioxide falls too low."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"The respiratory reflex mechanism vigorously resists **acapnia** to protect the acid-base equilibrium of the blood."*

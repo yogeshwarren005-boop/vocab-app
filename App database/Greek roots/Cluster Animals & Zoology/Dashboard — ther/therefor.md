@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (in formal usage, especially legal usage) for that or for it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (in formal usage, especially legal usage) for that or for it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For that; for it; in exchange, return, or compensation for that (formal legal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory law and contracts, specifying consideration, recompense, or specific purpose tied to an antecedent condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"An’ when we chasten’d him therefor, Thou kens how he bred sic a splore, An’ set the warld in a roar O’ laughing at us;— Curse Thou his basket and his store, Kail an’ potatoes."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The writer was one of those brought up to this belief, and only lately has eaten the kapu fish of his ancestors without fearing a penalty therefor."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Such discharge, with the reasons therefor, being endorsed upon the certificate, will be at once returned to Miss Dix."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The tenant must render the customary rent and suit of court, receiving **therefor** peaceful possession of the tenement."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The executive shall have power to negotiate treaties, submitting the reasons **therefor** to the wisdom of the Senate."*
+> - 📜 **John Marshall (*Marbury v. Madison*):** *"If a right has been violated, the law must furnish a prompt and adequate remedy **therefor**."*

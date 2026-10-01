@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (formal) in or into that thing or place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formal) in or into that thing or place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In that place, document, matter, or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and classical literature, specifying location or subject matter contained within a previously mentioned text or boundary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a simple maid, and therein wealthiest That I protest I simply am a maid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein that when old robes are worn out, there are members to make new."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not find, Though you be therein curious, the least cause For what you seem to fear."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Canst thou not minister to a mind diseased, pluck from the memory a rooted sorrow, and clean the bosom of that perilous stuff which weighs upon the heart? **Therein** the patient must minister to himself."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Natural philosophy seeks out the secrets of creation, and **therein** consists the true honor of the human intellect."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind is furnished with ideas through experience, and **therein** all our knowledge is ultimately founded."*

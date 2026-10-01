@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congealing tissue by heat (as by electric current).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congealing tissue by heat (as by electric current).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coagulation and destruction of biological tissue or proteins by the targeted application of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative surgery, neurology, and dermatology, a minimally invasive technique using radiofrequency heat to destroy sensory nerve fibers (for trigeminal neuralgia) or seal bleeding blood vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermocoagulation designates congealing tissue by heat (as by electric current)."*
+> - 📜 **Harvey Cushing (*Electrosurgery in Brain Surgery*):** *"Controlled **thermocoagulation** of the gasserian ganglion provided complete relief from agonizing trigeminal neuralgia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hemostasis in deep, inaccessible operative cavities is swiftly achieved by electro-thermal **thermocoagulation**."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"Denaturation of cell protein at sixty degrees Celsius is the physiological basis of surgical **thermocoagulation**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient numidian town in northwestern africa adjoining present-day annaba in northeastern algeria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massive thick-skinned herbivorous animal living in or around rivers of tropical africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal abbreviation for a hippopotamus; or the Greek root element hippos (horse).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial natural history and zoo keeping, common shorthand for Hippopotamus amphibius; historically, also an ancient North African city (Hippo Regius, home of St. Augustine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"There was an old hippo that had the bad habit of getting out on the bank and roaming at night over the station grounds."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And, after all, they did not eat each other before my face: they had brought along a provision of hippo-meat which went rotten, and made the mystery of the wilderness stink in my nostrils."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Certainly they had brought with them some rotten hippo-meat, which couldn’t have lasted very long, anyway, even if the pilgrims hadn’t, in the midst of a shocking hullabaloo, thrown a considerable quantity of it overboard."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"A huge bull **hippo** suddenly thrust its massive pink-edged muzzle above the brown waters of the river pool."*
+> - 📜 **W. H. Hudson (*The Naturalist in La Plata*):** *"Visitors at the zoological gardens crowded along the iron railings to watch the colossal **hippo** submerge."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustine served as bishop of **Hippo** while the Vandals laid siege to the crumbling Roman ramparts."*

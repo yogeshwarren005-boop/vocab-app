@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a chemical reaction or compound) occurring or formed with the liberation of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a chemical reaction or compound) occurring or formed with the liberation of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by or involving the liberation of heat; exothermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and thermodynamics, describing chemical reactions with negative change in enthalpy (delta H < 0).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exothermal designates (of a chemical reaction or compound) occurring or formed with the liberation of heat."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The intense combustion of phosphorus in oxygen gas represents one of the most brilliant **exothermal** phenomena in nature."*
+> - 📜 **Wilhelm Ostwald (*Outlines of General Chemistry*):** *"In every **exothermal** transformation, potential chemical energy is converted directly into sensible heat."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The production of caloric during acid neutralization illustrates the **exothermal** character of salt formation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the hippoboscidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the hippoboscidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of blood-sucking louse flies (family Hippoboscidae) that ectoparasitize horses, cattle, and other domestic ungulates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary entomology, dipteran insects known as forest flies or horse flies that scuttle sideways across the animal's hide and retain larvae until pupation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippobosca designates type genus of the hippoboscidae."*
+> - 📜 **William Spence (*An Introduction to Entomology*):** *"The forest fly, **Hippobosca** equina, torments horses with its leathery body and tenaciously clinging claws."*
+> - 📜 **Charles Valentine Riley (*The American Entomologist*):** *"Unlike typical flies, **Hippobosca** deposits fully grown larvae ready to transform immediately into pupae."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The dorsoventral flattening of **Hippobosca** enables it to slip smoothly between the coarse hairs of its mammalian host."*

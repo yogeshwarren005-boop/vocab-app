@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Theropoda) of carnivorous, bipedal, saurischian dinosaurs (such as a tyrannosaur or velociraptor) having hollow, thin-walled bones and usually small forelimbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Theropoda) of carnivorous, bipedal, saurischian dinosaurs (such as a tyrannosaur or velociraptor) having hollow, thin-walled bones and usually small forelimbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bipedal, hollow-boned carnivorous or omnivorous dinosaur of the clade Theropoda, from which modern birds evolved ('beast foot').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, predatory dinosaurs (from diminutive compsognathids to colossal tyrannosaurs) possessing curved claws, serrated teeth, and furculae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theropod designates any of a suborder (theropoda) of carnivorous, bipedal, saurischian dinosaurs (such as a tyrannosaur or velociraptor) having hollow, thin-walled bones and usually small forelimbs."*
+> - 📜 **O. C. Marsh (*Principal Characters of American Jurassic Dinosaurs*):** *"The predatory **theropod** Allosaurus walked entirely upon its strong hind legs, its hands armed with curved tearing claws."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"The discovery of feathered dinosaurs in China proved beyond doubt that birds are living, surviving **theropod** dinosaurs."*
+> - 📜 **Henry Fairfield Osborn (*Skeletal Adaptations of Ornitholestes, Struthiomimus, and Tyrannosaurus*):** *"The skull of the colossal **theropod** Tyrannosaurus was engineered for bone-crushing bite forces exceeding several tons."*

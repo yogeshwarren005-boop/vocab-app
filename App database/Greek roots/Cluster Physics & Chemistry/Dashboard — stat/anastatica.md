@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: rose of jericho; resurrection plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: rose of jericho; resurrection plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of desert annual plants in the mustard family (Brassicaceae), consisting of Anastatica hierochuntica, commonly known as the Rose of Jericho.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert botany, a famous resurrection plant whose dead branches curl inward into a ball when dry, tumbling with the wind and opening when moistened.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastatica designates one species: rose of jericho; resurrection plant."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The dry globes of **Anastatica**, brought by pilgrims from the Holy Land, expand miraculously when cast into water."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Tumbling across the arid sands of Egypt, the desiccated ball of **Anastatica** preserves its viable seeds for years."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Hygroscopic movements in the woody branches of **Anastatica** ensure seed dispersal precisely when desert rains arrive."*

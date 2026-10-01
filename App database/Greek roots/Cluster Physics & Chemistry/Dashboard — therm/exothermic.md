@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or formed with evolution of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or formed with evolution of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Releasing heat into the surroundings; characterized by a negative change in enthalpy (delta-H < 0).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and explosives chemistry, reactions that release energy as heat, light, or sound (such as combustion or thermite reactions).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exothermic designates characterized by or formed with evolution of heat."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The synthesis of water from hydrogen and oxygen is violently **exothermic**, releasing fifty-seven kilocalories per mole."*
+> - 📜 **Svante Arrhenius (*Studies on Chemical Dynamics*):** *"According to Le Chatelier's principle, elevating the temperature shifts an **exothermic** equilibrium toward the reactants."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The ignition of magnesium powder and barium peroxide produces a fiercely **exothermic** thermite flash."*

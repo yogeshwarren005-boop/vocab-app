@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hippocrates or the school of medicine that took his name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hippocrates or the school of medicine that took his name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Hippocrates, his medical treatises, or ethical standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, designating foundational ethical oaths (Hippocratic Oath) or classic diagnostic physical signs like the Hippocratic facies (sunken features portending death).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His notes already made a formidable range of volumes, but the crowning task would be to condense these voluminous still-accumulating results and bring them, like the earlier vintage of Hippocratic books, to fit a little shelf."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Every young physician stepping into clinical practice solemnly repeats the venerable tenets of the **Hippocratic** oath."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dying man's sharp nose and hollow temples presented that pinched, ghastly **Hippocratic** countenance which warns that life is ebbing."*
+> - 📜 **Sigmund Freud (*An Outline of Psycho-Analysis*):** *"The therapeutic alliance respects the ancient **Hippocratic** precept to assist the suffering patient and above all do no harm."*

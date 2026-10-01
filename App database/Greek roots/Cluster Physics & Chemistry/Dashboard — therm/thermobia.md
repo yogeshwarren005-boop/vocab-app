@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lepismatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of lepismatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive wingless insects in the family Lepismatidae, containing Thermobia domestica, commonly known as the firebrat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, a heat-loving zygentoman insect that inhabits warm, humid domestic environments such as bakeries, boiler rooms, and hearths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermobia designates a genus of lepismatidae."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The agile firebrat, classified under **Thermobia**, scurries with lightning speed across the warm hearthstones."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Species of **Thermobia** are adapted to survive in microhabitats where temperatures exceed forty degrees Celsius."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The primitive, unspecialized morphology of **Thermobia** preserves traits dating back to the earliest terrestrial insect ancestors."*

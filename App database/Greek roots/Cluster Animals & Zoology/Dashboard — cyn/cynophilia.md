@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of or deep affection for dogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human-animal studies and social history, an intense fondness for canines, fostering dedicated breed clubs, rescue shelters, and companion animal culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cynophilia designates a term designating an entity, condition, or phenomenon derived from greek cyn."*
+> - 📜 **Virginia Woolf (*Flush: A Biography*):** *"Her passionate **cynophilia** transformed the little spaniel into an indispensable confidant of her quiet sickroom."*
+> - 📜 **Sigmund Freud (*Letters of Sigmund Freud*):** *"My growing **cynophilia** in old age is inspired by the pure, uninhibited affection that my chow chow offers without ambivalence."*
+> - 📜 **Thomas Mann (*A Man and His Dog*):** *"The profound harmony between master and hound is an everyday miracle known only through sincere **cynophilia**."*

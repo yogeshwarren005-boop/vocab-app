@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of bromic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt of bromic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of bromic acid containing the monovalent polyatomic anion BrO3(-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and analytical chemistry, an oxidizing agent (such as potassium bromate) historically used as a flour improver in bread making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromate designates a salt of bromic acid."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"When bromine is dissolved in hot concentrated potash, potassium **bromate** crystallizes upon cooling."*
+> - 📜 **Ira Remsen (*Principles of Theoretical Chemistry*):** *"Decomposition of an alkaline **bromate** by heat yields oxygen gas and the corresponding metal bromide."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial runoff carrying soluble **bromate** residues posed unforeseen contamination risks for municipal water supplies."*

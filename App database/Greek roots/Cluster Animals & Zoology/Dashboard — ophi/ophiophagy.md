@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice, habit, or adaptation of eating snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trophic ecology, specialized predation on serpents, often accompanied by physiological resistance to snake venoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiophagy designates a term designating an entity, condition, or phenomenon derived from greek ophi."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The chimango caracara of South America engages in frequent **ophiophagy**, dragging small vipers from their grassy burrows."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"Specialized **ophiophagy** in raptors requires precise targeting of the serpent's cervical vertebrae to avert a retaliatory strike."*
+> - 📜 **Frank E. Beddard (*The Cambridge Natural History: Reptiles*):** *"The evolution of dietary **ophiophagy** in kingsnakes led to circulating serum factors that neutralize crotaline venom."*

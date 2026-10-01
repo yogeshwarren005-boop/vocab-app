@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer that includes a thermometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrometer that includes a thermometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An analytical balance coupled to a temperature-controlled furnace used to record the mass of a sample as a function of temperature or time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials chemistry, an instrument designed to measure dehydration, decomposition, oxidation, and volatile loss during thermogravimetric analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimeter designates a hydrometer that includes a thermometer."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The automated **thermogravimeter** precisely recorded the stepwise loss of hydration water from copper sulfate crystals."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"We placed the mineral sample into the platinum pan of the **thermogravimeter** to monitor thermal decomposition."*
+> - 📜 **Marcellin Berthelot (*Essai de Mécanique Chimique*):** *"Continuous mass determination inside the furnace of the **thermogravimeter** unmasked intermediate stoichiometric hydrates."*

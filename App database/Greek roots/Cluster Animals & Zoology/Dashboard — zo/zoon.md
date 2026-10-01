@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal : zooid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Animal : zooid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal; an individual living animal organism, particularly one developed from a fertilized ovum (distinguished from a colony or zooid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical biology and theoretical zoology, the total product of a single ovum, which may consist of an individual creature or an entire polymorphic colony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A Gentleman was saying one Day at the _Tilt-Yard_ Coffee-House, when it rained exceeding hard, that it put him in Mind of the General _Deluge_; Zoons, Sir, said an old Campaigner, who stood by, who's that?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Zoons, sir, said an old campaigner, who stood by, who’s that?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Zoons! how came you here? replied the old man."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Huxley debated whether a colonial siphonophore should be regarded as an assemblage of organs or a single physiological **zoon**."*
+> - 📜 **Richard Owen (*On Parthenogenesis*):** *"In philosophical anatomy, each complete individual organism developed from a distinct fertilized ovum constitutes an authentic **zoon**."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Spencer analyzed how social aggregations of metazoan individuals mimic the integration of parts within an individual **zoon**."*

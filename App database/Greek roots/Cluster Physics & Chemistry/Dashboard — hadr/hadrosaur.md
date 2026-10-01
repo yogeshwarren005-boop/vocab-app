@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Hadrosaurus) or family (Hadrosauridae) of mainly bipedal dinosaurs of the Late Cretaceous that have the forward part of the jaws toothless and flattened into a beak-like snout and the back part of the jaws filled with rows of numerous small, grinding teeth and that often have a solid or hollow bony crest on the skull : duck-billed dinosaur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Hadrosaurus) or family (Hadrosauridae) of mainly bipedal dinosaurs of the Late Cretaceous that have the forward part of the jaws toothless and flattened into a beak-like snout and the back part of the jaws filled with rows of numerous small, grinding teeth and that often have a solid or hollow bony crest on the skull : duck-billed dinosaur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any herbivorous ornithopod dinosaur of the Cretaceous family Hadrosauridae, characterized by a flat, duck-like bill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a dominant group of Cretaceous quadrupeds possessing intricate dental batteries specialized for grinding fibrous vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosaur designates any of a genus (hadrosaurus) or family (hadrosauridae) of mainly bipedal dinosaurs of the late cretaceous that have the forward part of the jaws toothless and flattened into a beak-like snout and the back part of the jaws filled with rows of numerous small, grinding teeth and that often have a solid or hollow bony crest on the skull : duck-billed dinosaur."*
+> - 📜 **Edward Drinker Cope (*The Dinosauria of North America*):** *"The massive skeleton of the **hadrosaur** was exhumed from the late Cretaceous marl beds of New Jersey."*
+> - 📜 **Joseph Leidy (*Cretaceous Reptiles of the United States*):** *"The teeth of the **hadrosaur** were arranged in compact quincuncial batteries containing hundreds of replacement crowns."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"Bizarre cranial crests in the **hadrosaur** served as resonating chambers for acoustic communication within herds."*

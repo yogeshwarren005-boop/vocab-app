@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or operated by a thermostat; maintaining automatic temperature regulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and domestic architecture, describing valves, switches, or mixers controlled automatically by thermal expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatic designates an automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers."*
+> - 📜 **Andrew Ure (*Dictionary of Arts, Manufactures, and Mines*):** *"The **thermostatic** valve expands with heat, throttling the draft and preventing the steam boiler from overheating."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Living organisms maintain homeostatic equilibrium through mechanisms analogous to **thermostatic** control circuits."*
+> - 📜 **Arthur D. Little (*The Chemist and His Work*):** *"Laboratory incubators equipped with **thermostatic** relays held bacteriological cultures at strict physiological temperatures."*

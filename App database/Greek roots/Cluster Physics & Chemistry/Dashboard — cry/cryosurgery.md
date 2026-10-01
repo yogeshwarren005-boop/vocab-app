@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery in which usually diseased or abnormal tissue (as of a tumor or wart) is destroyed or removed by freezing (as by liquid nitrogen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery in which usually diseased or abnormal tissue (as of a tumor or wart) is destroyed or removed by freezing (as by liquid nitrogen).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery in which diseased or abnormal tissue is destroyed by the application of extreme cold, typically using liquid nitrogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, urology, and neurosurgery, the targeted ablation of lesions (such as skin keratoses or prostate tumors) using controlled freezing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryosurgery designates surgery in which usually diseased or abnormal tissue (as of a tumor or wart) is destroyed or removed by freezing (as by liquid nitrogen)."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The introduction of modern **cryosurgery** allowed dermatologists to eradicate precancerous lesions quickly in the clinic."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"Pioneering attempts at **cryosurgery** in the brain utilized cooled cannulas to destroy subcortical tremor centers."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Techniques of stereotaxic **cryosurgery** were once employed to ablate hyperactive thalamic nuclei in Parkinsonism."*

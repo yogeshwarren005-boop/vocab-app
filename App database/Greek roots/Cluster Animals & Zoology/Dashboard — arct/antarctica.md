@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely cold continent at the south pole almost entirely below the antarctic circle; covered by an ice cap up to 13,000 feet deep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extremely cold continent at the south pole almost entirely below the antarctic circle; covered by an ice cap up to 13,000 feet deep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The southernmost continent, almost entirely covered by a thick ice sheet and containing the South Pole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and polar science, the fifth-largest continent, surrounded by the Southern Ocean and governed by the Antarctic Treaty of 1959.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antarctica designates an extremely cold continent at the south pole almost entirely below the antarctic circle; covered by an ice cap up to 13,000 feet deep."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"Great God! this is an awful place, and terrible enough for us to have laboured to it without the reward of priority in **Antarctica**."*
+> - 📜 **Roald Amundsen (*The South Pole*):** *"The endless white plateau of **Antarctica** lay glistening under the midnight sun as our flags touched the pole."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"Fossil ferns in **Antarctica** proved that the polar landmass was once fused with Gondwana under a temperate climate."*

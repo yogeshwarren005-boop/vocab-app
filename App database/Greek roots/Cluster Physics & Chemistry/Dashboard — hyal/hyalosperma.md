@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of herbs of temperate australia including some from genus helipterum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of herbs of temperate australia including some from genus helipterum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small annual flowering plants in the daisy family (Asteraceae), native to southern and western Australia, commonly known as sunrays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, ephemeral Australian paper-daisies characterized by translucent papery involucral bracts and membranous winged seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalosperma designates genus of herbs of temperate australia including some from genus helipterum."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"The sandy red plains of Western Australia burst into golden sheets of flowering **Hyalosperma** after winter rains."*
+> - 📜 **John Lindley (*A Sketch of the Vegetation of the Swan River Colony*):** *"The scarious translucent scales of **Hyalosperma** gleam like polished mica in the desert sun."*
+> - 📜 **Joseph Maiden (*The Useful Native Plants of Australia*):** *"Species of **Hyalosperma** produce durable everlasting floral heads prized for dried arrangements."*

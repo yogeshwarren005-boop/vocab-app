@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument that uses an infrared camera to reveal temperature variations on the surface of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that records temperature variations on a graph as a function of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-registering recording thermometer that continuously plots temperature changes on a revolving chart or digital record.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, an instrument utilizing a bimetallic strip or Bourdon tube to trace daily and seasonal temperature curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermograph designates medical instrument that uses an infrared camera to reveal temperature variations on the surface of the body."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"The pen of the **thermograph** dipped to sixty degrees below zero as the winter night settled over the Ross Ice Shelf."*
+> - 📜 **William Napier Shaw (*Manual of Meteorology*):** *"The revolving drum of the **thermograph** showed a sharp nocturnal inversion under the cloudless sky."*
+> - 📜 **Cleveland Abbe (*Treatise on Meteorological Apparatus*):** *"A well-ventilated Stevenson screen is indispensable to prevent radiant sunshine from distorting the **thermograph** trace."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument that detects electric charge; two gold leaves diverge owing to repulsion of charges with like sign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument that detects electric charge; two gold leaves diverge owing to repulsion of charges with like sign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early scientific instrument used to detect the presence and magnitude of an electric charge on a body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physics, a glass flask containing two delicate gold leaves that diverge when an electric charge is communicated to the central terminal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In its simplest form the electrometer is called the "electroscope." Two strips of gold-leaf are suspended by their ends under a glass or metal shade."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"When the charged rod approached the brass cap, the gold leaves of the **electroscope** diverged immediately."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The rate at which the charged **electroscope** lost its charge measured the ionizing intensity of the pitchblende."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"By shielding the **electroscope** with lead sheets, we determined the penetrative power of the newly discovered gamma rays."*

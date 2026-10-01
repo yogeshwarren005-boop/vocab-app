@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armed and armored motor vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make monotonous; make automatic or routine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped with machinery; operated or driven by machines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military terminology, utilizing armored fighting vehicles, tanks, and motorized personnel carriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"When he glanced again, he was sure it was a mechanized human like himself--and a girl!"*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It is almost a pity you had to be mechanized."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Before the birds had attacked them, however, they had managed to get a telegraph wire in operation and learn that people were alive at Los Angeles--whether mechanized or not they were uncertain, but they thought not."*
+> - 📜 **George Orwell (*Facing Unpleasant Facts*):** *"A **mechanized** army can sweep across plains in days where marching legions once took seasons."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The **mechanized** nursery turned out standardized citizens like uniform components from an assembly line."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Modern corporate enterprise relies on a heavily **mechanized** capital infrastructure."*

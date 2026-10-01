@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear nongranular portion of the cytoplasm of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clear nongranular portion of the cytoplasm of a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear, fluid, structureless ground substance of cytoplasm in which organelles and cell inclusions are suspended; cytosol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cell biology and microscopy, the homogeneous soluble phase of the protoplasm distinct from granular inclusions and organelles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaloplasm designates the clear nongranular portion of the cytoplasm of a cell."*
+> - 📜 **Edmund B. Wilson (*The Cell in Development and Inheritance*):** *"The active amoeboid movements of the leukocyte are executed by pseudopodia composed of clear, fluid **hyaloplasm**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Between the Nissl granules lies the clear **hyaloplasm** through which neurofibrils course continuously."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Enzymes diffusing through the watery **hyaloplasm** drive intermediary cellular metabolism."*

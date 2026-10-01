@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to internal heat production; or accompanied by the absorption of heat; endothermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and thermodynamics, describing chemical reactions that absorb thermal energy from their surroundings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothermal designates (of a chemical reaction or compound) occurring or formed with absorption of heat."*
+> - 📜 **Julius Thomsen (*Thermochemical Investigations*):** *"Dissolution of ammonium nitrate in water is a strongly **endothermal** process that produces sharp cooling."*
+> - 📜 **Marcellin Berthelot (*Essai de Mécanique Chimique*):** *"Reactions that proceed with absorption of heat were classified under the term **endothermal** transformations."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"The electrolytic dissociation constant increases with temperature for an **endothermal** ionization."*

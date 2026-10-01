@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Croakers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Croakers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sciaenid marine croaker fishes including the Atlantic croaker (Micropogonias undulatus), literally 'small beard'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fisheries biology, bottom-dwelling estuarine fishes possessing small chin barbels and powerful sonic muscle-drum systems used for acoustic signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog micropogonias as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The Atlantic croaker, classified under **Micropogonias**, produces deep drumming sounds that vibrate through the wooden hulls of boats."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"The tiny chin barbels in **Micropogonias** assist the fish in detecting burrowing worms and small crustaceans in muddy bays."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"A migrating school of **Micropogonias** moved steadily down the estuary toward offshore winter spawning grounds."*

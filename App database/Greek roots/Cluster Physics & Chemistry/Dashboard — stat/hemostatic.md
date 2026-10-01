@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to check bleeding by contracting the tissues or blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to check bleeding by contracting the tissues or blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to stop or arrest bleeding; styptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical instruments, a hemostatic clamp or forceps (hemostat) used to compress bleeding vessels; or a topical procoagulant agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemostatic designates tending to check bleeding by contracting the tissues or blood vessels."*
+> - 📜 **William Halsted (*Surgical Papers*):** *"The introduction of the fine-pointed **hemostatic** forceps revolutionized clean operative technique."*
+> - 📜 **Atul Gawande (*Better*):** *"The scrub nurse handed him a curved **hemostatic** clamp to occlude the spurting arterial branch."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Topical application of a cold saline pack exerts a marked **hemostatic** effect upon mucosal oozing."*

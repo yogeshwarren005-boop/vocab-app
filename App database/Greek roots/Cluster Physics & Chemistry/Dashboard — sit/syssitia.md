@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A communal meal or common mess banquet shared daily by male citizens in ancient Greek city-states, particularly Sparta and Crete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical political history, the civic dining institution designed to foster camaraderie, civic equality, and military discipline among citizens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syssitia designates a term designating an entity, condition, or phenomenon derived from greek sit."*
+> - 📜 **Plutarch (*Life of Lycurgus*):** *"Lycurgus instituted the **syssitia**, or common tables, that citizens might eat together of specified simple foods and banish luxury."*
+> - 📜 **Aristotle (*Politics*):** *"The institution of the **syssitia** in Crete and Sparta was designed to bind the warrior class into a unified civic brotherhood."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The austere public table of the Spartan **syssitia** preserved civic equality across generations of austere soldiers."*

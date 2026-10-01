@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mites and ticks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mites and ticks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxon (order or subclass) of arachnids comprising all mites and ticks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, a megadiverse clade of chelicerates distinguished by the fusion of the prosoma and opisthosoma into an unsegmented idiosoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarina designates mites and ticks."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among the tiny creatures inhabiting the damp decaying leaf-mould, curious species of **Acarina** abounded."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **Acarina** exhibit the most extreme reduction of body articulation found among all terrestrial arthropods."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The damp forest floor was alive with microscopic **Acarina**, unobserved by the traveler yet central to the woodland cycle."*

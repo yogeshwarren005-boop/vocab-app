@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyrin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American lungless salamanders (family Plethodontidae), commonly known as spring salamanders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, large, predatory salamanders inhabiting cold mountain springs and subterranean streams, literally 'tadpole lover' due to long aquatic larval life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Gyrinophilus designates a term designating an entity, condition, or phenomenon derived from greek gyrin."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"I established the genus **Gyrinophilus** for the purple spring salamander inhabiting cool Appalachian mountain springs."*
+> - 📜 **Sherman C. Bishop (*Handbook of Salamanders*):** *"The aquatic larvae of **Gyrinophilus** spend up to four years in clear gravel runs before undergoing metamorphosis."*
+> - 📜 **Albert Hazen Wright (*Handbook of Frogs and Toads*):** *"Adult specimens of **Gyrinophilus** hunt other smaller plethodontid salamanders along damp limestone crevices."*

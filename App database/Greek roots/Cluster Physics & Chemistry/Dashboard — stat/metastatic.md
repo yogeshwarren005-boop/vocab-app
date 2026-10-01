@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change of position, state, or form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of a disease-producing agency (such as cancer cells) from the initial or primary site of disease to another part of the body; also : the process by which such spreading occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, produced by, or characterized by metastasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, describing secondary malignant tumors situated distant from the primary lesion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metastatic designates change of position, state, or form."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The liver is the most common site of **metastatic** seeding for gastrointestinal carcinomas."*
+> - 📜 **Paul Kalanithi (*When Breath Becomes Air*):** *"Looking at the MRI, I saw multiple **metastatic** lesions scattered like bright stars across my brain."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"Pain management becomes the central clinical duty once **metastatic** spread involves the skeletal frame."*

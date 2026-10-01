@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pogon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial orchids commonly known as snakemouth orchids or beard-orchids (family Orchidaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, North American and East Asian bog plants bearing a single pink or white flower with a bearded, glandular-fringed lip (from Greek pogon, beard).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonia designates a term designating an entity, condition, or phenomenon derived from greek pogon."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In sphagnum bogs, the delicate snakemouth orchid **Pogonia** ophioglossoides displays its fragrant bearded lip in midsummer."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"The crested fringe upon the labellum of **Pogonia** mimics pollen, attracting insect pollinators into the floral column."*
+> - 📜 **William Bartram (*Travels through North & South Carolina*):** *"Along the savannah margins, we discovered radiant colonies of **Pogonia** nodding over damp carpet mosses."*

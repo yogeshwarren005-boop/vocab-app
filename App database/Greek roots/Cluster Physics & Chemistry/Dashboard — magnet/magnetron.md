@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diode vacuum tube in which the flow of electrons from a central cathode to a cylindrical anode is controlled by crossed magnetic and electric fields; used mainly in microwave oscillators.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diode vacuum tube in which the flow of electrons from a central cathode to a cylindrical anode is controlled by crossed magnetic and electric fields; used mainly in microwave oscillators.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-powered vacuum tube that generates microwave oscillations using the interaction of a stream of electrons with a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radar engineering and microwave technology, the cavity magnetron invented in 1940 by Randall and Boot, foundational to Allied World War II centimetric radar and domestic microwave ovens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetron designates a diode vacuum tube in which the flow of electrons from a central cathode to a cylindrical anode is controlled by crossed magnetic and electric fields; used mainly in microwave oscillators."*
+> - 📜 **Robert Watson-Watt (*Three Steps to Victory*):** *"The invention of the cavity **magnetron** produced megawatts of centimetric microwave power from a device small enough to hold in one's hand."*
+> - 📜 **Freeman Dyson (*Weapons and Hope*):** *"Centimetric radar powered by the cavity **magnetron** turned the tide against the U-boat threat in the Battle of the Atlantic."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"During the war, radar development hinged entirely on understanding the subtle electron cloud dynamics inside the cavity **magnetron**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osmo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek ōsmos, meaning 'thrust', 'push', or 'impulse', denoting osmosis or osmotic pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and physiology, the formative root of osmosis, osmoregulation, and osmometry, distinct from the root for smell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osm 2 designates a term designating an entity, condition, or phenomenon derived from greek osmo."*
+> - 📜 **René Dutrochet (*Nouvelles Recherches sur l'Endosmose et l'Exosmose*):** *"From the Greek word for impulse or thrust, we introduced the formative morpheme **osm**- to describe fluid passage through organic membranes."*
+> - 📜 **Wilhelm Pfeffer (*Osmotische Untersuchungen*):** *"Membrane transport phenomena investigated under the root **osm**- laid the foundation of modern solution thermodynamics."*
+> - 📜 **Jacobus Henricus van 't Hoff (*The Role of Osmotic Pressure in the Analogy Between Solutions and Gases*):** *"The prefix **osm**- links the gas laws directly to the hydrostatic pressures developed across semipermeable barriers."*

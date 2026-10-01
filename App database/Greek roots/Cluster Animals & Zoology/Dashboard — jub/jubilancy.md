@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme joy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of extreme joy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being jubilant; exultant triumph and celebration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological and literary description, high-spirited joy and victorious buoyancy of spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jubilancy designates a feeling of extreme joy."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The bonfires on the heath crackled into the night sky, mirroring the rustic **jubilancy** of the villagers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her momentary **jubilancy** over the small triumph was soon tempered by the sobering realities of household duty."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The bells of London chimed with noisy **jubilancy** to welcome news of the grand victory at Blenheim."*

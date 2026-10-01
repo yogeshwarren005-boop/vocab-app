@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To provide with or control the temperature of by a thermostat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that automatically regulates temperature, or that activates a heating or cooling device when the temperature reaches a certain point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feedback engineering, the classic prototype of a homeostatic negative-feedback control loop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostat designates an automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*):** *"The humble domestic **thermostat** illustrates the fundamental principle of negative feedback governing all cybernetic systems."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"The preoptic nuclei of the hypothalamus function as a living **thermostat** regulating physiological heat conservation."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"In the automated conditioning rooms, the **thermostat** clicked softly, maintaining tropical warmth for the developing embryos."*

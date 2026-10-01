@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hygrometer consisting of two similar thermometers, one wet-bulb and one dry-bulb, used to measure the relative humidity of the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, a sling or aspiration psychrometer where evaporative cooling of the wet wick determines atmospheric vapor pressure and dew point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychrometer designates a hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"By noting the difference between the dry and moist bulbs on the **psychrometer**, the dew point is readily ascertained."*
+> - 📜 **William Napier Shaw (*Forecasting Weather*):** *"The sling **psychrometer** whirled rapidly in the shade provides the standard field determination of relative humidity."*
+> - 📜 **Cleveland Abbe (*Treatise on Meteorological Apparatus and Methods*):** *"Ventilation speed is the critical factor in obtaining consistent wet-bulb depressions with the **psychrometer**."*

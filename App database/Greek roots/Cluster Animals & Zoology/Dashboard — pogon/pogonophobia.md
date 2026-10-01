@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pogon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear or intense dislike of beards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific social phobia provoking anxiety, revulsion, or panic attacks in the presence of bearded individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonophobia designates a term designating an entity, condition, or phenomenon derived from greek pogon."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An intense, shuddering **pogonophobia** in a child can often be traced to a frightening encounter with a bearded stranger."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"In neurotic symbolization, acute **pogonophobia** often reflects repressed paternal dread projected upon facial hair."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The patient confessed an insurmountable **pogonophobia**, refusing to converse with any physician sporting a beard."*

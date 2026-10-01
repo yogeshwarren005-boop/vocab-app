@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek capn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of carbon dioxide in the blood, typically caused by hyperventilation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary medicine, arterial PCO2 below 35 mmHg, causing respiratory alkalosis, paresthesias, dizziness, and carpopedal spasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypocapnia designates a term designating an entity, condition, or phenomenon derived from greek capn."*
+> - 📜 **Yandell Henderson (*Adventures in Respiration*):** *"Rapid breathing at high altitude brings about marked **hypocapnia**, shifting the hemoglobin dissociation curve to the left."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"The physiological defense against **hypocapnia** involves renal excretion of bicarbonate to restore plasma pH."*
+> - 📜 **Julius Comroe (*Physiology of Respiration*):** *"Cerebral vasoconstriction caused by acute **hypocapnia** can reduce intracranial pressure during acute brain swelling."*

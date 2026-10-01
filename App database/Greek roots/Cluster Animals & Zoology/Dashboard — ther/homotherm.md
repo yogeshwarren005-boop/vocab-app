@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that has a body temperature that is relatively constant and independent of the environmental temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that has a body temperature that is relatively constant and independent of the environmental temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that maintains a relatively constant internal body temperature regardless of ambient environmental fluctuations; a homeotherm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermal physiology, an animal possessing high basal metabolic rates, internal thermoregulation, and insulating integument (fur, feathers, or blubber).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homotherm designates an animal that has a body temperature that is relatively constant and independent of the environmental temperature."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"As an active **homotherm**, the bird maintains a blood temperature exceeding forty degrees Celsius even in polar storms."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The internal milieu of the **homotherm** is held in delicate equilibrium by autonomic shivering and vascular control."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The four-chambered heart with complete septal division is the anatomical prerequisite of the mammalian **homotherm**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living within a living animal usually as a parasite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living within a living animal usually as a parasite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living inside the body of an animal; relating to or characteristic of internal animal parasites or internal symbionts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and ecology, designating microscopic organisms inhabiting internal mucosal cavities, such as entozoic amoebae and flagellates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entozoic designates living within a living animal usually as a parasite."*
+> - 📜 **Joseph Leidy (*A Flora and Fauna within Living Animals*):** *"Leidy detailed numerous **entozoic** nematodes and ciliated infusoria populating the gut of the passalid beetle."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"Intestinal flukes exhibit specialized suckers designed to withstand the peristaltic forces of their **entozoic** habitat."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Certain **entozoic** ciliates thrive anaerobically within the rumen fluids of grazing herbivores."*

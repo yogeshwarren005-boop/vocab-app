@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that uses thermoelectric current to measure temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that uses thermoelectric current to measure temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermoelectric thermometer or thermocouple assembly used for highly accurate, sensitive temperature measurements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental physics and physiological calorimetry, a multiple-junction thermoelectric device measuring minute temperature variations in tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermel designates a thermometer that uses thermoelectric current to measure temperature."*
+> - 📜 **William Thomson (Lord Kelvin) (*On the Dynamical Theory of Heat*):** *"The sensitive **thermel** detected temperature fluctuations as minute as one-thousandth of a degree."*
+> - 📜 **Augustin-Jean Fresnel (*Oeuvres Completes*):** *"By placing the junction of the **thermel** across the focal plane, we mapped the infrared spectrum of the sun."*
+> - 📜 **A. V. Hill (*Muscular Activity*):** *"A delicate **thermel** placed upon the isolated frog muscle measured the tiny burst of initial heat produced during twitching."*

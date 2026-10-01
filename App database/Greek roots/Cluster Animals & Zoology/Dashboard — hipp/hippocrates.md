@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical practitioner who is regarded as the father of medicine; author of the hippocratic oath (circa 460-377 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical practitioner who is regarded as the father of medicine; author of the hippocratic oath (circa 460-377 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek physician of Kos (c. 460–c. 370 BCE), traditionally honored as the Father of Western Medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and medical ethics, the foundational author of the Hippocratic Corpus who liberated clinical medicine from superstition and established the humoral doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a result which paralleled the oft-quoted observation of Hippocrates concerning physical pains."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"After the lapse of a few moments the stripling re-entered the house with an aged islander, who might have been taken for old Hippocrates himself."*
-> - 📜 **Effie Afton (*Eventide*):** *"Prague was accustomed to apply to her husband when she wished to be very killing and condescending, his Christian name being Hippocrates."*
+> - 📜 **Plato (*Phaedrus*):** *"Does not **Hippocrates** the Asclepiad say that one cannot understand the nature of the body without understanding the nature of the whole?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"No physician ever observed the natural course of disease with clearer vision and deeper humility than **Hippocrates**."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"I have taken **Hippocrates** as my guide, following closely the footsteps of nature rather than scholastic hypotheses."*

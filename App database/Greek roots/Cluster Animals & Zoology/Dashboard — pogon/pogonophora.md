@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beard worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beard worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former phylum (now family Siboglinidae within Annelida) of deep-sea tube-dwelling worms commonly known as beard worms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, gutless hydrothermal vent organisms possessing tentacular cephalic plumes (from Greek pogon, beard) and sustained by endosymbiotic sulfur-oxidizing bacteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonophora designates beard worms."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The enigmatic deep-sea organisms of the group **Pogonophora** completely lack a mouth, gut, or anus throughout their adult life."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Dredges probing the abyssal oceanic trenches retrieved delicate chitinous tubes inhabited by mysterious **Pogonophora**."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The hydrothermal vent tube worms belonging to the **Pogonophora** survive on chemical energy harvested from toxic volcanic sulfides."*

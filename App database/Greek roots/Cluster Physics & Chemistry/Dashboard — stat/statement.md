@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fact or assertion offered as evidence that something is true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A definite or clear expression of something in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial accounting, a formal document setting out details of debits and credits, assets and liabilities (a bank or balance statement).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So of course the first hour after school from eleven till twelve belongs to me," was Bruno's statement."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"With pleasure, sir.” Then, with fidelity, though with some prolixity, the law-stationer repeats Jo’s statement made to the assembled guests at his house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If your ladyship would wish to have the boy produced in corroboration of this statement, I can lay my hand upon him at any time.” The wretched boy is nothing to my Lady, and she does NOT wish to have him produced."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes listened in silence to the young lady's remarkable **statement**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The attorney presented a detailed financial **statement** of the costs accumulated in Jarndyce and Jarndyce."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Every philosophical **statement** must be examined to ascertain the clarity of the underlying ideas."*

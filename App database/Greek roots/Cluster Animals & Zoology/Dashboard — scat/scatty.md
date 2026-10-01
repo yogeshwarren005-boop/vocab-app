@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sense or discretion; ; - glenway westcott.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lost in thought; showing preoccupation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scatterbrained, eccentric, flighty, or absent-minded (British informal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial idiom, exhibiting disorganized or erratic behavior with a tendency to forget appointments and lose personal possessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatty designates lacking sense or discretion; ; - glenway westcott."*
+> - 📜 **P. G. Wodehouse (*The Code of the Woosters*):** *"Aunt Dahlia declared that her niece was becoming hopelessly **scatty**, misplacing pearls and telegrams alike."*
+> - 📜 **Agatha Christie (*The Moving Finger*):** *"She appeared charmingly **scatty** and disheveled, but her sharp eyes missed nothing in the drawing-room."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"The household was run in a delightfully **scatty** fashion where dinner was served whenever anyone felt hungry."*

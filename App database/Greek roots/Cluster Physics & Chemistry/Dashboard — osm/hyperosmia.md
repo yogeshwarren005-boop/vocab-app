@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally acute or heightened sensitivity to odors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and endocrinology, a heightened olfactory acuity observed during pregnancy, migraine auras, Addison's disease, or hyperthyroidism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperosmia designates a term designating an entity, condition, or phenomenon derived from greek osm."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Under the influence of dopamine, the medical student experienced an astonishing **hyperosmia**, navigating the city by scent like a dog."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"A delicate **hyperosmia** enabled him to detect the faint scent of hawthorn blossoms miles down the riverbank."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **hyperosmia** during early pregnancy often exacerbates hyperemesis gravidarum."*

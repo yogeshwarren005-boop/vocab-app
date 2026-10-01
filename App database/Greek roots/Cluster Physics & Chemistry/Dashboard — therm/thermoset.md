@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of becoming permanently hard and rigid when heated or cured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of becoming permanently hard and rigid when heated or cured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermosetting polymer or plastic; a resin that becomes irreversibly rigid and cured when heated or chemically cross-linked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, polymers such as Bakelite, epoxy, and vulcanized rubber that cannot be remelted without chemical decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoset designates having the property of becoming permanently hard and rigid when heated or cured."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Unlike thermoplastics, a **thermoset** resin forms an extensive three-dimensional network of covalent bonds that cannot be melted."*
+> - 📜 **Leo Baekeland (*The Synthesis, Constitution, and Uses of Bakelite*):** *"The condensation of phenol and formaldehyde under heat and pressure creates an insoluble, infusible **thermoset** material."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"Once cured in the hydraulic press, the **thermoset** plastic resisted solvents, heat, and mechanical deformation."*

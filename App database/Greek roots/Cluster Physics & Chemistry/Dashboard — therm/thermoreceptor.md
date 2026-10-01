@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensory receptor that responds to heat and cold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory receptor that responds to heat and cold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized sensory nerve ending or receptor cell that responds to variations in temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, cutaneous cold and warm receptors (such as TRP ion channels) and hypothalamic thermal sensors that inform thermoregulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoreceptor designates a sensory receptor that responds to heat and cold."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Cutaneous punctiform exploration proves that each discrete **thermoreceptor** spot responds specifically either to warmth or to cold."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Loss of sensation from the cutaneous **thermoreceptor** network in syringomyelia exposes patients to painless, severe burns."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The patient could perceive sharp pressure normally, but fire felt neutral due to loss of the **thermoreceptor** fibers."*

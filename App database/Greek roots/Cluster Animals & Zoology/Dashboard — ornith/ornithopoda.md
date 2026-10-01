@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major suborder of herbivorous ornithischian dinosaurs comprising hypsilophodonts, iguanodonts, and hadrosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, one of the most successful clades of Mesozoic herbivores, flourishing from the Middle Jurassic through the end-Cretaceous extinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithopoda designates widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon)."*
+> - 📜 **O. C. Marsh (*Principal Characters of American Jurassic Dinosaurs*):** *"I proposed the suborder **Ornithopoda** for those herbivorous dinosaurs whose hind feet are functionally tridactyl like those of birds."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The evolutionary success of the **Ornithopoda** culminated in the extraordinary grinding dental batteries of the duck-billed dinosaurs."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"The osteological framework of the **Ornithopoda** provided early anatomists with crucial links bridging reptiles and birds."*

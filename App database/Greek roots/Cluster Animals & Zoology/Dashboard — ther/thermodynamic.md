@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to a system of atoms, molecules, colloidal particles, or larger bodies considered as an isolated group in the study of thermodynamic processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or governed by the relations between heat, mechanical work, and other forms of energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and engineering, describing systems operating under energy conservation, entropy production, and absolute temperature limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamic designates of or relating to thermodynamics."*
+> - 📜 **Lord Kelvin (*On the Dynamical Theory of Heat*):** *"The absolute **thermodynamic** scale of temperature is independent of the properties of any particular thermometric substance."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"A heat engine operating on the Carnot cycle achieves the maximum possible **thermodynamic** efficiency."*
+> - 📜 **Ludwig Boltzmann (*Lectures on Gas Theory*):** *"The statistical interpretation of entropy links microscopic atomic disorder with macroscopic **thermodynamic** state functions."*

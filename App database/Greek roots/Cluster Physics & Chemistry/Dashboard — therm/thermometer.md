@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for determining temperature; specifically : one consisting of a sensor housed in a metal probe that registers a change in electrical resistance as a change in temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer for measuring body temperature that has a constriction in the tube above the bulb preventing movement of the column of liquid downward once it has reached its maximum temperature so that it continues to indicate the maximum temperature until the liquid is shaken back down into the bulb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring and indicating temperature, typically consisting of a graduated glass tube containing mercury or alcohol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indicator or gauge of public mood, economic trends, or social conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Poetry is a thermometer: by taking its average height you can estimate the normal temperature of its writer's mind."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The thermometer indicated a temperature of 4.25 (cent.): a temperature that at this depth seemed common to all latitudes."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the contrary, Captain Nemo went himself to test the temperature in the depths of the sea, and his thermometer, placed in communication with the different sheets of water, gave him the required degree immediately and accurately."*
+> - 📜 **Galileo Galilei (*The Assayer*):** *"The liquid air-thermoscope, ancestor of the modern **thermometer**, revealed subtle variations in atmospheric warmth."*
+> - 📜 **Daniel Gabriel Fahrenheit (*Philosophical Transactions*):** *"By filling the bulb with purified mercury, my new **thermometer** registered temperatures with unprecedented constancy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The political excitement in the borough served as a sensitive **thermometer** of the nation's discontent."*

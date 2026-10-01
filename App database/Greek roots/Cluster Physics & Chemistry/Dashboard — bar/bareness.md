@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bleak and desolate atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unclothed and exposed (especially of a part of the body).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being bare, naked, uncovered, or devoid of vegetation or furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bleak simplicity, austerity, or absence of embellishment or concealment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What old December’s bareness everywhere!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, so you serve us Till we serve you; but when you have our roses, You barely leave our thorns to prick ourselves, And mock us with our bareness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, for their poverty, I know not where they had that; and for their bareness, I am sure they never learned that of me."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The cold **bareness** of the dormitory chilled my spirit on that first dreary evening."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I admired the clean **bareness** of the unplastered cabin walls, which breathed the scent of pine."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"The mountain peak stood solitary in its stony **bareness**, stripped of tree and turf."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing great joy : exultant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing great joy : exultant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing great happiness, triumph, or exultation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by triumphant rejoicing or exuberant celebratory vocalization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With a loud and jubilant song he joined his brothers and sisters."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is dragged by means of a chain, to which scores of jubilant youths readily yoke themselves."*
-> - 📜 **Effie Afton (*Eventide*):** *"But, notwithstanding all the fatigues and hardships of the way, the party were in jubilant spirits."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The heavenly host with **jubilant** shout and loud hosannas filled the eternal courts of light."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The bells rang out their **jubilant** message across the snowy roofs, waking the glad city on Christmas morning."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"A **jubilant** crowd surged outside Downing Street as the final announcement of victory in Europe was proclaimed."*

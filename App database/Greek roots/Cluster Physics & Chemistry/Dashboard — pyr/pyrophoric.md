@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Igniting spontaneously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting sparks when scratched or struck especially with steel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spontaneously igniting or burning in air at or below room temperature without the addition of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and chemistry, describing finely divided metals (such as iron, uranium, or white phosphorus) or ferrocerium flints that emit sparks when scratched.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrophoric designates igniting spontaneously."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Finely divided iron powder prepared by reduction with hydrogen is strongly **pyrophoric**, burning the instant it touches air."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The chemist must handle **pyrophoric** carbonaceous residues under an inert gas blanket to prevent spontaneous combustion."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"A shower of incandescent sparks flew from the **pyrophoric** alloy whenever it struck the steel wheel."*

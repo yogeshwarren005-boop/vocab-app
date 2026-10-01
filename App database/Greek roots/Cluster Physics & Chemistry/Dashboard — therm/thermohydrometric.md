@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermal hydrometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thermal hydrometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained by a thermohydrometer; involving simultaneous measurement of temperature and specific gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemical metrology, describing density readings corrected for thermal liquid expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermohydrometric designates of or relating to thermal hydrometry."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The **thermohydrometric** density of the fermented wort was recorded to calculate potential alcohol yield."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Standard tables provide the **thermohydrometric** corrections required when liquids are tested above their calibration point."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Thermal expansion coefficients must be applied to all raw **thermohydrometric** observations of brine solutions."*

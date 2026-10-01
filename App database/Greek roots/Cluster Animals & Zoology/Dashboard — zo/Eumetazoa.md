@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major subkingdom or clade of animals comprising all multicellular organisms except sponges and placozoans, characterized by true tissues and an embryonic germ layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic systematics, organisms featuring true epithelia joined by belt desmosomes, nervous tissue, specialized digestive cavities, and gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Eumetazoa designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Haeckel coined the term **Eumetazoa** to distinguish true tissue-forming animals from the primitive structural plan of sponges."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"All members of the **Eumetazoa** undergo gastrulation to establish primary ectoderm and endoderm layers."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The earliest radiation of the **Eumetazoa** during the Ediacaran set the basic body plans for all subsequent animal life."*

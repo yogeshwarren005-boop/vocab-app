@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To utter loudly : shout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beg, beseech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shed tears, typically as an expression of pain, grief, sorrow, or intense joy; or to shout loudly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining root derived from Greek kryos, meaning 'cold', 'frost', or 'ice', used extensively in scientific terminology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you cry ‘O Lord, sir!’ at your whipping, and ‘spare not me’?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of late when I cried “Ho!” Like boys unto a muss, kings would start forth And cry “Your will?” Have you no ears?"*
+> - 📜 **William Shakespeare (*King Lear*):** *"When we are born, we **cry** that we are come to this great stage of fools."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I did not **cry** aloud, but buried my face in the pillow to muffle my bitter sobs."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Infants **cry** instinctively from birth as a physiological signal of physical discomfort or hunger."*

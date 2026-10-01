@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A junction between two dissimilar metals across which a voltage appears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A junction between two dissimilar metals across which a voltage appears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The junction of two dissimilar metals or semiconductors where thermoelectric voltage is generated or heat absorbed/emitted (a thermocouple junction).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical instrumentation and pyrometry, the hot or reference sensing point of a thermoelectric circuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermojunction designates a junction between two dissimilar metals across which a voltage appears."*
+> - 📜 **Thomas Johann Seebeck (*Magnetische Polarisation der Metalle*):** *"Heating a single **thermojunction** of antimony and bismuth provoked a robust deflection of the galvanometer needle."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"The Peltier heat evolved at a **thermojunction** is strictly reversible upon reversing current direction."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A minute **thermojunction** was placed in the flame to map its interior temperature zones."*

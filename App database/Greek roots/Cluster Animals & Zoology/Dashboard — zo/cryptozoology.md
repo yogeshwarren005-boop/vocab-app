@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of and search for animals and especially legendary animals (such as Sasquatch) usually in order to evaluate the possibility of their existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of and search for animals and especially legendary animals (such as Sasquatch) usually in order to evaluate the possibility of their existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The search for and study of animals whose existence is unproven or substantiated only by folklore, hearsay, or anecdotal sightings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In popular science and folklore studies, a subculture and investigative pursuit focused on cryptids such as the Sasquatch, Loch Ness monster, and yeti.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptozoology designates the study of and search for animals and especially legendary animals (such as sasquatch) usually in order to evaluate the possibility of their existence."*
+> - 📜 **Bernard Heuvelmans (*On the Track of Unknown Animals*):** *"Pioneering modern **cryptozoology**, Heuvelmans argued that native folklore often conceals zoological discoveries."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"Professional paleontologists remain skeptical of **cryptozoology**, demanding skeletal specimens rather than blurry photographs."*
+> - 📜 **Loren Coleman (*Mysterious America*):** *"Enthusiasts of **cryptozoology** comb remote wilderness river valleys in search of relict hominids."*

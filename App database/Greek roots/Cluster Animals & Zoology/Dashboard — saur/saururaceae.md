@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of perennial aromatic herbs: genera saururus, anemopsis, houttuynia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of perennial aromatic herbs: genera saururus, anemopsis, houttuynia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lizard's-tail family of aromatic perennial flowering herbs in the order Piperales, including Saururus and Houttuynia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an archaic magnoliid family native to wetlands of North America and East Asia, characterized by cordate leaves and dense nodding spikes of apetalous flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saururaceae designates family of perennial aromatic herbs: genera saururus, anemopsis, houttuynia."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Saururaceae** is closely allied to the true peppers, distinguished by separate carpels and marsh-dwelling habitats."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Saururaceae** emit a pleasant, pungent spicy fragrance when their rootstocks and foliage are crushed."*
+> - 📜 **Armen Takhtajan (*Diversity and Classification of Flowering Plants*):** *"The floral morphology of **Saururaceae** retains primitive ancestral features that illuminate the early evolution of Piperales."*

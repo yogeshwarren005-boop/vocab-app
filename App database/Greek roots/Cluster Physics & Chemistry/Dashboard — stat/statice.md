@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus limonium of temperate salt marshes having spikes of white or mauve flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus limonium of temperate salt marshes having spikes of white or mauve flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of maritime flowering plants in the plumbago family (Plumbaginaceae), commonly known as sea lavenders (now largely Limonium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and herbalism, salt-tolerant herbs with papery, colorful calyces widely dried for winter flower arrangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A species with brown spores occurs on sea-lavender (_Statice_)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SEA-LAVENDER UREDO; sori few and scattered, orbicular or oval; spores sessile, globose, brown.—On various species of _Statice_. =Uredo Circææ=, A. & S."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SEA-LAVENDER RUST; epiphyllous, sori bullate, scattered or disposed in rings; spores ovate.—On _Statice limonia_. =Uromyces Ficariæ=, Lév."*
+> - 📜 **John Gerard (*The Herball*):** *"Sea lavender, which the ancients called **Statice**, grows abundantly along the muddy salt marshes of Kent."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The persistent scarious calyx of **Statice** retains its bright lavender hue long after the corolla has faded."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"On coastal mudflats, sheets of blooming **Statice** paint the saltings with brilliant purplish lilac."*

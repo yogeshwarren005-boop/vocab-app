@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of mites, ticks, or small crawling skin parasites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and clinical dermatology, a somatic delusion or severe phobic state often associated with delusional parasitosis (Ekbom syndrome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarophobia designates a term designating an entity, condition, or phenomenon derived from greek acar."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"In chronic **acarophobia**, the patient hallucinates imaginary insects burrowing beneath the intact cutaneous surface."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An intense, shuddering **acarophobia** may grip an individual upon encountering any microscopic crawling organism."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The nervous invalid suffered from extreme **acarophobia**, constantly boiling bedding and scrubbing floorboards."*

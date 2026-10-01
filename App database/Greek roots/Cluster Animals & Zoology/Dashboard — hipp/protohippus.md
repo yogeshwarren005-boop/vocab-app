@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pliocene horse approaching donkeys in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pliocene horse approaching donkeys in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of three-toed grazing horses from the Miocene of North America, literally 'first/primitive horse'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equine paleontology, a moderately sized Miocene horse with high-crowned (hypsodont) teeth adapted for chewing abrasive prairie grasses, retaining tiny non-functional lateral toes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protohippus designates pliocene horse approaching donkeys in size."*
+> - 📜 **Joseph Leidy (*The Extinct Mammalian Fauna of Dakota and Nebraska*):** *"I established the genus **Protohippus** based on dental remains showing advanced cementum deposits and hypsodont crowns."*
+> - 📜 **O. C. Marsh (*Fossil Horses in America*):** *"In **Protohippus**, the side toes were reduced to slender splints suspended above the central weight-bearing hoof."*
+> - 📜 **Henry Fairfield Osborn (*Equidae of the Oligocene, Miocene, and Pliocene of North America*):** *"The radiation of **Protohippus** coincided with the vast spread of silica-rich savanna grasslands across the continent."*

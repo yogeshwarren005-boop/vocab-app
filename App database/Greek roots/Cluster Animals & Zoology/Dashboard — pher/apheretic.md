@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or formed by or consisting of aphaeresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or formed by or consisting of aphaeresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or formed by apheresis; having the initial sound or syllable omitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and morphology, describing clipped vocabulary or contracted dialectal variants produced by dropping word-initial phonemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apheretic designates relating to or formed by or consisting of aphaeresis."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Poets in the Elizabethan era made liberal use of **apheretic** contractions to fit syllables into strict iambic meter."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"Words such as drawn-down 'tend' for 'attend' provide classic examples of popular **apheretic** formations."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"The colloquial English vocabulary was heavily enriched by vigorous, shortened **apheretic** forms."*

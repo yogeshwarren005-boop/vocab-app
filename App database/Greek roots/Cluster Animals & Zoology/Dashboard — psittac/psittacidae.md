@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the order psittaciformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the order psittaciformes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary family of true parrots (order Psittaciformes), comprising parakeets, macaws, amazons, and lorikeets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, an avian family characterized by strongly curved, hinged beaks, fleshy cere, zygodactyl grasping feet, and extraordinary cognitive capacities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacidae designates coextensive with the order psittaciformes."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The continent of Australia is the magnificent metropolis of the **Psittacidae**, abounding in cockatoos, lories, and parakeets."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The dazzling green and crimson plumage of the **Psittacidae** illuminated the coconut groves of the Moluccas."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual selection has produced the brilliant, striking color patterns exhibited across the family **Psittacidae**."*

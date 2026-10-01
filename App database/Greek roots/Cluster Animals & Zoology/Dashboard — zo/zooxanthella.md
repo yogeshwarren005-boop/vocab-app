@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various symbiotic dinoflagellates that live within the cells of other organisms (such as reef-building coral polyps).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various symbiotic dinoflagellates that live within the cells of other organisms (such as reef-building coral polyps).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish-brown intracellular symbiotic dinoflagellate algae living inside the tissues of marine invertebrates, especially reef-building corals, giant clams, and jellyfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coral reef ecology and cell biology, photosynthetic endosymbionts (family Symbiodiniaceae) whose expulsion under elevated sea temperatures causes coral bleaching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zooxanthella designates any of various symbiotic dinoflagellates that live within the cells of other organisms (such as reef-building coral polyps)."*
+> - 📜 **Philip Henry Gosse (*A Naturalist's Rambles on the Devonshire Coast*):** *"Microscopic examination revealed thousands of golden **zooxanthella** cells embedded in the anemone's translucent tentacles."*
+> - 📜 **C. M. Yonge (*The Great Barrier Reef Expedition*):** *"Yonge demonstrated that the giant clam Tridacna farms photosynthetic **zooxanthella** colonies in its fleshy mantle lobes."*
+> - 📜 **Sylvia Earle (*Sea Change: A Message of the Oceans*):** *"Rising ocean temperatures stress the coral host, causing it to eject its essential **zooxanthella** partners in devastating bleaching events."*

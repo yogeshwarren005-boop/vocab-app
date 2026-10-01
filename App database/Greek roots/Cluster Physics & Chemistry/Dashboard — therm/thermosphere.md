@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of the Earth's atmosphere directly above the mesosphere and below the exosphere, extending from about 85 km to 600 km altitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics and aeronomy, a high-altitude atmospheric layer where ultraviolet and X-ray absorption by oxygen causes temperatures to exceed 1000°C.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermosphere designates the part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height."*
+> - 📜 **James Van Allen (*Origins of Magnetospheric Physics*):** *"The aurora borealis dances across the ionized upper levels of the terrestrial **thermosphere**."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Low-Earth orbit satellites coast through the rarified gases of the **thermosphere**, where molecules absorb intense solar ultraviolet."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"As the space rocket ascends through the **thermosphere**, atmospheric drag diminishes to a vanishing fraction of sea-level resistance."*

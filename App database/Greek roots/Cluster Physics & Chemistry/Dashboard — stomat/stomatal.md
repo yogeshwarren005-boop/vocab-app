@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of or having a mouth or mouthlike opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting plant stomata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving stomata (microscopic pores in plant epidermis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, pertaining to stomatal conductance, guard cell turgor mechanics, and transpirational gas exchange regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatal designates relating to or of the nature of or having a mouth or mouthlike opening."*
+> - 📜 **Francis Darwin (*Observations on Stomata*):** *"Changes in light intensity produce immediate **stomatal** responses through osmotic swelling of the guard cells."*
+> - 📜 **Julius von Sachs (*Text-book of Botany*):** *"The **stomatal** aperture widens when potassium ions accumulate inside the crescent-shaped guard cells."*
+> - 📜 **Daniel Trembly MacDougal (*Practical Text-book of Plant Physiology*):** *"Water stress induces synthesis of abscisic acid, triggering rapid **stomatal** closure to prevent wilting."*

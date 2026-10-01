@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oni.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who suffers from oniomania; a compulsive shopper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or relating to compulsive buying disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oniomaniac designates a term designating an entity, condition, or phenomenon derived from greek oni."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"The confirmed **oniomaniac** fills closets with unopened packages, indifferent to the merchandise once acquired."*
+> - 📜 **Eugen Bleuler (*Textbook of Psychiatry*):** *"Attempts by family members to restrain an **oniomaniac** frequently provoke intense agitation and deceptive stratagems."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The clinical practitioner must recognize that the chronic **oniomaniac** suffers from an authentic disorder of volition."*

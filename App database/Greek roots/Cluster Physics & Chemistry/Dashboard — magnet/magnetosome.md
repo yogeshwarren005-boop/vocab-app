@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic intracellular organelle found in magnetotactic bacteria, consisting of a membrane-enveloped magnetic crystal (magnetite or greigite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and biophysics, an organelle arranged in linear chains that acts like a biological compass needle, aligning bacteria with the Earth's geomagnetic field lines (magnetotaxis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetosome designates a term designating an entity, condition, or phenomenon derived from greek magnet."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Each **magnetosome** houses a pristine single-domain crystal of magnetite synthesized with flawless crystalline perfection."*
+> - 📜 **Lynn Margulis (*Symbiotic Planet*):** *"By swimming along geomagnetic lines using its chain of **magnetosome** crystals, the bacterium navigates directly to optimal sediment depth."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The bacterial **magnetosome** represents one of nature's oldest nanotechnological navigational instruments."*

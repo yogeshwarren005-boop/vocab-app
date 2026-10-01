@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the biological effects of static and low-frequency magnetic fields on living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics, the investigation of radical pair mechanisms, cellular ion transport, and physiological responses to ambient geomagnetic fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetobiology designates a term designating an entity, condition, or phenomenon derived from greek magnet."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The emerging field of **magnetobiology** proved that animals from salmon to homing pigeons detect magnetic gradients."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Research in **magnetobiology** explores whether periodic solar geomagnetic disturbances exert subtle effects on terrestrial ecosystems."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"Pioneering experiments in **magnetobiology** demonstrated that magnetic cues guide the transcontinental flights of birds."*

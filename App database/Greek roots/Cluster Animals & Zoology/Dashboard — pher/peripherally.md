@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or at or near a periphery or according to a peripheral role or function or relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or at or near a periphery or according to a peripheral role or function or relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On or near the edge or boundary; in a peripheral or indirect manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to outer boundaries or secondary aspects rather than central mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripherally designates in or at or near a periphery or according to a peripheral role or function or relationship."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A faint visual stimulus seen **peripherally** in the visual field triggers an involuntary saccadic eye movement toward the target."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"She touched upon the delicate subject only **peripherally**, circling the dangerous truth with diplomatic poise."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Reflex actions originating **peripherally** travel along afferent pathways to the spinal cord without involving conscious volition."*

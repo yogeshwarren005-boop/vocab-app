@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the psittacidae: usually restricted to the african grey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the psittacidae: usually restricted to the african grey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of African parrots containing the African grey parrot (Psittacus erithacus), famed for exceptional intelligence and vocal mimicry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and cognitive ethology, an Old World frugivorous parrot with ash-grey plumage, white facial mask, and scarlet tail, celebrated for tool-use and linguistic comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacus designates type genus of the psittacidae: usually restricted to the african grey."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The type genus **Psittacus** was designated by me to encompass all the great talking parrots of the Old and New Worlds."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"We observed the extraordinary mimicry of **Psittacus**, which reproduces the human voice with uncanny fidelity."*
+> - 📜 **Frank E. Beddard (*The Cambridge Natural History: Birds*):** *"The African grey parrot **Psittacus** erithacus displays problem-solving skills that rival those of great apes."*

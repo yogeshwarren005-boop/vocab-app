@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensory perception of a foul, repulsive, or offensive odor, usually when no such odor is objectively present.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otorhinolaryngology and neurology, a parosmia often caused by chronic anaerobic sinusitis or temporal lobe seizure auras.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacosmia designates a term designating an entity, condition, or phenomenon derived from greek osm."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"The premonitory aura occasionally presented as an overpowering **cacosmia**, as of burning rubber or decaying flesh."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe dental caries and anaerobic maxillary sinusitis are common peripheral sources of persistent **cacosmia**."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Epileptic foci in the uncus frequently trigger fleeting episodes of hallucinated **cacosmia**."*

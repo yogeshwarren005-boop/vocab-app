@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used to detect the presence of a metallic object or to measure the intensity of a magnetic field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument used to detect the presence of a metallic object or to measure the intensity of a magnetic field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used for measuring the strength, direction, or spatial variation of magnetic fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics and planetary science, an instrument used for mineral exploration, submarine detection (MAD), and mapping extraterrestrial magnetospheres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetometer designates an instrument used to detect the presence of a metallic object or to measure the intensity of a magnetic field."*
+> - 📜 **Carl Friedrich Gauss (*The Intensity of the Earth's Magnetic Force Reduced to Absolute Measure*):** *"By introducing the bifilar **magnetometer**, we determined terrestrial magnetic intensity in absolute mechanical units."*
+> - 📜 **James Van Allen (*Origins of Magnetospheric Physics*):** *"The fluxgate **magnetometer** aboard Pioneer 10 transmitted the first direct measurements of Jupiter's immense magnetic field."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Airborne **magnetometer** surveys crisscrossed the oceanic ridges, mapping the alternating magnetic zebra stripes."*

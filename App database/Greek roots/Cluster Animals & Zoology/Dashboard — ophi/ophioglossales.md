@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family ophioglossaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family ophioglossaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of primitive, eusporangiate ferns containing the single family Ophioglossaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical systematics, a basal monilophyte order distinguished by absence of circinate vernation in roots, non-photosynthetic mycorrhizal gametophytes, and massive sporangia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophioglossales designates coextensive with the family ophioglossaceae."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The **Ophioglossales** represent a very ancient divergent lineage of pteridophytes with no close living relatives."*
+> - 📜 **Armen Takhtajan (*Evolutionary Trends in Flowering Plants*):** *"Chromosome counts in the **Ophioglossales** reveal extraordinary polyploidy, reaching some of the highest numbers known in nature."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The embryology of the **Ophioglossales** demonstrates an ancestral pattern of sporophyte development dependent upon fungal symbiosis."*

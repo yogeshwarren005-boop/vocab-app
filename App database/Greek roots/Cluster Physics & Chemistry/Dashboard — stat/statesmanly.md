@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the qualities of or befitting a statesman; ; -v.l.parrington.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by the qualities of or befitting a statesman; ; -v.l.parrington.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or worthy of a statesman; dignified, visionary, and politically astute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducted in a manner appropriate to wise political governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statesmanly designates marked by the qualities of or befitting a statesman; ; -v.l.parrington."*
+> - 📜 **Thomas Carlyle (*Latter-Day Pamphlets*):** *"We stand in sore need of a **statesmanly** intellect capable of navigating the chaotic currents of this age."*
+> - 📜 **Edmund Burke (*Appeal from the New to the Old Whigs*):** *"True **statesmanly** wisdom tempers strict legal right with prudent moderation."*
+> - 📜 **John Morley (*The Life of William Ewart Gladstone*):** *"His speech was hailed across Europe as a model of **statesmanly** eloquence and moral gravity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expectation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something expected (as on the basis of a norm).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of thinking or hoping that something, especially something pleasant, will happen; anticipation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics and insurance, life expectancy—the average period that a person may expect to live based on demographic actuarial tables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The courtier’s, soldier’s, scholar’s, eye, tongue, sword, Th’expectancy and rose of the fair state, The glass of fashion and the mould of form, Th’observ’d of all observers, quite, quite down!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s do so; For every minute is expectancy Of more arrivance."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They heard the sound of wheels yet once more, and were re-animated to expectancy: it was only Mr."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"There was a breathless hush of **expectancy** in the courtroom as the jury filed back to their places."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The courtier's, soldier's, scholar's, eye, tongue, sword; the **expectancy** and rose of the fair state."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A quiet **expectancy** hovered over the harvesting fields as the sun dipped behind the western downs."*

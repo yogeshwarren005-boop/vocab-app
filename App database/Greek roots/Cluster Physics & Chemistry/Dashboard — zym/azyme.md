@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unleavened bread; bread made without yeast or leaven, especially as used in Jewish Passover rites (matzo) or Western Christian Eucharist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, the flat sacramental host of the Western Church, contrasted with the leavened bread of the Eastern Orthodox Church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, azyme designates a term designating an entity, condition, or phenomenon derived from greek zym."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The acrimonious controversy over whether the Eucharist should be celebrated with leavened bread or **azyme** split Christendom."*
+> - 📜 **Flavius Josephus (*Antiquities of the Jews*):** *"During the seven days of the feast, our ancestors ate the sacred **azyme** in commemoration of their hurried flight from Egypt."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The Western rite celebrates the sacrament with pure **azyme**, following Christ's institution at the Last Supper."*

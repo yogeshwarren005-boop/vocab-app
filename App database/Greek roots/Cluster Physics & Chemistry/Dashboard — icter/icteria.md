@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world chats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world chats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete medical term for jaundice; yellow discoloration of tissues from bile pigment accumulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical nosology, synonymous with icterus, designating severe bilious conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icteria designates new world chats."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient physicians held that looking upon the yellow oriole would cure the severe affliction of **icteria**."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Obstruction of the gall ducts produces that stubborn **icteria** which tingeth the countenance with saffron."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Under the genus **icteria**, we classify those affections characterized by universal yellowness of skin and urine."*

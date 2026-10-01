@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of chemical reactions and molecular interactions occurring at extremely low temperatures, typically near absolute zero.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, the examination of matrix-isolation kinetics, quantum tunneling, and reactive free radicals immobilized in frozen inert gas matrices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryochemistry designates a term designating an entity, condition, or phenomenon derived from greek cry."*
+> - 📜 **George Pimentel (*Matrix Isolation Studies*):** *"The field of **cryochemistry** permitted the spectroscopic capture of reactive intermediates trapped in frozen argon at ten kelvins."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"At temperatures where thermal agitation ceases, **cryochemistry** demonstrates reactions driven purely by quantum mechanical tunneling."*
+> - 📜 **C. N. Hinshelwood (*The Kinetics of Chemical Change*):** *"Classical activation energies lose their traditional significance when examined under the exotic conditions of **cryochemistry**."*

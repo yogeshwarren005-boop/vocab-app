@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hadr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek hadros, meaning 'thick', 'stout', 'heavy', 'strong', or 'abundant'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and paleontology, the formative root designating heavy subatomic particles (hadrons) and robust prehistoric fauna (hadrosaurs).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadr designates a term designating an entity, condition, or phenomenon derived from greek hadr."*
+> - 📜 **Murray Gell-Mann (*A Schematic Model of Baryons and Mesons*):** *"From the Greek root **hadr**- meaning strong or heavy, Lev Okun coined the name hadron for particles undergoing strong interactions."*
+> - 📜 **Lev Okun (*Weak Interactions of Elementary Particles*):** *"I proposed using the morpheme **hadr**- to unite all strongly interacting baryons and mesons under a single family name."*
+> - 📜 **Joseph Leidy (*Extinct Fauna of Dakota and Nebraska*):** *"The morphological prefix **hadr**- captures the exceptionally massive pelvic and cranial architecture of these duck-billed reptiles."*

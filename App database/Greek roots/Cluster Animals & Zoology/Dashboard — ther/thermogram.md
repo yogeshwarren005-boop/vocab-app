@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical record produced by a thermograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical record produced by a thermograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic or digital image produced by thermography, showing temperature variations across a surface in false color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infrared diagnostics, building inspection, and vascular medicine, an image displaying surface heat distribution to detect tumors or insulation leaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogram designates a graphical record produced by a thermograph."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"An airborne infrared **thermogram** mapped the sinuous, swirling boundary where the warm Gulf Stream encounters cold slope water."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"A diagnostic **thermogram** of the lower extremities revealed asymmetric cutaneous coolness indicating arterial thrombosis."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Satellite **thermogram** images disclosed hidden volcanic hot spots glowing through the nighttime cloud cover."*

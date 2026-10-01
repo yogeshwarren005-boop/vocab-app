@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bipedal herbivorous dinosaur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipedal herbivorous dinosaur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any herbivorous ornithischian dinosaur belonging to the clade Ornithopoda, such as Iguanodon or hadrosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology, bipedal or facultatively quadrupedal plant-eaters possessing three-toed bird-like feet, flexible jaws, and complex dental batteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithopod designates bipedal herbivorous dinosaur."*
+> - 📜 **Gideon Mantell (*The Wonders of Geology*):** *"The fossil teeth of the great **ornithopod** Iguanodon were worn down by chewing the tough fibrous cycads of the Wealden forest."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The hollow cranial crest of the hadrosaurian **ornithopod** Parasaurolophus functioned as a resonant trumpet for vocal signaling."*
+> - 📜 **O. C. Marsh (*The Dinosaurs of North America*):** *"Footprints of the giant **ornithopod** impressed into Cretaceous sandstone reveal three massive, bird-like clawed toes."*

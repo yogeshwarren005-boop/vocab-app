@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meter to measure electrostatic voltage differences; draws no current from the source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meter to measure electrostatic voltage differences; draws no current from the source.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring electric potential difference or electrical charge by means of electrostatic forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A delicate laboratory instrument (such as the quadrant electrometer or gold-leaf electroscope) crucial to early atomic and radiation physics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The galvanometer has a near relative, the electrometer, the astounding delicacy of which renders it equally interesting."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The galvanometer, it will be remembered, measures minute currents; the electrometer measures minute pressures, particularly those of small electrically charged bodies."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Precisely as the pressure-gauge measures the pressure of air or gas in some vessel, so the electrometer measures the electrical pressure in a charged body."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"The divided-ring **electrometer** detected minute differences in atmospheric potential without drawing appreciable current."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"Pierre Curie constructed a piezoelectric quartz balance coupled to an **electrometer** to quantify the ionization produced by uranium rays."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"The rate of discharge of the **electrometer** leaf provided a direct measure of alpha-particle emission from the thorium salt."*

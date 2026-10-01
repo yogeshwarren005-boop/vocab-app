@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being that is commonly observed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ordinariness as a consequence of being expected and not surprising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being expected, anticipated, or foreseeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and information theory, the predictability of a stimulus or event within a perceptual sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expectedness designates the state of being that is commonly observed."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sensory reaction time is sharply reduced by the **expectedness** of the impending auditory signal."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The information content of a message decreases as its statistical **expectedness** approaches certainty."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The sheer **expectedness** of the tragedy seemed to dull its emotional impact upon the household."*

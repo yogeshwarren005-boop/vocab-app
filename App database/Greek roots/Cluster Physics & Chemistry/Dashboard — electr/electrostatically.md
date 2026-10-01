@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an electrostatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an electrostatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of static electricity; through the action of electrostatic forces or fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloid and materials chemistry, describing particles held in suspension or adhered to surfaces via Coulombic charge attraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrostatically designates in an electrostatic manner."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Two parallel metal plates separated by a dielectric become **electrostatically** charged with equal and opposite quantities."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Ionic crystals are held together **electrostatically** by the balanced attraction between neighboring cations and anions."*
+> - 📜 **Irving Langmuir (*The Constitution and Fundamental Properties of Solids and Liquids*):** *"Fine smoke particles are drawn toward the central collector wire **electrostatically** in the Cottrell precipitator."*

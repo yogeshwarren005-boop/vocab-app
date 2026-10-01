@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glassy, transparent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glassy, transparent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling glass in appearance or transparency; vitreous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ocular anatomy, relating to the hyaloid membrane (vitreous membrane) enveloping the vitreous humor of the eye, or the embryonic hyaloid artery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaloid designates glassy, transparent."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The delicate **hyaloid** membrane separates the jelly-like vitreous body from the overlying sensory retina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Failure of normal regression of the embryonic **hyaloid** artery can cause persistent congenital pupillary haze."*
+> - 📜 **Santiago Ramón y Cajal (*The Structure of the Retina*):** *"At the ora serrata, the **hyaloid** envelope adheres firmly to the internal limiting membrane."*

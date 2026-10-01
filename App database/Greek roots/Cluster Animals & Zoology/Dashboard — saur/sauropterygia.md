@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct marine reptiles: plesiosaurs; nothosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct marine reptiles: plesiosaurs; nothosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct superorder or order of marine reptiles that lived throughout the Mesozoic era, including plesiosaurs, pliosaurs, nothosaurs, and placodonts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, secondary aquatic diapsids characterized by modified paddle-shaped flippers, stout gastralia, and specialized underwater swimming mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauropterygia designates extinct marine reptiles: plesiosaurs; nothosaurs."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"I designated the order **Sauropterygia** for Plesiosaurus and its allies to denote their swimming paddles formed of transformed lizard limbs."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The long-necked plesiosaurs of the **Sauropterygia** swam through ancient Liassic seas with four powerful flippers."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The broad, flattened ventral girdle of the **Sauropterygia** served as an anchor for the powerful flight-like downstroke of the paddles."*

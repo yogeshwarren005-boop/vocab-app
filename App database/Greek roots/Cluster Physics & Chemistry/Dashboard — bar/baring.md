@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lay bare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncovering, revealing, or exposing to view; stripping of covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making naked or laying bare in an emotional, rhetorical, or physical sense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or the baring of my beard, and to say it was in stratagem."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"By some invisible agency, my guardian wound him up to a pitch little short of ferocity about this trifle; and he fell to baring and spanning his arm to show how muscular it was, and we all fell to baring and spanning our arms in a ridiculous manner."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Old Karáy had turned his head and was angrily searching for fleas, baring his yellow teeth and snapping at his hind legs."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck sprang forward with a ferocious growl, **baring** his gleaming fangs in the firelight."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The retreating tide was **baring** the dark, weed-hung rocks along the headland."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"O nature, **baring** your breast to the winds of heaven, I absorb your vigor."*

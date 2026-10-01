@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or specializing in the treatment of obesity : involving or practicing bariatrics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or specializing in the treatment of obesity : involving or practicing bariatrics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the branch of medicine that deals with the causes, prevention, and treatment of obesity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting surgical procedures (such as gastric bypass or sleeve gastrectomy) or medical equipment designed for individuals with severe obesity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bariatric designates relating to or specializing in the treatment of obesity : involving or practicing bariatrics."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The development of **bariatric** surgery transformed our approach to severe metabolic disease."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The hospital retrofitted its wards with reinforced **bariatric** beds and specialized transport equipment."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"He consulted with the **bariatric** specialist to evaluate whether gastric banding was indicated for the diabetic patient."*

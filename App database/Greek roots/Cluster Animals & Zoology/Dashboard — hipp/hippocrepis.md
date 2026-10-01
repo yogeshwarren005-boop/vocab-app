@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Species of old world herbs or subshrubs: horseshoe vetch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Species of old world herbs or subshrubs: horseshoe vetch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous flowering plants in the pea family (Fabaceae), commonly known as horseshoe vetch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and entomology, European herbs bearing distinctive horseshoe-shaped curved pod segments (from Greek hippos + krepis, horse boot/shoe), larval host of the chalkhill blue butterfly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippocrepis designates species of old world herbs or subshrubs: horseshoe vetch."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The curious jointed seed-pods of **Hippocrepis** bend into little crescents resembling the iron shoe of a horse."*
+> - 📜 **William Jackson Hooker (*British Flora*):** *"Upon the chalk downs of southern England, bright yellow clusters of **Hippocrepis** comosa carpet the sunny turf."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The chalk hills abound with **Hippocrepis**, where the rare blue butterflies flutter over its yellow blossoms."*

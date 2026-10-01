@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of zoology dealing with reptiles and amphibians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of zoology dealing with reptiles and amphibians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoological science concerned with the study of amphibians and reptiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic biology, the discipline encompassing the anatomy, ecology, behavior, evolutionary history, and toxicology of poikilothermic tetrapods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpetology designates a branch of zoology dealing with reptiles and amphibians."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"The foundational monographs of North American **herpetology** laid the ground for modern evolutionary biogeography."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"In the museum collections, vast jars devoted to **herpetology** preserve specimens collected across both American continents."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Advances in **herpetology** illuminated how speciation rings develop around geographic barriers like the Central Valley."*

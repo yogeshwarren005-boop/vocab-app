@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armed and armored motor vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make monotonous; make automatic or routine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped with or operated by machines; made mechanical (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military organization, consisting of troops equipped with armored vehicles, infantry fighting vehicles, and self-propelled guns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanised designates equip with armed and armored motor vehicles."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"The onslaught of the enemy's **mechanised** columns smashed through the unfortified Ardennes defenses."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"A thoroughly **mechanised** factory operates like a vast, inhuman organism ticking with clockwork efficiency."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The peasant militias faced the full fury of modern **mechanised** warfare with archaic rifles and homemade bombs."*

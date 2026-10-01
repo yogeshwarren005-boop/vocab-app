@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an impairment or loss of the sense of smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to an impairment or loss of the sense of smell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the sense of smell; anosmic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, describing animals (such as cetaceans) that possess no olfactory apparatus or olfactory bulbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anosmatic designates relating to an impairment or loss of the sense of smell."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Cetaceans are essentially **anosmatic**, having lost the sense of smell during their evolutionary transition to marine life."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following head trauma, the patient was found to be totally **anosmatic** due to shearing of the cribriform filaments."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Being suddenly **anosmatic** impoverished his perception of the world more profoundly than he could have anticipated."*

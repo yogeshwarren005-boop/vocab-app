@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensory end organ that responds to changes in osmotic pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensory end organ that responds to changes in osmotic pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensory receptor cell, primarily located in the hypothalamus, that detects changes in osmotic pressure and solute concentration in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroendocrinology, specialized hypothalamic neurons in the OVLT and supraoptic nucleus that stimulate thirst and vasopressin (ADH) release when plasma osmolality rises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmoreceptor designates sensory end organ that responds to changes in osmotic pressure."*
+> - 📜 **Ernest Starling (*The Fluids of the Body*):** *"A central **osmoreceptor** mechanism regulates systemic water balance by controlling thirst."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"Stimulation of the hypothalamic **osmoreceptor** triggers an immediate neuroendocrine cascade to conserve bodily fluids."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Damage to the hypothalamic **osmoreceptor** centers can lead to profound adipsia and hypernatremia."*

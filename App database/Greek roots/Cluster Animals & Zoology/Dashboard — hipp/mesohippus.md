@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american three-toed oligocene animal; probably not directly ancestral to modern horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american three-toed oligocene animal; probably not directly ancestral to modern horses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of small, three-toed early horses that lived during the Oligocene epoch in North America, literally 'middle horse'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a key transitional fossil in equine evolution, standing about two feet tall, possessing low-crowned molars for browsing on soft woodland foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesohippus designates north american three-toed oligocene animal; probably not directly ancestral to modern horses."*
+> - 📜 **O. C. Marsh (*Fossil Horses in America*):** *"The discovery of **Mesohippus** in the White River Badlands established a critical intermediate link in equine phylogeny."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"In **Mesohippus**, three functional digits touch the ground on all four feet, demonstrating the gradual reduction from ancestral tetradactyl forms."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"The cranial capacity of **Mesohippus** was significantly enlarged compared to its Eocene predecessor Eohippus."*

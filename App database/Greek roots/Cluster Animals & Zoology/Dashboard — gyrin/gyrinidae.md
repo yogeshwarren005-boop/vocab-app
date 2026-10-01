@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whirligig beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whirligig beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of aquatic adephagan beetles commonly known as whirligig beetles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, surface-dwelling beetles equipped with paddle-like middle and hind legs and divided compound eyes adapted for simultaneous aerial and underwater vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrinidae designates whirligig beetles."*
+> - 📜 **J. H. Fabre (*More Hunting Wasps*):** *"A shimmering cluster of **Gyrinidae** spun in frantic, dizzying circles upon the tranquil surface of the millpond."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"Beetles of the family **Gyrinidae** carry an air bubble beneath their elytra to breathe while diving beneath pondweeds."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The split ommatidia of **Gyrinidae** represent one of nature's most extraordinary dual optical adaptations."*

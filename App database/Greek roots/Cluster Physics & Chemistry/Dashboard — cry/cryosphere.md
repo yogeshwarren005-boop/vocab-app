@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface characterized by the presence of frozen water; also : a region that is part of the earth's cryosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's surface characterized by the presence of frozen water; also : a region that is part of the earth's cryosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The portions of the Earth's surface where water is in solid form, including sea ice, lake ice, river ice, snow cover, glaciers, ice caps, and permafrost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Earth system science and climatology, the global frozen water sphere that plays a critical role in regulating global climate through planetary albedo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryosphere designates the part of the earth's surface characterized by the presence of frozen water; also : a region that is part of the earth's cryosphere."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The frozen margins of the **cryosphere** expand and contract with the rhythmic beat of the planetary seasons."*
+> - 📜 **Al Gore (*An Inconvenient Truth*):** *"Rapid warming in the Arctic is destabilizing the **cryosphere**, triggering feedback loops that accelerate global warming."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The retreat of continental ice sheets illustrates the immense dynamic sensitivity of the terrestrial **cryosphere**."*

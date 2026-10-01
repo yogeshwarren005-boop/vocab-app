@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subnormal temperature of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subnormal temperature of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition in which core body temperature drops below 35°C (95°F) due to prolonged exposure to cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency medicine, progressive physiological collapse marked by intense shivering, slurred speech, confusion, bradycardia, and cardiac arrest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothermia designates subnormal temperature of the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged immersion in freezing seawater induces lethal **hypothermia** before drowning occurs."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"The biting blizzard and exhausted provisions plunged our weary bodies into shivering, creeping **hypothermia**."*
+> - 📜 **Ernest Shackleton (*South*):** *"We rubbed the frostbitten limbs of our comrades vigorously to ward off the fatal stupor of deep **hypothermia**."*

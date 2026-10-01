@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill by electric shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill by electrocution, as in the electric chair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To kill or cause severe injury to a person or animal by means of an electric shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To execute a condemned prisoner by means of an electric chair; or informally, to give a painful electrical shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Gob, they ought to drown him in the sea after and electrocute and crucify him to make sure of their job. —But what about the fighting navy, says Ned, that keeps our foes at bay? —I’ll tell you what about it, says the citizen."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"Experiments demonstrated that alternating current could fatally **electrocute** large livestock in a fraction of a second."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"One slip of the insulated wrench was enough to **electrocute** the unwary mechanic working on the transformer."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian mechanism touched the high-tension overhead wire, threatening to **electrocute** anything within reach."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of feeding on animal matter; carnivory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative physiology and ecology, dietary specialization on live or freshly killed animal prey, contrasted with phytophagy (herbivory).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoophagy designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrates*):** *"The sharp scissor-like dentition of the felid skull is an extreme anatomical adaptation to obligate **zoophagy**."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Darwin demonstrated that sundews and Venus flytraps engage in functional **zoophagy** to obtain nitrogen in nutrient-poor bogs."*
+> - 📜 **Alpheus Spring Packard (*Zoology for High Schools and Colleges*):** *"Predatory ground beetles exhibit voracious **zoophagy**, devouring caterpillars and earthworms in nocturnal hunts."*

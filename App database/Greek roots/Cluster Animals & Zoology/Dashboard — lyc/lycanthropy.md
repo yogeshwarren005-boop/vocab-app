@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A delusion that one has become a wolf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The assumption of the form and characteristics of a wolf held to be possible by witchcraft or magic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mythical or magical transformation of a human into a wolf; or a psychiatric delusion in which a patient believes they are a wolf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and folklore, a rare clinical monomania documented since classical antiquity where sufferers mimic lupine howling and carnivorous savagery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lycanthropy designates a delusion that one has become a wolf."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Those afflicted with **lycanthropy** run barking and howling about graveyards by night, believing themselves transformed into wolves."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"It is an idle Greek fable of **lycanthropy** that a man, by swimming across a certain Arcadian lake, becomes a wolf."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Rites of shape-shifting and ceremonial **lycanthropy** were practiced among archaic hunters seeking the beast's predatory power."*

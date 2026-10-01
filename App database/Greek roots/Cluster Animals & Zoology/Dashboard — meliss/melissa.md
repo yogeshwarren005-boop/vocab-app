@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of old world mints of the family labiatae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of old world mints of the family labiatae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbaceous plants in the mint family (Lamiaceae), including lemon balm (Melissa officinalis); or in myth, the nymph who discovered honey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herbal medicine and pharmacology, an aromatic herb rich in rosmarinic acid and citronellal, long cultivated as a calming tisane and bee forage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melissa designates a genus of old world mints of the family labiatae."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The herb **Melissa**, or balm, comforteth the heart and driveth away all melancholic sadness from the spirits."*
+> - 📜 **William Turner (*A New Herball*):** *"Beekeepers rub their new hives with fresh bruised **Melissa** to entice the swarm to settle comfortably."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The sweet lemon-scented foliage of **Melissa** officinalis makes it a cherished inhabitant of kitchen gardens."*

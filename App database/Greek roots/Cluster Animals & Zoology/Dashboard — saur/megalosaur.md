@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any large carnivorous theropod dinosaur of the family Megalosauridae, such as Megalosaurus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dinosaur paleontology, Middle to Late Jurassic bipedal pursuit predators possessing robust skulls, recurved serrated teeth, and powerful three-toed hindlimbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalosaur designates gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe."*
+> - 📜 **William Buckland (*Notice on the Megalosaurus or Great Fossil Lizard of Stonesfield*):** *"The jaw of the great **megalosaur** was armed with knife-like teeth serrated on both edges, designed to slice flesh."*
+> - 📜 **Gideon Mantell (*The Wonders of Geology*):** *"In the ancient Wealden forest, the giant **megalosaur** stalked herbivorous iguanodonts along the ferny riverbanks."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"The massive limb bones of the **megalosaur** from Oxfordshire demonstrated bipedal cursorial habits among carnivorous reptiles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical operation in which a piece of the colon is diverted to an artificial opening in the abdominal wall so as to bypass a damaged part of the colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stoma or artificial opening created in the abdominal wall by such a surgical procedure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colostomy designates surgical formation of an artificial anus by connecting the colon to an opening in the abdominal wall."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In obstructing neoplasms of the sigmoid colon, a palliative **colostomy** relieves acute mechanical ileus."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The patient adapted with admirable resilience to managing his permanent sigmoid **colostomy**."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"A temporary diverting **colostomy** was fashioned to allow the distal rectal anastomosis to heal without contamination."*

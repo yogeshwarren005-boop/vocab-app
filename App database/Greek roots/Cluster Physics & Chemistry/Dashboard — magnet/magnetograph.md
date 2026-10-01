@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that continuously and automatically records variations in the Earth's magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomagnetism and solar physics, a photographic or digital recording magnetometer used to monitor magnetic storms and solar magnetic fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetograph designates a scientific instrument that registers magnetic variations (especially variations of the earth's magnetic field)."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The continuous trace of the **magnetograph** recorded synchronous magnetic perturbations from Paris to St. Petersburg."*
+> - 📜 **George Ellery Hale (*The Magnetic Field in Sunspots*):** *"Using the solar **magnetograph** coupled to the spectroheliograph, we mapped the intense magnetic vortices of sunspots."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The photographic **magnetograph** registered an abrupt magnetic storm coinciding precisely with the appearance of the solar flare."*

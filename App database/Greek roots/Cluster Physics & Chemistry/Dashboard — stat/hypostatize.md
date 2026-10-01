@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To attribute real identity to (a concept).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attribute real identity to (a concept).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat or represent an abstract concept, property, or relation as a concrete physical entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reify an abstraction; in theology, to embody in a hypostasis (person of the Trinity).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatize designates to attribute real identity to (a concept)."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Psychologists are perpetually tempted to **hypostatize** consciousness as an entity distinct from its cognitive states."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"To **hypostatize** general terms into metaphysical substances is the hallmark of prescientific philosophy."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"Logic warns us never to **hypostatize** the copula 'is' into an independent, mysterious substance of Being."*

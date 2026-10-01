@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purification or purgation of the emotions (such as pity and fear) primarily through art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purification or purgation that brings about spiritual renewal or release from tension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of releasing, and thereby providing relief from, strong or repressed emotions (purgation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian dramatic theory, the purification or emotional release of pity and fear experienced by the audience of a tragedy; in medicine, evacuation of the bowels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catharsis designates purification or purgation of the emotions (such as pity and fear) primarily through art."*
+> - 📜 **Aristotle (*Poetics*):** *"Tragedy through pity and fear accomplishes the proper **catharsis** of these and similar emotions."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Josef Breuer discovered that emotional **catharsis** induced under hypnosis dissolved chronic hysterical symptoms."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The sudden religious conversion often brought profound psychological **catharsis**, washing away despair in tears of joy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psychr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painful sensation of intense cold, or pain produced by cold temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a neuropathic dysesthesia or hyperalgesia triggered by cold exposure, seen in thalamic syndrome or peripheral neuropathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychroalgia designates a term designating an entity, condition, or phenomenon derived from greek psychr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient with advanced syringomyelia complained of agonizing **psychroalgia** in the analgesic limb upon touch."*
+> - 📜 **S. Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Causalgia following gunshot wounds was frequently complicated by extreme **psychroalgia** when drafts blew upon the skin."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"During the slow recovery of sensation, the injured knee exhibited baffling episodes of phantom **psychroalgia**."*

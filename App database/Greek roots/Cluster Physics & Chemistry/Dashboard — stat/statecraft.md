@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom in the management of public affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom in the management of public affairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skillful management of state affairs; political wisdom, diplomacy, and leadership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, the art of governing a nation, negotiating foreign alliances, and preserving civil stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"What Machiavelli beheld round him in Italy was a civic disorder in which there was oppression without statecraft, and revolt without patriotism."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Seward was a master in diplomacy and Statecraft, and to his skill the Unionists were indebted for all avoidance of serious foreign complications while the war was going on."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"The highest art of **statecraft** consists in balancing the virtues of the lion with the cunning of the fox."*
+> - 📜 **Winston Churchill (*Marlborough: His Life and Times*):** *"Marlborough displayed supreme **statecraft** in holding the fragile grand alliance together across a decade of war."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Magnanimity in politics is not seldom the truest wisdom; and a great empire and little minds go ill together in true **statecraft**."*

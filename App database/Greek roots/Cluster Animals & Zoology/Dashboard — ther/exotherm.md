@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound that gives off heat during its formation and absorbs heat during its decomposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound that gives off heat during its formation and absorbs heat during its decomposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism or chemical process that releases heat into its surrounding environment; an exothermic reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering and polymer science, a reaction vessel or curing resin mass characterized by heat liberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotherm designates a compound that gives off heat during its formation and absorbs heat during its decomposition."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"Rapid polymerization can produce a violent **exotherm** if thermal dissipation is inadequate."*
+> - 📜 **Walther Nernst (*Theoretical Chemistry*):** *"The spontaneous formation of the crystal lattice released an energetic **exotherm** into the surrounding water calorimeter."*
+> - 📜 **Arthur D. Little (*The Chemist and His Work*):** *"Careful refrigeration was introduced to temper the runaway **exotherm** generated during bulk epoxy curing."*

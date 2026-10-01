@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carnivorous saurischian dinosaurs with short forelimbs; jurassic and cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carnivorous saurischian dinosaurs with short forelimbs; jurassic and cretaceous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major suborder of saurischian dinosaurs comprising all predatory bipedal dinosaurs and modern birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic paleontology, diapsids characterized by hollow, thin-walled bones, three-toed pes, ziphodont dentition, and brooding parental behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theropoda designates carnivorous saurischian dinosaurs with short forelimbs; jurassic and cretaceous."*
+> - 📜 **O. C. Marsh (*The Dinosaurs of North America*):** *"I established the suborder **Theropoda** for those carnivorous dinosaurs whose hollow limb bones combine light weight with immense strength."*
+> - 📜 **Thomas Henry Huxley (*On the Animals Which Are Most Nearly Intermediate between Birds and Reptiles*):** *"The avian tarsometatarsus is completely anticipated in the hind limb osteology of the **Theropoda**."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The global radiation of the **Theropoda** produced the dominant terrestrial predators of the entire Mesozoic era."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the sense of smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the sense of smell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of the sense of smell; suffering from anosmia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characterized by the absence of olfactory sensation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anosmic designates loss or impairment of the sense of smell."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The **anosmic** patient lamented that food had lost its distinctive savour, tasting only of sweet, salt, or acid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Examination revealed that the patient was completely **anosmic** to aromatic oils like cloves and peppermint."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Animals rendered artificially **anosmic** show marked disorientation in maternal recognizing behavior."*

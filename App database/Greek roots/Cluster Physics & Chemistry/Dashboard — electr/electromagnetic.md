@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by electromagnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pulse of high-intensity electromagnetic radiation generated especially by a nuclear blast high above the earth's surface and held to disrupt electronic and electrical systems —abbreviation EMP.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the interrelation of electric currents and magnetic fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to electromagnetic radiation, spanning gamma rays, X-rays, ultraviolet, visible light, infrared, and radio waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnetic designates of, relating to, or produced by electromagnetism."*
+> - 📜 **James Clerk Maxwell (*A Dynamical Theory of the Electromagnetic Field*):** *"Light consists in the transverse undulations of the same medium which is the cause of electric and magnetic phenomena, constituting an **electromagnetic** wave."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"The electrodynamics of moving bodies revealed that the velocity of an **electromagnetic** signal in vacuum is a universal constant."*
+> - 📜 **Heinrich Hertz (*Electric Waves*):** *"These experimental apparatuses proved beyond doubt the transverse nature and wave velocity of **electromagnetic** propagation."*

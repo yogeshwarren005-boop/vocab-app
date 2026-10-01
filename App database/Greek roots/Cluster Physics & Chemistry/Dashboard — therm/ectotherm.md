@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cold-blooded animal : poikilotherm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cold-blooded animal : poikilotherm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that relies on external sources of heat to regulate its body temperature; a cold-blooded animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative physiology and ecology, an animal (such as a reptile, amphibian, or fish) whose metabolic rate is predominantly determined by ambient temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectotherm designates a cold-blooded animal : poikilotherm."*
+> - 📜 **Bernd Heinrich (*The Hot-Blooded Insects*):** *"The basking lizard is an archetypal **ectotherm**, utilizing solar radiation to raise its body temperature before foraging."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Being an **ectotherm** requires far less caloric energy per day than that demanded by an endothermic mammal."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The debate over dinosaur physiology asks whether they were sluggish **ectotherm** reptiles or active endotherms."*

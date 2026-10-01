@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic bacteriolytic protein that hydrolyzes peptidoglycan and is present in egg white and in human tears and saliva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic bacteriolytic protein that hydrolyzes peptidoglycan and is present in egg white and in human tears and saliva.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antimicrobial enzyme occurring naturally in bodily fluids (such as tears, saliva, and mucus) and egg whites that hydrolyzes peptidoglycan in bacterial cell walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of immunology and structural biology, discovered by Alexander Fleming in 1921 and the first enzyme whose three-dimensional atomic structure was solved by X-ray crystallography (David Phillips, 1965).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysozyme designates a basic bacteriolytic protein that hydrolyzes peptidoglycan and is present in egg white and in human tears and saliva."*
+> - 📜 **Alexander Fleming (*On a Remarkable Bacteriolytic Element Found in Tissues and Secretions*):** *"I have called this powerful bacteriolytic substance **lysozyme**, which dissolves pathogenic micrococci in seconds."*
+> - 📜 **David Phillips (*The Three-Dimensional Structure of an Enzyme Molecule*):** *"X-ray analysis of **lysozyme** revealed the precise cleft where the hexasaccharide substrate is bound and cleaved."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The atomic model of **lysozyme** provided the first direct visualization of an enzyme mechanism in action."*

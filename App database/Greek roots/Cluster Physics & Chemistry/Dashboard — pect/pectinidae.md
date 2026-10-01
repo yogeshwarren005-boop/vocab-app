@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scallops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scallops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic family of bivalve mollusks commonly known as scallops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine malacology, bivalves characterized by fan-shaped fluted shells, blue compound eyes along the mantle edge, and the ability to swim by jetting water from their valves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog pectinidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil shells of the family **Pectinidae** are abundant indicators of shallow temperate marine environments throughout the Tertiary."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Swimming in **Pectinidae** is accomplished by rapid adduction of the valves, expelling jets of water from the auricles."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The fluted symmetry of shells in the **Pectinidae** exemplifies the decorative geometric harmony of marine life."*

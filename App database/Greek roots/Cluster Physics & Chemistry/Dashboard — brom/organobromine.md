@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stench.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stench.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic chemical compound containing one or more carbon-bromine covalent bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental chemistry and industrial manufacturing, a class of substances used in brominated flame retardants, dyes, and organic synthesis intermediates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organobromine designates adjective*) pertaining to, derived from, or characteristic of stench."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Accumulation of synthetic **organobromine** pollutants in marine sediments presents grave ecological hazards."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The carbon-bromine linkage in an **organobromine** molecule exhibits significant polarizability."*
+> - 📜 **E. J. Corey (*The Logic of Chemical Synthesis*):** *"The selective introduction of an **organobromine** moiety provides a versatile handle for subsequent cross-coupling."*

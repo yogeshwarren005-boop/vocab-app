@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of worm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of worm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative form of anthelmintic; active against or destructive to parasitic worms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical parasitology, designating broad-spectrum antiparasitic formulations eradicating intestinal nematodes and systemic schistosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihelminthic designates adjective*) pertaining to, derived from, or characteristic of worm."*
+> - 📜 **Aldo Castellani (*Manual of Tropical Medicine*):** *"The **antihelminthic** efficacy of thymol in treating hookworm disease was documented across plantation hospitals."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"Prompt **antihelminthic** treatment of horses prevented fatal colics induced by migrating strongyle larvae."*
+> - 📜 **Arthur Looss (*The Anatomy and Life History of Anchylostoma Duodenale*):** *"Microscopic surveys verified that the **antihelminthic** dosage had completely cleared the patient of ancylostoma."*

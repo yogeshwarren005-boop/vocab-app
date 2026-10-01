@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hipp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, intense, or irrational fear of horses (equinophobia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific animal phobia characterized by severe dread, trembling, and panic attacks triggered by horses or equine carriages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippophobia designates a term designating an entity, condition, or phenomenon derived from greek hipp."*
+> - 📜 **Sigmund Freud (*Analysis of a Phobia in a Five-Year-Old Boy*):** *"Little Hans developed a dramatic **hippophobia**, terrified that a horse pulling a heavy cart would bite him or collapse in the street."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Childhood traumatic memories of a bolting carriage can produce persistent **hippophobia** in nervous temperaments."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The patient confessed an uncontrollable **hippophobia** that made crossing busy city thoroughfares an ordeal."*

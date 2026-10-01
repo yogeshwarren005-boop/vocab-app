@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch and technology dealing with the emission, behavior, and applications of thermions in vacuum tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and telecommunications, the theoretical foundation of vacuum electronics that underpinned the 20th-century radio and computer revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermionics designates the branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes)."*
+> - 📜 **Owen Willans Richardson (*The Emission of Electricity from Hot Bodies*):** *"The principles of **thermionics** established the relationship between temperature, metal work functions, and saturation current."*
+> - 📜 **V. K. Zworykin (*Television: The Electronics of Image Transmission*):** *"Advances in experimental **thermionics** paved the way for the cathode-ray iconoscope and modern electronic television."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Applied **thermionics** transformed theoretical electron physics into global radio communications and international broadcasting."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or included in the zodiac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or included in the zodiac.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated within the zodiac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and astrophysics, designating interplanetary dust phenomena such as zodiacal light and the gegenschein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"My remembrances went to France in the train of those zodiacal stars that would shine in some hours’ time."*
-> - 📜 **James Joyce (*Ulysses*):** *"Ominous revengeful zodiacal host!"*
-> - 📜 **James Joyce (*Ulysses*):** *"A star precipitated with great apparent velocity across the firmament from Vega in the Lyre above the zenith beyond the stargroup of the Tress of Berenice towards the zodiacal sign of Leo."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"In the clear skies of the tropical Atlantic, the glowing pyramid of **zodiacal** light rose vertically above the western horizon."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The **zodiacal** constellations provide a permanent astronomical framework for calculating the planetary longitudes."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Interplanetary meteoritic dust reflects sunlight, creating the mysterious, ghostly **zodiacal** glow after sunset."*

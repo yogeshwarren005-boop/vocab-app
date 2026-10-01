@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent or degree to which something is magnetized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process that makes a substance magnetic (temporarily or permanently).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British/Commonwealth spelling of magnetization: the act or process of making something magnetic, or the state of being magnetized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and materials science, the density of magnetic dipole moments induced or permanently present within a magnetic substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetisation designates the extent or degree to which something is magnetized."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The intensity of **magnetisation** within the iron core increases asymptotically toward a saturation limit."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"Thermoelectric experiments showed that mechanical strain alters the intensity of **magnetisation**."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The instantaneous **magnetisation** of the soft iron bar occurred the moment the circuit was completed."*

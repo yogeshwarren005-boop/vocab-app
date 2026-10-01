@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intravenous anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intravenous anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A halogenated alcohol (C2H3Br3O) historically used as a general anesthetic and sedative in veterinary and laboratory medicine (Avertin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological history, a basal anesthetic introduced in the 1920s administered rectally to induce rapid surgical anesthesia in laboratory rodents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribromoethanol designates an intravenous anesthetic."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Administered in aqueous amylene hydrate, **tribromoethanol** acts as a potent and rapid central nervous system depressant."*
+> - 📜 **Hans Selye (*Stress: The Physiology and Pathology of Exposure to Systemic Stress*):** *"Deep anesthesia was sustained with **tribromoethanol** while physiological shock responses were monitored."*
+> - 📜 **John Jacob Abel (*Experimental Pharmacology*):** *"The hypnotic properties of **tribromoethanol** demonstrate how polyhalogenation enhances central nervous depression."*

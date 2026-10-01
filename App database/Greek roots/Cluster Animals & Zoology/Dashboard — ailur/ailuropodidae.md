@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered the family comprising the giant pandas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered the family comprising the giant pandas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposed taxonomic family of carnivorans accommodating the giant panda and its extinct relatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic phylogenetics, a classification separating giant pandas from Ursidae and Procyonidae based on cranial and dentition divergence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailuropodidae designates in some classifications considered the family comprising the giant pandas."*
+> - 📜 **William King Gregory (*On the Phylogenetic Relationships of the Giant Panda*):** *"Several morphologists preferred erecting the family **Ailuropodidae** to highlight the panda's unique skull architecture."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Molecular data gradually integrated **Ailuropodidae** back into the mainstream ursid radiation as an archaic branch."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"The elevation of single divergent species to family rank such as **Ailuropodidae** often obscures underlying phylogenetic cohesion."*

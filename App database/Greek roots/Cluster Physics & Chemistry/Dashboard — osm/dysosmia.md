@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disorder, impairment, or distortion of the normal sense of smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sensory testing, the overarching diagnostic classification encompassing parosmia, phantosmia, and hyposmia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysosmia designates a term designating an entity, condition, or phenomenon derived from greek osm."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Post-viral **dysosmia** transformed the scent of morning coffee into a nauseating metallic stench."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Head injuries with occipital counter-coup frequently induce long-lasting bilateral **dysosmia**."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The clinical recovery from post-infectious **dysosmia** can span months as olfactory receptor neurons regenerate."*

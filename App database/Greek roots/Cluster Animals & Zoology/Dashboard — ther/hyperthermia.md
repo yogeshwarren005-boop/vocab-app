@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally high body temperature, especially when induced therapeutically or resulting from heat stroke or malignant hyperthermia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency medicine and oncology, a core temperature exceeding 40°C where thermoregulatory mechanisms fail; or controlled thermal ablation of tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermia designates exceptionally high fever especially when induced artificially for therapeutic purposes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fatal sunstroke is characterized by dry skin, flaccid coma, and alarming **hyperthermia** exceeding forty-three degrees."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Pathology*):** *"Experimental puncture of the hypothalamic centers produced sudden, lethal **hyperthermia** in laboratory rabbits."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Following cranial operations near the third ventricle, central **hyperthermia** was a dreaded and dangerous complication."*

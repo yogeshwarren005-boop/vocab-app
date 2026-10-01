@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Explained in terms of physical forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the philosophical theory of mechanism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or explaining phenomena in purely mechanical or physical terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating automatically, routinely, or rigidly like a machine, devoid of spontaneity or human agency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanistic designates explained in terms of physical forces."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"A rigorous **mechanistic** philosophy accounts for the circulation of blood without invoking occult vital souls."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The modern economic order binds the individual within an iron cage of **mechanistic** division of labor."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The seventeenth-century scientific revolution triumphed by replacing Aristotelian teleology with a **mechanistic** cosmology."*

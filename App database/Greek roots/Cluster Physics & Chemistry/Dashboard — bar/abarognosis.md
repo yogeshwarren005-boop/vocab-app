@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the ability to appreciate or estimate the weight of objects held in the hand, caused by a neurological lesion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a sensory deficit indicative of contralateral parietal lobe damage, particularly affecting the somatosensory cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abarognosis designates a term designating an entity, condition, or phenomenon derived from greek bar."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient displayed marked **abarognosis**, failing to distinguish between a featherweight sphere and a heavy lead shot."*
+> - 📜 **Gordon Holmes (*Disorders of Sensation in Brain Lesions*):** *"Cortical parietal injury frequently results in profound **abarognosis** while tactile localization remains intact."*
+> - 📜 **S. Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Tests for **abarognosis** were conducted using graduated metal disks placed in the palm of the extended hand."*

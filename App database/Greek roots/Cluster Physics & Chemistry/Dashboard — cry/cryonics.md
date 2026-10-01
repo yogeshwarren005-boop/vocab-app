@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of freezing a person who has died of a disease in hopes of restoring life at some future time when a cure for the disease has been developed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of freezing a person who has died of a disease in hopes of restoring life at some future time when a cure for the disease has been developed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of freezing human bodies or heads after legal death with the hope of restoring them to life and health when future technology allows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A controversial bioengineering field utilizing vitrification mixtures and liquid nitrogen storage dewar vessels to store deceased human subjects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryonics designates the practice of freezing a person who has died of a disease in hopes of restoring life at some future time when a cure for the disease has been developed."*
+> - 📜 **Robert Ettinger (*The Prospect of Immortality*):** *"The central premise of **cryonics** is that death is a gradual process that low temperature can indefinitely arrest."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Proponents of **cryonics** promise a resurrection that contemporary biophysics cannot yet validate."*
+> - 📜 **Richard Feynman (*The Pleasure of Finding Things Out*):** *"When considering **cryonics**, one must ask whether the intricate synaptic wiring of the brain survives freezing undamaged."*

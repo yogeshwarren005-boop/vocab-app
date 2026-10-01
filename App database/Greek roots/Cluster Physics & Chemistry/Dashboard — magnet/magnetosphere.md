@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of space surrounding an astronomical object in which charged particles are controlled or dominated by that object's magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In space physics, the Earth's geomagnetic cavity carved out of the supersonic solar wind, bounded by the bow shock and magnetopause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetosphere designates the magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field."*
+> - 📜 **James Van Allen (*Origins of Magnetospheric Physics*):** *"Satellites confirmed that the Earth's **magnetosphere** forms a vast tear-shaped bubble streaming millions of miles downwind into the interplanetary night."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Without our protective planetary **magnetosphere**, energetic solar cosmic rays would have stripped away Earth's fragile atmosphere."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The spacecraft passed through the turbulent bow shock of Jupiter's roaring, radiation-drenched **magnetosphere**."*

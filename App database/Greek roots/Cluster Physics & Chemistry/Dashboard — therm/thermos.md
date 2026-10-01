@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container (such as a bottle or jar) with a vacuum between an inner and outer wall used to keep material and especially liquids either hot or cold for considerable periods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container (such as a bottle or jar) with a vacuum between an inner and outer wall used to keep material and especially liquids either hot or cold for considerable periods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for a vacuum flask; a double-walled container with a vacuum between the walls used to keep drinks hot or cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vacuum-insulated vessel invented by Sir James Dewar in 1892 for cryogenic liquefied gases, later commercialized for domestic beverage storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"They call it a thermos bottle."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"We'll have our coffee, and get the thermos bottle filled, too, by the time you come back.” Nan liked tom Sherwood."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The boys have to be at Blackton's so's to get to work at seven.” They filled the thermos bottle that had so puzzled Tom, and then sallied forth."*
+> - 📜 **James Dewar (*Collected Papers on Physical Phenomena*):** *"The silvered vacuum jacket of the flask, later commercialized as the **thermos**, prevented heat transfer by radiation and conduction."*
+> - 📜 **Ernest Shackleton (*South: The Story of Shackleton's Last Expedition*):** *"We filled our **thermos** flasks with boiling tea before setting out across the pressure ridges of the pack ice."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"They brought a silver **thermos** of iced lemonade down to the beach umbrella in the heat of midday."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horseshoe bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horseshoe bats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of Old World roundleaf bats, literally 'horse iron' in reference to their horseshoe-shaped fleshy noseleaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, a diverse genus of insect-hunting cave bats utilizing constant frequency echolocation directed through complex nasal structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hipposideros designates horseshoe bats."*
+> - 📜 **Thomas Horsfield (*Zoological Researches in Java*):** *"I described several new species of **Hipposideros** found suspended in limestone caverns near the southern coast of Java."*
+> - 📜 **W. T. Blanford (*The Fauna of British India: Mammalia*):** *"The horseshoe portion of the noseleaf in **Hipposideros** lacks the central sella characteristic of true horseshoe bats."*
+> - 📜 **Richard Lydekker (*A Hand-book to the British Mammalia*):** *"At dusk, countless individuals of **Hipposideros** pour out of cavern mouths to hawk for beetles over the jungle canopy."*

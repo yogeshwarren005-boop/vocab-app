@@ -1,0 +1,1665 @@
+{
+  "batch1": {
+    "dashboards": [
+      "Dashboard — pheug",
+      "Dashboard — brady",
+      "Dashboard — drome",
+      "Dashboard — pat",
+      "Dashboard — pro",
+      "Dashboard — pemp",
+      "Dashboard — pol",
+      "Dashboard — trech",
+      "Dashboard — streph",
+      "Dashboard — torn"
+    ],
+    "words": [
+      {
+        "dashboard": "Dashboard — pheug",
+        "file": "apophyge.md"
+      },
+      {
+        "dashboard": "Dashboard — pheug",
+        "file": "hypophyge.md"
+      },
+      {
+        "dashboard": "Dashboard — pheug",
+        "file": "pheug.md"
+      },
+      {
+        "dashboard": "Dashboard — brady",
+        "file": "brady.md"
+      },
+      {
+        "dashboard": "Dashboard — brady",
+        "file": "bradycardia.md"
+      },
+      {
+        "dashboard": "Dashboard — brady",
+        "file": "bradysuria.md"
+      },
+      {
+        "dashboard": "Dashboard — brady",
+        "file": "bradytelic.md"
+      },
+      {
+        "dashboard": "Dashboard — drome",
+        "file": "drome.md"
+      },
+      {
+        "dashboard": "Dashboard — drome",
+        "file": "dromedary.md"
+      },
+      {
+        "dashboard": "Dashboard — drome",
+        "file": "prodromal.md"
+      },
+      {
+        "dashboard": "Dashboard — drome",
+        "file": "prodrome.md"
+      },
+      {
+        "dashboard": "Dashboard — drome",
+        "file": "prodromic.md"
+      },
+      {
+        "dashboard": "Dashboard — drome",
+        "file": "syndrome.md"
+      },
+      {
+        "dashboard": "Dashboard — pat",
+        "file": "expat.md"
+      },
+      {
+        "dashboard": "Dashboard — pat",
+        "file": "pat.md"
+      },
+      {
+        "dashboard": "Dashboard — pat",
+        "file": "pater.md"
+      },
+      {
+        "dashboard": "Dashboard — pat",
+        "file": "patness.md"
+      },
+      {
+        "dashboard": "Dashboard — pat",
+        "file": "peripatetic.md"
+      },
+      {
+        "dashboard": "Dashboard — pat",
+        "file": "peripateticism.md"
+      },
+      {
+        "dashboard": "Dashboard — pro",
+        "file": "prologise.md"
+      },
+      {
+        "dashboard": "Dashboard — pro",
+        "file": "prologize.md"
+      },
+      {
+        "dashboard": "Dashboard — pro",
+        "file": "prologue.md"
+      },
+      {
+        "dashboard": "Dashboard — pro",
+        "file": "prologuize.md"
+      },
+      {
+        "dashboard": "Dashboard — pro",
+        "file": "prostate.md"
+      },
+      {
+        "dashboard": "Dashboard — pro",
+        "file": "prostatic.md"
+      },
+      {
+        "dashboard": "Dashboard — pro",
+        "file": "prow.md"
+      },
+      {
+        "dashboard": "Dashboard — pemp",
+        "file": "apopemptic.md"
+      },
+      {
+        "dashboard": "Dashboard — pemp",
+        "file": "hypnopompic.md"
+      },
+      {
+        "dashboard": "Dashboard — pemp",
+        "file": "pemp.md"
+      },
+      {
+        "dashboard": "Dashboard — pemp",
+        "file": "pomp.md"
+      },
+      {
+        "dashboard": "Dashboard — pemp",
+        "file": "pompous.md"
+      },
+      {
+        "dashboard": "Dashboard — pemp",
+        "file": "pompously.md"
+      },
+      {
+        "dashboard": "Dashboard — pemp",
+        "file": "pompousness.md"
+      },
+      {
+        "dashboard": "Dashboard — pemp",
+        "file": "unpompous.md"
+      },
+      {
+        "dashboard": "Dashboard — pol",
+        "file": "dipole.md"
+      },
+      {
+        "dashboard": "Dashboard — pol",
+        "file": "polar.md"
+      },
+      {
+        "dashboard": "Dashboard — pol",
+        "file": "polarise.md"
+      },
+      {
+        "dashboard": "Dashboard — pol",
+        "file": "polarity.md"
+      },
+      {
+        "dashboard": "Dashboard — pol",
+        "file": "polarize.md"
+      },
+      {
+        "dashboard": "Dashboard — pol",
+        "file": "polaroid.md"
+      },
+      {
+        "dashboard": "Dashboard — pol",
+        "file": "pole.md"
+      },
+      {
+        "dashboard": "Dashboard — pol",
+        "file": "poler.md"
+      },
+      {
+        "dashboard": "Dashboard — pol",
+        "file": "polity.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "ditrochee.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "epitrochoid.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "hypotrochoid.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "trochaic.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "trochanter.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "trochee.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "trochelminth.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "trochlea.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "trochoid.md"
+      },
+      {
+        "dashboard": "Dashboard — trech",
+        "file": "trochophore.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "anastrophe.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "antistrophic.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "apostrophic.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "boustrophedon.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "boustrophedonic.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "catastrophe.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "catastrophic.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "catastrophism.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "monostrophe.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "monostrophic.md"
+      },
+      {
+        "dashboard": "Dashboard — streph",
+        "file": "strophic.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "return.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "returning.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "torn.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "tornado.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "tornillo.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "tournament.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "turn.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "turned.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "turner.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "turnery.md"
+      },
+      {
+        "dashboard": "Dashboard — torn",
+        "file": "turning.md"
+      }
+    ]
+  },
+  "batch2": {
+    "dashboards": [
+      "Dashboard — stol",
+      "Dashboard — oestr",
+      "Dashboard — tach",
+      "Dashboard — dram"
+    ],
+    "words": [
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "apostle.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "apostleship.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "apostolic.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "apostolical.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "diastole.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "diastolic.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "epistle.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "epistolary.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "epistolatory.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "stele.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "stellein.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "stole.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "stolid.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "stolidity.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "stolidly.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "stolidness.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "stolon.md"
+      },
+      {
+        "dashboard": "Dashboard — stol",
+        "file": "stoloniferous.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "anestric.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "anestrous.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "anestrus.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "anoestrous.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "anoestrum.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "anoestrus.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "estrogen.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "estrogenic.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "estrous.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "estrus.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "monoestrous.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "oestr.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "oestradiol.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "oestridae.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "oestriol.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "oestrogen.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "oestrone.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "oestrus.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "polyestrous.md"
+      },
+      {
+        "dashboard": "Dashboard — oestr",
+        "file": "polyoestrous.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "detach.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "detachable.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "detached.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "detachment.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tach.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tacheometer.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachinidae.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachistoscope.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachogram.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachograph.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachometer.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachycardia.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachyglossidae.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachyglossus.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachygraphy.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachylite.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachymeter.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachypleus.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachyrhythmia.md"
+      },
+      {
+        "dashboard": "Dashboard — tach",
+        "file": "tachytelic.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "aerodrome.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "anadromous.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "antidromic.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "catadromous.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "diadromous.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dram.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "drama.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramamine.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramatic.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramatically.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramatics.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramatisation.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramatise.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramatist.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramatization.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramatize.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramaturgic.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramaturgical.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dramaturgy.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "dromaeosaurid.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "heterodromous.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "loxodrome.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "monodromy.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "syndrome.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "undramatic.md"
+      },
+      {
+        "dashboard": "Dashboard — dram",
+        "file": "undramatically.md"
+      }
+    ]
+  },
+  "batch3": {
+    "dashboards": [
+      "Dashboard — phor",
+      "Dashboard — kine"
+    ],
+    "words": [
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "anaphor.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "anaphora.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "anaphoric.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "aphorise.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "aphorism.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "aphorist.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "aphoristic.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "aphorize.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "cataphoresis.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "cataphoretic.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "diaphoresis.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "diaphoretic.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "dysphoria.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "dysphoric.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "epiphora.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "euphoria.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "euphoriant.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "euphoric.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "euphory.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "gonophore.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "metaphor.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "metaphoric.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "metaphorical.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "metaphorically.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "phero.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "phoradendron.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "phoronid.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "phoronida.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "phoronidea.md"
+      },
+      {
+        "dashboard": "Dashboard — phor",
+        "file": "symphoricarpos.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "akinesia.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "akinesis.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "akinete.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "akinetic.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "cinema.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "cinematic.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "cinematise.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "cinematize.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "diakinesis.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "dyskinesia.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "dyskinetic.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "hyperkinesia.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "hyperkinesis.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "hyperkinetic.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "hypokinesia.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "hypokinesis.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "hypokinetic.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kine.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinematics.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinescope.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinesiologist.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinesiology.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinesis.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinesthesia.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinesthesis.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinesthetic.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinesthetically.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinesthetics.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinetic.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kineticism.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kineticist.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinetics.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinetochore.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinetophobia.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinetoscope.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "kinetosis.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "photokinesis.md"
+      },
+      {
+        "dashboard": "Dashboard — kine",
+        "file": "telekinesis.md"
+      }
+    ]
+  },
+  "batch4": {
+    "dashboards": [
+      "Dashboard — trep"
+    ],
+    "words": [
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "Atropos.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "allotrope.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "allotropic.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "allotropical.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "allotropism.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "anisotropic.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "anisotropy.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "contrary.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "contrition.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "contrivance.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "contrive.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "contrived.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "contriver.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "ectropion.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "entrepot.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "entrepreneur.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "entrepreneurial.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "entropic.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "entropion.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "entropy.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "heliotropism.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "isentropic.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "isotrope.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "isotropic.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "isotropous.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "isotropy.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "pleiotropic.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "pleiotropy.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "polytrope.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "protrepsis.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "protreptic.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "psychotropic.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "retrievable.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "retrieval.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "retrieve.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "retriever.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "trepan.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "trepang.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "trepid.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "trepidation.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "trepidly.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "treponema.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "treponemataceae.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "treponematosis.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "treponeme.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "treponemiasis.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "tropism.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "tropopause.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "troposphere.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "troubadour.md"
+      },
+      {
+        "dashboard": "Dashboard — trep",
+        "file": "trove.md"
+      }
+    ]
+  },
+  "batch5": {
+    "dashboards": [
+      "Dashboard — ba"
+    ],
+    "words": [
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "abase.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "abasic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "acrobat.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "acrobatic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "acrobatics.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "adiabatic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "aerobatic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "anabasis.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "anabatic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "antidiabetic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "antiparabema.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "ba.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "bainein.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basal.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "base.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "based.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basely.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basement.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "baseness.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basidial.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basidiocarp.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basidioma.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basidiospore.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basidiosporous.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basidium.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basify.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basilar.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basilary.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basion.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basionym.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basis.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basophilia.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "basophilic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "bastion.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "bema.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "catabasis.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "catabatic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "debase.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "diabase.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "diabatic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "diabetes.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "diabetic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "dibasic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "hyperbaton.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "hypobasidium.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "hypobasis.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "katabasis.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "katabatic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "monobasic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "polybasic.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "stereobate.md"
+      },
+      {
+        "dashboard": "Dashboard — ba",
+        "file": "tribasic.md"
+      }
+    ]
+  },
+  "batch6": {
+    "dashboards": [
+      "Dashboard — plan"
+    ],
+    "words": [
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "aplanatic.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "aplanetic.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "aplanogamete.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "deplane.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "emplane.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "enplane.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "exoplanet.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "explanandum.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "explanans.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "explanation.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "explanatory.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "monoplane.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "periplaneta.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plan.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planar.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planaria.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planarian.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planate.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planation.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planchet.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planchette.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planck.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plane-polarized.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plane.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planeness.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planer.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planera.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planet.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planetal.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planetarium.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planetary.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planetesimal.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planetoid.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planetonym.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planimeter.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planless.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planned.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planner.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planning.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plano.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planoblast.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planococcus.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planoconcave.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planoconvex.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planogamete.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planographic.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planography.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planospore.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plant-eating.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plant.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantae.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantagenet.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantaginaceae.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantaginales.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantago.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantain.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantal.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantar.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantation.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planted.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planter.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planthopper.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantigrade.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planting.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantlet.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "plantsman.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "planula.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "protoplanet.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "replant.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "unplanned.md"
+      },
+      {
+        "dashboard": "Dashboard — plan",
+        "file": "unplanted.md"
+      }
+    ]
+  }
+}

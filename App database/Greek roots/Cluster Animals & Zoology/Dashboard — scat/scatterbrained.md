@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sense or discretion; ; - glenway westcott.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guided by whim and fancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of serious or concentrated thought; disorganized, frivolous, or forgetful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying chronic lack of mental concentration, erratic planning, and flighty behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatterbrained designates lacking sense or discretion; ; - glenway westcott."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"Clarissa felt herself grow **scatterbrained** amidst the fluttering invitations and morning shopping errands."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"Our guide was so thoroughly **scatterbrained** that he led us in circles through the dark alleys of Genoa."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia thought her sister's lofty theological aspirations were decidedly impractical and slightly **scatterbrained**."*

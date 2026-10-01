@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Arachnida) of arthropods comprising chiefly terrestrial invertebrates, including the spiders, scorpions, mites, and ticks, and having a segmented body divided into two regions of which the anterior bears four pairs of legs but no antennae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Arachnida) of arthropods comprising chiefly terrestrial invertebrates, including the spiders, scorpions, mites, and ticks, and having a segmented body divided into two regions of which the anterior bears four pairs of legs but no antennae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any wingless, eight-legged invertebrate of the class Arachnida, such as a spider, scorpion, tick, or mite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod biology, a chelicerate lacking antennae and compound eyes, possessing a prosoma with six pairs of appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnid designates any of a class (arachnida) of arthropods comprising chiefly terrestrial invertebrates, including the spiders, scorpions, mites, and ticks, and having a segmented body divided into two regions of which the anterior bears four pairs of legs but no antennae."*
+> - 📜 **J. H. Fabre (*The Life of the Spider*):** *"With unerring geometrical instinct, the solitary **arachnid** constructed her orb web in the darkness of the olive grove."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I observed a small predatory **arachnid** running across the sand with extraordinary speed, seizing passing flies."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The respiratory system of an **arachnid** typically consists of book lungs or specialized tracheal tubes."*

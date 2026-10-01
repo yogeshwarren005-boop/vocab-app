@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving electrochemistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving electrochemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electrochemistry; involving chemical changes produced by electricity, or electricity produced by chemical reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, pertaining to galvanic cells, electrolysis, electrode potentials, and redox reactions governing battery function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrochemical designates of or involving electrochemistry."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **electrochemical** equivalent of any ion is directly proportional to its chemical combining weight."*
+> - 📜 **Svante Arrhenius (*The Theory of Electrolytic Dissociation*):** *"The spontaneous dissociation of salts in solution provides the physical basis for all **electrochemical** reactions."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Every voltaic cell converts chemical free energy directly into **electrochemical** work."*

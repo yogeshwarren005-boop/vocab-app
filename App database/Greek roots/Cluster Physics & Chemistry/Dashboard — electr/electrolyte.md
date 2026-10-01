@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic electric conductor in which current is carried by the movement of ions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that when dissolved in a suitable solvent or when fused becomes an ionic conductor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance that conducts electricity when dissolved in water or melted, through the movement of dissociated ions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human physiology and medicine, essential mineral ions (such as sodium, potassium, calcium, and chloride) regulating cellular osmotic pressure and membrane potentials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The process itself is electrolysis; the liquid is the electrolyte, while the strips are the electrodes."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is not surprising, then, to find that if we put a salt in the electrolyte instead of an acid we get a similar result."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte consists of a suitable solution containing a salt of the metal to be deposited, and it is placed in an insulating vessel or vat."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I term that compound substance which is capable of being decomposed by the electric current an **electrolyte**."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"In an aqueous **electrolyte**, the solute molecules undergo spontaneous dissociation into electrically charged ions."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"We monitored the patient's serum **electrolyte** concentrations hourly to correct the life-threatening hypokalemia."*

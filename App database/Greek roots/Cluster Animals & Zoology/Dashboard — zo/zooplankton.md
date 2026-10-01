@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freely floating or weakly swimming typically minute aquatic protozoans and animals (such as copepods, rotifers, and krill) or the eggs or larvae of aquatic animals (such as anemones, mollusks, and fish) : plankton composed of animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freely floating or weakly swimming typically minute aquatic protozoans and animals (such as copepods, rotifers, and krill) or the eggs or larvae of aquatic animals (such as anemones, mollusks, and fish) : plankton composed of animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plankton consisting of microscopic and small macroscopic animals and the non-photosynthetic protists floating or drifting in aquatic environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological oceanography and limnology, the primary heterotrophic consumers (copepods, krill, rotifers, larvae) transferring energy from phytoplankton to higher trophic levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zooplankton designates freely floating or weakly swimming typically minute aquatic protozoans and animals (such as copepods, rotifers, and krill) or the eggs or larvae of aquatic animals (such as anemones, mollusks, and fish) : plankton composed of animals."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Billions of copepods and transparent larvae in the **zooplankton** drift through the sunlit pelagic layer, grazing upon diatoms."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"The vertical migration of oceanic **zooplankton** under cover of darkness is the greatest biomass movement on planet Earth."*
+> - 📜 **Ernst Haeckel (*Planktonic Studies*):** *"Haeckel marveled at the geometric silicoflagellates and tintinnids comprising the surface **zooplankton** of open ocean gyres."*

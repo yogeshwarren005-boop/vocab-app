@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resulting from pyrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resulting from pyrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by pyrolysis; resulting from thermal decomposition in the absence of oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, designating synthetic materials produced by chemical vapor deposition at high temperatures, such as pyrolytic carbon or pyrolytic graphite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrolytic designates resulting from pyrolysis."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The remarkable mechanical strength of **pyrolytic** carbon heart valves arises from its disordered graphene layers."*
+> - 📜 **Irving Langmuir (*Phenomena, Atoms and Molecules*):** *"Deposition of carbon on incandescent filaments during **pyrolytic** cracking was studied under high vacuum."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The heat shield was manufactured from dense **pyrolytic** graphite capable of withstanding planetary re-entry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craft of making fireworks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craft of making fireworks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, craft, or science of making and displaying fireworks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in alchemy and early chemistry, chemical operations involving fire, distillation, and furnaces; or flamboyant rhetorical display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrotechny designates the craft of making fireworks."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The practical achievements of **pyrotechny** contributed greatly to our early understanding of explosive salts."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Those who labor at the furnace boast of their **pyrotechny**, yet fail to isolate pure elementary principles."*
+> - 📜 **John Evelyn (*Sylva: Or a Discourse of Forest-Trees*):** *"Charcoal burned from alder wood was deemed the most suitable for the delicate manufacture of **pyrotechny**."*

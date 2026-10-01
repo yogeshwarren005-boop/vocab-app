@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of scomberesocidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of scomberesocidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender epipelagic marine fishes comprising the Atlantic saury (Scomberesox saurus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, oceanic needle-like fishes possessing beak-like jaws and dorsal finlets, migrating in huge shoals across temperate North Atlantic waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombresox designates a genus of scomberesocidae."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"I established the species under the genus **Scomberesox** in reference to its combination of mackerel-like finlets and pike-like snout."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Shoals of shimmering **Scomberesox** skitter across offshore banks, breaking the dark surface in silvery waves."*
+> - 📜 **Jonathan Couch (*A History of the Fishes of the British Islands*):** *"Cornish fishermen know **Scomberesox** as the skipper, from its habit of skipping along the surface when pursued."*

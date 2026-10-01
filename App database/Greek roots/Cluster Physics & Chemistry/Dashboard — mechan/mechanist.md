@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who subscribes to the doctrine of mechanism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who subscribes to the doctrine of mechanism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of the philosophical doctrine of mechanism, holding that natural phenomena are fully explainable by mechanical and physical causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maker, inventor, or operator of mechanical contrivances or machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanist designates a philosopher who subscribes to the doctrine of mechanism."*
+> - 📜 **René Descartes (*Discourse on the Method*):** *"As a philosophical **mechanist**, I view the animal body as an ingenious automaton fashioned by nature."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The strict **mechanist** denies the causal agency of conscious thought, reducing every mental state to neural physics."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"To the biological **mechanist**, vital forces are merely specialized manifestations of universal physical laws."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the parrots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parrots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling parrots; or an individual bird of the parrot family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and comparative cognitive ethology, designating parrot-specific diseases (psittacine beak and feather disease) or vocal learning traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacine designates of or relating to the parrots."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The **psittacine** skull possesses a mobile upper jaw articulated with the frontal bone, providing tremendous crushing power."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The high cerebral development of **psittacine** birds rivals that of primates in problem-solving and social cooperation."*
+> - 📜 **Frank E. Beddard (*The Structure and Classification of Birds*):** *"The rasping vocalizations and remarkable mimetic abilities of the **psittacine** family are mediated by a complex syrinx."*

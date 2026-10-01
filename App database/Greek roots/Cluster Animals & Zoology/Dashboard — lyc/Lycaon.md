@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lyc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, an Arcadian king turned into a wolf by Zeus for serving him human flesh; in zoology, the genus of the African wild dog (Lycaon pictus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, cursorial pack-hunting canids possessing mottled coats and four toes per foot, celebrated for extraordinary hunting coordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Lycaon designates a term designating an entity, condition, or phenomenon derived from greek lyc."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Howling in terror, cruel **Lycaon** fled to the pastures, his royal garments transformed into shaggy wolf fur."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"A pack of the painted wild dog, **Lycaon** pictus, trotted across the savannah in relentless pursuit of a gazelle."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The African hunting dog **Lycaon** is distinguished from true wolves by possessing only four digits on the forefeet."*

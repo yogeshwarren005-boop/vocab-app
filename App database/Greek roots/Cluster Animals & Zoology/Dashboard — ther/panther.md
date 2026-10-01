@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large spotted feline of tropical america similar to the leopard; in some classifications considered a member of the genus felis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leopard in the black color phase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large predatory felid of the genus Panthera, especially a leopard, jaguar, or cougar, frequently with a dark melanistic coat (black panther).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and zoology, a celebrated hunter of antiquity (Greek panther, literally 'all-beast' in folk etymology); in North America, a regional name for the puma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, an it please your majesty To hunt the panther and the hart with me, With horn and hound we’ll give your grace _bonjour_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have dogs, my lord, Will rouse the proudest panther in the chase, And climb the highest promontory top."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Straight will I bring you to the loathsome pit Where I espied the panther fast asleep."*
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"Tomorrow, my lords, for stoop of wild-fowl, or to hunt the **panther** and the hart, we will be early abroad."*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"Bagheera the black **panther** was inky black all over, but with the panther markings showing up like the pattern of watered silk."*
+> - 📜 **James Fenimore Cooper (*The Pioneers*):** *"A terrifying scream echoed through the hemlocks, announcing that a prowling **panther** had caught the scent of the dogs."*

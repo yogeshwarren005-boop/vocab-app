@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek therm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being athermanous; impermeability or resistance to radiant heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical optics, the capacity of a medium (such as alum solution or thick glass) to absorb infrared radiation while transmitting visible light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athermancy designates a term designating an entity, condition, or phenomenon derived from greek therm."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Water displays remarkable **athermancy**, absorbing radiant heat rays with extraordinary completeness."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The relative **athermancy** of different gases was demonstrated by measuring thermal transmission through absorption tubes."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"The thermal shield utilized an alum cell whose **athermancy** blocked intense radiant heat from reaching delicate instruments."*

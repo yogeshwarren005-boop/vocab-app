@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of snake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of snake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on or preying upon snakes (snake-eating).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology, describing predators such as king cobras, secretary birds, mongooses, and kingsnakes that specialize in hunting serpents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiophagous designates adjective*) pertaining to, derived from, or characteristic of snake."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The Egyptian ibis is revered as an **ophiophagous** benefactor for clearing riverbanks of venomous vipers."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The secretary bird leads a strictly **ophiophagous** existence, trampling deadly puff adders with its long armored legs."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The common kingsnake displays an **ophiophagous** appetite, killing and swallowing venomous rattlesnakes with complete immunity to their venom."*

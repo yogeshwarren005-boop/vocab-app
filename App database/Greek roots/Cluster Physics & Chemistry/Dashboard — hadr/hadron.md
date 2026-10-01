@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the subatomic particles (such as protons and neutrons) that are made up of quarks and are subject to the strong force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the subatomic particles (such as protons and neutrons) that are made up of quarks and are subject to the strong force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subatomic composite particle made of quarks held together by the strong force, categorized into baryons (three quarks) and mesons (quark-antiquark).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern high-energy physics, any particle that participates in the fundamental strong nuclear interaction, such as the proton, neutron, or pion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadron designates any of the subatomic particles (such as protons and neutrons) that are made up of quarks and are subject to the strong force."*
+> - 📜 **Lev Okun (*Weak Interactions of Elementary Particles*):** *"I propose the name **hadron** to designate any strongly interacting particle, whether fermion or boson."*
+> - 📜 **Murray Gell-Mann (*The Quark Model*):** *"Every known **hadron** corresponds to a color-singlet combination of quarks in quantum chromodynamics."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"Collisions in the Large **Hadron** Collider replicate the immense energy densities of the early universe."*

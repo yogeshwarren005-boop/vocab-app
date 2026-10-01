@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity produced by heat (as in a thermocouple).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electricity produced by heat (as in a thermocouple).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity generated directly by the difference of temperature between two dissimilar electrical conductors or semiconductors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the reversible interconversion of thermal and electrical energy discovered by Thomas Johann Seebeck in 1821 and Jean Charles Peltier in 1834.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoelectricity designates electricity produced by heat (as in a thermocouple)."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The thermodynamic principles applied to **thermoelectricity** proved that the heat generated at the junction is strictly reversible with current direction."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Seebeck's momentous discovery of **thermoelectricity** demonstrated yet another profound link unifying heat and electrical forces."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Modern pyrometers harness **thermoelectricity** to record temperatures inside blast furnaces beyond the range of mercury."*

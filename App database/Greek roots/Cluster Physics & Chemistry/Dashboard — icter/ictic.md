@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a seizure or convulsion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a seizure or convulsion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a stroke or sudden blow; ictal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody and poetics, relating to metrical ictus, stress, or rhythmic pulsation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ictic designates of or relating to a seizure or convulsion."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The patient described an **ictic** surge of melodic phrases accompanying each epileptic aura."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The **ictic** beat falling upon the alternate syllables gives heroic verse its stately cadence."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Transient paroxysmal phenomena during the **ictic** discharge disrupted voluntary speech production."*

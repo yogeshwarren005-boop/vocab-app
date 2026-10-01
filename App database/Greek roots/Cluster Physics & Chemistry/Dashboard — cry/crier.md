@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who weeps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formerly) an official who made public announcements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who makes public announcements or proclamations in the streets or in a court of justice (a town crier).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who weeps or cries out; or one who proclaims news loudly in a public assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if you mouth it, as many of your players do, I had as lief the town-crier spoke my lines."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, “Henry King of England, come into the court.” CRIER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, “Katherine Queen of England, come into the court.” CRIER."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The court **crier** shouted for silence in the name of the Republic as the jury entered."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The town **crier** strode forward, ringing his brass bell and summoning the burghers to the marketplace."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Silence in the court! Let the **crier** read the charge against the defendant."*

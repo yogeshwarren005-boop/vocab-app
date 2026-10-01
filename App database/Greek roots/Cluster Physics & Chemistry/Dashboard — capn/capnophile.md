@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of smoke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of smoke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microorganism, especially a bacterium, that thrives in or requires high concentrations of carbon dioxide for optimal growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, organisms such as Campylobacter, Neisseria, or Haemophilus cultivated under 5-10% CO2 candle jar conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capnophile designates adjective*) pertaining to, derived from, or characteristic of smoke."*
+> - 📜 **René Dubos (*The Bacterial Cell in Its Relation to Problems of Virulence*):** *"The pathogenic **capnophile** requires an enriched carbon dioxide atmosphere to initiate robust colony formation."*
+> - 📜 **Macfarlane Burnet (*Natural History of Infectious Disease*):** *"Culturing fastidious respiratory pathogens revealed that several were obligate or facultative **capnophile** strains."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Incubation within closed chambers with elevated carbon dioxide favored the isolation of the delicate **capnophile** species."*

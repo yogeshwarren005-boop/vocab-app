@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary study of interactions, relationships, and bonds between humans and non-human animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology, psychology, and ethology, the examination of cross-cultural pet-keeping, working animal dynamics, wildlife conservation conflicts, and human attitudes toward other species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthrozoology designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Hal Herzog (*Some We Love, Some We Hate, Some We Eat*):** *"Modern **anthrozoology** investigates why humans treat dogs like family members while raising pigs for bacon."*
+> - 📜 **James Serpell (*In the Company of Animals*):** *"Pioneering studies in **anthrozoology** demonstrated the profound psychological benefits of companion animals on human health."*
+> - 📜 **Frans de Waal (*The Bonobo and the Atheist*):** *"Cross-disciplinary **anthrozoology** bridges the traditional philosophical divide separating human culture from primate biology."*

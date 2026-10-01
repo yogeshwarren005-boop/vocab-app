@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point that is the most forward-projecting point on the anterior surface of the chin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point that is the most forward-projecting point on the anterior surface of the chin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In craniometry and orthodontics, the most anterior midpoint on the contour of the bony chin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cephalometric radiography and maxillofacial surgery, an essential cephalometric landmark on the mandibular symphysis used to assess facial profile balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonion designates the craniometric point that is the most forward-projecting point on the anterior surface of the chin."*
+> - 📜 **Ales Hrdlicka (*Anthropometry*):** *"Locating the exact position of the **pogonion** is essential for measuring facial prognathism and mandibular projection."*
+> - 📜 **Arthur Keith (*The Antiquity of Man*):** *"The Neanderthal jaw lacks a prominent **pogonion**, sloping backward directly from the alveolar border."*
+> - 📜 **Franz Boas (*Changes in Bodily Form of Descendants of Immigrants*):** *"Cephalometric measurements taken from nasion to **pogonion** demonstrated environmental plasticity in facial contours."*

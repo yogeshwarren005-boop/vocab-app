@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stomat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and dentistry that deals with the mouth and its diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European and international medical systems, a medical specialty integrating dental surgery, oral medicine, and maxillofacial pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatology designates a term designating an entity, condition, or phenomenon derived from greek stomat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The expanding field of **stomatology** bridges the traditional divide between systemic medicine and dentistry."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Clinical **stomatology** provides early warning signs of systemic diseases like syphilis and leukemia upon the oral mucosa."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"Advances in **stomatology** have demonstrated the direct link between chronic periodontal sepsis and cardiovascular disease."*

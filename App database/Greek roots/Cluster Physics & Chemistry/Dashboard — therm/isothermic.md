@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an isotherm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an isotherm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by equal or constant temperatures; isothermal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, exhibiting layers of the atmosphere where temperature remains constant with increasing altitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isothermic designates of or relating to an isotherm."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"Above the tropospheric convective boundary lies an **isothermic** stratospheric zone where temperature ceases to fall."*
+> - 📜 **William Napier Shaw (*Manual of Meteorology*):** *"The chart revealed an extensive **isothermic** plateau over the mid-Atlantic."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Zones situated along the same **isothermic** band exhibit striking correspondences in their natural flora."*

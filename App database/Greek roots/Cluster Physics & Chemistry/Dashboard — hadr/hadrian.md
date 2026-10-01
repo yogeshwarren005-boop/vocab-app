@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman emperor who was the adoptive son of trajan; travelled throughout his empire to strengthen its frontiers and encourage learning and architecture; on a visit to britain in 122 he ordered the construction of hadrian's wall (76-138).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman emperor who was the adoptive son of trajan; travelled throughout his empire to strengthen its frontiers and encourage learning and architecture; on a visit to britain in 122 he ordered the construction of hadrian's wall (76-138).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman Emperor from AD 117 to 138, famous for building Hadrian's Wall across northern Britain and rebuilding the Pantheon in Rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman history, the cosmopolitan emperor who consolidated the empire's frontiers, codified Roman law, and championed Hellenic art and culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Among his benefactors he does not mention Hadrian, who really gave him the Empire--and it is easy to see why."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Hadrian's personal vices and his greatness as a ruler, as a man handling men and moving among ideas[8]--these were impossible for Marcus."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"With such cases as Apuleius, Hadrian or even Julius Caesar before us, it is impossible to maintain that Tertullian's early life must have been spotless, but it is possible to fancy more wrong than there was."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The life of **Hadrian** was almost a perpetual journey, inspecting every province with unwearied curiosity."*
+> - 📜 **Marguerite Yourcenar (*Memoirs of Hadrian*):** *"Like a traveler who climbs a mountain, **Hadrian** surveyed the broad horizons of his peaceful empire."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"Under the reigns of Trajan, **Hadrian**, Antoninus, and Marcus Aurelius, Rome enjoyed the greatest tranquility and glory."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with itch mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation with itch mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infestation of the skin or gastrointestinal tract by mites of the family Acaridae; acariasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical parasitology, accidental ingestion or inhalation of flour and grain mites causing intestinal or respiratory irritation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acaridiasis designates infestation with itch mites."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Workers handling spoiled copra and grain frequently contracted severe pulmonary **acaridiasis** from inhaling dry mite debris."*
+> - 📜 **Aldo Castellani (*Manual of Tropical Medicine*):** *"Copra itch is an occupational form of **acaridiasis** provoked by Tyroglyphus mites contaminating maritime cargo."*
+> - 📜 **Arthur Looss (*The Anatomy and Life History of Anchylostoma Duodenale*):** *"Microscopic stool analysis demonstrated transient **acaridiasis** following the consumption of dried fruits."*

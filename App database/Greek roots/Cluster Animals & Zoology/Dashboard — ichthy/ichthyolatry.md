@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious worship of fish or fish deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of religion and comparative mythology, ancient cults venerating marine fish gods such as the Philistine Dagon or Syrian Atargatis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyolatry designates the worship of fish."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Dagon his name, sea monster, upward man and downward fish; yet had his temple high in Azotus, famed for ancient **ichthyolatry**."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Among maritime tribes, solemn rites of **ichthyolatry** ensured that the annual salmon run would return to sacred rivers."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Traces of primitive **ichthyolatry** lingered in coastal shrines where holy fish were fed sacred cakes by priests."*

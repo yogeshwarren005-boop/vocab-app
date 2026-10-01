@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrest of bleeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrest of bleeding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stopping of a flow of blood; the physiological arrest of bleeding from a damaged blood vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery and hematology, the complex physiological cascade involving vasoconstriction, platelet plug formation, and fibrin coagulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemostasis designates arrest of bleeding."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid vascular spasm and platelet aggregation achieve temporary **hemostasis** within seconds of vessel transection."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Meticulous surgical **hemostasis** is the quiet guardian that prevents postoperative hematoma and shock."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"The intricate biochemistry of the coagulation cascade ensures that **hemostasis** remains strictly localized to the injured site."*

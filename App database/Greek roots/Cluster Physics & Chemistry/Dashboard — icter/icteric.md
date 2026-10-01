@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with jaundice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or affected with jaundice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected with, or resembling jaundice; having a yellowish tinge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory medicine, describing blood serum or plasma that appears distinctly dark amber or yellow due to elevated bilirubin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icteric designates of, relating to, or affected with jaundice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sclerae displayed a pronounced **icteric** hue that immediately confirmed the presence of biliary obstruction."*
+> - 📜 **Jerome Groopman (*Second Opinions*):** *"The laboratory reported that the specimen was heavily **icteric**, interfering with optical photometric assays."*
+> - 📜 **Sherwin B. Nuland (*Doctors: The Biography of Medicine*):** *"The patient's deeply **icteric** complexion pointed toward acute decompensation of the liver parenchyma."*

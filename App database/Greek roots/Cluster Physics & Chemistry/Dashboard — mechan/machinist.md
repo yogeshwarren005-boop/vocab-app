@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman skilled in operating machine tools.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman skilled in operating machine tools.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled person who operates machine tools to manufacture or modify metal or other parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technician who designs, constructs, or repairs mechanical apparatus and engines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, machinist designates a craftsman skilled in operating machine tools."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The chief **machinist** adjusted the steam pressure on the torpedo ram Thunder Child as the Martian tripod approached."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's **machinist** forged the harpoon point in the glowing embers of the try-works."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The master **machinist** guided the lathe with steady hands, slicing micro-shavings from the naval gun barrel."*

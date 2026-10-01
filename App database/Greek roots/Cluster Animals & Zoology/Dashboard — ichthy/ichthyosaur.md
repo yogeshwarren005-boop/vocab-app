@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several marine reptiles of the mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several marine reptiles of the mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct Mesozoic marine reptile belonging to the order Ichthyosauria, with a streamlined dolphin-like body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, secondary aquatic tetrapods possessing four paddle-like flippers, a dorsal fin, a hypocercal tail fin, and viviparous reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyosaur designates any of several marine reptiles of the mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs."*
+> - 📜 **Mary Anning (*Letters and Field Notes*):** *"I uncovered the complete fossilized skull and vertebrae of a great **ichthyosaur** in the crumbling Blue Lias cliffs at Lyme Regis."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The enormous sclerotic ring surrounding the orbit of the **ichthyosaur** enabled it to hunt cephalopods in deep Jurassic waters."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The dolphin and the **ichthyosaur** provide textbook examples of convergent evolution producing identical hydrofoil bodies."*

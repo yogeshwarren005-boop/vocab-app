@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an isotherm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an isotherm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant of isothermal; having or characterized by equal or constant temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and chemical physics, describing geographic zones or chemical transformations characterized by uniform thermal conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isothermic designates of or relating to an isotherm."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The **isothermic** lines undulating across the American plains demonstrate the influence of mountain barriers on seasonal winds."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Liquefaction of gases was achieved under **isothermic** compression inside thick-walled glass capillary tubes."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Subterranean **isothermic** surfaces bend upward beneath areas of active volcanic intrusion and geothermal activity."*

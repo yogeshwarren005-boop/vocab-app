@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing magnetization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing magnetization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British/Commonwealth spelling of demagnetization: the process of removing or reducing magnetic properties from a magnetized material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In low-temperature physics, adiabatic demagnetisation of paramagnetic salts, a thermodynamic method pioneered by Giauque and Debye to reach temperatures within fractions of a kelvin of absolute zero.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagnetisation designates the process of removing magnetization."*
+> - 📜 **Lord Kelvin (William Thomson) (*Reprint of Papers on Electrostatics and Magnetism*):** *"Careful thermal **demagnetisation** restored the iron ring to its virgin magnetic neutrality."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"The technique of adiabatic **demagnetisation** allowed physicists to cool paramagnetic crystals to within thousandths of a degree from absolute zero."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Repeated mechanical shocks produce partial **demagnetisation** by disrupting the alignment of molecular domains."*

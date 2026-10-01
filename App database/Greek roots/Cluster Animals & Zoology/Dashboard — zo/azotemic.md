@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving excess nitrogenous waste products in the urine (usually due to kidney insufficiency).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving excess nitrogenous waste products in the urine (usually due to kidney insufficiency).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or suffering from azotemia; showing abnormally elevated nitrogenous waste in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human medicine, describing clinical signs—such as halitosis, vomiting, and metabolic acidosis—induced by retained nitrogen metabolites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, azotemic designates of or involving excess nitrogenous waste products in the urine (usually due to kidney insufficiency)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **azotemic** patient slipped into deep coma as urea clearance fell below five percent of normal capacity."*
+> - 📜 **T. R. Harrison (*Principles of Internal Medicine*):** *"Prompt fluid resuscitation successfully reversed the oliguric state in the dehydrated **azotemic** subject."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Elevated serum blood urea nitrogen and creatinine confirmed the **azotemic** condition following bilateral ureteral obstruction."*

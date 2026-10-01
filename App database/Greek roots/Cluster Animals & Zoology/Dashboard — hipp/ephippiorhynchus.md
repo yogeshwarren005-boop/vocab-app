@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Saddlebills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saddlebills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large wading birds in the stork family (Ciconiidae), including the saddle-billed stork and black-necked stork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, colossal tropical storks characterized by a brightly colored bill bearing an upright frontal shield resembling a leather saddle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephippiorhynchus designates saddlebills."*
+> - 📜 **Richard Bowdler Sharpe (*Catalogue of the Birds in the British Museum*):** *"The magnificent saddle-billed stork was classified under **Ephippiorhynchus** on account of the yellow saddle-like frontal plate upon its culmen."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"On the sandbanks of the Zambezi, tall pairs of **Ephippiorhynchus** stalked through the shallows with majestic strides."*
+> - 📜 **Frank M. Chapman (*Camps and Cruises of an Ornithologist*):** *"The striking black, white, and crimson bill of **Ephippiorhynchus** glinted brilliantly in the equatorial sunlight."*

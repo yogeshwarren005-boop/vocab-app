@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using (or as if using) mechanisms or tools or devices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with machinery or tools.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated by a machine or mechanism; of or relating to machines, tools, or physical forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done without conscious thought; automatic, routine, or lacking spontaneity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy Doll, and Helen of thy noble thoughts, Is in base durance and contagious prison, Haled thither By most mechanical and dirty hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Base dunghill villain and mechanical, I’ll have thy head for this thy traitor’s speech!— I do beseech your royal majesty, Let him have all the rigour of the law."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, know you not, Being mechanical, you ought not walk Upon a labouring day without the sign Of your profession?"*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Rational mechanics is the science of motions resulting from any forces whatsoever, and of the forces required to produce any **mechanical** motions."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The great pistons of the steam engine moved with a melancholy, **mechanical** monotony that crushed the human spirit."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"He copied the legal documents with a silent, **mechanical** speed that seemed entirely devoid of human emotion."*

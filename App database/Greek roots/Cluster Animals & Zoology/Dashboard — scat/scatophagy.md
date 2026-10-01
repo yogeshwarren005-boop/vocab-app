@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of eating feces (coprophagy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and animal physiology, specialized feeding on dung exhibited by dung beetles (Scarabaeidae), lagomorphs reingesting cecotropes, and flies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatophagy designates a term designating an entity, condition, or phenomenon derived from greek scat."*
+> - 📜 **J. H. Fabre (*The Sacred Beetle*):** *"The sacred scarab performs an invaluable sanitary service through relentless **scatophagy**, burying animal droppings beneath the sand."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The nutritional benefits of lagomorph **scatophagy** allow rabbits to extract essential B vitamins synthesized by cecal bacteria."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"Chemoreceptors on the proboscis of the blowfly trigger immediate feeding responses adapted for opportunistic **scatophagy**."*

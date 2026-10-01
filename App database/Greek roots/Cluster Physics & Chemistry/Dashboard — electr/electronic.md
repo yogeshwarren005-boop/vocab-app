@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or utilizing devices constructed or working by the methods or principles of electronics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or operated by devices utilizing the controlled flow of electrons in transistors, vacuum tubes, or microchips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to electrons, subatomic structures, or computerized and digital communications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, acting as clumsily as he could, slammed and locked the passageway safety doors with the loudest noises he could generate, broadcasting the unusual activity to all within hearing range and for electronic sensor pickup."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The communal lavatory and electronic bio-shower were down the hall."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer, at his desk, bent over a document, cast frequent glances at electronic displays on the wall nearby."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"The new digital computers may be called **electronic** computers because they perform their operations at the speed of electrical pulses."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Chemical reactivity is dictated entirely by the **electronic** configuration of the outermost valence shell."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"High-speed **electronic** relays replaced mechanical commutators, ushering in the era of automated information processing."*

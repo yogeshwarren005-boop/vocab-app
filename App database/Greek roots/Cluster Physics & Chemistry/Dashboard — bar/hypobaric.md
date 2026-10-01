@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of weight , pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of weight , pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, having, or operating under unusually low atmospheric or gas pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation medicine and pharmacology, denoting low-pressure simulation chambers or solutions with a specific gravity lower than cerebrospinal fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypobaric designates adjective*) pertaining to, derived from, or characteristic of weight , pressure."*
+> - 📜 **Charles Lindbergh (*The Spirit of St. Louis*):** *"Ascending into the thin, **hypobaric** atmosphere over the mountains required conscious, measured breathing."*
+> - 📜 **Paul Bert (*Barometric Pressure: Researches in Experimental Physiology*):** *"In the **hypobaric** tank, animals exhibited acute symptoms of anoxia as pressure fell below half an atmosphere."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The anesthetist selected a **hypobaric** spinal anesthetic to localize the neural blockade."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an organism living at a high temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an organism living at a high temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thriving at relatively high temperatures; heat-loving (especially of microorganisms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology, describing bacteria and archaea whose optimal growth temperature is between 45 and 80 degrees Celsius, found in compost heaps and hot springs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermophilic designates of, relating to, or being an organism living at a high temperature."*
+> - 📜 **Thomas D. Brock (*Life at High Temperatures*):** *"The isolation of **thermophilic** bacteria from Yellowstone hot springs proved that enzymatic machinery can remain active near boiling temperatures."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"DNA polymerases isolated from **thermophilic** organisms provided the indispensable tool for the polymerase chain reaction."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Decomposition of steaming manure heaps is driven by vigorous blooms of specialized **thermophilic** actinomycetes."*

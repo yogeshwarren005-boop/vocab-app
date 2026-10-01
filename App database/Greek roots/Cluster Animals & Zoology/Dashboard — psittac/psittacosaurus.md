@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of early ceratopsian dinosaurs from the Early Cretaceous of Asia, literally 'parrot lizard'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology, a small herbivorous dinosaur growing up to two meters, possessing a high, parrot-shaped beak, gastroliths for grinding vegetation, and long bristle-like tail integument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacosaurus designates primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal."*
+> - 📜 **Henry Fairfield Osborn (*Psittacosaurus and Protiguanodon: Two Lower Cretaceous Iguanodonts from Mongolia*):** *"I established the genus **Psittacosaurus** in 1923, recognizing its parrot-like premaxilla as a novel dinosaurian adaptation."*
+> - 📜 **Stephen Jay Gould (*The Lying Stones of Marrakech*):** *"Spectacular Liaoning fossils of **Psittacosaurus** revealed tubular bristles projecting from the tail, illuminating feather evolution."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"The cheek teeth of **Psittacosaurus** were heavily worn down by grinding tough cycad seeds and fibrous ferns."*

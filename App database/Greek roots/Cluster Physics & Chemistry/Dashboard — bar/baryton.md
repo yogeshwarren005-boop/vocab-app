@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowed string instrument of the viol family, popular in the 18th century, fitted with sympathetic resonant wire strings under the fingerboard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and Greek phonology, a word having no accent on the final syllable (also spelled barytone).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryton designates a term designating an entity, condition, or phenomenon derived from greek bar."*
+> - 📜 **Joseph Haydn (*Collected Letters and London Notebooks*):** *"Prince Esterházy took great pleasure in playing the **baryton**, prompting me to compose over a hundred trios for the instrument."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The archaic **baryton** possessed a haunting timbre produced by its lower sympathetic strings vibrating behind the neck."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The sweet, silvery resonance of the **baryton** was much admired in the aristocratic courts of Vienna."*

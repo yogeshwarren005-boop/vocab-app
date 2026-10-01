@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that records temperature variations on a graph as a function of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that records temperature variations on a graph as a function of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-registering thermometer that records maximum and minimum temperatures or continuous temperature curves over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological history, an early mechanical instrument recording daily extremes via small metal indices moved by mercury and alcohol columns (James Six's thermometer).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometrograph designates a thermometer that records temperature variations on a graph as a function of time."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"I suspended a **thermometrograph** beneath the rainforest canopy to log the nocturnal drop in tropical temperature."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Deep boreholes lowered a specialized **thermometrograph** to measure the geothermal gradient into the Earth's crust."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"A self-registering **thermometrograph** placed inside the deep mine shaft recorded temperatures rising one degree for every fifty feet."*

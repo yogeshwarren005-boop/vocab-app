@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lesser pandas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lesser pandas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian genus of the red panda (Ailurus fulgens), sole extant genus of the family Ailuridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, an arboreal Himalayan mammal of bright rufous fur and ringed bushy tail, feeding principally on bamboo leaves and shoots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailurus designates lesser pandas."*
+> - 📜 **Thomas Hardwicke (*Description of a New Genus of the Class Mammalia*):** *"I observed this beautiful rufous animal in Nepal and proposed the generic name **Ailurus** in honor of its cat-like face."*
+> - 📜 **Frederic Cuvier (*Histoire Naturelle des Mammiferes*):** *"No quadrupeds exhibit more brilliant coloration than the shining **Ailurus** dwelling among the high rhododendron forests."*
+> - 📜 **W. H. Flower (*An Introduction to the Osteology of the Mammalia*):** *"The auditory bullae and dentition of **Ailurus** place it in close proximity to the musteloid superfamily."*

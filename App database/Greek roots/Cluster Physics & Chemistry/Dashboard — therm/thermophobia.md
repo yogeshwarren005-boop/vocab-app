@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek therm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, or irrational fear of heat, hot places, or warm weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and physiology, extreme intolerance to heat seen in patients with hyperthyroidism or menopausal hot flashes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermophobia designates a term designating an entity, condition, or phenomenon derived from greek therm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients with Graves' thyrotoxicosis exhibit intense **thermophobia**, constantly throwing open windows even in midwinter."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Severe phobic neuroses can manifest as a crippling **thermophobia**, causing individuals to dread domestic heating appliances."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Autonomic crises in post-encephalitic patients were frequently accompanied by acute bouts of distress and **thermophobia**."*

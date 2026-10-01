@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek capn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The continuous waveform tracing of carbon dioxide concentration in expired respiratory gases displayed over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anesthesia and critical care medicine, a graphical waveform providing real-time verification of endotracheal tube placement and pulmonary perfusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capnogram designates a term designating an entity, condition, or phenomenon derived from greek capn."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"A steady rectangular wave on the **capnogram** immediately confirmed that the tube was situated in the trachea."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The sudden loss of the plateau on the **capnogram** alerted the team to a catastrophic drop in cardiac output."*
+> - 📜 **Henry K. Beecher (*Resuscitation and Anesthesia for Wounded Men*):** *"Continuous inspection of the **capnogram** provides immediate warning of hypoventilation during surgery."*

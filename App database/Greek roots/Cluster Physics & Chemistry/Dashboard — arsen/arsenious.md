@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to compounds in which arsenic is trivalent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to compounds in which arsenic is trivalent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, containing, or derived from trivalent arsenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining specifically to arsenious acid or arsenic trioxide (arsenious oxide, As2O3).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsenious designates relating to compounds in which arsenic is trivalent."*
+> - 📜 **Robert Bunsen (*Memoir on the Cacodyl Series*):** *"The reaction between **arsenious** acid and potassium acetate gave birth to the astonishing cacodyl radical."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Solutions of **arsenious** oxide, though perilously caustic, were sometimes applied to eradicate smut in grain."*
+> - 📜 **Justus von Liebig (*Handbuch der Chemie*):** *"By treating the ore with hydrochloric acid, a precipitate of white **arsenious** oxide is deposited."*

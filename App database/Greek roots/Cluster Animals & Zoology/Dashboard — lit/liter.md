@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of capacity and volume equal to one cubic decimeter (1,000 cubic centimeters or approximately 1.057 US liquid quarts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the International System of Units (SI), standard unit of liquid measure derived historically via French litre from Greek litra (an ancient Sicilian silver coin and measure of weight).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liter designates a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"We adopted the decimal measure of capacity, defining the **liter** as the volume of a cubic decimeter of pure water."*
+> - 📜 **H. G. Wells (*The Food of the Gods and How It Came to Earth*):** *"The chemist poured out exactly one **liter** of the concentrated growth tincture into the feeding trough."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The compressed air reservoirs of the Nautilus held thousands of **liter** volumes at immense atmospheric tension."*

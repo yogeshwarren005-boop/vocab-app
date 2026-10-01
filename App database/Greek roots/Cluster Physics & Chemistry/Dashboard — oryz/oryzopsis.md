@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rice grass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rice grass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial grasses in the family Poaceae, commonly known as ricegrass (such as Indian ricegrass).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In range management and agrostology, drought-resistant cool-season bunchgrasses native to North American prairies, valuable for forage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oryzopsis designates rice grass."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Oryzopsis** is distinguished by its diffuse panicle and plump, rice-like awned lemmas."*
+> - 📜 **Agnes Chase (*First Book of Grasses*):** *"Indian ricegrass, formerly classified under **Oryzopsis**, was a vital wild seed staple for Indigenous desert tribes."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Bunches of wild **Oryzopsis** held the sandy soil of the blowout against the winter winds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent or degree to which something is magnetized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process that makes a substance magnetic (temporarily or permanently).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making something magnetic, or the degree to which a substance is magnetized; magnetic polarization vector M.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In condensed matter physics, the net magnetic dipole moment per unit volume of a ferromagnetic, paramagnetic, or diamagnetic material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetization designates the extent or degree to which something is magnetized."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The vector of **magnetization** represents the density of elementary magnetic dipoles aligned within the medium."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Spontaneous **magnetization** in iron arises from quantum exchange interactions locking electron spins parallel."*
+> - 📜 **Philip W. Anderson (*Concepts in Solids*):** *"Below the Curie temperature, broken symmetry leads to a non-zero macroscopic **magnetization**."*

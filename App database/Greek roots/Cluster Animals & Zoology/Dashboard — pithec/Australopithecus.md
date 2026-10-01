@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pithec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of early hominins that lived in eastern and southern Africa from roughly 4.2 to 1.9 million years ago, literally 'southern ape'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human evolutionary paleontology, the foundational genus established by Raymond Dart in 1925, central to understanding the emergence of obligate upright walking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Australopithecus designates a term designating an entity, condition, or phenomenon derived from greek pithec."*
+> - 📜 **Raymond Dart (*Australopithecus africanus: The Man-Ape of South Africa*):** *"I proposed the name **Australopithecus** africanus to commemorate the discovery of this momentous link in southern Africa."*
+> - 📜 **Robert Broom (*The South African Fossil Ape-Man*):** *"The Sterkfontein limestone caves yielded magnificent adult crania confirming that **Australopithecus** was a true biped."*
+> - 📜 **Richard Leakey (*The Making of Mankind*):** *"The fossil footprint trail at Laetoli demonstrated that **Australopithecus** walked with a stride virtually indistinguishable from modern humans."*

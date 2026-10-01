@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: React with bromine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat with bromine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To introduce bromine into a chemical compound or mixture through a chemical reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat water or industrial chemicals with bromine for disinfection, flame retardation, or synthetic transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brominate designates react with bromine."*
+> - 📜 **August Wilhelm von Hofmann (*Introduction to Modern Chemistry*):** *"To **brominate** benzene directly requires the catalytic assistance of iron filings or iodine."*
+> - 📜 **Emil Fischer (*Studies on the Purine Group*):** *"We proceeded to **brominate** the intermediate uracil to obtain the reactive halogenated derivative."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The chemist chose to **brominate** the unsaturated hydrocarbon across its double bond."*

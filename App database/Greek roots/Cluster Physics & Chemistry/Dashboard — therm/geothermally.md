@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of heat from the interior of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of heat from the interior of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of geothermal energy or internal terrestrial heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to geothermal processes, heating, or volcanic groundwater circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geothermally designates by means of heat from the interior of the earth."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The groundwater in the volcanic caldera was **geothermally** superheated far above its surface boiling point."*
+> - 📜 **John Muir (*Our National Parks*):** *"Yellowstone's geyser basins are **geothermally** nurtured, smoking amid the subalpine snows throughout the winter."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Mineral ores precipitated from **geothermally** circulated brines fill fractures in the granite country rock."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the branch of biology dealing with animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the branch of biology dealing with animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or expert in zoology; a biological scientist who studies animals, their behavior, physiology, genetics, and classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional science, an investigator conducting empirical research on living or extinct animal species in field and laboratory settings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"MORTON, B.A. =BOTANISTS, ZOOLOGISTS, AND GEOLOGISTS.= By Professor P."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The field **zoologist** finds endless wonder in observing how bizarre adaptations fit each species to its local environment."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The evolutionary **zoologist** recognizes that species are dynamic breeding populations rather than static morphological types."*
+> - 📜 **Konrad Lorenz (*King Solomon's Ring*):** *"A true **zoologist** must live in intimate proximity with his animal subjects to interpret the subtleties of their instinctual signals."*

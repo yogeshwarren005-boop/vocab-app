@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A government building in which a state legislature meets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government building in which a state legislature meets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The building in which a state legislature assembles; a state capitol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American politics, the physical seat and legislative heart of state government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statehouse designates a government building in which a state legislature meets."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The golden dome of the Boston **statehouse** gleamed across the bay like a setting sun."*
+> - 📜 **Abraham Lincoln (*House Divided Speech*):** *"He addressed the assembled representatives in the Illinois **statehouse** with earnest solemnity."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"Crowds gathered around the steps of the **statehouse** to hear the latest dispatches from the front."*

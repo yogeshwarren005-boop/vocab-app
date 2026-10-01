@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to statute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to statute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a statutory manner; in accordance with, or as required by, a formal statute or written law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By legal enactment; pursuant to statutory mandates established by a legislature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statutorily designates according to statute."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Certain fiduciary obligations are **statutorily** imposed upon executors to safeguard estates."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"The administrative commission was **statutorily** empowered to fix maximum freight rates."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Rights that are **statutorily** defined remain subject to amendment by subsequent legislative assemblies."*

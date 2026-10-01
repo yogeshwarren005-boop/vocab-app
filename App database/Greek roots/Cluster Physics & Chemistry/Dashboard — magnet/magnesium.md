@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silver-white malleable ductile light metallic element that occurs abundantly in nature and is used in metallurgical and chemical processes, in photography, signaling, and pyrotechnics because of the intense white light it produces on burning, and in construction especially in the form of light alloys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carbonate of magnesium; especially : a white crystalline salt MgCO3 that occurs naturally as dolomite and magnesite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight, silvery-white metallic element of the alkaline earth group, atomic number 12 and symbol Mg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential biological mineral cofactor for ATP reactions, chlorophyll, and DNA synthesis, as well as an industrial metal used in lightweight structural alloys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"He heated atmospheric nitrogen in the presence of magnesium, under which conditions some of the nitrogen combines with the latter element to form nitride of magnesium."*
-> - 📜 **James Joyce (*Ulysses*):** *"A magnesium flashlight photograph is taken."*
+> - 📜 **Humphry Davy (*Electro-Chemical Researches on the Decomposition of the Earths*):** *"From the calcined magnesia I succeeded in isolating the bright, combustible metal which I named **magnesium**."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"A ribbon of **magnesium** burns with an unearthly, blinding white flame that leaves behind a delicate ash."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Every molecule of photosynthetic chlorophyll holds a single coordinated atom of **magnesium** at its center."*

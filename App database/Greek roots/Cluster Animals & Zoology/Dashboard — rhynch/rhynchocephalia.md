@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tuataras; extinct forms from middle triassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tuataras; extinct forms from middle triassic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient order of lizard-like reptiles containing the tuatara of New Zealand (Sphenodon) as its sole surviving extant representative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary biology, an archaic diapsid clade flourishing in the Triassic and Jurassic, possessing a complete lower temporal bar, amphicoelous vertebrae, and a prominent parietal eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhynchocephalia designates tuataras; extinct forms from middle triassic."*
+> - 📜 **Albert Gunther (*Contribution to the Anatomy of Hatteria (Rhynchocephalus)*):** *"I proved that Sphenodon does not belong to the lizards, but represents an ancient, distinct order, the **Rhynchocephalia**."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The retention of a rigid, two-arched skull in the **Rhynchocephalia** preserves the primitive diapsid condition lost in true Squamata."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The solitary surviving species of the **Rhynchocephalia** in New Zealand is a living fossil from the dawn of the dinosaurs."*

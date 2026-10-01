@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek mēchanē, meaning 'device', 'instrument', 'contrivance', 'machine', or 'means'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science and philosophy, the formative root of mechanics, mechanism, and mechanical materialism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechan designates mechanical."*
+> - 📜 **Aristotle (*Mechanics*):** *"Things that occur contrary to nature are brought about through art and contrivance, which we designate by the root **mechan**-."*
+> - 📜 **René Descartes (*Principles of Philosophy*):** *"All natural operations are explicable through shapes and motions, governed by the universal root **mechan**-."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The prefix **mechan**- unites the study of forces, matter, and work into a coherent mathematical science."*

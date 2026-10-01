@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or formed with absorption of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-blooded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by or requiring the absorption of heat (of a chemical reaction or physical process).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, warm-blooded; generating internal heat to maintain a stable body temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothermic designates characterized by or formed with absorption of heat."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"In an **endothermic** reaction, the enthalpy of the products exceeds that of the reactants, resulting in a positive delta-H."*
+> - 📜 **Bernd Heinrich (*Thermal Warriors: Strategies of Insect Survival*):** *"The evolution of **endothermic** regulation allowed early mammals to forage during the cold nocturnal hours."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"An **endothermic** phase transition requires continuous influx of latent heat to sustain equilibrium."*

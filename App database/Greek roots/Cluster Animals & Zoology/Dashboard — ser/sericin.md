@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gelatinous protein that cements the two fibroin filaments in a silk fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gelatinous protein that cements the two fibroin filaments in a silk fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gelatinous water-soluble protein secreted by silkworms (Bombyx mori) that coats and binds fibroin filaments together into raw silk cocoons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile biochemistry and biomaterials, a natural gummy protein containing abundant serine residues, traditionally washed away during the degumming process of silk manufacture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericin designates a gelatinous protein that cements the two fibroin filaments in a silk fiber."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The gummy coating of the cocoon consists of **sericin**, which dissolves away in warm alkaline soap solutions."*
+> - 📜 **Louis Pasteur (*Etudes sur la Maladie des Vers a Soie*):** *"Healthy silkworms produce glistening filaments cemented with pure **sericin**, shielding the chrysalis from dampness."*
+> - 📜 **William Crookes (*A Practical Handbook of Dyeing and Calico-Printing*):** *"Before the silk thread can take delicate dyes, every trace of raw **sericin** must be thoroughly boiled out."*

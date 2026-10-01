@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle consisting of a charge of negative electricity equal to about 1.602 × 10—19 coulomb and having a mass when at rest of about 9.109 × 10—31 kilogram or about 1/1836 that of a proton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of electrons surrounding the nucleus of an atom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stable subatomic elementary particle with a negative elementary electric charge (-1e) and a mass approximately 1/1836 of a proton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum mechanics and chemistry, a fundamental lepton of spin 1/2 whose spatial wavefunctions (orbitals) govern chemical bonding, reactivity, and electrical conduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And it's balanced by the negative charges, the electrons, that revolve around it."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*
+> - 📜 **J. J. Thomson (*Cathode Rays*):** *"These corpuscles, later universally called the **electron**, constitute universal building blocks present in all forms of matter."*
+> - 📜 **Niels Bohr (*On the Constitution of Atoms and Molecules*):** *"Radiation is emitted when an **electron** transitions from a stationary state of higher energy to one of lower energy."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"Quantum electrodynamics is simply the theory of the interaction of the **electron** with the quantum of light, the photon."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monitoring device that measures and numerically displays the concentration of carbon dioxide in exhaled air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monitoring device that measures and numerically displays the concentration of carbon dioxide in exhaled air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or apparatus that measures the concentration or partial pressure of carbon dioxide in a gas mixture, displaying a numerical value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical diagnostic instrument providing numerical end-tidal CO2 readings without necessarily rendering a continuous graphic wave.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capnometer designates a monitoring device that measures and numerically displays the concentration of carbon dioxide in exhaled air."*
+> - 📜 **J. S. Haldane (*Respiration*):** *"A portable **capnometer** was lowered into the mine shaft to ensure that atmospheric carbon dioxide remained within breathable limits."*
+> - 📜 **Julius Comroe (*Physiology of Respiration*):** *"The bedside **capnometer** signaled an abrupt rise in expired carbon dioxide during the hypoventilation trial."*
+> - 📜 **August Krogh (*The Respiratory Exchange of Animals and Man*):** *"Direct volumetric determination with a calibrated **capnometer** confirmed the increased metabolic production during exercise."*

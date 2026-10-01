@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to statistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to statistics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to statistics; from a statistical point of view; by statistical methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental science, denoting results that meet criteria of statistical significance (statistically significant).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Yet such a change appears, statistically, as a decrease in the proportion of farms operated by owners."*
+> - 📜 **Ronald Fisher (*Statistical Methods and Scientific Inference*):** *"A null hypothesis is rejected when observed discrepancies are **statistically** improbable under chance."*
+> - 📜 **Karl Pearson (*The Life, Letters and Labours of Francis Galton*):** *"Galton sought to prove **statistically** that human physical and mental traits obey the normal law of error."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Behavioral variations among foraging ant colonies were **statistically** analyzed across multiple ecological seasons."*

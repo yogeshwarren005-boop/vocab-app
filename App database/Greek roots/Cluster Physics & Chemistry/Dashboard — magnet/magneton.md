@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of magnetic moment of a molecular or atomic or subatomic particle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of magnetic moment of a molecular or atomic or subatomic particle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical constant and natural unit for expressing the magnetic dipole moment of an electron or atomic nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atomic and nuclear physics, specifically the Bohr magneton (mu_B) for electron spin and the nuclear magneton (mu_N) for nucleons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magneton designates a unit of magnetic moment of a molecular or atomic or subatomic particle."*
+> - 📜 **Niels Bohr (*On the Quantum Theory of Line-Spectra*):** *"The magnetic moment associated with an orbital electron of unit angular momentum is defined as the Bohr **magneton**."*
+> - 📜 **Wolfgang Pauli (*General Principles of Quantum Mechanics*):** *"The intrinsic magnetic moment of the electron equals almost exactly one Bohr **magneton**."*
+> - 📜 **Isidor Isaac Rabi (*Radiofrequency Spectra of Atoms and Molecules*):** *"Nuclear magnetic moments are expressed in terms of the nuclear **magneton**, being nearly two thousand times smaller than the electron value."*

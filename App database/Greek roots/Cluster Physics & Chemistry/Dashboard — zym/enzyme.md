@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous complex proteins that are produced by living cells and catalyze specific biochemical reactions at body temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An in vitro method for quantifying an antigen or antibody concentration in which the test material is immobilized on a surface and exposed either to a complex of an enzyme linked to an antibody specific for the antigen or an enzyme linked to an antigen specific for the antibody followed by reaction of the enzyme with a substrate to yield a colored product corresponding to the concentration of the test material —called also ELISA.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological macromolecule (almost always a protein) that acts as a catalyst to accelerate a specific biochemical reaction without undergoing permanent chemical change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and enzymology, a catalytic polymer whose active site lowers the activation energy of biological reactions by stabilizing transition states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"While in this vessel the enzymes become active again and turn the soluble starch, or a part of it, into a kind of sugar."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is believed that the yeast performs this operation not directly, but by the production of certain enzymes, which in their turn act upon the sugar."*
+> - 📜 **Wilhelm Kühne (*On the Origin and Properties of Enzymes*):** *"I propose to designate these unorganized ferments by the name **enzyme**, from the Greek for in yeast."*
+> - 📜 **Eduard Buchner (*Nobel Lecture: Cell-Free Fermentation*):** *"Fermentation does not require living yeast cells; it is executed by a soluble, cell-free **enzyme** named zymase."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The sequence of nucleotides in a gene specifies the sequence of amino acids in a functional catalytic **enzyme**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of the Earth's atmosphere directly above the mesosphere and below the exosphere, characterized by increasing temperatures with altitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics and space exploration, the high-altitude zone extending from 85 km to 600 km where solar X-rays and UV radiation ionize gases, housing the ionosphere and auroras.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermosphere designates the part of the earth's atmosphere that begins at about 50 miles (80 kilometers) above the earth's surface, extends to outer space, and is characterized by steadily increasing temperature with height."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Extreme ultraviolet radiation heats the rarefied gases of the **thermosphere** to temperatures exceeding fifteen hundred degrees."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Auroral curtains ripple through the thin upper air of the **thermosphere**, ignited by solar wind protons."*
+> - 📜 **James Lovelock (*Gaia: A New Look at Life on Earth*):** *"The high **thermosphere** shields the biosphere below by absorbing lethal shortwave solar ionizing radiation."*

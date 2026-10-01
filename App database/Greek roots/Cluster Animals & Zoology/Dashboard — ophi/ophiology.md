@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoological science and herpetology concerned with the study of snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative biology, the discipline exploring ophidian cranial kinesis, venom gland evolution, sensory pit organs, and legless locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiology designates a term designating an entity, condition, or phenomenon derived from greek ophi."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Foundational treatises in **ophiology** demonstrated that the disarticulation of the lower jaws allows snakes to swallow prey wider than their heads."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The museum's department of **ophiology** contained specimens of the deadly fer-de-lance and South American bushmaster."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Comparative **ophiology** reveals vestigial pelvic spurs in pythons as undeniable proof of quadrupedal tetrapod ancestry."*

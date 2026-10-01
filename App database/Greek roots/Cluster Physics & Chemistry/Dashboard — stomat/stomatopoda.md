@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mantis shrimps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mantis shrimps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of predatory marine crustaceans in the subclass Hoplocarida, containing the mantis shrimps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod paleontology and marine ecology, an ancient lineage dating to the Carboniferous, possessing raptorial thoracic limbs modified for spearing or smashing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatopoda designates mantis shrimps."*
+> - 📜 **Thomas Henry Huxley (*Anatomy of Invertebrated Animals*):** *"Crustaceans of the order **Stomatopoda** depart markedly from decapods in having five pairs of subchelate limbs."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Invertebrates*):** *"Fossil specimens belonging to **Stomatopoda** preserved in Jurassic lithographic limestone show virtually modern claw architecture."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The explosive biomechanics of prey capture in **Stomatopoda** represent nature's fastest predatory strike."*

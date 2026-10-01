@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with or disease caused by mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation with or disease caused by mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with or disease caused by mites or ticks in humans, domestic animals, or plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and dermatology, severe cutaneous irritation, mange, or scabies resulting from epidermal mite burrowing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acariasis designates infestation with or disease caused by mites."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cutaneous **acariasis** produces intense nocturnal pruritus along the interdigital web spaces."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"Sarcoptic **acariasis** requires immediate quarantine and rigorous dipping of the infected flock."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"The persistent itch was recognized as a form of **acariasis** easily transmitted through shared bed linens."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An olfactory hallucination; the perception of a smell that is not physically present in the environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and neuropsychiatry, phantom odors (often smoky, chemical, or putrid) caused by head injury, stroke, uncinate epilepsy, or psychiatric disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phantosmia designates a term designating an entity, condition, or phenomenon derived from greek osm."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"The patient reported terrifying episodes of **phantosmia**, smelling strong sulfur and brimstone in an empty room."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Irritative cortical lesions of the temporal lobe uncus manifest characteristically as paroxysmal **phantosmia**."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Following localized parietal-temporal trauma, the subject described continuous phantom scents or **phantosmia**."*

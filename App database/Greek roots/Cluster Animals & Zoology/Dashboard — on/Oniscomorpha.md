@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superorder of millipedes commonly known as pill millipedes, capable of rolling into a tight protective sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myriapodology, short-bodied pentazonian millipedes possessing eleven to thirteen body segments and an enlarged shield-like pygidium, exhibiting convergent volvation with armadillidiid woodlice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oniscomorpha designates a term designating an entity, condition, or phenomenon derived from greek on."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"The millipedes of the group **Oniscomorpha** roll themselves into an impenetrable globular ball when molested."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The extraordinary resemblance between the **Oniscomorpha** and true pill bugs is a classic case of morphological convergence."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Tropical forests harbor giant species of **Oniscomorpha** that roll into balls as large as a billiard ball."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osmo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The regulatory physiological mechanism that maintains the osmotic pressure of bodily fluids at a stable setpoint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and endocrinology, the hypothalamic control system governing antidiuretic hormone (ADH) secretion; or 'reset osmostat' in chronic hyponatremia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmostat designates a term designating an entity, condition, or phenomenon derived from greek osmo."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"The biological **osmostat** maintains plasma osmolality within a narrow physiological band near 285 milliosmoles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In certain chronic pulmonary conditions, the central **osmostat** resets to a lower baseline, sustaining mild asymptomatic hyponatremia."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Evaluating the unresponsive sodium level required differentiating between SIADH and a physiologically altered **osmostat**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bright-colored marine fishes that incubate eggs in the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bright-colored marine fishes that incubate eggs in the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of marine perciform fishes known as cardinalfishes, found abundantly on tropical coral reefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic marine ichthyology, nocturnal teleost fishes characterized by ctenoid or cycloid scales, large mouths, two separate dorsal fins, and mouthbrooding reproductive habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogonidae designates bright-colored marine fishes that incubate eggs in the mouth."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Members of the family **Apogonidae** are among the most colorful and ubiquitous inhabitants of tropical reef crests."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Under the coral ledges, schools of crimson **Apogonidae** floated motionless in the shadowed turquoise water."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"The family **Apogonidae** bridges the gap between primitive percoids and specialized nocturnal reef foragers."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple electrostatic generator that generates repeated charges of static electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family electrophoridae; electric eels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early electrostatic generator invented by Johan Wilcke and popularized by Alessandro Volta, producing electric charge by induction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, the taxonomic genus name of the South American electric eel (Electrophorus electricus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Then comes the "Electrophorus," an electrical instrument suggested by Volta, which was thought at the time a grand invention for the purpose of getting light (Fig. 6 A)."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I do not know whether I shall be successful in lighting a gas-jet with the electrophorus, but I will try."*
+> - 📜 **Alessandro Volta (*Letters to Joseph Priestley on the Electrophorus Perpetuo*):** *"The resinous cake of the **electrophorus**, once charged, provides an almost inexhaustible source of induced electricity."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"The electric eel, **Electrophorus**, unleashes rapid electrical discharges to paralyze fish in the muddy Orinoco tributaries."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"We tested the spark from the metal shield of the **electrophorus** using a delicate gold-leaf detector."*

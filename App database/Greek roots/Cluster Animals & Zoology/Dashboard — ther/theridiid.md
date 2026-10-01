@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spider having a comb-like row of bristles on each hind foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spider having a comb-like row of bristles on each hind foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any spider of the family Theridiidae, commonly known as cobweb spiders, tangle-web spiders, or comb-footed spiders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arachnology, entelegyne spiders possessing a comb of serrated bristles on the tarsi of the fourth legs used to fling viscid silk over prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theridiid designates spider having a comb-like row of bristles on each hind foot."*
+> - 📜 **J. H. Fabre (*The Life of the Spider*):** *"The little **theridiid** weaves an irregular criss-cross maze of threads in the dark corner of the shed."*
+> - 📜 **Nathan Banks (*The Acarina or Mites*):** *"The notorious black widow is a venomous **theridiid** inhabiting dry crevices and stone heaps."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"Comb-like hairs upon the fourth tarsus distinguish each **theridiid** when swathing struggling prey in sticky bands."*

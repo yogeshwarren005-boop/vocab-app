@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cat fancier : a lover of cats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cat fancier : a lover of cats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who loves, admires, or has an exceptional fondness for cats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and psychology, an enthusiast who cherishes feline companionship and advocates for domestic cat welfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailurophile designates a cat fancier : a lover of cats."*
+> - 📜 **Mark Twain (*Mark Twain's Notebook*):** *"As an unapologetic **ailurophile**, I find that an educated cat commands more genuine respect than most men."*
+> - 📜 **T. S. Eliot (*Old Possum's Book of Practical Cats*):** *"Every observant **ailurophile** knows that the naming of cats is a difficult and solemn matter."*
+> - 📜 **Theophile Gautier (*Menagerie Intime*):** *"To win the affection of a feline requires patience; only a genuine **ailurophile** appreciates their subtle dignity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or being a rock fabric in which lath-shaped plagioclase crystals are enclosed in later formed augite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or being a rock fabric in which lath-shaped plagioclase crystals are enclosed in later formed augite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a microscopic rock texture in which laths of plagioclase feldspar are enclosed within larger pyroxene crystals; or relating to serpentine marble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and geology, a characteristic texture of diabases and dolerites indicative of rapid subvolcanic basaltic crystallization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophitic designates having or being a rock fabric in which lath-shaped plagioclase crystals are enclosed in later formed augite."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The dark trap dykes cut across the sandstone, displaying a distinct **ophitic** crystallization under polarized light."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The interlocking **ophitic** fabric of the Whin Sill dolerite gives the basaltic rock immense structural toughness."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"In thin section, the **ophitic** intergrowth of augite and labradorite characterizes the ancient plateau lavas."*

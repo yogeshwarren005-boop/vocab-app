@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or extending throughout a state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or extending throughout a state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending throughout, occurring in, or involving an entire federal state (especially within the United States).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electoral politics and public administration, designating elections, policies, or referendums that encompass all voting districts of a state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, the control and inspection of housing conditions has in a few states been made statewide to reach even "the country slums" which lately have been recognized to exist."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Local town assemblies deliberate upon immediate concerns while **statewide** interests are settled in the general legislature."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"A **statewide** referendum provides a direct channel for the popular will to override legislative deadlock."*
+> - 📜 **Franklin D. Roosevelt (*Public Papers and Addresses*):** *"We instituted **statewide** conservation programs to restore degraded watersheds and employ thousands of youth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 4th brightest star and the brightest star in the constellation bootes; 36 light-years from earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 4th brightest star and the brightest star in the constellation bootes; 36 light-years from earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright orange giant star in the constellation Bootes, the fourth-brightest star in the night sky (Greek 'guardian of the bear').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and observational astronomy, a K1.5 III giant star approximately 36.7 light-years distant, moving rapidly in the Arcturus stream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There’s Arcturus looking very bright.” “Yes, and the Bear."*
+> - 📜 **Hesiod (*Works and Days*):** *"When sixty days after the winter solstice Zeus has finished the days of winter, the bright star **Arcturus** leaves the ocean stream and rises first at dusk."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Halley was the first to detect proper motion in the fixed stars, discovering that **Arcturus** had shifted from its ancient coordinates."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"We watched bright **Arcturus** descending slowly through the branches of the pines over the dark river."*

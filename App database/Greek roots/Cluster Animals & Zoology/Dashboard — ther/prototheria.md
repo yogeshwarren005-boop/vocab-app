@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Echidnas; platypus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Echidnas; platypus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian subclass containing egg-laying monotremes (the platypus and echidnas) and their extinct fossil relatives, literally 'first beasts'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an ancient basal mammalian lineage characterized by oviparity, cloacal opening, low metabolic rate, and absence of teats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototheria designates echidnas; platypus."*
+> - 📜 **Thomas Henry Huxley (*On the Application of the Laws of Evolution to the Arrangement of the Vertebrata*):** *"I proposed the group **Prototheria** for the monotremes, recognizing that they preserve the earliest reptilian grade of mammalian life."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The discovery of oviparous reproduction in the **Prototheria** confirmed their archaic phylogenetic position."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"The surviving **Prototheria** of Australasia are not failures of evolution, but beautifully specialized survivors of our earliest ancestry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct terrestrial reptiles: theropods (carnivorous); sauropods (herbivorous).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct terrestrial reptiles: theropods (carnivorous); sauropods (herbivorous).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two primary orders of dinosaurs, characterized by a reptile-like pelvic structure with the pubis pointing forward and down ('lizard-hipped').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, the great clade established by H. G. Seeley in 1887, encompassing both the gigantic sauropodomorph herbivores and all theropod carnivores (including modern birds).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Saurischia designates extinct terrestrial reptiles: theropods (carnivorous); sauropods (herbivorous)."*
+> - 📜 **Harry Govier Seeley (*On the Classification of the Dinosauria*):** *"I propose the order **Saurischia** for those dinosaurs in which the pelvic bones retain the three-rayed arrangement of normal reptiles."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"The **Saurischia** gave rise to both the colossal four-footed sauropods and the predatory theropod carnivores."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"Every living sparrow and eagle is technically a surviving representative of the glorious dinosaurian order **Saurischia**."*

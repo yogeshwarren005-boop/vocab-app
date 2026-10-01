@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing on four feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Standing on four feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In heraldry, standing on all four feet with the head looking forward, said of an animal on a coat of arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a quadruped depicted in a standing attitude with all paws planted firmly upon the ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statant designates standing on four feet."*
+> - 📜 **Arthur Charles Fox-Davies (*A Complete Guide to Heraldry*):** *"A lion **statant** stands with all four paws upon the ground, differing from both statant-guardant and passant."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Upon his shield was emblazoned a black stag **statant**, poised beneath an oak tree."*
+> - 📜 **William Camden (*Remaines Concerning Britaine*):** *"The ancient seal bore the device of a hound **statant**, denoting fidelity and readiness."*

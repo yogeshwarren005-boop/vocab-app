@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ailur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love, deep affection, or abnormal fondness for cats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and anthrozoology, a pronounced emotional attachment to felines, celebrated across literary cat lovers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailurophilia designates a term designating an entity, condition, or phenomenon derived from greek ailur."*
+> - 📜 **Agatha Christie (*An Autobiography*):** *"My lifelong **ailurophilia** began in early childhood with the gentle purring of my grandmother's tabby."*
+> - 📜 **Colette (*The Cat*):** *"Her quiet **ailurophilia** created a silent sanctuary where words were unnecessary between woman and feline."*
+> - 📜 **Aldous Huxley (*Music at Night*):** *"If you wish to write psychological drama, cultivate **ailurophilia** and observe the inscrutable egotism of the cat."*

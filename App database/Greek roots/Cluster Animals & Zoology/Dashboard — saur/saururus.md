@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the saururaceae: lizard's-tails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the saururaceae: lizard's-tails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous aquatic or wetland perennial plants in the family Saururaceae, commonly known as lizard's tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland botany, plants bearing fragrant, heart-shaped leaves and dense, drooping white spikes resembling a lizard's tail (Saururus cernuus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saururus designates type genus of the saururaceae: lizard's-tails."*
+> - 📜 **William Bartram (*Travels through North & South Carolina*):** *"The shallow freshwater lagoons were bordered with dense thickets of **Saururus**, whose white nodding spikes perfumed the humid air."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"The common lizard's-tail, **Saururus** cernuus, flourishes in muddy swamps, spreading rapidly by creeping aromatic rhizomes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The inflorescence of **Saururus** curves gracefully at the tip, giving it a whimsical resemblance to a reptilian tail."*

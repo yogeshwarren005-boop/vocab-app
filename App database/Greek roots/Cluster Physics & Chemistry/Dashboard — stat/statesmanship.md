@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom in the management of public affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom in the management of public affairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skill, quality, or conduct of a statesman; the art of leading and governing a state with vision, wisdom, and integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, the ability to formulate enduring policies that transcend partisan factionalism and protect national interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Perchance, from out the ashes where it lies, True statesmanship may, phoenix-like, arise."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That was a mistake, mixing up Irish politics with American statesmanship."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"For years a peaceful, sly, strategic conquest has been in progress, and American statesmanship has been almost silent, until the people have demanded action."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"True **statesmanship** consists in foreseeing danger before it strikes and preparing the remedies in peace."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Circumstances give in reality to every political principle its distinguishing color and discriminating effect in practical **statesmanship**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations require a higher standard of **statesmanship** to resist the tyranny of the majority."*

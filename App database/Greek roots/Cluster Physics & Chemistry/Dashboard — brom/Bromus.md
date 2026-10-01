@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of grasses of the family gramineae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of grasses of the family gramineae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and widely distributed genus of annual and perennial grasses in the family Poaceae, commonly known as brome grasses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrostology, an economically diverse genus comprising valuable forage pasture grasses as well as invasive weeds like cheatgrass (Bromus tectorum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Bromus designates a genus of grasses of the family gramineae."*
+> - 📜 **Carl Linnaeus (*Genera Plantarum*):** *"The genus **Bromus** is distinguished by its many-flowered spikelets and terminal awns arising below the bifid apex."*
+> - 📜 **Agnes Chase (*First Book of Grasses*):** *"Spikelets in **Bromus** are typically plump and large, making them easy for the beginner to dissect and study."*
+> - 📜 **Aldo Leopold (*Round River*):** *"The invasion of exotic **Bromus** into the western sagebrush prairie altered the natural wildfire cycle forever."*

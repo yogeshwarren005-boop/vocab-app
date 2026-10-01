@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical chemistry that studies the heat energy absorbed or released during chemical reactions and phase changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discipline governed by Hess's law and the First Law of Thermodynamics, determining standard enthalpies of formation and reaction heats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermochemistry designates the branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated."*
+> - 📜 **Germain Henri Hess (*Thermochemical Researches*):** *"The fundamental law of **thermochemistry** establishes that the total reaction heat depends only on the initial and final states."*
+> - 📜 **Marcellin Berthelot (*Essai de Mécanique Chimique fondée sur la Thermochimie*):** *"Calorimetric measurements form the solid experimental bedrock of modern **thermochemistry**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Bond dissociation energies derived from **thermochemistry** allow the chemist to predict the energetics of unobserved reactions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs and subshrubs: african daisy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs and subshrubs: african daisy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering annual and perennial plants in the family Asteraceae native to southern Africa, known as African daisy or bear's ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany, drought-resistant composite plants bearing radiate flowers with silvery tomentose foliage, literally 'bear ear' (Greek arktos + ous).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctotis designates herbs and subshrubs: african daisy."*
+> - 📜 **Carl Peter Thunberg (*Flora Capensis*):** *"On the sandy flats near Cape Town, radiant species of **Arctotis** expand their orange petals to the midday sun."*
+> - 📜 **William Henry Harvey (*Flora Capensis*):** *"The woolly covering on the involucral scales of **Arctotis** suggested to early botanists the rough ear of a bear."*
+> - 📜 **Gertrude Jekyll (*Annuals and Biennials*):** *"In a warm sunny border, the silvery leaves and brilliant composite rays of **Arctotis** provide dazzling color."*

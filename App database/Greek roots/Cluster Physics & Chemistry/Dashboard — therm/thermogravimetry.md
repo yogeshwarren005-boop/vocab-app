@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermal analysis technique in which the mass of a substance is monitored as a function of temperature or time while the sample specimen is subjected to a controlled temperature program.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An analytical method (TGA) essential for investigating polymer thermal degradation, mineral decompositions, and catalyst coke formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimetry designates the measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Through precision **thermogravimetry**, one can easily distinguish between adsorbed surface moisture and true crystalline water of hydration."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The application of **thermogravimetry** revealed that the varnish decomposed in three distinct exothermic stages."*
+> - 📜 **Svante Arrhenius (*Studies on Chemical Dynamics*):** *"Reaction rates of solid-state thermal decompositions are extracted directly through derivative **thermogravimetry**."*

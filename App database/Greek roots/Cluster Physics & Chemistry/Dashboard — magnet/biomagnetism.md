@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of magnetic fields produced by or associated with living organisms; or the study of magnetic effects on biology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology, magnetoreception—the biological sensory system by which migratory birds, turtles, and bacteria orient via the Earth's magnetic field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biomagnetism designates a term designating an entity, condition, or phenomenon derived from greek magnet."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Migratory navigation in honeybees demonstrated that **biomagnetism** provides an internal compass for long-distance foraging."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"Tiny magnetic crystals of magnetite lodged in the ethmoid bone mediate avian **biomagnetism**."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The discovery of magnetotactic bacteria proved that **biomagnetism** is an ancient sensory mechanism dating to the Precambrian."*

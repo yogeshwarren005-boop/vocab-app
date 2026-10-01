@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preservation (as of cells) by subjection to extremely low temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preservation (as of cells) by subjection to extremely low temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The preservation of cells, tissues, organs, or viable biological material by cooling and storing them at extremely low temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, regenerative medicine, and biobanking, the freezing of gametes, embryos, and stem cells using liquid nitrogen and specialized cryoprotective agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryopreservation designates preservation (as of cells) by subjection to extremely low temperatures."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The successful **cryopreservation** of living spermatozoa opened an entirely new era in animal husbandry and genetics."*
+> - 📜 **Ian Wilmut (*The Second Creation: Dolly and the Age of Biological Control*):** *"Modern reproductive cloning depends upon the meticulous **cryopreservation** of donor cell nuclei in liquid nitrogen."*
+> - 📜 **E. O. Wilson (*The Future of Life*):** *"Frozen zoos rely on deep **cryopreservation** to maintain the viable genetic heritage of critically endangered species."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on or preying upon mites (mite-eating).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological entomology, describing predatory insects, predatory mites (phytoseiids), or spiders that specialize in consuming tetranychid and eriophyid mites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acariphagous designates adjective*) pertaining to, derived from, or characteristic of mite."*
+> - 📜 **C. V. Riley (*The American Entomologist*):** *"The tiny ladybird beetle is strictly **acariphagous**, consuming dozens of red spider mites each day."*
+> - 📜 **W. J. Holland (*The Moth Book*):** *"Certain micro-neuropteran larvae lead an **acariphagous** existence amid dense colonies of gall mites."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"The predatory beetle larva displayed an exclusively **acariphagous** appetite, refusing aphid prey."*

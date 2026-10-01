@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plater who uses electrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plater who uses electrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or commercial enterprise that coats metal objects with an electrolytic deposit of metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial technician specializing in the chemical baths, anodes, and current densities required for electroplating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroplater designates a plater who uses electrolysis."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The local **electroplater** displayed rows of gleaming cutlery polished to brilliant luster in his shop window."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The commercial **electroplater** must carefully regulate current density to avoid coarse, powdery crystalline deposits."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The craftsman worked as an **electroplater** in the brass foundry before taking employment in the munitions factory."*

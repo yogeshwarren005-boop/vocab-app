@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek capn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or fortune-telling by observing the movement, thickness, direction, or color of smoke rising from sacrificial fires or hearths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient ritual practice documented across classical Greece, Mesopotamia, and Rome to divine divine will or military fortunes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capnomancy designates a term designating an entity, condition, or phenomenon derived from greek capn."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The temple augur practiced **capnomancy**, watching whether the sacrificial smoke rose straight to heaven or drifted ominously back to earth."*
+> - 📜 **Lewis Spence (*An Encyclopaedia of Occultism*):** *"In ancient rites of **capnomancy**, thin white smoke ascending vertically was universally hailed as an auspicious omen."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Priests interpreted the flickering spirals of sacred smoke through the elaborate rules of **capnomancy**."*

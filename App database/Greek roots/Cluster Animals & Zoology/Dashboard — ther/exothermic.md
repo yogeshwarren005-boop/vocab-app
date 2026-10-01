@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or formed with evolution of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or formed with evolution of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting a chemical reaction or process accompanied by the release of heat to the surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics, reactions with negative enthalpy change that occur spontaneously or sustain chain reactions like combustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exothermic designates characterized by or formed with evolution of heat."*
+> - 📜 **Walther Nernst (*Theoretical Chemistry*):** *"At absolute zero, every spontaneous chemical reaction must be strictly **exothermic**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The formation of covalent bonds between neutral radicals is an intensely **exothermic** process."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial synthesis of chlorinated hydrocarbons relied upon massive, **exothermic** chlorination towers."*

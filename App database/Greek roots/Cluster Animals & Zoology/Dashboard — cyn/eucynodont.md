@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the advanced synapsid clade Eucynodontia, which includes modern mammals and their closest fossil relatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, advanced therapsids appearing in the Triassic characterized by an enlarged braincase, complete secondary palate, and multicuspid postcanines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eucynodont designates a term designating an entity, condition, or phenomenon derived from greek cyn."*
+> - 📜 **George Gaylord Simpson (*The Major Features of Evolution*):** *"Every modern mammal is phylogenetically a surviving **eucynodont** that retained endothermy and parental lactation."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"The transformation of the articular and quadrate bones into middle ear ossicles began within early **eucynodont** stock."*
+> - 📜 **Alfred Sherwood Romer (*The Procession of Life*):** *"The Triassic radiation of the **eucynodont** lineages laid the anatomical foundation for the entire mammalian class."*

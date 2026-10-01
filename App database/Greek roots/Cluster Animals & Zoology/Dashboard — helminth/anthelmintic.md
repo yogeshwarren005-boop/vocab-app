@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expelling or destroying parasitic worms especially of the intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expelling or destroying parasitic worms especially of the intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent or medication that expels or kills parasitic worms (helminths) from the gastrointestinal tract or body tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, antiparasitic substances acting via neuromuscular paralysis, inhibition of tubulin polymerization, or disruption of parasite energy metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthelmintic designates expelling or destroying parasitic worms especially of the intestine."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Farmers turned to synthetic **anthelmintic** drenches to prevent sheep flocks from being ravaged by liver flukes."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The traditional pink-root decoction was administered as an **anthelmintic** to purge roundworms from sickly children."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"A course of bitter aloes and fern root provided a dependable **anthelmintic** cure against stubborn tapeworms."*

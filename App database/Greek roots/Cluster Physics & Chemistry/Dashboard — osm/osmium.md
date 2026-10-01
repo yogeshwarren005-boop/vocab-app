@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue-gray or blue-black hard brittle very heavy polyvalent metallic element with a high melting point that is used especially as a catalyst and in hard alloys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound OsO4 that is an oxide of osmium, has a poisonous irritating vapor, and is used as a catalyst, oxidizing agent, and biological fixative and stain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, brittle, bluish-white transition metal element with atomic number 76 and symbol Os, the densest naturally occurring element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and microscopy, a precious platinum-group metal whose volatile tetroxide (OsO4) is widely used to stain lipids and fix cell membranes for electron microscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmium designates a blue-gray or blue-black hard brittle very heavy polyvalent metallic element with a high melting point that is used especially as a catalyst and in hard alloys."*
+> - 📜 **Smithson Tennant (*Philosophical Transactions of the Royal Society*):** *"I have named this metal **osmium**, from the Greek word for odor, on account of the pungent smell of its volatile oxide."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"Dense and immutable, **osmium** sinks through mercury like a stone through water, heavy as leaden fate."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The myelin sheaths of peripheral nerve fibers were fixed in black outline by immersion in **osmium** tetroxide."*

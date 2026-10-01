@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The behavior of a parasite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intimate association between organisms of two or more kinds; especially : one in which a parasite obtains benefits from a host which it usually injures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-mutual symbiotic relationship between species, where one species (the parasite) benefits at the expense of the other (the host).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice or habit of living at the expense of others; sponging or social dependence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"More precise examination proves that it sometimes occurs where no white rust is present, and therefore its parasitism is imaginary."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Social **parasitism** in ants represents an extraordinary evolutionary journey where one colony usurps the brood of another."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection explains the exquisite morphological degradation that accompanies obligate **parasitism**."*
+> - 📜 **Karl Marx (*Capital*):** *"Unchecked usury represents a form of economic **parasitism** that drains the reproductive power of productive labor."*

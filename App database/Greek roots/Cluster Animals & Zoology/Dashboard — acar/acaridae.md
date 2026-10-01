@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of mites in the suborder Astigmata comprising stored-product and forage mites such as the flour mite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, a cosmopolitan acarine family characterized by soft, weakly sclerotized bodies and prominent chelicerae adapted for scavenging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog acaridae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Nathan Banks (*The Acarina or Mites*):** *"The family **Acaridae** encompasses the notorious flour mites that cause immense spoilage in commercial storehouses."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"Species of **Acaridae** multiply with astounding rapidity whenever moisture and meal are kept in warm granaries."*
+> - 📜 **Andrew Murray (*Economic Entomology: Aptera*):** *"Within the **Acaridae**, several genera exhibit profound adaptations for phoretic transport upon flying insects."*

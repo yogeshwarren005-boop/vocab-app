@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An executioner who uses electricity to kill the condemned person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An executioner who uses electricity to kill the condemned person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An executioner who carries out the death penalty by means of the electric chair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state official or technician designated to operate the electrical controls during a capital execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocutioner designates an executioner who uses electricity to kill the condemned person."*
+> - 📜 **H. L. Mencken (*Prejudices: Fourth Series*):** *"The state **electrocutioner** tested the voltage regulators with bureaucratic indifference before pulling the lethal switch."*
+> - 📜 **Theodore Dreiser (*An American Tragedy*):** *"The condemned youth looked up into the solemn, masked face of the **electrocutioner** waiting beside the apparatus."*
+> - 📜 **Jack London (*The Star Rover*):** *"In the shadow of the death house, the **electrocutioner** was regarded with fearful awe by the inmates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek alcyon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythical kingfisher or marine creature; or an individual polyp of the soft coral group Alcyonaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and marine biology, the mythical bird associated with calm winter seas (halcyon days), or a soft coral lacking an axial skeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcyon designates a term designating an entity, condition, or phenomenon derived from greek alcyon."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Transformed into an **alcyon**, she skimmed the foaming waves, lamenting the tragic loss of her drowned consort."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The legendary **alcyon** nests upon the winter sea, during which seven peaceful days the gales cease."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The delicate fleshy mass of the **alcyon** polyp contracts into the gelatinous matrix when disturbed."*

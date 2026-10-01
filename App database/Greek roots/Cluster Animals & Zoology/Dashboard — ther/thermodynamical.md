@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with thermodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with thermodynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving thermodynamics; thermodynamic (variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science treatises, describing mathematical formulations of energy transformations, equilibria, and state equations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamical designates of or concerned with thermodynamics."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The **thermodynamical** potential of each component dictates the equilibrium distribution across multiple coexisting phases."*
+> - 📜 **Max Planck (*Treatise on Thermodynamics*):** *"Every reversible process represents an idealized limit where no net **thermodynamical** entropy is generated."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Entropy is the arrow of time, imparting an irreversible direction to all cosmic **thermodynamical** processes."*

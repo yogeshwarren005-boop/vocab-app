@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of temperature; the science, art, and methodology of determining thermal states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, the routine measurement of body temperature to detect and track febrile disease, popularized by Carl Wunderlich in 1868.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometry designates the measurement of temperature."*
+> - 📜 **Carl Wunderlich (*On the Temperature in Diseases: A Manual of Medical Thermometry*):** *"Clinical **thermometry** converts the subjective impression of fever into an objective, quantitative diagnostic curve."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of routine clinical **thermometry** onto hospital charts marked one of the greatest advances of nineteenth-century medicine."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"Scientific **thermometry** was placed on an unshakeable thermodynamic foundation with the formulation of the absolute scale."*

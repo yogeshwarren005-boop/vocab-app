@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by eager anticipation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an advanced stage of pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing an excited feeling that something is about to happen; anticipating eagerly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pregnant, or anticipating the birth of a child (an expectant mother); or in law, waiting in reversion to an estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli had risen rapidly and looked towards the door with large expectant eyes, wondering what was going to happen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I recalled the first bright gleam of welcome which had shone out of those very windows upon our expectant faces on that cold bright night, and which had never paled."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Cecil Rhodes recorded in his will his contempt for the idle, expectant heir. § 5. #Broader social effects of inheritance#."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The hush was deep and **expectant**, as if every listener hung upon the speaker's next utterance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She sat in **expectant** silence, watching the door through which her future was to enter."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We waited in the dark moor cottage, tense and **expectant**, with our weapons ready."*

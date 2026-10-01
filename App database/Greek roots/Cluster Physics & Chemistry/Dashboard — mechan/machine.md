@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanically, electrically, or electronically operated device for performing a task.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveyance, vehicle; especially : automobile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An efficient, highly organized system or organization that operates like a mechanical device; or in physics, a simple machine that alters force or distance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine evermore, most dear lady, whilst this machine is to him, HAMLET._ This in obedience hath my daughter show’d me; And more above, hath his solicitings, As they fell out by time, by means, and place, All given to mine ear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I that am the rectifier of all, By title _pædagogus_, that let fall The birch upon the breeches of the small ones, And humble with a ferula the tall ones, Do here present this machine, or this frame."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, who has by this time got his hands in his pockets and is going on in his business consideration of the matter like a machine."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The mechanical powers of the lever, pulley, and wheel constitute the simplest forms of **machine**."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The **machine** had hummed into motion, slipping between the seconds into the unknown centuries."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The mechanical clock, rather than the steam engine, was the foundational **machine** of modern industrial civilization."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lyc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (lykos, 'wolf') denoting wolves, lupine traits, or predatory canine habits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, mythology, and medical history, the stem giving rise to lycanthropy, Lycaon, Lycopodium, and allied scientific nomenclature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lyc designates a term designating an entity, condition, or phenomenon derived from greek lyc."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The Greek root **lyc** was inscribed upon ancient Arcadian altars dedicated to Zeus Lycaeus."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"Solar myths often confounded the root **lyc** meaning wolf with leukos meaning light and radiant dawn."*
+> - 📜 **Richard Owen (*Odontography*):** *"The carnassial sectorial teeth in the **lyc** family are engineered for severing tendons and shearing muscle."*

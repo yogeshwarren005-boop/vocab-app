@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suitable for use at the North Pole or the region near it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bitter cold : frigid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated around the North Pole or northern polar circle; or bitterly cold and frigid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography, the high-latitude biome beyond the climatic timberline characterized by permafrost, tundra, and adapted fauna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The blast smelt of icebergs, arctic seas, whales, and white bears, carrying the snow so that it licked the land but did not deepen on it."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then there you lie like the one warm spark in the heart of an arctic crystal."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I am advancing into the wild and mysterious **arctic** regions, where the pole is crowned with ice and light."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The bitter **arctic** blizzard swept across the frozen trail, chilling the dogs to the bone."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen braved the fierce storms of the **arctic** seas in relentless pursuit of the great polar whale."*

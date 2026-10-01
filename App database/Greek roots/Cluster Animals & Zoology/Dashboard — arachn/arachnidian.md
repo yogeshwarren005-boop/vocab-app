@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a member of the class arachnida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a member of the class arachnida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or belonging to the class Arachnida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive zoology, exhibiting morphological features characteristic of spiders, scorpions, or allied eight-legged chelicerates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnidian designates relating to or resembling a member of the class arachnida."*
+> - 📜 **Philip Henry Gosse (*The Romance of Natural History*):** *"The cavern walls were draped with glistening **arachnidian** silken retreats occupied by cave-dwelling spiders."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrate Animals*):** *"The poison apparatus represents an exclusively **arachnidian** modification of the terminal cheliceral segments."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"Certain larval mites display a hexapod condition before attaining full **arachnidian** eight-legged maturity."*

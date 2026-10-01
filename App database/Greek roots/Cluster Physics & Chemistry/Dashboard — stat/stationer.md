@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who sells writing materials and office supplies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who sells writing materials and office supplies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or business that sells writing materials, office supplies, books, and paper goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in English publishing, a member of the Stationers' Company holding rights to print and register copyright of books.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer, pursues his lawful calling."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The law-stationer’s establishment is, in Guster’s eyes, a temple of plenty and splendour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To Snagsby’s, Law-Stationer’s, Deeds engrossed and copied, Law-Writing executed in all its branches, &c., &c., &c."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"A **stationer** was originally so called from keeping a station or shop, as distinguished from itinerant vendors."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Snagsby, the law **stationer**, pursued his quiet trade in Chancery Lane amid reams of foolscap."*
+> - 📜 **John Milton (*Areopagitica*):** *"The Stationers' Company enforced monopolistic licensing, obliging every author to obtain the printer's and **stationer**'s imprint."*

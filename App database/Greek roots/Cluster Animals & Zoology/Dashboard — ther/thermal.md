@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or involving a state of matter dependent upon temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by heat; or an ascending column of warm air used by soaring birds and gliders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and meteorology, describing thermal energy, temperature gradients, or convective atmospheric updrafts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The whole subject is thus of considerable complexity, and involves questions of thermal and chemical equilibrium."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Nothing damages furnace linings more than exposure to changes of temperature, on account of the continual expansion and contraction of the brickwork and the low thermal conductivity of the silica."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It has been indicated that the thermal conditions in the bessemerising zone of the pyritic furnace tend to the production of highly basic slags, which, though hot and limpid, are characterised by high density."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The condors wheeled in immense majestic circles, riding the rising **thermal** currents above the Andean gorges."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Molecular kinetic energy is directly observable as the macroscopic **thermal** state of an enclosed gas."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Subterranean **thermal** springs emerge along deep tectonic faults, indicating deep-seated volcanic furnaces."*

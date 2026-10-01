@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or registered by a barograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or registered by a barograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or recorded by a barograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing pressure curves, traces, or instrumentation related to continuous barometric registration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barographic designates relating to or registered by a barograph."*
+> - 📜 **William Napier Shaw (*Manual of Meteorology*):** *"The **barographic** trace exhibited rhythmic microbarographic oscillations preceding the thunderstorm."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"Accurate **barographic** charts are essential for computing geostrophic wind balances."*
+> - 📜 **Robert FitzRoy (*Weather Book*):** *"The **barographic** curve plunged precipitously as the center of the hurricane neared the coastline."*

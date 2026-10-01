@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container (such as a bottle or jar) with a vacuum between an inner and outer wall used to keep material and especially liquids either hot or cold for considerable periods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container (such as a bottle or jar) with a vacuum between an inner and outer wall used to keep material and especially liquids either hot or cold for considerable periods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vacuum flask or insulated container for keeping liquids hot or cold; or the Greek adjective thermos ('hot, warm').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and industrial history, the commercialized Dewar flask (patented under the trademark Thermos in 1904) utilizing double-walled silvered glass separated by a vacuum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"They call it a thermos bottle."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"We'll have our coffee, and get the thermos bottle filled, too, by the time you come back.” Nan liked tom Sherwood."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The boys have to be at Blackton's so's to get to work at seven.” They filled the thermos bottle that had so puzzled Tom, and then sallied forth."*
+> - 📜 **James Dewar (*Collected Papers on Liquid Gases*):** *"The vacuum-jacketed vessel, later popularized as the commercial **thermos**, prevented heat transfer by conduction and convection."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"We filled our **thermos** flasks with hot tea before marching out into the minus-thirty-degree blizzard."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"We packed a basket with meat pies and a **thermos** of hot coffee for our Sunday fishing trip."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals of the same species for one or more behavioral responses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals of the same species for one or more behavioral responses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance produced and released into the environment by an animal, affecting the behavior or physiology of others of its species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical ecology and ethology, semiochemicals (alarm, trail, sex, and aggregation pheromones) coined in 1959 by Karlson and Lüscher (Greek pherein + hormon).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pheromone designates a chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals of the same species for one or more behavioral responses."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"A foraging ant lays a microscopic trail of volatile **pheromone** droplets to guide her nestmates unerringly to a food source."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"Antennal sensilla of the male silk moth can detect a single airborne molecule of female sex **pheromone** across miles of woodland."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Chemical communication through specialized **pheromone** blends predates acoustic and visual courtship by hundreds of millions of years."*

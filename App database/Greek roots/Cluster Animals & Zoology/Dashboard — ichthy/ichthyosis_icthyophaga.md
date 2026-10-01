@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ichthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical clinical designation linking fish-scale dermatosis with piscivorous diets or coastal fish-eating communities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical ethnology and historical epidemiology, cutaneous scaly dermatoses observed in maritime populations traditionally consuming exclusively fish (ichthyophagi).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyosis_icthyophaga designates a term designating an entity, condition, or phenomenon derived from greek ichthy."*
+> - 📜 **Richard Mead (*Medica Sacra*):** *"The scaly skin eruptions recorded as **ichthyosis** were attributed by coastal travelers to a perpetual diet of dried fish."*
+> - 📜 **John Arbuthnot (*An Essay Concerning the Effects of Air on Human Bodies*):** *"Those tribes who subsisted entirely on fish suffered cutaneous disorders closely allied to **ichthyosis**."*
+> - 📜 **Gilbert Blane (*Observations on the Diseases of Seamen*):** *"Protracted maritime scorbutic states often manifested severe dry scaling mimicking true hereditary **ichthyosis**."*

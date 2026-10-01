@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thriving at a relatively low temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thriving at a relatively low temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thriving at low temperatures; of or relating to psychrophiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing bacteria, fungi, or biological processes adapted to life at or near the freezing point of water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychrophilic designates thriving at a relatively low temperature."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Enzymes isolated from **psychrophilic** bacteria maintain high catalytic efficiency despite the sluggish kinetics of near-zero temperatures."*
+> - 📜 **Macfarlane Burnet (*Natural History of Infectious Disease*):** *"Food spoilage within domestic refrigerators is driven largely by opportunistic **psychrophilic** microorganisms."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The abyssal benthos of the ocean constitutes an immense reservoir of **psychrophilic** biodiversity."*

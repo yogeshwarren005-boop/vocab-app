@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A guest cabin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A guest cabin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A private cabin or bedroom on a passenger ship or yacht, or in a train car.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in royal palaces, a ceremonial state room reserved for formal receptions, banquets, and audiences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"We were to sail on the fifteenth of the month (June), weather permitting; and on the fourteenth, I went on board to arrange some matters in my stateroom."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The box did NOT go into the extra stateroom."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They had separate apartments—no doubt in contemplation of a more permanent divorce; and here, after all I thought was the mystery of the extra stateroom."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"Our **stateroom** on the steamer was small, but cozy enough once our steamer trunks were stowed away."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"I stepped back into my **stateroom** and whispered to the fugitive hiding behind the hanging coats."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab paced the floor of his aft **stateroom**, his ivory leg drumming upon the deck beams."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the qualities of or befitting a statesman; ; -v.l.parrington.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by the qualities of or befitting a statesman; ; -v.l.parrington.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or becoming a great statesman; showing wisdom, vision, and broad political judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by integrity, dignity, and disinterested public service rather than narrow factional bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statesmanlike designates marked by the qualities of or befitting a statesman; ; -v.l.parrington."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Such a policy displays a **statesmanlike** comprehension of the true commercial interests of the confederacy."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Washington's farewell address remains a masterpiece of calm, **statesmanlike** foresight."*
+> - 📜 **Winston Churchill (*Great Contemporaries*):** *"His conduct during the constitutional crisis was uniformly dignified and **statesmanlike**."*

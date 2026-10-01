@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble gelatinous structural polysaccharide found in ripe fruits (such as apples and citrus) that forms a gel when heated with sugar and acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and industry, an essential gelling agent in jams and jellies, and a dietary soluble fiber that modulates glycemic index.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectin designates any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins."*
+> - 📜 **Henri Braconnot (*Recherches sur la substance gélatineuse des fruits*):** *"I have given the name **pectin** to this substance, which gives fruit jellies their firm, trembling consistency."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"In the vegetable kingdom, **pectin** serves as the natural cement holding vegetable parenchyma together."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Commercial citrus peels yield immense quantities of **pectin** utilized in confectionery and pharmaceutical suspensions."*

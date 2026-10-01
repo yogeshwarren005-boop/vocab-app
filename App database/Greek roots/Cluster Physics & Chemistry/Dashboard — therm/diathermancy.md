@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek therm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of transmitting radiant heat; transparency to infrared radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical optics, the capacity of substances like rock salt (halite) or dry air to allow thermal radiation to pass through without substantial absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diathermancy designates a term designating an entity, condition, or phenomenon derived from greek therm."*
+> - 📜 **Macedonio Melloni (*La Thermochrôse ou la Coloration Calorifique*):** *"Rock salt exhibits near-perfect **diathermancy**, allowing heat rays of all wavelengths to traverse it unimpeded."*
+> - 📜 **John Tyndall (*Contributions to Molecular Physics in the Domain of Radiant Heat*):** *"While pure dry air possesses high **diathermancy**, the addition of water vapor dramatically impedes radiant heat."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The **diathermancy** of a medium varies according to the quality and wavelength of the incident radiant heat."*

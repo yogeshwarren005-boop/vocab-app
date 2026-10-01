@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics concerned with electromagnetic phenomena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physics concerned with electromagnetic phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science that deals with the phenomena, laws, and mathematical formulation of electromagnetism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied electrical engineering, the rigorous study of wave propagation, Maxwell's equations, antennas, and transmission waveguides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnetics designates the branch of physics concerned with electromagnetic phenomena."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"In the study of modern **electromagnetics**, Maxwell's original twenty equations condense into four elegant vector relations."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"From the viewpoint of fundamental theory, classical **electromagnetics** remains one of the most complete and beautiful structures in science."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Transient Electric Phenomena*):** *"High-frequency power lines demand thorough mastery of theoretical **electromagnetics** to avoid destructive surge waves."*

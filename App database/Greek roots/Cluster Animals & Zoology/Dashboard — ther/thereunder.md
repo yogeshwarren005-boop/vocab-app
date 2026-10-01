@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under that.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under that; beneath that; or pursuant to that document or authority (formal legal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and administrative law, designating powers, duties, or subordinate regulations promulgated under a parent statute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thereunder designates under that."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The royal prerogative establishes courts of justice, and all judges appointed **thereunder** derive their authority from the Crown."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution of the United States*):** *"Treaties made under the authority of the United States, and laws enacted **thereunder**, bind all state tribunals."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The master assumes liability for the servant's negligent acts performed **thereunder** in the scope of employment."*

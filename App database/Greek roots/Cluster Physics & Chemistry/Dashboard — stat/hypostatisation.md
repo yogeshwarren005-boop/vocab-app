@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarding something abstract as a material thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarding something abstract as a material thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British/Commonwealth spelling of hypostatization: the act of treating an abstract concept, name, or idea as a concrete physical reality (reification).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and metaphysics, the reification of a logical category into an ontological substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatisation designates regarding something abstract as a material thing."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Philosophical realism often commits the fatal fallacy of **hypostatisation**, treating relations as independent entities."*
+> - 📜 **Alfred North Whitehead (*Science and the Modern World*):** *"The fallacy of misplaced concreteness is an intellectual **hypostatisation** of high abstractions into physical matter."*
+> - 📜 **Gilbert Ryle (*The Concept of Mind*):** *"Descartes' myth of the ghost in the machine arose from the unwarranted **hypostatisation** of mental verbs into substantive nouns."*

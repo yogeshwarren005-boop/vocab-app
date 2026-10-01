@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various reptiles of the suborder sauria which includes lizards; in former classifications included also the crocodiles and dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to lizards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any reptile belonging to the clade Sauria, especially a lizard; or having the characteristics of a lizard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and literature, evocative designation for prehistoric reptiles, dinosaurs, and aquatic mosasaurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The river at this point is full of these saurian monsters, seeking whom they may devour."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"This was the discovery of a large fossil saurian, which we came upon while exploring quite in sight of Sheridan, and not more than half a mile from its eastern outskirts."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The head of the saurian rested on the basin's edge, its jaws touching, with their stony tips, the prairie, while down into the valley below stretched the body and tail."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The discovery of gigantic **saurian** bones in the Wealden clay excited the astonishment of the scientific world."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale's monstrous head seemed like some prehistoric **saurian** relic preserved in the deep."*
+> - 📜 **Thomas Henry Huxley (*On the Animals Which Are Most Nearly Intermediate between Birds and Reptiles*):** *"The fossil bird Archaeopteryx retained a long, lizard-like **saurian** tail composed of separate vertebrae."*

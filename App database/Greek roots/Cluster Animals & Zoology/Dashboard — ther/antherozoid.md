@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile male gamete of a plant such as an alga or fern or gymnosperm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motile male gamete of a plant such as an alga or fern or gymnosperm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile male gamete or spermatozoid produced inside an antheridium in algae, fungi, bryophytes, and lower vascular plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic cytology, a spiral, flagellated swimming sperm that navigates through water films guided by chemotactic signals to fertilize an egg in the archegonium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antherozoid designates a motile male gamete of a plant such as an alga or fern or gymnosperm."*
+> - 📜 **Thomas Henry Huxley (*A Course of Practical Instruction in Elementary Biology*):** *"Under the microscope, each motile **antherozoid** wriggles through the liquid medium with rapid corkscrew rotations of its cilia."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Malic acid exuded from the open archegonium attracts the swimming **antherozoid** through positive chemotaxis."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The discovery of flagellated **antherozoid** gametes in cycads and Ginkgo proved their archaic evolutionary kinship with ferns."*

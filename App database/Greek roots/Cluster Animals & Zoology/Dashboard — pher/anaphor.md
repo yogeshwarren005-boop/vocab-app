@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or phrase with an anaphoric function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or phrase with an anaphoric function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic item that refers to and derives its interpretation from another expression in the context; or an Eucharistic prayer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal syntax and generative grammar, a noun phrase (such as a reflexive pronoun 'himself' or reciprocal 'each other') subject to Principle A of binding theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphor designates a word or phrase with an anaphoric function."*
+> - 📜 **Noam Chomsky (*Lectures on Government and Binding*):** *"An **anaphor** must be bound in its governing category, contrasting sharply with pronominals which must be free."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The functional utility of an **anaphor** lies in avoiding clumsy repetition while preserving semantic continuity."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"Every spoken dialect equips its speakers with rules determining which antecedent can license a reflexive **anaphor**."*

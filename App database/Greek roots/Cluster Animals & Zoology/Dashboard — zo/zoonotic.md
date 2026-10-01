@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting zoonosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting zoonosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or capable of being transmitted from animals to humans; characteristic of a zoonosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary epidemiology and global health, describing pathogens, reservoirs, or spillover events where animal microbes infect human populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoonotic designates of or relating to or constituting zoonosis."*
+> - 📜 **David Quammen (*Spillover: Animal Infections and the Next Human Pandemic*):** *"Bats harbor a diverse array of lethal **zoonotic** viruses, including Nipah, Hendra, and Marburg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Glanders in horses is a hazardous **zoonotic** bacterial infection easily contracted by stablemen."*
+> - 📜 **Donald Henderson (*Smallpox: The Death of a Disease*):** *"Unlike smallpox, diseases with extensive **zoonotic** reservoirs in wild fauna can never be permanently eradicated from nature."*

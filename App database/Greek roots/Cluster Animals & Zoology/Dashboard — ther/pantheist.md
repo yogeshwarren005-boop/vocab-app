@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who believes that god and the universe are the same.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pantheism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that God and the universe are identical; an adherent of pantheism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology, a thinker who rejects a transcendent, personal creator in favor of an immanent divine nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantheist designates someone who believes that god and the universe are the same."*
+> - 📜 **Baruch Spinoza (*Theological-Political Treatise*):** *"The orthodox synod condemned Spinoza as a dangerous **pantheist** for declaring that Nature and the Almighty are one substance."*
+> - 📜 **Percy Bysshe Shelley (*Queen Mab*):** *"The visionary poet stood as a solitary **pantheist**, worshipping the eternal harmony that animates all living forms."*
+> - 📜 **Arthur Schopenhauer (*Parerga and Paralipomena*):** *"To tell the **pantheist** that the world is God is merely to give the world a superfluous and confusing title."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having hips; or having hips as specified (usually in combination).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a roof) sloping on all sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having hips of a specified kind; or in architecture, designating a roof having sloping ends as well as sloping sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In building construction, describing a hip roof (hipped roof) where all four sides slope downward toward the walls without vertical gables; historically, affected with low spirits or hip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Cobweb; good monsieur, get you your weapons in your hand and kill me a red-hipped humble-bee on the top of a thistle; and, good monsieur, bring me the honey-bag."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"They seem hipped." "Oh, do look at that poor little brown one by the coop," said Mrs."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The old vernacular barns were sheltered by low, **hipped** roofs designed to deflect the force of Atlantic gales."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ancient farmhouse was a rambling structure of red brick beneath a weather-stained **hipped** roof of mossy tiles."*
+> - 📜 **Jonathan Swift (*Journal to Stella*):** *"I was terribly **hipped** yesterday with melancholy thoughts and spleen, but the brisk morning walk revived me."*

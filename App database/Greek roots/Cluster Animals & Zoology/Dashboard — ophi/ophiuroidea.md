@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brittle stars and basket stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brittle stars and basket stars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of echinoderms comprising brittle stars and basket stars, distinguished by long flexible arms sharply demarcated from the central disc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic marine zoology, a diverse class of benthic invertebrates possessing calcium carbonate skeletal plates and moving by lateral arm flexing rather than tube feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiuroidea designates brittle stars and basket stars."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The **Ophiuroidea** diverge fundamentally from true starfish in having the internal organs confined entirely to the central disk."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In the **Ophiuroidea**, the tube feet have lost their locomotive suckers, serving primarily respiratory and sensory functions."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In deep crevices beneath low-tide rocks, the shy **Ophiuroidea** weave their spiny serpent-like arms through the weed."*

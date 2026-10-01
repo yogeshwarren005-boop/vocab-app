@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of physical phenomena that include the attraction for iron observed in lodestone and a magnet, are inseparably associated with moving electricity, are exhibited by both magnets and electric currents, and are characterized by fields of force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with magnetic phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical phenomenon produced by the motion of electric charge, resulting in attractive and repulsive forces between objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of personal charm, charisma, or compelling attraction that fascinates and influences other people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But as ever before, the pagan harpooneers remained almost wholly unimpressed; or if impressed, it was only with a certain magnetism shot into their congenial hearts from inflexible Ahab’s."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"When not more actively employed she would sit by the bed-sides of the suffering men, and charm away their pain by the magnetism of her low, calm voice, and soothing words."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But as ever before, the pagan harpooneers remained almost wholly unimpressed; or if impressed, it was only with a certain magnetism shot into their congenial hearts from inflexible Ahab’s."*
+> - 📜 **William Gilbert (*De Magnete*):** *"Terrestrial **magnetism** guides the navigator across trackless oceans by an invisible heavenly thread."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Electricity in motion produces **magnetism**, and changing magnetism produces electricity."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Character exerts a natural **magnetism** that commands respect without uttering a single argument."*

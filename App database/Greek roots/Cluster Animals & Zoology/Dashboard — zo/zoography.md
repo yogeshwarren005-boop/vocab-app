@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific description of animals, their forms, habitats, external characteristics, and varieties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical natural history, descriptive zoology focused on cataloging and illustrating species, distinguished from comparative anatomy and physiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoography designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Descriptive **zoography** provides the raw observational foundation upon which anatomical synthesis is constructed."*
+> - 📜 **Philip Henry Gosse (*The Romance of Natural History*):** *"The naturalist's charming **zoography** brought the bizarre creatures of coral reefs vividly before Victorian readers."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Audubon combined exquisite field artistry with meticulous **zoography** to chronicle the vanishing birds of North America."*

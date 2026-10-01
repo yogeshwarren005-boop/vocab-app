@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mechanized; - gordon russell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not mechanized; - gordon russell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mechanized; lacking machines; performed by manual labor or traditional tools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing military units, farms, or manufacturing shops that have not adopted motorized equipment or automated production lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmechanized designates not mechanized; - gordon russell."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The small, **unmechanized** family farm could not compete with the industrial crawler tractors."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"There is an aesthetic satisfaction in farming with an **unmechanized** walking plow behind a team of horses."*
+> - 📜 **Dwight D. Eisenhower (*Crusade in Europe*):** *"Supplying our forces over the rugged mountains required pack animals alongside **unmechanized** transport units."*

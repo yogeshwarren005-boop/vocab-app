@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek taur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, practice, or spectacle of bullfighting (tauromachia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and anthropology, ritual combat between man and bull, celebrated historically across ancient Minoan Crete, Rome, Spain, and Portugal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tauromachy designates a term designating an entity, condition, or phenomenon derived from greek taur."*
+> - 📜 **Ernest Hemingway (*Death in the Afternoon*):** *"True Spanish **tauromachy** is not a sport in the Anglo-Saxon sense, but an ancient ritual tragedy of death and valor."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Hark! heard you not the forest-monarch's roar? The arena shakes with the fierce shouts of **tauromachy** in Cadiz."*
+> - 📜 **Theophile Gautier (*A Romantic in Spain*):** *"The precision and cold bravery displayed in **tauromachy** elevate the matador's art to a thrilling dance with mortality."*

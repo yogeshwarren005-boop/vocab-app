@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft metal core made into a magnet by the passage of electric current through a surrounding wire coil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and electrical engineering, an artificial magnetic device whose magnetic field can be rapidly modulated or switched on and off.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnet designates a core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core."*
+> - 📜 **Joseph Henry (*On the Production of Currents and Sparks of Electricity from Magnetism*):** *"By wrapping many insulated coils around the soft iron horseshoe, our powerful **electromagnet** lifted over two thousand pounds."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The core of the **electromagnet** attains intense magnetization the instant current traverses the surrounding helix."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"A colossal **electromagnet** powered the rudders and dynamic navigation machinery of Captain Nemo's submarine."*

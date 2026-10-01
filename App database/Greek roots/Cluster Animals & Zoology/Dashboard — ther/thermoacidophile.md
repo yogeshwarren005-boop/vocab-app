@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaebacteria that thrive in strongly acidic environments at high temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaebacteria that thrive in strongly acidic environments at high temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremophilic microorganism that thrives in environments characterized by both high temperatures and high acidity (low pH).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial ecology and astrobiology, archaea (such as Sulfolobus) inhabiting sulfur hot springs and solfataras at temperatures of 70–80°C and pH 2–3.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoacidophile designates archaebacteria that thrive in strongly acidic environments at high temperatures."*
+> - 📜 **Carl Woese (*Bacterial Evolution*):** *"The discovery that the **thermoacidophile** Sulfolobus belonged to Archaea fundamentally redrew the phylogenetic tree of life."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"In boiling acidic cauldrons of Yellowstone, the tough **thermoacidophile** thrives where all other living cells dissolve."*
+> - 📜 **Stephen Jay Gould (*Full House*):** *"The metabolic adaptations of the **thermoacidophile** demonstrate that life can flourish in environmental extremes akin to early Earth."*

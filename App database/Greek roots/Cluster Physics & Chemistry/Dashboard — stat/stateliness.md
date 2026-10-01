@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate manner of doing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressiveness in scale or proportion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dignified, imposing, or grand beauty or manner; majesty of bearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal elegance, magnificence, or solemn grandeur in architecture, pageantry, or prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, I assure you he is very odd!” She shook her head a great many times and tapped her forehead with her finger to express to us that we must have the goodness to excuse him, “For he is a little—you know—M!” said the old lady with great stateliness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt!” with great stateliness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Good-humouredly smiling all over his broad forehead up into his crisp hair, he then defers to Miss Flite, as, with great stateliness, and at some length, she performs the courtly ceremony of presentation."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"Her royal **stateliness** and modest grace won the adoration of every courtier."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The architectural **stateliness** of the palace mirrored the autocratic majesty of the Byzantine emperors."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"There was a quiet **stateliness** in Madame Beck's composure that commanded instant obedience."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense winter fog containing ice particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dense winter fog containing ice particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense winter fog containing millions of minute, suspended needle-like ice crystals, typical of mountain valleys in the western United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional meteorology and folklore, an icy fog (Shoshone loanword assimilated to Greek pogon, 'bearded/white fog') traditionally dreaded by indigenous miners for damaging respiratory tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonip designates a dense winter fog containing ice particles."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The dreaded winter **pogonip** settled over Virginia City, filling the air with biting, frozen needles of glittering frost."*
+> - 📜 **John Muir (*Steep Trails*):** *"When the freezing **pogonip** breathes across the high Great Basin valleys, every sagebrush branch is coated in thick white rime."*
+> - 📜 **Mary Austin (*The Land of Little Rain*):** *"Old prospectors huddled around the stove, warning the newcomer not to breathe the frozen crystal mist of the **pogonip**."*

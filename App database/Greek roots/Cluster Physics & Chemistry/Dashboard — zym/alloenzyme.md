@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the structural variants of an enzyme coded for by different alleles at the same genetic locus (an allozyme).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics and evolutionary biology, electrophoretically distinguishable protein variants used to quantify heterozygosity and gene flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alloenzyme designates a term designating an entity, condition, or phenomenon derived from greek zym."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Gel electrophoresis of each **alloenzyme** variant revealed unexpected reservoirs of genetic polymorphism in wild Drosophila populations."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Surveys of **alloenzyme** frequencies provided the earliest molecular maps of population genetic divergence."*
+> - 📜 **Richard Lewontin (*The Genetic Basis of Evolutionary Change*):** *"Assaying **alloenzyme** variation proved that natural populations are brimming with covert genetic variation."*

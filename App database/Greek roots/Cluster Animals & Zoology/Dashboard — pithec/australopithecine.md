@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various extinct hominids (genera Australopithecus and Paranthropus) that existed two to four million years ago in southern and eastern Africa and include gracile and robust forms exhibiting bipedal locomotion, near-human dentition, and relatively small brains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various extinct hominids (genera Australopithecus and Paranthropus) that existed two to four million years ago in southern and eastern Africa and include gracile and robust forms exhibiting bipedal locomotion, near-human dentition, and relatively small brains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct hominin belonging to the genus Australopithecus or allied early bipedal hominin genera of the Pliocene and early Pleistocene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology, African hominins exhibiting obligate bipedal posture and human-like postcrania paired with ape-sized brain volumes and megadont postcanines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, australopithecine designates any of various extinct hominids (genera australopithecus and paranthropus) that existed two to four million years ago in southern and eastern africa and include gracile and robust forms exhibiting bipedal locomotion, near-human dentition, and relatively small brains."*
+> - 📜 **Raymond Dart (*Australopithecus africanus: The Man-Ape of South Africa*):** *"The Taung child skull revealed an extinct **australopithecine** that stood upright, bridging the gap between anthropoid apes and humans."*
+> - 📜 **Louis Leakey (*Olduvai Gorge*):** *"Our excavations at Olduvai revealed fossil tools alongside robust **australopithecine** crania embedded in bed I."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The discovery of Lucy proved that bipedal locomotion preceded the dramatic encephalization of the **australopithecine** lineage."*

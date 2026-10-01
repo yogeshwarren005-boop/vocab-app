@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A recording barometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recording barometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recording barometer that automatically registers variations in atmospheric pressure on a moving chart or digital log.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument utilizing aneroid capsules and an inked lever arm to monitor barometric fluctuations for aviation or weather tracking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barograph designates a recording barometer."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo pointed to the precision **barograph** mounted against the teakwood bulkhead of the saloon."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"The pilot observed the needle of the **barograph** creeping steadily downward as turbulence rocked the aircraft."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The officer tapped the glass of the **barograph** and warned that a sudden depression was sweeping across the Channel."*

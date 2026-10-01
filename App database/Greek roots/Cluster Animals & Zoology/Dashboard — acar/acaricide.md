@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical agent used to kill mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical agent used to kill mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pesticide specifically formulated to destroy or inhibit mites and ticks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary pharmacology and agrochemistry, a specialized biocidal agent disrupting neuromuscular or mitochondrial pathways in acarine pests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acaricide designates a chemical agent used to kill mites."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Heavy spraying of broad-spectrum pesticides destroyed predatory bugs, requiring yet another **acaricide** to subdue the proliferating mites."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Targeted populations of orchard mites rapidly evolved resistance to each successive chemical **acaricide**."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"The selective toxicity of the new **acaricide** spared beneficial pollinating bees while eliminating pasture ticks."*

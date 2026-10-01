@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: East indian cereal grass whose seed yield a somewhat bitter flour, a staple in the orient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East indian cereal grass whose seed yield a somewhat bitter flour, a staple in the orient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: African finger millet (Eleusine coracana), a cultivated drought-resistant cereal grass; or its edible grain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical agronomy, a staple food crop of sub-Saharan Africa and South Asia, valued for resilient storage qualities and high calcium content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coracan designates east indian cereal grass whose seed yield a somewhat bitter flour, a staple in the orient."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The native villagers cultivated expansive fields of **coracan** millet, brewing from its malt a wholesome, refreshing beer."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Terraced slopes along the river gorges were planted densely with **coracan**, whose digitate heads waved in the mountain breeze."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"Linguistic and archeobotanical evidence indicates that **coracan** was domesticated in eastern Africa before spreading to India."*

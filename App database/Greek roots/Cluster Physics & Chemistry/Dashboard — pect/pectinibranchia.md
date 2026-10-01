@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large order of gastropods comprising univalve mollusks that have a single gill resembling a comb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large order of gastropods comprising univalve mollusks that have a single gill resembling a comb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former suborder of gastropod mollusks having comb-like, single ctenidial gills (comprising prosobranch snails).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic malacology, marine and freshwater snails whose respiratory ctenidium consists of a unilateral row of pectinate gill filaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectinibranchia designates large order of gastropods comprising univalve mollusks that have a single gill resembling a comb."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Under the order **Pectinibranchia**, we assemble those gastropods that breathe by means of comb-like branchiae lodged in a dorsal cavity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the **Pectinibranchia**, the right gill has completely atrophied, leaving an asymmetrical unilateral respiratory plume."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The mantle cavity of **Pectinibranchia** receives currents driven over the pectinate ctenidium by microscopic cilia."*

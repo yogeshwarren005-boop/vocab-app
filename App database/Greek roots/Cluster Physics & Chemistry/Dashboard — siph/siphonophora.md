@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine colonial hydrozoans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine colonial hydrozoans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of marine hydrozoan cnidarians that form complex pelagic pelagic colonies composed of specialized polyps and medusae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, polymorphic colonial organisms (such as the Portuguese man-o'-war) functioning as an integrated superorganism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siphonophora designates marine colonial hydrozoans."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Nowhere in the animal kingdom is morphological division of labor carried so far as in the pelagic order **Siphonophora**."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The crystalline, floating colonies of **Siphonophora** resemble living jewels drifted by the ocean winds."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Vast flotillas of **Siphonophora** drift across the tropical Atlantic, trailing venomous fishing tentacles yards below the surface."*

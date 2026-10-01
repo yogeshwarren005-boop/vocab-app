@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orienting response to warmth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orienting response to warmth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The growth or movement of a plant, sessile organism, or cell in response to heat or a temperature gradient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, positive thermotropism (growing toward warmth) or negative thermotropism (growing away from excessive heat), seen in roots and tendrils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermotropism designates an orienting response to warmth."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Root tips exhibit marked **thermotropism**, turning toward localized sources of gentle warmth in the soil."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"The curvature induced by **thermotropism** results from asymmetrical cell elongation across the opposite sides of the stem."*
+> - 📜 **Daniel Trembly MacDougal (*Practical Text-book of Plant Physiology*):** *"Experiments in dark chambers demonstrated that **thermotropism** can operate independently of phototropic stimuli."*

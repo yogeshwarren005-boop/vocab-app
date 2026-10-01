@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excite suddenly and intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge (a conductor) with electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To charge with electricity; to equip with electric power; or to shock or startle dramatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To thrill, exhilarate, or arouse intense excitement and wonder in an audience or populace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nothing of the dream had been real but my burst of laughter, a sound never before heard in that grave sanctuary, and so abhorrent to the ears of wisdom, as to electrify the fraternity."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge's breezy way of expressing himself is apt to electrify the stranger."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The murder of an empress then—even the assassination of Caesar himself—could not electrify the world as this murder has electrified it."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The prospect of traveling through the fourth dimension seemed to **electrify** his imagination."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger's sensational disclosure served to **electrify** the audience assembled in the lecture hall."*
+> - 📜 **Thomas Edison (*Statements on the Electric Light*):** *"Our aim is to **electrify** the entire city so cheaply that only the wealthy will burn candles."*

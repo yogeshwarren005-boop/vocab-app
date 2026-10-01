@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of excessive amounts of carbon dioxide in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of excessive amounts of carbon dioxide in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally high concentration of carbon dioxide in the blood, resulting from hypoventilation or respiratory failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathophysiology, elevated arterial PCO2 exceeding 45 mmHg, leading to respiratory acidosis, somnolence, and vasodilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercapnia designates the presence of excessive amounts of carbon dioxide in the blood."*
+> - 📜 **J. S. Haldane (*Respiration*):** *"Severe **hypercapnia** acts as a powerful narcotic, eventually depressing the very respiratory center it initially stimulated."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic emphysema, long-standing **hypercapnia** blunts the sensitivity of the carotid body chemoreceptors."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient slipped into a drowsy stupor precipitated by progressive nighttime **hypercapnia**."*

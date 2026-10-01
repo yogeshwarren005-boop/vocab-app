@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without jaundice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affected by jaundice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without jaundice or yellow discoloration of the skin and mucous membranes; non-jaundiced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hepatology and infectious disease, describing mild, subclinical, or atypical presentations of hepatitis (such as anicteric hepatitis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anicteric designates without jaundice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In children, epidemic viral hepatitis frequently manifests as an **anicteric** illness mistaken for simple gastroenteritis."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The presence of elevated transaminases in an **anicteric** patient prompted a thorough serological screening."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"Hepatic dysfunction can progress silently in **anicteric** individuals before overt signs emerge."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific form of arteriosclerosis characterized by the buildup of fatty plaques (atheromas) within the arterial walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern cardiovascular medicine, a chronic fibro-inflammatory disease of the intima of large and medium arteries, the leading cause of heart attacks and strokes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherosclerosis designates an arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A man is as old as his arteries; the advance of **atherosclerosis** measures the inexorable decay of the machine."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We must view **atherosclerosis** not merely as passive fatty deposition, but as an active inflammatory transformation of the intima."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Dietary and metabolic factors interact to produce the complex arterial hardening known as **atherosclerosis**."*

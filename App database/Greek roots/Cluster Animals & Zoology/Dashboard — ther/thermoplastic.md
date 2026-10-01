@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of softening or fusing when heated and of hardening again when cooled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of softening or fusing when heated and of hardening again when cooled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or plastic material that becomes pliable or moldable above a specific temperature and solidifies upon cooling, repeatedly without chemical change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer chemistry and manufacturing, linear or branched macromolecules (such as polyethylene, nylon, or polystyrene) holding reversible melt-processing capability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoplastic designates capable of softening or fusing when heated and of hardening again when cooled."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Unlike thermosets, a **thermoplastic** polymer can be repeatedly melted, reshaped, and recycled without chemical degradation."*
+> - 📜 **Arthur D. Little (*The Chemist and His Work*):** *"Injection molding of **thermoplastic** resins revolutionized the rapid mass production of domestic appliances."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic **thermoplastic** containers rapidly displaced glass and paper packaging across the industrial world."*

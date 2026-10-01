@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jubilation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jubilation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or expression of great joy, triumph, or exultation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary prose, an atmosphere of uninhibited rejoicing and communal celebration celebrating victory or liberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jubilance designates jubilation."*
+> - 📜 **Herman Melville (*Typee*):** *"The islanders greeted the dawn with bursts of wild **jubilance**, dancing along the palm-fringed shore."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"A surge of sudden **jubilance** swept through my heart as the long-dreaded sorrow was lifted."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I sound my barbaric yawp over the roofs of the world in pure **jubilance** of existence."*

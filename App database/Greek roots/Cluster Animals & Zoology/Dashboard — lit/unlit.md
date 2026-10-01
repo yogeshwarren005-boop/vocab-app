@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not set afire or burning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without illumination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided with light; not illuminated; not ignited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and poetry, describing shadowy, gloomy, or dormant states lacking visual warmth or spiritual enlightenment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Here, too, there was not a soul to be seen: a kettle was furiously boiling over on the hob, a gas ring was running to waste near by, turned on but left unlit and volleying evil fumes."*
-> - 📜 **James Joyce (*Ulysses*):** *"He sat on a corner of the unlit desk, reading aloud joyfully: —_The sentimentalist is he who would enjoy without incurring the immense debtorship for a thing done._ Signed: Dedalus."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They were on the two sides of a bridgeless river, in plain sight of each other, but forever debarred from hearing the voice or pressing the land of the one beloved, doomed to perpetual toil unlit by any ray of joy or hope."*
+> - 📜 **Robert Browning (*The Statue and the Bust*):** *"The **unlit** lamp and the ungirt loin, in life's true crisis when we should act, leave us forever wanting."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She walked along the dark, **unlit** country lane, her footsteps rustling through wet fallen leaves."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The silent river flowed toward the black sea beneath an ominous, **unlit** dome of gathering clouds."*

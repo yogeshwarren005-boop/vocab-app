@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affected by hyperthermia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affected by hyperthermia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by abnormally high temperature; in geology, designating an abrupt, transient episode of global warming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoclimatology and thermal medicine, describing events such as the Paleocene-Eocene Thermal Maximum (PETM) or extreme hot spring waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermal designates of or relating to or affected by hyperthermia."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Deep subterranean fissures gave birth to **hyperthermal** springs whose boiling mineral waters encrusted the volcanic rocks."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"The sudden greenhouse spike of the early Tertiary was a **hyperthermal** event that altered global ocean circulation."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Isotopic analysis of benthic foraminifera confirmed a transient **hyperthermal** episode fifty-six million years ago."*

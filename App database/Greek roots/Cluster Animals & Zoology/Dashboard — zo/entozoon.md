@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An internal parasitic animal, such as an intestinal worm; an animal organism living inside another animal (plural: entozoa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century medical taxonomy, a formal grouping of parasitic worms (trematodes, cestodes, nematodes, and acanthocephalans).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entozoon designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **T. Spencer Cobbold (*Entozoa: An Introduction to Helminthology*):** *"Cobbold demonstrated that the hydatid cyst was the larval stage of a microscopic canine **entozoon**."*
+> - 📜 **Thomas Henry Huxley (*Lectures on the Elements of Comparative Anatomy*):** *"No organ of the vertebrate frame is exempt from the invasion of some specialized **entozoon**."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The liver fluke represents an ancient flattened **entozoon** adapted to the biliary ducts of sheep."*

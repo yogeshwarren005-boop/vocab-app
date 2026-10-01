@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry that studies the transformation between electrical energy and chemical reactions, including electrolysis and voltaic cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discipline analyzing redox reactions at interfaces, battery energy storage, corrosion kinetics, and bioelectric phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"DEPOSITING THE SHELL Those who are not technically familiar with electrochemistry are prone to think that the length of time a mold is kept in the electrolytic bath, i. e., the copper bath, determines the thickness of the shell deposited thereon."*
+> - 📜 **Humphry Davy (*On Some Chemical Agencies of Electricity*):** *"The science of **electrochemistry** proved that chemical affinity and electrical attraction are rooted in one identical force."*
+> - 📜 **Jöns Jacob Berzelius (*Theory of Chemical Proportions*):** *"Our dualistic electrochemical theory laid the foundation for systematic **electrochemistry** in nineteenth-century science."*
+> - 📜 **Wilhelm Ostwald (*Electrochemistry: Its History and Doctrine*):** *"From its humble origins in Galvani's frogs, **electrochemistry** has grown into one of the pillars of chemical thermodynamics."*

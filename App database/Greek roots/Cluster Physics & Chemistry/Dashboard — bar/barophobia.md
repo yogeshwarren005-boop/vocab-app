@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal fear of gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal fear of gravity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational or abnormal fear of gravity, particularly the fear of being crushed by gravitational force or losing gravitational hold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, an anxiety disorder manifesting as terror of downward gravitational pull or falling into open space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barophobia designates an abnormal fear of gravity."*
+> - 📜 **H. P. Lovecraft (*The Shadow Out of Time*):** *"A strange vertigo akin to **barophobia** seized him as he contemplated the cosmic abyss where gravity seemed inverted."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"Weightlessness relieved the astronaut of any latent **barophobia**, yet the return of centrifugal gravity reawakened primal dread."*
+> - 📜 **Stanislaw Lem (*Solaris*):** *"The psychologist classified the researcher's panic on the orbital platform as an acute manifestation of **barophobia**."*

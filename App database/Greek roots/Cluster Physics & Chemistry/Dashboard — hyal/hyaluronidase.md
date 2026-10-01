@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme (trade name hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme (trade name hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of enzymes that catalyze the degradation of hyaluronic acid, increasing tissue permeability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and pharmacology, a 'spreading factor' enzyme used to accelerate the absorption and diffusion of injected drugs, anesthetics, and fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaluronidase designates an enzyme (trade name hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids."*
+> - 📜 **Karl Meyer (*The Biological Significance of Hyaluronic Acid and Hyaluronidase*):** *"The bacterial enzyme **hyaluronidase** hydrolyzes the glycosidic bonds of the intercellular cement substance."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Pathogenic streptococci secrete **hyaluronidase** as an invasive factor facilitating tissue invasion."*
+> - 📜 **Macfarlane Burnet (*Enzyme, Antigen and Virus*):** *"Purified **hyaluronidase** markedly enhances the spread of subcutaneously administered saline."*

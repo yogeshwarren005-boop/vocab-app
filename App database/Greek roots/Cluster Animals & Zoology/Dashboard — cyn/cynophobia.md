@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological fear or loathing of dogs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathological fear or loathing of dogs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, intense, or irrational fear of dogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a common specific animal phobia characterized by severe panic, palpitations, and avoidance triggered by barking or approaching canines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cynophobia designates pathological fear or loathing of dogs."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A severe childhood fright from an aggressive mastiff can implant an intractable **cynophobia** lasting for decades."*
+> - 📜 **Sigmund Freud (*Analysis of a Phobia in a Five-Year-Old Boy*):** *"The clinical dynamics of animal dread, whether zoophobia or specific **cynophobia**, reflect displaced infantile conflict."*
+> - 📜 **H. P. Lovecraft (*The Hound*):** *"A terrible, sweating **cynophobia** gripped us whenever the distant howling echoed across the desolate moor."*

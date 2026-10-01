@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chuckwallas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chuckwallas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, herbivorous iguanid lizards commonly known as chuckwallas, native to the arid deserts of southwestern North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, stout, flat-bodied desert lizards that wedge themselves tightly into rock crevices and inflate their lungs with air to deter predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauromalus designates chuckwallas."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Turtles of North America*):** *"The chuckwalla, **Sauromalus** ater, is celebrated among desert tribes for its edible flesh and harmless herbivorous habits."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"When molested, **Sauromalus** creeps into a narrow fissure and inflates its body until no human hand can pull it out."*
+> - 📜 **John Muir (*Steep Trails*):** *"On the sun-baked granite boulders of the Mojave, the heavy dark lizard **Sauromalus** basked in the scorching heat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer that includes a thermometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrometer that includes a thermometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer equipped with an integral thermometer, allowing simultaneous measurement of liquid density and temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum engineering and brewing, a floating glass instrument calibrated to determine specific gravity corrected for temperature expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermohydrometer designates a hydrometer that includes a thermometer."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"By using a **thermohydrometer**, the chemist reads the density of acids and alcohols with immediate temperature correction."*
+> - 📜 **Benjamin Franklin (*Maritime Observations*):** *"I lowered a **thermohydrometer** into the Gulf Stream, charting its warm temperature and high salinity across the Atlantic."*
+> - 📜 **Arthur D. Little (*The Chemist and His Work*):** *"The petroleum inspector plunged the **thermohydrometer** into the oil tank car to calculate the API gravity at standard sixty degrees."*

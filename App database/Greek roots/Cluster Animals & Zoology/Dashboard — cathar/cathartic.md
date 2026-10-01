@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or producing catharsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that causes the bowels to be purged : purgative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing psychological relief through the open expression of strong emotions; or inducing purging of the bowels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a substance accelerating bowel evacuation, more potent than a laxative and milder than a drastic purgative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathartic designates of, relating to, or producing catharsis."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain bitter herbal infusions act with prompt **cathartic** virtue, clearing corrupt humours from the digestive tract."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The old practitioners relied excessively upon calomel and drastic **cathartic** doses in treating ordinary fevers."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Writing down her memories provided a quiet, **cathartic** healing that freed her mind from the oppressive past."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian coral snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australian coral snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, burrowing Australian elapid snakes commonly known as banded desert snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, fossorial venomous elapids possessing an upturned, shovel-like rostral scale adapted for burrowing rapidly into loose red desert sand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhynchoelaps designates australian coral snakes."*
+> - 📜 **Albert Gunther (*The Reptiles of British India*):** *"The rostral plate of **Rhynchoelaps** forms an acute cutting edge admirably adapted for subterranean digging."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"Desert snakes belonging to **Rhynchoelaps** exhibit brilliant black and orange warning bands along the body."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Turtles of North America*):** *"In the cranial osteology of **Rhynchoelaps**, the premaxillary bones are thickened to brace the digging snout."*

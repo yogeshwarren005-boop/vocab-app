@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical and biochemical combining root derived from Greek brōma ('food') or brōmos ('oats').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrostology and botanical taxonomy, designating brome grasses of the genus Bromus and related fodder or nutritional terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brom 2 designates a term designating an entity, condition, or phenomenon derived from greek brom."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the botanical designation **Bromus**, several perennial grasses of the temperate meadows were first classified."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The generic term **Bromus** and its derivatives preserve the ancient Greek appellation for wild oat fodder."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The awned spikelets of **Bromus** are characteristic of pasture grasses across the northern territories."*

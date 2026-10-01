@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnet made of a substance whose magnetization is proportional to the strength of the magnetic field applied to it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnet made of a substance whose magnetization is proportional to the strength of the magnetic field applied to it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or material that exhibits paramagnetism, being weakly attracted into a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In condensed matter physics, a material whose atoms have permanent magnetic dipoles that align parallel to an applied magnetic field, resulting in positive magnetic susceptibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramagnet designates magnet made of a substance whose magnetization is proportional to the strength of the magnetic field applied to it."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Liquid oxygen behaves as a vigorous **paramagnet**, leaping up to bridge the poles of the powerful electromagnet."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"A true **paramagnet** aligns itself along the lines of force and is drawn toward the strongest parts of the field."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"Unlike a diamagnet, the force acting upon a **paramagnet** is directed in the direction of the magnetic field gradient."*

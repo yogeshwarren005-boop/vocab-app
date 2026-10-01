@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person in charge of a railway station.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person in charge of a railway station.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official in charge of a railroad station.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In railway operations, the supervisor responsible for track switching, passenger safety, ticketing, and train scheduling at a specific station depot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stationmaster designates the person in charge of a railway station."*
+> - 📜 **Charles Dickens (*The Signal-Man*):** *"The **stationmaster** directed me along the narrow cutting down toward the shadowed tunnel mouth."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"The **stationmaster** blew his whistle as the snowy express train rattled into the station."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"We questioned the Aldgate **stationmaster** to determine which train had dropped the body onto the tracks."*

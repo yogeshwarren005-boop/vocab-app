@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hipp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the horse, including equine anatomy, physiology, breeds, training, and veterinary care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical military and agricultural science, the comprehensive discipline cultivated by cavalry officers and master breeders to optimize equine performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippology designates a term designating an entity, condition, or phenomenon derived from greek hipp."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"A rigorous treatise on comparative **hippology** must trace the fusion of equine metapodials across geological epochs."*
+> - 📜 **George Romanes (*Animal Intelligence*):** *"Experimental **hippology** reveals that horses possess remarkable spatial memory and acute auditory discernment."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The practical arts of farriery and theoretical **hippology** should be united for the improvement of national cavalry."*

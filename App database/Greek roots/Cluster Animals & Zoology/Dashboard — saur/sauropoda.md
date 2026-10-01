@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the sauropod dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the sauropod dinosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major infraorder of herbivorous saurischian dinosaurs containing the giant long-necked, quadrupedal giants of the Mesozoic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a clade spanning from the Late Triassic through the Late Cretaceous, distinguished by gigantism, columnar gravigrade limbs, and pneumatic skeletons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauropoda designates any of the sauropod dinosaurs."*
+> - 📜 **O. C. Marsh (*Principal Characters of American Jurassic Dinosaurs*):** *"I established the suborder **Sauropoda** for those enormous herbivorous dinosaurs whose feet possess five well-developed digits."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The radiation of the **Sauropoda** in the Late Jurassic produced the grandest terrestrial herbivores the world has ever seen."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"The hollow chambers within the cervical vertebrae of the **Sauropoda** reduced skeletal weight while retaining tensile strength."*

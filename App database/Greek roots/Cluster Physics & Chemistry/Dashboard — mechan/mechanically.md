@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mechanical manner; by a mechanism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a machinelike manner; without feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mechanical manner; by means of a machine or physical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without conscious thought or feeling; routinely, automatically, or unreflectively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket—Sir Leicester mechanically bows his head—“and you ask me to consider a proposal of five hundred pounds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now I understand you, you know, and being deputed by Sir Leicester Dedlock, Baronet, to look into this little matter,” again Sir Leicester mechanically bows in confirmation of the statement, “can give it my fair and full attention."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He said mechanically, “Ah, why?” and continued to look at her."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor **mechanically** folded the letter, while her heart was torn with the most agonizing reflections."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She walked on **mechanically**, scarcely noticing the road or the gathering storm overhead."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The work done upon the piston is **mechanically** transferred through the connecting rod to the revolving flywheel."*

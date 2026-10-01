@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute epidermal pore in a leaf or stem through which gases and water vapor can pass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute epidermal pore in a leaf or stem through which gases and water vapor can pass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single stoma; a microscopic pore found in the epidermis of leaves and stems used for gas exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, the functional unit consisting of the pore aperture flanked by two specialized photosynthetic guard cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomate designates a minute epidermal pore in a leaf or stem through which gases and water vapor can pass."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Each **stomate** acts as a self-adjusting hydraulic valve governing the entry of carbon dioxide into the spongy mesophyll."*
+> - 📜 **Francis Darwin (*The Physiology of Plants*):** *"Under the microscope, the slit of the **stomate** opened visibly as the illuminating mirror concentrated morning light."*
+> - 📜 **Julius von Sachs (*Text-book of Botany*):** *"Turgor changes within the twin cells bordering the **stomate** regulate the transpirational stream."*

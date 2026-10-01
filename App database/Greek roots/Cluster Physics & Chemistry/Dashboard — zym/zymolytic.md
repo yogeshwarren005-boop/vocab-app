@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or causing fermentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or causing fermentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by zymolysis; enzymatic, fermentative, or causing digestion by ferments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing biochemical cleavage or catalytic degradation accomplished by enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymolytic designates of or relating to or causing fermentation."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The **zymolytic** power of yeast extracts persisted even after filtration through unglazed porcelain candles."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"We measured the **zymolytic** destruction of bacterial cell walls by fresh immune serum."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"Phosphate ions accelerate the **zymolytic** cleavage of hexose diphosphate during alcoholic fermentation."*

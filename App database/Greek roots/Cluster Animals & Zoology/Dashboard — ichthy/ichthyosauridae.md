@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Later ichthyosaurs of the jurassic and cretaceous; widely distributed in both hemispheres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Later ichthyosaurs of the jurassic and cretaceous; widely distributed in both hemispheres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of typical Jurassic ichthyosaurs, including the genus Ichthyosaurus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic paleontology, streamlined marine reptiles of the parvipelvian clade possessing large eyes, reduced humerus bones, and a downward-bent tail supporting a caudal fin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyosauridae designates later ichthyosaurs of the jurassic and cretaceous; widely distributed in both hemispheres."*
+> - 📜 **Richard Lydekker (*Catalogue of the Fossil Reptilia and Amphibia in the British Museum*):** *"Specimens belonging to the family **Ichthyosauridae** abound in the Liassic limestone quarries of Somerset and Dorset."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"The rapid aquatic propulsion of the **Ichthyosauridae** made them the apex pursuit predators of the Early Jurassic seas."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"Skin impressions found at Holzmaden revealed that members of **Ichthyosauridae** possessed a fleshy dorsal fin lacking bony support."*

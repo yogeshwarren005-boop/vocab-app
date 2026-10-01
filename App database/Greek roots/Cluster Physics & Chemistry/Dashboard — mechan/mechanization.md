@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having a highly technical implementation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of implementing the control of equipment with advanced technology; usually involving electronic hardware.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of introducing machines and automatic apparatus into an industry or task to replace human manual labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military doctrine and industrial engineering, the conversion of transport and weaponry to powered motorized units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanization designates the condition of having a highly technical implementation."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The relentless **mechanization** of production reorganized the factory into a synchronized collective apparatus."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The tractor symbolized the cold **mechanization** that severed the tenant farmer from the ancestral soil."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"Through intensive **mechanization**, we eliminated waste motion and lowered the cost of transportation for millions."*

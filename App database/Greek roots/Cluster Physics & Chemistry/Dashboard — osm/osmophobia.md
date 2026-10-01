@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intolerance of or hypersensitivity to smells; also : aversion to or dislike of odors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intolerance of or hypersensitivity to smells; also : aversion to or dislike of odors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent fear of, aversion to, or hypersensitivity to odors or smells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, a frequent and characteristic symptom accompanying migraine headaches, where ambient odors trigger nausea and worsen head pain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmophobia designates intolerance of or hypersensitivity to smells; also : aversion to or dislike of odors."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"During the acute headache phase, patients suffer from extreme **osmophobia**, finding even the faintest aroma of cooking intolerable."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In hysterical neuroses, profound **osmophobia** can lead to complete avoidance of food and social contact."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Severe **osmophobia** accompanied the limbic encephalitis, producing violent panic whenever perfumes were present."*

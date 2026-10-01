@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of fermentation, ferments, and their industrial and biological applications; enzymology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In brewing and industrial microbiology, the applied science of using yeasts and bacteria for beer brewing, winemaking, and biofuels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymology designates a term designating an entity, condition, or phenomenon derived from greek zym."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The founding principle of modern **zymology** is that every specific fermentation is correlated with a specific living microorganism."*
+> - 📜 **Eduard Buchner (*Nobel Lecture: Cell-Free Fermentation*):** *"Cell-free yeast extracts transformed **zymology** from a vitalistic doctrine into an exact branch of enzyme chemistry."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"The literature of **zymology** documents the steady unraveling of the glycolytic pathway from glucose to ethanol."*

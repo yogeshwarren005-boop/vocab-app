@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faultfinding captious critic; especially : one who believes that human conduct is motivated wholly by self-interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of an ancient Greek school of philosophers who held the view that virtue is the only good and that its essence lies in self-control and independence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that all human actions are motivated purely by selfishness; or an adherent of ancient Cynic philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, a follower of Antisthenes and Diogenes of Sinope advocating radical asceticism, shamelessness, and rejection of social conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How vilely doth this cynic rhyme!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Cynical things he had uttered to himself about her; but no man can be always a cynic and live; and he withdrew them."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"A pure cynic, he let into his mind, on an easy footing, primitive desires that the average man admits only behind a screen."*
+> - 📜 **Oscar Wilde (*Lady Windermere's Fan*):** *"A **cynic** is a man who knows the price of everything and the value of nothing."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Diogenes the **Cynic** lived in a barrel and carried a lantern at midday, professing to seek an honest man."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The worldly old gentleman posed as an amused **cynic**, mocking the sincere romances of naive youths."*

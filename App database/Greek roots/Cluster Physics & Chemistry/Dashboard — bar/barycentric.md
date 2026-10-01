@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of weight , pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of weight , pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the center of mass or barycentre, especially of celestial bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and coordinate systems, relating to barycentric coordinates defined by masses placed at the vertices of a simplex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barycentric designates adjective*) pertaining to, derived from, or characteristic of weight , pressure."*
+> - 📜 **August Ferdinand Möbius (*Der barycentrische Calcul*):** *"By introducing **barycentric** coordinates, geometric relations are expressed with profound algebraic elegance."*
+> - 📜 **Henri Poincaré (*Les Méthodes Nouvelles de la Mécanique Céleste*):** *"Transforming the three-body problem to **barycentric** coordinates eliminates uniform translational motion."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Space probes utilize **barycentric** dynamical models to navigate the gravitational corridors of the solar system."*

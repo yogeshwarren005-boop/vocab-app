@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of horse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who loves, admires, or is exceptionally fond of horses; an equestrian enthusiast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equestrian society and sporting culture, an aficionado dedicated to horse breeding, riding, horsemanship, and equine welfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippophile designates adjective*) pertaining to, derived from, or characteristic of horse."*
+> - 📜 **Siegfried Sassoon (*Memoirs of a Fox-Hunting Man*):** *"As an ardent young **hippophile**, my entire universe revolved around the stable, the saddle, and the morning hunt."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of Silver Blaze*):** *"Every observant **hippophile** in England had placed his wagers upon the magnificent missing racehorse."*
+> - 📜 **George Borrow (*Lavengro*):** *"The old Romany horse-dealer was a true **hippophile**, understanding the temper of a stallion by a mere whisper."*

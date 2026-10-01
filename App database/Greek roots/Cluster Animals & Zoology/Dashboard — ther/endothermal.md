@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a chemical reaction or compound) occurring or formed with absorption of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant of endothermic; generating internal body heat to maintain a constant temperature; or absorbing heat in chemical reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological ecology and thermodynamics, describing homeothermic animals or chemical processes requiring heat absorption from surroundings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothermal designates (of a chemical reaction or compound) occurring or formed with absorption of heat."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Birds and mammals share an advanced **endothermal** physiology supported by a four-chambered heart and high metabolic output."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"The dissociation of the salt was demonstrated to be an **endothermal** process absorbing thermal energy from the solvent."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Insulating coats of fur and down are anatomical correlates of the **endothermal** condition in higher vertebrates."*

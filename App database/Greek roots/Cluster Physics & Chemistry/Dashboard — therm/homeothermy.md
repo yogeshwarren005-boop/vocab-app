@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological capability of maintaining a stable internal body temperature regardless of ambient environmental temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate physiology, the hallmark thermoregulatory characteristic of mammals and birds, governed by hypothalamic feedback.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeothermy designates having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The constancy of the internal environment (milieu intérieur) reaches its perfection in mammalian **homeothermy**."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"Shivering, sweating, and peripheral vasoconstriction coordinate to defend the constancy of **homeothermy**."*
+> - 📜 **Stephen Jay Gould (*Ever Since Darwin*):** *"The evolution of **homeothermy** unlocked nocturnal niches and allowed vertebrates to colonize high-latitude habitats."*

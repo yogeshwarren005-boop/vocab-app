@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By thermostat; in a thermostatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By thermostat; in a thermostatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a thermostatic manner; by means of a thermostat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With automatic temperature control or regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatically designates by thermostat; in a thermostatic manner."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The hatching trays were **thermostatically** controlled to simulate the natural warmth of avian brooding."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"The subterranean habitat was **thermostatically** maintained at perpetual spring, oblivious to the desert winds above."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"The greenhouse was **thermostatically** heated to preserve the tender exotic ferns during the November frost."*

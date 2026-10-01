@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hipp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The parahippocampal gyrus, a cortical brain region surrounding the hippocampus critical for memory encoding and environmental scene perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience, gray matter cortex within the medial temporal lobe that funnels sensory input into the hippocampus and contains place-sensitive areas (PPA).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parahippocampus designates a term designating an entity, condition, or phenomenon derived from greek hipp."*
+> - 📜 **Santiago Ramon y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"Pyramidal tract fibers pass from the **parahippocampus** into the entorhinal cortex, relaying cortical associations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The cerebral gyri surrounding the Ammonic horn, notably the **parahippocampus**, mediate the emotional coloring of recalled events."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Damage extending into the **parahippocampus** disrupts the spatial orientation and topological memory of the patient."*

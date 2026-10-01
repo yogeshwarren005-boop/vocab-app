@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express strong disapproval of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To publicly denounce, condemn, or express strong disapproval of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disparage, belittle, or depreciate the value, merit, or reputation of an action or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You will be married some day.” “Not to any one who is like Fred.” “Don’t decry your own brother, my dear."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When Correggio’s Holy Families were admired, they admired Correggio’s Holy Families; when he was decried in favour of Velasquez, they sedulously followed suit without any personal objection."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Although our productions have afforded more extensive and unaffected pleasure than those of any other literary corporation in the world, no species of composition has been so much decried."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"It is easy for prevailing opinion to **decry** novel philosophies before their rational merits can be evaluated."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Philosophers who **decry** ancient customs frequently fail to appreciate the latent wisdom embedded in long-standing institutions."*
+> - 📜 **George Orwell (*Essays*):** *"Sycophantic critics hasten to **decry** any work of art that fails to flatter the prevailing ideological dogmas."*

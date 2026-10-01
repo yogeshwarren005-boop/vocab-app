@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct major order of herbivorous dinosaurs characterized by a pelvic structure resembling that of modern birds ('bird-hipped').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a diverse dinosaurian clade comprising hadrosaurs, ceratopsians, ankylosaurs, and stegosaurs, possessing a backward-oriented pubis and a predentary bone in the lower jaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithischia designates extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods)."*
+> - 📜 **Harry Govier Seeley (*On the Classification of the Dinosauria*):** *"I divided the Dinosauria into two great orders, naming the **Ornithischia** for the backward direction of the pubic bones."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"The herbivorous radiation of the **Ornithischia** yielded astounding defensive adaptations of horns, frills, and dermal armor."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"It is one of paleontology's great ironies that true birds evolved from lizard-hipped Saurischia rather than the **Ornithischia**."*

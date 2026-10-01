@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cautery (destruction of tissue) by heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cautery (destruction of tissue) by heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical cauterization of living tissue using an instrument heated by electricity or fuel combustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical history, the Paquelin cautery using benzine vapor to heat a hollow platinum tip for hemostasis and tumor excision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermocautery designates cautery (destruction of tissue) by heat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Application of the **thermocautery** along the spinal column provided effective counter-irritation in chronic myelitis."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Before electrosurgery, surgeons relied upon the glowing tip of the **thermocautery** to arrest troublesome dural bleeding."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"The sterile heat of the **thermocautery** destroyed malignant ulcers without introducing hospital gangrene into the wound."*

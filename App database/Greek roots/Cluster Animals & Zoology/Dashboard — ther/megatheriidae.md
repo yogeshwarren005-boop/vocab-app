@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct ground sloths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct ground sloths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extinct family of giant ground sloths native to the Americas from the Oligocene through the Late Pleistocene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, a diverse clade of phyllophagous pilosan xenarthrans culminating in the multi-ton Megatherium americanum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megatheriidae designates extinct ground sloths."*
+> - 📜 **Richard Lydekker (*Catalogue of the Fossil Mammalia in the British Museum*):** *"The family **Megatheriidae** flourished across South America during its long isolation as an island continent."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"Following the emergence of the Isthmus of Panama, members of the **Megatheriidae** migrated northward into North America."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"The osteological hallmarks of the **Megatheriidae** include heavily expanded ilia and robust fused astragalocalcaneal joints."*

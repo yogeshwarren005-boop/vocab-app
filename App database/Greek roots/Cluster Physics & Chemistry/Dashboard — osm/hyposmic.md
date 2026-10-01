@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of push, thrust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of push, thrust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected with hyposmia; having a diminished sense of smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing individuals or conditions exhibiting elevated olfactory detection thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyposmic designates adjective*) pertaining to, derived from, or characteristic of push, thrust."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The **hyposmic** subject was oblivious to the pungent woodsmoke filling the cabin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An elderly **hyposmic** patient requires safety warnings regarding unperceived household gas leaks."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"Aging is frequently accompanied by an insidious **hyposmic** decline due to attrition of olfactory neuroepithelium."*

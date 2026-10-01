@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not statesmanlike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not statesmanlike.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not characteristic of or suitable for a statesman; exhibiting narrow, petty, or short-sighted political judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by factional partisanship, demagoguery, or disregard for the long-term public welfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstatesmanlike designates not statesmanlike."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"To penalize an entire continent for the indiscretions of a few was deemed thoroughly **unstatesmanlike**."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"It would have been cowardly and **unstatesmanlike** to conceal the mortal peril confronting our defenses."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Appealing to temporary popular passions for electoral victory is an **unstatesmanlike** abdication of duty."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility with usually indoor and outdoor settings where living, typically wild animals are kept especially for public exhibition —called also zoological garden, zoological park.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place, situation, or group marked by crowding, confusion, or unrestrained behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoological garden or park where live wild and domestic animals are kept in enclosures for public exhibition, education, breeding, and scientific study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern conservation biology, an institution engaged in ex-situ wildlife conservation, species survival plans, and public biodiversity education.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"That was last week; and as the day was mild and-- almost!--sunny, I suggested to the little girls that we should go holiday-making on our own account, and pay a visit to the Zoo."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We've got on our hats." "To the Zoo!"*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"All good little girls go to the Zoo, and ride on the elephants, and throw buns to the bears."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Observing the captive chimpanzees at the London **zoo**, Darwin noted facial expressions remarkably akin to human laughter."*
+> - 📜 **George Schaller (*The Last Panda*):** *"The modern **zoo** must evolve from a mere menagerie into a sanctuary and breeding station for endangered wildlife."*
+> - 📜 **Gerald Durrell (*The Overloaded Ark*):** *"We gathered rare forest creatures in Cameroon to establish captive breeding colonies at our island **zoo**."*

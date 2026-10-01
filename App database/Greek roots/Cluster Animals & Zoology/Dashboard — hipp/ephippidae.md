@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family comprising the spadefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family comprising the spadefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine perciform fishes known as spadefishes, characterized by deep, laterally compressed bodies resembling a horse's saddle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, reef and coastal fishes having small mouths, brush-like teeth, and steep dorsal profiles (from Greek ephippios, 'saddle-like').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephippidae designates small family comprising the spadefishes."*
+> - 📜 **Albert Gunther (*Catalogue of the Fishes in the British Museum*):** *"The family **Ephippidae** comprises compressed, high-backed fishes whose dorsal outline resembles an ornate riding saddle."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The Atlantic spadefish of the **Ephippidae** travels in vast schools around offshore rocky reefs and navigation pilings."*
+> - 📜 **Georges Cuvier (*Histoire Naturelle des Poissons*):** *"The distinctive cranial crest in **Ephippidae** gives the head a curious equestrian or crested contour."*

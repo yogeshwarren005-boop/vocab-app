@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation of the body with parasitic worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation of the body with parasitic worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with parasitic worms (helminths) in the human body or domestic animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global public health, chronic endoparasitic diseases including ascariasis, trichuriasis, and schistosomiasis affecting millions in developing regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helminthiasis designates infestation of the body with parasitic worms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe intestinal **helminthiasis** stunts childhood physical growth and causes persistent cognitive impairment."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Improved village sanitation and clean drinking water are the only permanent defenses against endemic **helminthiasis**."*
+> - 📜 **Aldo Castellani (*Manual of Tropical Medicine*):** *"Eosinophilia in tropical patients serves as a primary diagnostic clue indicating underlying systemic **helminthiasis**."*

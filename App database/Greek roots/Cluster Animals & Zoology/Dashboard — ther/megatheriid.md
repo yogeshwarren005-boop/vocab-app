@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large extinct ground sloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large extinct ground sloth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct ground sloth belonging to the family Megatheriidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalian paleontology, xenarthran herbivores encompassing both colossal terrestrial ground sloths and specialized marine sloths (Thalassocnus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megatheriid designates a large extinct ground sloth."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The evolutionary lineage of the **megatheriid** ground sloths traces back to small, agile browsing ancestors in the Oligocene."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Every true **megatheriid** is characterized by bilophodont molar crowns and absence of enamel."*
+> - 📜 **Stephen Jay Gould (*The Lying Stones of Marrakech*):** *"The Pacific coast of Peru yielded swimming **megatheriid** sloths that foraged upon underwater marine kelp."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of carnivorous non-mammalian cynodont therapsids from the Late Permian of South Africa, literally 'dog lizard'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a small predatory synapsid within the family Cynosuchidae possessing specialized canine teeth and an incipient secondary bony palate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Cynosaurus designates a term designating an entity, condition, or phenomenon derived from greek cyn."*
+> - 📜 **Richard Owen (*Descriptive and Illustrated Catalogue of the Fossil Reptilia of South Africa*):** *"I described the skull of **Cynosaurus** to emphasize the striking mammalian transition in its differentiated dentition."*
+> - 📜 **Robert Broom (*The Mammal-like Reptiles of South Africa*):** *"The small Karoo predator **Cynosaurus** provides crucial evidence of the evolution of the mammalian temporomandibular joint."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"In the cranial morphology of **Cynosaurus**, the dentary bone already forms the predominant element of the lower jaw."*

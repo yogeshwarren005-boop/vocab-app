@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large class of arthropods including spiders and ticks and scorpions and daddy longlegs; have four pairs of walking legs and no wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large class of arthropods including spiders and ticks and scorpions and daddy longlegs; have four pairs of walking legs and no wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major class of terrestrial chelicerate arthropods comprising spiders, scorpions, harvestmen, mites, and ticks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, an ancient arthropod class characterized by two body tagmata (prosoma and opisthosoma) and chelicerate mouthparts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnida designates a large class of arthropods including spiders and ticks and scorpions and daddy longlegs; have four pairs of walking legs and no wings."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Latreille separated the **Arachnida** from the true insects on account of their eight legs and lack of metamorphoses."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The respiratory organs of the **Arachnida** furnish valuable diagnostic characters for ordinal classification."*
+> - 📜 **E. Ray Lankester (*Extinct Animals*):** *"Fossil evidence proves that the **Arachnida** were among the earliest arthropod pioneers to colonize dry land in the Silurian."*

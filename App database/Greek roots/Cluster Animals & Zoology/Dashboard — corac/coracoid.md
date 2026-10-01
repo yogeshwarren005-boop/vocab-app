@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a process of the scapula in most mammals or a well-developed cartilage bone of many lower vertebrates that extends from the scapula to or toward the sternum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a process of the scapula in most mammals or a well-developed cartilage bone of many lower vertebrates that extends from the scapula to or toward the sternum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a raven's beak; or designating the coracoid bone or scapular process in vertebrate pectoral anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In osteology, a bone in reptiles, birds, and monotremes (reduced to an apophysis of the scapula in placental mammals) bracing the shoulder joint against the sternum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coracoid designates of, relating to, or being a process of the scapula in most mammals or a well-developed cartilage bone of many lower vertebrates that extends from the scapula to or toward the sternum."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **coracoid** process of the scapula projects forward and upward over the glenoid cavity like the beak of a bird."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"In avian flight anatomy, the pillar-like **coracoid** resists the tremendous compressive forces exerted by the pectoralis muscles."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Monotremes alone among living mammals retain a separate, well-developed **coracoid** bone articulating with the sternum."*

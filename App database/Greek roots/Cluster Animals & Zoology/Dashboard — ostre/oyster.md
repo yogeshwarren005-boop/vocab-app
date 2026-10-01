@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various marine bivalve mollusks (family Ostreidae) that have a rough irregular shell closed by a single adductor muscle and include commercially important shellfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mollusks resembling or related to the oysters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various bivalve mollusks of the family Ostreidae, especially edible species harvested from shallow coastal waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology and gastronomy, filter-feeding bivalves celebrated as seafood delicacies and renowned for producing nacreous pearls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good friend,” quoth he, “Say, the firm Roman to great Egypt sends This treasure of an oyster; at whose foot, To mend the petty present, I will piece Her opulent throne with kingdoms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rich honesty dwells like a miser, sir, in a poor house, as your pearl in your foul oyster."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canst tell how an oyster makes his shell?"*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"Why, then the world's mine **oyster**, which I with sword will open."*
+> - 📜 **Jonathan Swift (*Polite Conversation*):** *"He was a bold man that first ate an **oyster**, daring to taste what looked so cold and slippery."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Like an **oyster** in its shell, the contemplative mind retreats into undisturbed solitude amidst the ocean."*

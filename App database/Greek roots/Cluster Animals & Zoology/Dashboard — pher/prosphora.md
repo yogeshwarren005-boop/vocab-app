@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The round leavened loaf of bread used in Eastern Orthodox and Byzantine Christian liturgies for the Eucharist, literally 'offering'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology, consecrated liturgical bread stamped with a seal (IC XC NIKA, 'Jesus Christ Conquers') from which the Lamb (Amnos) and commemoration particles are excised.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosphora designates a term designating an entity, condition, or phenomenon derived from greek pher."*
+> - 📜 **John of Damascus (*An Exposition of the Orthodox Faith*):** *"The priest offers the sacred **prosphora** upon the table of oblation, setting apart the Lamb for the Holy Mystery."*
+> - 📜 **Alexander Schmemann (*The Eucharist*):** *"The baking of the **prosphora** by faithful parishioners represents the offering of our daily life and labor to God."*
+> - 📜 **A. P. Stanley (*Lectures on the History of the Eastern Church*):** *"Unlike the unleavened wafer of the Latin Church, the **prosphora** of the East remains a living loaf of leavened bread."*

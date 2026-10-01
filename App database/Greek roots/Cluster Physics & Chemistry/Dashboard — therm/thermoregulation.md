@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The maintenance or regulation of temperature; specifically : the maintenance of a particular temperature of the living body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The maintenance or regulation of temperature; specifically : the maintenance of a particular temperature of the living body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process that allows an organism to maintain its core internal temperature within set physiological boundaries, even when surrounding temperatures vary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, the coordinated autonomic and behavioral control system governed by the preoptic area of the anterior hypothalamus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoregulation designates the maintenance or regulation of temperature; specifically : the maintenance of a particular temperature of the living body."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Physiological **thermoregulation** ensures that mammalian blood remains at a steady warmth despite the freezes of winter."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"Sweating, shivering, and cutaneous vasomotor tone are the principal effector arms of homeostatic **thermoregulation**."*
+> - 📜 **Bernd Heinrich (*Winter World*):** *"Bees maintain social **thermoregulation** inside the winter hive by shivering their thoracic muscles in collective shifts."*

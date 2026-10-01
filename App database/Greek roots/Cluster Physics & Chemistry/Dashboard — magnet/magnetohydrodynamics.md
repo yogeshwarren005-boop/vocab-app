@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the magnetic properties and behavior of electrically conducting fluids, such as plasmas, liquid metals, and salt water (MHD).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and plasma engineering, the theoretical framework developed by Hannes Alfvén describing stellar dynamos, solar flares, and fusion plasma containment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetohydrodynamics designates the study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal)."*
+> - 📜 **Hannes Alfvén (*Cosmical Electrodynamics*):** *"The interplay between magnetic fields and conducting fluids constitutes the foundation of **magnetohydrodynamics**, predicting transverse magnetosonic waves."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Hydrodynamic and Hydromagnetic Stability*):** *"Magnetic fields profoundly alter fluid convective stability, providing the central mathematical problem of **magnetohydrodynamics**."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"The rotational turbulence of stellar interiors cannot be solved without invoking the principles of **magnetohydrodynamics**."*

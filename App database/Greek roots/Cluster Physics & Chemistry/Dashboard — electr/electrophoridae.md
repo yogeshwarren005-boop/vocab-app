@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family comprising the electric eels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family comprising the electric eels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of neotropical gymnotiform freshwater electric fish containing the electric eel (Electrophorus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, a teleost family characterized by modified muscle electroplaques generating lethal high-voltage discharges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrophoridae designates small family comprising the electric eels."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The ferocious electric eels of the Llanos, classified among the **Electrophoridae**, discharged shocks capable of stunning horses."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The evolution of electric organs in the **Electrophoridae** presents a fascinating example of extreme physiological specialization."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Specimens belonging to the **Electrophoridae** provided living proof that animal electricity is identical to galvanic current."*

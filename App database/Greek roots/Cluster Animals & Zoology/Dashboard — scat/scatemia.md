@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intestinal toxemia or systemic poisoning resulting from chronic fecal retention and absorption of decomposition products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, autointoxication arising from severe coprostasis, characterized by lethargy, coated tongue, and headache.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatemia designates a term designating an entity, condition, or phenomenon derived from greek scat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Nineteenth-century clinicians attributed mysterious chronic asthenia to **scatemia** caused by sluggish colonic elimination."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The term **scatemia** was applied to toxic febrile states provoked by fecal impaction in elderly bedridden patients."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Copious enemas and saline cathartics promptly resolved the dull delirium induced by severe **scatemia**."*

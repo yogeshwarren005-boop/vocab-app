@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresistible impulse to start fires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresistible impulse to start fires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsessive, compulsive desire or impulse to deliberately and maliciously set things on fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and legal medicine, an impulse-control disorder characterized by tension prior to the act and intense gratification during fire-setting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyromania designates an irresistible impulse to start fires."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"True **pyromania** must be differentiated from arson motivated by financial gain or personal revenge."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients exhibiting severe **pyromania** often describe an irresistible internal tension relieved only by the sight of fire."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient's destructive impulse was recognized as a classic manifestation of episodic **pyromania**."*

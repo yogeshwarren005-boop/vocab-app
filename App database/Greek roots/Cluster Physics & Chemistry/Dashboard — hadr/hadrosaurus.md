@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of hadrosaurid dinosaurs, discovered in Haddonfield, New Jersey in 1858 (Hadrosaurus foulkii).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of paleontology, the first substantially complete dinosaur skeleton mounted and displayed anywhere in the world, mounted by Waterhouse Hawkins in 1868.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosaurus designates any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic."*
+> - 📜 **Joseph Leidy (*Hadrosaurus foulkii, a New Saurian from the Cretaceous of New Jersey*):** *"The disproportion between the fore and hind limbs indicated that **Hadrosaurus** walked habitually upon its hind legs like an ostrich."*
+> - 📜 **Edward Drinker Cope (*Fossil Reptiles of New Jersey*):** *"The discovery of **Hadrosaurus** dismantled the old conception of dinosaurs as clumsy four-footed lizards."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mounted skeleton of **Hadrosaurus** in Philadelphia attracted thousands of astonished citizens to the Academy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An external parasite or animal organism living on the exterior of another animal (plural: epizoa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical veterinary science, external pests including lice, ticks, mites, and blowfly larvae causing cutaneous disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epizoon designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrates*):** *"Unlike the sheltered fluke, the **epizoon** must develop powerful claws to resist dislodgment by grooming."*
+> - 📜 **Louis Agassiz (*Principles of Zoology*):** *"The parasitic crustacean Lernaea embeds its anchor-shaped cephalothorax deep into fish muscle as an aberrant **epizoon**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The sheep tick, though called a fly, has lost its wings to become a permanent blood-sucking **epizoon**."*

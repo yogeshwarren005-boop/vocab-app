@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ichthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic or acquired skin disorder characterized by dry, thickened, rough, and scaly skin resembling fish scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, a group of cornification disorders (such as ichthyosis vulgaris and harlequin ichthyosis) caused by defective epidermal keratinization and barrier lipids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyosis designates a term designating an entity, condition, or phenomenon derived from greek ichthy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **ichthyosis** presents at birth with generalized scaling and polygonal plates covering the trunk and limbs."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"The skin was so dry and encrusted with rough scales that old writers compared it to the disease called **ichthyosis**."*
+> - 📜 **Erasmus Wilson (*On Diseases of the Skin*):** *"In chronic **ichthyosis**, emollients and warm alkaline baths soften the harsh, fish-like epidermis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the pubis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the pubis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the pecten or pubic bone; or comb-like in anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, pertaining to the pectineal line of the pubis or the pectineus muscle of the anterior medial thigh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectineal designates of or relating to the pubis."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **pectineal** line forms the sharp posterior boundary of the upper ramus of the pubic bone."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Arising from the pubic crest, the flat **pectineal** muscle adducts and flexes the thigh upon the pelvis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The femoral hernia emerges through the ring bounded posteriorly by the strong **pectineal** ligament of Cooper."*

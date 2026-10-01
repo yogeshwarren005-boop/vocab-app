@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chelon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of giant marine turtle from the Late Cretaceous epoch, the largest sea turtle ever documented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a massive protostegid chelonian measuring up to 4.6 meters, with a leathery carapace supported by radiating ribs rather than solid bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Archelon designates a term designating an entity, condition, or phenomenon derived from greek chelon."*
+> - 📜 **G. R. Wieland (*The Osteology of Archelon*):** *"The colossal proportions of **Archelon** from the Pierre Shales exceeded those of any known living or fossil chelonian."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"In the shallow epicontinental Cretaceous seaway, the giant sea turtle **Archelon** paddled with enormous flippers."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The shell reduction seen in **Archelon** parallels the anatomical adaptations of modern leatherback turtles."*

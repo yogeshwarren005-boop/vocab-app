@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of Cathar; adherents of the medieval dualist Christian sect of Languedoc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical studies, the Albigensian dissidents whose besieged fortress at Montségur became the tragic symbol of their final eradication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathars designates a christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism."*
+> - 📜 **Barbara W. Tuchman (*A Distant Mirror*):** *"The crusade against the **Cathars** unleashed devastation across the civilized and prosperous courts of Provence."*
+> - 📜 **Emmanuel Le Roy Ladurie (*Montaillou: The Promised Land of Error*):** *"The remaining **Cathars** hid in mountain caverns, sustained by sympathetic shepherds who shared their dualist faith."*
+> - 📜 **Steven Runciman (*The Medieval Manichee*):** *"In 1244, over two hundred steadfast **Cathars** walked into the flames beneath the fortress of Montségur."*

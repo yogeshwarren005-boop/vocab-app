@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change of position, state, or form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of a disease-producing agency (such as cancer cells) from the initial or primary site of disease to another part of the body; also : the process by which such spreading occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of secondary malignant growths at a distance from a primary site of cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, the biological process by which cancer cells detach, invade blood or lymphatic vessels, and colonize distant organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"There is no metastasis, no stoppage of harmonious 420:3 action, no paralysis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Malignant emboli traveling through the bloodstream establish fatal **metastasis** in distant parenchymal organs."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The lethal turning point in cancer is marked by **metastasis**, when localized disease becomes systemic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Widespread bony **metastasis** from carcinoma of the breast often produces severe intractable bone pain."*

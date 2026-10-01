@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brittle stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brittle stars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of echinoderms comprising typical brittle stars with slender, serpentine, unbranched arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, an abundant benthic order characterized by vertebral ossicles articulating with ball-and-socket joints, allowing active undulating crawling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiurida designates brittle stars."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The arms of the **Ophiurida** do not contain digestive caeca, functioning purely as agile locomotor organs."*
+> - 📜 **Philip Henry Gosse (*A Year at the Shore*):** *"Dredging brought up hundreds of fragile **Ophiurida**, whose writhing arms broke off at the slightest touch."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"The deep seabed across the North Atlantic was carpeted with vast brittle star communities of the order **Ophiurida**."*

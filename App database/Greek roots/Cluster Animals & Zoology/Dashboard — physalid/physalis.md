@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek physalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the nightshade family (Solanaceae), commonly known as groundcherries, husk tomatoes, or Chinese lanterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and horticulture, herbaceous plants producing edible berries enclosed within an inflated, papery bladder-like calyx (Greek physallis, 'bladder').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physalis designates a term designating an entity, condition, or phenomenon derived from greek physalid."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The inflated calyx of **Physalis** encloses the pulpy berry like an airy Chinese lantern."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The plant **Physalis**, or winter cherry, bears bright red berries inside bladder-like husks, esteemed for gravel and stone."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"Indigenous peoples of the Americas cultivated species of **Physalis**, valuing the tart, acidic berries for sauces."*

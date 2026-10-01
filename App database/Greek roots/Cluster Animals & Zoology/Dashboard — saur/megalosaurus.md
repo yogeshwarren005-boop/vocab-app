@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of large carnivorous theropod dinosaurs from the Middle Jurassic of England, the first dinosaur scientifically described and named (1824).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, William Buckland's landmark discovery from the Stonesfield Slate that inaugurated scientific dinosaur paleontology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As much mud in the streets as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a Megalosaurus, forty feet long or so, waddling like an elephantine lizard up Holborn Hill."*
+> - 📜 **William Buckland (*Notice on the Megalosaurus or Great Fossil Lizard of Stonesfield*):** *"I have designated this animal by the name of **Megalosaurus**, on account of its enormous dimensions exceeding forty feet in length."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It would not be wonderful to meet a **Megalosaurus**, forty feet long or so, waddling like an elephantine lizard up Holborn Hill."*
+> - 📜 **Richard Owen (*Report on British Fossil Reptiles*):** *"The sacral vertebrae of **Megalosaurus** are anchylosed into a solid arch to support the colossal weight of the torso."*

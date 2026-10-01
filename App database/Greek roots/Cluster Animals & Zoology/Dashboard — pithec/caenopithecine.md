@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of ape, monkey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of ape, monkey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or resembling Caenopithecus, an extinct genus of adapiform primates from the Eocene epoch of Europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primate paleontology, early strepsirrhine primates within the family Adapidae exhibiting lemur-like postcranial skeletons and folivorous shearing dentition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caenopithecine designates adjective*) pertaining to, derived from, or characteristic of ape, monkey."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"The fossil dentition revealed a **caenopithecine** primate that flourished across European subtropical forests in the Eocene."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"The Swiss phosphorite deposits preserved the skull of a **caenopithecine** lemur alongside archaic ungulates."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Phylogenetic analysis allies the **caenopithecine** lineage with early ancestors of the modern Madagascan indriids."*

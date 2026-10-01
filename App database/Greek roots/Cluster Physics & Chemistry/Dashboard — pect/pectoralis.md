@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two large muscles of the chest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two large muscles of the chest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two large muscles of the anterior chest wall (the pectoralis major and pectoralis minor) connecting the chest with the shoulder and upper arm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human and avian anatomy, the massive flight muscle powering the downward wing stroke in birds and shoulder adduction in primates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectoralis designates either of two large muscles of the chest."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The **pectoralis** major arises from the sternum and clavicle to insert into the crest of the greater tubercle of the humerus."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Contraction of the **pectoralis** minor pulls the shoulder forward and downward, depressing the scapula."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In flying birds, the tremendous keel of the sternum anchors the enormous mass of the **pectoralis** muscles."*

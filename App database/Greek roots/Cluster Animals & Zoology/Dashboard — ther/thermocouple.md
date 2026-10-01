@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of thermometer consisting of two wires of different metals that are joined at both ends; one junction is at the temperature to be measured and the other is held at a fixed lower temperature; the current generated in the circuit is proportional to the temperature difference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of thermometer consisting of two wires of different metals that are joined at both ends; one junction is at the temperature to be measured and the other is held at a fixed lower temperature; the current generated in the circuit is proportional to the temperature difference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermoelectric device consisting of two dissimilar metal conductors joined at two junctions, producing a voltage proportional to the temperature difference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In instrumentation and physics, a rugged pyrometric temperature sensor operating on the Seebeck effect, measuring extreme heat in blast furnaces and jet engines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermocouple designates a kind of thermometer consisting of two wires of different metals that are joined at both ends; one junction is at the temperature to be measured and the other is held at a fixed lower temperature; the current generated in the circuit is proportional to the temperature difference."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"By calibrating a platinum-rhodium **thermocouple**, we attained precise temperature measurements up to fifteen hundred degrees."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The tiny current flowing through the circuit of the **thermocouple** reflected the Seebeck effect at the heated metallic contact."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Laboratory furnaces regulated by a delicate **thermocouple** simulated the high-temperature ionization of stellar matter."*

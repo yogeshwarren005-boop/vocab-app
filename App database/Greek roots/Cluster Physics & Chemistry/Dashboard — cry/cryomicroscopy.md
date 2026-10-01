@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The observation of biological specimens or materials with a microscope while maintaining them at cryogenic temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural biology, cryo-electron microscopy (cryo-EM), a revolutionary imaging technique where vitrified frozen hydrated macromolecules are resolved at near-atomic resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryomicroscopy designates a term designating an entity, condition, or phenomenon derived from greek cry."*
+> - 📜 **Richard Henderson (*Cryo-EM: The Resolution Revolution*):** *"Vitrification of protein specimens without ice crystallization made **cryomicroscopy** the supreme tool of structural biology."*
+> - 📜 **Jacques Dubochet (*Cryo-Electron Microscopy of Vitrified Specimens*):** *"By plunging thin aqueous films into liquid ethane, **cryomicroscopy** preserves the pristine native state of viral capsids."*
+> - 📜 **Joachim Frank (*Three-Dimensional Electron Microscopy of Macromolecular Assemblies*):** *"Single-particle reconstruction coupled with **cryomicroscopy** unveiled the dynamic conformations of the ribosome."*

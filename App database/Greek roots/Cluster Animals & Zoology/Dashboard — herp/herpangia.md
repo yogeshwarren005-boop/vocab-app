@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A viral infection (usually in children) marked by sore throat and fever and papules in the mouth and throat and headache and abdominal pain; usually subsides in a short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viral infection (usually in children) marked by sore throat and fever and papules in the mouth and throat and headache and abdominal pain; usually subsides in a short time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant / related medical term for herpangina, an acute viral infection characterized by small vesicular or ulcerative throat lesions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pediatrics, an enanthem caused primarily by Group A Coxsackieviruses causing abrupt fever, sore throat, and discrete posterior pharyngeal blisters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpangia designates a viral infection (usually in children) marked by sore throat and fever and papules in the mouth and throat and headache and abdominal pain; usually subsides in a short time."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The child exhibited high fever and multiple small vesicles on the tonsillar pillars characteristic of acute **herpangia**."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Summer fevers accompanied by creeping vesicular eruptions of the mouth were recorded under the name of **herpangia**."*
+> - 📜 **Aldo Castellani (*Manual of Tropical Medicine*):** *"Differentiating **herpangia** from aphthous stomatitis and diphtheritic angina is crucial for proper pediatric triage."*

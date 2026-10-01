@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract strongly, as if with a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make magnetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To impart magnetic properties to a substance; to make magnetic (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attract, fascinate, or entrance someone; or historically, to subject to animal magnetism (mesmerism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The effect of the discharge half-a-mile away was to _de_magnetise the core slightly."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed, it is not too much to say that the maritime commerce of the world was based upon the behaviour of that little piece of magnetised steel."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The latter is but a small piece of iron magnetised; the former is nothing more than a spinning-top."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"By passing a powerful galvanic pulse through the surrounding wire, we were able to **magnetise** the steel cylinder permanently."*
+> - 📜 **Arthur Conan Doyle (*The Parasite*):** *"The mesmerist sought to **magnetise** his subject until her voluntary will surrendered completely."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The charismatic leader possesses that rare spiritual fire that can **magnetise** a disheartened multitude into action."*

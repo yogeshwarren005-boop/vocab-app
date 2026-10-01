@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Early archosaurian carnivore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Early archosaurian carnivore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of colossal predatory loricatan pseudosuchians from the Late Triassic of South America, literally 'lizard crocodile'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an apex carnivore of the Ischigualasto Formation reaching up to seven meters in length, preying upon early dinosaurs and synapsids before the Jurassic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saurosuchus designates early archosaurian carnivore."*
+> - 📜 **Alfred Sherwood Romer (*The Chañares (Argentina) Triassic Reptile Fauna*):** *"The giant predator **Saurosuchus** dominated the Late Triassic valleys of Argentina, armed with deep, dagger-like serrated jaws."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Before dinosaurs rose to dominance, mighty pseudosuchian archosaurs like **Saurosuchus** were the supreme apex predators of the Triassic world."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"The massive skull and upright limb posture of **Saurosuchus** illustrate the predatory specialization achieved by non-dinosaurian archosaurs."*

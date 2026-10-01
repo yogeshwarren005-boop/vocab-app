@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek icter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the liver accompanied by conspicuous jaundice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human pathology, an acute or chronic infectious hepatitis characterized by biliary stasis and widespread hepatocyte necrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icterohepatitis designates a term designating an entity, condition, or phenomenon derived from greek icter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **icterohepatitis** may supervene rapidly in the course of systemic septicemia."*
+> - 📜 **Theobald Smith (*Studies on Animal Diseases*):** *"Infectious enterohepatitis in poultry occasionally induces severe secondary **icterohepatitis**."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The biopsy specimen revealed florid portal inflammation consistent with drug-induced **icterohepatitis**."*

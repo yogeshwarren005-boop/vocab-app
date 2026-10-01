@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Platypus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Platypus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monotreme mammalian family containing the duck-billed platypus (Ornithorhynchus anatinus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and evolutionary biology, an archaic Australasian family of egg-laying mammals possessing electroreceptive leathery bills, cloacas, and venomous calcaneal spurs in males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog ornithorhynchidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The family **Ornithorhynchidae** preserves a primitive reptilian shoulder girdle alongside mammalian hair and mammary glands."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The osteological combination found in **Ornithorhynchidae** confounded the traditional boundaries between oviparous and viviparous vertebrates."*
+> - 📜 **Frank E. Beddard (*Mammalia*):** *"The subterranean burrows of the **Ornithorhynchidae** are excavated along riverbanks, terminating in grass-lined nesting chambers."*

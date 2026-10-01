@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the coraciidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the coraciidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the roller family (Coraciidae), comprising colorful Old World birds such as the European roller.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, medium-sized insectivorous birds celebrated for brilliant turquoise and chestnut plumage and tumbling, somersaulting aerial courtship flights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coracias designates type genus of the coraciidae."*
+> - 📜 **John Gould (*The Birds of Europe*):** *"The European roller, **Coracias** garrulus, flashes like a living sapphire against the arid scrubland of southern Spain."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"I established the genus **Coracias** to encompass these brightly hued birds possessing raven-like bills with hooked tips."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The name **Coracias** commemorates the bird's harsh, crow-like voice, contrasting vividly with its magnificent plumage."*

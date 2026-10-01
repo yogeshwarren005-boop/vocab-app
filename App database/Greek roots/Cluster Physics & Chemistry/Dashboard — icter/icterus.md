@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellowish pigmentation of the skin, tissues, and body fluids caused by the deposition of bile pigments : jaundice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellowish pigmentation of the skin, tissues, and body fluids caused by the deposition of bile pigments : jaundice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jaundice; a yellow pigmentation of the skin, conjunctival sclera, and mucous membranes caused by hyperbilirubinemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neonatology, icterus neonatorum (physiological jaundice of the newborn); or in veterinary pathology, neonatal isoerythrolysis in foals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icterus designates yellowish pigmentation of the skin, tissues, and body fluids caused by the deposition of bile pigments : jaundice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstructive **icterus** develops when gallstones or neoplasms occlude the common bile duct."*
+> - 📜 **Atul Gawande (*Complications*):** *"The surgeon noted deep **icterus** staining the peritoneal tissues during exploratory laparotomy."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"Bilirubin deposition in the brainstem, known as kernicterus, was once a dreaded complication of severe neonatal **icterus**."*

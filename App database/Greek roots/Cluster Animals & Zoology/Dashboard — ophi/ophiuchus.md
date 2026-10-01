@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large constellation in the equatorial region between hercules and scorpius.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large constellation in the equatorial region between hercules and scorpius.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large constellation on the celestial equator, representing a man holding a serpent; the Serpent Bearer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and mythology, associated with the Greek god of medicine Asclepius, positioned between Sagittarius and Scorpius, through which the Sun passes in December.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"On th’ other side, Incensed with indignation, Satan stood Unterrified, and like a comet burned, That fires the length of Ophiuchus huge In th’ arctic sky, and from his horrid hair Shakes pestilence and war."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan stood vast, and like a comet burned, that fires the length of **Ophiuchus** huge in the arctic sky."*
+> - 📜 **Ptolemy (*Almagest*):** *"I charted twenty-nine stars within the constellation of **Ophiuchus**, whose hands hold the coils of the celestial serpent."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Kepler observed the brilliant supernova of 1604 shining near the foot of **Ophiuchus**, outshining all neighboring stars."*

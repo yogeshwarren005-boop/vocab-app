@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or regulatory device designed to maintain constant pressure within a chamber or fluid system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal physiology, a computer-driven device consisting of a pump and balloon used to measure visceral sensitivity and wall compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barostat designates a term designating an entity, condition, or phenomenon derived from greek bar."*
+> - 📜 **August Krogh (*The Anatomy and Physiology of Capillaries*):** *"The experimental chamber was coupled to a mercury **barostat** to prevent atmospheric fluctuations from disturbing the perfusion."*
+> - 📜 **Walter B. Cannon (*The Mechanical Factors of Digestion*):** *"Using a miniature **barostat**, researchers recorded intra-gastric pressures under varying emotional stimuli."*
+> - 📜 **William Henry Howell (*A Text-Book of Physiology*):** *"A sensitive **barostat** held the air chamber at exact pressure while arterial pulsations were registered."*

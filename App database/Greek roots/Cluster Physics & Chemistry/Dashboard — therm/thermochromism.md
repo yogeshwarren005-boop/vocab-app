@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek therm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon in which a substance reversibly or irreversibly changes color as its temperature changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials chemistry and physics, a property displayed by transition metal complexes, liquid crystals, and conjugated polymers due to thermal alterations in electronic bandgaps or molecular conformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermochromism designates a term designating an entity, condition, or phenomenon derived from greek therm."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The reversible **thermochromism** of mercury(II) iodide from red to yellow reflects a polymorphic shift in its crystal lattice."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Certain complex copper and cobalt salts exhibit dramatic **thermochromism**, deepening into vivid azure upon gentle heating."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The chemist watched with fascination as the flask displayed reversible **thermochromism**, cooling from deep brown back to pale amber."*

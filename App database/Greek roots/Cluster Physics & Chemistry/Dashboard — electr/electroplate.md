@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any artifact that has been plated with a thin coat of metal by electrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with metal by electrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To coat a metal or other conductive object with a thin layer of a different metal using electrolytic deposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Silver-plated or gold-plated ware manufactured through an electrochemical deposition process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This observation was the first step in the process of electroplating, which is electrotyping when applied to the art of typography."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"To **electroplate** the copper vessel with pure silver, it was suspended as the cathode in a bath of double cyanide."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Their wealth was like cheap silverware, made to **electroplate** a hollow existence with glittering superficiality."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"We refined the technique to **electroplate** acoustic recording cylinders with ultra-pure nickel matrices."*

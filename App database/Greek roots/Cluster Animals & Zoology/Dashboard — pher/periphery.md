@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The perimeter of a circle or other closed curve; also : the perimeter of a polygon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external boundary or surface of a body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer limits, boundary, or edge of an area, surface, or conceptual sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and geography, the perimeter or outer circumference of a closed plane figure or remote territory away from the metropolitan core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Without having passed through the wall of skull, nevertheless it seemed to me that the periphery of my brain was already outside my skull and still expanding."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The meeting rooms along the periphery of the assembly hall filled with specialists who argued loudly, in whispers, and at length."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The outer periphery of the Asteroid Belt became the boundary."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The rays of sunlight entering the prism were refracted unequally, producing brilliant violet hues along the outer **periphery**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Barbarian legions pressed continuously against the vast frontier **periphery** of the crumbling empire."*
+> - 📜 **Fernand Braudel (*The Perspective of the World*):** *"The capitalist world-economy draws wealth from an impoverished global **periphery** to enrich its dominant urban cores."*

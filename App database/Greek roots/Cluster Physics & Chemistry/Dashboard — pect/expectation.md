@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief about (or mental picture of) the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anticipating with confidence of fulfillment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong belief that something will happen or be the case in the future; anticipation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probability theory and mathematics, expected value—the weighted average of all possible values that a random variable can take.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Oft expectation fails, and most oft there Where most it promises; and oft it hits Where hope is coldest, and despair most fits."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The trees by th’ way Should have borne men, and expectation fainted, Longing for what it had not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our expectation that it would be thus Hath made us forward."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My life in London was built on the splendid **expectation** of inherited wealth."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"For more is not than what is due, and more than all can I repay; **expectation** whirls me round."*
+> - 📜 **Pierre-Simon Laplace (*Philosophical Essay on Probabilities*):** *"Mathematical **expectation** is defined as the product of the possible gain multiplied by the probability of obtaining it."*

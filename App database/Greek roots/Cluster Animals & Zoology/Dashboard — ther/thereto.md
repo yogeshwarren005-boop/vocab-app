@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To that.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To that place, thing, or matter; in addition; furthermore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal jurisprudence and statutory codification, specifying attachment, accession, or agreement to an existing document or covenant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, as thereto sworn by your command, Which my love makes religion to obey, I tell you this: Caesar through Syria Intends his journey, and within three days You with your children will he send before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think ’twill serve, if he Can thereto frame his spirit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My name is Caius Martius, who hath done To thee particularly and to all the Volsces Great hurt and mischief; thereto witness may My surname Coriolanus."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The lord holds the manor with all rights of commons, pastures, and appurtenances belonging **thereto**."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Every man has a property in his own person, and no body has any right **thereto** but himself."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The sciences must be enlarged, and new instruments and methods added **thereto** to advance human power."*

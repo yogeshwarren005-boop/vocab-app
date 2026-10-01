@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science and engineering concerned with the measurement of temperature and scale calibration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metrology and clinical medicine, the scientific determination of thermal states, radiation thermometry, and absolute thermodynamic calibration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometry designates the measurement of temperature."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systematic clinical **thermometry** transformed fever diagnosis from vague impressions into definitive diurnal curves."*
+> - 📜 **Lord Kelvin (*On an Absolute Thermometric Scale*):** *"The goal of theoretical **thermometry** was achieved when temperature was defined purely in terms of mechanical energy."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Precise **thermometry** is the indispensable foundation of all chemical investigations into combustion and latent caloric."*

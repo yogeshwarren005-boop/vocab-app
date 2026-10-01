@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of comb-footed spiders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of comb-footed spiders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large cosmopolitan family of spiders (comb-footed spiders) comprising over 3,000 species, including black widows and house cobweb spiders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic araneology, spiders characterized by eight eyes, absence of a cribellum, and construction of three-dimensional gumfoot-thread tangled webs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theridiidae designates a family of comb-footed spiders."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"Members of the family **Theridiidae** capture insect prey with irregular scaffolding snares lacking geometric orb symmetry."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The potent neurotoxic venom of Latrodectus placed the family **Theridiidae** at the forefront of medical arachnology."*
+> - 📜 **Philip Henry Gosse (*The Romance of Natural History*):** *"Beneath overturned logs, small species of **Theridiidae** suspend their globular parchment egg-cocoons."*

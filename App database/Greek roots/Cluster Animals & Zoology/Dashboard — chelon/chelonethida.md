@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: False scorpions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: False scorpions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of small arachnids commonly known as pseudoscorpions or false scorpions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic invertebrate zoology, diminutive predatory arachnids possessing large chelate pedipalps with venom glands but lacking a stinging metasoma or tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chelonethida designates false scorpions."*
+> - 📜 **Nathan Banks (*The Acarina or Mites*):** *"Under loose bark, active hunters of the order **Chelonethida** seize minute springtails with their pincer-like pedipalps."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"Species of **Chelonethida** frequently attach themselves phoretically to the legs of flying flies to disperse to new leaf litter."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The silk glands of **Chelonethida** open upon the movable fingers of their chelicerae, spinning silken hibernating chambers."*

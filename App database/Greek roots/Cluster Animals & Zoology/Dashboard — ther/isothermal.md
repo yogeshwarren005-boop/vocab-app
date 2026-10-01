@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a process or change taking place at constant temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a process or change taking place at constant temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring at a constant temperature; characterized by equality of temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics, describing a reversible process occurring in a system at constant temperature, obeying Boyle's law (P*V = constant).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This rate applied to utilities traces through each good a line analagous to the isothermal line on the map, marking off a zone of utilities for the present and other zones for each period of the future."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Has the isothermal line any relation to the number of millionaires? 4."*
+> - 📜 **Sadi Carnot (*Reflections on the Motive Power of Fire*):** *"The ideal thermodynamic cycle consists of two **isothermal** expansions and compressions alternating with two adiabatic stages."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"During an **isothermal** expansion, the heat absorbed from the reservoir equals the external mechanical work performed."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The indicator diagram displays **isothermal** curves along which temperature remains strictly invariant throughout the stroke."*

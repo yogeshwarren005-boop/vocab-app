@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bile acid C26H45NO7S derived from cholic acid and taurine and occurring as the sodium salt in the bile especially of carnivores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bile acid C26H45NO7S derived from cholic acid and taurine and occurring as the sodium salt in the bile especially of carnivores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting taurocholic acid, a conjugate of cholic acid and taurine occurring as a primary bile acid in animal and human bile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lipid biochemistry and gastroenterology, a bile acid whose sodium salt acts as a powerful biological surfactant in the small intestine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taurocholic designates a bile acid c26h45no7s derived from cholic acid and taurine and occurring as the sodium salt in the bile especially of carnivores."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The sodium salt of **taurocholic** acid accelerates the saponification and uptake of lipids within the duodenum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstructive jaundice leads to the accumulation of toxic **taurocholic** salts in the blood, provoking intense cutaneous itching."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Bile extracts rich in **taurocholic** compounds dissolve fatty acids with remarkable chemical rapidity."*

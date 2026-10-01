@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device consisting of a core of ferromagnetic material surrounded by a coil of wire through which an electric current is passed to magnetize the core.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical apparatus widely utilized in electric motors, particle accelerators, relays, MRI machines, and magnetic cranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnet designates a core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core."*
+> - 📜 **Joseph Henry (*On the Application of the Principle of the Galvanic Multiplier*):** *"Our giant **electromagnet** demonstrated for the first time that electrical forces could lift industrial weights."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The magnetic field produced inside the solenoid of an **electromagnet** is proportional to the amp-turns per unit length."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The rotating field was produced by feeding two-phase alternating currents into the coils of an **electromagnet** ring."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put before.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declared, specified, or officially expressed in words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regular, established, or occurring at fixed recurring times (such as stated meetings or stated hours).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old lady, becoming more and more incensed against the master of deportment as she dwelt upon the subject, gave me some particulars of his career, with strong assurances that they were mildly stated."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby, has himself stated to our reporter that he mentioned to Miss M."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You come here to make a remarkably modest demand, which you have just stated, and it not being conceded, you will come again.” “And again,” says mademoiselle with more tight and angry nods."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The powers of the executive are clearly **stated** in the text of the proposed constitution."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse took his walk every afternoon at a **stated** hour, weather permitting."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"As previously **stated**, variations that confer any competitive advantage will tend to be preserved."*

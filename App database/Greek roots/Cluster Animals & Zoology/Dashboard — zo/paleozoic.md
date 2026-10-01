@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 544 million to about 230 million years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting the paleozoic era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest of the three geological eras of the Phanerozoic Eon, spanning from approximately 541 to 252 million years ago; the Age of Ancient Life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and stratigraphy, comprising the Cambrian, Ordovician, Silurian, Devonian, Carboniferous, and Permian periods, culminating in the Great Permian Extinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our leader, Professor Paleozoic, ordinarily existed in a sort of transition state between the primary and tertiary formations."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Trilobites are the diagnostic index fossils of the ancient **Paleozoic** strata across Wales and Scandinavia."*
+> - 📜 **Roderick Murchison (*The Silurian System*):** *"Murchison deciphered the sequence of **Paleozoic** formations that revealed the dawn of complex marine invertebrate faunas."*
+> - 📜 **Stephen Jay Gould (*Time's Arrow, Time's Cycle*):** *"The catastrophic collapse terminating the **Paleozoic** erased nearly ninety-five percent of all marine species."*

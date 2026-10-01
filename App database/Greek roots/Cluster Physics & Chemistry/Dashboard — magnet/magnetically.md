@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By the use of magnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if by magnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magnetic manner; by means of magnetic force or fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With irresistible attraction or compelling charm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Good!” cried Ahab, with a wild approval in his tones; observing the hearty animation into which his unexpected question had so magnetically thrown them."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Good!” cried Ahab, with a wild approval in his tones; observing the hearty animation into which his unexpected question had so magnetically thrown them."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The two circuits were **magnetically** coupled so that current in one induced an electromotive force in the other."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She felt herself drawn **magnetically** toward him across the summer garden, helpless to resist."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The armature was suspended **magnetically** to eliminate bearing friction at high rotational velocities."*

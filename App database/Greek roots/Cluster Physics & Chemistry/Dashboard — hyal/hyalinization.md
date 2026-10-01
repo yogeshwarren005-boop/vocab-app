@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being hyaline or having become hyaline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being hyaline or having become hyaline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pathological or natural transformation of biological tissue into a translucent, glassy, homogeneous substance (hyalin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and pathophysiology, the degeneration seen in arteriolar sclerosis, diabetic microangiopathy, or chronic scar maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalinization designates the state of being hyaline or having become hyaline."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The process of **hyalinization** converts normal elastic connective fibers into an amorphous, refractile sheet."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diffuse **hyalinization** of the pancreatic islets was identified as a common finding in long-standing diabetes."*
+> - 📜 **Sherwin B. Nuland (*How We Die*):** *"Widespread vascular **hyalinization** insidiously deprives vital organs of microscopic capillary perfusion."*

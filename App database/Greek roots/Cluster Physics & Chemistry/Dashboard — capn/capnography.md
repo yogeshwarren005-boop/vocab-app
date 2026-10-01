@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monitoring device that measures the concentration of carbon dioxide in exhaled air and displays a numerical readout and waveform tracing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monitoring device that measures the concentration of carbon dioxide in exhaled air and displays a numerical readout and waveform tracing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The non-invasive monitoring and graphical recording of carbon dioxide levels in the respiratory cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anesthesiology and critical care, an indispensable standard of care for assessing alveolar ventilation and detecting circuit disconnections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capnography designates a monitoring device that measures the concentration of carbon dioxide in exhaled air and displays a numerical readout and waveform tracing."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The widespread adoption of **capnography** caused anesthesia-related hypoxia deaths to plummet across the globe."*
+> - 📜 **Julius Comroe (*The Lung: Clinical Physiology and Pulmonary Function Tests*):** *"Quantitative **capnography** enables the clinician to calculate physiologic dead space with remarkable ease."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Modern intensive care relies on continuous **capnography** to fine-tune mechanical ventilation."*

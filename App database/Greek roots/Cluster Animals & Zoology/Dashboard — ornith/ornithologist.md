@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who studies birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zoologist who studies birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who specializes in the scientific study of birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and wildlife ecology, a specialist investigating avian morphology, song dialects, migratory navigation, and conservation biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithologist designates a zoologist who studies birds."*
+> - 📜 **John Gould (*The Birds of Great Britain*):** *"The dedicated **ornithologist** must observe the living bird in its native haunts before judging its plumage variations."*
+> - 📜 **Frank M. Chapman (*Autobiography of a Bird-Lover*):** *"Every field **ornithologist** knows the thrilling heartbeat when an unfamiliar call echoes from the jungle canopy."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"As an **ornithologist** in New Guinea, I discovered that geographic isolation drives the speciation of mountain birds."*

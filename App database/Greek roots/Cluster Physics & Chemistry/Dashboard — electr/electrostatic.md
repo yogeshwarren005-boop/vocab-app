@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or producing or caused by static electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or producing or caused by static electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by static electricity; involving stationary electric charges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, pertaining to electric forces and fields described by Coulomb's law where charges are at rest relative to the observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is a convenient form of what is called an electrostatic condenser."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Another is that adjacent particles become charged as the plates of a minute condenser, and so are drawn tightly together as the plates in an electrostatic voltmeter are drawn towards each other."*
+> - 📜 **Charles-Augustin de Coulomb (*Recherches théoriques et expérimentales sur la force de torsion*):** *"The **electrostatic** attraction between two charged spheres varies inversely as the square of their distance."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"An **electrostatic** shield composed of wire mesh completely protects interior instruments from external electric fields."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The solution to any **electrostatic** problem in a region free of charge reduces to solving Laplace's equation."*

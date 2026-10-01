@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhynch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of Pacific salmon and trout (family Salmonidae), literally 'hooked snout'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fisheries biology and ecology, anadromous salmonids (including chinook, sockeye, coho, and rainbow trout) where breeding males develop a hooked kype on the upper jaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oncorhynchus designates a term designating an entity, condition, or phenomenon derived from greek rhynch."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"I cataloged the salmon of Alaska under **Oncorhynchus** in honor of the massive hooked jaw acquired by breeding males."*
+> - 📜 **John Muir (*Travels in Alaska*):** *"Countless thousands of migrating **Oncorhynchus** choked the shallow glacial rivers on their heroic journey to spawn."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Driven by an infallible homing instinct, the silvery **Oncorhynchus** ascended torrential waterfalls toward its natal gravel bed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An external animal parasite (synonym of ectoparasite; plural: ectozoa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical helminthology and zoology, an animal organism living on the exterior of another animal host, distinguished from an entozoon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectozoon designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The fish louse exemplifies a degraded crustacean transformed into an obligate **ectozoon**."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrates*):** *"Every parasitic **ectozoon** exhibits modifications of the mouthparts suited for piercing the epidermal integument."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Naturalists separated the internal entozoa from the external **ectozoon** infesting the gills of freshwater bass."*

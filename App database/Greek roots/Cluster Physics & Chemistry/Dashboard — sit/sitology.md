@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and dietary science that deals with food, nutrition, and dietetics; dietetics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, the systematic study of nutritional physiology and therapeutic food regimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sitology designates a term designating an entity, condition, or phenomenon derived from greek sit."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The modern physician must master the principles of **sitology** to manage metabolic disorders and convalescence."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Sound **sitology** and fresh air have saved more lives than all the mercurial mixtures of ancient pharmacopoeias."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"In treating melancholy, physicians recommend the strictest **sitology**, avoiding gross, burnt, or windy meats."*

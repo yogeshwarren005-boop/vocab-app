@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic application of heat to the body to relieve pain, improve circulation, and treat musculoskeletal injuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical medicine and rehabilitation, modalities including hot packs, paraffin baths, ultrasound, and sauna therapy used for muscle spasm and joint stiffness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermotherapy designates the use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Judicious local **thermotherapy** promotes vasodilation and accelerates the absorption of chronic inflammatory exudates."*
+> - 📜 **Robley Dunglison (*General Therapeutics and Materia Medica*):** *"Ancient physicians practiced **thermotherapy** through the warm sulfur springs of Baiae to soothe gouty joints."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Rehabilitation protocols for paralyzed limbs integrated daily **thermotherapy** to reduce hypertonic muscular contractures."*

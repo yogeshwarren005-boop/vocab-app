@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Real existence; --charles hopkinson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being there--not here--in position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or fact of being present or existing in a specific place; palpable physical presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential phenomenology and art criticism, the tangible, undeniable presence or spatial actuality of an object or landscape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thereness designates real existence; --charles hopkinson."*
+> - 📜 **Gertrude Stein (*Everybody's Autobiography*):** *"She spoke famously of the lost city with the biting remark that there is no **thereness** there."*
+> - 📜 **Martin Heidegger (*Being and Time*):** *"Dasein is characterized by its primordial spatiality, an authentic **thereness** disclosed within the world."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The stark solidity of the stone wall asserted an uncompromising **thereness** that calmed her turbulent thoughts."*

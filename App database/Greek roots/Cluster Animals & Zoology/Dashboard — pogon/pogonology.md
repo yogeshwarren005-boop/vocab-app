@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pogon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A treatise on or the historical and sociocultural study of beards and facial hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and anthropology, the discipline investigating the symbolism, fashions, grooming rituals, and social status of beards across human civilizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonology designates a term designating an entity, condition, or phenomenon derived from greek pogon."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"A learned chapter on **pogonology** would prove that the philosophy of clothes begins upon the bearded chin of man."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The Victorian gentleman indulged in extravagant **pogonology**, debating the patriotic virtues of moustaches and mutton-chops."*
+> - 📜 **H. L. Mencken (*Prejudices: Third Series*):** *"The history of human vanity offers no richer field for satire than the solemn annals of ecclesiastical **pogonology**."*

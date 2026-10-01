@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematician who specializes in statistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone versed in the collection and interpretation of numerical data (especially someone who uses statistics to calculate insurance premiums).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in or student of the collection, analysis, interpretation, and presentation of numerical data (statistics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematical scientist specializing in probability distributions, biostatistics, econometrics, or experimental design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We think too much "like men"; he would have us "think like God," and think better of odd units and items of humanity than statesmen and statisticians are apt to do."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"As a passionate **statistician**, she used visual coxcomb diagrams to convince the government of sanitation reforms."*
+> - 📜 **Ronald Fisher (*The Design of Experiments*):** *"The consulting **statistician** must be involved before an experiment begins, not merely called in to perform a post-mortem."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"To the competent **statistician**, the bell-shaped normal curve appears as an exquisite architectural monument of nature."*

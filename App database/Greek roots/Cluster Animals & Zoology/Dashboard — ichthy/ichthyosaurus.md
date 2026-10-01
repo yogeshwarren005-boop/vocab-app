@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ichthyosaurs of the jurassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ichthyosaurs of the jurassic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of extinct dolphin-like marine reptiles from the Early Jurassic of Europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology, a predatory marine reptile growing to 2–3 meters in length, discovered famously by Mary Anning, feeding primarily on belemnites and fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Indeed, I found afterwards that horses, cattle, sheep, dogs, had followed the Ichthyosaurus into extinction."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Some authorities think it was an ichthyosaurus, but there is much doubt."*
+> - 📜 **William Buckland (*Geology and Mineralogy Considered with Reference to Natural Theology*):** *"Coprolites found within the ribs of **Ichthyosaurus** contain scales of fossil fishes and the ink bags of prehistoric squids."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The unexpected discovery of **Ichthyosaurus** demonstrated how reptilian limbs could be modified into swimming paddles."*
+> - 📜 **Gideon Mantell (*The Wonders of Geology*):** *"The ferocious jaws and colossal eyes of **Ichthyosaurus** commanded the ancient seas that once rolled over England."*

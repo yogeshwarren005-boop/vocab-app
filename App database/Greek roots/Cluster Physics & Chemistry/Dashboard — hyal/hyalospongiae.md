@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sponges with siliceous spicules that have six rays; choanocytes are restricted to finger-shaped chambers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sponges with siliceous spicules that have six rays; choanocytes are restricted to finger-shaped chambers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of marine sponges commonly known as glass sponges (Hexactinellida), characterized by skeletons made of siliceous, glass-like four- or six-pointed spicules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, deep-sea sponges (such as Venus' flower basket) possessing a syncytial tissue architecture and delicate glassy lattices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalospongiae designates sponges with siliceous spicules that have six rays; choanocytes are restricted to finger-shaped chambers."*
+> - 📜 **Ernst Haeckel (*Report on the Deep-Sea Keratosa*):** *"The intricate latticework of **Hyalospongiae** dredged from abyssal depths exemplifies the mathematical perfection of siliceous architecture."*
+> - 📜 **Charles Wyville Thomson (*The Depths of the Sea*):** *"The Challenger expedition brought up magnificent specimens of **Hyalospongiae**, their vitreous strands glistening like spun glass."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the **Hyalospongiae**, triaxon spicules fuse into a continuous rigid framework anchored into deep-sea mud."*

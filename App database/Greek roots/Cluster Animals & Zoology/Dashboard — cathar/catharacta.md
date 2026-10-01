@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skuas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skuas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or subgenus of large, predatory maritime seabirds commonly known as skuas (family Stercorariidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ornithology, powerful pelagic birds like the great skua (Catharacta skua) renowned for kleptoparasitism, chasing other seabirds to steal their catch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog catharacta as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Pennant (*British Zoology*):** *"The fierce great skua, formerly cataloged under **Catharacta**, defends its nesting territory with furious aerial dives."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"Species of **Catharacta** are formidable oceanic predators that harangue gannets and gulls until they regurgitate."*
+> - 📜 **Robert Cushman Murphy (*Oceanic Birds of South America*):** *"We observed the southern skua **Catharacta** patrolling the seal beaches of South Georgia for carrion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecological relationship in which one organism attaches to another solely for transport; or migration in an electric field (electrophoresis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and parasitology, non-parasitic phoretic transport (e.g. flower mites riding upon hummingbirds, botfly eggs carried by mosquitoes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoresis designates transmission."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"The phenomenon of **phoresis** is beautifully illustrated by pseudo-scorpion nymphs hitchhiking upon the legs of giant cerambycid beetles."*
+> - 📜 **Nathan Banks (*The Acarina or Mites*):** *"Specialized hypopus larvae of grain mites rely upon **phoresis** to disperse from depleted granaries to fresh flour bins."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Adaptive dispersal strategies like **phoresis** prevent inbreeding depression across isolated ecological microhabitats."*

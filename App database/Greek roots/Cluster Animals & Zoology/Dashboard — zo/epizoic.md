@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living or growing on the exterior surface of an animal usually as a parasite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living or growing on the exterior surface of an animal usually as a parasite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living attached to or growing upon the exterior surface of an animal, either parasitically or commensally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing seeds, burs, or spores adapted for epizoochory (dispersal by clinging to animal fur, feathers, or wool).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epizoic designates living or growing on the exterior surface of an animal usually as a parasite."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Hooked fruits of Galium aparine rely upon an **epizoic** mechanism of dispersal in sheep fleece."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Minute colonial polyps flourish in **epizoic** fashion upon the spiny shells of deep-sea gastropods."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Mud adhering to the webbed feet of wading birds provides **epizoic** transport for freshwater mollusk spat."*

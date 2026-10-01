@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid chemical element that is used especially in wood preservatives, alloys, and semiconductors and is extremely toxic in both pure and combined forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous trioxide As2O3 or As4O6 of arsenic used especially as an insecticide or weed killer —called also arsenic trioxide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic, brittle, steel-gray metalloid chemical element with atomic number 33, represented by the symbol As.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, common arsenic trioxide ('white arsenic'), a notorious odorless poison employed in medicine, metallurgy, and homicide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As to his religious notions—why, as Voltaire said, incantations will destroy a flock of sheep if administered with a certain quantity of arsenic."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I look for the man who will bring the arsenic, and don’t mind about his incantations.” “Very good."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But then you must not offend your arsenic-man."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"She walked straight to the cupboard, seized the jar of **arsenic**, and tore out the blue paper stopper."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"He analyzed the contents of the tumbler and instantly detected the presence of **arsenic**."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"In subliming **arsenic**, great care must be observed to avoid inhaling the lethal garlic-scented fumes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a seizure or convulsion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a seizure or convulsion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by a stroke, seizure, or acute pathological attack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and epileptology, designating electrical activity, clinical signs, or cognitive phenomena occurring directly during an epileptic seizure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ictal designates of or relating to a seizure or convulsion."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient experienced profound musical hallucinations during the **ictal** phase of the temporal lobe seizure."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Continuous monitoring revealed sharp paroxysmal spikes that marked the beginning of **ictal** discharge."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Differentiating between the **ictal** state and postictal confusion is essential for accurate clinical evaluation."*

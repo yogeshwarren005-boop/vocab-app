@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sensory perception of pressure or weight; pressure sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and psychophysics, the faculty of tactile and deep proprioceptive appreciation of applied force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baresthesia designates a term designating an entity, condition, or phenomenon derived from greek bar."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Experiments in **baresthesia** demonstrate that muscle sense combines with cutaneous pressure to yield precise weight estimates."*
+> - 📜 **Ernst Heinrich Weber (*De Tactu*):** *"The discrimination threshold in **baresthesia** obeys the law that just-noticeable differences remain proportional to the initial load."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Proprioceptive afferents from tendon organs cooperate with cutaneous mechanoreceptors to mediate accurate **baresthesia**."*

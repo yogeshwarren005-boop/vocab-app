@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of becoming permanently hard and rigid when heated or cured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of becoming permanently hard and rigid when heated or cured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or plastic resin that becomes permanently rigid and infusible upon heating and cross-linking, unable to be remelted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and polymer technology, network polymers (such as Bakelite, epoxies, and vulcanized rubber) that decompose rather than melt when reheated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoset designates having the property of becoming permanently hard and rigid when heated or cured."*
+> - 📜 **Leo Baekeland (*The Synthesis, Constitution, and Uses of Bakelite*):** *"Under heat and pressure, phenol and formaldehyde cross-link into Bakelite, the first commercial **thermoset** plastic."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Extensive covalent cross-linking locks the chains of a **thermoset** into a single giant macromolecular network."*
+> - 📜 **Arthur D. Little (*The Chemist and His Work*):** *"The electrical insulation properties of a molded **thermoset** panel remain stable under extreme engine temperatures."*

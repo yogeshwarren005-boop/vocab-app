@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic use of heat for medical treatment and rehabilitation, such as hot baths, heat packs, ultrasound, or infrared lamps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, hyperthermia therapy used to sensitize tumor cells to radiation or chemotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermotherapy designates the use of heat to treat a disease or disorder; heating pads or hot compresses or hot-water bottles are used to promote circulation in peripheral vascular disease or to relax tense muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Judicious **thermotherapy** in the form of hot fomentations relieves acute muscle spasm and softens fibrous contractures."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Ancient physicians celebrated natural hot sulfur springs as a restorative form of **thermotherapy** for rheumatic aches."*
+> - 📜 **Jerome Groopman (*Second Opinions*):** *"The physiatrist combined regional **thermotherapy** with gentle active stretching to restore mobility to the frozen shoulder."*

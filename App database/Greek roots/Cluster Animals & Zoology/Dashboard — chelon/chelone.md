@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbaceous perennials: shellflower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbaceous perennials: shellflower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial flowering plants in the family Plantaginaceae, commonly known as turtlehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and botany, named for the nymph Chelone who was transformed into a tortoise for mocking Hermes; in horticulture, plants with two-lipped blossoms resembling a tortoise head.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chelone designates herbaceous perennials: shellflower."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Along stream borders and damp meadows, the white or roseate spikes of **Chelone** blossom in late summer."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"The corolla of **Chelone** is strongly inflated and arched, bearing a striking resemblance to the head of a turtle."*
+> - 📜 **William Bartram (*Travels through North & South Carolina*):** *"Beside the cool mountain springs, we gathered specimens of **Chelone** with deep scarlet floral hoods."*

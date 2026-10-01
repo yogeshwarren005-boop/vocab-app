@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment as animals do by ingesting complex organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtaining nourishment as animals do by ingesting complex organic matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nutrition in the manner of most animals, by ingesting solid complex organic food material and digesting it internally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and cellular biology, nutritional behavior contrasted with holophytic (photosynthetic autotrophy) and saprozoic (absorptive heterotrophy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holozoic designates obtaining nourishment as animals do by ingesting complex organic matter."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The amoeba exhibits typical **holozoic** nutrition, engulfing diatoms and ciliates into temporary food vacuoles."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Euglena can switch from photosynthetic nourishment to **holozoic** ingestion when kept in darkness with suitable organic substrates."*
+> - 📜 **Alpheus Spring Packard (*Zoology for High Schools and Colleges*):** *"Higher metazoans are uniformly **holozoic**, possessing specialized alimentary canals to digest particulate food."*

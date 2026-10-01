@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Near that time or date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near that place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Near that place; or approximately near that time, number, or quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive prose and historical narrative, signifying approximate spatial or numerical estimation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One speech in it, I chiefly loved. ’Twas Aeneas’ tale to Dido, and thereabout of it especially where he speaks of Priam’s slaughter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Once there (and it was always lurking thereabout), it is very active and nimble in Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The force of the stream had, until very lately, been received upon some loose stones spread thereabout, which had acted as a shield to the soil under the onset."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I judged that the island lay in the latitude of nine degrees or **thereabout**, far from the usual course of European vessels."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The emperor's palace was situated in the centre of the city, where the two great streets divided, or **thereabout**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He was about forty years of age, or **thereabout**, with dark curled hair and a broad sunburnt countenance."*

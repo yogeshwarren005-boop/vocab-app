@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermal hydrometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thermal hydrometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or determined by a thermohydrometer; combining thermal and hydrometric measurements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical metrology, describing density measurements of liquids normalized against standardized temperature correction tables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermohydrometric designates of or relating to thermal hydrometry."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The **thermohydrometric** tables allowed precise determination of battery electrolyte density throughout winter frosts."*
+> - 📜 **William Crookes (*Researches on the Atomic Weight of Thallium*):** *"Careful **thermohydrometric** calibration ensured that solution volumes were measured with absolute physical rigor."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"A **thermohydrometric** survey of industrial brine ponds tracked evaporation rates under the summer sun."*

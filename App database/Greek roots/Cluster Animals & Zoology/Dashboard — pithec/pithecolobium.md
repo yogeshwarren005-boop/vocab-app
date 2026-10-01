@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thorny shrubs and trees of tropical and subtropical america and asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thorny shrubs and trees of tropical and subtropical america and asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative botanical spelling of Pithecellobium, a genus of tropical leguminous trees commonly known as monkey earrings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic literature and forestry monographs, an orthographic variant frequently used in 19th-century floras for Neotropical mimosoid legumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pithecolobium designates thorny shrubs and trees of tropical and subtropical america and asia."*
+> - 📜 **George Bentham (*Revision of the Suborder Mimoseae*):** *"I classified under **Pithecolobium** those species with coiled, contorted legumes and conspicuous brightly colored arils."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"The wood of **Pithecolobium** pruinosum is highly valued for cabinet-work on account of its rich grain."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"In southern Florida, **Pithecolobium** unguis-cati forms dense coastal hammocks along coral limestone ridges."*

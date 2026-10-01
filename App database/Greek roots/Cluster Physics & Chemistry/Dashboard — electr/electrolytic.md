@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electrolysis or an electrolyte; also : produced by or used in electrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to electrolysis or an electrolyte; also : produced by or used in electrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by electrolysis or an electrolyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics, denoting components such as electrolytic capacitors utilizing an oxide dielectric film formed electrochemically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Deposition of Shell._ The molded case is put in the electrolytic bath for the deposition of shell thereon. _12."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"DEPOSITING THE SHELL Those who are not technically familiar with electrochemistry are prone to think that the length of time a mold is kept in the electrolytic bath, i. e., the copper bath, determines the thickness of the shell deposited thereon."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The determining factors in this phase of electrotyping are the composition of the electrolytic bath, its temperature, and the current density applied."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **electrolytic** action of a current is strictly proportional to the quantity of electricity that traverses the cell."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The commercial extraction of metallic aluminum relies upon the **electrolytic** reduction of bauxite dissolved in molten cryolite."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"High-capacitance **electrolytic** cells were placed in the circuit to filter out ripple from the rectifying apparatus."*

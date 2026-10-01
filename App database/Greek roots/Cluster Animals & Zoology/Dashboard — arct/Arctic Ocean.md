@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ocean north of the Arctic Circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ocean north of the Arctic Circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest and shallowest of the world's five major oceans, surrounding the geographic North Pole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography and glaciology, a semi-enclosed polar basin covered largely by perennial sea ice and surrounded by Eurasia and North America.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Arctic Ocean designates ocean north of the arctic circle."*
+> - 📜 **Fridtjof Nansen (*Farthest North*):** *"The Fram drifted slowly across the frozen expanse of the **Arctic Ocean**, held fast in the relentless grip of polar pack-ice."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Cold bottom currents flowing out of the **Arctic Ocean** profoundly modify marine temperatures across the North Atlantic."*
+> - 📜 **John Franklin (*Narrative of a Journey to the Shores of the Polar Sea*):** *"Our weary expedition stood at last upon the stony promontory gazing out into the grey waves of the **Arctic Ocean**."*

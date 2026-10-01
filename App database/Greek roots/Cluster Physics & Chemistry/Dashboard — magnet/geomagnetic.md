@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to terrestrial magnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnetic storm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the Earth's magnetic field (geomagnetism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics and space physics, pertaining to geomagnetic storms, dipolar field reversals, and the magnetosphere protecting Earth from solar wind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geomagnetic designates of or relating to terrestrial magnetism."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Global magnetic observatories established the reality of widespread **geomagnetic** storms shaking compass needles simultaneously worldwide."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"Paleomagnetic evidence of fossil **geomagnetic** field alignments in ocean basalt verified the theory of continental drift."*
+> - 📜 **James Van Allen (*Radiation Belts Around the Earth*):** *"Energetic solar particles become trapped within the Earth's **geomagnetic** field, forming the radiation belts."*

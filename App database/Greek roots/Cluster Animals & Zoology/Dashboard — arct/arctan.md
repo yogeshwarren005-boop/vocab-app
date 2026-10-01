@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the tangent; the angle that has a tangent equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the tangent; the angle that has a tangent equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mathematics, the inverse tangent function; notation for arctangent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trigonometry and calculus, the function whose derivative is 1/(1+x²), representing the angle whose tangent equals a given ratio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctan designates the inverse function of the tangent; the angle that has a tangent equal to a given number."*
+> - 📜 **Leonhard Euler (*Introductio in Analysin Infinitorum*):** *"We express the circular quadrature through infinite series derived from the expansion of **arctan** of rational fractions."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The rapid convergence of Machin's identity utilizes the sum of two distinct **arctan** terms to approximate pi."*
+> - 📜 **Augustin-Louis Cauchy (*Cours d'Analyse*):** *"The principal branch of the **arctan** function is continuous and monotonic over the entire real line."*

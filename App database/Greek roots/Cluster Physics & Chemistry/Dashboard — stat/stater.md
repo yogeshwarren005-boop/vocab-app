@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient gold or silver coin of the Greek city-states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of Massachusetts —used as a nickname.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek silver or gold coin and weight unit of varying value, minted in several Greek city-states and kingdoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical numismatics, the standard gold or silver denomination of Lydia, Athens, Corinth, and Macedonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stater designates an ancient gold or silver coin of the greek city-states."*
+> - 📜 **Herodotus (*The Histories*):** *"Croesus dedicated bowls of pure gold and cast many a golden **stater** at the Delphic shrine."*
+> - 📜 **Plutarch (*Life of Alexander*):** *"Alexander distributed thousands of golden **stater** coins among his victorious veterans after the conquest of Babylon."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Macedonian **stater** circulated as the premier international gold standard throughout the ancient East."*

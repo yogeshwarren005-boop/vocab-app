@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hyaloplasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hyaloplasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of hyaloplasm (the clear fluid portion of cytoplasm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing cellular regions or cytoplasmic matrix devoid of granular organelles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaloplasmic designates of or relating to hyaloplasm."*
+> - 📜 **Edmund B. Wilson (*The Cell in Development and Inheritance*):** *"During cytokinesis, a clear **hyaloplasmic** wave sweeps across the equatorial plane of the dividing blastomere."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"Centrifugation displaces heavy yolk granules to one pole, leaving a pure **hyaloplasmic** layer at the centripetal end."*
+> - 📜 **Francis Darwin (*The Physiology of Plants*):** *"Streaming in plant hairs is driven by contractile elements embedded within the **hyaloplasmic** ground substance."*

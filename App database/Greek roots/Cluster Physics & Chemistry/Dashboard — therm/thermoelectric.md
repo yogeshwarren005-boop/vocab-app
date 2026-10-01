@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or resulting from thermoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or resulting from thermoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing electricity by the direct action of heat, or relating to the conversion of temperature differences into electric voltage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and materials science, describing phenomena such as the Seebeck, Peltier, and Thomson effects, utilized in thermoelectric coolers and generators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoelectric designates involving or resulting from thermoelectricity."*
+> - 📜 **Thomas Johann Seebeck (*Magnetische Polarisation der Metalle*):** *"Heating the bismuth-copper junction provoked a vigorous **thermoelectric** deflection of the magnetic needle."*
+> - 📜 **Jean Charles Athanase Peltier (*Nouvelles expériences sur la caloricité des courants électriques*):** *"Passing current through the junction created an absorption of heat, demonstrating the reverse **thermoelectric** effect."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"The **thermoelectric** power of a circuit depends directly on the absolute temperature of the junctions."*

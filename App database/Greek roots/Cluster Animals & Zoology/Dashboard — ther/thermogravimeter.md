@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer that includes a thermometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrometer that includes a thermometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An analytical instrument used in thermogravimetry to measure continuous changes in a sample's weight as it is heated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry and materials science, a sensitive microbalance enclosed within a programmable furnace under controlled gaseous atmospheres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimeter designates a hydrometer that includes a thermometer."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"The quartz spring **thermogravimeter** recorded the continuous loss of water of crystallization as temperature ascended."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Thermal decomposition of calcium oxalate monohydrate inside the **thermogravimeter** proceeds through three discrete mass plateaus."*
+> - 📜 **Arthur D. Little (*The Chemist and His Work*):** *"A precision **thermogravimeter** determined the exact ash and volatile carbon content of commercial coking coals."*

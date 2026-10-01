@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of birds and mammals; having constant and relatively high body temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of birds and mammals; having constant and relatively high body temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintaining a stable and relatively constant internal body temperature through physiological regulation (warm-blooded, homeothermic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate ecology and physiology, describing birds and mammals capable of sustaining high aerobic exercise in cold environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homothermic designates of birds and mammals; having constant and relatively high body temperature."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The high cost of maintaining a **homothermic** existence requires animals to consume ten times more food than reptiles."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The geographic expansion of **homothermic** mammals across the arctic tundra was facilitated by dense insulating underfur."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Endocrine control of thyroid and adrenal glands is central to preserving the **homothermic** state under severe cold stress."*

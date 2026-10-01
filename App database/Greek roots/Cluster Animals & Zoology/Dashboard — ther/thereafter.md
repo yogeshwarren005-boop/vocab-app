@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From that time on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From that time on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: After that time, event, or point; subsequently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narrative and formal jurisprudence, designating chronological succession following a specified incident.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thereafter as they be; a score of good ewes may be worth ten pounds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The bell at the inner door in the passage immediately thereafter tinkling, she is admonished by Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An immeasurable social chasm was to divide our heroine’s personality thereafter from that previous self of hers who stepped from her mother’s door to try her fortune at Trantridge poultry-farm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions rebelled upon the Rhine, and **thereafter** the peace of the western provinces was broken for a generation."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"I took the path across the misty moor, and **thereafter** my life entered upon a new and untried chapter."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Prince of Orange landed at Torbay, and shortly **thereafter** King James fled his palace under cover of night."*

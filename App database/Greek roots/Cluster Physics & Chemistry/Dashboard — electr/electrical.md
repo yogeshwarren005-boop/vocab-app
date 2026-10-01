@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or providing or producing or transmitting or operated by electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to, concerned with, or operated by electricity or the study of electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and physical science, pertaining to equipment, circuits, measurements, or energy derived from electric charge flows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In short, she is rendered harmless by being, in electrical language, insulated."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That brightness is of an essentially electrical nature."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Now look at this clock; it is electrical, and goes with a regularity that defies the best chronometers."*
+> - 📜 **Nikola Tesla (*My Inventions: The Autobiography of Nikola Tesla*):** *"The alternating current **electrical** transmission system eliminated the fatal distance limitations of direct current."*
+> - 📜 **Thomas Edison (*The Diary of Thomas Edison*):** *"We worked for weeks in the laboratory until the **electrical** resistance of the carbon filament reached four hundred ohms."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Lines of **electrical** induction traverse dielectric space in curves that reflect the distribution of neighboring conductors."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a parasite: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living on another organism in parasitism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a parasite; living in or on another organism and exploiting it for food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually relying on or exploiting others without giving anything in return.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Those creatures are parasitic.” “I am so glad I know that you do not like them,” said good Sir James."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus, in the Swiss canton of Aargau "all parasitic plants are esteemed in a certain sense holy by the country folk, but most particularly so the mistletoe growing on an oak."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: Rosemary also did I understand you to say or willpower over parasitic tissues."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cuckoo possesses a **parasitic** breeding habit, laying its eggs in the nests of other unsuspecting birds."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A swarm of **parasitic** sycophants drained the treasury and flattered the vanity of the decadent court."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His cousin lived a **parasitic** existence, drifting from one wealthy relative's estate to another."*

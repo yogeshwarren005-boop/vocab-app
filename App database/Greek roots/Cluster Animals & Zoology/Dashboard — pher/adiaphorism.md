@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief or doctrine that certain customs, rituals, or doctrines are non-essential and indifferent to true religious faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Reformation history, the controversy during the Leipzig Interim of 1548 regarding whether Lutheran churches could compromise on ceremonial adiaphora without forfeiting the Gospel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adiaphorism designates a term designating an entity, condition, or phenomenon derived from greek pher."*
+> - 📜 **Philip Melanchthon (*Loci Communes*):** *"Prudent moderation in outward ceremonies is the essence of true **adiaphorism**, guarding the core doctrine of justification."*
+> - 📜 **Henry Hart Milman (*History of Latin Christianity*):** *"The fierce clash between strict orthodox theologians and the proponents of **adiaphorism** tore the nascent Protestant movement."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A philosophical spirit of **adiaphorism** viewed conflicting theological dogmas with detached and tolerant amusement."*

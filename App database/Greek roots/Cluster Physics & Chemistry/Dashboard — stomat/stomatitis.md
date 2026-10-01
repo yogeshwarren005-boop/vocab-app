@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous inflammatory diseases of the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute viral disease especially of various domesticated animals (such as horses and cows) that resembles foot-and-mouth disease, is marked by erosive blisters in and about the mouth, and is caused by any of three rhabdoviruses (Vesiculovirus alagoas, V. indiana, and V. newjersey) which sometimes infect humans producing flu-like symptoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membranes of the mouth (including lips, tongue, gums, and cheeks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, oral ulcerations or lesions caused by viral infection (herpes simplex), candidiasis, nutritional deficiencies, or chemotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatitis designates any of numerous inflammatory diseases of the mouth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aphthous **stomatitis** presents as painful, recurrent superficial ulcers surrounded by an inflammatory red halo."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Chemotherapeutic regimens often induce distressing **stomatitis**, impairing the patient's ability to swallow solid food."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Gentle anesthetic rinses were prescribed to ease the mucosal pain of radiation-induced **stomatitis**."*

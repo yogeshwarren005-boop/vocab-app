@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by parasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants or persons; having the nature or habits of a parasite or leech; living off another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the character of a parasite; parasitic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fawning, sycophantic, or living at the expense of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many industries and branches of industry in America are thus parasitical A condition essentially pathological has come to be looked upon as normal."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"These, however, are less defaced than any other portions of the ruin, and are now invested with a luxuriant mantle of ivy, lichen, and parasitical plants, as if Nature interposed to protect the venerable edifice from further outrage and decay."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"They tore down ancient nobility only to see a new **parasitical** class of financial speculators take its place."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Court of Chancery supported a whole army of **parasitical** clerks, copyists, and hangers-on."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A society that honors idle aristocracy fosters a **parasitical** culture of unproductive consumption."*

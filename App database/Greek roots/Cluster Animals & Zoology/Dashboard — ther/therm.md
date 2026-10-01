@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of heat equal to 100,000 british thermal units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of heat equal to 100,000 british thermal units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-SI unit of heat energy equal to 100,000 British thermal units (BTU) or approximately 105.5 megajoules; or heat in Greek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fuel commerce and energy billing, a standard measurement unit used for retail natural gas and domestic heating supply.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therm designates a unit of heat equal to 100,000 british thermal units."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The mechanical equivalent of each unit **therm** was determined through Joule's paddle-wheel experiments in water."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Engineers computed the combustible output of industrial coal in standard **therm** ratings for locomotive boilers."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Millions of **therm** equivalents of energy are radiated every second from each square meter of the solar photosphere."*

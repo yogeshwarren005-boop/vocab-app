@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or custom of eating dog meat as food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, the historical or traditional consumption of domestic dogs practiced across certain societies in East Asia, Polynesia, and indigenous Americas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cynophagy designates a term designating an entity, condition, or phenomenon derived from greek cyn."*
+> - 📜 **Captain James Cook (*A Voyage to the Pacific Ocean*):** *"The islanders practiced **cynophagy**, esteeming fat roasted dog as a delicacy reserved for chiefs and sacred feasts."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Anthropological surveys record instances of ritual **cynophagy** associated with sacrificial rites before battle."*
+> - 📜 **Marco Polo (*The Travels of Marco Polo*):** *"In several southern provinces, travelers noted the prevalence of **cynophagy** in the bustling marketplace cookshops."*

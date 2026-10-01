@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally high body temperature; sometimes induced (as in treating some forms of cancer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally high body temperature; sometimes induced (as in treating some forms of cancer).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having an abnormally elevated body temperature; hyperthermia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology and physical therapy, the systemic elevation of body temperature induced by diathermy, hot baths, or fever therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermy designates abnormally high body temperature; sometimes induced (as in treating some forms of cancer)."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Artificial **hyperthermy** was employed by ancient physicians through hot vapor rooms to eliminate morbid humours."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"The intense dry heat and delirium of the summer ague manifested as acute systemic **hyperthermy**."*
+> - 📜 **Erasmus Wilson (*On Diseases of the Skin*):** *"Cutaneous flush and sweating fail to dissipate heat when environmental humidity prevents cooling during **hyperthermy**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burdock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burdock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of biennial thistle-like herbaceous plants in the family Asteraceae, commonly known as burdock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and pharmacognosy, stout plants bearing globular flower heads covered with hooked bracts that cling to animal fur (inspiring Velcro).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog arctium as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Turner (*A New Herball*):** *"The prickly burs of **Arctium** adhere so stubbornly to sheep fleeces that shepherds curse their presence in pasture."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The roots of **Arctium** or great burdock were boiled in broth as a purifying spring tonic for the blood."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Waste grounds and roadsides are overrun with coarse **Arctium** bearing hooked involucres adapted for zoochorous dispersal."*

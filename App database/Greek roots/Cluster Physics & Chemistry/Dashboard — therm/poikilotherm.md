@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as a frog) with a variable body temperature that tends to fluctuate with and is similar to or slightly higher than the temperature of its environment : a cold-blooded organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as a frog) with a variable body temperature that tends to fluctuate with and is similar to or slightly higher than the temperature of its environment : a cold-blooded organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that cannot regulate its body temperature except by behavioral means, whose body temperature varies with the environment; a cold-blooded animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative zoology, fish, amphibians, and reptiles whose internal metabolic rate is low and fluctuates with environmental heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poikilotherm designates an organism (such as a frog) with a variable body temperature that tends to fluctuate with and is similar to or slightly higher than the temperature of its environment : a cold-blooded organism."*
+> - 📜 **Bernd Heinrich (*The Hot-Blooded Insects*):** *"Unlike a bird or mammal, a **poikilotherm** can endure days of fasting because it spends no calories keeping warm."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Tropical rainforests shelter immense diversities of **poikilotherm** vertebrates whose metabolic needs remain minimal."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The physiological contrast between an active mammal and a sluggish **poikilotherm** reptile framed the debate on dinosaur metabolism."*

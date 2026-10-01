@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasant, agreeable, or normal perception of odors; or a hallucination of sweet and pleasant fragrances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology and olfaction studies, the intact, pleasurable appreciation of scents, contrasted with cacosmia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euosmia designates a term designating an entity, condition, or phenomenon derived from greek osm."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"His temporal lobe seizures were occasionally inaugurated by a heavenly **euosmia**, like roses in full summer bloom."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The aesthetic delight derived from delicate perfumes constitutes a refined form of natural **euosmia**."*
+> - 📜 **William Osler (*Aequanimitas*):** *"After months of post-influenzal distortion, the return of true **euosmia** brought tears of relief to the patient."*

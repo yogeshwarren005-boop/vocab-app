@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A section of the Earth's oceanic crust and underlying upper mantle that has been uplifted and exposed above sea level onto continental crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tectonics and petrology, an assembled stratigraphy of peridotite, serpentinite, gabbro, sheeted dikes, and pillow basalts (named from Greek ophis + lithos due to green snake-like mottled serpentinite).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiolite designates a term designating an entity, condition, or phenomenon derived from greek ophi."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mottled green serpentine rocks termed **ophiolite** in the Apennines were recognized as altered oceanic crust."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"The obduction of an **ophiolite** complex onto mountain belts marks the suture line where an ancient ocean closed."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The Semail **ophiolite** of Oman preserves the most magnificent exposed slice of ancient deep seabed anywhere on Earth."*

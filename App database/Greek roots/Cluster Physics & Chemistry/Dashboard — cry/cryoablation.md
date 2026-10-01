@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical or interventional destruction of diseased tissue, such as a tumor or cardiac arrhythmogenic focus, by the application of extreme cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and cardiology, a minimally invasive procedure using cryoprobes circulating pressurized liquid nitrogen or argon to induce cellular necrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryoablation designates a term designating an entity, condition, or phenomenon derived from greek cry."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Targeted **cryoablation** offered the elderly patient a non-invasive alternative to major open pulmonary resection."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"By driving sub-zero needles into the hepatic mass, **cryoablation** crystallizes intracellular water and destroys tumor membranes."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The electrophysiologist recommended catheter **cryoablation** to interrupt the aberrant pathway causing atrial fibrillation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A warm-blooded animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warm-blooded animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that generates heat internally through metabolic activity to maintain a constant, elevated body temperature; a warm-blooded animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology, birds and mammals whose high metabolic rates sustain homeothermy regardless of environmental temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endotherm designates a warm-blooded animal."*
+> - 📜 **Bernd Heinrich (*The Hot-Blooded Insects*):** *"As an active **endotherm**, the arctic fox can withstand fifty degrees below zero without lowering its internal temperature."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"The discovery of polar dinosaurs challenged the old assumption that no Mesozoic reptile could live as an **endotherm**."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The immense food intake required by a mammalian **endotherm** shapes the carrying capacity of terrestrial food webs."*

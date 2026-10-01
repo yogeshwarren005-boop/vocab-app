@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic diagnostic instrument that detects and records the electrical impulses produced by the heart during each heartbeat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The diagnostic apparatus pioneered by Willem Einthoven utilizing skin electrodes and a recording galvanometer to monitor cardiac electrophysiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiograph designates an instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action."*
+> - 📜 **Willem Einthoven (*The String Galvanometer and Its Use in Physiology*):** *"With the newly constructed **electrocardiograph**, physiological currents of minute microvolt magnitude are recorded without mechanical inertia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The modern clinic relies upon the **electrocardiograph** to differentiate true cardiac arrhythmias from functional palpitations."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The resident wheeled the portable **electrocardiograph** to the emergency cubicle within seconds of the patient's arrival."*

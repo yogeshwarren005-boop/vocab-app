@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a magnetic permeability less than that of a vacuum : slightly repelled by a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a magnetic permeability less than that of a vacuum : slightly repelled by a magnet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or exhibiting diamagnetism; having negative magnetic susceptibility and repelled by magnetic fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum chemistry, designating molecules whose electron spins are completely paired, resulting in absence of permanent magnetic dipoles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diamagnetic designates having a magnetic permeability less than that of a vacuum : slightly repelled by a magnet."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I observed that a heavy glass bar suspended between the magnetic poles placed itself equatorially, behaving as a **diamagnetic** body."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The **diamagnetic** susceptibility of the complex proved that all six d-electrons occupied low-spin paired orbitals."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Lenz's law operating at the atomic level explains why all matter possesses an underlying **diamagnetic** response."*

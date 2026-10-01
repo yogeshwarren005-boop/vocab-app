@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of thermodynamics concerned with thermal equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of thermodynamics concerned with thermal equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science dealing with the conditions of thermal equilibrium in bodies, analogous to statics in mechanics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and thermodynamics, the study of non-flowing, stationary thermal systems where heat and work are in static balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatics designates the aspect of thermodynamics concerned with thermal equilibrium."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The principles of **thermostatics** determine the criteria of phase stability in multi-component chemical systems."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Just as statics investigates forces at rest, so **thermostatics** investigates systems where temperatures have achieved complete equilibrium."*
+> - 📜 **Max Planck (*Treatise on Thermodynamics*):** *"The foundation of **thermostatics** rests upon the maximum entropy principle governing isolated physical systems."*

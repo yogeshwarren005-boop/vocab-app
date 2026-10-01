@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thermometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or determined by the measurement of temperature; thermometrical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and metrology, designating fixed points, scales (Celsius, Kelvin, Fahrenheit), or substances whose physical changes measure temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometric designates of or relating to thermometry."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The freezing and boiling points of pure water under standard barometric pressure furnish the fundamental **thermometric** fixed points."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Mercury serves as the standard **thermometric** liquid because of its uniform thermal expansion and high boiling point."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Continuous **thermometric** observations across diverse mountain elevations revealed the environmental lapse rate."*

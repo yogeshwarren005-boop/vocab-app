@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hadr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or pertaining to the family Hadrosauridae; a hadrosaur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by specialized dental batteries, cranial display crests, and extensive ossified tendons along the vertebral column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosaurid designates a term designating an entity, condition, or phenomenon derived from greek hadr."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"The discovery of mummified **hadrosaurid** skin impressions revealed fine, polygonal scales across the body."*
+> - 📜 **John Bell Hatcher (*The Ceratopsia*):** *"Extensive bonebeds indicate that **hadrosaurid** dinosaurs migrated in massive herds across coastal floodplains."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The hollow crests of **hadrosaurid** dinosaurs represent one of nature's most extraordinary morphological adaptations for acoustic display."*

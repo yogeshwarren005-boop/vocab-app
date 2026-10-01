@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lyc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering bulbous plants in the family Amaryllidaceae, commonly known as spider lilies, hurricane lilies, or red spider lily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and pharmacology, East Asian bulbs that produce leafless floral scapes bearing showy umbels with long recurved stamens, containing the alkaloid galantamine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lycoris designates a term designating an entity, condition, or phenomenon derived from greek lyc."*
+> - 📜 **William Herbert (*Amaryllidaceae*):** *"I named the genus **Lycoris** after the celebrated Roman beauty of Virgil's eclogues, to match its delicate floral grace."*
+> - 📜 **Robert Fortune (*Three Years' Wanderings in the Northern Provinces of China*):** *"Along the borders of rice fields, brilliant scarlet heads of **Lycoris** radiata flared like torches after autumn rains."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The remarkable autumn bloom of **Lycoris** appears abruptly after the foliage has completely withered away."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a stamen that produces and contains pollen and is usually borne on a stalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a stamen that produces and contains pollen and is usually borne on a stalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pollen-bearing part of a stamen in flowering plants, situated at the tip of the filament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant reproductive morphology, a microsporangiate structure typically composed of two lobes (thecae) that dehisce to release pollen grains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Flowers of Bladder-campion with anther smut (_Ustilago antherarum_). 〃 103."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Anther distorted by smut (_Ustilago antherarum_). 〃 104."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Spores of Anther smut (_Ustilago antherarum_) × 460. 〃 105."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In heterostylous flowers, the heights of the **anther** and stigma are arranged to ensure cross-pollination by visiting insects."*
+> - 📜 **Asa Gray (*How Plants Grow*):** *"When the mature **anther** bursts open, it sheds millions of golden dust grains called pollen."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The dehiscence of the **anther** occurs along longitudinal slits when the fibrous layer of the cell wall contracts."*

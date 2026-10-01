@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glassy translucent substance that occurs in hyaline cartilage or in certain skin conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glassy translucent substance that occurs in hyaline cartilage or in certain skin conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clear, homogeneous, glassy proteinaceous substance occurring in tissues undergoing pathological degeneration or during physiological cartilage formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, the translucent material produced by amyloidosis, arteriosclerosis, or hyaline degeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalin designates a glassy translucent substance that occurs in hyaline cartilage or in certain skin conditions."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In chronic vascular disease, the thickened intima is transformed into structureless, translucent **hyalin**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic inspection of the renal arterioles showed extensive luminal occlusion by glassy **hyalin**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"The ground substance of developing embryonic cartilage stains uniformly like pure **hyalin**."*

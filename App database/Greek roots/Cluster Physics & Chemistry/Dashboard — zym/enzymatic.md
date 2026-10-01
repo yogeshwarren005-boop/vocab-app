@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by an enzyme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by an enzyme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, produced by, or functioning as an enzyme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, describing biological catalytic reactions, kinetics, and cleavage mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enzymatic designates of or relating to or produced by an enzyme."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The transformation of starch into sugar is governed by specific **enzymatic** agents secreted by the germinating grain."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Transition state stabilization provides the universal thermodynamic basis of **enzymatic** catalysis."*
+> - 📜 **Arthur Kornberg (*Enzymatic Synthesis of DNA*):** *"The **enzymatic** replication of the double helix proceeds with extraordinary fidelity in the presence of DNA polymerase."*

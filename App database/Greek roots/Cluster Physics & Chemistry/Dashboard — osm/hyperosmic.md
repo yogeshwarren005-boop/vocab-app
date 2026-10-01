@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of push, thrust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of push, thrust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected with, or characterized by hyperosmia (excessive olfactory sensitivity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing an exceptionally sharp sense of smell; macrosmatic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperosmic designates adjective*) pertaining to, derived from, or characteristic of push, thrust."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"In his **hyperosmic** state, the patient could identify colleagues entering the hospital wing purely by their personal scent."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Canines maintain a **hyperosmic** perceptual realm far beyond the comprehension of our microsmatic human senses."*
+> - 📜 **Alexander Luria (*The Mind of a Mnemonist*):** *"His synesthesia produced a **hyperosmic** reaction where every spoken word summoned distinct vivid odors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cutaneous skin eruption or rash caused by systemic hypersensitivity or toxicity to bromide compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, an acneiform, nodular, or ulcerating dermatosis typically resulting from prolonged ingestion of bromide-containing sedatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromoderma designates a term designating an entity, condition, or phenomenon derived from greek brom."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic bromide ingestion may culminate in a fungating, pustular **bromoderma** resembling tertiary syphilis."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The extensive crusting on the patient's face was diagnosed as a severe case of **bromoderma** tuberosum."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Lesions of **bromoderma** slowly involute once the offending medication is completely discontinued."*

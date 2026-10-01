@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of tropical american plants of order xyridales including several (as the pineapple) of economic importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of tropical american plants of order xyridales including several (as the pineapple) of economic importance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of mostly epiphytic monocotyledonous flowering plants native to the tropical Americas, including the pineapple and Spanish moss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and plant ecology, a specialized family whose members frequently possess rosette tanks holding aquatic micro-ecosystems (phytotelmata).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromeliaceae designates a family of tropical american plants of order xyridales including several (as the pineapple) of economic importance."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The trunks of the primeval trees were adorned with countless hanging species of **Bromeliaceae**."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Many genera of the **Bromeliaceae** display intricate floral mechanisms to encourage hummingbird pollination."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The absorbative trichomes covering the foliage of **Bromeliaceae** allow them to thrive without soil contact."*

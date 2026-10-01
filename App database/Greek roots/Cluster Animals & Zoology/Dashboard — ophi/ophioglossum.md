@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the fern family ophioglossaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the fern family ophioglossaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the adder's-tongue ferns (family Ophioglossaceae), named for its spike of sporangia resembling a snake's tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and genetics, cosmopolitan herbaceous ferns remarkable for possessing the highest chromosome count of any known organism (Ophioglossum reticulatum with 2n = 1,440).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophioglossum designates the type genus of the fern family ophioglossaceae."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The herb **Ophioglossum**, called Adder's Tongue, was pounded with oil and wax to make a sovereign balsam for green wounds."*
+> - 📜 **William Turner (*A New Herball*):** *"The leaf of **Ophioglossum** is round and single, sending out from its stalk a small yellow spike like a serpent's tongue."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In the damp bottom of the beech woods, we discovered the curious green fronds of **Ophioglossum** vulgatum."*

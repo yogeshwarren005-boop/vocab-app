@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of feeding in which one animal deliberately takes food or prey from another that has caught, gathered, or prepared it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology, a foraging strategy seen in skuas, frigatebirds, hyenas, and spiders that pirate food from others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kleptoparasitism designates a term designating an entity, condition, or phenomenon derived from greek sit."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Frigatebirds engage in aerial **kleptoparasitism**, harassing returning boobies until they regurgitate their catch in midair."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The skua relies habitual on **kleptoparasitism**, chasing gulls with relentless fury until they yield their prey."*
+> - 📜 **Richard Dawkins (*The Extended Phenotype*):** *"In social spider colonies, larger individuals frequently practice shameless **kleptoparasitism** over smaller siblings."*

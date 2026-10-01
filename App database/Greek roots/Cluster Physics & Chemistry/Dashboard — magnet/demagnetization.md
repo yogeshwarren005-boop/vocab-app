@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing magnetization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing magnetization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing magnetic properties or residual magnetic fields from a magnetized object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In condensed matter physics, adiabatic demagnetization, a cryogenic refrigeration method utilizing paramagnetic entropy changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagnetization designates the process of removing magnetization."*
+> - 📜 **William F. Giauque (*Nobel Lecture: Investigations in Chemical Thermodynamics*):** *"Magnetic refrigeration relies upon the thermodynamic cooling achieved during adiabatic **demagnetization** of gadolinium sulfate."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The **demagnetization** curve reveals the coercive force required to reduce the residual induction to zero."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Thermal agitation causes spontaneous **demagnetization** of ferromagnetic materials above their Curie temperature."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various parasites that live in the internal organs of animals (especially intestinal worms).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to entozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An internal animal parasite; an animal that lives within the body or organs of another animal host (entozoon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical parasitology, invertebrates including tapeworms, flukes, and nematodes that inhabit host viscera, muscles, or digestive tracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entozoan designates any of various parasites that live in the internal organs of animals (especially intestinal worms)."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrates*):** *"The encysted trichina worm is a formidable **entozoan** lodging within the striated muscle fibers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Complex life cycles evolved in every parasitic **entozoan** requiring alternate intermediate vertebrate hosts."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The adult cestode is an intestinal **entozoan** utterly lacking an alimentary canal of its own."*

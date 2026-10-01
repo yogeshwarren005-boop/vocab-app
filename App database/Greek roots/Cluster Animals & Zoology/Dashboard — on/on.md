@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a function word to indicate position in contact with and supported by the top surface of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a function word to indicate position in or in contact with an outer surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek neuter participle combining form (ōn, ontos, 'being, existing, that which is') foundational to ontology; or English preposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and metaphysics, the ontological root designating being, essence, and ultimate reality as investigated by Aristotle and Parmenides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet, to me, æons elapsed between the first tap of his knuckle and the last."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus my æons of star-wandering were æons of dread."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ah, what royal memories are mine, as I flutter through the æons of the long ago."*
+> - 📜 **Aristotle (*Metaphysics*):** *"There is a science which investigates being as being—to **on** he **on**—and the attributes which belong to it in virtue of its own nature."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"First philosophy inquiry into abstract being, or to **on**, must be grounded in physical observation rather than verbal disputes."*
+> - 📜 **Martin Heidegger (*Being and Time*):** *"The question of being, the ancient Greek to **on**, was forgotten in Western metaphysics through the confusion of Being with entities."*

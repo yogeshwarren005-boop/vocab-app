@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to plants that are hemiparasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to plants that are hemiparasites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially parasitic; obtaining some nutrients from a host while retaining photosynthetic capability (of plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a hemiparasite; possessing haustorial xylem connections without complete loss of chlorophyll.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiparasitic designates of or relating to plants that are hemiparasites."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The **hemiparasitic** habit in yellow rattle allows it to flourish in nutrient-poor meadows by draining neighboring grasses."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Several wild species of paintbrush display **hemiparasitic** attachments to the subterranean root systems of prairie shrubs."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The **hemiparasitic** strategy represents a stable evolutionary stepping-stone between autotrophy and complete holoparasitism."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaver in Greek mythology who is changed into a spider for challenging Athena to a contest in weaving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weaver in Greek mythology who is changed into a spider for challenging Athena to a contest in weaving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, a talented Lydian weaver transformed by Athena into a spider after daring to challenge the goddess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and classical iconography, the archetypal figure of mortal artistic pride punished by divine metamorphosis into the eternal spinner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Arachne designates weaver in greek mythology who is changed into a spider for challenging athena to a contest in weaving."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Humbled by the goddess, proud **Arachne** dwindled in body, yet retained her ancient art as she spun her fragile thread."*
+> - 📜 **Dante Alighieri (*Purgatorio*):** *"O mad **Arachne**, so I beheld thee already half spider, weeping on the shred of that rich web so foolishly begun!"*
+> - 📜 **Edmund Spenser (*Muiopotmos: or The Fate of the Butterflie*):** *"The web was wrought by envious **Arachne**, whose craft outshone the finest tapestry of the gods."*

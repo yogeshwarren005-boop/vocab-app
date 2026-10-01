@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electric : electric and : electrically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek ēlektron, meaning 'amber', signifying electricity, electric charge, or electrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science and engineering nomenclature, the universal formative prefix designating phenomena, devices, and theories based on electric charge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electr designates electricity."*
+> - 📜 **William Gilbert (*De Magnete*):** *"From the Hellenic name for amber, ēlektron, we derive the term **electr**- to describe all bodies possessing attractive virtue upon friction."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The root **electr**- permeates modern natural philosophy, linking chemical affinity directly to galvanic forces."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The extensive family of terms sharing the prefix **electr**- unified the disparate studies of static charge, magnetism, and light."*

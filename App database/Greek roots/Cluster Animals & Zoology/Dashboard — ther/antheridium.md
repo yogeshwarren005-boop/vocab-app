@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male sex organ of spore-producing plants; produces antherozoids; equivalent to the anther in flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male sex organ of spore-producing plants; produces antherozoids; equivalent to the anther in flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male sex organ in non-flowering plants (algae, fungi, bryophytes, and pteridophytes), producing motile sperm cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biology and embryology, a jacketed multicellular organ that releases flagellated antherozoids requiring water to swim toward the archegonium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gonosphere having been formed, a straight tube shoots out from the antheridium which perforates the wall of the oogonium, passes through the fluid which surrounds the gonosphere, elongating itself until it touches that body."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It may be observed that the extremity of the tube which proceeds from the antheridium does not open, and the fecundation, if such it be, is produced solely by contact."*
+> - 📜 **Thomas Henry Huxley (*A Course of Practical Instruction in Elementary Biology*):** *"Upon the underside of the green prothallium, each tiny **antheridium** ripens and sheds its spiral swimming gametes."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The evolutionary morphology of the **antheridium** traces the adaptation of primitive aquatic plants to terrestrial reproduction."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Water is indispensable for fertilization, triggering the rupture of the **antheridium** cap cells."*

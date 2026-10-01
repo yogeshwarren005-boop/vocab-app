@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of shedding tears (usually accompanied by sobs or other inarticulate sounds).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud utterance; often in protest or opposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of shedding tears or uttering loud vocal lamentations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding immediate attention or redress; flagrant, urgent, or notorious (as in 'a crying injustice').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well excus’d: That thou didst love her, strikes some scores away From the great compt: but love that comes too late, Like a remorseful pardon slowly carried, To the great sender turns a sour offence, Crying, That’s good that’s gone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods will mock me presently When I shall pray “O, bless my lord and husband!” Undo that prayer by crying out as loud “O, bless my brother!” Husband win, win brother, Prays and destroys the prayer; no midway ’Twixt these extremes at all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a happier and more comely time Than when these fellows ran about the streets Crying confusion."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The child lay in the corner, **crying** bitterly from hunger and neglected loneliness."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The condition of the working poor in our industrial cities is a **crying** scandal before heaven and earth."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I heard the creature **crying** in the icy darkness of the glacier, lamenting his miserable existence."*

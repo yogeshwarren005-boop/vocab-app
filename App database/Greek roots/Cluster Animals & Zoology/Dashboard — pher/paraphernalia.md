@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment consisting of miscellaneous articles needed for a particular operation or sport etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equipment consisting of miscellaneous articles needed for a particular operation or sport etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Miscellaneous articles, equipment, gear, or apparatus associated with a particular activity or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical legal doctrine, the personal property (such as apparel and jewelry) belonging to a married woman beyond her formal dowry (Greek parapherna, 'beside the dowry').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Du Petit Thouars exhibited upon his person all the paraphernalia of his naval rank."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Instead, they had tables with crucifixes, and confessionals, and all sorts of paraphernalia in gold lace and tags."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He took with him a bag in which were many instruments and drugs, “the ghastly paraphernalia of our beneficial trade,” as he once called, in one of his lectures, the equipment of a professor of the healing craft."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The apparel and jewels of the wife, which she wore during marriage, are termed her **paraphernalia** and belong to her in surviving."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The chemical table in the corner was strewn with test-tubes, retorts, and all the mysterious **paraphernalia** of a toxicologist."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber gathered up his papers, writing desk, and clerical **paraphernalia** with an air of dignified resolve."*

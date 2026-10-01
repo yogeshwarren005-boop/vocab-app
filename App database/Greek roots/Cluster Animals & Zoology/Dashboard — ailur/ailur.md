@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ailur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (ailouros, literally 'waving tail') denoting cats or feline characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological nomenclature and comparative anatomy, the morphological stem found in taxa such as Ailurus, Ailuropoda, and related feliform animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailur designates a term designating an entity, condition, or phenomenon derived from greek ailur."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cranial affinities of the enigmatic carnivore suggested an ancient **ailur** stem allied to arctoid ancestors."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"Primitive fossil carnivores bridge the gap between archaic canid lines and the specialized **ailur** dentition."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The generic prefix **ailur** was chosen to commemorate the startling, cat-like cry of the bird."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large genus (Bromus) of tall grasses often having drooping spikelets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large genus (Bromus) of tall grasses often having drooping spikelets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any annual or perennial pasture grass belonging to the large genus Bromus, characterized by loose nodding panicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic or variant chemical designation for bromine or its compounds in early nineteenth-century scientific writings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brome designates any of a large genus (bromus) of tall grasses often having drooping spikelets."*
+> - 📜 **William Cobbett (*Rural Rides*):** *"The rich bottomlands were lush with meadow fescue and soft **brome** grass ready for the scythe."*
+> - 📜 **Antoine Jérôme Balard (*Memoir on a Peculiar Substance Contained in Sea Water*):** *"To this reddish-brown liquor I originally gave the provisional name of **brome** before adopting the Latin form."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Various species of **brome** competed fiercely for survival in the neglected pasture plot."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psittac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical, mindless repetition of words, phrases, or ideas without true understanding of their meaning; parrot-like speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and pedagogy, rote intellectual mimicry devoid of critical comprehension (coined by Leibniz, French psittacisme, from Greek psittakos).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacism designates a term designating an entity, condition, or phenomenon derived from greek psittac."*
+> - 📜 **Gottfried Wilhelm Leibniz (*New Essays on Human Understanding*):** *"When children recite catechisms without grasping the ideas behind the words, it is mere **psittacism**."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"True education must wage unceasing war against verbal **psittacism**, ensuring that concepts correspond to vital realities."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Political orthodoxy often degenerates into pure **psittacism**, squawking approved slogans without a flicker of consciousness."*

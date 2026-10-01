@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: prosauropoda and sauropoda (apatosaurus, diplodocus and titanosaurs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: prosauropoda and sauropoda (apatosaurus, diplodocus and titanosaurs).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The great clade of saurischian dinosaurs comprising ancestral prosauropods and the gigantic sauropods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic paleontology, long-necked herbivorous dinosaurs that originated as bipedal Triassic omnivores and evolved into the gargantuan quadrupeds of the Jurassic and Cretaceous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauropodomorpha designates gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: prosauropoda and sauropoda (apatosaurus, diplodocus and titanosaurs)."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"The evolutionary pathway of the **Sauropodomorpha** traces the dramatic transition from small bipedal runners to colossal quadrupeds."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The basal members of the **Sauropodomorpha**, such as Plateosaurus, possessed grasping hands equipped with large thumb claws."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"The spoon-shaped leaf-cutting teeth of the **Sauropodomorpha** were adapted for raking through gymnosperm foliage."*

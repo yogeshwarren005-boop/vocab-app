@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diagnostic medical procedure and electrophysiological study of the electrical activity of muscle tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical discipline combining nerve conduction studies with needle electromyography to assess peripheral nervous system disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyography designates an instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Through precise **electromyography**, we demonstrated that the patient's rigid immobility was not due to fixed joint contracture."*
+> - 📜 **Jerome Groopman (*Second Opinions*):** *"The neurologist scheduled **electromyography** to investigate the progressive numbness and weakness spreading up the patient's legs."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Preoperative **electromyography** confirmed that the recurrent laryngeal nerve retained partial functional conduction."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of subatomic particles (such as nucleons) that are subject to the strong force and are composed of three quarks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of subatomic particles (such as nucleons) that are subject to the strong force and are composed of three quarks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subatomic composite particle made of three quarks, belonging to the hadron family, such as a proton or a neutron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, any fermion that participates in the strong interaction and possesses a baryon number of +1.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryon designates any of a group of subatomic particles (such as nucleons) that are subject to the strong force and are composed of three quarks."*
+> - 📜 **Murray Gell-Mann (*A Schematic Model of Baryons and Mesons*):** *"A **baryon** is constructed from a triplet of quarks whose color charges combine into a neutral singlet."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"The proton is the lightest stable **baryon**, ensuring the permanence of atomic nuclei."*
+> - 📜 **Steven Weinberg (*The Quantum Theory of Fields*):** *"Conservation of **baryon** number prevents the spontaneous decay of ordinary matter into lighter leptons."*

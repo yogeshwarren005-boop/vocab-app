@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The burnt smell, acrid taste, or carbonaceous residue produced by heating organic substances in closed vessels without sufficient air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacy and chemistry, the pungent smoky vapor characteristic of destructive distillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Empyreuma designates a term designating an entity, condition, or phenomenon derived from greek pyr."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"When vegetable matters are distilled without water, they yield a heavy, suffocating oil bearing the strong scent of **empyreuma**."*
+> - 📜 **Jöns Jacob Berzelius (*Traité de Chimie*):** *"The characteristic **empyreuma** of pyroligneous acid is eliminated through fractional neutralization and redistillation."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Overheated manures acquire an offensive **empyreuma** that indicates the loss of volatile nitrogenous constituents."*

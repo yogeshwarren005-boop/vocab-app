@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pyrotechnics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pyrotechnics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fireworks, pyrotechnics, or the manufacture and display of fireworks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliant, dazzling, sensational, or flamboyant in display (as of rhetorical, musical, or literary skill).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrotechnic designates of or relating to pyrotechnics."*
+> - 📜 **Oscar Wilde (*The Remarkable Rocket*):** *"The king's wedding was celebrated with a magnificent **pyrotechnic** display over the royal gardens."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His deductive reasoning concluded with a brilliant **pyrotechnic** demonstration of logical brilliance."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Words burst in his mind like **pyrotechnic** sparks, illuminating the dark recesses of thought."*

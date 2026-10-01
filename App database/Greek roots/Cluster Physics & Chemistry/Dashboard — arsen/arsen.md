@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arsen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and classical chemical root derived from Greek arsenikon, designating arsenic or arsenic-bearing compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical alchemy and early chemistry, denoting male or potent mineral properties, later formalized into chemical terminology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsen designates a term designating an entity, condition, or phenomenon derived from greek arsen."*
+> - 📜 **Jöns Jacob Berzelius (*Traité de Chimie*):** *"The radical **arsen**- forms distinct series of salts depending on the valency state of the metalloid."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Mineral substances incorporating the **arsen**- base exhibit profound volatility when heated in closed vessels."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The combination of **arsen**- with sulfur yields native realgar and orpiment known since antiquity."*

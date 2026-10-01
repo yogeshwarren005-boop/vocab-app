@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of stick insect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety of stick insect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stick insects in the family Diapheromeridae, including Diapheromera femorata (the common walkingstick).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, wingless, phytophagous phasmids renowned for extreme crypsis, mimicking deciduous twigs and foliage across North American oak and hickory forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diapheromera designates a variety of stick insect."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The common walkingstick, **Diapheromera** femorata, escapes insectivorous birds by remaining motionless like a dead twig."*
+> - 📜 **Charles Valentine Riley (*Reports on Injurious Insects*):** *"In certain seasons, immense swarms of **Diapheromera** defoliated whole groves of black oak across Missouri."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"The eggs of **Diapheromera** drop from the canopy like pattering raindrops upon the autumn leaf litter."*

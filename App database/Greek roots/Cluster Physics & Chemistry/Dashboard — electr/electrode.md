@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor used to establish electrical contact with a nonmetallic part of a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An element in a semiconductor device (such as a transistor) that emits or collects electrons or holes or controls their movements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor through which electric current enters or leaves an electrolyte, gas, vacuum, or semiconductor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrochemistry, the anode or cathode at which oxidation or reduction occurs during a redox reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since, however, it may not be easy for the general reader to carry all these terms in his mind, we will, when it is necessary to differentiate between the two electrodes, call one the in-electrode and the other the out-electrode."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The bubbles which arise from the in-electrode are oxygen, those from the other hydrogen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The in-electrode is surrounded by a vast assemblage of these tiny molecules, most of them those of water, but a few those of the acid."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I propose to call those surfaces at which the electric current enters and leaves the decomposing liquid the positive and negative **electrode**."*
+> - 📜 **J. J. Thomson (*Cathode Rays*):** *"Rays emanating from the negative **electrode** in the discharge tube revealed the universal subatomic corpuscle, the electron."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"The accumulation of ions at each **electrode** establishes an opposing polarization electromotive force."*

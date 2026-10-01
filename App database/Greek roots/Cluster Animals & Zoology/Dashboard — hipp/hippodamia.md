@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of ladybugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of ladybugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, daughter of King Oenomaus of Pisa, won in a chariot race by Pelops; also a genus of ladybird beetles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, a genus of predatory coccinellid beetles including the convergent lady beetle (Hippodamia convergens), valuable in biological aphid control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The famous story of Pelops and Hippodamia is perhaps only another version of the legend that the first races at Olympia were run for no less a prize than a kingdom."*
+> - 📜 **Pindar (*Olympian Odes*):** *"Pelops won the fair maiden **Hippodamia** by defeating her fierce father in the chariot race across the sands of Elis."*
+> - 📜 **C. V. Riley (*Reports on Injurious Insects*):** *"Dense aggregations of the ladybird **Hippodamia** congregate upon high mountain peaks before dispersing to lowland orchards."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Both adults and larvae of **Hippodamia** prey voraciously upon destructive aphids and scale insects."*

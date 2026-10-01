@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain caused by heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain caused by heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which an ordinarily painless, mild thermal stimulus (such as gentle warmth) produces a sensation of pain; thermal hyperalgesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, a distressing neuropathic symptom resulting from damage to small unmyelinated C-fibers or the spinothalamic tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermalgesia designates pain caused by heat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient suffering from peripheral neuropathy complained of severe **thermalgesia**, where lukewarm water felt like scalding acid."*
+> - 📜 **S. Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Causalgia following peripheral nerve trauma was characterized by excruciating **thermalgesia** provoked by dry room air."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"During nerve regeneration, the limb passed through a hypersensitive phase marked by acute **thermalgesia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like a comb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like a comb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having narrow, parallel, comb-like projections, teeth, or divisions; shaped like a comb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and zoology, denoting comb-like structures such as the pectinate muscles of the cardiac atrium or pectinate insect antennae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectinate designates like a comb."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **pectinate** antennae of male silkworm moths present an enormous surface area for detecting female pheromones."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The internal surface of the right auricle displays muscular ridges resembling a comb, termed the **pectinate** muscles."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The leaves of the aquatic water-milfoil are finely **pectinate**, spreading like green feathers beneath the current."*

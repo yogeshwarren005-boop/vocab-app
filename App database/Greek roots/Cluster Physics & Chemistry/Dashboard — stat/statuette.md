@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small carved or molded figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small carved or molded figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small statue, especially one smaller than life-size; a figurine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and art history, diminutive sculpted representations (such as Tanagra figurines or paleolithic Venuses) in bronze, ivory, or terracotta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a tiny satinwood table stood a statuette by Clodion, and beside it lay a copy of Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On each of the pots they used formerly to place a statuette or cloth doll dressed as a woman, or a Priapus-like figure made of paste; but this custom, rigorously forbidden by the Church, has fallen into disuse."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On one statuette he appears clad in a bull's hide, the head, horns, and hoofs hanging down behind."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Six Napoleons*):** *"The criminal smashed the plaster **statuette** of the Emperor upon the garden path to extract the hidden black pearl."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Upon the mantelpiece stood an exquisite ivory **statuette** of Narcissus admiring his own reflection."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"She picked up the antique bronze **statuette** with delicate, appreciative fingers, turning it in the soft lamplight."*

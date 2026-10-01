@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine food fishes: mackerels; chub mackerels; tuna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine food fishes: mackerels; chub mackerels; tuna.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of commercially and ecologically important epipelagic marine fishes comprising mackerels, tunas, bonitos, and Spanish mackerels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, fifty-one species of apex pelagic predators possessing deeply forked tails, caudal keels, and corrugated swim bladders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombridae designates marine food fishes: mackerels; chub mackerels; tuna."*
+> - 📜 **Georges Cuvier (*Histoire Naturelle des Poissons*):** *"The magnificent family **Scombridae** comprises the swiftest and most powerful navigators of the global high seas."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"The global purse-seine fisheries depend heavily upon the migratory shoals of the **Scombridae**."*
+> - 📜 **Albert Gunther (*An Introduction to the Study of Fishes*):** *"In the **Scombridae**, the muscular temperature of the bluefin tuna rises significantly above that of the surrounding sea."*

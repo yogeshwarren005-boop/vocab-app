@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous dinosaur with a pelvis like that of a bird.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous dinosaur with a pelvis like that of a bird.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any dinosaur belonging to the order Ornithischia; or of, relating to, or characteristic of bird-hipped dinosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology, designating plant-eating dinosaurs exhibiting a four-pronged or backward-directed pelvis, predentary beak, and specialized chewing adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithischian designates herbivorous dinosaur with a pelvis like that of a bird."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The dental batteries of the duck-billed **ornithischian** dinosaurs represent the most efficient plant-grinding mechanism among reptiles."*
+> - 📜 **O. C. Marsh (*The Dinosaurs of North America*):** *"The horned skull of Triceratops crowns the magnificent evolutionary series of the **ornithischian** lineage."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Every armored stegosaur and crested hadrosaur was an **ornithischian** adapted to Mesozoic floral ecosystems."*

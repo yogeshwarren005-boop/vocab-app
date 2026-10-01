@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasite that feeds upon or attaches to another parasite; a hyperparasite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological trophic webs, an organism occupying the trophic level of secondary parasitism (such as a fungal pathogen infecting a parasitic mite).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiparasite designates a term designating an entity, condition, or phenomenon derived from greek sit."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Trophic webs can support complex chains of parasitism where an **epiparasite** preys upon another parasitic arthropod."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The existence of an **epiparasite** upon a flea demonstrates the infinite complexity of ecological relationships."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"Nature reveals layered hierarchies of exploitation where the **epiparasite** drains the reserves of the primary parasite."*

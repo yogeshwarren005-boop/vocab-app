@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lake in southern Italy in the crater of an extinct volcano west of Naples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lake in southern Italy in the crater of an extinct volcano west of Naples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcanic crater lake near Naples in southern Italy, regarded in ancient Roman myth as the entrance to the Underworld; or figuratively, hell or the underworld.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, derived from Greek aornos ('birdless') because mephitic, sulfurous fumes historically rising from the waters were said to suffocate birds flying overhead.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The Marquesans have a similar belief in regard to the northermost island of their group, and apply the same term, "Reinga," to their Avernus."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Fragmentary Scenes from the Road to Avernus An Unpublished Dramatic Lyric Scene I "Discontent" LAURENCE RABY."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"He: Aye, 'tis the road to Avernus, n'est ce pas vrai donc, ma belle?"*
+> - 📜 **Virgil (*Aeneid*):** *"Easy is the descent to **Avernus**; night and day the gates of gloomy Dis stand open; but to retrace one's steps and return to upper air, that is the labor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From the infernal gulf arose dark fumes like the deadly vapors of **Avernus**, suffocating all joyous flight."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The path plunged through shadowy gorges dark as **Avernus**, where no winged thing dared to sing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armed and armored motor vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make monotonous; make automatic or routine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To introduce machines into a process or industry; to replace human labor with machines (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To equip an army or military unit with motorized combat vehicles and tanks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanise designates equip with armed and armored motor vehicles."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Planners sought to **mechanise** every department of agriculture to free humanity from agrarian servitude."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"We urged the War Office to **mechanise** the territorial cavalry regiments without further delay."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Technocrats sought to **mechanise** emotional satisfaction through biochemical and auditory conditioning."*

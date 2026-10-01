@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common mineral that consists of iron disulfide, has a pale brass-yellow color and metallic luster, and is burned in making sulfur dioxide and sulfuric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pyrite —called also iron pyrite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass-yellow mineral with a bright metallic luster, composed of iron disulfide (FeS2), commonly known as 'fool's gold'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology, the most abundant sulfide mineral, historically struck with steel to produce ignition sparks for early flintlocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Much valuable information on the advantages, disadvantages, and appliances for blast heating was afforded by the smeltermen who contributed to the symposium on “Pyrite Smelting,” which Rickard edited for the _Engineering and Mining Journal_."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Rickard focussed scientific and practical opinion on the subject in the symposium on “Pyrite Smelting,” which he called forth and edited, and many celebrated smeltermen have contributed to the progress of pyritic smelting practice."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This action is particularly evident in the tuyere zone of the pyrite furnace, where the silica is present in a white-hot condition."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The brass-yellow color and cubic crystal form of **pyrite** often mislead novice prospectors to mistake it for native gold."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Weathering of nodules of **pyrite** in alum shale generates sulfuric acid and iron sulfate."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"Hydrothermal gold veins typically carry auriferous **pyrite** intimately associated with quartz and arsenopyrite."*

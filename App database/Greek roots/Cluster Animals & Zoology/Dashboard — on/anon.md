@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At another time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old-fashioned or informal) in a little while.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soon, shortly, presently; or in a short while (from Old English on ān, 'in one [course/moment]').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical literature and drama, a common response by servants meaning 'coming immediately!', or an adverb signifying promptly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you gone, sir; I’ll talk with you more anon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will speak with you further anon. [_Exit Steward._] Enter Helena."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST LORD. [_Aside._] You shall hear one anon."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Francis the drawer could say nothing else but **Anon**, **anon**, sir! Score a pint of bastard in the Half-moon!"*
+> - 📜 **John Milton (*Lycidas*):** *"So sinks the day-star in the ocean bed, and yet **anon** repairs his drooping head, and tricks his beams."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The ice was here, the ice was there, the ice was all around: It cracked and growled, and roared and howled, like noises in a swound; and **anon** the ship drove on."*

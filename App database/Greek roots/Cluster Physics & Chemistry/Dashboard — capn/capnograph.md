@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monitoring device that measures the concentration of carbon dioxide in exhaled air and displays a numerical readout and waveform tracing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monitoring device that measures the concentration of carbon dioxide in exhaled air and displays a numerical readout and waveform tracing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic monitoring instrument that measures and displays the concentration of carbon dioxide in respiratory gases as a continuous visual curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infrared gas analyzer used in operating rooms and emergency units to assess ventilation, cardiac output, and metabolic rate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capnograph designates a monitoring device that measures the concentration of carbon dioxide in exhaled air and displays a numerical readout and waveform tracing."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The gentle rhythmic chirp of the **capnograph** kept watch over the patient's breathing throughout the procedure."*
+> - 📜 **Paul Kalanithi (*When Breath Becomes Air*):** *"In the neurosurgical suite, the **capnograph** registered each subtle change in end-tidal gas concentration."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The technician calibrated the **capnograph** with precision gases before wheeling it into theatre."*

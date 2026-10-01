@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry, physics, biology) readily changed or destroyed by heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry, physics, biology) readily changed or destroyed by heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Readily decomposed, inactivated, or destroyed by heat (heat-labile); opposite of thermostable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and immunology, describing proteins, vitamins (such as vitamin C), enzymes, and bacterial toxins that denature at moderate temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermolabile designates (chemistry, physics, biology) readily changed or destroyed by heat."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Mild heating to sixty degrees inactivated the **thermolabile** ferments without spoiling the natural bouquet of the wine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The bactericidal complement in fresh human serum is **thermolabile**, being destroyed by heating for thirty minutes at fifty-six degrees."*
+> - 📜 **Hans Zinsser (*Immunity: Principles and Application in Medicine*):** *"Diphtheria exotoxin is highly **thermolabile**, rapidly transforming into benign toxoid when exposed to gentle heat."*

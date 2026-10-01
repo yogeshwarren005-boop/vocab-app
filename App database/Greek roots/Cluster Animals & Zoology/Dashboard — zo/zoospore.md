@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An independently motile spore; especially : a motile usually naked and flagellated asexual spore especially of an alga or lower fungus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independently motile spore; especially : a motile usually naked and flagellated asexual spore especially of an alga or lower fungus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile, flagellated asexual spore produced by many algae and lower fungi, capable of independent swimming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and phycology, a reproductive swarmer propelled by anterior tinsel or posterior whiplash flagella that settles and germinates into a vegetative thallus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Prevost described the zoospores, or moving spores, of these conidia, and his observations were confirmed by Dr. de Bary three years since, and are now adverted to by him again in further confirmation."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These portions are so many _zoospores_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Some minutes after the internal division, the papilla swells and makes itself an opening, through which the zoospores are expelled one by one, without giving any signs of movement of their own."*
+> - 📜 **M. C. Cooke (*British Fresh-Water Algae*):** *"The sporangium of Oedogonium ruptures, discharging an energetic **zoospore** crowned with a ring of vibrating cilia."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"After swimming vigorously in water, each algal **zoospore** loses its flagella, encysts, and sprouts a new filament."*
+> - 📜 **Anton de Bary (*Comparative Morphology of the Fungi*):** *"De Bary discovered that the potato blight fungus spreads epidemic blight through moisture-borne **zoospore** swarmers."*

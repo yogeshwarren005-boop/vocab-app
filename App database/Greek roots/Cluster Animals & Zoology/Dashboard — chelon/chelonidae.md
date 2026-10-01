@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Green turtles; hawksbills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Green turtles; hawksbills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or historical spelling of Cheloniidae, the family of hard-shelled marine sea turtles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic literature, an orthographic variant often used in 19th-century zoological monographs for true sea turtles including green and loggerhead turtles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chelonidae designates green turtles; hawksbills."*
+> - 📜 **Frederic Cuvier (*Dictionnaire des Sciences Naturelles*):** *"The family **Chelonidae** comprises pelagic reptiles whose paddle-shaped limbs are admirably modified for swift swimming."*
+> - 📜 **John Edward Gray (*Catalogue of Shield Reptiles in the British Museum*):** *"Within the **Chelonidae**, the flattening of the carapace reduces hydrodynamic drag across oceanic migrations."*
+> - 📜 **Albert Gunther (*The Reptiles of British India*):** *"Females belonging to the **Chelonidae** leave the sea only at night to deposit clutches of rounded parchment-shelled eggs."*

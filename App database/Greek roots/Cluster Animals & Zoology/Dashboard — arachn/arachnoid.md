@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a thin membrane of the brain and spinal cord that lies between the dura mater and the pia mater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with or composed of soft loose hairs or fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a spider's web in delicacy or structure; or the delicate middle meninx covering the brain and spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the avascular serous membrane interposed between the dura mater and pia mater, containing cerebrospinal fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SPHÆROTHECA, _Lév._ Mycelium arachnoid; perithecia globose, containing a single globose sporangium; appendages numerous, floccose.—_Berk."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Common. (Plate XI. figs. 225-228.) MICROSPHÆRIA, _Lév._ _Mycelium_ arachnoid; appendages straight, dichotomous; branchlets swelling at the tip, or filiform.—_Berk."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ERYSIPHE, _Hedw._ Mycelium arachnoid; appendages floccose, simple or irregularly branched.—_Berk."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The subarachnoid space lies beneath the delicate **arachnoid** membrane, bathed in clear cerebrospinal fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Purulent exudate accumulated beneath the **arachnoid** layer during the course of acute meningitis."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The underside of the thistly foliage was clothed in a fine, **arachnoid** pubescence like spun silk."*

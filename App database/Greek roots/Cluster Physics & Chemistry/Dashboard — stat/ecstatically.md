@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecstatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ecstatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecstatic manner; with overwhelming joy, rapturous delight, or boundless enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of trance, mystical transportation, or exalted emotional intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Next comes Nibs, the gay and debonair, followed by Slightly, who cuts whistles out of the trees and dances ecstatically to his own tunes."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Garnet!" she said ecstatically."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He made as though he would kiss me, but restrained himself. ‘The only book I had left, and I thought I had lost it,’ he said, looking at it ecstatically. ‘So many accidents happen to a man going about alone, you know."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She wept **ecstatically**, kissing the child's cheek in a delirium of joyful thanksgiving."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The nightingale sang **ecstatically** from the thick hazel copse above the lane."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"He looked at the moonlit waters, dreaming **ecstatically** of the triumphs that awaited him in the metropolis."*

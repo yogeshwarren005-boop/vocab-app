@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rollers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rollers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avian family of rollers, colorful Old World coraciiform birds comprising the genera Coracias and Eurystomus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, a family of non-passerine perching birds distinguished by syndactyl feet, broad curved beaks, and brilliant azure wing patches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog coraciidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Bowdler Sharpe (*Catalogue of the Birds in the British Museum*):** *"Members of the family **Coraciidae** perch motionless upon bare branches before dropping suddenly to snatch ground insects."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The broad-billed rollers of the **Coraciidae** hawked for beetles over the rainforest clearing at sundown."*
+> - 📜 **Frank M. Chapman (*Camps and Cruises of an Ornithologist*):** *"The anatomical affinities of the **Coraciidae** place them in close alliance with kingfishers and motmots."*

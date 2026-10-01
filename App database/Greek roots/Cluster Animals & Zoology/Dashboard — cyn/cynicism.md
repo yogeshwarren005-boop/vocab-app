@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of the Cynics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cynical attitude or quality; also : a cynical comment or act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to believe that people are motivated purely by self-interest; or a contemptuous, mocking attitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, the doctrines of the Cynics emphasizing virtue and self-mastery through defiance of societal luxuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Knowledge of men, but without cynicism, a loving heart still in spite of his freedom from illusions--these are among the gifts that his environment gave him, or failed to take away from him."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But apart from the coarse cynicism of it, which irritated him, it was no more than he had foreseen, and from then on till the end he did not flinch."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There, you see!" said Hyde with his saddened cynicism."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Pervasive social disillusionment breeds a widespread **cynicism** that leaves the public vulnerable to authoritarian propaganda."*
+> - 📜 **G. K. Chesterton (*Heretics*):** *"Modern **cynicism** is not the result of intellectual strength, but of spiritual exhaustion and lack of faith."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Do not indulge in **cynicism**, for it is the curdling of the milk of human kindness and the paralysis of constructive action."*

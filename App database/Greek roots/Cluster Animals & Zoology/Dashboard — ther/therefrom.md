@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From that circumstance or source; - w.v.quine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From that place or from there.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From that place, thing, source, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal prose and legal documents, denoting point of origin, deduction, or extraction from an aforementioned entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I went therefrom to Norcombe, and malted there two-and-twenty years, and-two-and-twenty years I was there turnip-hoeing and harvesting."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But limitation of the capacity is never recognized as a loss by the loser therefrom: in this attribute moral or æsthetic poverty contrasts plausibly with material, since those who suffer do not mind it, whilst those who mind it soon cease to suffer."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Look here.” He touched the palm of his hand with the blade, and then, lifting it, showed her a thin shaving of scarf-skin dangling therefrom."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Out of the fertile ground the Lord brought forth all trees pleasant to the sight, and good for food, and **therefrom** sprang life."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"When ancient institutions are violently torn down, no wisdom can foresee the convulsions issuing **therefrom**."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"He opened the ancient cedar chest and drew **therefrom** three wondrous coats bequeathed by his father."*

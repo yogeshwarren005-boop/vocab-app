@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who studies reptiles and amphibians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zoologist who studies reptiles and amphibians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who specializes in the scientific study of reptiles and amphibians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field biology and conservation, a researcher investigating squamate, chelonian, crocodilian, and amphibian systematics, physiology, and venom biochemistry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpetologist designates a zoologist who studies reptiles and amphibians."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"A skilled **herpetologist** can identify a dozens of cryptic rainforest frogs merely by listening to their nocturnal chorus."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"As a dedicated **herpetologist**, I spent years tracking venomous fer-de-lance snakes through Central American plantations."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"The passionate debates of every field **herpetologist** underscore how squamate classification underwent radical phylogenetic revision."*

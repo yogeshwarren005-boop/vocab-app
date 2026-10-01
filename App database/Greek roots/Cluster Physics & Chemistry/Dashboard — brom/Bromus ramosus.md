@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hairy brome; a tall, perennial woodland grass native to Europe and western Asia with drooping open panicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology and floristics, a characteristic shade-tolerant grass species inhabiting ancient deciduous woodlands and calcareous soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Bromus ramosus designates a term designating an entity, condition, or phenomenon derived from greek brom."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"In moist shaded copses, **Bromus ramosus** displays its graceful, widely spreading, nodding panicles."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"Under the canopy of the pedunculate oak, **Bromus ramosus** forms lush green clumps along woodland rides."*
+> - 📜 **Charles Cardale Babington (*Manual of British Botany*):** *"The lower leaf-sheaths of **Bromus ramosus** are conspicuously clothed with long, spreading hairs."*

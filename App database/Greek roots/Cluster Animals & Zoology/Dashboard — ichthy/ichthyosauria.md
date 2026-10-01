@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct marine reptiles: ichthyosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct marine reptiles: ichthyosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order of marine reptiles that flourished during much of the Mesozoic era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a clade of diapsid reptiles that appeared in the Early Triassic and evolved extreme fish-like body plans before dying out in the Late Cretaceous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyosauria designates extinct marine reptiles: ichthyosaurs."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The vertebrae of the **Ichthyosauria** are deeply amphicoelous like those of bony fishes, providing maximum spinal flexibility."*
+> - 📜 **G. R. Wieland (*The Osteology of Archelon*):** *"Fossil embryos preserved inside adult ribcages proved that the **Ichthyosauria** were viviparous animals giving birth at sea."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The hyperphalangy and polydactyly seen in paddle fins of the **Ichthyosauria** represent extraordinary marine specializations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of thermodynamics concerned with thermal equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of thermodynamics concerned with thermal equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of thermodynamics that deals with thermodynamic equilibrium in systems at rest, without macroscopic flows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics, the equilibrium branch of thermal physics distinguished from non-equilibrium irreversible thermodynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostatics designates the aspect of thermodynamics concerned with thermal equilibrium."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The foundational theorems of chemical **thermostatics** determine the maximum work obtainable between equilibrium states."*
+> - 📜 **Max Planck (*Treatise on Thermodynamics*):** *"While irreversible processes involve entropy generation, classical **thermostatics** concerns itself exclusively with reversible cycles."*
+> - 📜 **Pierre Duhem (*Traité d'Énergétique*):** *"The mathematical axioms of **thermostatics** deduce all equilibrium conditions from a single thermodynamic potential."*

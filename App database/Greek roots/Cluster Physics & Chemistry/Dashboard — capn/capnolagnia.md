@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek capn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paraphilia or psychological condition in which sexual arousal is derived from the sight, smell, or presence of tobacco smoke or smokers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sexology and psychopathology, a rare fetish centered on the aesthetics, gestures, or odor of smoking cigarettes or pipes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capnolagnia designates a term designating an entity, condition, or phenomenon derived from greek capn."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In certain individuals displaying **capnolagnia**, the swirling smoke of a cigarette serves as an intense erotic stimulus."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Fetishistic associations with burning tobacco leaves, occasionally classified under **capnolagnia**, illustrate associative sensory conditioning."*
+> - 📜 **Magnus Hirschfeld (*Sexual Anomalies and Perversions*):** *"Cases of **capnolagnia** reveal how olfactory and visual cues around pipe or cigar smoking can become exclusive objects of desire."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lyc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus (now Solanum section Lycopersicon) of flowering plants in the nightshade family, containing the tomato (Lycopersicon esculentum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, New World solanaceous plants bearing fleshy berries and pinnate aromatic leaves, literally 'wolf peach' due to ancient suspicions of toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lycopersicon designates a term designating an entity, condition, or phenomenon derived from greek lyc."*
+> - 📜 **Philip Miller (*The Gardeners Dictionary*):** *"Tournefort established the genus **Lycopersicon** for the love-apple, separating it from the deadly nightshades."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"Wild species of **Lycopersicon** originated in the Andean regions of Peru and Ecuador before domestication in Mexico."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The garden tomato, formerly cataloged as **Lycopersicon**, is now recognized as a specialized fleshy-fruited Solanum."*

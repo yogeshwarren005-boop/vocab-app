@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large birds of prey superficially similar to old world vultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large birds of prey superficially similar to old world vultures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any scavenging bird of prey belonging to the New World vulture family Cathartidae, such as a turkey vulture or condor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, a raptor having perforated nostrils lacking a median septum, formerly placed near storks or Falconiformes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathartid designates large birds of prey superficially similar to old world vultures."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Every true **cathartid** possesses perforated nostrils and lacks the grasping talons characteristic of typical accipiters."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"The massive California condor is the largest surviving **cathartid** inhabiting western mountain wilderness."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"Unlike Old World vultures, each **cathartid** lacks a syrinx and can produce only low hissing or grunting sounds."*

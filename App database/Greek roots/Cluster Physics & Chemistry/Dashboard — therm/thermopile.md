@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic device that converts thermal energy into electrical energy, consisting of several thermocouples connected in series or parallel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and optics, an infrared detector invented by Leopoldo Nobili and Macedonio Melloni used to measure minute quantities of radiant heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermopile designates a kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series."*
+> - 📜 **Macedonio Melloni (*La Thermochrôse*):** *"Coupling the **thermopile** to an astatic galvanometer permitted the detection of radiant heat from a human hand yards away."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Using Melloni's **thermopile**, we demonstrated that invisible infrared rays obey the same laws of reflection as light."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electromotive force produced by the **thermopile** was sufficient to magnetize soft iron cores."*

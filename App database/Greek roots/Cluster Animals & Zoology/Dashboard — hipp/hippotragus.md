@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sable antelopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sable antelopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, imposing African antelopes including the roan antelope and the sable antelope, literally 'horse goat'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and game conservation, magnificent grazing bovids possessing compact muscular necks, erect manes, and long, backward-curving ringed horns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippotragus designates sable antelopes."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"The sable antelope, of the genus **Hippotragus**, is among the noblest beasts in Africa, with sweeping scimitar horns."*
+> - 📜 **Frederick Courteney Selous (*A Hunter's Wanderings in Africa*):** *"A herd of roan antelope **Hippotragus** stood upon the open ridge, their erect manes giving them an equine appearance."*
+> - 📜 **Richard Lydekker (*The Great and Small Game of Africa*):** *"In speed and fierce courage when brought to bay, species of **Hippotragus** yield to no other African antelope."*

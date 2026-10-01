@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiger moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiger moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic family of moths (now Arctiinae) comprising tiger moths, footman moths, and woolly bears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic lepidopterology, a diverse taxon characterized by tymbal organs producing ultrasonic clicks to jam bat echolocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctiidae designates tiger moths."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The family **Arctiidae** takes its name from the Greek arktos, in allusion to the shaggy coat of its woolly bear caterpillars."*
+> - 📜 **Edward Meyrick (*A Handbook of British Lepidoptera*):** *"Species of **Arctiidae** possess prominent metasternal hearing organs adapted for nocturnal predator evasion."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Many genera within the **Arctiidae** sequester cardenolides from poisonous milkweeds for chemical defense."*

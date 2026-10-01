@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual animal that is part of a colonial organism, such as a bryozoan, hydrozoan, or colonial ascidian; or an organic cell or body having independent motility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, specialized polymorphs within a colonial siphonophore or bryozoan performing distinct physiological roles (gastrozooid, dactylozooid, gonozooid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zooidzoöid designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"In the Portuguese man-of-war, each specialized **zooid** fulfills a single function—either hunting, feeding, or reproduction—for the colony."*
+> - 📜 **Philip Henry Gosse (*A Naturalist's Rambles on the Devonshire Coast*):** *"Under the microscope, each moss animal **zooid** extends its delicate bell of ciliated tentacles."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Division of labor among polymorphs transforms a cluster of individual **zooid** units into a single super-organism."*

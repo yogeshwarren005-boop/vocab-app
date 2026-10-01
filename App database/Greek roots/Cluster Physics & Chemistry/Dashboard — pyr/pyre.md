@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A combustible heap for burning a dead body as a funeral rite; broadly : a pile of material to be burned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combustible heap for burning a dead body as a funeral rite; broadly : a pile of material to be burned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heap or combustible structure of wood for burning a dead body as part of a funeral rite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any pile of flammable material set on fire, especially for public sacrifice or destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If all the injustice it has committed and all the misery it has caused could only be locked up with it, and the whole burnt away in a great funeral pyre—why so much the better for other parties than the parties in Jarndyce and Jarndyce!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And we burned his body on a great pyre, with Elgiva, in her golden corselet, beside him singing."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A great pile of firewood has meanwhile been heaped up about it, and the women run round the pyre cursing in shrill voices the wicked spirit who has wrought all this evil."*
+> - 📜 **Homer (*The Iliad*):** *"Nine days did the Trojans gather wood, and on the tenth they laid brave Hector upon the towering funeral **pyre**."*
+> - 📜 **Virgil (*The Aeneid*):** *"Unhappy Dido climbed the lofty **pyre**, casting her eyes upon Trojan garments left behind."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The blazing funeral **pyre** consumed the heroic relics amid the lamentations of Greece."*

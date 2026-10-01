@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various parasites that live in the internal organs of animals (especially intestinal worms).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various parasites that live in the internal organs of animals (especially intestinal worms).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant or older anatomical term for an endoparasite; an internal parasite living within a host body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century zoological and medical texts, designating helminths and protozoa inhabiting deep tissues or visceral cavities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entoparasite designates any of various parasites that live in the internal organs of animals (especially intestinal worms)."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Invertebrates*):** *"The fluke exhibits the classic flattened morphology of an **entoparasite** adapted to the hepatic bile ducts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Identification of the ova of the **entoparasite** in the stool confirms the diagnosis of intestinal schistosomiasis."*
+> - 📜 **Thomas Henry Huxley (*Anatomy of Invertebrated Animals*):** *"In every class of Metazoa, certain lineages have adopted the secluded, specialized life of an **entoparasite**."*

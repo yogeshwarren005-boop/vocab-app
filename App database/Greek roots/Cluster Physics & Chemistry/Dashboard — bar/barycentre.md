@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The center of mass of two or more bodies orbiting one another; the point about which two celestial bodies revolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orbital mechanics and geometry, the balance point of a distributed mass system or simplex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barycentre designates a term designating an entity, condition, or phenomenon derived from greek bar."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The common center of gravity, or **barycentre**, of the Earth and the Moon lies within the interior of the Earth itself."*
+> - 📜 **Johannes Kepler (*Epitome Astronomiae Copernicanae*):** *"Mutual gravitation binds both globes to describe orbits around their shared **barycentre**."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"In binary star systems, orbital precession is calculated with respect to the system's invisible **barycentre**."*

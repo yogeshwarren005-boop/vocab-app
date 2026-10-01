@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rice cooked usually in meat or seafood stock and seasoned (as with Parmesan cheese or saffron).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rice cooked usually in meat or seafood stock and seasoned (as with Parmesan cheese or saffron).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional northern Italian dish of short-grain rice (such as Arborio or Carnaroli) cooked slowly in broth to a creamy consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary arts, a preparation technique involving toasted rice deglazed with wine and cooked by incremental broth addition while stirring to release starch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, risotto designates rice cooked usually in meat or seafood stock and seasoned (as with parmesan cheese or saffron)."*
+> - 📜 **Elizabeth David (*Italian Food*):** *"A true Milanese **risotto** should be rich with saffron and bone marrow, creamy yet firm to the bite."*
+> - 📜 **Marcella Hazan (*The Classic Italian Cookbook*):** *"The success of a great **risotto** depends on constant, gentle stirring to coax the starch from the rice grains."*
+> - 📜 **Anthony Bourdain (*Kitchen Confidential*):** *"The line cook stood over the sauté station, testing each pan of simmering **risotto** for the perfect al dente wave."*

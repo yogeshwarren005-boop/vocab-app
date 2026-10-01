@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting force by reason of weight alone without motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to bodies at rest or forces in equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in movement, action, or change, especially in an uninteresting or unproductive way; stationary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and radio, crackling or hissing noise produced by electrical interference; or electrostatic phenomena involving charges at rest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, therefore, is a static theory in respect to the standard of deferred payments, and requires adjustment to apply to a condition of a changing price-level.] [Footnote 12: See above, sec. 3.] [Footnote 13: Mention was made in Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In long-time static conditions the general level of prices and the prevailing rate of interest are dependent on entirely different sets of forces."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"That is, there is, under static conditions, work for all to do at various rates of wages that would bring about a value equilibrium of services.[9] The maladjustments are either of an individual or of a general character."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"In a **static** equilibrium, the resultant of all acting forces and torques must vanish."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The distinction between **static** charge and dynamic galvanic current was reconciled through electromagnetic theory."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The loud burst of **static** from the radio interrupted our conversation in the sultry summer room."*

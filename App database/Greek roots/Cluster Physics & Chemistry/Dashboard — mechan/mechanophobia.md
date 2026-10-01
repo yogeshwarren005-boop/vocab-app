@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mechan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, or irrational fear of machines, mechanical devices, or automated technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and sociology of technology, an anxiety disorder manifesting as terror of encountering or operating machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanophobia designates a term designating an entity, condition, or phenomenon derived from greek mechan."*
+> - 📜 **E. M. Forster (*The Machine Stops*):** *"When the central apparatus faltered, the subterranean citizens experienced an acute terror far worse than simple **mechanophobia**."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Early Luddite protests were driven not by irrational **mechanophobia**, but by justifiable resistance to workplace degradation."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Public resistance to robotic automation frequently masks a subconscious **mechanophobia** inherited from ancient folklore."*

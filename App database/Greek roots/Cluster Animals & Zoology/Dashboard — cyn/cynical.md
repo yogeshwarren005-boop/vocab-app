@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing that people are motivated purely by self-interest; distrustful of human sincerity or noble integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting contemptuous disbelief in moral virtues, expressed through biting sneering or mocking skepticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A cynical inference was irresistible by Gabriel Oak as he regarded the scene, generous though he fain would have been."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You have got quite cynical lately—how is it?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Cynical things he had uttered to himself about her; but no man can be always a cynic and live; and he withdrew them."*
+> - 📜 **George Orwell (*Animal Farm*):** *"Benjamin the donkey was the oldest animal on the farm, and the most bad-tempered; he rarely talked, and when he did, it was usually to make some **cynical** remark."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, and **cynical** reserve that thirty years had not sufficed to make his wife understand him."*
+> - 📜 **H. L. Mencken (*Prejudices: First Series*):** *"A **cynical** observer of democratic politics soon recognizes that public promises are mere bait for the gullible mob."*

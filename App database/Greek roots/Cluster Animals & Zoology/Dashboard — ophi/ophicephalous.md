@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of snake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of snake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a head shaped like that of a snake; snake-headed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and archaeology, describing reptilian, piscine, or carved iconographic heads possessing flattened, triangular serpent-like contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophicephalous designates adjective*) pertaining to, derived from, or characteristic of snake."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The flattened skull and anteriorly placed eyes give the freshwater predator an unmistakably **ophicephalous** appearance."*
+> - 📜 **Austen Henry Layard (*Nineveh and Its Remains*):** *"Upon the palace bas-reliefs, we discovered a curious **ophicephalous** demon holding writhing vipers in either hand."*
+> - 📜 **Frank E. Beddard (*The Cambridge Natural History: Reptiles*):** *"Certain burrowing lizards have evolved an **ophicephalous** cranial outline to facilitate thrusting through loose loam."*

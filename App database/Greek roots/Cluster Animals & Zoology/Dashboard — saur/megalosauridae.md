@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Megalosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Megalosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large, predatory theropod dinosaurs that flourished during the Middle and Late Jurassic periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dinosaur taxonomy, a basal tetanuran family comprising Megalosaurus, Torvosaurus, and Afrovenator, characterized by long, low skulls and enlarged humeral crests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalosauridae designates megalosaurs."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of the Dinosauria*):** *"I placed these archaic carnivorous reptiles within the family **Megalosauridae** on account of their hollow limb bones."*
+> - 📜 **Richard Lydekker (*Catalogue of the Fossil Reptilia and Amphibia in the British Museum*):** *"Specimens of **Megalosauridae** are characteristic of the Bathonian oolites across southern England and northern France."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The **Megalosauridae** occupied the apex predator niche across Europe before the rise of allosaurids and tyrannosauroids."*

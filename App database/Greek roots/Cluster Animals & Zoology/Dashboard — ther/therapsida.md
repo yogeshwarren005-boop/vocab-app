@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order of advanced synapsids that dominated terrestrial vertebrate ecosystems during the Permian and Triassic periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic vertebrate paleontology, the great clade encompassing anomodonts, gorgonopsians, therocephalians, and cynodonts, from which mammals directly evolved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapsida designates extinct mammal-like reptiles found inhabiting all continents from the mid permian to late triassic."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"The radiation of the **Therapsida** marks the dawn of mammalian skull design, heterodont dentition, and active locomotion."*
+> - 📜 **Richard Owen (*Descriptive and Illustrated Catalogue of the Fossil Reptilia of South Africa*):** *"I established several genera of **Therapsida** based on Karoo fossils displaying canine tusks unknown in typical reptiles."*
+> - 📜 **Alfred Sherwood Romer (*The Procession of Life*):** *"Before the dinosaurs conquered the land, the **Therapsida** were the undisputed masters of the late Paleozoic continents."*

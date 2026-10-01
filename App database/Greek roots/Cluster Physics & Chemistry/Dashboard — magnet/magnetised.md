@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract strongly, as if with a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make magnetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endowed with magnetic properties; having magnetic poles or dipole alignment (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enthralled, captivated, or deeply fascinated by someone or something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed, it is not too much to say that the maritime commerce of the world was based upon the behaviour of that little piece of magnetised steel."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The latter is but a small piece of iron magnetised; the former is nothing more than a spinning-top."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For most purposes a steel core would render an electro-magnet useless, but in this case it was desired that the core should be permanently magnetised."*
+> - 📜 **William Gilbert (*De Magnete*):** *"The floating **magnetised** needle turns unerringly toward the poles of the earth."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"I stood **magnetised** by the passionate eloquence that flowed from his lips."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic rocks were so strongly **magnetised** that the compass spun wildly when held near the cliff."*

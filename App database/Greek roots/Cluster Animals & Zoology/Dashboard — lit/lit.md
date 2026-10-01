@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Literature —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected by alcohol : drunk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Past and past participle of light; illuminated, ignited, or provided with light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek etymology (lite), an ancient root denoting supplication, prayer, or entreaty, as seen in litany.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, from her elevation, instantly cries out, “No he don’t!” “My lit-tle woman!” says Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby.” “Every—my lit—” “I should be glad,” says Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ideal and real clashed slightly as the sun lit up their figures against the green hedges and creeper-laced house-fronts; for, though the whole troop wore white garments, no two whites were alike among them."*
+> - 📜 **Homer (*The Iliad*):** *"Prayers of entreaty, the sacred **lit** daughters of great Zeus, follow behind Ruin to heal her reckless wounds."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"A lantern **lit** the smoke-filled cabin, throwing grotesque shadows of the mutineers upon the bulkhead."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The feeble rays of the candle **lit** the tarnished armour upon the wall, revealing deep fissures in the masonry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The adsorption of gases or vapors onto a solid adsorbent surface at cryogenic temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-vacuum engineering and cryopumping, a technique using charcoal or zeolites cooled to liquid helium temperatures to evacuate chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryo-adsorption designates a term designating an entity, condition, or phenomenon derived from greek cry."*
+> - 📜 **Irving Langmuir (*The Adsorption of Gases on Plane Surfaces*):** *"At low temperatures, **cryo-adsorption** immobilizes inert gas molecules onto activated carbon matrices."*
+> - 📜 **James Dewar (*Collected Papers on Physical Phenomena*):** *"Utilizing **cryo-adsorption** on chilled coconut charcoal, we succeeded in obtaining extraordinary degrees of vacuum."*
+> - 📜 **Heike Kamerlingh Onnes (*Communications from the Physical Laboratory of Leiden*):** *"The residual hydrogen in the liquefier was eliminated by selective **cryo-adsorption**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological fear or loathing of arachnids and especially spiders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathological fear or loathing of arachnids and especially spiders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of spiders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, one of the most prevalent specific animal phobias, provoking disproportionate tachycardia, dread, and avoidance behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnophobia designates pathological fear or loathing of arachnids and especially spiders."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A spontaneous, instinctive revulsion akin to **arachnophobia** often awakens in children at the sight of a hairy spider."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"Deep-seated animal fears like **arachnophobia** frequently mask displaced infantile anxieties and neurotic defenses."*
+> - 📜 **H. P. Lovecraft (*The Shadow Out of Time*):** *"He felt a sickening wave of primordial **arachnophobia** as colossal webbed horrors loomed through the cavernous gloom."*

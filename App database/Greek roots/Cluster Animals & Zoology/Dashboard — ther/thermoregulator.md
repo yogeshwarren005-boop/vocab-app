@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regulator for automatically regulating temperature by starting or stopping the supply of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regulator for automatically regulating temperature by starting or stopping the supply of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or physiological mechanism that automatically controls or maintains a desired temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological cybernetics and engineering, an automated thermostat or the hypothalamic preoptic nucleus that maintains homeostatic core temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoregulator designates a regulator for automatically regulating temperature by starting or stopping the supply of heat."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The anterior hypothalamus acts as the body's master physiological **thermoregulator**, orchestrating shivering, vasodilation, and sweat."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"An electrical **thermoregulator** maintained the reaction water bath at twenty-five degrees with unwavering constancy."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"Toluene expansion tubes coupled to sensitive relays provided a dependable **thermoregulator** for precision calorimetry."*

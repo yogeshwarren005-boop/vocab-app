@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through joyful, happy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through joyful, happy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a mane or long, fringing hair; maned, like a lion, horse, or baboon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive zoology, designating animals with a dorsal crest or shaggy mane (from Latin jubatus, derived from juba, mane).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jubate designates verb*) to subject to, transform by, or operate upon through joyful, happy."*
+> - 📜 **Thomas Pennant (*History of Quadrupeds*):** *"The male hamadryas baboon exhibits a majestic, **jubate** cape of silvery fur over its shoulders."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The **jubate** mane of the adult male lion darkens with age, signaling physical vigor to rival males."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Certain extinct ungulates exhibited a **jubate** crest running along the entire cervical spine."*

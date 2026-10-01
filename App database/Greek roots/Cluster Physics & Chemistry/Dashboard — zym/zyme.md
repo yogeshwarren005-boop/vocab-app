@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: enzyme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: enzyme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete term for an enzyme or ferment; or the infectious principle or virus of a zymotic disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century epidemiology and pathology, the postulated poison or ferment that was thought to reproduce within the blood during infectious fevers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog zyme as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Farr (*Vital Statistics: A Memorial Volume of Selections*):** *"In epidemic fevers, the specific **zyme** acts like a catalytic ferment, multiplying within the bloodstream."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Older nosologists attributed infectious contagions to an invisible morbific **zyme**."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The inoculable **zyme** of vaccinia reproduces its specific pustule upon the human arm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stout-bodied broad-winged moth with conspicuously striped or spotted wings; larvae are hairy caterpillars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stout-bodied broad-winged moth with conspicuously striped or spotted wings; larvae are hairy caterpillars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any moth of the family Arctiidae (now subfamily Arctiinae), commonly known as tiger moths and woolly bear caterpillars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, a stout-bodied moth often brightly colored with warning aposematic patterns, whose larvae bear dense bristly protective setae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctiid designates stout-bodied broad-winged moth with conspicuously striped or spotted wings; larvae are hairy caterpillars."*
+> - 📜 **W. J. Holland (*The Moth Book*):** *"The brightly banded **arctiid** moth flashes crimson hindwings to startle pursuing birds in the twilight."*
+> - 📜 **J. H. Fabre (*The Life of the Caterpillar*):** *"The furry caterpillar of the **arctiid** curled into a tight ring the moment my hand approached the garden path."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"Chemosensory receptors on the mouthparts of the **arctiid** larva detect specific defensive alkaloids in host plants."*

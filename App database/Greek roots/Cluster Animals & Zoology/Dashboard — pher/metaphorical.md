@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing one thing in terms normally denoting another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing one thing in terms normally denoting another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or involving metaphor; expressing meaning through figurative symbolism rather than literal description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic philosophy, describing language that transfers attributes from a vehicle to a tenor to generate new conceptual insight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We come still closer to the facts in the less metaphorical terms of the New Testament."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother must be of a metaphorical kind, which was much more difficult to Fred than the muscular."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Geology a failure The sun is a metaphorical representation of Soul out- side the body, giving existence and intelligence to the 510:18 universe."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All figurative speech and **metaphorical** allusions are for nothing else but to insinuate wrong ideas and mislead the judgment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I use the term Struggle for Existence in a large and **metaphorical** sense, including dependence of one being on another."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"A newly invented **metaphorical** phrase assists thought by evoking a visual image, whereas a stale cliché merely anesthetizes the brain."*

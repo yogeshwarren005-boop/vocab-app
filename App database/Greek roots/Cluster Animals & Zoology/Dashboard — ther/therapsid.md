@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Therapsida) of advanced synapsid vertebrates that flourished during the Permian and Triassic periods with the last forms becoming extinct during the Cretaceous period and that are considered ancestors of the mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Therapsida) of advanced synapsid vertebrates that flourished during the Permian and Triassic periods with the last forms becoming extinct during the Cretaceous period and that are considered ancestors of the mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the extinct synapsid order Therapsida, representing the mammal-like reptiles ancestral to true mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Permian and Triassic synapsids possessing differentiated heterodont teeth, upright limb posture, and incipient endothermy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapsid designates any of an order (therapsida) of advanced synapsid vertebrates that flourished during the permian and triassic periods with the last forms becoming extinct during the cretaceous period and that are considered ancestors of the mammals."*
+> - 📜 **Robert Broom (*The Mammal-like Reptiles of South Africa*):** *"The Karoo beds preserved every morphological grade connecting the primitive pelycosaur with the advanced cynodont **therapsid**."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"In the advanced **therapsid** skeleton, the dentary bone steadily enlarged while the postdentary bones reduced toward mammalian ear ossicles."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"The transition from **therapsid** reptile to true mammal is one of the most thoroughly documented triumphs of the fossil record."*

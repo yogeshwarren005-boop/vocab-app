@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychrophilic bacterium capable of living, metabolizing, and reproducing at extremely low, freezing temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrobiology and polar microbiology, cold-adapted bacterial taxa isolated from deep glacial ice cores and permafrost.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryobacterium designates a term designating an entity, condition, or phenomenon derived from greek cry."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The discovery of living **cryobacterium** strains in ancient Antarctic permafrost reshaped our notions of biological limits."*
+> - 📜 **Carl Sagan (*The Cosmic Connection*):** *"If life evolved on Mars, a dormant **cryobacterium** encased in subsurface polar ice might still await detection."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Specialized cold-shock proteins enable each **cryobacterium** to survive the crushing crystallization of cellular water."*

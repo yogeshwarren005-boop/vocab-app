@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of ferment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of ferment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by fermentation; or denoting an infectious or contagious disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century public health and epidemiology, designating zymotic diseases—acute epidemic, endemic, and contagious fevers (such as typhus, cholera, smallpox, and scarlet fever).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymotic designates adjective*) pertaining to, derived from, or characteristic of ferment."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The terrible prevalence of **zymotic** disease in the military hospitals was swiftly subdued by soap, water, and open windows."*
+> - 📜 **William Farr (*Vital Statistics*):** *"The Registrar General's reports categorized cholera and smallpox under the broad heading of preventable **zymotic** fevers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"From the reeking graveyard arose a pestilence belonging to the deadly class of **zymotic** contagions."*

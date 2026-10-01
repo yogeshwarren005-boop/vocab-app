@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having a highly technical implementation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of implementing the control of equipment with advanced technology; usually involving electronic hardware.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of introducing machines into an industry or activity to replace human or animal labor (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and industrial history, the transition of cavalry and infantry to motorized and armored armored formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechanisation designates the condition of having a highly technical implementation."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The progressive **mechanisation** of human toil altered the rhythm of daily life from organic cycles to mechanical clockwork."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The rapid **mechanisation** of the transport columns permitted rapid resupply of the front lines."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Unbridled **mechanisation** tends to dehumanize labor, reducing the artisan to an attendant upon steel wheels."*

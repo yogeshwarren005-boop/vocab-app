@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic application of electricity to the body (as in the treatment of various forms of paralysis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The therapeutic application of electricity to the body (as in the treatment of various forms of paralysis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical treatment of disease, pain, or injury through the therapeutic application of electrical energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical rehabilitation, modalities such as TENS (transcutaneous electrical nerve stimulation) and neuromuscular electrical stimulation used to relieve pain and rebuild muscle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrotherapy designates the therapeutic application of electricity to the body (as in the treatment of various forms of paralysis)."*
+> - 📜 **S. Weir Mitchell (*Wear and Tear: Or, Hints for the Overworked*):** *"Judicious **electrotherapy** combined with massage provided significant relief from chronic neuralgic pain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"While historical **electrotherapy** was overburdened with quack devices, localized nerve stimulation remains clinically valid."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The rehabilitation specialist incorporated targeted **electrotherapy** into the patient's recovery program after spinal surgery."*

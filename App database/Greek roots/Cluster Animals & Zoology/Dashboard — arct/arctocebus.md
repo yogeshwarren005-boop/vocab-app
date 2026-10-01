@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lorisidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of lorisidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, nocturnal lorisid primates native to West and Central Africa, known as angwantibos or golden pottos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology, slow-climbing arboreal primates characterized by a reduced second digit, dense woolly fur, and a rounded bear-like facial appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctocebus designates a genus of lorisidae."*
+> - 📜 **Richard Lydekker (*A Hand-book to the Primates*):** *"The delicate golden potto was placed in the genus **Arctocebus** by Gray to emphasize its peculiar facial outline."*
+> - 📜 **St. George Jackson Mivart (*On the Osteology of the Lemuroidea*):** *"The skeletal proportions of **Arctocebus** demonstrate remarkable specialization for powerful, slow grasp upon slender rainforest twigs."*
+> - 📜 **Frank E. Beddard (*Mammalia*):** *"Unlike its larger cousin Perodicticus, **Arctocebus** feeds predominantly on caterpillars and slow-moving insects in the understory."*

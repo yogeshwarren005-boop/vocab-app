@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sakis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sakis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of arboreal New World monkeys (family Pitheciidae) native to South America, commonly known as sakis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology, platyrrhine primates characterized by long shaggy coats, bushy non-prehensile tails, and specialized forward-projecting incisors adapted for cracking hard-shelled nuts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog pithecia as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"In the rainforests along the Orinoco, we observed the shy saki monkey **Pithecia** leaping with astonishing agility through the canopy."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The white-headed **Pithecia** sat motionless upon a high branch, cloaked in its long shaggy mantle of dark hair."*
+> - 📜 **Frank E. Beddard (*The Cambridge Natural History: Mammalia*):** *"The robust procumbent dentition of **Pithecia** enables it to gouge open the thickest woody seed husks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lepismatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of lepismatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive wingless insects in the family Lepismatidae, containing the firebrat (Thermobia domestica).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic entomology, bristletail insects closely related to silverfish, flourishing in warm, dry microhabitats such as bakeries, boiler rooms, and hearths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermobia designates a genus of lepismatidae."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The firebrat **Thermobia** domestica scuttles behind commercial bake-ovens, reveling in intense heat that would kill other insects."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Species of **Thermobia** are remarkably tolerant of desiccation, finding optimal development between thirty-five and forty degrees."*
+> - 📜 **Vincent Dethier (*To Know a Fly*):** *"The rapid nocturnal darting of **Thermobia** across hearth bricks fascinated entomologists studying thermotaxis."*

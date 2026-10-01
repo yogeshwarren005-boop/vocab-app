@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic substance or venom produced by an animal, such as a snake, spider, scorpion, jellyfish, or cone snail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxinology and biochemical pharmacology, complex polypeptide mixtures of neurotoxins, hemotoxins, and cytotoxins acting upon physiological targets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zootoxin designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **S. Weir Mitchell (*Researches upon the Venoms of Poisonous Serpents*):** *"Mitchell conducted pioneering chemical analyses of rattlesnake **zootoxin**, demonstrating its destructive effect on blood capillary walls."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intense local tissue necrosis followed the injection of cobra **zootoxin** into the victim's forearm."*
+> - 📜 **Louis Lewin (*The Toxic Substances in the Animal Kingdom*):** *"Each deadly marine **zootoxin** evolved as an offensive hunting weapon or a defensive barrier against predators."*

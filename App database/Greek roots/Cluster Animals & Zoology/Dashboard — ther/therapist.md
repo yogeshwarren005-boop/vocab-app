@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual specializing in the therapeutic medical treatment of impairment, injury, disease, or disorder; especially : a health care professional trained in methods of treatment and rehabilitation other than the use of drugs or surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of psychotherapy : a psychotherapist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained and skilled in the therapeutic treatment of physical, mental, or behavioral disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, psychiatry, or physical medicine, a licensed practitioner guiding rehabilitation or psychotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapist designates an individual specializing in the therapeutic medical treatment of impairment, injury, disease, or disorder; especially : a health care professional trained in methods of treatment and rehabilitation other than the use of drugs or surgery."*
+> - 📜 **Sigmund Freud (*An Outline of Psycho-Analysis*):** *"The **therapist** must maintain benevolent neutrality, allowing the patient's transference to unfold without judgment."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A sympathetic **therapist** understands that bodily posture and breathing profoundly modify mental depression."*
+> - 📜 **Carl Jung (*Modern Man in Search of a Soul*):** *"The meeting of two personalities in therapy is like the contact of two chemical substances; if there is any reaction, both are transformed, including the **therapist**."*

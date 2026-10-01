@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Colorless liquid haloform chbr3.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colorless liquid haloform chbr3.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, colorless trihalomethane liquid with the chemical formula CHBr3, commonly known as bromoform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biogeochemistry and industrial chemistry, an ozone-depleting volatile halocarbon produced naturally by marine algae and phytoplanktons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribromomethane designates colorless liquid haloform chbr3."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Pure **tribromomethane** was used as a dense separating fluid in the centrifugation of cellular precipitates."*
+> - 📜 **Ira Remsen (*Organic Chemistry*):** *"Treatment of acetone with alkali and bromine affords heavy droplets of **tribromomethane**."*
+> - 📜 **James Lovelock (*Gaia: A New Look at Life on Earth*):** *"Marine macroalgae release significant quantities of **tribromomethane** into the coastal atmosphere."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pouched animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pouched animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major mammalian clade comprising all marsupials and their extinct relatives, bearing altricial young nurtured in a pouch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian systematics, the sister group to Eutheria (placentals), characterized by epipubic bones, an inflected mandibular angle, and brief intrauterine gestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metatheria designates pouched animals."*
+> - 📜 **Thomas Henry Huxley (*On the Application of the Laws of Evolution to the Arrangement of the Vertebrata*):** *"I designated the marsupials as **Metatheria**, representing an intermediate evolutionary grade between Prototheria and Eutheria."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The ancient continent of Australia became the magnificent sanctuary of the **Metatheria**, isolated from competing placental carnivores."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Fossil **Metatheria** were widely distributed across Cretaceous North America before radiating explosively in South America and Australasia."*

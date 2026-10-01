@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Halibuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Halibuts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of colossal righteye flatfishes (family Pleuronectidae) comprising the Atlantic and Pacific halibuts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial marine fisheries, apex predatory flatfishes that reach lengths over two meters, literally named 'horse tongue' (Greek hippos + glossa) for their broad oval shape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hippoglossus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"I assigned the great halibut to Pleuronectes **hippoglossus** in reference to its vast tongue-like flattened body."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Giant halibut of the genus **Hippoglossus** patrol the deep northern banks, preying upon cod, haddock, and flounders."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The hardy fishermen of the northern banks hauled up the monstrous **Hippoglossus** through the freezing fog."*

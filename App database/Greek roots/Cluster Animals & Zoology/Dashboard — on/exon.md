@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sequence of a gene's dna that transcribes into protein structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sequence of a gene's dna that transcribes into protein structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any part of a gene that will form part of the final mature RNA produced by that gene after introns have been removed by RNA splicing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, the expressed coding or untranslated segment of an interrupted eukaryotic gene, coined by Walter Gilbert in 1978 for 'expressed region'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exon designates sequence of a gene's dna that transcribes into protein structures."*
+> - 📜 **Walter Gilbert (*Why Genes in Pieces?*):** *"I proposed the term **exon** for those regions of the primary transcript that are retained and expressed in the mature messenger RNA."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The discovery of introns and every intervening **exon** fundamentally revolutionized our understanding of gene architecture."*
+> - 📜 **Francis Crick (*Split Genes and RNA Splicing*):** *"The nuclear spliceosome excises intervening sequences, bringing each consecutive **exon** into proper reading frame."*

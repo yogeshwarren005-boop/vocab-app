@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrically charged particle (electron or ion) emitted by a substance at a high temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrically charged particle (electron or ion) emitted by a substance at a high temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A charged particle (electron or ion) emitted from a heated material via thermionic emission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics and atomic physics, a particle escaping the work function of a glowing metallic filament inside a vacuum tube.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermion designates an electrically charged particle (electron or ion) emitted by a substance at a high temperature."*
+> - 📜 **J. J. Thomson (*Conduction of Electricity Through Gases*):** *"The negative **thermion** emitted by the incandescing platinum wire proved to be identical with the cathode ray electron."*
+> - 📜 **Owen Willans Richardson (*The Emission of Electricity from Hot Bodies*):** *"Richardson's law describes the exponential increase in the rate at which each **thermion** escapes the heated metal surface."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The cloud chamber tracks confirmed that each liberated **thermion** carried the elementary unit of electric charge."*

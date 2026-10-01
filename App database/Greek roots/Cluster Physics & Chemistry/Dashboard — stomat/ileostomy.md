@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stomat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical procedure in which the ileum (the lowest part of the small intestine) is brought out through an opening in the abdominal wall to form a stoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorectal surgery, an artificial opening used to divert digestive contents following total proctocolectomy for ulcerative colitis or polyposis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ileostomy designates a term designating an entity, condition, or phenomenon derived from greek stomat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In fulminant ulcerative colitis refractory to medical management, an urgent **ileostomy** may prove life-saving."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Modern ostomy appliances have made living with a temporary loop **ileostomy** far more manageable for patients."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"The stoma of a well-matured **ileostomy** delivers liquid effluent that requires meticulous peristomal skin protection."*

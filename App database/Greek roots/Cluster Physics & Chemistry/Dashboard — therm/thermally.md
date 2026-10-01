@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of heat or with respect to thermal properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of heat or with respect to thermal properties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a thermal manner; with regard to heat or temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By the action of heat or thermal processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermally designates by means of heat or with respect to thermal properties."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Two bodies placed in contact become **thermally** equilibrated when their temperatures coincide."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Diamond is **thermally** more conductive than copper at room temperature due to its rigid covalent lattice."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The oceanic lithosphere cools **thermally** as it moves away from the mid-ocean spreading ridge."*

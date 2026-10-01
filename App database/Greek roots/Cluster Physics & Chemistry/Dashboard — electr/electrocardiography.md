@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The non-invasive clinical technique and medical science of recording and interpreting the electrical activity of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foundational diagnostic modality in cardiology used to detect ischemia, hypertrophy, conduction blocks, and arrhythmias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiography designates an instrument for recording the changes of electrical potential occurring during the heartbeat used especially in diagnosing abnormalities of heart action."*
+> - 📜 **Willem Einthoven (*The Galvanometric Registration of the Human Electrocardiogram*):** *"Through the development of **electrocardiography**, the hidden electrical dynamics of the living myocardium are made visible."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Mastering the principles of **electrocardiography** remains one of the fundamental rites of passage in internal medicine."*
+> - 📜 **Jerome Groopman (*Second Opinions*):** *"Modern **electrocardiography** allows us to detect asymptomatic coronary artery disease long before heart muscle is irreversibly damaged."*

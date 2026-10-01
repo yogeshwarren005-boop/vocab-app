@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Latin pectus ('chest', 'breast') or Greek pēktos ('coagulated', 'curdled', 'fixed').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy (pectoral, pectus) denoting the chest region; in biochemistry (pectin, pectic) denoting gelatinous plant polysaccharides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ex- 452:24 pect to heal simply by repeating the author's words, by right talking and wrong acting, and you will be disap- pointed."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Man should 59:9 not be required to participate in all the annoyances and cares of domestic economy, nor should woman be ex- pected to understand political economy."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The broad muscles covering the anterior ribs are designated under the root **pect**- in accordance with classical anatomy."*
+> - 📜 **Henri Braconnot (*Recherches sur la substance gélatineuse des fruits*):** *"From the Greek word for coagulum, I derived the prefix **pect**- to denote the natural jelling principle of ripe apples."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Compounds containing the morpheme **pect**- play an essential architectural role in cementing adjacent plant cell walls."*

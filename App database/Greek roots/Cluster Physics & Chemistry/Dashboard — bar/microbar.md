@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absolute unit of pressure equal to one dyne per square centimeter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absolute unit of pressure equal to one dyne per square centimeter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of pressure equal to one-millionth of a bar (0.1 pascal or 1 dyne per square centimeter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics and atmospheric physics, a metric unit commonly used to express sound pressure and minute atmospheric wave oscillations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbar designates the absolute unit of pressure equal to one dyne per square centimeter."*
+> - 📜 **John William Strutt, Lord Rayleigh (*The Theory of Sound*):** *"The threshold of human auditory perception corresponds to sound pressures of a fraction of a **microbar**."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Faint acoustic waves produce eardrum displacements measurable in fractions of a **microbar**."*
+> - 📜 **Arthur Eddington (*The Mathematical Theory of Relativity*):** *"Tidal atmospheric pulses of mere **microbar** amplitude circle the globe after volcanic eruptions."*

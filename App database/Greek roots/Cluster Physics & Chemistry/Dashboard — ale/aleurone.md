@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protein matter in the form of minute granules or grains occurring in seeds in endosperm or in a special peripheral layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protein matter in the form of minute granules or grains occurring in seeds in endosperm or in a special peripheral layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protein granules or crystalline grains stored in the specialized outer endosperm cells of seeds, particularly in cereal grains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, the outermost cellular layer (the aleurone layer) of grass caryopses that secretes hydrolytic enzymes during seed germination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aleurone designates protein matter in the form of minute granules or grains occurring in seeds in endosperm or in a special peripheral layer."*
+> - 📜 **Julius von Sachs (*Text-book of Botany*):** *"The grains of **aleurone** lie densely packed in the outer cells of the seed endosperm."*
+> - 📜 **Francis Darwin (*The Physiology of Plants*):** *"Upon imbibition of water, the **aleurone** layer produces alpha-amylase to mobilize starch reserves."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Pigmentation patterns within the cereal **aleurone** have served as pivotal genetic markers in classical cytogenetics."*

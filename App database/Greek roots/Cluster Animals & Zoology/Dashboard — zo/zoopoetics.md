@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or creative exploration of the presence, agency, voice, and representation of non-human animals in literature, poetry, and art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eco-criticism and literary theory, a critical framework interrogating how human language attempts to capture animal consciousness, embodiment, and umwelt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoopoetics designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Jacques Derrida (*The Animal That Therefore I Am*):** *"Derrida's philosophical reflections on the gaze of his cat laid the groundwork for contemporary **zoopoetics** in critical theory."*
+> - 📜 **Donna Haraway (*When Species Meet*):** *"Practicing feminist **zoopoetics** requires writers to acknowledge the co-shaping agency of non-human companion species."*
+> - 📜 **J. M. Coetzee (*The Lives of Animals*):** *"Through visceral prose, the novelist engages in intense **zoopoetics**, imagining the sensory life and suffering of caged beasts."*

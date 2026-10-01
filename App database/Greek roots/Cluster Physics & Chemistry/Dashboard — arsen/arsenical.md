@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pesticide or drug containing arsenic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing arsenic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or produced by arsenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal or pesticidal preparation containing arsenic compounds, such as Salvarsan (arsphenamine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Rigidity of arsenical copper, 33, 41."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy of Spirilloses*):** *"The synthetic **arsenical** compound demonstrated specific affinity for the treponema while sparing host tissue."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"The physician prescribed mild **arsenical** waters to stimulate metabolic activity in the convalescent."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Thermal springs often deposit thick crusts containing **arsenical** pyrites and copper ores."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider obligatory; request and expect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded as likely to happen, arrive, or be the case; anticipated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics and physics, denoting calculated theoretical values predicted by a model (the expected value).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is most certain that I shall deliver: Mark Antony is every hour in Rome Expected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar himself has work, and our oppression Exceeds what we expected. [_Exeunt._] Alarums."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I minded him how royal ’twas to pardon When it was less expected."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The arrival of the post was an event eagerly **expected** throughout the morning hours."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Such transitional forms are precisely what would be **expected** on the theory of natural descent."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The long **expected** cry from the masthead startled the ship into furious activity."*

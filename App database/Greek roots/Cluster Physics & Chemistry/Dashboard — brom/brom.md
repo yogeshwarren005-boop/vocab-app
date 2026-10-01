@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: bromine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: bromine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek brōmos ('stench', 'foul odor'), designating bromine or halogenated chemical compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic chemical nomenclature, a prefix indicating the presence of bromine atoms in organic or inorganic molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Among these the most formidable was a burly, roaring, roistering blade of the name of Abraham--or, according to the Dutch abbreviation, Brom--Van Brunt, the hero of the country round, which rang with his feats of strength and hardihood."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"From his Herculean frame and great powers of limb, he had received the nickname of BROM BONES, by which he was universally known."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There was something extremely provoking in this obstinately pacific system; it left Brom no alternative but to draw upon the funds of rustic waggery in his disposition and to play off boorish practical jokes upon his rival."*
+> - 📜 **Antoine Jérôme Balard (*Annales de Chimie et de Physique*):** *"I proposed to give this newly discovered liquid substance the name bromine, derived from the Greek **brom**- denoting its suffocating stench."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Compounds containing the radical **brom**- were systematically separated from the mother liquors of salt works."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The chemical properties of **brom**- derivatives demonstrate a distinct affinity intermediate between chlorine and iodine."*

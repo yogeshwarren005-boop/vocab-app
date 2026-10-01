@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing diazonium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing diazonium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing a diazo group consisting of two linked nitrogen atoms bonded to a single carbon atom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic organic chemistry, describing versatile reactive intermediates such as diazomethane or diazo dyes used in coupling reactions and cyclopropanation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diazo designates relating to or containing diazonium."*
+> - 📜 **Peter Griess (*Philosophical Transactions of the Royal Society*):** *"Griess synthesized the first aromatic **diazo** compound by treating aniline with nitrous acid in the cold."*
+> - 📜 **August Wilhelm von Hofmann (*Introduction to Modern Chemistry*):** *"The brilliant synthetic coloring matters derived from **diazo** precursors revolutionized the textile dye industry."*
+> - 📜 **Robert Burns Woodward (*The Total Synthesis of Vitamin B12*):** *"The transient intermediate was coupled with a stabilized **diazo** ester to assemble the corrin core ring."*

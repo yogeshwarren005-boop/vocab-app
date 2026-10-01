@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any theropod dinosaur of the family Ornithomimidae, commonly known as ostrich dinosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, cursorial Late Cretaceous coelurosaurs characterized by toothless horny beaks, long slender necks, grasping forelimbs, and elongated cursorial hindlimbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithomimid designates lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes."*
+> - 📜 **Henry Fairfield Osborn (*Skeletal Adaptations of Ornitholestes, Struthiomimus, and Tyrannosaurus*):** *"The light skeleton of the **ornithomimid** Struthiomimus was built for astonishing sprinting speed across open Cretaceous plains."*
+> - 📜 **O. C. Marsh (*The Dinosaurs of North America*):** *"I established the family based on an exceptional **ornithomimid** skeleton whose bird-like limb proportions were unmistakable."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"The complete toothlessness and keratinous beak of the **ornithomimid** demonstrate remarkable convergence with modern ostriches."*

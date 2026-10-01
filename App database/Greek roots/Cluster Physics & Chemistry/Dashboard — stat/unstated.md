@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made explicit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made explicit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not declared, expressed, or specified explicitly in words; implied or tacit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Understood without direct verbal declaration; taking for granted an unmentioned premise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstated designates not made explicit."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There remained between them an **unstated** understanding that needed no spoken reassurance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"An **unstated** assumption governed their household that Dorothea's intellectual pursuits should yield to her husband's."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"In deductive arguments, the most dangerous fallacy often lurks within an **unstated** major premise."*

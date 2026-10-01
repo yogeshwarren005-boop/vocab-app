@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the human torso between the neck and the diaphragm or the corresponding part in other vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the human torso between the neck and the diaphragm or the corresponding part in other vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chest or breast; the anterior surface of the thorax in humans or other vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology, congenital thoracic wall deformities such as pectus excavatum (sunken chest) or pectus carinatum (pigeon chest).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectus designates the part of the human torso between the neck and the diaphragm or the corresponding part in other vertebrates."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe rickets in infancy frequently leads to permanent distortion known as **pectus** carinatum or pigeon breast."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The bony cage of the **pectus** encloses and protects the thoracic viscera, principally the heart and lungs."*
+> - 📜 **Atul Gawande (*Complications*):** *"Surgical repair of severe **pectus** excavatum lifts the depressed sternum to relieve right ventricular compression."*

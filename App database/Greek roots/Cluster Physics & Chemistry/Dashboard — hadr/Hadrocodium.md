@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hadr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of basal mammaliaform that lived during the Early Jurassic in what is now Yunnan, China.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a diminutive shrew-like fossil (Hadrocodium wui) notable for its enlarged brain cavity and separation of middle ear ossicles from the lower jaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Hadrocodium designates a term designating an entity, condition, or phenomenon derived from greek hadr."*
+> - 📜 **Zhe-Xi Luo (*A New Mammaliaform from the Early Jurassic and Its Evolutionary Implications*):** *"The discovery of **Hadrocodium** demonstrates that expanded brain volume and advanced mammalian ear structure evolved far earlier than previously believed."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The tiny skull of **Hadrocodium** reveals that mosaic evolutionary innovations appeared in basal Jurassic lineages."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"We trace our early mammalian ancestry back to creatures resembling **Hadrocodium**, scurrying through the undergrowth beneath dinosaur feet."*

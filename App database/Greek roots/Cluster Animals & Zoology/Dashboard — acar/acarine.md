@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mite or tick.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mite or tick.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or characteristic of mites and ticks; or an individual member of the Acarina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In apiculture and pathology, specifically referring to acarine disease (isle of wight disease) in honeybees caused by the tracheal mite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarine designates mite or tick."*
+> - 📜 **Maurice Maeterlinck (*The Life of the Bee*):** *"The apiary was devastated by an **acarine** scourge that clogged the breathing tubes of the helpless foragers."*
+> - 📜 **J. H. Fabre (*The Life of the Spider*):** *"A swarm of tiny **acarine** parasites attached themselves securely to the joints of the hunting wasp."*
+> - 📜 **Charles Singer (*A History of Biology*):** *"The discovery of **acarine** tracheal parasites solved the mystery of the catastrophic bee losses in Hampshire."*

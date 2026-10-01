@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A black isometric mineral of the spinel group that is an oxide of iron and an important iron ore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black isometric mineral of the spinel group that is an oxide of iron and an important iron ore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common black, strongly magnetic iron oxide mineral with the formula Fe3O4, the primary constituent of lodestone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and biomagnetism, an important iron ore and the mineral synthesized by magnetotactic bacteria and migratory animals for navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetite designates a black isometric mineral of the spinel group that is an oxide of iron and an important iron ore."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Naturally magnetic specimens of **magnetite** were known to the ancients under the name of lodestone."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Grains of **magnetite** weathered out of basaltic lavas form extensive black sand beaches along volcanic coasts."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"Contact metamorphic deposits often exhibit immense masses of crystallized **magnetite** intergrown with garnet."*

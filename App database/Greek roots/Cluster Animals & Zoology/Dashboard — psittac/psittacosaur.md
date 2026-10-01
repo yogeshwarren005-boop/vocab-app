@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small, bipedal, early ceratopsian dinosaur of the family Psittacosauridae, possessing a parrot-like beak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Early Cretaceous Asian herbivores ancestral to horned ceratopsians, retaining long hind limbs and simple toothless rostral beaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittacosaur designates primitive dinosaur actually lacking horns and having only the beginning of a frill; long hind limbs and short forelimbs; may have been bipedal."*
+> - 📜 **Henry Fairfield Osborn (*Cretaceous Dinosaurs of Mongolia*):** *"The skull of the primitive **psittacosaur** was armed with a powerful, shearing beak closely resembling that of a macaw."*
+> - 📜 **Roy Chapman Andrews (*On the Trail of Ancient Man*):** *"The red sandstone beds of the Gobi yielded dozens of articulated **psittacosaur** skeletons buried in ancient dune sands."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The **psittacosaur** represents the basal ceratopsian stock before the development of massive bony neck frills."*

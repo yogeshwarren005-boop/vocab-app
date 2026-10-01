@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by an upright posture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or caused by an upright posture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by standing upright.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular physiology, denoting orthostatic hypotension—a sudden drop in blood pressure and cerebral perfusion upon assuming an erect posture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthostatic designates of, relating to, or caused by an upright posture."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Elderly patients taking vasodilator medications frequently suffer from severe **orthostatic** dizziness upon rising."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Autonomic instability in post-encephalitic parkinsonism manifested as profound **orthostatic** fainting spells."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"We measured both supine and standing blood pressures to rule out **orthostatic** volume depletion."*

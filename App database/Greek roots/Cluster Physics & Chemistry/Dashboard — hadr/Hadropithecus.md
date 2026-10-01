@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hadr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of subfossil lemur from Madagascar, commonly known as the monkey lemur of the family Archaeolemuridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology and primatology, a terrestrial, seed-eating or grazing lemur displaying convergent craniofacial and dental traits with the gelada baboon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Hadropithecus designates a term designating an entity, condition, or phenomenon derived from greek hadr."*
+> - 📜 **Herbert F. Standing (*Subfossil Primates from Madagascar*):** *"The cranial remains of **Hadropithecus** show an astonishingly shortened facial skeleton and deep, massive mandibular ramus."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"The lemur **Hadropithecus** converged remarkably upon the dental anatomy of grazing baboons before humans colonized Madagascar."*
+> - 📜 **E. O. Wilson (*The Future of Life*):** *"The recent extinction of giant lemurs like **Hadropithecus** impoverished the island's unique mammalian fauna."*

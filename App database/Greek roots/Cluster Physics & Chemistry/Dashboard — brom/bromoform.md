@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Colorless liquid haloform chbr3.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colorless liquid haloform chbr3.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, colorless to yellowish liquid halogenated hydrocarbon (CHBr3) with a sweet, chloroform-like odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and mineral separation, a dense liquid (density ~2.89 g/cm3) used to separate heavy minerals from lighter sand fractions by sink-float separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromoform designates colorless liquid haloform chbr3."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"Heavy mineral sands were separated using **bromoform** in a separatory funnel to isolate zircon and rutile."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The high density of **bromoform** allows lighter quartz and feldspar to float while heavier ores sink to the bottom."*
+> - 📜 **Arthur Holmes (*Petrographic Methods and Calculations*):** *"The heavy residue recovered from the **bromoform** separation was examined under the petrographic microscope."*

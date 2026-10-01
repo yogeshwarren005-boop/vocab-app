@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who studies fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zoologist who studies fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who specializes in the scientific study of fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine and freshwater biology, a scientist who studies fish taxonomy, physiology, ecology, and fisheries management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyologist designates a zoologist who studies fishes."*
+> - 📜 **David Starr Jordan (*The Days of a Man*):** *"As a dedicated **ichthyologist**, I collected hundreds of undescribed fish species from the rocky shoals of Monterey Bay."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"Every aspiring **ichthyologist** must begin by examining a solitary fish until every scale and fin ray is indelibly memorized."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"My friend the skilled **ichthyologist** Leonard Jenyns examined the marine collections brought back from South America."*

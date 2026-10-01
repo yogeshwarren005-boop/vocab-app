@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of machinery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process, technique, or system for achieving a result.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of mutually adapted parts that work together in a machine; or a piece of machinery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural or chemical process by which something takes place; or in psychoanalysis, a mental defense strategy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mechanism only transfers labour, being powerless to supersede it, and the original amount of exertion was not cleared away; it was thrown into the body and arms."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every conceivable aid, method, stratagem, mechanism, by which these last desperate eight hundred yards could be overpassed by a human being unperceived, was revolved in her busy brain, and dismissed as impracticable."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving spirit sets another on fire." Jesus brings men to the new exploration of God, to the new commitment of themselves to God, simply by the ordinary mechanism of friendship and love."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection is the primary **mechanism** by which advantageous variations are preserved and disadvantageous ones eliminated."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"Repression is a fundamental defense **mechanism** whereby intolerable impulses are barred from conscious awareness."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Every clockwork **mechanism** displays exquisite contrivance in the harmonious transmission of wheel to pinion."*

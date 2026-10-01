@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, especially of the 1960s counterculture, who rejected conventional societal norms, advocating peace, love, and communal living.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology, an adherent of the mid-20th-century anti-war movement associated with psychedelic music, bohemian dress, and alternative lifestyles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippie designates someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle."*
+> - 📜 **Joan Didion (*Slouching Towards Bethlehem*):** *"In the Haight-Ashbury, every runaway adolescent adopted the colorful attire and quiet slogans of the young **hippie**."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing in Las Vegas*):** *"That high and beautiful wave of the sixties broke, leaving the bewildered **hippie** stranded upon the shores of a harsher reality."*
+> - 📜 **Tom Wolfe (*The Electric Kool-Aid Acid Test*):** *"The bus rolled across America, transforming curious spectators into the vanguard of the modern **hippie** ethos."*

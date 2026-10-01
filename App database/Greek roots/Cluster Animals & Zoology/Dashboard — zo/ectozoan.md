@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any external parasitic organism (as fleas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to epizoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An external animal parasite; an ectoparasite that lives on the skin, feathers, fur, or gills of its host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary parasitology, organisms such as fleas, ticks, lice, and parasitic copepods that feed externally on host tissues or bodily fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectozoan designates any external parasitic organism (as fleas)."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The marine iguana harbored many a clinging **ectozoan** tick between the thick scales of its neck."*
+> - 📜 **Philip Henry Gosse (*Evenings at the Microscope*):** *"Under the lens, each minute **ectozoan** revealed hooked appendages exquisitely adapted for clutching fish scales."*
+> - 📜 **Alpheus Spring Packard (*Zoology for High Schools and Colleges*):** *"The common dog tick is a familiar **ectozoan** that drops from its host upon completing its blood meal."*

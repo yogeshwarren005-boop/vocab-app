@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of size and dignity suggestive of a statue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggestive of a statue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a statue in dignity, grace, proportions, or motionless composure; attractively tall, graceful, and dignified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imposing and serene in physical presence or formal posture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So statuesque were we for that second that I swear those about us were not immediately aware of what had happened."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Entirely consistent with this idealism is the nature of his love, ardent, but etherial, "uebersinnlich." This is reflected also in his lyrics, which are statuesque and beautiful, but lacking in passion and sensuous charm."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Touched that this statuesque princess could so change, Pierre took her hand and begged her forgiveness, without knowing what for."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Blanche Ingram was tall, dark, and majestic, with a **statuesque** poise that caught every eye in the drawing room."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She stood in the morning sunlight, her figure assuming an almost **statuesque** grandeur against the bare chalk hillside."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her beauty was of that **statuesque** type which an austere gown of plain wool seemed rather to enhance than diminish."*

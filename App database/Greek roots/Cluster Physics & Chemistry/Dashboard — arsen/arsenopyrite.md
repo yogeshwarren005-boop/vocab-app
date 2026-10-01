@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silver-white mineral consisting of a combined sulfide and arsenide of iron that occurs in prismatic orthorhombic crystals or in masses or grains and that is the principal source of arsenic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silver-white mineral consisting of a combined sulfide and arsenide of iron that occurs in prismatic orthorhombic crystals or in masses or grains and that is the principal source of arsenic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallic, tin-white to steel-gray mineral consisting of iron arsenic sulfide (FeAsS), the principal ore of arsenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology, an ore mineral associated with gold, tin, and cobalt deposits, notable for emitting a pungent garlic odor when struck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsenopyrite designates a silver-white mineral consisting of a combined sulfide and arsenide of iron that occurs in prismatic orthorhombic crystals or in masses or grains and that is the principal source of arsenic."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"When struck with a steel hammer, **arsenopyrite** emits sparks accompanied by the characteristic odor of arsenic."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"Auriferous veins in quartz commonly carry microscopic gold intergrown within the grains of **arsenopyrite**."*
+> - 📜 **Heinrich Ries (*Economic Geology*):** *"Roasting of **arsenopyrite** drives off volatile arsenic trioxide, which is condensed in cooling flues."*

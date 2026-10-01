@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic worm (such as a tapeworm, liver fluke, ascarid, or leech); especially : an intestinal worm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic worm (such as a tapeworm, liver fluke, ascarid, or leech); especially : an intestinal worm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or characteristic of parasitic worms; or acting as an anthelmintic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, describing lesions, granulomas, or systemic eosinophilic responses provoked by worm infestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helminthic designates a parasitic worm (such as a tapeworm, liver fluke, ascarid, or leech); especially : an intestinal worm."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The microscopic section revealed a localized granulomatous reaction surrounding an encapsulated **helminthic** cyst."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"A patient suffering from **helminthic** fever frequently exhibited abdominal colics and restless nocturnal sleep."*
+> - 📜 **Arthur Looss (*The Anatomy and Life History of Anchylostoma Duodenale*):** *"The cutaneous eruption known as ground itch is the initial symptom of **helminthic** larval penetration."*

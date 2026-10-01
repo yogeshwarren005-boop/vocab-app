@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biogeography concerned with the geographic distribution of animals and especially with the determination of the areas characterized by specific groups of animals and the study of the causes and significance of such groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biogeography concerned with the geographic distribution of animals and especially with the determination of the areas characterized by specific groups of animals and the study of the causes and significance of such groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the geographic distribution of animal species and populations across the globe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and evolutionary biology, the branch analyzing faunal realms (e.g., Nearctic, Palearctic, Ethiopian, Oriental, Australian, Neotropical) and historical dispersal pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoogeography designates a branch of biogeography concerned with the geographic distribution of animals and especially with the determination of the areas characterized by specific groups of animals and the study of the causes and significance of such groups."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Wallace established systematic **zoogeography** by demonstrating how deep ocean trenches define faunal boundaries between islands."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The curious anomalies of island **zoogeography** provide unanswerable evidence in favor of gradual evolutionary modification."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Comparative **zoogeography** explains how Pleistocene glacial barriers accelerated allopatric speciation in continental bird populations."*

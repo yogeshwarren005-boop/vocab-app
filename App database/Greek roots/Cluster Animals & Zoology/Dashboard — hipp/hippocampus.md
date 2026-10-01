@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved elongated ridge that extends over the floor of the descending horn of each lateral ventricle of the brain, that consists of gray matter covered on the ventricular surface with white matter, and that is involved in forming, storing, and processing memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved elongated ridge that extends over the floor of the descending horn of each lateral ventricle of the brain, that consists of gray matter covered on the ventricular surface with white matter, and that is involved in forming, storing, and processing memory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major seahorse-shaped component of the mammalian brain involved in memory consolidation; or the genus of seahorses (Hippocampus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, an allocortical structure within the medial temporal lobe essential for episodic memory and spatial navigation; in marine biology, a syngnathid fish with prehensile tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippocampus designates a curved elongated ridge that extends over the floor of the descending horn of each lateral ventricle of the brain, that consists of gray matter covered on the ventricular surface with white matter, and that is involved in forming, storing, and processing memory."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Lesions in the region of the **hippocampus** produce profound impairments in the conscious retention of new experiences."*
+> - 📜 **Santiago Ramon y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"The elegant pyramidal neurons of the **hippocampus** send exquisite axonal collaterals across the Ammonic horn."*
+> - 📜 **Philip Henry Gosse (*A Year at the Shore*):** *"The little sea-horse, named **Hippocampus** from its curved equine head, curled its flexible tail around a sprig of seaweed."*

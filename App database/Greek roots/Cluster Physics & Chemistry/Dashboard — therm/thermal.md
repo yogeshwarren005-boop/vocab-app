@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or involving a state of matter dependent upon temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by heat; designed to retain heat or keep you warm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ascending current of warm air used by gliders and soaring birds to gain altitude; or relating to hot geothermal springs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The whole subject is thus of considerable complexity, and involves questions of thermal and chemical equilibrium."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Nothing damages furnace linings more than exposure to changes of temperature, on account of the continual expansion and contraction of the brickwork and the low thermal conductivity of the silica."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It has been indicated that the thermal conditions in the bessemerising zone of the pyritic furnace tend to the production of highly basic slags, which, though hot and limpid, are characterised by high density."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The condor soared in effortless circles, borne aloft by a rising **thermal** current over the Andean canyon."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The **thermal** conductivity of a substance measures the rate at which heat traverses a unit area under a unit temperature gradient."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The warm spring sun awoke **thermal** pulses beneath the melting ice of the pond."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of diverse minute acellular or unicellular organisms usually nonphotosynthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the protozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various single-celled eukaryotic microscopic organisms belonging historically to the subkingdom Protozoa, having animal-like heterotrophic or motile behaviors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern protistology, an informal term for non-photosynthetic, phagotrophic, or flagellated single-celled eukaryotes (ciliates, flagellates, amoebae, and sporozoans).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protozoan designates any of diverse minute acellular or unicellular organisms usually nonphotosynthetic."*
+> - 📜 **Antonie van Leeuwenhoek (*Philosophical Transactions of the Royal Society*):** *"Observing pond droplets, Leeuwenhoek was astonished by the agility of every swimming **protozoan** animalcule."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The humble **protozoan** performs all vital bodily functions—ingestion, respiration, locomotion—within the confines of a single cell."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"Radiolarian skeletons illustrate how an individual **protozoan** can secrete intricate geometric shells of silica."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plural designation for medieval Cathar believers, literally the 'Pure Ones' (Greek katharoi).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, the collective sectarians of Languedoc who received the consolamentum and rejected material sacraments as worldly corruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathari designates a christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism."*
+> - 📜 **Henry Hart Milman (*History of Latin Christianity*):** *"The **Cathari** claimed to preserve the primitive purity of the apostolic faith against papal hierarchies."*
+> - 📜 **Bernard Gui (*Practica Inquisitionis Heretice Pravitatis*):** *"The inquisitor carefully documented the secret rituals and consoling rites practiced among the fugitive **Cathari**."*
+> - 📜 **Steven Runciman (*The Medieval Manichee*):** *"The dualist theology of the **Cathari** drew subterranean lineage from ancient Bogomil and Paulician movements."*

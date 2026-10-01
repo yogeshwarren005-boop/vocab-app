@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing still.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being moved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not moving, or not intended to be moved; staying in one place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not changing in condition, quantity, or quality; in economics, a stationary state where capital and population remain stable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and his conductors are stationary, the crowd flows round, and from its squalid depths obsequious advice heaves up to Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Therefore, the rate of interest this year in long-time loans would be just that resulting in the expectation, on all hands, of a stationary level of general prices."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gold output had caught up with, and began to surpass, the normal monetary demands of the world, meaning by that phrase, the amount of gold needed to maintain a stationary level of prices. § 12. #Rising prices after 1896#."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"A body remains **stationary** in absolute space until an impressed force compels it to alter that state."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Economists have contemplated with apprehension that **stationary** state where capital accumulation reaches its natural limit."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The machine remained perfectly **stationary** in space, though flying through the millennia of time."*

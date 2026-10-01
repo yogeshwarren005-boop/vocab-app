@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hipp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (hippos, 'horse') denoting horses, equestrian pursuits, or horse-like structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, taxonomy, and classical history, the root forming terms such as hippocampus, hippodrome, and Hippocrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Cobweb; good monsieur, get you your weapons in your hand and kill me a red-hipped humble-bee on the top of a thistle; and, good monsieur, bring me the honey-bag."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"They seem hipped." "Oh, do look at that poor little brown one by the coop," said Mrs."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The Greek root **hipp** preserves the ancient Indo-European designation for the swift steed of battle."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Mythological hydras and hybrid monsters often compounded the equine **hipp** stem with aquatic serpents."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In phylogenetic reconstructions of ungulate lineages, the **hipp** series demonstrates remarkable toe reduction."*

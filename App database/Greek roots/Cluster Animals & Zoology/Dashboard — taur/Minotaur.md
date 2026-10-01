@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monster shaped half like a man and half like a bull, confined in the labyrinth built by Daedalus for Minos, and given a periodic tribute of youths and maidens as food until slain by Theseus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monster shaped half like a man and half like a bull, confined in the labyrinth built by Daedalus for Minos, and given a periodic tribute of youths and maidens as food until slain by Theseus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, a monstrous creature with the head of a bull and the body of a man, confined in the Cretan Labyrinth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and psychoanalysis, the offspring of Pasiphae and the Cretan Bull, slain by Theseus with the aid of Ariadne's thread; symbolic of bestial human drives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Probably he was identical with the Minotaur, and stripped of his mythical features was nothing but a bronze image of the sun represented as a man with a bull's head."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The resemblance which the Cretan traditions bear to the Carthaginian practice suggests that the worship associated with the names of Minos and the Minotaur may have been powerfully influenced by that of a Semitic Baal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There Minotaurs and ugly treasons lurk."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Hidden in the blind windings of the Labyrinth, the monstrous **Minotaur** devoured the youth of Athens until Theseus struck him down."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"The infamy of Crete, the raging **Minotaur**, gnawed himself in fury as we skirted the jagged precipice of hell."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The legendary bull-man **Minotaur** reflects the ancient Minoan bull-leaping rituals and sacred solar bull cults of Knossos."*

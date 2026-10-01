@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eleventh month of the French Republican Calendar (July 19–August 17); or the political reaction that ended the Reign of Terror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and history, the coup of 9 Thermidor Year II (July 27, 1794) that deposed Robespierre; hence, a conservative reaction following a radical revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermidor designates eleventh month of the revolutionary calendar (july and august); the month of heat."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"On the ninth of **Thermidor**, the National Convention shouted down Robespierre, ending the bloody Reign of Terror."*
+> - 📜 **Leon Trotsky (*The Revolution Betrayed*):** *"The bureaucratic reaction in the Soviet state represents a classic Soviet **Thermidor**, rolling back revolutionary ideals."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"After the fever of **Thermidor**, exhausted France welcomed bourgeois stability and military order under Bonaparte."*

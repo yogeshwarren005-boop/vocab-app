@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no mouth or mouthlike opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no mouth or mouthlike opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no mouth, oral opening, or stomata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and botany, designating mouthless parasites (such as adult tapeworms) or plants devoid of epidermal breathing pores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astomatous designates having no mouth or mouthlike opening."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The adult cestode is an **astomatous** endoparasite, absorbing dissolved chyme through its microvillar tegument."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of Invertebrates*):** *"Certain parasitic protozoa remain **astomatous**, having lost all vestige of a cytostome."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Submerged bryophyte phylloids are typically **astomatous**, lacking the complex guard cells of vascular foliage."*

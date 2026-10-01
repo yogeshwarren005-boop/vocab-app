@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining in place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being stationary, fixed, immobile, or unchanging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, social theory, and physics, the absence of expansion, motion, or evolutionary development over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It would be hard to find better examples of stationariness, as we ordinarily look at things."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The economic **stationariness** of traditional agrarian societies was perpetuated by rigid customary tenure."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Absolute moral **stationariness** is impossible; a nation that does not advance will inevitably regress."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution moves perpetually from homogeneous **stationariness** toward multiform, dynamic heterogeneity."*

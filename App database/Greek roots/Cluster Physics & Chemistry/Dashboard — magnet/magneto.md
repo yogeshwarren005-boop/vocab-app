@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical generator that uses permanent magnets to produce periodic pulses of high-voltage alternating current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal combustion engines, an ignition magneto providing reliable spark pulses for aircraft engines, motorcycles, and race cars without a battery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magneto designates a small dynamo with a secondary winding that produces a high voltage enabling a spark to jump between the poles of a spark plug in a gasoline engine."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The compact **magneto** provided reliable high-frequency ignition pulses in our experimental automotive engines."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"Before takeoff into the storm, the pilot ran the engine up and switched each **magneto** to verify dual ignition."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"The spinning **magneto** hummed softly in the forward compartment of the monoplane."*

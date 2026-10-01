@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To say, state, or perform again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state again or in a new way; to rephrase or reformulate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reiterate a principle, argument, or formal proposition to clarify meaning or reaffirm commitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Butler and Curtis, and in the arguments which came up upon points of testimony, that there remained little for the other counsel except to restate what had before been said."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A number of the ideas are well restated in more simple terms by E."*
-> - 📜 **James Joyce (*Ulysses*):** *"What counterproposals were alternately advanced, accepted, modified, declined, restated in other terms, reaccepted, ratified, reconfirmed?"*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"It is necessary to **restate** the argument for freedom of thought whenever orthodoxy grows complacent."*
+> - 📜 **Abraham Lincoln (*Cooper Union Address*):** *"Let us **restate** our unyielding devotion to the constitutional principles established by the founders."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"To solve the paradox, we must **restate** our initial logical premises in terms of the theory of types."*

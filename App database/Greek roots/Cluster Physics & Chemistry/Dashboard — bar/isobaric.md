@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an isobar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by constant or equal pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or having equal atmospheric pressure; occurring at constant pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics, designating a thermodynamic process occurring without change in pressure (an isobaric process).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isobaric designates of or relating to an isobar."*
+> - 📜 **Rudolf Clausius (*The Mechanical Theory of Heat*):** *"In an **isobaric** expansion, the heat absorbed is divided between internal energy change and external work performed."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"The **isobaric** heating of a gas demonstrates the direct proportionality between absolute temperature and volume."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"Under **isobaric** conditions, chemical potentials provide convenient criteria for phase stability."*

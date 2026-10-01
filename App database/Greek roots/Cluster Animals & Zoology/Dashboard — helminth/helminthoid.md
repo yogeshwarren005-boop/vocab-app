@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to worm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to worm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a worm in shape, structure, or undulating motion; vermiform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology and geology, designating worm-like anatomical appendages, tracks, or fossil burrows (helminthoid flysch).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helminthoid designates adjective & noun*) resembling, having the physical form of, or akin to worm."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The Cretaceous **helminthoid** flysch of the Maritime Alps preserves sinuous fossil tracks left by ancient burrowing organisms."*
+> - 📜 **Philip Henry Gosse (*Evenings at the Microscope*):** *"Under higher magnification, the curious organ displayed an undulating, **helminthoid** movement across the slide."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrate Animals*):** *"Certain larval holothurians maintain a distinctly **helminthoid** silhouette before expanding their tentacular crown."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to jaundice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to jaundice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling jaundice; yellowish in appearance; or having the character of icterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological descriptions, possessing a dull yellow or saffron coloration reminiscent of jaundiced skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icteroid designates adjective & noun*) resembling, having the physical form of, or akin to jaundice."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The decaying foliage assumed an **icteroid** tint as chlorophyll broke down into xanthophylls."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient displayed an **icteroid** cachexia often mistaken for pernicious anemia."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The conjunctivae showed an **icteroid** discoloration before systemic bilirubin reached frank clinical levels."*

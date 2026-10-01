@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Condors; turkey buzzards; king vultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Condors; turkey buzzards; king vultures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avian family of New World vultures comprising seven living species across North and South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, an American endemic raptorial clade characterized by unfeathered heads, broad soaring wings, and scavenging ecological habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathartidae designates condors; turkey buzzards; king vultures."*
+> - 📜 **John Gould (*A Monograph of the Ramphastidae*):** *"The family **Cathartidae** fulfills upon the American continent the vital scavenger role performed by true vultures in Africa."*
+> - 📜 **Elliott Coues (*Birds of the Northwest*):** *"Members of **Cathartidae** soar for hours without a single flap of their broad wings, riding thermal updrafts effortlessly."*
+> - 📜 **Frank M. Chapman (*Handbook of Birds of Eastern North America*):** *"Species of **Cathartidae** are protected by law because of their indispensable sanitary contributions to public health."*

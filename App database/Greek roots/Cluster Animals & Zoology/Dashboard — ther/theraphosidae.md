@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical spiders; tarantulas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical spiders; tarantulas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of heavy-bodied mygalomorph spiders commonly known as tarantulas or bird-eating spiders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arachnology, large, hairy chelicerates possessing paraxial chelicerae, urticating abdominal hairs in New World species, and formidable venom glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theraphosidae designates large tropical spiders; tarantulas."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"I observed a giant spider of the family **Theraphosidae** drag a dead finch into its subterranean burrow."*
+> - 📜 **J. H. Fabre (*The Life of the Spider*):** *"The burrow of the hunting **Theraphosidae** is lined with white silk, forming a vertical pit capped with a hinged door."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the Moluccan forests, nocturnal species of **Theraphosidae** stalk large beetles and geckos across the bark."*

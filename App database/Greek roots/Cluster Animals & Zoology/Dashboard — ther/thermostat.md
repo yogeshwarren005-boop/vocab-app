@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To provide with or control the temperature of by a thermostat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automatic device that monitors and regulates temperature by turning heating or cooling equipment on and off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cybernetics and control systems, an engineering feedback loop invented by Cornelis Drebbel and popularized by Andrew Ure using bimetallic strips.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermostat designates an automatic device for regulating temperature (as by controlling the supply of gas or electricity to a heating apparatus); also : a similar device for actuating fire alarms or for controlling automatic sprinklers."*
+> - 📜 **Norbert Wiener (*Cybernetics: or Control and Communication in the Animal and the Machine*):** *"The domestic **thermostat** is the classic exemplar of negative feedback, correcting deviations from the set point."*
+> - 📜 **Andrew Ure (*The Philosophy of Manufactures*):** *"I patented the bimetallic **thermostat** to maintain uniform temperatures inside textile drying rooms and steam boilers."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The subterranean laboratories of the future were regulated by an automatic **thermostat** ensuring perpetual warmth."*

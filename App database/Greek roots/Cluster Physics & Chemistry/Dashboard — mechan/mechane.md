@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mechan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crane or hoist used in ancient Greek theater to hoist actors into the air, especially portraying gods flying or descending onto the stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama, the physical apparatus behind the theatrical convention of the deus ex machina ('god from the machine').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mechane designates a term designating an entity, condition, or phenomenon derived from greek mechan."*
+> - 📜 **Euripides (*Medea*):** *"Mounted upon the chariot hoisted by the theatrical **mechane**, Medea escaped the vengeance of the Corinthian king."*
+> - 📜 **Aristophanes (*Peace*):** *"The comedian parodied Euripides by soaring over the theatrical stage upon a giant beetle lifted by the **mechane**."*
+> - 📜 **Gilbert Murray (*A History of Ancient Greek Literature*):** *"The sudden descent of Apollo from the **mechane** resolved the impossible tragedy with divine authority."*

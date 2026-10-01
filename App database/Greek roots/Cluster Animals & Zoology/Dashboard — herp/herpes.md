@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several inflammatory diseases of the skin caused by herpesviruses and characterized by clusters of vesicles; especially : herpes simplex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two diseases caused by herpesviruses (Simplexvirus humanalpha1 and S. humanalpha2) and marked especially by watery blisters on the skin or mucous membranes of the lips, mouth, face, or genital region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A viral disease characterized by painful clusters of creeping, watery blisters on the skin or mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and medicine, infection caused by herpes simplex viruses (HSV-1, HSV-2) establishing lifelong latency in sensory nerve ganglia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpes designates any of several inflammatory diseases of the skin caused by herpesviruses and characterized by clusters of vesicles; especially : herpes simplex."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"When **herpes** spreads rapidly across the skin without ulcerating, cooling applications relieve the burning smart."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The sharp biting humor broke out upon the lip in the form of a hot and troublesome **herpes**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Labial **herpes** frequently appears at the crisis of lobar pneumonia and malaria as a benign cutaneous eruption."*

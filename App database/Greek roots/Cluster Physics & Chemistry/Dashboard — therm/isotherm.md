@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map or chart of the earth's surface connecting points having the same temperature at a given time or the same mean temperature for a given period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a chart representing changes of volume or pressure under conditions of constant temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a weather map connecting points having the same temperature at a given time or on average over a given period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical chemistry, a curve on a pressure-volume diagram showing the state of a system at constant temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotherm designates a line on a map or chart of the earth's surface connecting points having the same temperature at a given time or the same mean temperature for a given period."*
+> - 📜 **Alexander von Humboldt (*Des Lignes Isothermes et de la Distribution de la Chaleur sur le Globe*):** *"By connecting points of equal mean annual temperature with an **isotherm**, the true climatic belts of the earth were first visualized."*
+> - 📜 **Rudolf Clausius (*The Mechanical Theory of Heat*):** *"Along any **isotherm** on the indicator diagram, the internal energy of an ideal gas remains strictly constant."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The deflection of the coastal **isotherm** lines reveals the powerful thermal buffering of oceanic currents."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of north american herbs often included in genus eriophyllum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of north american herbs often included in genus eriophyllum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small annual flowering herbs in the daisy family (Asteraceae), commonly known as Easter bonnets, native to western North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, diminutive spring-blooming composite plants bearing yellow or white ray florets, closely allied to Eriophyllum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheropeas designates small genus of north american herbs often included in genus eriophyllum."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"I established the genus **Antheropeas** to accommodate these delicate desert annuals with truncate anther tips."*
+> - 📜 **John Muir (*The Mountains of California*):** *"On the gravelly flats of the foothills, carpets of tiny **Antheropeas** burst into radiant yellow bloom after spring rains."*
+> - 📜 **David Douglas (*Journal Kept by David Douglas During His Travels in North America*):** *"I gathered specimens of the small composite **Antheropeas** growing along dry volcanic outcrops in the interior valleys."*

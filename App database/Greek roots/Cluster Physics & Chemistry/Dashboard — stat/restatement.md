@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A revised statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revised statement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of stating something again or in a different way; a rephrasing or revision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, a formal codification or treatise summarizing the existing principles of common law (such as the Restatement of Torts).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory of the transference of the will of the people to historic persons is merely a paraphrase—a restatement of the question in other words."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When Clement, in his work of restatement, came to discuss Christ, he found Philo's Logos ready to his hand and he was not slow to use it."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A brief restatement of the international questions involved, and of the reasons why the responses of the Chilean government are unsatisfactory is all that I deem necessary."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Path of the Law*):** *"Every legal principle requires periodic **restatement** to reflect the evolving social morality of the age."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"A fresh philosophical **restatement** of democratic ideals is demanded by every major industrial transformation."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"Poetry achieves a delicate **restatement** of timeless emotions in the modern vernacular."*

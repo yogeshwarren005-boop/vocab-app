@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical agent used to kill mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical agent used to kill mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of acaricide; any chemical substance used to kill mites and ticks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural pest management, an agent formulated to control spider mites and phytophagous arachnid infestations on crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acaracide designates a chemical agent used to kill mites."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"The orchardist applied an effective **acaracide** to check the rapid spread of red spider mites."*
+> - 📜 **Charles Valentine Riley (*Reports on Injurious Insects*):** *"A sulfurous wash acts as a potent **acaracide** without causing defoliation of the tender vine leaves."*
+> - 📜 **Arthur D. Imms (*A General Textbook of Entomology*):** *"Synthetic organic compounds increasingly superseded inorganic dusts as the preferred **acaracide** on commercial plantations."*

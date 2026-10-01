@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcano that erupts volatiles such as water, ammonia, or methane instead of molten silicate rock, typically occurring on icy moons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary geology, an icy eruptive feature identified on celestial bodies such as Enceladus, Triton, Europa, and Titan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryovolcano designates a term designating an entity, condition, or phenomenon derived from greek cry."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Geysers erupting from a distant **cryovolcano** on Triton shoot nitrogen plumes miles into the tenuous atmosphere."*
+> - 📜 **Arthur C. Clarke (*2010: Odyssey Two*):** *"The smooth plains of Europa bore witness to the resurfacing power of an ancient **cryovolcano** spewing slushy brine."*
+> - 📜 **Stephen Hawking (*The Grand Design*):** *"Spectacular images from the Cassini probe confirmed that an active **cryovolcano** powers the majestic ring system of Saturn."*

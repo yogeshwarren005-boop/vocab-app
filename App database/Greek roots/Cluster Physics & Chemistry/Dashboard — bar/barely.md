@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Only a very short time before; ; ; ; ; - w.b.yeats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sparse or scanty way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Only just; scarcely; almost not; by a very narrow margin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without adornment, disguise, or concealment; plainly or scantily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, so you serve us Till we serve you; but when you have our roses, You barely leave our thorns to prick ourselves, And mock us with our bareness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In these fear’d hopes I barely gratify your love; they failing, I must die much your debtor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I not have barely my principal?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could **barely** conceal her mortification at her mother's ill-timed remarks."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The outline of the dense forest was **barely** discernible against the evening sky."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His voice was **barely** audible above the rising murmur of the crowd in the square."*

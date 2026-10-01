@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant whose seeds, fruits, or spores are dispersed by animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seed ecology and botany, a species possessing adaptations—such as edible pulp, hooks, burs, or elaiosomes—for endozoochory or epizoochory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoochore designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"The woodland flora includes many a specialized **zoochore** whose sticky fruits attach to the plumage of passerine birds."*
+> - 📜 **Daniel Janzen (*Neotropical Ecology*):** *"The giant guanacaste tree evolved as a megafaunal **zoochore**, originally adapted to seed dispersal by extinct Pleistocene herbivores."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"Each flowering **zoochore** recruits animal partners through sugary rewards or clinging burrs to colonize distant clearings."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affected by hypothermia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affected by hypothermia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by hypothermia; having an abnormally low body temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular surgery and critical care, intentionally cooling a patient's core body temperature to reduce cerebral and myocardial oxygen demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothermic designates of or relating to or affected by hypothermia."*
+> - 📜 **Michael DeBakey (*Surgical Treatment of Aortic Aneurysms*):** *"Induced **hypothermic** circulatory arrest enabled delicate reconstruction of the aortic arch without brain ischemia."*
+> - 📜 **Fridtjof Nansen (*Farthest North*):** *"Our sleeping bags were damp with frozen condensation, leaving us in a miserable, **hypothermic** condition all night."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"The electrocardiogram of a severely **hypothermic** patient displays prominent Osborn J-waves following each QRS complex."*

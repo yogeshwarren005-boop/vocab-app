@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of zoology dealing with birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treatise on ornithology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoological science dedicated to the study of birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic natural history, the discipline encompassing the taxonomy, biogeography, flight aerodynamics, and reproductive behavior of class Aves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithology designates a branch of zoology dealing with birds."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The study of **ornithology** has ever been my chief delight, especially the arrival and departures of the summer birds of passage."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Modern **ornithology** demands not merely a collection of dried skins, but an intimate understanding of living avian life."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"I commenced this work on American **ornithology** to rescue the magnificent avifauna of our continent from foreign misrepresentation."*

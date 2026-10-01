@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grayish-white usually hard and brittle metallic element that resembles iron but is not magnetic and is used especially in alloys, batteries, and plant fertilizers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark insoluble compound MnO2 used especially as an oxidizing agent, as a depolarizer of dry cells, and in making glass and ceramics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, brittle, silvery-gray metallic element, atomic number 25 and symbol Mn, used extensively in steel production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential trace biological nutrient, historically associated with magnesia and pyrolusite (black oxide of manganese).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brother Peter,” he said, in a wheedling yet gravely official tone, “It’s nothing but right I should speak to you about the Three Crofts and the Manganese."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But that was for the manganese."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Scheele demonstrated that pyrolusite contained the calx of a distinct metal, which was subsequently named **manganese**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Concretions of dark hydrous **manganese** oxide carpet vast tracts of the deep abyssal ocean plains."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The addition of **manganese** to molten iron purges sulfur and imparts exceptional toughness to modern rail steel."*

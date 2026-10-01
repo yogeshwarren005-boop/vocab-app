@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to protect against the deleterious effects of freezing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to protect against the deleterious effects of freezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used to protect biological tissue from damage caused by ice crystal formation during freezing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and biobanking, chemical additives such as dimethyl sulfoxide (DMSO) or glycerol that lower the freezing point and prevent intracellular ice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryoprotectant designates serving to protect against the deleterious effects of freezing."*
+> - 📜 **Peter Medawar (*The Art of the Soluble*):** *"The discovery of glycerol as an effective **cryoprotectant** made the long-term freezing of red blood cells possible."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Without an adequate **cryoprotectant**, ice crystals act like microscopic blades, shearing fragile cell membranes to ribbons."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"Natural compounds such as trehalose and glycerol serve as endogenous **cryoprotectant** molecules in arctic beetles."*

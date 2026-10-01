@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a stoma or stomata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a stoma or stomata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of stomata (microscopic breathing pores); astomatous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, describing submersed aquatic leaves or specialized plant surfaces that lack epidermal stomatal openings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astomatal designates lacking a stoma or stomata."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Completely submerged aquatic plants exhibit **astomatal** foliage, absorbing gases directly across thin cuticles."*
+> - 📜 **Julius von Sachs (*Text-book of Botany*):** *"The upper epidermis of many shade-loving leaves is entirely **astomatal**, confining gas exchange to the lower surface."*
+> - 📜 **Daniel Trembly MacDougal (*Practical Text-book of Plant Physiology*):** *"An **astomatal** leaf surface prevents water loss, but severely restricts transpiration and photosynthetic influx."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, burrowing elapid snakes native to Australia, commonly known as shovel-nosed snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, fossorial venomous elapids characterized by a shovel-like rostral scale, banded aposematic coloration, and a diet specializing in reptile eggs (literally 'short-tailed snake').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Brachyurophis designates a term designating an entity, condition, or phenomenon derived from greek ophi."*
+> - 📜 **Albert Gunther (*The Reptiles of British India*):** *"The fossorial genus **Brachyurophis** possesses a short, rigid tail and an enlarged rostral shield adapted for rapid burrowing in desert sand."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"Species of **Brachyurophis** burrow beneath the Australian dunes, feeding almost exclusively on the leathery eggs of dragons and geckos."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Turtles of North America*):** *"The cranial modification in **Brachyurophis** exhibits significant consolidation suited for subterranean locomotion."*

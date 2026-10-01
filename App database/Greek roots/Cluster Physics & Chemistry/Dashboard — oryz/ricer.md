@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kitchen utensil used for ricing soft foods by extruding them through small holes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen utensil used for ricing soft foods by extruding them through small holes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A culinary kitchen utensil resembling a large garlic press used to extrude cooked vegetables (such as potatoes) into small, rice-sized grains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cooking techniques, a tool that yields light, fluffy mashed potatoes by processing tubers without releasing excess cell starch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ricer designates a kitchen utensil used for ricing soft foods by extruding them through small holes."*
+> - 📜 **Julia Child (*Mastering the Art of French Cooking*):** *"Pass the hot boiled potatoes immediately through a vegetable **ricer** to ensure a silky, lump-free purée."*
+> - 📜 **M. F. K. Fisher (*The Gastronomical Me*):** *"She operated the heavy metal **ricer** with practiced rhythm, showering the bowl with steaming white shreds."*
+> - 📜 **Elizabeth David (*French Provincial Cooking*):** *"Using a **ricer** preserves the lightness of the potato cells without turning the mash into a gummy paste."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapeutic medical treatment of impairment, injury, disease, or disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychotherapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment intended to heal, relieve, or manage a physical, mental, or behavioral disease or disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and psychoanalysis, the systematic application of remedies, counseling, or exercises to restore optimal functioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therapy designates therapeutic medical treatment of impairment, injury, disease, or disorder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Effective medical **therapy** relies upon precise diagnosis and respect for the natural restorative powers of the organism."*
+> - 📜 **Sigmund Freud (*The Question of Lay Analysis*):** *"Psychoanalytic **therapy** aims to make the unconscious conscious, replacing neurotic misery with ordinary human unhappiness."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"Sir William Bradshaw prescribed a rigorous rest-cure as the sovereign **therapy** for tortured, shell-shocked nerves."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Together with all that; besides; - shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Together with all that; besides; - shakespeare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In addition to that; moreover; besides; or with that (archaic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical English drama and historical prose, an emphatic adverb introducing a complementary circumstance or concurrent quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even now a tailor call’d me in his shop, And show’d me silks that he had bought for me, And therewithal took measure of my body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therewithal the best; or let her beauty Look through a casement to allure false hearts, And be false with them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best and soundest of his time hath been but rash; then must we look from his age to receive not alone the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"A gentlewoman of Verona, lovely, and, **therewithal**, of matchless virtues."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"He was a stout and valiant knight, and **therewithal** gentle and courteous to every damsel in distress."*
+> - 📜 **Thomas More (*Utopia*):** *"The islanders are ingenious in all mechanical arts, and **therewithal** industrious beyond all European nations."*

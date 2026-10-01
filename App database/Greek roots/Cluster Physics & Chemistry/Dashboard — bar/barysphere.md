@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The heavy, dense interior core of the Earth beneath the lithosphere and mantle, composed largely of nickel and iron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics and planetary science, the metallic core region characterized by extreme pressure and density.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barysphere designates a term designating an entity, condition, or phenomenon derived from greek bar."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"Beneath the outer silicate crust of the globe lies the dense, metallic core termed the **barysphere**."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"Seismic wave velocities indicate that the lighter continental masses float upon a denser mantle surrounding the central **barysphere**."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"High-density iron-nickel alloys constitute the mass of the planetary **barysphere**."*

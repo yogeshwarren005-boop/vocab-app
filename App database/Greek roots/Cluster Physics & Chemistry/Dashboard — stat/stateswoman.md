@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman statesman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman statesman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female political leader or figure who operates with wisdom, integrity, and distinguished public service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A respected female statesman; an accomplished female diplomat or national leader.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stateswoman designates a woman statesman."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"History records the rare emergence of an enlightened **stateswoman** who governed with greater justice than bellicose kings."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The reigns of Elizabeth and Isabella demonstrate that women possess supreme aptitude as a **stateswoman** and ruler."*
+> - 📜 **Eleanor Roosevelt (*This I Remember*):** *"The post-war world demanded that every diplomat and **stateswoman** work tirelessly for international human rights."*

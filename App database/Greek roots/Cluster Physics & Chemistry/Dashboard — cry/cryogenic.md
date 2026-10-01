@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to very low temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to very low temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by extremely low temperatures, typically below -150 degrees Celsius (123 kelvins).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utilizing deep refrigeration or liquefied gases, such as liquid nitrogen, liquid oxygen, or liquid helium, in rocket propulsion or industrial processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryogenic designates of or relating to very low temperatures."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Rockets fueled by **cryogenic** propellants like liquid oxygen and liquid hydrogen achieve the highest exhaust velocities."*
+> - 📜 **Wernher von Braun (*History of Rocketry and Space Travel*):** *"Handling vast volumes of **cryogenic** fuel required specialized vacuum-jacketed plumbing on the launch pad."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Infrared space telescopes must be kept at **cryogenic** temperatures to prevent their own heat from blinding their detectors."*

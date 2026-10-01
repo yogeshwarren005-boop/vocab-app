@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek osm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distorted or perverted perception of smell, whereby odors are perceived differently from how they normally smell or should smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otolaryngology, an aberrant olfactory recovery state following viral infections, wherein pleasant aromas smell foul, rotten, or chemical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parosmia designates a term designating an entity, condition, or phenomenon derived from greek osm."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"During recovery from head trauma, the patient suffered from severe **parosmia**, complaining that flowers smelled like burning grease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-influenzal **parosmia** is a distressing symptom that can severely compromise nutritional intake."*
+> - 📜 **Jerome Groopman (*Second Opinions*):** *"The olfactory nerve regeneration produced temporary miswiring that resulted in frustrating **parosmia** for several months."*

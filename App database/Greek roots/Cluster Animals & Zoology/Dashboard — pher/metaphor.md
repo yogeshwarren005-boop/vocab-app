@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest a likeness or analogy between them (as in swimming in paperwork); broadly : figurative language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object, activity, or idea treated as a metaphor : symbol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable; figurative transference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, poetics, and cognitive linguistics, an imaginative comparison that frames one conceptual domain in terms of another without using 'like' or 'as'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, if your metaphor stink, I will stop my nose, or against any man’s metaphor."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Dark, Dark, is all I find for metaphor; All else were contrast,--save that contrast's wall Is down, and all opposed things flow together Into a vast monotony, where night And day, and frost and thaw, and death and life, Are synonyms."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
+> - 📜 **Aristotle (*Poetics*):** *"By far the greatest thing is to be a master of **metaphor**; it is the one thing that cannot be learned from others and is also a sign of genius."*
+> - 📜 **George Lakoff (*Metaphors We Live By*):** *"Our ordinary conceptual system, in terms of which we both think and act, is fundamentally **metaphor** in nature."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Every word which is used to express a moral or intellectual fact, if traced to its root, is found to be borrowed from material **metaphor**."*

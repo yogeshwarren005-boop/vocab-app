@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by happiness, great success, and prosperity : golden —often used to describe an idyllic time in the past that is remembered as better than today.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calm, peaceful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of kingfishers (family Alcedinidae); or denoting an idyllic period of calm, peace, and prosperity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical myth and zoology, the bird of tranquility, giving name to 'halcyon days'—a fortnight of calm seas around the winter solstice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Expect Saint Martin’s summer, halcyon’s days, Since I have entered into these wars."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On this hypothesis Sirius, the bright star of Isis, which on July mornings rises from the glassy waves of the eastern Mediterranean, a harbinger of halcyon weather to mariners, was the true _Stella Maris,_ "the Star of the Sea." XLII."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"The first of November was a very lovely day, quite one of the ‘halcyon days’ of ‘St."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Expect Saint Martin's summer, **halcyon** days, since I have entered into these wars."*
+> - 📜 **John Milton (*On the Morning of Christ's Nativity*):** *"The birds of calm sit brooding on the charmed wave, while peaceful **halcyon** winds hush the wild deep."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The kingfisher, the famed **Halcyon** of the ancients, flashed like an azure sapphire across the trout brook."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mackerels; tunas; albacores; bonitos; swordfishes; sailfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mackerels; tunas; albacores; bonitos; swordfishes; sailfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of perciform marine fishes comprising mackerels, tunas, billfishes, and swordfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, an oceanic clade characterized by non-protrusible jaws, streamlined fusiform contours, and adaptations for rapid pursuit predation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombroidea designates mackerels; tunas; albacores; bonitos; swordfishes; sailfishes."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"The suborder **Scombroidea** unites the pelagic mackerels with the colossal billfishes and swordfishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Osteological features of the **Scombroidea** demonstrate high specialization for oceanic speed and continuous swimming."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"The apex predators of the open ocean belong almost exclusively to the glorious radiation of the **Scombroidea**."*

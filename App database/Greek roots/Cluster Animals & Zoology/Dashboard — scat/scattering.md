@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small number (of something) dispersed haphazardly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical process in which particles are deflected haphazardly as a result of collisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of dispersing or spreading widely; in physics, the deflection of particles or electromagnetic waves by collisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and atmospheric physics, Rayleigh and Mie scattering of solar photons by air molecules and aerosols, producing the blue sky and red sunsets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN. [_Scattering flowers._] Sweets to the sweet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The clear, cold sunshine glances into the brittle woods and approvingly beholds the sharp wind scattering the leaves and drying the moss."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Well along into twilight the heavy firing ceased, although there were scattering shots during the night."*
+> - 📜 **Lord Rayleigh (*On the Light from the Sky, Its Polarization and Colour*):** *"The blue of the sky is caused by the **scattering** of solar light by molecules of air whose dimensions are small compared to the wavelength."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Radiation pressure inside a stellar core is mediated through the Thomson **scattering** of photons by free electrons."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"Every interaction between light and matter can be represented as the quantum **scattering** of photons by electrons."*

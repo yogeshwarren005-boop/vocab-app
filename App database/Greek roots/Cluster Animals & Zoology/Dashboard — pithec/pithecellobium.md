@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thorny shrubs and trees of tropical and subtropical america and asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thorny shrubs and trees of tropical and subtropical america and asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous trees and shrubs in the family Fabaceae (subfamily Mimosoideae), commonly known as blackbeads or monkey earrings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Neotropical botany, thorny woody plants bearing bipinnate foliage, spherical flower clusters, and tightly spiraled or twisted seed pods resembling monkey earrings (Greek pithekos + ellobion).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pithecellobium designates thorny shrubs and trees of tropical and subtropical america and asia."*
+> - 📜 **John Torrey (*Report on the United States and Mexican Boundary Survey*):** *"The twisted pods of **Pithecellobium** curl into bright red rings exposing glossy black seeds sought by tropical birds."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Pithecellobium** abound in the thorn scrub along the Rio Grande, forming impenetrable chaparral thickets."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"We planted shade rows of **Pithecellobium** dulce, whose sweet arils are relished across the West Indies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of thermions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of thermions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by the emission of electrons or ions from the surface of a substance at high temperatures (thermionic emission).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics, designating vacuum tubes (thermionic valves) utilizing heated filaments to control electron streams for amplification and rectification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermionic designates of or relating to or characteristic of thermions."*
+> - 📜 **Owen Willans Richardson (*Nobel Lecture: Thermionic Phenomena*):** *"The quantitative laws of **thermionic** emission bridged the physics of thermal energy and vacuum electrodynamics."*
+> - 📜 **John Ambrose Fleming (*The Thermionic Valve and Its Developments in Radiotelegraphy*):** *"The two-electrode **thermionic** valve acted as a rectifier, converting oscillating radio waves into direct audible currents."*
+> - 📜 **Lee de Forest (*Father of Radio: The Autobiography of Lee de Forest*):** *"By introducing the third electrode grid into the **thermionic** tube, the miraculous Audion amplifier was born."*

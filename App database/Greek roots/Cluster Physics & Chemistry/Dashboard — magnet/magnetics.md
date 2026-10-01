@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that studies magnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of science that studies magnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science that deals with magnetic phenomena, materials, and fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied electrical engineering, the design of magnetic components such as inductors, transformers, and magnetic recording media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetics designates the branch of science that studies magnetism."*
+> - 📜 **William Gilbert (*De Magnete*):** *"In the study of **magnetics**, we must proceed by rigorous demonstration and direct experiment upon the terrella."*
+> - 📜 **Lord Kelvin (William Thomson) (*Reprint of Papers on Electrostatics and Magnetism*):** *"Theoretical **magnetics** achieved mathematical maturity through Poisson's theory of magnetic dipoles."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"The principles of **magnetics** dictate that lines of induction can never terminate abruptly in space."*

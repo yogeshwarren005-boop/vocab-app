@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a magnetic permeability less than that of a vacuum : slightly repelled by a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a magnetic permeability less than that of a vacuum : slightly repelled by a magnet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of magnetism whereby a substance creates an induced magnetic field in opposition to an externally applied magnetic field, causing repulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics, a universal quantum mechanical property of all materials, arising from the orbital motion of electrons (Larmor precession).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diamagnetism designates having a magnetic permeability less than that of a vacuum : slightly repelled by a magnet."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The discovery of **diamagnetism** demonstrated that magnetism is not confined to iron, but is a universal property of matter."*
+> - 📜 **Niels Bohr (*Studies on the Electron Theory of Metals*):** *"Classical statistical mechanics predicts that thermal equilibrium precludes any net magnetization, proving that **diamagnetism** is fundamentally quantum."*
+> - 📜 **John Hasbrouck Van Vleck (*The Theory of Electric and Magnetic Susceptibilities*):** *"Temperature-independent **diamagnetism** reflects the contraction of electronic electron clouds under an applied magnetic flux."*

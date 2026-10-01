@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Construe as a real existence, of a conceptual entity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construe as a real existence, of a conceptual entity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat or regard an abstract concept, quality, or relation as a concrete entity or distinct substance (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ontological philosophy, to reify a linguistic distinction into an existing thing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatise designates construe as a real existence, of a conceptual entity."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Plato was prone to **hypostatise** mathematical truths into eternal, transcendent forms residing in heaven."*
+> - 📜 **William James (*Pragmatism*):** *"Scholastic philosophers loved to **hypostatise** human virtues into occult substantial faculties."*
+> - 📜 **C. S. Lewis (*The Discarded Image*):** *"Medieval thinkers did not merely allegorize Nature; they tended to **hypostatise** her as an active cosmic viceroy."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Up to that time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Up to that time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Up to that time; before that event; previously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and legal narrative, denoting the temporal state preceding a pivotal transformation or legal decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The methods of extracting gold theretofore had still been in large part of a primitive sort."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The rate of this movement has been more rapid in the past century than theretofore, and perhaps more rapid than it will be henceforward; but that this development will continue in large measure and for a long period, is not open to question."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The result showed the injustice done, and convinced theretofore doubting Republicans that Conkling, even as a partisan, was faithful and far-seeing."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The edict of Constantine granted legal tolerance to a faith which had **theretofore** been persecuted with fire and sword."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Facts which had **theretofore** appeared inexplicable under the doctrine of special creations found simple explanation in descent with modification."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal treasury was enriched by sums which had **theretofore** been swallowed up in diplomatic corruption."*

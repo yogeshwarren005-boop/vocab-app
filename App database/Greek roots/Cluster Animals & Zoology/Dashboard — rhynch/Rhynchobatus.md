@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhynch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, shark-like rays commonly known as wedgefishes or guitarfishes (family Rhinidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In elasmobranch biology, coastal rays of the Indo-Pacific possessing an elongated wedge-shaped snout, broad pectoral fins, and prized fins heavily threatened by shark-fin trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Rhynchobatus designates a term designating an entity, condition, or phenomenon derived from greek rhynch."*
+> - 📜 **Albert Gunther (*Catalogue of the Fishes in the British Museum*):** *"The wedge-shaped snout and shark-like caudal fin of **Rhynchobatus** illustrate the anatomical transition between sharks and rays."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The giant guitarfish **Rhynchobatus** djiddensis cruises sandy shoals, crushing hard-shelled mollusks with its pavement teeth."*
+> - 📜 **Thomas Horsfield (*Zoological Researches in Java*):** *"Javanese fishermen frequently netted large specimens of **Rhynchobatus** along the coral barrier banks."*

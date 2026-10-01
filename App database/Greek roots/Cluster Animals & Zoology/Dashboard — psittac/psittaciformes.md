@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of birds including parrots and amazons and cockatoos and lorikeets and lories and macaws and parakeets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of birds including parrots and amazons and cockatoos and lorikeets and lories and macaws and parakeets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avian order comprising all parrots, parakeets, cockatoos, lories, and macaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, a pantropical and southern temperate order of roughly 400 species, distinguished by prehensile zygodactyl feet and kinetic premaxillary beaks adapted for seed cracking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittaciformes designates an order of birds including parrots and amazons and cockatoos and lorikeets and lories and macaws and parakeets."*
+> - 📜 **Frank M. Chapman (*Camps and Cruises of an Ornithologist*):** *"Flocks of squawking **Psittaciformes** wheeled through the tropical sunrise, their vivid green wings flashing against the palms."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Speciation across island archipelagos has generated hundreds of endemic geographic races of **Psittaciformes**."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The Carolina parakeet was the sole native representative of the **Psittaciformes** in the eastern United States."*

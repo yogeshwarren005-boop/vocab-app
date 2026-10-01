@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from pectin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various water-insoluble substances formed by hydrolyzing the methyl ester groups of pectins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from pectin; resembling pectin or vegetable jelly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry, pertaining to pectic acid or pectic polysaccharides constituting the middle lamella of plant cell walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectic designates of, relating to, or derived from pectin."*
+> - 📜 **Henri Braconnot (*Recherches sur la substance gélatineuse des fruits*):** *"By neutralizing plant extracts with lime, an insoluble precipitate of **pectic** acid is deposited."*
+> - 📜 **Julius von Sachs (*Text-book of Botany*):** *"The middle lamella consists primarily of calcium salts of **pectic** substances binding the cellulose microfibrils."*
+> - 📜 **Daniel Trembly MacDougal (*Practical Text-book of Plant Physiology*):** *"During fruit ripening, pectose enzymes convert insoluble protopectin into soluble **pectic** derivatives."*

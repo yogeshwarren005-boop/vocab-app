@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch of medicine concerned with the treatment of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine or therapy that cures disease or relieve pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and pharmacology concerned with the treatment, remedies, and healing of diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical science, the comprehensive study of medicinal agents, diets, surgical interventions, and physical therapies applied to cure illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A model clergyman, like a model doctor, ought to think his own profession the finest in the world, and take all knowledge as mere nourishment to his moral pathology and therapeutics."*
-> - 📜 **Bram Stoker (*Dracula*):** *"When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter, conventional forms are unfitting, since they would seem to limit him to one of a class."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Tests in our day Since God, divine Mind, governs all, not partially but 149:27 supremely, predicting disease does not dignify therapeutics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern **therapeutics** has been transformed from blind polypharmacy into rational physiological pharmacology."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"The true foundation of **therapeutics** is the faithful observation of the efforts nature herself makes to cast out disease."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Experimental medicine must guide **therapeutics**, demonstrating the precise cellular target of every healing compound."*

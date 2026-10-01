@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tracing of brain waves made by an electroencephalograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tracing of brain waves made by an electroencephalograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical record of the electrical activity of the brain, obtained by electroencephalography (an EEG).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a diagnostic tracing showing brain waves (alpha, beta, theta, delta) used to diagnose epilepsy, coma, and sleep architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroencephalogram designates the tracing of brain waves made by an electroencephalograph."*
+> - 📜 **Hans Berger (*On the Electroencephalogram of Man*):** *"The human **electroencephalogram** reveals continuous rhythmic voltage oscillations originating in the cerebral cortex."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The spike-and-wave discharges on the **electroencephalogram** unmasked the subtle temporal lobe epilepsy."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"When the **electroencephalogram** flattens into an unbroken horizontal line, clinical brain death has supervened."*

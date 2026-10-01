@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The movement of suspended colloidal particles or charged molecules through a fluid toward the cathode under the influence of an electric field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and dermatology, electrophoresis directed specifically toward the negative electrode, formerly employed in transdermal drug delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphoresis designates the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The migration of suspended matter under electric tension, which writers term **cataphoresis**, reveals the polar charges of fine colloids."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"In colloidal suspensions, the phenomenon of **cataphoresis** allows precise determination of the particle's zeta potential."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Physicians used electric **cataphoresis** to drive therapeutic cocaine crystals deep into the dermis for local anesthesia."*

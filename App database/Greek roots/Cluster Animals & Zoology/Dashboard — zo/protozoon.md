@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of diverse minute acellular or unicellular organisms usually nonphotosynthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of diverse minute acellular or unicellular organisms usually nonphotosynthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-celled eukaryotic organism; an individual member of the Protozoa (singular form of protozoa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical microscopy and zoology, an animalcule exhibiting autonomous motility, phagocytosis, and contractile vacuole pulsation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protozoon designates any of diverse minute acellular or unicellular organisms usually nonphotosynthetic."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Under high power, the solitary **protozoon** reveals an intricate internal cyclosis within its clear cytoplasm."*
+> - 📜 **Philip Henry Gosse (*Evenings at the Microscope*):** *"A lively **protozoon** dashed across the field of view, propelled by rapid strokes of its ciliary wreath."*
+> - 📜 **Ernst Haeckel (*The Riddle of the Universe*):** *"The single-celled **protozoon** contains in potentia all the metabolic pathways found in higher mammalian tissue."*

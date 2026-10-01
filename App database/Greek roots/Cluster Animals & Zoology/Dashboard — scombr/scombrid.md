@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scombr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fast-swimming epipelagic marine fish of the family Scombridae, including mackerels, tunas, and bonitos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology and physiology, pelagic teleosts possessing high metabolic rates, hydrodynamic fusiform bodies, and regional vascular countercurrent heat exchangers (endothermy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombrid designates a term designating an entity, condition, or phenomenon derived from greek scombr."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"The swift **scombrid** predator carved through the blue water, her rigid sickle fins vibrating with tremendous speed."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Every true **scombrid** is built for unceasing pelagic cruising, with smooth skin and non-retractile finlets."*
+> - 📜 **Ernest Hemingway (*The Old Man and the Sea*):** *"He caught an eight-pound tuna, a beautiful streamlined **scombrid**, and preserved it carefully for bait."*

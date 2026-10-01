@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with zoology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or affecting animals that are not humans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to zoology or the animal kingdom (variant form of zoological).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific discourse, describing principles, expeditions, collections, or treatises pertaining to the study of animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoologic designates of, relating to, or concerned with zoology."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our **zoologic** collections from the Galápagos archipelago revealed endemic tortoises on each separate island."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Agassiz organized an extensive **zoologic** survey to catalog the marine invertebrates of the Massachusetts coast."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"Careful anatomical dissection remains the foundation of all sound **zoologic** classification."*

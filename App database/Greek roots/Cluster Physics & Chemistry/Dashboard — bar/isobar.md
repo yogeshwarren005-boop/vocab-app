@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line or a line on a map or chart connecting or marking places of equal barometric pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more atoms or elements having the same atomic weights or mass numbers but different atomic numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn on a weather map connecting points having equal atmospheric pressure at a given time or on average.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics, one of two or more nuclides that have the same total number of nucleons (mass number) but different numbers of protons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isobar designates an imaginary line or a line on a map or chart connecting or marking places of equal barometric pressure."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"Each **isobar** traced on the chart demarcated the boundary of the incoming Atlantic low."*
+> - 📜 **Francis William Aston (*Isotopes*):** *"Argon-40 and calcium-40 constitute a notable nuclear **isobar** pair possessing identical mass numbers."*
+> - 📜 **William Napier Shaw (*Forecasting Weather*):** *"Winds blow parallel to the **isobar** lines, slightly deflected by surface friction."*

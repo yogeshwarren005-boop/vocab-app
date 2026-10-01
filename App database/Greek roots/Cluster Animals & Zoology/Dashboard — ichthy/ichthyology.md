@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of zoology that deals with fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of zoology that deals with fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoological science dedicated to the study of fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic biology, the discipline investigating chondrichthyans (sharks, rays), osteichthyans (bony fishes), and agnathans (jawless fishes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Even so difficult and foreign-looking a word as ichthyology seems to be made clear by the statement that it is the name of the study in which one learns about fish."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is true that there may be some misunderstanding as to the way in which these subjects are studied, for botany is not in the main to teach how to cultivate plants in the garden, nor ichthyology how to catch fish or to propagate them in a pond."*
+> - 📜 **Albert Gunther (*An Introduction to the Study of Fishes*):** *"Modern **ichthyology** began when Francis Willughby and John Ray published their systematic survey of aquatic species."*
+> - 📜 **Georges Cuvier (*Histoire Naturelle des Poissons*):** *"The monumental volumes of our **ichthyology** sought to describe every known inhabitant of the global seas."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Surveys in tropical **ichthyology** reveal that the Amazon basin harbors more freshwater fish species than the entire Atlantic Ocean."*

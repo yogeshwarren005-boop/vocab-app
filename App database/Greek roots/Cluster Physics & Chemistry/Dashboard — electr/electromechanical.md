@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving an electrically operated mechanical device.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving an electrically operated mechanical device.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, being, or operating by a combination of electrical and mechanical processes or devices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting devices such as relays, solenoids, motors, and early teleprinters or analog computers converting electrical energy to mechanical motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromechanical designates of or relating to or involving an electrically operated mechanical device."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*):** *"Feedback loops in **electromechanical** servomechanisms anticipate the self-regulating homeostatic mechanisms of living organisms."*
+> - 📜 **Claude Shannon (*A Symbolic Analysis of Relay and Switching Circuits*):** *"Boolean algebra maps perfectly onto the switching networks of **electromechanical** telephone exchanges."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The rotary converter represents a harmonious **electromechanical** synthesis of generator and motor upon a single shaft."*

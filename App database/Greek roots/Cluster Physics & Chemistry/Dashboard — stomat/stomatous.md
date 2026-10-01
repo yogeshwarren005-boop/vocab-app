@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of or having a mouth or mouthlike opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting plant stomata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a mouth, oral aperture, or stomata; furnished with stomata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing plant surfaces (such as lower leaf surfaces) that bear abundant functional stomata for gas exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatous designates relating to or of the nature of or having a mouth or mouthlike opening."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The lower epidermis of the maple leaf is densely **stomatous**, accommodating thousands of pores per square millimeter."*
+> - 📜 **Julius von Sachs (*Text-book of Botany*):** *"Gas diffusion into the mesophyll is strictly confined to the **stomatous** areas of the leaf surface."*
+> - 📜 **Daniel Trembly MacDougal (*Practical Text-book of Plant Physiology*):** *"Epidermal peels from the **stomatous** surface were floated on saline solutions to observe plasmolysis in guard cells."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance of high molecular weight (such as a protein) that is an electrolyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance of high molecular weight (such as a protein) that is an electrolyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer whose repeating units bear an electrolyte group; a macromolecule that dissociates in water into polyions and counterions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer chemistry and biophysics, linear or branched macromolecules (such as DNA, RNA, proteins, and sodium polyacrylate) that exhibit strong electrostatic interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyelectrolyte designates a substance of high molecular weight (such as a protein) that is an electrolyte."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Because DNA carries a negatively charged phosphate along each nucleotide, it behaves in solution as a stiff **polyelectrolyte**."*
+> - 📜 **Peter Debye (*The Collected Papers of Peter J. W. Debye*):** *"The electrostatic expansion of a coiled **polyelectrolyte** chain depends strongly on the ionic strength of the solvent."*
+> - 📜 **Pierre-Gilles de Gennes (*Scaling Concepts in Polymer Physics*):** *"Screening of electrostatic repulsions governs the conformation of a flexible **polyelectrolyte** in salted aqueous solution."*

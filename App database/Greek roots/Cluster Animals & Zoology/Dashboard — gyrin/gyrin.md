@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyrin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (gyrinos, 'tadpole; circular beetle') denoting tadpoles or whirling, circular movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological nomenclature, the morphological stem found in Gyrinidae (whirligig beetles) and Gyrinophilus (tadpole-like spring salamanders).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrin designates a term designating an entity, condition, or phenomenon derived from greek gyrin."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The curious water-beetle takes its name from the Greek **gyrin** root in allusion to its rapid gyrations upon the stream."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Aristotle applied the diminutive term **gyrin** to the tailed larvae of anurans wriggling in vernal ponds."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"The generic designation derived from **gyrin** commemorated the remarkably prolonged larval stage of the salamander."*

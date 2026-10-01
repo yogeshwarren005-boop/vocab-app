@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of arsenic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of arsenic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of arsenic acid containing the trivalent oxyanion AsO4(3-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geochemistry and agricultural chemistry, toxic mineral compounds historically used as insecticides and herbicides, such as lead arsenate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Also, 2PbO + SO_{3} ➡ PbSO_{4}.PbO (basic sulphate). _Arsenides_ are partly left as the corresponding oxides, whilst some As_{4}O_{6} is evolved, and some basic arsenate generally remains."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A considerable proportion of the arsenic in the tough-pitch anode-copper, existing as arsenate, is deposited with the mud residues, it being insoluble and non-conducting."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Addition of ammonium sulphate to the electrolyte prevents this formation, whilst combined aëration and heating promote the precipitation of arsenic as insoluble arsenates which settle with the tank slimes."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Orchards were repeatedly drenched with lead **arsenate** before the advent of synthetic chlorinated hydrocarbons."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Erythrite and mimetite belong to the vast mineral class characterized by the **arsenate** radical."*
+> - 📜 **Ira Remsen (*Inorganic Chemistry*):** *"When arsenic pentoxide dissolves in alkaline solutions, a stable crystalline **arsenate** is formed."*

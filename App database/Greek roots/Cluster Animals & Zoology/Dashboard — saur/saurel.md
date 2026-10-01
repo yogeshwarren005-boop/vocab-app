@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large elongated compressed food fish of the atlantic waters of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A california food fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The horse mackerel (Trachurus trachurus) or related carangid marine fishes, having a row of spiny scutes along each side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial fisheries, an epipelagic schooling fish of the eastern Atlantic and Mediterranean, prized for food, bearing armored lateral line plates (French saurel, from saur-).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saurel designates large elongated compressed food fish of the atlantic waters of europe."*
+> - 📜 **Jonathan Couch (*A History of the Fishes of the British Islands*):** *"The horse-mackerel or **saurel** appears in enormous shoals along the Cornish coast, feeding upon young sprats."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The sharp bony plates lining the lateral line of the **saurel** distinguish it from the true mackerels."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Schools of predatory **saurel** pursued whitebait through the shallow coastal channels beneath circling gannets."*

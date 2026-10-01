@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chelon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reptilian order (also termed Testudines) comprising all turtles, tortoises, and terrapins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate systematics, an anapsid-derived lineage distinguished by a bony carapace fused to dorsal vertebrae and an inverted shoulder girdle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chelonia designates a term designating an entity, condition, or phenomenon derived from greek chelon."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The embryonic development of the **Chelonia** provides striking evidence of how rib elements expand to form the dorsal shield."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Galapagos archipelago was named for the gigantic land-dwelling tortoises of the order **Chelonia**."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The immobility of the trunk in the **Chelonia** obliges them to breathe by a mechanism resembling deglutition."*

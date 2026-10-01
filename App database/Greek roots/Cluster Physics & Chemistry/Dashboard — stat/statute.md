@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act passed by a legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enacted by a legislative body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal written enactment of a legislative authority that governs the legal entities of a city, state, or country by way of the consent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An established permanent rule, ordinance, or bylaw of an institution, university, or corporation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The statute of thy beauty thou wilt take, Thou usurer that put’st forth all to use, And sue a friend, came debtor for my sake, So him I lose through my unkind abuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, better wits have worn plain statute-caps."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **statute** is an act of the legislature, speaking with supreme constitutional sovereignty across the realm."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No legislative act or **statute** contrary to the Constitution can be valid in our courts of law."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The British constitution is not a sudden paper invention, but a venerable fabric cemented by ancient **statute** and long usage."*

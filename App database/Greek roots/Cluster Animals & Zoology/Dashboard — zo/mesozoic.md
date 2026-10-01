@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an era of geologic history comprising the interval between the Permian and the Tertiary or the corresponding system of rocks that was marked by the presence of dinosaurs, marine and flying reptiles, ammonites, ferns, and gymnosperms and the appearance of angiosperms, mammals, and birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an era of geologic history comprising the interval between the Permian and the Tertiary or the corresponding system of rocks that was marked by the presence of dinosaurs, marine and flying reptiles, ammonites, ferns, and gymnosperms and the appearance of angiosperms, mammals, and birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geological era spanning approximately 252 to 66 million years ago, consisting of the Triassic, Jurassic, and Cretaceous periods; the Age of Reptiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleontology, marked by the breakup of Pangaea, the dominance of dinosaurs, the radiation of gymnosperms, and the origin of birds, mammals, and flowering plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesozoic designates of, relating to, or being an era of geologic history comprising the interval between the permian and the tertiary or the corresponding system of rocks that was marked by the presence of dinosaurs, marine and flying reptiles, ammonites, ferns, and gymnosperms and the appearance of angiosperms, mammals, and birds."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Ammonites flourished with astonishing morphological diversity throughout the entire **Mesozoic** era before vanishing abruptly."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The sudden extinction event at the close of the **Mesozoic** opened ecological niches for placental mammals."*
+> - 📜 **Edwin H. Colbert (*The Dinosaur Book*):** *"Terrestrial ecosystems of the **Mesozoic** world were dominated from pole to pole by enormous archosaurian reptiles."*

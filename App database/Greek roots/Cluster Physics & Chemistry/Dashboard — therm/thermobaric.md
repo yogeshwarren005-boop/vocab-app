@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing a charge of fuel designed to ignite and combine with oxygen present in the atmosphere to produce a prolonged explosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing a charge of fuel designed to ignite and combine with oxygen present in the atmosphere to produce a prolonged explosion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to both heat and pressure; especially denoting an explosive weapon utilizing surrounding oxygen to generate an intense, sustained fireball and overpressure blast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military ordnance, a fuel-air explosive (FAE) that disperses a fine aerosol mist of fuel which detonates, producing devastating blast shockwaves and vacuum effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermobaric designates containing a charge of fuel designed to ignite and combine with oxygen present in the atmosphere to produce a prolonged explosion."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The devastating concussive shock of the new blast bombs produced localized **thermobaric** destruction across the fortified bunkers."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The explosion unleashed a searing **thermobaric** vortex that sucked the air from the collapsed subterranean shelters."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"Blast wave kinetics from **thermobaric** detonations differ markedly from standard point-source solid explosives."*

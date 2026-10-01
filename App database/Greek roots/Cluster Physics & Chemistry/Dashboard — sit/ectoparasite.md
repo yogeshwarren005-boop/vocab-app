@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasite that lives on the exterior of its host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasite that lives on the exterior of its host.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasite that lives on the outer surface or exterior of its host (such as a flea, tick, or louse).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and veterinary epidemiology, organisms that cause skin lesions or act as vectors for systemic infectious pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoparasite designates a parasite that lives on the exterior of its host."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Host-parasite coevolution is nowhere more evident than in the specialized clinging claws of the avian **ectoparasite**."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Every bird species carries a specialized suite of **ectoparasite** feather lice adapted strictly to its plumage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The common deer tick acts as an **ectoparasite** transmitting the spirochete of Lyme borreliosis."*

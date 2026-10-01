@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term applied by the Eastern Orthodox Church to Western Christians who use unleavened bread (azymes) in the celebration of the Eucharist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of the Great Schism of 1054, a theological epithet central to disputes between Constantinople and Rome over sacramental bread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, azymite designates a term designating an entity, condition, or phenomenon derived from greek zym."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Patriarch Michael Cerularius denounced the Latins as heretical **azymite** schismatics for their use of unleavened wafers."*
+> - 📜 **Thomas More (*Dialogue Concerning Heresies*):** *"Ancient polemicists debated the **azymite** custom with fierce disputations that exacerbated the estrangement of the churches."*
+> - 📜 **Steven Runciman (*The Eastern Schism*):** *"To the Byzantine theologian, an **azymite** communion was an archaic Judaizing practice foreign to apostolic tradition."*

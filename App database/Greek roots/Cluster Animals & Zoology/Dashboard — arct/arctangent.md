@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the tangent; the angle that has a tangent equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inverse function of the tangent; the angle that has a tangent equal to a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inverse function of the tangent in trigonometry; the angle whose tangent is a specified number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical geometry and vector physics, an essential operation for converting rectangular coordinates (x, y) into polar angular orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arctangent designates the inverse function of the tangent; the angle that has a tangent equal to a given number."*
+> - 📜 **Isaac Newton (*Method of Fluxions*):** *"The area enclosed beneath the hyperbola yielded directly to integration by means of the **arctangent** series."*
+> - 📜 **Pierre-Simon Laplace (*Celestial Mechanics*):** *"The perturbation angles of the planetary orbits were resolved through successive expansions of the **arctangent**."*
+> - 📜 **William Rowan Hamilton (*Lectures on Quaternions*):** *"Vector rotations in the orthogonal plane depend intrinsically upon evaluating the directional **arctangent**."*

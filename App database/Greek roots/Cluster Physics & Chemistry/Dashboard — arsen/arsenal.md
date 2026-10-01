@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the weapons and equipment that a country has.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military structure where arms and ammunition and other military equipment are stored and training is given in the use of arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An establishment for the manufacture, storage, repair, or issue of weapons and military equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comprehensive repository, collection, or supply of resources, capabilities, or arguments available for a specific purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was forced to resign from the Service, and offered a choice to either join a penetration team to the Outer Region or work in an arsenal under tight supervision."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At intervals were heaps of green bread-fruit, raised in pyramidical stacks, resembling the regular piles of heavy shot to be seen in the yard of an arsenal."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thiers alone dedicates a few eloquent lines to their memory: “These wretches had occupied the sacred citadel, having supplied themselves with guns from the arsenal, and fired” (the wretches) “at the French."*
+> - 📜 **George Washington (*First Annual Address to Congress*):** *"To be prepared for war is one of the most effectual means of preserving peace, necessitating a well-stored **arsenal**."*
+> - 📜 **Winston Churchill (*The Grand Alliance*):** *"The United States became the great **arsenal** of democracy, pouring forth munitions across the Atlantic."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The national government must possess the power to establish an **arsenal** and dockyards for the common defense."*

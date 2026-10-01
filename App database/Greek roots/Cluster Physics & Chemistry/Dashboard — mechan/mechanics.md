@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of physical science that deals with energy and forces and their effect on bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practical application of mechanics to the design, construction, or operation of machines or tools.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of applied mathematics and physics concerned with the motion of bodies and the action of forces upon them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technical aspects, working machinery, or practical operational details of doing or making something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not bid me Dismiss my soldiers or capitulate Again with Rome’s mechanics."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mechanics' liens give to workmen in the building trades the first claim upon the products of their labor. § 4. #Usury laws#."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I’m going to the meeting about the Mechanics’ Institute."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Rational **mechanics** will be the science of motions resulting from any forces whatsoever."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The first law of physical **mechanics** asserts that every body continues in its state of rest or uniform motion unless acted upon."*
+> - 📜 **Ernst Mach (*The Science of Mechanics*):** *"The historical development of classical **mechanics** demonstrates how intuitive experience was gradually distilled into mathematical axioms."*

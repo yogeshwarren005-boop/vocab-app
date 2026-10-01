@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhynch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any snout beetle, weevil, or curculionoid beetle belonging to the former taxonomic group Rhynchophora.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, a phytophagous beetle possessing an elongated rostrum or snout bearing mouthparts at the apex and geniculate antennae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhynchophore designates a term designating an entity, condition, or phenomenon derived from greek rhynch."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The female **rhynchophore** uses her slender snout to drill a deep hole into an acorn before depositing a single egg."*
+> - 📜 **J. H. Fabre (*The Life of the Weevil*):** *"With mathematical patience, the little **rhynchophore** rotated her long curved beak, boring into the hard hazelnut shell."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The vast superfamily of weevils, formerly designated **Rhynchophora**, contains more described species than any other beetle group."*

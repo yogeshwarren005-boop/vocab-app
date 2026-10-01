@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that reduces fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that reduces fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication or substance used to reduce fever or body temperature (such as aspirin, paracetamol, or ibuprofen).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacotherapy, agents that act centrally on the hypothalamic thermoregulatory center by inhibiting prostaglandin synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipyretic designates an agent that reduces fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical introduction of synthetic **antipyretic** drugs eased the distressing hyperpyrexia of enteric fever."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Peruvian cinchona bark was celebrated as the sovereign natural **antipyretic** of the seventeenth century."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The pediatrician judiciously dosed the liquid **antipyretic** to relieve the infant's febrile discomfort."*

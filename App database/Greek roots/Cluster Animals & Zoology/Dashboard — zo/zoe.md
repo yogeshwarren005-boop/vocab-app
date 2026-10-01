@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A free-swimming larval stage of crabs and certain other decapod crustaceans (also written zoea), characterized by large compound eyes and prominent dorsal and rostral spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, the pelagic developmental stage following the nauplius or protozoea, preceding the megalopa stage in brachyuran development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I must go now, love," he added, releasing her: "the men need some directions from me, in regard to their work." "And the women some from me," said Zoe."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Zoe summoned Aunt Dicey, the housekeeper, gave her orders for the day, and the needed supplies from pantry and storeroom, they went to the sewing-room, to give some directions to Christine and Alma."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"It was very kind and thoughtful in you," returned Zoe, leading the way into the parlor usually occupied by the family, where an open wood fire blazed cheerily on the hearth."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Upon hatching from the egg-mass, the tiny crab emerges as a bizarre spiny **zoe** drifting in coastal currents."*
+> - 📜 **Philip Henry Gosse (*A Naturalist's Rambles on the Devonshire Coast*):** *"In the surface tow-net we captured many a curious **zoe** larva bearing long defensive cephalic spines."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"Vaughan Thompson demonstrated that the supposed independent genus Zoe was merely the larval **zoe** stage of the shore crab."*

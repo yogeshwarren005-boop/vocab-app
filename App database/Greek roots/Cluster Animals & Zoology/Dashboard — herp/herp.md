@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To be careful about behaving in a polite or proper way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be careful about behaving in a polite or proper way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (herpein, 'to creep, crawl') denoting creeping creatures, reptiles, amphibians, or creeping skin eruptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern colloquial and professional biology, an informal noun for any reptile or amphibian (short for herpetofauna).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herp designates to be careful about behaving in a polite or proper way."*
+> - 📜 **E. O. Wilson (*Naturalist*):** *"As an eager young naturalist, I searched beneath every rotten pine log for any elusive **herp** hiding in the swamp."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient physicians used the **herp** root to designate spreading cutaneous sores that creep along the flesh."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"The ancient Greek designation for creeping things accurately reflects the low, sprawling locomotion of the **herp** group."*

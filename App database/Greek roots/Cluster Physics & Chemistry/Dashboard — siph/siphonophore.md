@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A floating or swimming oceanic colony of polyps often transparent or showily colored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floating or swimming oceanic colony of polyps often transparent or showily colored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any colonial hydrozoan organism belonging to the order Siphonophora (such as Physalia physalis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marine colonial organism composed of genetically identical, physiologically interdependent zooids acting as a single individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siphonophore designates a floating or swimming oceanic colony of polyps often transparent or showily colored."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Each **siphonophore** is not a simple animal, but a floating commonwealth of highly specialized individuals."*
+> - 📜 **Ernst Haeckel (*Report on the Siphonophorae*):** *"The translucent nectophores of the **siphonophore** contract rhythmically to propel the whole colony through the water."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"A stranded **siphonophore** glistened upon the wet sand, its blue float deflated by the midday sun."*

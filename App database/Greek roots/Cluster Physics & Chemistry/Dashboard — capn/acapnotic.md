@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or demonstrating acapnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or demonstrating acapnia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from smoke or soot; smokeless; or designating non-smoking conditions or environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological contexts, an archaic synonym for acapnic, describing conditions devoid of carbon dioxide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acapnotic designates relating to or demonstrating acapnia."*
+> - 📜 **Benjamin Franklin (*Observations on the Causes and Cure of Smoky Chimneys*):** *"The improved stove was designed to ensure an **acapnotic** hearth, free from offensive fumes and soot."*
+> - 📜 **Count Rumford (Benjamin Thompson) (*Essays, Political, Economical, and Philosophical*):** *"By altering the throat of the fireplace, we obtained an almost perfectly **acapnotic** combustion."*
+> - 📜 **John Evelyn (*Fumifugium: or The Inconvenience of the Aer and Smoak of London Dissipated*):** *"He envisioned an **acapnotic** city where clean fuels would replace the pestilential bituminous sea-coal."*

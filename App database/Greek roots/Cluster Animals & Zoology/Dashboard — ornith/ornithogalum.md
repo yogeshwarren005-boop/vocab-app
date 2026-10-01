@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in family hyacinthaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in family hyacinthaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bulbous perennial flowering plants in the family Asparagaceae, commonly known as Star of Bethlehem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and pharmacognosy, Mediterranean and South African plants bearing starry white blossoms with green exterior midribs, literally 'bird's milk' (Greek ornis + gala, an ancient idiom for a rare delicacy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithogalum designates sometimes placed in family hyacinthaceae."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The starry white flowers of **Ornithogalum** open only in the bright sunshine, closing tightly at dusk and on cloudy days."*
+> - 📜 **William Turner (*A New Herball*):** *"Old herbalists called this plant **Ornithogalum**, or bird's milk, because its delicate blossoms were esteemed like a culinary wonder."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In old cottage gardens, the hardy bulbs of **Ornithogalum** umbellatum spread freely along borders and orchard grass."*

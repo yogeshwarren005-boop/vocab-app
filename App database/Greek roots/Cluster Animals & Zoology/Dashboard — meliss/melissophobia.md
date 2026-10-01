@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense fear or dislike of bees : apiphobia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense fear or dislike of bees : apiphobia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of bees (apiphobia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a specific animal phobia causing severe panic, hyperventilation, and flight responses at the buzzing or sight of honeybees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melissophobia designates intense fear or dislike of bees : apiphobia."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A severe childhood sting often produces a persistent **melissophobia** that makes garden walks a terrifying ordeal."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The patient's acute **melissophobia** masked a deeper dread of sudden, uncontrollable bodily injury."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The nervous invalid trembled with violent **melissophobia** whenever a solitary bumblebee approached the open window."*

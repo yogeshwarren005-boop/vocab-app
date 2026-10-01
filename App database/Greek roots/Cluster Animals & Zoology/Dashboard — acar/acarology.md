@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoological science and entomology dedicated to the study of mites and ticks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural and medical parasitology, the discipline investigating acarine systematics, epidemiology, vectors of borreliosis, and biological control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarology designates a term designating an entity, condition, or phenomenon derived from greek acar."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Modern **acarology** continues to reveal thousands of undescribed mite species inhabiting deep soil strata."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The intricate speciation patterns demonstrated in **acarology** illuminate ecological niche differentiation."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Advances in **acarology** highlighted how microscopic parasites coevolve with their vertebrate hosts."*

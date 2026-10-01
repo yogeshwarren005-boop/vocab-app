@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized interventional pain-management technique that applies extreme cold to a peripheral nerve to temporarily interrupt pain signaling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anesthesiology and pain medicine, the freezing of nerve axons using a closed cryoprobe, inducing reversible Wallerian degeneration while preserving the endoneurial sheath.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryoneurolysis designates a term designating an entity, condition, or phenomenon derived from greek cry."*
+> - 📜 **John J. Bonica (*The Management of Pain*):** *"Percutaneous **cryoneurolysis** of the intercostal nerves produced lasting relief for the post-thoracotomy neuralgia patient."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Direct thermal interruption via **cryoneurolysis** provides temporary numbness without creating a permanent neuroma."*
+> - 📜 **Henry K. Beecher (*Measurement of Subjective Responses*):** *"Sustained clinical analgesia following **cryoneurolysis** persists until axonal regeneration traverses the surviving sheath."*

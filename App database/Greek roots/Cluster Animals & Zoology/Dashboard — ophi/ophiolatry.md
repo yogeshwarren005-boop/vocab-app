@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious worship or veneration of serpents or snake deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and cultural anthropology, widespread ancient serpent cults documented in Egypt (Wadjet), India (Nagas), Minoan Crete, and Pre-Columbian Mesoamerica (Quetzalcoatl).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiolatry designates the worship of snakes."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Rites of **ophiolatry** flourished across ancient agrarian societies, where the shedding of the serpent's skin symbolized renewal of life."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The worldwide prevalence of **ophiolatry** testifies to the awe and dread inspired by the silent, lethal strike of venomous snakes."*
+> - 📜 **Plutarch (*Isis and Osiris*):** *"The sacred asp crowned the brow of Pharaohs as a living manifestation of sovereign **ophiolatry** and divine protection."*

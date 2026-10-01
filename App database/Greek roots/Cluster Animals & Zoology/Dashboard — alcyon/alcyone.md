@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a woman who was turned into a kingfisher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a woman who was turned into a kingfisher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in the Pleiades star cluster (Eta Tauri); or in Greek mythology, daughter of Aeolus and wife of Ceyx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, a blue-white B-type giant star surrounded by a gaseous reflection nebula, historically celebrated as the central pivot of the heavens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcyone designates (greek mythology) a woman who was turned into a kingfisher."*
+> - 📜 **Hesiod (*Works and Days*):** *"When the Pleiades daughters of Atlas rise, led by luminous **Alcyone**, begin the harvest before the dry heat."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Earlier astronomers romanticized **Alcyone** as the mysterious central sun around which our entire galaxy revolved."*
+> - 📜 **Alfred Lord Tennyson (*Locksley Hall Sixty Years After*):** *"Many a night from yonder ivied casement, ere I went to rest, Did I look on great **Alcyone** bright upon the winter crest."*

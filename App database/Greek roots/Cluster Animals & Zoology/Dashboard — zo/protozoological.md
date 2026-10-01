@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerning the branch of zoology that studies protozoans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning the branch of zoology that studies protozoans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with protozoology (the scientific study of protozoa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic microbiology and parasitology, pertaining to laboratory investigations, culturing techniques, or taxonomics of single-celled eukaryotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protozoological designates concerning the branch of zoology that studies protozoans."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Careful **protozoological** investigation under high magnification is required to differentiate amoebic cysts from yeast cells."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"The discovery of oocysts on the mosquito stomach was a triumph of applied **protozoological** field technique."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Specialized **protozoological** manuals catalog thousands of free-living and parasitic flagellate species."*

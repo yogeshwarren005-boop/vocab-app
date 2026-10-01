@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pogon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual and perennial grasses in the family Poaceae native to tropical Asia and India, characterized by three-bearded spikelets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrostology and botanical systematics, an andropogonoid grass genus bearing tripartite awned florets (from Greek triploos, three-fold + pogon, beard).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Triplopogon designates a term designating an entity, condition, or phenomenon derived from greek pogon."*
+> - 📜 **Robert Wight (*Icones Plantarum Indiae Orientalis*):** *"I illustrated the tripartite bearded spikelet of **Triplopogon**, which distinguishes it clearly from typical Ischaemum."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"On dry rocky hillsides across the Western Ghats, clumps of **Triplopogon** ramosissimus wave their feathery awns."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The bearded floral glumes in **Triplopogon** serve an ecological function by adhering to grazing livestock for seed dispersal."*

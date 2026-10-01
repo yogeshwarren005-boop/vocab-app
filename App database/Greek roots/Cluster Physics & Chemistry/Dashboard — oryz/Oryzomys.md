@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rice rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rice rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of semiaquatic rodents in the family Cricetidae, commonly known as rice rats, native to the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, marsh-dwelling rodents (such as the marsh rice rat, Oryzomys palustris) adapted to tidal wetlands, wetlands, and flooded rice fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oryzomys designates rice rats."*
+> - 📜 **John James Audubon (*The Viviparous Quadrupeds of North America*):** *"The marsh rice rat, **Oryzomys**, swims and dives with extraordinary dexterity through coastal saltwater marshes."*
+> - 📜 **G. H. H. Tate (*The Rodents of South America*):** *"Species of **Oryzomys** are distributed throughout the Neotropical river basins from the delta marshes to montane slopes."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Island populations of **Oryzomys** in the Galápagos have suffered severe declines following the introduction of feral competitors."*

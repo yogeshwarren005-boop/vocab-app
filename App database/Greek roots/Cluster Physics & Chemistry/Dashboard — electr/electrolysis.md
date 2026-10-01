@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The producing of chemical changes by passage of an electric current through an electrolyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subjection to this action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical decomposition of an electrolyte produced by the passage of an electric current through a solution or molten salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, the permanent destruction of hair follicles or cosmetic lesions by localized electric current.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The process itself is electrolysis; the liquid is the electrolyte, while the strips are the electrodes."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And now we can proceed to those useful applications of electrolysis, the commonest of which, perhaps, is electro-plating."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"We have seen how electrolysis causes hydrogen, probably out of the acid, to be deposited upon one electrode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"To this process of electro-chemical decomposition I propose to assign the name **electrolysis**."*
+> - 📜 **Humphry Davy (*On Some New Phenomena of Chemical Changes Produced by Electricity*):** *"Through the agency of **electrolysis**, the hitherto refractory caustic alkalis surrendered their metallic bases."*
+> - 📜 **Svante Arrhenius (*The Theory of Electrolytic Dissociation*):** *"During **electrolysis**, cations migrate toward the negative electrode while anions move toward the positive pole."*

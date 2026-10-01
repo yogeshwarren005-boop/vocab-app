@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dealing pruriently with excrement and excretory functions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dealing pruriently with excrement and excretory functions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by scatology; exhibiting an obscene preoccupation with excrement or bodily excretions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and satire, humor or imagery centered upon bodily wastes, as seen in the works of Aristophanes, Rabelais, or Swift.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Only the scatological humor of the subtitle: _A Companion for the Close-stool._ Consisting of Original Pieces in Prose and Verse by several Modern Authors."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Critics denounced the satirical descriptions of the Academy of Lagado for their crude, **scatological** realism."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The Parisian kitchen staff exchanged bursts of vivid, **scatological** abuse across the roaring stoves."*
+> - 📜 **Mikhail Bakhtin (*Rabelais and His World*):** *"Carnivalesque celebration relies upon grotesque, **scatological** humor to debase haughty officialdom."*

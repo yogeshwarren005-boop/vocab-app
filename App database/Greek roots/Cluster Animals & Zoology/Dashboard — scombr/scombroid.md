@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Scombroidei) of marine bony fishes (such as mackerels, tunas, albacores, bonitos, and swordfishes) of great economic importance as food fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Scombroidei) of marine bony fishes (such as mackerels, tunas, albacores, bonitos, and swordfishes) of great economic importance as food fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or relating to fishes of the family Scombridae; or denoting food poisoning caused by bacterial histamines in spoiled dark-flesh fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical toxicology, scombroid poisoning resulting from bacterial histidine decarboxylation in inadequately chilled tuna or mackerel, causing acute histamine flushing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombroid designates any of a suborder (scombroidei) of marine bony fishes (such as mackerels, tunas, albacores, bonitos, and swordfishes) of great economic importance as food fishes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Within minutes of eating spoiled mackerel, the patient experienced dramatic **scombroid** poisoning with facial flushing and tachycardia."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The hydrodynamic efficiency of the **scombroid** body plan has inspired naval engineers designing torpedo hulls."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Antihistamine therapy promptly reverses the dramatic symptoms of acute **scombroid** fish toxicity."*

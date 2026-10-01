@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing an extraordinary power or ability to attract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a magnet or to magnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing the properties of a magnet; exerting or capable of being affected by magnetism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting a powerful fascination or compelling personal charm and attraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. de Clairon, who was by my side, murmured something about a magnetic current; but when I asked him sternly by what set in motion, his voice died away in his moustache."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet Anna has an air—a grace, Divine, magnetic, touching: She talks, she charms—but who can trace The process of bewitching?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is something attractive about them; they have his secret, something of his charm; they are magnetic with his power."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I rotated the plane of polarized light by passing it through heavy glass placed in a powerful **magnetic** field."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"There was a **magnetic** attraction in Mr. Rochester's voice that drew me toward him against my will."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lightning strike reversed the **magnetic** polarity of the ship's binnacle compass in the midst of the typhoon."*

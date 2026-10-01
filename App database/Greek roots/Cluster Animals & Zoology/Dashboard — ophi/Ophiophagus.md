@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King cobra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King cobra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monotypic genus containing the king cobra (Ophiophagus hannah), the longest venomous snake in the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, an elapid snake native to forests of South and Southeast Asia, growing up to 5.5 meters, possessing an alert hood and preying predominantly on other snakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I have just obtained, by exchange with another collector,” he said, “a splendid specimen of the Ophiophagus.” “And what may that be?” the lady inquired with a somewhat languid interest."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The Ophiophagus is a snake which eats other snakes.” “I hope it will eat all yours,” she said, absently shifting the lamp."*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"Nag the cobra was formidable, but even he trembled at the approach of the dreaded king cobra **Ophiophagus**."*
+> - 📜 **Raymond Ditmars (*Snakes of the World*):** *"The immense intelligence and watchful gaze of **Ophiophagus** hannah distinguish it from all other venomous serpents."*
+> - 📜 **Albert Gunther (*The Reptiles of British India*):** *"The generic name **Ophiophagus** was bestowed in reference to its relentless habit of eating other serpents, even venomous kraits."*

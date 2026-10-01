@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region around the south pole: antarctica and surrounding waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or near the south pole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated at the south polar region of the Earth, opposite the Arctic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and oceanography, the region south of the Antarctic Convergence characterized by ice sheets, severe katabatic winds, and marine upwelling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was during a prolonged gale, in waters hard upon the Antarctic seas."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And beneath the effulgent Antarctic skies I have boarded the Argo-Navis, and joined the chase against the starry Cetus far beyond the utmost stretch of Hydrus and the Flying Fish."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The shape of continents allows us to divide the waters into five great portions: the Arctic or Frozen Ocean, the Antarctic or Frozen Ocean, the Indian, the Atlantic, and the Pacific Oceans."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"And now the storm-blast came, and he was tyrannous and strong; He struck with his o'ertaking wings, and chased us south toward the **Antarctic** ice."*
+> - 📜 **Ernest Shackleton (*South*):** *"The vast **Antarctic** silence was broken only by the sharp, terrifying report of grinding pack-ice."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The cold **Antarctic** current sweeping up the Chilean coastline chilled the atmosphere and fostered dense fog."*

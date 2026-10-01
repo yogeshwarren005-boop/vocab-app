@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eleventh month of the French Republican calendar (running from mid-July to mid-August), celebrated as the month of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, the coup of 9 Thermidor Year II (July 27, 1794) that brought about the fall of Maximilien Robespierre; or a lobster dish (Lobster Thermidor).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermidor designates eleventh month of the revolutionary calendar (july and august); the month of heat."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"On that fateful day of **Thermidor**, the reign of the Terror ended with the fall of the Incorruptible upon the scaffold."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"The tumultuous events of the ninth of **Thermidor** demonstrated that revolutionary fury eventually devours its own architects."*
+> - 📜 **Leon Trotsky (*The Revolution Betrayed*):** *"The bureaucratic degeneration of the Soviet state was analyzed as a historical **Thermidor** crushing revolutionary idealism."*

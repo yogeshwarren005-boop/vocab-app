@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek meliss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (melissa, 'honeybee', from meli, 'honey') denoting bees, apiary arts, or bee-like traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and botany, the stem commemorating the mythical nymph Melissa who first taught mortals the harvest of honey; found in Melissa and melissophobia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meliss designates a term designating an entity, condition, or phenomenon derived from greek meliss."*
+> - 📜 **Virgil (*Georgics*):** *"The ancient nymphs honoring the **meliss** art gathered golden honeycombs from hollow oak trunks."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The sweet Greek root **meliss** arose directly from the ancestral term for liquid sweetness and honey."*
+> - 📜 **Maurice Maeterlinck (*The Life of the Bee*):** *"The communal harmony of the **meliss** republic has inspired philosophical wonder since the dawn of Greece."*

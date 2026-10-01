@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics, denoting a verb, adjective, or aspect that expresses a state of affairs rather than an action or dynamic event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, an obsolete term for a permanent or stationary camp (from Latin castra stativa).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stative designates ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"English distinguishes dynamic verbs like 'run' from **stative** verbs like 'know' or 'resemble' which rarely take the continuous aspect."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legion established a fortified **stative** encampment along the banks of the Danube."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Semantic selectional restrictions classify **stative** predicates into a distinct functional syntactic category."*

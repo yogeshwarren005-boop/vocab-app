@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to thermodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to thermodynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In terms of thermodynamics; with respect to the laws and principles of thermodynamics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing states, reactions, or processes that are thermodynamically favored (exergonic) or at free-energy minima.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamically designates with respect to thermodynamics."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"A phase transition will proceed spontaneously if the products are **thermodynamically** more stable."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Although diamond is **thermodynamically** unstable relative to graphite at room temperature, its conversion rate is practically zero."*
+> - 📜 **Gilbert N. Lewis (*Thermodynamics and the Free Energy of Chemical Substances*):** *"A system at equilibrium cannot be **thermodynamically** altered without the expenditure of external free energy."*

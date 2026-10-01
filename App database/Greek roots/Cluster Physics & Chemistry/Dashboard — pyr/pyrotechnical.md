@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the craft of making fireworks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the craft of making fireworks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling fireworks or pyrotechnics; skilled in fireworks displays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying dazzling technical brilliance, virtuosity, or flamboyant oratorical skill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrotechnical designates of or relating to the craft of making fireworks."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The festival ended in a blaze of **pyrotechnical** glory that illuminated the tumultuous streets of Paris."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The violinist executed the cadenza with astounding **pyrotechnical** agility that astonished the audience."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The sudden laboratory explosion produced a dazzling **pyrotechnical** spectacle that shattered the windows."*

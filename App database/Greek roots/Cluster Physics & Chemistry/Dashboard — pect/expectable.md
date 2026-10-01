@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To be expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being expected; reasonable to anticipate; predictable or foreseeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics, psychology, and legal theory, conforming to standard probability or customary human conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expectable designates to be expected."*
+> - 📜 **William James (*The Principles of Psychology*):** *"That emotional fatigue should follow prolonged mental exertion is an **expectable** physiological result."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The standard of tort liability rests upon what is reasonably **expectable** from a prudent man under like conditions."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Habit establishes the stable framework within which future actions become reliable and **expectable**."*

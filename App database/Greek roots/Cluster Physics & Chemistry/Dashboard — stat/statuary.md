@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Statues collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suitable for statues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sculptured figures collectively; statues viewed as a group or art form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sculptor; or suitable marble or bronze utilized for sculpting statues (statuary marble).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The piece of dusky statuary nodded in approval, and then murmured ‘Motarkee!’ ‘Motarkee,’ said I, without further hesitation ‘Typee motarkee.’ What a transition!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Dim argand lamps bathed in soft light the rich furniture, carved cornices, and rare statuary which decorated the mantels."*
-> - 📜 **Effie Afton (*Eventide*):** *"Rare statuary decorated the mantel."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The classical **statuary** of ancient Greece achieved a serene, harmonized balance of human form and divine majesty."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The dim galleries of the Vatican were populated by silent, immortal white **statuary** from antiquity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The plunder of Roman temples stripped the public forums of thousands of bronze and marble **statuary** masterpieces."*

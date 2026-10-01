@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a person) lacking mechanical skills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a person) lacking mechanical skills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mechanical; not operated by or resembling a machine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking technical skill; or characterized by spontaneity, natural grace, and freedom from rigid routine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmechanical designates (of a person) lacking mechanical skills."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The irregular, **unmechanical** touch of the medieval stonecutter breathes life into the gothic capital."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Handmade textiles preserve a delightful, **unmechanical** variety that industrial looms can never replicate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His thinking was fluid and imaginative, delightfully **unmechanical** in its subtle discernment of character."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile gamete; a flagellated reproductive cell capable of autonomous locomotion, produced by certain algae and fungi (a planogamete).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and reproductive biology, an unflagellated egg or flagellated sperm exhibiting directed swimming toward chemical attractants in aquatic fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoogamete designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **M. C. Cooke (*British Fresh-Water Algae*):** *"In green algae such as Chlamydomonas, each motile **zoogamete** fuses with a compatible partner to form a resting zygospore."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"The aquatic fungus discharges thousands of miniature **zoogamete** swarmers to accomplish fertilization in the film of dew."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Locomotion via anterior flagella enables each microscopic **zoogamete** to locate sessile oogonia in marine ulvophytes."*

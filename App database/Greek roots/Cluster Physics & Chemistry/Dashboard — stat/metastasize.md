@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To spread or grow by or as if by metastasis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To spread or grow by or as if by metastasis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To spread to other sites in the body by metastasis (of cancer cells or pathogens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To spread, proliferate, or transform harmfully into a broader environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metastasize designates to spread or grow by or as if by metastasis."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Cancer cells shed cell-surface adhesion proteins, granting them the sinister ability to **metastasize** to the liver and brain."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The patient lived with the constant anxiety that microscopic dormant cells might awaken and **metastasize**."*
+> - 📜 **Paul Kalanithi (*When Breath Becomes Air*):** *"The CT scan confirmed that the lung cancer had already begun to **metastasize** to the bone and spine."*

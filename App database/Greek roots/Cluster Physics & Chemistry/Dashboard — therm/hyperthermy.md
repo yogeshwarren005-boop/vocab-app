@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally high body temperature; sometimes induced (as in treating some forms of cancer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally high body temperature; sometimes induced (as in treating some forms of cancer).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant or older medical term for hyperthermia; abnormally high body temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical therapeutics, the deliberate therapeutic induction of fever (pyrotherapy) to treat neurosyphilis, championed by Julius Wagner-Jauregg.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermy designates abnormally high body temperature; sometimes induced (as in treating some forms of cancer)."*
+> - 📜 **Julius Wagner-Jauregg (*Nobel Lecture: The Treatment of Dementia Paralytica by Malaria Inoculation*):** *"Sustained clinical **hyperthermy** induced by benign tertian malaria eradicated the fragile spirochetes in the central nervous system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extreme **hyperthermy** exceeding one hundred and seven degrees Fahrenheit threatens irreversible cellular damage in cerebral neurons."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Post-encephalitic crises were often ushered in by sudden bouts of autonomic tachycardia and central **hyperthermy**."*

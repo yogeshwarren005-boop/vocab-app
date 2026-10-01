@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by ecstasy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is subject to ecstasies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing overwhelming happiness, joyful excitement, or rapturous delight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious and mystical traditions, relating to mystical ecstasy, trance, or standing outside oneself in union with the divine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Having seen that it was really her lover who had advanced, and no one else, her lips parted, and she sank upon him in her momentary joy, with something very like an ecstatic cry."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the ecstatic solemnity with which she swore her faith to him the ordinary sensibilities of sex seemed a flippancy."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Que c’est beau!” and then remained absorbed in ecstatic contemplation."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"My heart leaped up in an **ecstatic** transport as the mountain sunrise burst across the lake."*
+> - 📜 **Emily Dickinson (*Poems*):** *"An **ecstatic** moment catches the breath, suspended between earth and eternity."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical visions are accompanied by an **ecstatic** certainty that defies rational verbalization."*

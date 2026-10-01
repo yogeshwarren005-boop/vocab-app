@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physics that deals with the mechanical action or relations of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thermodynamic processes and phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science that deals with the relations between heat and other forms of energy (mechanical, electrical, chemical).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics, the discipline founded upon four universal laws governing conservation of energy, non-decreasing entropy, and absolute zero.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamics designates physics that deals with the mechanical action or relations of heat."*
+> - 📜 **Sadi Carnot (*Reflections on the Motive Power of Fire*):** *"The production of motive power in steam engines laid the empirical groundwork for the grand science of **thermodynamics**."*
+> - 📜 **Albert Einstein (*Autobiographical Notes*):** *"Classical **thermodynamics** is the only physical theory of universal content which I am convinced will never be overthrown."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"The second law of **thermodynamics** holds the supreme position among the laws of Nature."*

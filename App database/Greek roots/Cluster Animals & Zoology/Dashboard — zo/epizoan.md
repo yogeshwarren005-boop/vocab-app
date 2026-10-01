@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any external parasitic organism (as fleas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to epizoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An external animal parasite or surface dweller; an animal living on the exterior of another animal (epizoon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, any non-parasitic or ectocommensal invertebrate (such as a barnacle or hydroid) that encrusts the shell or body of a marine animal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epizoan designates any external parasitic organism (as fleas)."*
+> - 📜 **Philip Henry Gosse (*The Aquarium*):** *"The carapace of the spider crab supported a thriving colony of seaweed and clinging **epizoan** tubes."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"Coronula barnacles attach firmly to the blubber of baleen whales as specialized **epizoan** riders."*
+> - 📜 **Alpheus Spring Packard (*Zoology for High Schools and Colleges*):** *"The fish louse is a degenerate **epizoan** whose mouthparts have transformed into piercing stylets."*

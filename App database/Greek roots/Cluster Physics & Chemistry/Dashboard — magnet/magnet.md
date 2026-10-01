@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: lodestone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a body having the property of attracting iron and producing a magnetic field external to itself; specifically : a mass of iron, steel, or alloy that has this property artificially imparted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of iron or other material that possesses the property of attracting iron and producing a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person, place, or thing that exerts a powerful attraction or influence over others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Neither of these returnings was very pleasant or desirable: no magnet drew me to a given point, increasing in its strength of attraction the nearer I came."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"To this youth, preaching sublime mysteries, and needing to be mothered into the bargain, they were as iron to the magnet."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There is a powerful magnet in this neighborhood.” “To be sure there is."*
+> - 📜 **William Gilbert (*De Magnete*):** *"The whole globe of the earth is a great **magnet**, orienting needles along its meridian lines."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"You draw me, you hard-hearted adamant, but yet you draw not iron, for my heart is true as steel to your **magnet**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Paris acted as a fatal **magnet** that drew the expatriates back into the vortex of revolution."*

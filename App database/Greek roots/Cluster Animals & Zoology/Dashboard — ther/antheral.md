@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of fertilizing female organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of fertilizing female organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated on the anther of a flower; staminodial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology and anatomy, describing appendages, secretions, or attachments directly associated with pollen sacs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheral designates capable of fertilizing female organs."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"The **antheral** cells were attached longitudinally along the connective, opening by two slender apical pores."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In the genus Asclepias, specialized **antheral** wings guide the insect's foot into the clip of the pollinium."*
+> - 📜 **William Jackson Hooker (*British Flora*):** *"Microscopic examination confirmed the presence of glandular hairs upon the **antheral** margins."*

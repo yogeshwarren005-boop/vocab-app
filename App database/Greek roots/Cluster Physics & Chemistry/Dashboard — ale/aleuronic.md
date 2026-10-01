@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wheat flour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wheat flour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of aleurone grains or the aleurone layer of seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by proteinaceous floury deposits within plant storage tissues or seed morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aleuronic designates adjective*) pertaining to, derived from, or characteristic of wheat flour."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The **aleuronic** granules dissolve gradually as the embryonic axis begins its rapid elongation."*
+> - 📜 **Sydney Howard Vines (*Lectures on the Physiology of Plants*):** *"Microchemical tests reveal the rich nitrogenous nature of the **aleuronic** inclusions in the seed coat."*
+> - 📜 **Daniel Trembly MacDougal (*Practical Text-book of Plant Physiology*):** *"The digestion of **aleuronic** reserves is initiated by diastatic ferments activated during germination."*

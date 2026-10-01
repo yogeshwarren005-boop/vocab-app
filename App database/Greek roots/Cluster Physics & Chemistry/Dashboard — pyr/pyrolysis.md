@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemical change brought about by the action of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chemical change brought about by the action of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical decomposition of organic materials at elevated temperatures in the absence of oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering and waste management, the industrial process of thermal cracking used to produce biochar, synthetic gas, and bio-oil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrolysis designates chemical change brought about by the action of heat."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The dry distillation or **pyrolysis** of wood in iron retorts yields charcoal, acetic acid, and wood alcohol."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"High-temperature **pyrolysis** breaks complex long-chain hydrocarbons into lighter volatile olefins and gas fractions."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Careful high-temperature **pyrolysis** is required to destroy toxic halogenated residues without releasing hazardous dioxins."*

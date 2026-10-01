@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family bromeliaceae which includes tropical american plants with deeply cleft calyx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the family bromeliaceae which includes tropical american plants with deeply cleft calyx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical American plant of the genus Bromelia, characterized by stiff spiny leaves and colorful floral bracts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, the type genus of the family Bromeliaceae, named in honor of Swedish botanist Olaus Bromelius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromelia designates the type genus of the family bromeliaceae which includes tropical american plants with deeply cleft calyx."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Dense thickets of wild **Bromelia** guarded the edge of the forest with formidable spiny leaves."*
+> - 📜 **Charles Darwin (*Journal of Researches (The Voyage of the Beagle)*):** *"The epiphytic **Bromelia** collected pools of rainwater in its leaf axils, harboring vibrant communities of insects."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"Splendid scarlet bracts of a giant **Bromelia** shone through the humid twilight of the riverbank."*

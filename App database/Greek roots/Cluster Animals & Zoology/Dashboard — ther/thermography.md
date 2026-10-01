@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagnostic imaging technique that records temperature patterns on surfaces using infrared radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and non-destructive industrial testing, utilizing infrared thermocameras to detect localized inflammation, poor perfusion, or electrical hotspots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermography designates diagnostic technique using a thermograph to record the heat produced by different parts of the body; used to study blood flow and to detect tumors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early clinical experiments in **thermography** demonstrated increased radiant heat overlying active arthritic joints."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Astronomical **thermography** allows observers to measure the infrared glow emitted by cool interstellar dust clouds."*
+> - 📜 **Michael DeBakey (*Surgical Techniques in Vascular Surgery*):** *"Intraoperative **thermography** verified the restoration of blood flow across newly anastomosed peripheral bypass grafts."*

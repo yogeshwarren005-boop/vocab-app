@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barographic tracing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A barographic tracing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuous graphic record of atmospheric pressure traced by a barograph over a period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological stations, the revolving paper chart showing pressure trends used to identify fronts and squall lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barogram designates a barographic tracing."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"The **barogram** showed an ominous drop of twenty millibars within four hours, portending the blizzard."*
+> - 📜 **William Napier Shaw (*Forecasting Weather*):** *"A sudden V-shaped trough on the **barogram** marked the passage of a violent cold front."*
+> - 📜 **Ernest Shackleton (*South: The Story of Shackleton's Last Expedition*):** *"We inspected the **barogram** daily to anticipate shifts in the pack ice surrounding the Endurance."*

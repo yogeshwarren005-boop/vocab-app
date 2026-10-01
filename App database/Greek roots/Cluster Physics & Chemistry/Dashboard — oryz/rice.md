@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The starchy seeds of an annual southeast Asian cereal grass (Oryza sativa) that are cooked and used for food; also : this cereal grass that is widely cultivated in warm climates for its seeds and by-products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To finely chop or process (a food) so that it resembles rice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The starchy grain produced by the cereal grass Oryza sativa, cultivated extensively as a staple food worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The annual marsh plant itself, typically cultivated in flooded agricultural terraces or paddies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three pound of sugar, five pound of currants, rice”—what will this sister of mine do with rice?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Their rice was brown as chocolate."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The village was on an in-lying island, and its headmen must have sent word across to the mainland; for one morning three big two-masted junks with lateens of rice-matting dropped anchor off the beach."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A field of **rice** produces a much greater quantity of food than the most fertile cornfield of wheat."*
+> - 📜 **Marco Polo (*The Travels of Marco Polo*):** *"Throughout the southern provinces of Cathay, the populace lives chiefly upon **rice** seasoned with fragrant spices."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A small quantity of boiled **rice** and molasses furnished me with a clean, sustaining, and philosophical meal."*

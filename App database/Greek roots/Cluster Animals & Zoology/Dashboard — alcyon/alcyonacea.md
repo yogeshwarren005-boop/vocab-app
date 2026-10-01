@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising the soft corals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising the soft corals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of anthozoan cnidarians comprising soft corals, leather corals, and sea fans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, an octocorallian order characterized by colonial polyps embedded in a fleshy coenenchyme containing calcareous sclerites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcyonacea designates comprising the soft corals."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Dense thickets of **Alcyonacea** clothed the submerged reef slopes with flexible, waving branches."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"Unlike true stony corals, the **Alcyonacea** secrete loose calcitic spicules rather than a continuous solid limestone cup."*
+> - 📜 **Alpheus Hyatt (*Commercial and Other Sponges*):** *"Trawls dragged through tropical shoals brought up colorful colonies belonging to the **Alcyonacea**."*

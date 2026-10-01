@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spider : arachnid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spider : arachnid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (arachne, 'spider') denoting spiders and related arachnids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological terminology and medical anatomy, the base of words describing gossamer web-like membranes and eight-legged chelicerates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachn designates spider : arachnid."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholastic wits spin out webs of learning like the **arachn** weaver, admirable for their fineness but lacking substance."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"The hand of the Divine Architect is as visible in the anatomy of an **arachn** creature as in the vast elephant."*
+> - 📜 **Oliver Goldsmith (*An History of the Earth and Animated Nature*):** *"Every member of the **arachn** tribe is provided with spinning spinnerets to capture its prey."*

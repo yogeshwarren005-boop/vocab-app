@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hippopotami.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hippopotami.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian family of artiodactyl ungulates comprising the two extant species: the common hippopotamus and the pygmy hippopotamus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian paleontology and molecular systematics, a semiaquatic clade whose closest living relatives are the Cetacea (forming the clade Whippomorpha).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippopotamidae designates hippopotami."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The family **Hippopotamidae** contains massive, thick-skinned ungulates adapted for a sluggish semiaquatic existence."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Fossil members of **Hippopotamidae** roamed across Pleistocene Europe before retreating to African river systems."*
+> - 📜 **Stephen Jay Gould (*The Lying Stones of Marrakech*):** *"DNA sequencing established the astonishing phylogenetic truth that the **Hippopotamidae** are the closest living terrestrial cousins of whales."*

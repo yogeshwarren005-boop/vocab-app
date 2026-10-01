@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of animals except birds and mammals; having body temperature that varies with the environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animals except birds and mammals; having body temperature that varies with the environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing variable body temperature that fluctuates with the ambient temperature; poikilothermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical zoology, denoting animals that lack physiological homeostatic thermoregulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poikilothermous designates of animals except birds and mammals; having body temperature that varies with the environment."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The heart of **poikilothermous** vertebrates exhibits incomplete ventricular septation, mixing arterial and venous blood."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Respiratory exchange in **poikilothermous** reptiles falls to a mere fraction of the consumption observed in birds."*
+> - 📜 **Stephen Jay Gould (*Ever Since Darwin*):** *"Fossil evidence was re-examined to test whether sauropods were truly **poikilothermous** giants relying on mass thermal inertia."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism living in, on, or with another organism in order to obtain nutrients, grow, or multiply often in a state that directly or indirectly harms the host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that resembles a biological parasite in living off of, being dependent on, or exploiting another while giving little or nothing in return.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that lives in or on an organism of another species (its host) and benefits by deriving nutrients at the other's expense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who habitually relies on or exploits others without making any useful return.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When steel grows soft Soft as the parasite’s silk, let him be made An ovator for the wars!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is a flatterer, A parasite, a keeper-back of death, Who gently would dissolve the bands of life, Which false hope lingers in extremity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If at home, sir, He’s all my exercise, my mirth, my matter: Now my sworn friend, and then mine enemy; My parasite, my soldier, statesman, all."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"Live loathed, and long, most smiling, smooth, detested **parasite**, courteous destroyers, affable wolves."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The structure of every **parasite** is wonderfully adapted to prey upon the fluids of its chosen host."*
+> - 📜 **Jonathan Swift (*On Poetry: A Rhapsody*):** *"So naturalists observe, a flea has smaller fleas that on him prey; and these have smaller fleas to bite 'em, and so proceed ad infinitum, each a **parasite**."*

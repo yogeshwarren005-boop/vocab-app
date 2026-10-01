@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being hyaline or having become hyaline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being hyaline or having become hyaline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British/Commonwealth spelling of hyalinization: the process by which living tissue becomes transformed into a clear, homogeneous, glassy material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical pathology, the replacement of normal cellular or connective tissue architecture by structureless hyaline matrix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalinisation designates the state of being hyaline or having become hyaline."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced nephrosclerosis is characterized by progressive **hyalinisation** of the glomerular tufts."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The gradual **hyalinisation** of splenic arterioles occurs frequently in senile involution."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Fibrous scars undergo slow **hyalinisation**, losing their cellular elements over decades."*

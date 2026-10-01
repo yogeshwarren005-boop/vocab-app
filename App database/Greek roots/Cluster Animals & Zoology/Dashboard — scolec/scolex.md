@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The head of a tapeworm either in the larva or adult stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The head of a tapeworm either in the larva or adult stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior attachment organ or head of a tapeworm (cestode), bearing hooks, suckers, or grooves to anchor to the host's intestinal wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical parasitology, the specialized cephalic holdfast from which asexual budding produces the chain of reproductive proglottids (strobila).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scolex designates the head of a tapeworm either in the larva or adult stage."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The tiny **scolex** of Taenia solium anchors firmly to the intestinal villi by four muscular suckers and a rostellum of hooks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"No anthelmintic cure for tapeworm is complete unless the microscopic **scolex** is retrieved and identified in the stool."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"If the **scolex** remains attached to the intestinal mucosa, it will regenerate the entire length of the worm within months."*

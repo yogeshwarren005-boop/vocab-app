@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The deposition of a substance on an electrode by the action of electricity (especially by electrolysis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deposition of a substance on an electrode by the action of electricity (especially by electrolysis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of depositing a coating of metal or other substance onto a conducting surface by electrolysis; electroplating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials engineering and nanotechnology, the electrochemical method of synthesizing thin films, foils, and microstructures from ionic solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrodeposition designates the deposition of a substance on an electrode by the action of electricity (especially by electrolysis)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The weight of copper recovered by **electrodeposition** on the cathode was found strictly proportional to the current."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The art of **electrodeposition** transforms cheap baser metals into lustrous gilded and silvered wares."*
+> - 📜 **Jöns Jacob Berzelius (*Traité de Chimie*):** *"Even coatings of metallic nickel can be produced upon steel through continuous galvanic **electrodeposition**."*

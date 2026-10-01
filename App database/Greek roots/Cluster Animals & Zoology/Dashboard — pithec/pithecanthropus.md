@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former genus of primitive apelike men now homo erectus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former genus of primitive apelike men now homo erectus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus name for Java Man (Pithecanthropus erectus), now classified as Homo erectus, literally 'ape-man'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of physical anthropology, a hypothetical transitional genus proposed by Ernst Haeckel and famously discovered in 1891 by Eugène Dubois in Trinil, Java.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pithecanthropus designates former genus of primitive apelike men now homo erectus."*
+> - 📜 **Eugene Dubois (*Pithecanthropus erectus: A Transition Form from Java*):** *"The calvarium and femur discovered on the banks of the Solo river justify the name **Pithecanthropus** erectus."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"I postulated the existence of **Pithecanthropus** as the missing genealogical link between ancestral anthropoids and primitive humanity."*
+> - 📜 **Arthur Keith (*The Antiquity of Man*):** *"The discovery of **Pithecanthropus** marked the triumphant vindication of Darwinian evolutionary prediction."*

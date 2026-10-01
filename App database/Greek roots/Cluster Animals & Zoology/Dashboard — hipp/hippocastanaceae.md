@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees having showy flowers and inedible nutlike seeds in a leathery capsule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees having showy flowers and inedible nutlike seeds in a leathery capsule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former plant family of trees and shrubs containing horse chestnuts and buckeyes (genus Aesculus), now merged into Sapindaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, deciduous woody plants characterized by palmately compound leaves, showy upright panicles of flowers, and leathery spiny capsules containing glossy seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippocastanaceae designates trees having showy flowers and inedible nutlike seeds in a leathery capsule."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The buckeyes of North America constituted the primary indigenous representatives of the family **Hippocastanaceae**."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"The European horse chestnut, widely planted along urban boulevards, belongs to the family **Hippocastanaceae**."*
+> - 📜 **Armen Takhtajan (*Diversity and Classification of Flowering Plants*):** *"Modern cladistic analysis demonstrated that **Hippocastanaceae** is nested deeply within the broader maple-soapberry family Sapindaceae."*

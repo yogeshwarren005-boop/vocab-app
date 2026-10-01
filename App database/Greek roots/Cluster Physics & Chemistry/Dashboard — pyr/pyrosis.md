@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: heartburn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: heartburn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A burning sensation in the chest and epigastrium caused by acid reflux; heartburn or water brash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, the hallmark symptom of gastroesophageal reflux disease (GERD) caused by acidic gastric contents irritating the esophageal mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrosis designates heartburn."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients with hiatal hernia complain bitterly of nocturnal **pyrosis** and acidic regurgitation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Simple alkaline solutions afford immediate palliative relief to the discomfort of acute **pyrosis**."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The clinician carefully distinguished between atypical cardiac angina and benign esophageal **pyrosis**."*

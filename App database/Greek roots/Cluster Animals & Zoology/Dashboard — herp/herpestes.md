@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mongooses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mongooses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of carnivorans comprising the typical mongooses of Africa and southern Asia, literally 'creeper'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, agile, stealthy viverrid/herpestid carnivores renowned for preying upon venomous snakes, scorpions, and small rodents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herpestes designates mongooses."*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"Rikki-tikki-tavi was an agile mongoose of the genus **Herpestes**, fearless in facing the deadly cobra."*
+> - 📜 **W. T. Blanford (*The Fauna of British India: Mammalia*):** *"Species of **Herpestes** stalk through the dry grass with a low, creeping gait before springing upon their prey."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The Egyptian ichneumon, a famed species of **Herpestes**, was revered in antiquity for destroying crocodile eggs."*

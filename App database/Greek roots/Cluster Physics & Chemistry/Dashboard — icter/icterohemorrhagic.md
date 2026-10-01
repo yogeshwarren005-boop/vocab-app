@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of jaundice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of jaundice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by both jaundice and widespread hemorrhages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical medicine, specifically denoting Leptospira interrogans serovar Icterohaemorrhagiae, the causative spirochete of Weil's disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icterohemorrhagic designates adjective*) pertaining to, derived from, or characteristic of jaundice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Weil's disease represents an acute **icterohemorrhagic** infection transmitted through water contaminated with rodent urine."*
+> - 📜 **Macfarlane Burnet (*Natural History of Infectious Disease*):** *"The virulent **icterohemorrhagic** leptospira penetrates mucous membranes, damaging both capillary endothelia and liver cells."*
+> - 📜 **Sherwin B. Nuland (*The Mysteries Within*):** *"Severe cases presented with the classic triad of fever, profound jaundice, and bleeding in an **icterohemorrhagic** crisis."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With cynicism; in a cynical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With cynicism; in a cynical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a distrustful, scornful, or pessimistic manner that doubts human sincerity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With biting, selfish, or sneering disregard for established ethical principles or social conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"D’Urberville read and re-read this letter, and seemed to quiz himself cynically."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It might be cynically said that the farmer has not been "sharp" enough to get his share of the "good" things" that the business classes were passing around in protective legislation."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Can I have that window shut, please?" he asked, cynically frank."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The official smiled **cynically**, well aware that political ideals were easily compromised by threats of exile."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Osmond spoke **cynically** of human affections, treating the deepest sentiments as mere aesthetic pawns."*
+> - 📜 **W. Somerset Maugham (*Of Human Bondage*):** *"He laughed **cynically** at his own youthful illusions, wondering how he could have trusted such hollow declarations."*

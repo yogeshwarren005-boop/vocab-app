@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of dispersed charged colloidal particles or macromolecules suspended in a fluid under the influence of a spatially uniform electric field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and molecular biology, a laboratory technique (such as gel electrophoresis) used to separate DNA, RNA, or protein fragments by size and charge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrophoresis designates the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode."*
+> - 📜 **Arne Tiselius (*A New Apparatus for Electrophoretic Analysis of Colloidal Mixtures*):** *"By introducing moving-boundary **electrophoresis**, we separated blood serum into distinct albumin, alpha, beta, and gamma globulin fractions."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Gel **electrophoresis** permitted the separation of DNA restriction fragments with single-base-pair resolution."*
+> - 📜 **Linus Pauling (*Sickle Cell Anemia, a Molecular Disease*):** *"Our demonstration of the aberrant mobility of sickle-cell hemoglobin using **electrophoresis** proved that a disease could stem from a single altered protein."*

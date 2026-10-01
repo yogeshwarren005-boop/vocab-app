@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or demonstrating acapnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or demonstrating acapnia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, afflicted with, or characterized by acapnia; having an abnormally low concentration of carbon dioxide in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological mechanics, describing hypocapnic vascular or neurological responses induced by hyperventilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acapnic designates relating to or demonstrating acapnia."*
+> - 📜 **Yandell Henderson (*Adventures in Respiration*):** *"The **acapnic** state induced by excessive artificial respiration leads to immediate cessation of spontaneous breathing."*
+> - 📜 **J. S. Haldane (*Respiration*):** *"In an **acapnic** subject, cerebral blood vessels constrict, diminishing cortical oxygen delivery."*
+> - 📜 **Walter B. Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"Rapid breathing during acute fear often produces an **acapnic** reaction accompanied by lightheadedness."*

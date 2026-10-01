@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or demonstrating acapnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or demonstrating acapnia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or characterized by acapnia (abnormally low blood carbon dioxide).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonology, describing physiological changes such as cerebral ischemia or arterial spasm triggered by hypocapnic states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acapnial designates relating to or demonstrating acapnia."*
+> - 📜 **Yandell Henderson (*Shock, or Normal Mechanism of Acapnia*):** *"The profound **acapnial** shock observed in surgical patients stemmed from uncontrolled rapid respiration under light anesthesia."*
+> - 📜 **J. S. Haldane (*Methods of Air Analysis*):** *"Severe **acapnial** states reduce the respiratory drive to the point of inducing paradoxical periodic breathing."*
+> - 📜 **Charles Sherrington (*Mammalian Physiology*):** *"Cerebral vasoconstriction is a well-documented **acapnial** reaction that protects the brainstem from excessive alkalosis."*

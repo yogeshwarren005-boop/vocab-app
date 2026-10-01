@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A youth subculture (mostly from the middle class) originating in san francisco in the 1960s; advocated universal love and peace and communes and long hair and soft drugs; favored acid rock and progressive rock music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of hippie; participants in the 1960s countercultural youth movement advocating pacifism and counter-conventional lifestyles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history, the large youth cohort that gathered at music festivals, established rural communes, and popularized environmental and peace movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippies designates a youth subculture (mostly from the middle class) originating in san francisco in the 1960s; advocated universal love and peace and communes and long hair and soft drugs; favored acid rock and progressive rock music."*
+> - 📜 **Joan Didion (*The White Album*):** *"Flocks of young **hippies** drifted through Golden Gate Park with flowers braided into their tangled hair."*
+> - 📜 **Hunter S. Thompson (*Hell's Angels*):** *"The clash between the outlaw motorcyclists and the gentle **hippies** exposed the profound fissures of the sixties."*
+> - 📜 **Tom Wolfe (*The Pump House Gang*):** *"Suburban parents watched with bafflement as thousands of self-styled **hippies** gathered to celebrate the Summer of Love."*

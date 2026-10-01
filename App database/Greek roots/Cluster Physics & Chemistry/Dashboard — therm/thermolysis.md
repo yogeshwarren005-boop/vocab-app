@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek therm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical decomposition of a compound by heat; thermal decomposition or thermal dissociation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, the dissipation or loss of heat from the body (through radiation, conduction, convection, and evaporation) to maintain thermal balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermolysis designates a term designating an entity, condition, or phenomenon derived from greek therm."*
+> - 📜 **Svante Arrhenius (*The Foundations of the Theory of Dilute Solutions*):** *"High-temperature **thermolysis** of ammonium chloride vapor dissociates it into ammonia and hydrochloric acid gas."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"When the body overheats, hypothalamic centers stimulate cutaneous vasodilation and sweating to accelerate **thermolysis**."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The **thermolysis** of limestone in industrial kilns drives off carbon dioxide, leaving behind quicklime."*

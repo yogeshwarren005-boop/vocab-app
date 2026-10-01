@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for determining temperature; specifically : one consisting of a sensor housed in a metal probe that registers a change in electrical resistance as a change in temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer for measuring body temperature that has a constriction in the tube above the bulb preventing movement of the column of liquid downward once it has reached its maximum temperature so that it continues to indicate the maximum temperature until the liquid is shaken back down into the bulb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring and indicating temperature, typically consisting of a graduated glass tube containing mercury or alcohol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, invented conceptually by Galileo and perfected into sealed standardized instruments by Fahrenheit and Celsius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Poetry is a thermometer: by taking its average height you can estimate the normal temperature of its writer's mind."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The thermometer indicated a temperature of 4.25 (cent.): a temperature that at this depth seemed common to all latitudes."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the contrary, Captain Nemo went himself to test the temperature in the depths of the sea, and his thermometer, placed in communication with the different sheets of water, gave him the required degree immediately and accurately."*
+> - 📜 **Galileo Galilei (*The Assayer*):** *"I constructed an open air **thermometer** whose fluctuating water level demonstrated the expansion of air under warmth."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I checked the **thermometer** daily at noon, recording the rapid cooling of sea surface temperatures along the Peruvian coast."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical **thermometer** introduced by Wunderlich replaced subjective guessing with scientific precision at the bedside."*

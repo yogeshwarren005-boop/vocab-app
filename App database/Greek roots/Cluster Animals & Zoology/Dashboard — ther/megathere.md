@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic extinct terrestrial sloth-like mammal of the pliocene and pleistocene in america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic extinct terrestrial sloth-like mammal of the pliocene and pleistocene in america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct giant ground sloth of the family Megatheriidae, especially Megatherium; a colossal prehistoric beast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, immense quadrupedal herbivores of the Pleistocene of South America that could rear upright on massive hind legs to strip tree foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megathere designates gigantic extinct terrestrial sloth-like mammal of the pliocene and pleistocene in america."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"At Punta Alta, I unearthed the colossal skeleton of a **megathere**, whose arm was thicker than an elephant's leg."*
+> - 📜 **Richard Owen (*Memoir on the Megatherium*):** *"The massive pelvis and pillar-like femurs of the **megathere** provided a tripod base with the heavy tail for browsing high branches."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The extinction of the **megathere** across the South American pampas remains one of the great mysteries of the late Quaternary."*

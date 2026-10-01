@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of erect annual or perennial herbs native to madagascar; widely naturalized in the tropics; formerly included in genus vinca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of erect annual or perennial herbs native to madagascar; widely naturalized in the tropics; formerly included in genus vinca.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the dogbane family (Apocynaceae), including Catharanthus roseus (the Madagascar periwinkle), literally 'pure flower'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and oncology, tropical plants renowned for biosynthesizing powerful vinca alkaloids (vincristine and vinblastine) used in cancer chemotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catharanthus designates small genus of erect annual or perennial herbs native to madagascar; widely naturalized in the tropics; formerly included in genus vinca."*
+> - 📜 **George Don (*A General System of Gardening and Botany*):** *"The elegant pink corollas of **Catharanthus** led botanists to bestow a name signifying unblemished pure blossoms."*
+> - 📜 **Richard Evans Schultes (*The Healing Forest*):** *"Folk medicine in Madagascar prized **Catharanthus** for diabetes long before oncology isolated its life-saving alkaloids."*
+> - 📜 **Arthur Osol (*The Dispensatory of the United States of America*):** *"Extracts from **Catharanthus** revolutionized pediatric oncology through the dramatic remission of acute leukemia."*

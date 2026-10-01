@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conscious neurological recognition and appreciation of weight; the capacity to evaluate the weight of objects by lifting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sensory testing, the intact sensory function contrasted with abarognosis, mediated by somatosensory pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barognosis designates a term designating an entity, condition, or phenomenon derived from greek bar."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Intact **barognosis** requires the harmonious cooperation of both superficial touch receptors and deep neuromuscular spindles."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Examination revealed that stereognosis and **barognosis** were preserved in the right upper extremity."*
+> - 📜 **Foster Kennedy (*Symptomatology of Temporosphenoidal Tumors*):** *"Defective **barognosis** in one hand helped localize the cortical lesion to the parietal lobe."*

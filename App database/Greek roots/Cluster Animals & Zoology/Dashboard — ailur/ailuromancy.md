@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ailur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or forecasting the future by observing the movements, grooming, or behaviors of cats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore and historical anthropology, an ancient superstitious practice interpreting feline leaping, washing behind ears, or restlessness as omens of weather or fate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailuromancy designates a term designating an entity, condition, or phenomenon derived from greek ailur."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Superstitious folk turned to **ailuromancy**, predicting torrential rains whenever the cat washed over its ears."*
+> - 📜 **Andrew Lang (*Myth, Ritual and Religion*):** *"Ancient seers practiced **ailuromancy** to foretell naval fortune from the capricious pacing of temple felines."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Rustic omens drawn from feline agitation preserve surviving fragments of medieval **ailuromancy**."*

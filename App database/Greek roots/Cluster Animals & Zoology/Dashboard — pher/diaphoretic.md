@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used to produce perspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing perspiration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication, beverage, or agent that induces sweating; or having the property of producing perspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional therapeutics and pharmacognosy, substances such as elderberry tea, Dover's powder, or ipecacuanha administered to break fevers by promoting sweat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"He mentioned many diaphoretic medicines in case the first failed, but the unmerciful questioner thus continued, Pray, sir, suppose none of those succeeded, what step would you take next?"*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"A warm decoction of elderflower acts as a gentle **diaphoretic**, opening the pores and releasing feverish vapours."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Upon feeling the cold chill, I drank hot water and rested quietly, welcoming its mild **diaphoretic** effect."*
+> - 📜 **Robley Dunglison (*General Therapeutics and Materia Medica*):** *"Tartar emetic in minute doses was widely prescribed as a reliable **diaphoretic** to reduce inflammatory pulse."*

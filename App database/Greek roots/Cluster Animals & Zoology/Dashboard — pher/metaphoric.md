@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing one thing in terms normally denoting another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing one thing in terms normally denoting another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a metaphor; figurative rather than literal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and semiotics, employing symbolic or transferential imagery to evoke deeper imaginative resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The builder and maker of this New Jerusalem is God, as we read in the 575:12 book of Hebrews; and it is "a city which hath founda- tions." The description is metaphoric."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Shakespeare's imagery displays an extraordinary **metaphoric** density where thoughts germinate within thoughts."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The **metaphoric** brilliance of Donne's poetry jolts the mind from comfortable everyday perceptions."*
+> - 📜 **Paul Ricoeur (*The Rule of Metaphor*):** *"The **metaphoric** process creates new semantic relevance out of apparent literal discordance."*

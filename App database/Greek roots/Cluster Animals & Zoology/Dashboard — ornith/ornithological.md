@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ornithology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ornithology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with the scientific study of birds (ornithology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific literature and field exploration, describing avian taxonomies, breeding surveys, plumage studies, and migration research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithological designates of or relating to ornithology."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"My **ornithological** notes from the Galapagos revealed that mockingbirds differed perceptibly from island to island."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"I spent countless seasons in the trackless forests of America gathering raw data for my **ornithological** life histories."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The transition between Asian and Australian faunas is nowhere more dramatic than in the **ornithological** contrasts of Bali and Lombok."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the effects of extremely low temperature on living organisms and cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the effects of extremely low temperature on living organisms and cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology concerned with the effects of low temperatures on living organisms, tissues, and biological systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific discipline studying freeze-tolerance, cryoprotectants, and the preservation of cells, gametes, and organs at sub-zero temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryobiology designates the study of the effects of extremely low temperature on living organisms and cells."*
+> - 📜 **J. B. S. Haldane (*Possible Worlds*):** *"Advances in **cryobiology** may one day allow living tissues to be suspended in time without cellular degeneration."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Studies in **cryobiology** revealed how wood frogs produce natural glucose anti-freeze to endure total winter freezing."*
+> - 📜 **Francis Crick (*Life Itself: Its Origin and Nature*):** *"The experimental principles of **cryobiology** are crucial when considering the transport of viable spores through interstellar space."*

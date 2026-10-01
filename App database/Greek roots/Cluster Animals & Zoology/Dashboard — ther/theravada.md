@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two great schools of buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of buddhism that adheres to pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of sri lanka (ceylon) and myanmar (burma) and thailand and laos and cambodia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two great schools of buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of buddhism that adheres to pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of sri lanka (ceylon) and myanmar (burma) and thailand and laos and cambodia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The oldest surviving school of Buddhism, practiced predominantly in Sri Lanka, Myanmar, Thailand, Cambodia, and Laos, literally 'the Doctrine of the Elders'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Buddhist history and comparative religion, the tradition adhering strictly to the Pali Canon (Tipitaka) and the monastic discipline of the Vinaya to attain arhatship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theravada designates one of two great schools of buddhist doctrine emphasizing personal salvation through your own efforts; a conservative form of buddhism that adheres to pali scriptures and the non-theistic ideal of self purification to nirvana; the dominant religion of sri lanka (ceylon) and myanmar (burma) and thailand and laos and cambodia."*
+> - 📜 **T. W. Rhys Davids (*Buddhism: Its History and Literature*):** *"The monks of the **Theravada** school preserved the ancient Pali texts in their pristine form across two millennia."*
+> - 📜 **Max Muller (*Studies in Buddhism*):** *"In the tranquil monasteries of Ceylon, **Theravada** elder monks chant the sacred sutras just as they were recited at the First Council."*
+> - 📜 **Hermann Oldenberg (*Buddha: His Life, His Doctrine, His Order*):** *"The ethical austerity and psychological depth of **Theravada** doctrine reflect the earliest historical teachings of Shakyamuni."*

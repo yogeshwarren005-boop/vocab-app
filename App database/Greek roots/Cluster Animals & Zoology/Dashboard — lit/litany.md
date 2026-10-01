@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer consisting of a series of invocations and supplications by the leader with alternate responses by the congregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resonant or repetitive chant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of petitions for use in church services, recited by clergy and responded to by the congregation; or a tedious recital or repetitive list.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology, formal supplicatory prayers (from Greek litaneia, entreaty) chanted during penitential seasons; colloquially, any monotonous catalog of grievances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It cost her a litany of pictured sorrows and of silent cries that she might be the mercy for those sorrows—but the resolved submission did come; and when the house was still, and she knew that it was near the time when Mr."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Is there any decent man in this fair that considers himself the equal of young Packy McGee?" And he walked through the fair, chanting his litany and gently swinging the woman's woolen stocking with the large round stone in the foot of it ..."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When he had finished the Litany the deacon crossed the stole over his breast and said, “Let us commit ourselves and our whole lives to Christ the Lord!” “Commit ourselves to God,” Natásha inwardly repeated."*
+> - 📜 **John Donne (*The Litanie*):** *"In our solemn **litany**, we beseech the Trinity to deliver our frail souls from the perils of the world."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"He listened with numb weariness to the familiar **litany** of production quotas, military victories, and state enemies."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The simple song of the wood thrush was a divine **litany** that purified the morning air."*

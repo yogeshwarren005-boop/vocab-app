@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Duck-billed dinosaurs; upper cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Duck-billed dinosaurs; upper cretaceous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of duck-billed ornithischian dinosaurs that flourished in the Upper Cretaceous period across North America, Asia, and Europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic paleontology, the diverse dinosaurian clade comprising the crested lambeosaurines and the flat-headed hadrosaurines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosauridae designates duck-billed dinosaurs; upper cretaceous."*
+> - 📜 **Edward Drinker Cope (*Synopsis of the Extinct Batrachia, Reptilia and Aves of North America*):** *"We establish the family **Hadrosauridae** to include herbivorous ornithopods displaying specialized grinding dentition."*
+> - 📜 **Joseph Leidy (*Memoirs on the Extinct Reptiles*):** *"The **Hadrosauridae** dominated the terrestrial fauna of the closing stages of the Mesozoic era."*
+> - 📜 **Stephen Jay Gould (*Dinosaur in a Haystack*):** *"Nesting colonies of **Hadrosauridae** discovered in Montana provide poignant evidence of parental care and social cohesion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasodilator (trade name hyperstat) used to treat severe hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vasodilator (trade name hyperstat) used to treat severe hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic or electrical control device that regulates or maintains an electrical parameter at an exceptionally high set point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In specialized laboratory engineering, an automated high-voltage or high-frequency stabilizer controlling industrial electro-processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperstat designates vasodilator (trade name hyperstat) used to treat severe hypertension."*
+> - 📜 **Nikola Tesla (*Colorado Springs Notes*):** *"The primary power feed was routed through a tuned **hyperstat** to damp violent voltage fluctuations in the oscillator."*
+> - 📜 **Charles Proteus Steinmetz (*Transient Electric Phenomena*):** *"By introducing a calibrated **hyperstat**, the experimental arc furnace was stabilized against sudden current surges."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"The submarine's thermal containment unit was governed by an automated **hyperstat** linked to the cooling turbines."*

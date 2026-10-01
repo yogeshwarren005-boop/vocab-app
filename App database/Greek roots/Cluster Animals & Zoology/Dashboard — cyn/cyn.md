@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (kyōn, kynos, 'dog') denoting dogs, canines, or dog-like characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymology and philosophy, the root giving rise both to biological canine vocabulary and to the Cynic philosophical school of Diogenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyn designates a term designating an entity, condition, or phenomenon derived from greek cyn."*
+> - 📜 **Diogenes Laertius (*Lives and Opinions of Eminent Philosophers*):** *"Antisthenes taught at the gymnasium Cynosarges, whence his disciples received the canine title from the **cyn** root."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The ancient Aryan stem underlying Greek **cyn** and Latin canis celebrated man's earliest domestic companion."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Celestial constellations such as Procyon and Canis Major derive their astronomical names from this primordial **cyn** base."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ophiodontidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of ophiodontidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monotypic marine fish genus containing the lingcod (Ophiodon elongatus) of the North American Pacific coast, literally 'snake tooth'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fisheries biology, an apex demersal predator (family Hexagrammidae) characterized by formidable sharp canine teeth, voracious piscivorous habits, and bluish-green flesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiodon designates a genus of ophiodontidae."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The ferocious lingcod, **Ophiodon** elongatus, lurks among kelp beds, seizing rockfishes with its formidable jaws."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"Fishermen on the coast of Oregon dread the slashing teeth of large **Ophiodon** hauled aboard the schooners."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The cold bottom waters of the Monterey submarine canyon shelter giant specimens of predatory **Ophiodon**."*

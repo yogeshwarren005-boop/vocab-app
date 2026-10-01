@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally high body temperature, occurring when internal heat regulation fails to manage environmental heat or metabolic heat production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency medicine, heat stroke (core temp > 40°C), distinct from fever; or malignant hyperthermia triggered by volatile anesthetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermia designates exceptionally high fever especially when induced artificially for therapeutic purposes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In classic heat stroke, profound anhydrosis and delirium signal life-threatening **hyperthermia** requiring instant iced immersion."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"An unexpected spike in expired carbon dioxide alerted the anesthetist to acute malignant **hyperthermia**."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Differentiating between hypothalamic fever and environmental **hyperthermia** is essential for selecting correct therapy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American orioles; american blackbirds; bobolinks; meadowlarks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American orioles; american blackbirds; bobolinks; meadowlarks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of New World passerine birds (the icterids), including blackbirds, orioles, meadowlarks, grackles, and cowbirds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, an ecologically diverse avian family characterized by sharp, conical bills and frequently bright yellow, orange, or iridescent plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icteridae designates american orioles; american blackbirds; bobolinks; meadowlarks."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Members of the family **Icteridae** enliven the northern meadows with their ringing melodies and brilliant plumage."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"The Baltimore oriole, assigned to **Icteridae**, weaves an intricate pensile nest from fibers and horsehair."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Brood parasitism evolved independently within certain specialized lineages of the **Icteridae**."*

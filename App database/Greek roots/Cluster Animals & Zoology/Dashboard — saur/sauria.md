@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: True lizards; including chameleons and geckos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True lizards; including chameleons and geckos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major clade of diapsid reptiles comprising Lepidosauromorpha (lizards, snakes, tuatara) and Archosauromorpha (crocodilians, dinosaurs, birds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical taxonomy, Macartney's traditional suborder comprising all lizards, distinct from Serpentes and Crocodilia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauria designates true lizards; including chameleons and geckos."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The order **Sauria** encompasses those reptiles whose bodies are covered with scales and possess four clawed limbs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Cladistic analysis unites birds directly within the **Sauria**, proving that avian feathers are modified reptilian scales."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Turtles of North America*):** *"The cranial streptostyly exhibited across the **Sauria** allows flexible manipulation of living prey."*

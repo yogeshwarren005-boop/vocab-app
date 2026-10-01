@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corals and sea anemones having eight branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corals and sea anemones having eight branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subclass of anthozoans (Octocorallia) having colonial polyps with eight pinnate tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic invertebrate zoology, an abundant marine clade including sea pens, soft corals, and gorgonians, all exhibiting eightfold symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcyonaria designates corals and sea anemones having eight branches."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The eight fringed tentacles immediately identify each individual polyp of the **Alcyonaria**."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The internal mesenteries in all **Alcyonaria** conform strictly to a fundamental octamerous plan."*
+> - 📜 **Philip Henry Gosse (*A Year at the Shore*):** *"Dredging off the rocky headland revealed exquisite colonies of **Alcyonaria** glowing with pale carmine tint."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to beast, animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to beast, animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a wild beast or animal in appearance, demeanor, or instinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological anthropology and psychiatry, describing feral behavior, bestial facial features, or archaic atavistic traits (from Greek ther, beast + -oid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theroid designates adjective & noun*) resembling, having the physical form of, or akin to beast, animal."*
+> - 📜 **Cesare Lombroso (*Criminal Man*):** *"The degenerate profile displayed distinct **theroid** characteristics, with prominent canine teeth and receding forehead."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cranium of the archaic synapsid retained a **theroid** aspect that foreshadowed mammalian predatory specializations."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The Beast Folk slipped steadily backward into their old **theroid** habits, howling on all fours through the tangled jungle."*

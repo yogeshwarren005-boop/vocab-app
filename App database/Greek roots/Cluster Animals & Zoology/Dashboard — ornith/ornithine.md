@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is important in the formation of urea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is important in the formation of urea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-proteinogenic amino acid that plays a central role in the urea cycle, facilitating the disposal of excess nitrogen in ureotelic animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, synthesized from glutamate or arginine and first isolated from avian excrement (ornithuric acid), functioning as a precursor to polyamines like putrescine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithine designates an amino acid that does not occur in proteins but is important in the formation of urea."*
+> - 📜 **Hans Krebs (*The Urea Cycle*):** *"In the liver, **ornithine** reacts with carbamoyl phosphate to form citrulline, initiating the catalytic cycle of nitrogen excretion."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"Bacterial decarboxylation of **ornithine** produces the volatile diamine putrescine during organic decay."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"The metabolic pathway of **ornithine** illustrates how fundamental biochemical cycles were conserved across vertebrate evolution."*

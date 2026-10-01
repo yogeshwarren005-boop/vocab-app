@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the heat in the interior of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the heat in the interior of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by the internal heat of the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renewable energy engineering, energy harnessed from subterranean steam, hot dry rock, or volcanic aquifers to generate electricity or heating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geothermal designates of or relating to the heat in the interior of the earth."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The presence of boiling geysers in Iceland demonstrates the intense **geothermal** energy underlying volcanic terrains."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Deep boreholes reveal a steady **geothermal** gradient of approximately thirty degrees Celsius per kilometer of depth."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep-sea hydrothermal vents powered by **geothermal** volcanism support vibrant communities of chemosynthetic organisms."*

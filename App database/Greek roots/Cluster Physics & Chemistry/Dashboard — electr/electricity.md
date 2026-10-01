@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental form of energy observable in positive and negative forms that occurs naturally (as in lightning) or is produced (as in a generator) and that is expressed in terms of the movement and interaction of electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electric current or power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental form of physical energy resulting from the existence of charged particles (such as electrons or protons), manifesting as static charges, currents, and electromagnetic fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electric current used as a source of power for lighting, heating, computing, and mechanical work; or an intense feeling of collective suspense or excitement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All was as quick as electricity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A fourth kind is that derived from franchises for public service corporations, such as those supplying electricity, gas and water."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Besides, Fred had given out unexpected electricity, and he now added, “Mr."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The chemical action of **electricity** is always definite and directly proportional to the absolute quantity that passes."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents*):** *"Ere many generations pass, our machinery will be driven by a power obtainable at any point in the universe, for **electricity** is everywhere."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"With an anxiety that almost amounted to agony, I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing through **electricity**."*

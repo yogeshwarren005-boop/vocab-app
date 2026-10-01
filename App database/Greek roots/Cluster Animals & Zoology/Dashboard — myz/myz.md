@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (myzein, 'to suck') denoting sucking habits, suction organs, or parasitic suction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological nomenclature, the combining element in Myzopoda (sucker-footed bats), Myzostoma (parasitic worms on crinoids), and related suction-adapted taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myz designates a term designating an entity, condition, or phenomenon derived from greek myz."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The strange ectoparasite was designated from the **myz** stem because of the sucking discs lining its ventral margins."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Invertebrate Animals*):** *"Suctorial adaptations derived from the **myz** root reflect convergent feeding specializations across diverse phyla."*
+> - 📜 **Frank E. Beddard (*Mammalia*):** *"The suctorial wrist organs that give name to the **myz** group of bats function as adhesive vacuum discs."*

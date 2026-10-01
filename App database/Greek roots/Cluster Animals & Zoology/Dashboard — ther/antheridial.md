@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by an antheridium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by an antheridium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by an antheridium (the male reproductive organ of non-flowering plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and pteridology, designating cells, chambers, or protective paraphyses associated with sperm-producing structures in mosses and ferns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheridial designates relating to or characterized by an antheridium."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The **antheridial** wall ruptures when moistened by raindrops, discharging countless coiled spermatozoids into the film of water."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Development of the **antheridial** initial begins with an oblique division on the dorsal surface of the prothallus."*
+> - 📜 **Thomas Henry Huxley (*A Course of Practical Instruction in Elementary Biology*):** *"Microscopic examination of the fern prothallium reveals numerous **antheridial** sacs nestled among the rhizoids."*

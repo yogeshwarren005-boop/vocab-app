@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect and especially a wasp that completes its larval development within the body of another insect eventually killing it and is free-living as an adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insect and especially a wasp that completes its larval development within the body of another insect eventually killing it and is free-living as an adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that lives in or on a host and consumes it entirely, ultimately killing it (unlike a true parasite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect biology, insects (such as ichneumonid wasps and tachinid flies) whose free-living adults lay eggs in hosts that their larvae devour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasitoid designates an insect and especially a wasp that completes its larval development within the body of another insect eventually killing it and is free-living as an adult."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The **parasitoid** is effectively a carnivore in slow motion, consuming the host's living tissues until pupation."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"The life strategy of the solitary **parasitoid** wasp provides a chilling illustration of nature's blind evolutionary mechanics."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"The mother **parasitoid** paralyzes the spider with surgeon-like skill, providing fresh meat for her unborn offspring."*

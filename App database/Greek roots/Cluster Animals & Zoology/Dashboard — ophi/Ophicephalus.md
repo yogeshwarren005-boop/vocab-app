@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus name (now Channa) for predatory freshwater snakehead fishes of the family Channidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ichthyology, air-breathing teleost fishes of Asia and Africa possessing suprabranchial organs enabling them to survive out of water and crawl across damp land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ophicephalus designates a term designating an entity, condition, or phenomenon derived from greek ophi."*
+> - 📜 **Francis Buchanan-Hamilton (*An Account of the Fishes Found in the River Ganges*):** *"The voracious muddy predator known as **Ophicephalus** wriggles across wet grass from one drying pool to another."*
+> - 📜 **Albert Gunther (*Catalogue of the Fishes in the British Museum*):** *"Species of **Ophicephalus** possess a specialized labyrinthine cavity above the gills allowing aerial respiration."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The snake-like head and sharp conical teeth of **Ophicephalus** strike terror into smaller marsh fishes."*

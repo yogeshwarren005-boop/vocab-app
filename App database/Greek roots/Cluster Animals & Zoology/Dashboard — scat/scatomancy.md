@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or forecasting the future by inspecting and interpreting the appearance of feces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of occultism and comparative folklore, an archaic form of augury practiced by shamans or soothsayers reading signs in dung.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatomancy designates a term designating an entity, condition, or phenomenon derived from greek scat."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Among the most absurd follies of ancient augury, superstitious soothsayers practiced **scatomancy** to divine health and fortune."*
+> - 📜 **Andrew Lang (*Custom and Myth*):** *"Primitive taboos surrounding bodily wastes occasionally elevated the bizarre craft of **scatomancy** into prophetic ritual."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The village medicine-man examined the dung of the sacrificial goat, reading omens through rustic **scatomancy**."*

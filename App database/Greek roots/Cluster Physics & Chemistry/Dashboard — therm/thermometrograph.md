@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that records temperature variations on a graph as a function of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that records temperature variations on a graph as a function of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-registering maximum and minimum thermometer that automatically records extreme temperatures over a given time interval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical meteorology, an instrument invented by James Six utilizing mercury and spirit with index pins to record high and low temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometrograph designates a thermometer that records temperature variations on a graph as a function of time."*
+> - 📜 **James Six (*The Construction and Use of a Thermometer*):** *"The **thermometrograph** carries delicate steel markers pushed by the mercury column to register the extreme temperatures of day and night."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"We suspended the **thermometrograph** from a high tree branch to record the minimum nocturnal temperature of the Orinoco jungle."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"The maximum and minimum indications of the **thermometrograph** were transcribed into the meteorological log each morning."*

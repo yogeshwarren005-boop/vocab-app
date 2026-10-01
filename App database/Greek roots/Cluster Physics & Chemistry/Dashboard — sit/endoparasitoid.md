@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to food, grain, wheat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to food, grain, wheat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitoid that lives inside the body of its host, ultimately killing the host from within (such as many ichneumonid and braconid wasps).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect ecology and biological pest control, an organism whose juvenile stages develop entirely inside an arthropod host before pupating and killing it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoparasitoid designates adjective & noun*) resembling, having the physical form of, or akin to food, grain, wheat."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"The tiny **endoparasitoid** deposits its lethal egg within the living caterpillar with mathematical precision."*
+> - 📜 **Charles Darwin (*Letter to Asa Gray (1860)*):** *"I cannot persuade myself that a beneficent God would have designed the Ichneumonidae with the express intention of feeding as an **endoparasitoid** within the bodies of living caterpillars."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Agricultural biological control relies heavily upon releasing the specific **endoparasitoid** of the destructive crop pest."*

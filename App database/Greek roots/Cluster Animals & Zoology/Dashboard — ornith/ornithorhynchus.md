@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ornith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of the duck-billed platypus (Ornithorhynchus anatinus), an amphibious egg-laying mammal endemic to eastern Australia, literally 'bird snout'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, a semi-aquatic monotreme possessing a sensitive duck-like electroreceptive bill, webbed feet, and beaver-like tail, feeding on aquatic invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithorhynchus designates a term designating an entity, condition, or phenomenon derived from greek ornith."*
+> - 📜 **George Shaw (*The Naturalist's Miscellany*):** *"I examined the extraordinary specimen of **Ornithorhynchus** with suspicion, suspecting an artful deception of grafting a duck's bill upon a quadruped."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I was lucky enough to see several of the curious **Ornithorhynchus** diving quietly in the calm waters of the Cox's River."*
+> - 📜 **Richard Owen (*Philosophical Transactions of the Royal Society*):** *"Dissection of the female **Ornithorhynchus** revealed true mammary glands, proving its rightful place within the mammalian class."*

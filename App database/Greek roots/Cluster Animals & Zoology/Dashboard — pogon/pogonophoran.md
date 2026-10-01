@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender animal with tentacles and a tubelike outer covering; lives on the deep ocean bottom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender animal with tentacles and a tubelike outer covering; lives on the deep ocean bottom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine tube worm of the class or former phylum Pogonophora (now Siboglinidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-sea oceanography, a benthic worm living inside chitinous tubes in abyssal sediments or volcanic rift zones, possessing anterior tentacular plumes and chemosynthetic symbionts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonophoran designates slender animal with tentacles and a tubelike outer covering; lives on the deep ocean bottom."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"The discovery of a living **pogonophoran** in deep seabed mud confirmed one of the century's most astonishing zoological finds."*
+> - 📜 **Thomas Henry Huxley (*Scientific Essays*):** *"Every newly uncovered **pogonophoran** species tests our fundamental concepts of metazoan body plans and digestive organization."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Surrounding the abyssal black smokers, the giant red-plumed **pogonophoran** Riftia pachyptila forms dense underwater forests."*

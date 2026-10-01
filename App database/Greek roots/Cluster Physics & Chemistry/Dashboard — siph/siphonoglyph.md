@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek siph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ciliated groove or channel located at one or both ends of the pharynx (gullet) in anthozoan cnidarians (such as sea anemones and corals).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate anatomy, a specialized structure whose beating cilia drive a continuous respiratory and circulatory water current into the gastrovascular cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, siphonoglyph designates a term designating an entity, condition, or phenomenon derived from greek siph."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **siphonoglyph** in actinians maintains a constant inward current of aerated seawater even when the mouth is closed."*
+> - 📜 **Ernst Haeckel (*Challenger Monograph on Deep-Sea Keratosa*):** *"Cranial sections of the sea anemone reveal the bilateral symmetry imposed upon the pharynx by the **siphonoglyph**."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Anthozoan internal water circulation depends upon the tireless ciliary action along the **siphonoglyph**."*

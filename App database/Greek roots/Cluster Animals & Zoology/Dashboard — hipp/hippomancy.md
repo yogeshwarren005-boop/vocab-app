@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hipp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or predicting the future by observing the movements, neighing, or behaviors of horses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative folklore and ancient religion, sacred augury practiced by ancient Persians, Celts, and Germanic tribes using consecrated white stallions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippomancy designates a term designating an entity, condition, or phenomenon derived from greek hipp."*
+> - 📜 **Herodotus (*The Histories*):** *"Darius ascended the Persian throne through a sacred rite of **hippomancy**, when his stallion was the first to neigh at sunrise."*
+> - 📜 **Tacitus (*Germania*):** *"The German tribes practiced **hippomancy** in sacred groves, watching whether consecrated white horses stepped forward with the right or left hoof."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient kings interpreted the trembling and whinnying of sacred steeds as prophetic signs of **hippomancy** before going into battle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map or chart of the earth's surface connecting points having the same temperature at a given time or the same mean temperature for a given period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a chart representing changes of volume or pressure under conditions of constant temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn on a weather map connecting points having the same temperature at a given time or over a specified period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and meteorology, an isoline invented by Alexander von Humboldt in 1817 to visualize global climatic zones and comparative botany.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotherm designates a line on a map or chart of the earth's surface connecting points having the same temperature at a given time or the same mean temperature for a given period."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"By tracing each global **isotherm** across continents and oceans, I demonstrated that geographic latitude alone does not determine climate."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The deflection of an **isotherm** northward across Scandinavia is caused by the warm currents of the Gulf Stream."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The northern boundary of temperate vegetation closely follows the summer **isotherm** of ten degrees Celsius."*

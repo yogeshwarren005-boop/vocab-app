@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ther.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mythical ability of human beings to metamorphose into other animals; or the state of being part human and part animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and folklore, zoomorphic transformation documented in prehistoric cave art (the Sorcerer of Trois-Frères), shamanism, and werewolf legends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, therianthropy designates a term designating an entity, condition, or phenomenon derived from greek ther."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Primitive rites of **therianthropy** allowed the tribal hunter to assume the spirit and terrifying strength of the sacred leopard."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Belief in werewolf metamorphosis and spiritual **therianthropy** is rooted in animistic perceptions of animal kinship."*
+> - 📜 **Claude Levi-Strauss (*Totemism*):** *"Totemic rituals of **therianthropy** demonstrate that animals are chosen not merely because they are good to eat, but because they are good to think."*

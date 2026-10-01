@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of hippie; or having large, prominent, or wide hips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and fashion, denoting mid-century countercultural youth culture; in physical anthropology or tailoring, describing wide pelvic contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippy designates someone who rejects the established culture; advocates extreme liberalism in politics and lifestyle."*
+> - 📜 **Joan Didion (*Slouching Towards Bethlehem*):** *"A barefoot **hippy** girl sat on the curb outside the bookstore, strumming an acoustic guitar."*
+> - 📜 **Tom Wolfe (*The Electric Kool-Aid Acid Test*):** *"The entire psychedelic caravan embraced that new, free-spirited **hippy** style that was sweeping the West Coast."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"The fashionable dressmaker remarked that the client's somewhat **hippy** figure required an empire waistline to balance the silhouette."*

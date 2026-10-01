@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flighty and disorganized person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flighty and disorganized person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person incapable of serious, organized, or sustained thought; a flighty, disorganized, or forgetful person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial character description, someone whose attention jumps erratically between superficial distractions without focusing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatterbrain designates a flighty and disorganized person."*
+> - 📜 **Jane Austen (*Emma*):** *"Harriet Smith was a gentle girl, but her well-meaning friend regarded her as something of an amiable **scatterbrain**."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mrs. Nickleby was a delightful **scatterbrain**, rambling from ginger-beer to matrimonial prospects in a single sentence."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Amy chided herself for acting like a careless **scatterbrain** after misplacing her sketchbook at the market."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African antelopes: elands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African antelopes: elands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large African spiral-horned antelopes containing the common eland and giant eland, literally 'bull goat'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In African mammalogy and wildlife conservation, the largest of all extant antelopes, possessing massive ox-like dewlaps, spiral horns, and docile grazing habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taurotragus designates african antelopes: elands."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"The massive eland, classified under **Taurotragus**, walked with the stately grandeur of prime prize cattle across the veld."*
+> - 📜 **Frederick Courteney Selous (*Travel and Adventure in South-East Africa*):** *"A herd of giant **Taurotragus** trotted effortlessly over the stony ridges, their heavy dewlaps swinging in rhythm."*
+> - 📜 **Richard Lydekker (*The Great and Small Game of Africa*):** *"The spiral horns and bovine bulk of **Taurotragus** led early Boer settlers to bestow the name of eland upon this gentle giant."*

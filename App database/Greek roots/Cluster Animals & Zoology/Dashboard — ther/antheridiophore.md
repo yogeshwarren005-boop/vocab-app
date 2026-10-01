@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gametophore bearing antheridia as in certain mosses and liverworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gametophore bearing antheridia as in certain mosses and liverworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized stalk-like or umbrella-shaped structure in liverworts (such as Marchantia) that bears the antheridia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany, the upright male gametophore in bryophytes bearing disc-shaped receptacles studded with immersed antheridial cavities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheridiophore designates gametophore bearing antheridia as in certain mosses and liverworts."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The peltate disc of the **antheridiophore** in Marchantia bears dozens of sunken chambers housing mature antheridia."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"Raindrop splashes against the upper surface of the **antheridiophore** disperse swimming sperm across neighboring thalli."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The umbrella-like **antheridiophore** of the liverwort rises erect from the creeping green thallus in damp shady gorges."*

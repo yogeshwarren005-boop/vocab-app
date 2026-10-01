@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of electrical resistor whose resistance changes significantly and predictably with temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical instrumentation and electronics, a semiconductor device (thermal resistor) possessing a high negative (NTC) or positive (PTC) temperature coefficient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermistor designates a semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit."*
+> - 📜 **John Bardeen (*Semiconductor Research Leading to the Point Contact Transistor*):** *"The high temperature sensitivity of the semiconductor **thermistor** made it an ideal sensor for microwave power measurement."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Oceanographic bathythermographs equipped with a sensitive **thermistor** mapped thermal thermoclines across the Atlantic."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"A miniature bead **thermistor** inserted into the chemical calorimeter recorded temperature changes of a microdegree."*

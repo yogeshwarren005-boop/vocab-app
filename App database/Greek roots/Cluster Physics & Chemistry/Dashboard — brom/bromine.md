@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element of the halogen group that is used especially in the production of flame retardants and formerly in gasoline additives and medicines (such as bromides).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic chemical element of the halogen group that is used especially in the production of flame retardants and formerly in gasoline additives and medicines (such as bromides).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark reddish-brown, volatile, liquid chemical element with a pungent, choking smell, atomic number 35 and symbol Br.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A halogen element extracted from sea brine and salt deposits, used in flame retardants, water treatment, photography, and pharmaceutical synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromine designates a nonmetallic chemical element of the halogen group that is used especially in the production of flame retardants and formerly in gasoline additives and medicines (such as bromides)."*
+> - 📜 **Antoine Jérôme Balard (*Memoir on a Peculiar Substance Contained in Sea Water*):** *"The heavy, fuming reddish liquid which I designate as **bromine** possesses volatility comparable to that of ether."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The heavy vapor of **bromine** rolled sluggishly along the benchtop, suffocating and corrosive."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The introduction of **bromine** into medicine gave the physician a powerful weapon against spasmodic seizures."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of push, thrust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of push, thrust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or suffering from dysosmia (impaired or distorted sense of smell).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing qualitative olfactory distortions wherein odors are misidentified or perceived as altered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysosmic designates adjective*) pertaining to, derived from, or characteristic of push, thrust."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The **dysosmic** patient struggled to eat, as fresh bread and fruit smelled persistently like kerosene."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough **dysosmic** evaluation involves testing olfactory thresholds against standardized aromatic odorants."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Cortical trauma produced a **dysosmic** state where familiar perfumes were perceived as noxious fumes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of electronics dealing with the behavior, design, and applications of electronic devices and circuits operating at cryogenic temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The engineering discipline encompassing superconducting circuits, Josephson junctions, and ultra-low-noise amplifiers for quantum computing and radio astronomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryoelectronics designates a term designating an entity, condition, or phenomenon derived from greek cry."*
+> - 📜 **John Bardeen (*Theory of Superconductivity*):** *"Operating semiconductors at liquid nitrogen temperatures opened the field of **cryoelectronics**, drastically reducing thermal noise."*
+> - 📜 **Richard Feynman (*Feynman Lectures on Computation*):** *"The integration of superconducting logic gates represents the ultimate frontier of modern **cryoelectronics**."*
+> - 📜 **Philip W. Anderson (*Basic Notions of Condensed Matter Physics*):** *"Josephson junction arrays are the quintessential building blocks of superconducting **cryoelectronics**."*

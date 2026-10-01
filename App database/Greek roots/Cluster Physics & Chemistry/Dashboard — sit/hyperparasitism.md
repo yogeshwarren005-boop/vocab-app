@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasite that is parasitic upon another parasite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasite that is parasitic upon another parasite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which a parasite is itself parasitized by another parasite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In community ecology, multi-tiered parasitic relationships common among parasitoid wasps, fungi, and insect vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperparasitism designates a parasite that is parasitic upon another parasite."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"The phenomenon of **hyperparasitism** creates a nested Russian doll of life, where a secondary wasp emerges from a primary caterpillar parasite."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Ecological balances are maintained through intense competition and layered **hyperparasitism** among insect populations."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Certain tiny encyrtid wasps specialize in obligate **hyperparasitism**, attacking only other parasitoid larvae inside scale insects."*

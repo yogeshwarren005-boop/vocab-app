@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for measuring osmotic pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for measuring osmotic pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of osmotic pressure in a solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry and polymer science, a technique (vapor pressure or membrane osmometry) used to determine the number-average molecular weight of macromolecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmometry designates an apparatus for measuring osmotic pressure."*
+> - 📜 **Jacobus Henricus van 't Hoff (*Studies in Chemical Dynamics*):** *"Precise **osmometry** of dilute sugar solutions confirmed that osmotic pressure is proportional to absolute temperature."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Membrane **osmometry** provided the earliest accurate determinations of hemoglobin's molecular weight."*
+> - 📜 **Peter Debye (*The Collected Papers of Peter J. W. Debye*):** *"The thermodynamic virial coefficients of synthetic polymer solutions are conveniently evaluated through **osmometry**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with thermodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with thermodynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to thermodynamics; thermodynamic (variant form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical nineteenth- and twentieth-century physics, describing energy transformations and mathematical entropy relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamical designates of or concerned with thermodynamics."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The **thermodynamical** relations deduced by Professor Thomson provide an exact measure of latent heats."*
+> - 📜 **Ludwig Boltzmann (*Lectures on Gas Theory*):** *"The statistical interpretation connects molecular kinetic chaos with macroscopic **thermodynamical** entropy."*
+> - 📜 **Max Planck (*Treatise on Thermodynamics*):** *"Every reversible **thermodynamical** process can be represented by a continuous path on a state diagram."*

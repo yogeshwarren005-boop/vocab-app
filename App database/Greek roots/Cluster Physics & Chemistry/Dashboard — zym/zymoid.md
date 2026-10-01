@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling an enzyme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling an enzyme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling an enzyme or ferment in character or catalytic action; ferment-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, describing toxic or chemical agents that produce effects resembling enzymatic fermentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymoid designates resembling an enzyme."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology*):** *"Certain bacterial exotoxins exhibit a **zymoid** behavior, acting in minute quantities to disrupt cellular membranes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physiological action of snake venoms was long regarded as a lethal **zymoid** digestion of blood vessels."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Metabolic transformations in the liver were likened to **zymoid** processes occurring without living microorganisms."*

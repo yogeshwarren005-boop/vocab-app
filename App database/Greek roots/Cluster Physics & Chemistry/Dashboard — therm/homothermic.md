@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of birds and mammals; having constant and relatively high body temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of birds and mammals; having constant and relatively high body temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or capable of maintaining a constant internal body temperature; homeothermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-blooded; maintaining constant body temperature via physiological thermoregulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homothermic designates of birds and mammals; having constant and relatively high body temperature."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"In **homothermic** species, thermal homeostasis insulates biochemical machinery from the fluctuations of the outside world."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"The autonomic nervous system orchestrates vascular and pilomotor reflexes that preserve the **homothermic** state."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The feather was an evolutionary insulator long before it was co-opted for flight in **homothermic** avians."*

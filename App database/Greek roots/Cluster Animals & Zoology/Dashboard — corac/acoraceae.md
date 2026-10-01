@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications for the genus acorus which is usually assigned to araceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications for the genus acorus which is usually assigned to araceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of monocotyledonous flowering plants containing the single genus Acorus (the sweet flags).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic angiosperm phylogeny, the basal sister group to all other extant monocotyledons, characterized by aromatic rhizomes, sword-shaped leaves, and spadices without spathes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acoraceae designates used in some classifications for the genus acorus which is usually assigned to araceae."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The aromatic bitter properties of the rhizome placed **Acoraceae** among the oldest herbal remedies of temperate marshes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Botanists separated **Acoraceae** from typical Araceae due to distinct unifacial foliar anatomy and unreduced flowers."*
+> - 📜 **Armen Takhtajan (*Diversity and Classification of Flowering Plants*):** *"Phylogenetic analysis confirmed that the **Acoraceae** represent the most primitive surviving branch of the entire monocot order."*

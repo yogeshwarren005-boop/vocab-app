@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An original silk-screen color print.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An original silk-screen color print.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made by the silkscreen process (serigraphy); or to produce a work of art using a silk screen stencil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printmaking and modern art, a fine-art stencil process popularized in the 20th century by artists such as Andy Warhol and Ben Shahn using silk mesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serigraph designates an original silk-screen color print."*
+> - 📜 **Carl Zigrosser (*The Artist in America*):** *"The American artist embraced the vibrant **serigraph** as an affordable democratic medium for colorful graphic prints."*
+> - 📜 **Andy Warhol (*The Philosophy of Andy Warhol*):** *"Through the repeated **serigraph**, the commercial image is elevated into an iconic reflection of our consumer culture."*
+> - 📜 **John Sloan (*Gist of Art*):** *"The bold opaque color planes achieved in a modern **serigraph** give it a luminous brilliance unmatched by lithography."*

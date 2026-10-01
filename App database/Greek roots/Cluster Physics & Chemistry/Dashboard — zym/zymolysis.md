@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemical decomposition or cleavage brought about by the action of an enzyme or ferment; enzymatic digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and brewing, the enzymatic breakdown of starches, proteins, and sugars during mash conversion or metabolic digestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymolysis designates a term designating an entity, condition, or phenomenon derived from greek zym."*
+> - 📜 **Louis Pasteur (*Studies on Beer*):** *"During the malting process, active **zymolysis** breaks down insoluble cereal starches into fermentable maltose."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intestinal digestion is essentially a synchronized cascade of hydrolytic **zymolysis**."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The rapid **zymolysis** of albuminous substances yields the soluble peptones that nourish the animal frame."*

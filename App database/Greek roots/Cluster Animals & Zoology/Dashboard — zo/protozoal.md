@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the protozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the protozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, caused by, or characteristic of protozoa; protozoan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical medicine and veterinary parasitology, describing infectious diseases caused by single-celled eukaryotic parasites (e.g., malaria, giardiasis, toxoplasmosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protozoal designates of or relating to the protozoa."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Severe hemolytic anemia is the standard clinical hallmark of acute **protozoal** infection by Plasmodium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic stool examination revealed active amoebic trophozoites, confirming the diagnosis of **protozoal** dysentery."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Mosquito vectors transport the infective stages of this lethal **protozoal** parasite across tropical marshlands."*

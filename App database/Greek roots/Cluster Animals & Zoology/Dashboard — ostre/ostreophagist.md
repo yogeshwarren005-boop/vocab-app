@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ostre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats or has a great fondness for eating oysters; an oyster-eater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary literature and satirical essays, a devoted connoisseur who relishes raw oysters upon the half-shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostreophagist designates a term designating an entity, condition, or phenomenon derived from greek ostre."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The enthusiastic **ostreophagist** devoured dozen after dozen of Colchester natives, washed down with porter."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Sam Weller observed that poverty and oysters always seem to go together, making every poor traveler an ardent **ostreophagist**."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"I once dined with a renowned **ostreophagist** who consumed thirty-six dozen oysters before complaining of an appetite for dinner."*

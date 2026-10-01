@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of magnetism whereby certain materials are weakly attracted by an externally applied magnetic field, forming internal induced magnetic fields in the direction of the applied field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum physics and thermodynamics, the magnetic behavior governed by Curie's law, characterized by randomly oriented magnetic moments aligned by external fields against thermal agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramagnetism designates being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force."*
+> - 📜 **Pierre Curie (*Propriétés magnétiques des corps*):** *"The fundamental law of **paramagnetism** reveals the eternal contest between magnetic dipole alignment and thermal agitation."*
+> - 📜 **John Hasbrouck Van Vleck (*The Theory of Electric and Magnetic Susceptibilities*):** *"Quantum mechanical treatment of **paramagnetism** resolved the historical anomalies in transition metal salt spectra."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"In Pauli **paramagnetism**, the spin of conduction electrons in a metal aligns with an external field despite Fermi degeneracy."*

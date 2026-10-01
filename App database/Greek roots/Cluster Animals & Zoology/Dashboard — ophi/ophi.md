@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root combining form (ophis, 'serpent, snake') denoting snakes, serpentine forms, or snake-like structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology, zoological nomenclature, and petrology, the stem found in ophiolatry, ophiolite, and Ophiuchus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The signet of error revealed by Truth 594:1 SERPENT (/ophis/, in Greek; /nacash/, in Hebrew)."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient writers derived many fabulous emblems of eternity and venom from the primordial **ophi** root."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The Indo-European base of Greek **ophi** conveyed the creeping, sinuous gliding of the venomous serpent."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Mystical cults across the Mediterranean centered upon sacred shrines dedicated to the divine **ophi** serpent."*

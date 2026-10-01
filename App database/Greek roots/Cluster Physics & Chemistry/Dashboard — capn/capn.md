@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek capn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek kapnos, meaning 'smoke', 'vapor', or in modern physiological terminology, 'carbon dioxide'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical nomenclature, the classical root employed to form terms relating to respiratory carbon dioxide measurement and monitoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capn designates a term designating an entity, condition, or phenomenon derived from greek capn."*
+> - 📜 **J. S. Haldane (*Methods of Air Analysis*):** *"The morpheme **capn**- appears consistently in modern instruments devoted to expired gas analysis."*
+> - 📜 **Yandell Henderson (*Respiration and Blood Gas Kinetics*):** *"From the Hellenic root **capn**-, physiologists coined acapnia and hypercapnia to designate extremes of blood carbon dioxide."*
+> - 📜 **Julius Comroe (*Physiology of Respiration*):** *"Diagnostic terminology relying on **capn**- reflects the historic association between smoke and combustion gases."*

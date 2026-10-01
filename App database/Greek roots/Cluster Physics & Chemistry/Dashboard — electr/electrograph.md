@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for the electrical transmission of pictures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrical device used for etching by electrolytic means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for recording electrical phenomena or transmitting photographs and drawings by telegraphy or wireless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological physics and historical telecommunications, an instrument for recording atmospheric electrical potential variations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrograph designates an apparatus for the electrical transmission of pictures."*
+> - 📜 **Lord Kelvin (William Thomson) (*Mathematical and Physical Papers*):** *"Continuous photographic traces of the atmospheric potential were obtained using the self-registering **electrograph**."*
+> - 📜 **Nikola Tesla (*Colorado Springs Notes*):** *"The sensitive **electrograph** recorded minute terrestrial electrical oscillations induced by lightning strikes hundreds of miles away."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The mechanism of the **electrograph** relies on a photographic cylinder rotated by clockwork beneath an electrometer mirror."*

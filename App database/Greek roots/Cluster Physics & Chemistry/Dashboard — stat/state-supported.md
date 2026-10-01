@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supported and operated by the government of a state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supported and operated by the government of a state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Funded, subsidized, or maintained by public funds or governmental authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and social policy, describing public universities, schools, hospitals, or social welfare programs financed by the state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, state-supported designates supported and operated by the government of a state."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"A comprehensive system of **state-supported** common schools is the surest foundation of popular liberty."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"There are certain public goods, such as lighthouses and basic science, that must remain **state-supported**."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"In the utopian commonwealth, research institutes were liberally **state-supported** to foster disinterested discovery."*

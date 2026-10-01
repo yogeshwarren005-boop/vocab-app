@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fleas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fleas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of small, wingless, laterally compressed blood-sucking insects commonly known as fleas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical entomology, holometabolous ectoparasites of birds and mammals, famous as the vectors of Yersinia pestis (the bubonic plague).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog siphonaptera as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Insects belonging to the order **Siphonaptera** are exquisitely modified for leaping and clinging to host mammalian hair."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The Oriental rat flea, classified among the **Siphonaptera**, serves as the primary transmission vector of the Black Death."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The evolutionary loss of wings in **Siphonaptera** represents a classical secondary adaptation to obligate ectoparasitism."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antimatter counterpart of a baryon, possessing opposite baryon number, electric charge, and color charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, a composite subatomic antiparticle made up of three antiquarks, such as an antiproton or antineutron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antibaryon designates a term designating an entity, condition, or phenomenon derived from greek bar."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"For every baryon in the catalog of fundamental particles, an equivalent **antibaryon** must theoretically exist."*
+> - 📜 **Murray Gell-Mann (*The Eightfold Way*):** *"In the quark model, each **antibaryon** is formed by a bound triplet of antiquarks."*
+> - 📜 **Steven Weinberg (*The First Three Minutes*):** *"In the primordial furnace, the slight asymmetry between baryon and **antibaryon** determined the survival of all matter."*

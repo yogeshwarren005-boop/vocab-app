@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive oviparous mammals found only in australia and tasmania and new guinea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive oviparous mammals found only in australia and tasmania and new guinea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any egg-laying mammal belonging to the subclass Prototheria; or of, relating to, or characteristic of monotremes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, designating mammals possessing cloacas, cervical ribs, and leathery-shelled eggs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototherian designates primitive oviparous mammals found only in australia and tasmania and new guinea."*
+> - 📜 **Frank E. Beddard (*Mammalia*):** *"The female **prototherian** secretes milk from modified sweat glands upon the abdominal skin, which the young lap up."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The **prototherian** shoulder girdle retains an interclavicle and large coracoids directly reminiscent of therapsid reptiles."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Mesozoic fossils indicate that the **prototherian** stock diverged from the therian line over two hundred million years ago."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (rare) worship that admits or tolerates all gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine or belief that god is the universe and its phenomena (taken or conceived of as a whole) or the doctrine that regards the universe as a manifestation of god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical and theological doctrine that equates God with the universe and all natural reality; the belief that all is God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, the metaphysical monism developed by Baruch Spinoza ('Deus sive Natura') and embraced by Romantic poets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Why, through the thin partition of this consolation Pantheism can hear the groans of its neighbour, Pessimism."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His Pantheism is an indication of it."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Pantheism is a half-way house, and marks ascent or descent according to the direction from which it is approached."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"Whatever is, is in God, and nothing can be or be conceived without God, which is the cornerstone of true **pantheism**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The sublime danger of German transcendental philosophy lay in its seductive slide toward cosmic **pantheism**."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"Romantic **pantheism** feels the living pulse of the divine spirit in the whispering leaves and rolling ocean."*

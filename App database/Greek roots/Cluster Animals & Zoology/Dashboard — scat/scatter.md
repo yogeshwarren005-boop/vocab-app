@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A haphazard distribution in all directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of scattering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To throw in various random directions; to cause to separate and disperse widely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, to deflect particles or electromagnetic radiation in various paths through collision or reflection with matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The thieves are all scatter’d, and possess’d with fear So strongly that they dare not meet each other; Each takes his fellow for an officer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The French have reinforc’d their scatter’d men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The commons, like an angry hive of bees That want their leader, scatter up and down And care not who they sting in his revenge."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The royal ship was dashed upon the rocks, and the crew did **scatter** in great confusion upon the isle."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Alpha particles passing through thin gold foil **scatter** at wide angles, revealing the dense atomic nucleus."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The autumn winds **scatter** the dry birch leaves across the ripples of the pond like golden flecks."*

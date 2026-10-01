@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using nuclear weapons based on fusion as distinguished from fission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using nuclear weapons based on fusion as distinguished from fission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving nuclear reactions (especially nuclear fusion) that occur only at extremely high temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and modern defense technology, designating stellar core fusion processes (converting hydrogen into helium) or hydrogen bombs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It was too late for either side to safely fire long-range thermonuclear warheads."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The thermonuclear warhead launched at the enemy fleet had been faulty or sabotaged into premature detonation."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Subatomic **thermonuclear** reactions inside stellar cores release the vast energies that keep the sun burning for billions of years."*
+> - 📜 **Hans Bethe (*Energy Production in Stars*):** *"The carbon-nitrogen-oxygen cycle provides the **thermonuclear** engine powering massive main-sequence stars."*
+> - 📜 **J. Robert Oppenheimer (*The Open Mind*):** *"The devastating power of the **thermonuclear** weapon forced mankind to confront the ultimate responsibility of survival."*

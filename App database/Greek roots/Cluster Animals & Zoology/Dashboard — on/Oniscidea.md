@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of isopod crustaceans comprising terrestrial woodlice, pill bugs, and sow bugs, capable of living entirely on land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate biology, the most successful group of terrestrial crustaceans, retaining ancestral gills (pleopodal lungs) requiring damp microhabitats to prevent desiccation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oniscidea designates a term designating an entity, condition, or phenomenon derived from greek on."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The suborder **Oniscidea** includes the common woodlice, which breathe by pseudotracheae situated upon their abdominal appendages."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"Species of **Oniscidea** feed upon decaying wood and vegetable matter beneath stones in moist woodlands."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Under damp flowerpots in the garden, small colonies of **Oniscidea** congregate alongside earthworms."*

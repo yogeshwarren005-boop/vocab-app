@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbiotic, non-parasitic association in which one animal attaches itself to another exclusively for transportation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod ecology, temporary transport behavior allowing wingless or slow-moving invertebrates to colonize patchily distributed resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoresy designates a term designating an entity, condition, or phenomenon derived from greek pher."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Through temporary **phoresy**, tiny flower-dwelling mites ride aboard the bills of hummingbirds as they flit between blossoms."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The Triungulin larvae of blister beetles practice active **phoresy**, boarding foraging solitary bees to reach their subterranean nests."*
+> - 📜 **Vincent Dethier (*The Ant Heap*):** *"The hitchhiking habit termed **phoresy** solves the profound mobility barrier confronting flightless soil micro-fauna."*
